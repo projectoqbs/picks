@@ -4,6 +4,8 @@ import sqlite3
 import requests
 from dotenv import load_dotenv
 
+from db import conectar, crear_tablas, guardar_partido
+
 load_dotenv()
 
 # --- CONFIG ---
@@ -18,8 +20,9 @@ BASE_URL = "https://api.football-data.org/v4"
 HEADERS = {"X-Auth-Token": API_TOKEN}
 REQUEST_TIMEOUT = 30  # segundos
 MAX_REINTENTOS_429 = 5
+FUENTE = "football-data"
 
-# Ligas top disponibles en el plan free
+# Ligas top europeas + Brasileirao, disponibles en el plan free de football-data.org
 COMPETITIONS = {
     "PL": "Premier League",
     "PD": "La Liga",
@@ -27,40 +30,13 @@ COMPETITIONS = {
     "BL1": "Bundesliga",
     "FL1": "Ligue 1",
     "CL": "Champions League",
+    "BSA": "Brasileirao (Serie A Brasil)",
 }
 
 # Temporadas a traer (año de inicio de temporada). 2023-2025 son temporadas
 # completas para entrenar el modelo Poisson/Dixon-Coles; 2026 es la temporada
 # en curso. Ajusta esta lista según lo que responda tu plan de la API.
 SEASONS = [2023, 2024, 2025, 2026]
-
-DB_PATH = "futbol.db"
-
-
-def crear_tablas(conn):
-    conn.execute("""
-        CREATE TABLE IF NOT EXISTS partidos (
-            id INTEGER PRIMARY KEY,
-            competicion_codigo TEXT,
-            competicion TEXT,
-            temporada TEXT,
-            fecha TEXT,
-            equipo_local TEXT,
-            equipo_visitante TEXT,
-            goles_local INTEGER,
-            goles_visitante INTEGER,
-            estado TEXT
-        )
-    """)
-    conn.execute("""
-        CREATE INDEX IF NOT EXISTS idx_partidos_liga_temporada
-        ON partidos (competicion_codigo, temporada)
-    """)
-    conn.execute("""
-        CREATE INDEX IF NOT EXISTS idx_partidos_equipos
-        ON partidos (equipo_local, equipo_visitante)
-    """)
-    conn.commit()
 
 
 def traer_partidos(codigo_liga, season=None, intento=1):
@@ -96,30 +72,26 @@ def traer_partidos(codigo_liga, season=None, intento=1):
 def guardar_partidos(conn, matches, codigo_liga, nombre_liga):
     if not matches:
         return
-    cur = conn.cursor()
     for m in matches:
-        cur.execute("""
-            INSERT OR REPLACE INTO partidos
-            (id, competicion_codigo, competicion, temporada, fecha, equipo_local, equipo_visitante,
-             goles_local, goles_visitante, estado)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-        """, (
-            m["id"],
-            codigo_liga,
-            nombre_liga,
-            str(m["season"]["startDate"])[:4],
-            m["utcDate"],
-            m["homeTeam"]["name"],
-            m["awayTeam"]["name"],
-            m["score"]["fullTime"]["home"],
-            m["score"]["fullTime"]["away"],
-            m["status"],
-        ))
+        guardar_partido(
+            conn,
+            id_partido=m["id"],
+            fuente=FUENTE,
+            competicion_codigo=codigo_liga,
+            competicion=nombre_liga,
+            temporada=str(m["season"]["startDate"])[:4],
+            fecha=m["utcDate"],
+            equipo_local=m["homeTeam"]["name"],
+            equipo_visitante=m["awayTeam"]["name"],
+            goles_local=m["score"]["fullTime"]["home"],
+            goles_visitante=m["score"]["fullTime"]["away"],
+            estado=m["status"],
+        )
     conn.commit()
 
 
 def main():
-    conn = sqlite3.connect(DB_PATH)
+    conn = conectar()
     crear_tablas(conn)
 
     for codigo, nombre in COMPETITIONS.items():
@@ -138,7 +110,7 @@ def main():
         print(f"  Total {nombre}: {total_liga} partidos.")
 
     conn.close()
-    print("Listo. Datos guardados en", DB_PATH)
+    print("Listo. Datos guardados en futbol.db")
 
 
 if __name__ == "__main__":
