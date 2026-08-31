@@ -113,8 +113,9 @@ def cargar_partidos(conn, liga, hasta=None, desde_temporada=None):
 
 
 class ModeloPoisson:
-    def __init__(self, dc=True, half_life_dias=HALF_LIFE_DIAS):
+    def __init__(self, dc=True, half_life_dias=HALF_LIFE_DIAS, prior_sd=PRIOR_SD):
         self.dc = dc
+        self.prior_sd = prior_sd
         self.xi = np.log(2) / half_life_dias
         self.liga = None
         self.equipos = []
@@ -181,7 +182,7 @@ class ModeloPoisson:
                 tau[m11] = 1 - rho
                 ll = ll + np.log(np.clip(tau, 1e-12, None))
             # -log prior gaussiano sobre fuerzas (identificabilidad + shrinkage)
-            pen = 0.5 * (atk @ atk + dfn @ dfn) / PRIOR_SD ** 2
+            pen = 0.5 * (atk @ atk + dfn @ dfn) / self.prior_sd ** 2
             return -(w * ll).sum() + pen
 
         p0 = np.zeros(2 + 2 * (n - 1) + 1)
@@ -309,14 +310,14 @@ class ModeloPoisson:
 
 
 def ajustar_liga(liga, conn=None, dc=True, half_life_dias=HALF_LIFE_DIAS,
-                 hasta=None, desde_temporada=None, verbose=False):
+                 prior_sd=PRIOR_SD, hasta=None, desde_temporada=None, verbose=False):
     propio = conn is None
     if propio:
         conn = conectar()
     try:
         filas = cargar_partidos(conn, liga, hasta=hasta,
                                 desde_temporada=desde_temporada)
-        m = ModeloPoisson(dc=dc, half_life_dias=half_life_dias)
+        m = ModeloPoisson(dc=dc, half_life_dias=half_life_dias, prior_sd=prior_sd)
         m.liga = liga
         m.ajustar(filas, verbose=verbose)
         return m
