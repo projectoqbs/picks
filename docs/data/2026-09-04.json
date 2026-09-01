@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-04",
- "actualizado": "2026-09-01T16:09:31+00:00",
+ "actualizado": "2026-09-01T20:05:29+00:00",
  "partidos": [
   {
    "id": 559699,
@@ -11,7 +11,7 @@
    "local": "Olympique Lyonnais",
    "visitante": "AJ Auxerre",
    "prediccion": {
-    "prob_1": 0.571,
+    "prob_1": 0.572,
     "prob_X": 0.236,
     "prob_2": 0.192,
     "goles_esperados": [
@@ -171,7 +171,7 @@
      "ataque": -0.059,
      "defensa": -0.113,
      "neto": -0.172,
-     "peso": 28.5,
+     "peso": 28.4,
      "fiable": true
     },
     "forma_local": {
@@ -362,19 +362,19 @@
    "local": "Real Betis Balompié",
    "visitante": "Real Madrid CF",
    "prediccion": {
-    "prob_1": 0.272,
+    "prob_1": 0.273,
     "prob_X": 0.235,
-    "prob_2": 0.493,
+    "prob_2": 0.492,
     "goles_esperados": [
-     1.229,
-     1.732
+     1.226,
+     1.725
     ],
-    "prob_over_2_5": 0.568,
-    "prob_btts": 0.581,
+    "prob_over_2_5": 0.566,
+    "prob_btts": 0.58,
     "marcadores": [
      [
       "1-1",
-      0.1095
+      0.1098
      ],
      [
       "1-2",
@@ -382,7 +382,7 @@
      ],
      [
       "0-1",
-      0.0904
+      0.091
      ]
     ],
     "cuotas_justas": [
@@ -390,22 +390,22 @@
      4.25,
      2.03
     ],
-    "resumen": "Gana Real Madrid CF (ligero favorito, 49%). ambos marcan.",
+    "resumen": "Gana Real Madrid CF (ligero favorito, 49%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.203,
-     "defensa": 0.067,
-     "neto": 0.27,
+     "ataque": 0.201,
+     "defensa": 0.069,
+     "neto": 0.271,
      "peso": 46.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.531,
-     "defensa": 0.38,
-     "neto": 0.911,
-     "peso": 46.0,
+     "ataque": 0.529,
+     "defensa": 0.383,
+     "neto": 0.912,
+     "peso": 45.9,
      "fiable": true
     },
     "forma_local": {
@@ -487,18 +487,18 @@
    "visitante": "Liverpool FC",
    "prediccion": {
     "prob_1": 0.13,
-    "prob_X": 0.172,
+    "prob_X": 0.171,
     "prob_2": 0.699,
     "goles_esperados": [
-     1.127,
-     2.69
+     1.128,
+     2.692
     ],
     "prob_over_2_5": 0.734,
     "prob_btts": 0.636,
     "marcadores": [
      [
       "1-2",
-      0.0897
+      0.0896
      ],
      [
       "1-3",
@@ -506,12 +506,12 @@
      ],
      [
       "0-2",
-      0.0796
+      0.0794
      ]
     ],
     "cuotas_justas": [
-     7.72,
-     5.82,
+     7.7,
+     5.84,
      1.43
     ],
     "resumen": "Gana Liverpool FC (claro favorito, 70%). se esperan goles (+2.5). ambos marcan.",
@@ -519,17 +519,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.165,
-     "defensa": -0.412,
-     "neto": -0.577,
+     "ataque": -0.164,
+     "defensa": -0.414,
+     "neto": -0.578,
      "peso": 14.2,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.362,
-     "defensa": 0.109,
-     "neto": 0.471,
-     "peso": 44.8,
+     "ataque": 0.363,
+     "defensa": 0.107,
+     "neto": 0.47,
+     "peso": 44.7,
      "fiable": true
     },
     "forma_local": {
@@ -605,7 +605,7 @@
      ],
      [
       "1-1",
-      0.083
+      0.0829
      ],
      [
       "2-0",

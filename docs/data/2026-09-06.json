@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-06",
- "actualizado": "2026-09-01T16:09:31+00:00",
+ "actualizado": "2026-09-01T20:05:29+00:00",
  "partidos": [
   {
    "id": 559700,
@@ -46,7 +46,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.103,
-     "defensa": 0.339,
+     "defensa": 0.34,
      "neto": 0.237,
      "peso": 2.0,
      "fiable": false
@@ -289,49 +289,49 @@
    "visitante": "Manchester United FC",
    "prediccion": {
     "prob_1": 0.357,
-    "prob_X": 0.29,
+    "prob_X": 0.289,
     "prob_2": 0.353,
     "goles_esperados": [
-     1.273,
-     1.264
+     1.275,
+     1.266
     ],
-    "prob_over_2_5": 0.466,
+    "prob_over_2_5": 0.467,
     "prob_btts": 0.528,
     "marcadores": [
      [
       "1-1",
-      0.1387
+      0.1381
      ],
      [
       "0-0",
-      0.0905
+      0.0898
      ],
      [
       "1-0",
-      0.0893
+      0.0895
      ]
     ],
     "cuotas_justas": [
      2.8,
-     3.44,
-     2.84
+     3.46,
+     2.83
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.094,
-     "defensa": 0.182,
-     "neto": 0.089,
-     "peso": 44.8,
+     "ataque": -0.093,
+     "defensa": 0.181,
+     "neto": 0.088,
+     "peso": 44.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.202,
-     "defensa": 0.058,
-     "neto": 0.26,
-     "peso": 44.8,
+     "ataque": 0.203,
+     "defensa": 0.056,
+     "neto": 0.259,
+     "peso": 44.7,
      "fiable": true
     },
     "forma_local": {
@@ -424,7 +424,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1406
+      0.1405
      ],
      [
       "0-0",
@@ -515,32 +515,32 @@
    "local": "Valencia CF",
    "visitante": "FC Barcelona",
    "prediccion": {
-    "prob_1": 0.168,
-    "prob_X": 0.199,
-    "prob_2": 0.632,
+    "prob_1": 0.17,
+    "prob_X": 0.197,
+    "prob_2": 0.634,
     "goles_esperados": [
-     0.997,
-     2.123
+     1.024,
+     2.162
     ],
-    "prob_over_2_5": 0.603,
-    "prob_btts": 0.555,
+    "prob_over_2_5": 0.617,
+    "prob_btts": 0.566,
     "marcadores": [
      [
-      "0-2",
-      0.0995
-     ],
-     [
       "1-2",
-      0.0992
+      0.0989
      ],
      [
-      "0-1",
-      0.0944
+      "0-2",
+      0.0966
+     ],
+     [
+      "1-1",
+      0.0909
      ]
     ],
     "cuotas_justas": [
-     5.94,
-     5.02,
+     5.9,
+     5.09,
      1.58
     ],
     "resumen": "Gana FC Barcelona (claro favorito, 63%). se esperan goles (+2.5).",
@@ -548,17 +548,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.053,
-     "defensa": 0.027,
+     "ataque": -0.055,
+     "defensa": 0.029,
      "neto": -0.026,
-     "peso": 46.1,
+     "peso": 46.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.694,
-     "defensa": 0.333,
-     "neto": 1.027,
-     "peso": 45.0,
+     "ataque": 0.714,
+     "defensa": 0.306,
+     "neto": 1.02,
+     "peso": 45.9,
      "fiable": true
     },
     "forma_local": {
@@ -578,15 +578,15 @@
     },
     "forma_visitante": {
      "pj": 5,
-     "g": 3,
+     "g": 4,
      "e": 0,
-     "p": 2,
-     "gf": 11,
-     "gc": 5,
+     "p": 1,
+     "gf": 16,
+     "gc": 6,
      "racha": [
-      "P",
       "G",
       "P",
+      "G",
       "G",
       "G"
      ]
@@ -791,7 +791,7 @@
     "fuerza_local": {
      "ataque": 0.208,
      "defensa": -0.047,
-     "neto": 0.162,
+     "neto": 0.161,
      "peso": 39.5,
      "fiable": true
     },
@@ -880,50 +880,50 @@
    "local": "Arsenal FC",
    "visitante": "Chelsea FC",
    "prediccion": {
-    "prob_1": 0.633,
+    "prob_1": 0.636,
     "prob_X": 0.224,
-    "prob_2": 0.143,
+    "prob_2": 0.14,
     "goles_esperados": [
-     2.007,
-     0.857
+     1.993,
+     0.836
     ],
-    "prob_over_2_5": 0.546,
-    "prob_btts": 0.507,
+    "prob_over_2_5": 0.537,
+    "prob_btts": 0.498,
     "marcadores": [
      [
       "2-0",
-      0.1149
+      0.1174
+     ],
+     [
+      "1-0",
+      0.1093
      ],
      [
       "1-1",
       0.1069
-     ],
-     [
-      "1-0",
-      0.1057
      ]
     ],
     "cuotas_justas": [
-     1.58,
+     1.57,
      4.47,
-     6.99
+     7.12
     ],
-    "resumen": "Gana Arsenal FC (claro favorito, 63%).",
+    "resumen": "Gana Arsenal FC (claro favorito, 64%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.347,
-     "defensa": 0.611,
-     "neto": 0.958,
-     "peso": 43.7,
+     "ataque": 0.34,
+     "defensa": 0.636,
+     "neto": 0.976,
+     "peso": 44.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.242,
-     "defensa": 0.044,
+     "ataque": 0.243,
+     "defensa": 0.042,
      "neto": 0.285,
-     "peso": 44.8,
+     "peso": 44.7,
      "fiable": true
     },
     "forma_local": {
@@ -931,7 +931,7 @@
      "g": 5,
      "e": 0,
      "p": 0,
-     "gf": 10,
+     "gf": 8,
      "gc": 1,
      "racha": [
       "G",
@@ -1122,26 +1122,26 @@
    "visitante": "CA Osasuna",
    "prediccion": {
     "prob_1": 0.431,
-    "prob_X": 0.279,
+    "prob_X": 0.28,
     "prob_2": 0.29,
     "goles_esperados": [
-     1.286,
-     1.001
+     1.282,
+     0.997
     ],
-    "prob_over_2_5": 0.4,
-    "prob_btts": 0.457,
+    "prob_over_2_5": 0.398,
+    "prob_btts": 0.455,
     "marcadores": [
      [
       "1-0",
-      0.1316
+      0.1322
      ],
      [
       "1-1",
-      0.1299
+      0.13
      ],
      [
       "0-1",
-      0.1025
+      0.103
      ]
     ],
     "cuotas_justas": [
@@ -1154,16 +1154,16 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.056,
-     "defensa": 0.066,
-     "neto": 0.009,
-     "peso": 46.0,
+     "ataque": -0.059,
+     "defensa": 0.069,
+     "neto": 0.01,
+     "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.019,
-     "defensa": 0.075,
-     "neto": 0.056,
+     "ataque": -0.021,
+     "defensa": 0.078,
+     "neto": 0.057,
      "peso": 46.0,
      "fiable": true
     },
@@ -1249,10 +1249,10 @@
     "prob_X": 0.267,
     "prob_2": 0.425,
     "goles_esperados": [
-     1.118,
-     1.364
+     1.117,
+     1.363
     ],
-    "prob_over_2_5": 0.452,
+    "prob_over_2_5": 0.451,
     "prob_btts": 0.5,
     "marcadores": [
      [
@@ -1261,11 +1261,11 @@
      ],
      [
       "0-1",
-      0.1149
+      0.115
      ],
      [
       "1-0",
-      0.0943
+      0.0944
      ]
     ],
     "cuotas_justas": [
@@ -1279,16 +1279,16 @@
    "nota": "pocos datos: 'Málaga CF' solo tiene 3.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.379,
+     "ataque": -0.38,
      "defensa": -0.142,
      "neto": -0.522,
      "peso": 3.0,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.083,
-     "defensa": -0.108,
-     "neto": -0.025,
+     "ataque": 0.081,
+     "defensa": -0.105,
+     "neto": -0.024,
      "peso": 27.7,
      "fiable": true
     },
@@ -1368,14 +1368,14 @@
      "ataque": 0.319,
      "defensa": 0.079,
      "neto": 0.398,
-     "peso": 40.2,
+     "peso": 40.1,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.072,
+     "ataque": 0.073,
      "defensa": 0.106,
      "neto": 0.178,
-     "peso": 23.8,
+     "peso": 23.7,
      "fiable": true
     },
     "forma_local": {
@@ -1478,7 +1478,7 @@
      "ataque": 0.278,
      "defensa": 0.181,
      "neto": 0.459,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "forma_local": {
@@ -1563,45 +1563,45 @@
     "prob_X": 0.257,
     "prob_2": 0.278,
     "goles_esperados": [
-     1.492,
-     1.093
+     1.488,
+     1.088
     ],
-    "prob_over_2_5": 0.478,
-    "prob_btts": 0.514,
+    "prob_over_2_5": 0.476,
+    "prob_btts": 0.513,
     "marcadores": [
      [
       "1-1",
-      0.1221
+      0.1223
      ],
      [
       "1-0",
-      0.1133
+      0.114
      ],
      [
       "2-1",
-      0.0917
+      0.0916
      ]
     ],
     "cuotas_justas": [
      2.15,
      3.89,
-     3.59
+     3.6
     ],
     "resumen": "Gana RCD Espanyol de Barcelona (ligero favorito, 46%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.055,
-     "defensa": 0.018,
-     "neto": -0.037,
+     "ataque": -0.057,
+     "defensa": 0.021,
+     "neto": -0.036,
      "peso": 39.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.022,
-     "defensa": -0.072,
-     "neto": -0.051,
+     "ataque": 0.019,
+     "defensa": -0.069,
+     "neto": -0.05,
      "peso": 46.0,
      "fiable": true
     },
