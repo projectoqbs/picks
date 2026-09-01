@@ -138,6 +138,11 @@ class ModeloPoisson:
         self.dc = dc
         self.prior_sd = prior_sd
         self.temperatura = temperatura     # >1 suaviza probabilidades (menos confianza)
+        # factores que multiplican lambda al predecir. Los usa el modelo de
+        # tiros: ajusta sobre tiros a puerta y luego escala a goles con la
+        # tasa de conversion. 1.0 = sin efecto (modelo de goles normal).
+        self.escala_local = 1.0
+        self.escala_visita = 1.0
         self.xi = np.log(2) / half_life_dias
         self.liga = None
         self.equipos = []
@@ -239,8 +244,8 @@ class ModeloPoisson:
         self._chequear(local, visitante)
         c, vloc, atk, dfn, _ = self.params_
         i, j = self.idx[local], self.idx[visitante]
-        lh = float(np.exp(c + vloc + atk[i] - dfn[j]))
-        la = float(np.exp(c + atk[j] - dfn[i]))
+        lh = float(np.exp(c + vloc + atk[i] - dfn[j])) * self.escala_local
+        la = float(np.exp(c + atk[j] - dfn[i])) * self.escala_visita
         return lh, la
 
     def matriz_marcadores(self, local, visitante, max_goles=MAX_GOLES):
