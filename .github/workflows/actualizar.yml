@@ -1,9 +1,10 @@
+# Pipeline: baja fixtures/resultados y regenera las predicciones de la app.
 name: actualizar predicciones
 
 on:
   schedule:
     - cron: "0 6,14 * * *"   # 06:00 y 14:00 UTC
-  workflow_dispatch:            # ejecucion manual desde la pestaña Actions
+  workflow_dispatch: {}         # ejecucion manual desde la pestaña Actions
 
 permissions:
   contents: write
