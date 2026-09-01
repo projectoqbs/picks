@@ -36,7 +36,8 @@ from datetime import datetime, timedelta, timezone
 import numpy as np
 
 from modelo import (conectar, cargar_partidos, ligas_disponibles,
-                    ModeloPoisson, _parse_fecha, HALF_LIFE_DIAS, PRIOR_SD)
+                    ModeloPoisson, temperatura_optima, _parse_fecha,
+                    HALF_LIFE_DIAS, PRIOR_SD)
 
 DESDE_DEFECTO = "2024-08-01"     # inicio de la ventana de test
 MIN_TRAIN = 150                  # partidos previos minimos para evaluar
@@ -102,7 +103,7 @@ def _calibracion(p_local, y_local, bins=10):
 
 def backtest_liga(conn, liga, desde=DESDE_DEFECTO, reajuste_dias=REAJUSTE_DIAS,
                   half_life=HALF_LIFE_DIAS, prior_sd=PRIOR_SD, dc=True,
-                  min_train=MIN_TRAIN, verbose=True):
+                  min_train=MIN_TRAIN, calibra_frac=0.0, verbose=True):
     filas = cargar_partidos(conn, liga)
     fechas = [_parse_fecha(f[0]) for f in filas]
     desde_dt = _a_dt(desde)
@@ -151,7 +152,26 @@ def backtest_liga(conn, liga, desde=DESDE_DEFECTO, reajuste_dias=REAJUSTE_DIAS,
         pov.append(po);  yov.append(1 if (gl + gv) >= 3 else 0)
         p_loc.append(p[0]);  y_loc.append(1 if k == 0 else 0)
 
+    P1x2 = np.array(P1x2)
     K1x2 = np.array(K1x2)
+    pov = np.array(pov); yov = np.array(yov)
+
+    temp = 1.0
+    logloss_sin_cal = None
+    if calibra_frac > 0.0:
+        corte_cal = int(len(K1x2) * calibra_frac)
+        temp = temperatura_optima(P1x2[:corte_cal], K1x2[:corte_cal])
+        # evaluar solo la porcion posterior (fuera de la muestra de calibracion)
+        P1x2 = P1x2[corte_cal:]; K1x2 = K1x2[corte_cal:]
+        pov = pov[corte_cal:]; yov = yov[corte_cal:]
+        p_loc = p_loc[corte_cal:]; y_loc = y_loc[corte_cal:]
+        logloss_sin_cal = _metricas(P1x2, K1x2)["logloss"]   # misma ventana, sin T
+        Q = P1x2 ** (1.0 / temp); Q /= Q.sum(axis=1, keepdims=True)
+        P1x2 = Q
+        o2 = np.clip(pov, 1e-9, 1 - 1e-9)
+        pov = o2 ** (1 / temp) / (o2 ** (1 / temp) + (1 - o2) ** (1 / temp))
+        p_loc = [P1x2[i, 0] for i in range(len(P1x2))]
+
     m = _metricas(P1x2, K1x2)
     base = _metricas(np.tile(base_1x2, (len(K1x2), 1)), K1x2)  # baseline ultimo train
     mov = _metricas_binarias(pov, yov)
@@ -159,7 +179,8 @@ def backtest_liga(conn, liga, desde=DESDE_DEFECTO, reajuste_dias=REAJUSTE_DIAS,
 
     res = {
         "liga": liga, "config": dict(half_life=half_life, prior_sd=prior_sd, dc=dc),
-        "n_test": m["n"], "n_fallback": n_fallback,
+        "n_test": m["n"], "n_fallback": n_fallback, "temperatura": round(temp, 2),
+        "logloss_sin_calibrar": logloss_sin_cal,
         "logloss": m["logloss"], "brier": m["brier"], "rps": m["rps"],
         "acierto": m["acierto"],
         "logloss_baseline": base["logloss"], "rps_baseline": base["rps"],
@@ -177,6 +198,9 @@ def _imprimir(r):
     print(f"\n== {r['liga']}  (half_life={c['half_life']} prior_sd={c['prior_sd']} "
           f"dc={c['dc']}) ==")
     print(f"  partidos test .......: {r['n_test']}  (fallback base: {r['n_fallback']})")
+    if r.get("logloss_sin_calibrar") is not None:
+        print(f"  temperatura calibrada : {r['temperatura']}  (misma ventana)")
+        print(f"  log-loss SIN calibrar : {r['logloss_sin_calibrar']:.4f}")
     print(f"  log-loss 1X2 ........: {r['logloss']:.4f}   baseline: {r['logloss_baseline']:.4f}")
     print(f"  RPS 1X2 ............: {r['rps']:.4f}   baseline: {r['rps_baseline']:.4f}")
     print(f"  Brier 1X2 ..........: {r['brier']:.4f}")
@@ -222,11 +246,20 @@ def _cli():
         desde = args[i + 1]
         del args[i:i + 2]
 
+    calibra_frac = 0.0
+    if "--calibrar" in args:
+        i = args.index("--calibrar")
+        sig = args[i + 1] if i + 1 < len(args) else ""
+        try:
+            calibra_frac = float(sig); args = args[:i] + args[i + 2:]
+        except ValueError:
+            calibra_frac = 0.35; del args[i]
+
     conn = conectar()
     if args[0] == "--todas":
         for liga in ligas_disponibles(conn):
             try:
-                backtest_liga(conn, liga, desde=desde)
+                backtest_liga(conn, liga, desde=desde, calibra_frac=calibra_frac)
             except SystemExit as e:
                 print(f"\n== {liga} ==\n  {e}")
         conn.close()
@@ -236,7 +269,7 @@ def _cli():
     if "--sweep" in args:
         _sweep(conn, liga, desde)
     else:
-        r = backtest_liga(conn, liga, desde=desde)
+        r = backtest_liga(conn, liga, desde=desde, calibra_frac=calibra_frac)
         print("\n  Calibracion victoria local (pred -> obs):")
         for lo, hi, n, conf, obs in r["_calibracion"]:
             print(f"    [{lo:.1f},{hi:.1f})  n={n:>4}  pred={conf:.3f}  obs={obs:.3f}")

@@ -112,10 +112,32 @@ def cargar_partidos(conn, liga, hasta=None, desde_temporada=None):
     return filas
 
 
+def temperatura_optima(P, y, grid=None):
+    """T que minimiza log-loss al aplicar p -> p**(1/T) renormalizado.
+
+    P: (n,k) probabilidades; y: (n,) indice de la clase real. T>1 suaviza
+    (corrige exceso de confianza), T<1 agudiza."""
+    P = np.clip(np.asarray(P, dtype=float), 1e-12, 1.0)
+    y = np.asarray(y)
+    idx = np.arange(len(y))
+    if grid is None:
+        grid = np.concatenate([np.linspace(0.5, 1.0, 11), np.linspace(1.05, 3.0, 40)])
+    mejor_T, mejor_ll = 1.0, np.inf
+    for T in grid:
+        Q = P ** (1.0 / T)
+        Q /= Q.sum(axis=1, keepdims=True)
+        ll = -np.mean(np.log(np.clip(Q[idx, y], 1e-12, 1.0)))
+        if ll < mejor_ll:
+            mejor_ll, mejor_T = ll, float(T)
+    return mejor_T
+
+
 class ModeloPoisson:
-    def __init__(self, dc=True, half_life_dias=HALF_LIFE_DIAS, prior_sd=PRIOR_SD):
+    def __init__(self, dc=True, half_life_dias=HALF_LIFE_DIAS, prior_sd=PRIOR_SD,
+                 temperatura=1.0):
         self.dc = dc
         self.prior_sd = prior_sd
+        self.temperatura = temperatura     # >1 suaviza probabilidades (menos confianza)
         self.xi = np.log(2) / half_life_dias
         self.liga = None
         self.equipos = []
@@ -248,6 +270,17 @@ class ModeloPoisson:
         p_over = float(M[total >= 3].sum())
         p_btts = float(M[1:, 1:].sum())
 
+        # calibracion: suaviza (o agudiza) las probabilidades sin tocar el
+        # orden. T=1 no hace nada; T>1 baja la confianza del modelo.
+        T = self.temperatura
+        if T != 1.0:
+            v = np.array([p1, px, p2]) ** (1.0 / T)
+            p1, px, p2 = (v / v.sum()).tolist()
+            o = np.array([p_over, 1 - p_over]) ** (1.0 / T)
+            p_over = float(o[0] / o.sum())
+            b = np.array([p_btts, 1 - p_btts]) ** (1.0 / T)
+            p_btts = float(b[0] / b.sum())
+
         planos = sorted(
             (((a, b), M[a, b]) for a in range(n) for b in range(n)),
             key=lambda t: t[1], reverse=True,
@@ -310,14 +343,16 @@ class ModeloPoisson:
 
 
 def ajustar_liga(liga, conn=None, dc=True, half_life_dias=HALF_LIFE_DIAS,
-                 prior_sd=PRIOR_SD, hasta=None, desde_temporada=None, verbose=False):
+                 prior_sd=PRIOR_SD, temperatura=1.0, hasta=None,
+                 desde_temporada=None, verbose=False):
     propio = conn is None
     if propio:
         conn = conectar()
     try:
         filas = cargar_partidos(conn, liga, hasta=hasta,
                                 desde_temporada=desde_temporada)
-        m = ModeloPoisson(dc=dc, half_life_dias=half_life_dias, prior_sd=prior_sd)
+        m = ModeloPoisson(dc=dc, half_life_dias=half_life_dias, prior_sd=prior_sd,
+                          temperatura=temperatura)
         m.liga = liga
         m.ajustar(filas, verbose=verbose)
         return m
