@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-06",
- "actualizado": "2026-09-01T22:53:10+00:00",
+ "actualizado": "2026-09-01T22:55:08+00:00",
  "partidos": [
   {
    "id": 559700,
@@ -474,7 +474,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.91,
+     2.9,
      3.37,
      2.79
     ],
@@ -963,8 +963,8 @@
     "prob_X": 0.224,
     "prob_2": 0.14,
     "goles_esperados": [
-     1.993,
-     0.836
+     1.994,
+     0.835
     ],
     "prob_over_2_5": 0.537,
     "prob_btts": 0.498,
@@ -985,7 +985,7 @@
     "cuotas_justas": [
      1.57,
      4.47,
-     7.12
+     7.13
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 64%).",
     "confianza": "alta"
@@ -999,7 +999,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.243,
+     "ataque": 0.242,
      "defensa": 0.042,
      "neto": 0.285,
      "peso": 44.7,
@@ -1072,7 +1072,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Arsenal FC es más fuerte de fondo (neto +0.98 vs +0.28): ataca ~40% más que el promedio, encaja ~47% menos. Arsenal FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.99 – 0.84; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (5G-0E-0P vs 3G-1E-1P).",
+    "explicacion": "Arsenal FC es más fuerte de fondo (neto +0.98 vs +0.28): ataca ~40% más que el promedio, encaja ~47% menos. Arsenal FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.99 – 0.83; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (5G-0E-0P vs 3G-1E-1P).",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.86,
@@ -1358,7 +1358,7 @@
      1.118,
      1.364
     ],
-    "prob_over_2_5": 0.451,
+    "prob_over_2_5": 0.452,
     "prob_btts": 0.5,
     "marcadores": [
      [
@@ -1371,7 +1371,7 @@
      ],
      [
       "1-0",
-      0.0944
+      0.0943
      ]
     ],
     "cuotas_justas": [
@@ -1386,8 +1386,8 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.379,
-     "defensa": -0.142,
-     "neto": -0.521,
+     "defensa": -0.143,
+     "neto": -0.522,
      "peso": 3.0,
      "fiable": false
     },
@@ -1488,7 +1488,7 @@
     "fuerza_visitante": {
      "ataque": 0.073,
      "defensa": 0.106,
-     "neto": 0.178,
+     "neto": 0.179,
      "peso": 23.7,
      "fiable": true
     },

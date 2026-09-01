@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-10",
- "actualizado": "2026-09-01T22:53:10+00:00",
+ "actualizado": "2026-09-01T22:55:08+00:00",
  "partidos": [
   {
    "id": 575335,
@@ -166,7 +166,7 @@
     "fuerza_local": {
      "ataque": 0.615,
      "defensa": 0.33,
-     "neto": 0.946,
+     "neto": 0.945,
      "peso": 15.7,
      "fiable": true
     },
@@ -208,7 +208,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "FC Bayern München es más fuerte de fondo (neto +0.95 vs +0.27): ataca ~85% más que el promedio, encaja ~28% menos. FC Bayern München juega en casa (~+32% de ventaja, ya contada). Goles esperados: 3.29 – 1.26; el modelo ve marcando más a FC Bayern München. Pero ojo: en forma reciente FK Bodø/Glimt llega mejor que FC Bayern München, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de FK Bodø/Glimt: tomalo con pinzas.",
+    "explicacion": "FC Bayern München es más fuerte de fondo (neto +0.94 vs +0.27): ataca ~85% más que el promedio, encaja ~28% menos. FC Bayern München juega en casa (~+32% de ventaja, ya contada). Goles esperados: 3.29 – 1.26; el modelo ve marcando más a FC Bayern München. Pero ojo: en forma reciente FK Bodø/Glimt llega mejor que FC Bayern München, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de FK Bodø/Glimt: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.832,
@@ -264,11 +264,11 @@
     "marcadores": [
      [
       "1-1",
-      0.1157
+      0.1158
      ],
      [
       "0-1",
-      0.1109
+      0.1108
      ],
      [
       "1-2",

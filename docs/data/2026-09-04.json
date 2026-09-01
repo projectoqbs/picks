@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-04",
- "actualizado": "2026-09-01T22:53:10+00:00",
+ "actualizado": "2026-09-01T22:55:08+00:00",
  "partidos": [
   {
    "id": 559699,
@@ -428,7 +428,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.202,
+     "ataque": 0.201,
      "defensa": 0.07,
      "neto": 0.271,
      "peso": 46.0,
@@ -511,7 +511,7 @@
     "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.91 vs +0.27): ataca ~70% más que el promedio, encaja ~32% menos. Real Betis Balompié juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.23 – 1.73; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (5G-0E-0P vs 3G-0E-2P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.727,
+     "prob": 0.728,
      "por_que": "Doble oportunidad: cubre que Real Betis Balompié no gane. El escenario que queda afuera (gane Real Betis Balompié) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -535,7 +535,7 @@
     "prob_2": 0.699,
     "goles_esperados": [
      1.128,
-     2.693
+     2.692
     ],
     "prob_over_2_5": 0.734,
     "prob_btts": 0.636,
@@ -550,11 +550,11 @@
      ],
      [
       "0-2",
-      0.0794
+      0.0795
      ]
     ],
     "cuotas_justas": [
-     7.7,
+     7.71,
      5.84,
      1.43
     ],
@@ -564,8 +564,8 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.164,
-     "defensa": -0.414,
-     "neto": -0.577,
+     "defensa": -0.413,
+     "neto": -0.578,
      "peso": 14.2,
      "fiable": true
     },
