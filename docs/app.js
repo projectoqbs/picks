@@ -208,6 +208,22 @@ function bloqueFuerza(local, visitante, fl, fv) {
   </div>`;
 }
 
+function bloqueReco(r) {
+  if (!r) return '';
+  const conf = r.confianza === 'baja'
+    ? '<span class="reco-conf">datos limitados</span>' : '';
+  const alt = r.alternativa
+    ? `<div class="reco-alt">Alternativa más segura: <b>${r.alternativa.mercado}</b> (${pct(r.alternativa.prob)})</div>`
+    : '';
+  return `<div class="reco">
+    <div class="reco-top"><span class="reco-lbl">Lo que el modelo ve más claro</span>${conf}</div>
+    <div class="reco-mkt">${r.mercado} · <b>${pct(r.prob)}</b></div>
+    <p class="reco-why">${r.por_que}</p>
+    ${alt}
+    <div class="reco-nota">No es un consejo de valor: es la lectura estadística más firme. Vos decidís.</div>
+  </div>`;
+}
+
 function bloqueH2H(h2h) {
   if (!h2h || !h2h.length) return '';
   const filas = h2h.map((m) => `
@@ -256,6 +272,7 @@ function tarjeta(p) {
     </div>
     <div class="resumen">${pr.resumen}</div>
     <div class="detalle">
+      ${bloqueReco(an.recomendacion)}
       ${an.explicacion ? `<p class="explica">${an.explicacion}</p>` : ''}
       <div class="grid">
         <div><div class="k">Goles esperados</div>${g1.toFixed(2)} – ${g2.toFixed(2)}</div>

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-08",
- "actualizado": "2026-09-01T20:48:06+00:00",
+ "actualizado": "2026-09-01T22:51:16+00:00",
  "partidos": [
   {
    "id": 575323,
@@ -13,7 +13,7 @@
    "prediccion": {
     "prob_1": 0.305,
     "prob_X": 0.22,
-    "prob_2": 0.475,
+    "prob_2": 0.474,
     "goles_esperados": [
      1.418,
      1.818
@@ -111,7 +111,17 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Aston Villa FC es más fuerte de fondo (neto +0.58 vs +0.05): ataca ~26% más que el promedio, encaja ~30% menos. Club Brugge KV juega en casa (~+32% de ventaja, ya contada). Goles esperados: 1.42 – 1.82; el modelo ve marcando más a Aston Villa FC. Y la forma reciente lo confirma: Aston Villa FC llega mejor (4G-0E-1P vs 2G-1E-2P). El modelo tiene pocos datos de Aston Villa FC: tomalo con pinzas."
+    "explicacion": "Aston Villa FC es más fuerte de fondo (neto +0.58 vs +0.05): ataca ~26% más que el promedio, encaja ~30% menos. Club Brugge KV juega en casa (~+32% de ventaja, ya contada). Goles esperados: 1.42 – 1.82; el modelo ve marcando más a Aston Villa FC. Y la forma reciente lo confirma: Aston Villa FC llega mejor (4G-0E-1P vs 2G-1E-2P). El modelo tiene pocos datos de Aston Villa FC: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.695,
+     "por_que": "Doble oportunidad: cubre que Club Brugge KV no gane. El escenario que queda afuera (gane Club Brugge KV) es el menos probable (31%), así que el mercado se cumple ~69% de las veces.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.83
+     },
+     "confianza": "baja"
+    }
    }
   },
   {
@@ -211,7 +221,17 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.65 vs +0.43): ataca ~69% más que el promedio, encaja ~12% menos. Real Madrid CF juega en casa (~+32% de ventaja, ya contada). Goles esperados: 2.09 – 1.28; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (3G-0E-2P vs 1G-0E-4P)."
+    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.65 vs +0.43): ataca ~69% más que el promedio, encaja ~12% menos. Real Madrid CF juega en casa (~+32% de ventaja, ya contada). Goles esperados: 2.09 – 1.28; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (3G-0E-2P vs 1G-0E-4P).",
+    "recomendacion": {
+     "mercado": "Más de 2.5 goles",
+     "prob": 0.655,
+     "por_que": "Bastantes goles esperados (2.09 + 1.28 = 3.37). Probabilidad al over: 65%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.846
+     },
+     "confianza": "alta"
+    }
    }
   },
   {
@@ -227,7 +247,7 @@
     "prob_X": 0.209,
     "prob_2": 0.296,
     "goles_esperados": [
-     1.992,
+     1.993,
      1.503
     ],
     "prob_over_2_5": 0.678,
@@ -301,7 +321,17 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.29 vs +0.28). FC Porto juega en casa (~+32% de ventaja, ya contada). Goles esperados: 1.99 – 1.50; el modelo ve marcando más a FC Porto. En forma reciente pinta algo mejor FC Porto (3G-0E-2P vs 2G-0E-3P en 5). El modelo tiene pocos datos de FC Porto: tomalo con pinzas."
+    "explicacion": "En fuerza de temporada están parejos (neto +0.29 vs +0.28). FC Porto juega en casa (~+32% de ventaja, ya contada). Goles esperados: 1.99 – 1.50; el modelo ve marcando más a FC Porto. En forma reciente pinta algo mejor FC Porto (3G-0E-2P vs 2G-0E-3P en 5). El modelo tiene pocos datos de FC Porto: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "Más de 2.5 goles",
+     "prob": 0.678,
+     "por_que": "Bastantes goles esperados (1.99 + 1.50 = 3.50). Probabilidad al over: 68%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.86
+     },
+     "confianza": "baja"
+    }
    }
   },
   {
@@ -329,7 +359,7 @@
      ],
      [
       "2-0",
-      0.1104
+      0.1103
      ],
      [
       "4-0",
@@ -399,7 +429,17 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.39 vs -0.83): ataca ~32% más que el promedio, encaja ~11% menos. Borussia Dortmund juega en casa (~+32% de ventaja, ya contada). Goles esperados: 3.07 – 0.68; el modelo ve marcando más a Borussia Dortmund. Y la forma reciente lo confirma: Borussia Dortmund llega mejor (1G-1E-3P vs 0G-0E-5P). El modelo tiene pocos datos de Villarreal CF: tomalo con pinzas."
+    "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.39 vs -0.83): ataca ~32% más que el promedio, encaja ~11% menos. Borussia Dortmund juega en casa (~+32% de ventaja, ya contada). Goles esperados: 3.07 – 0.68; el modelo ve marcando más a Borussia Dortmund. Y la forma reciente lo confirma: Borussia Dortmund llega mejor (1G-1E-3P vs 0G-0E-5P). El modelo tiene pocos datos de Villarreal CF: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "1",
+     "prob": 0.844,
+     "por_que": "Borussia Dortmund es favorito en casa: marca más (3.07 vs 0.68) y es más fuerte de fondo (neto +0.39 vs -0.83). Probabilidad: 84%.",
+     "alternativa": {
+      "mercado": "1X",
+      "prob": 0.946
+     },
+     "confianza": "baja"
+    }
    }
   },
   {

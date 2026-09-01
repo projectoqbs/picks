@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-10",
- "actualizado": "2026-09-01T20:48:06+00:00",
+ "actualizado": "2026-09-01T22:51:16+00:00",
  "partidos": [
   {
    "id": 575335,
@@ -108,7 +108,17 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "PSV es más fuerte de fondo (neto +0.23 vs -0.18): ataca ~36% más que el promedio. PSV juega en casa (~+32% de ventaja, ya contada). Goles esperados: 2.52 – 1.26; el modelo ve marcando más a PSV. Pero ojo: en forma reciente FK Shakhtar Donetsk llega mejor que PSV, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de FK Shakhtar Donetsk: tomalo con pinzas."
+    "explicacion": "PSV es más fuerte de fondo (neto +0.23 vs -0.18): ataca ~36% más que el promedio. PSV juega en casa (~+32% de ventaja, ya contada). Goles esperados: 2.52 – 1.26; el modelo ve marcando más a PSV. Pero ojo: en forma reciente FK Shakhtar Donetsk llega mejor que PSV, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de FK Shakhtar Donetsk: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "Más de 2.5 goles",
+     "prob": 0.728,
+     "por_que": "Bastantes goles esperados (2.52 + 1.26 = 3.78); al menos una defensa floja. Probabilidad al over: 73%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.888
+     },
+     "confianza": "baja"
+    }
    }
   },
   {
@@ -198,7 +208,17 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "FC Bayern München es más fuerte de fondo (neto +0.95 vs +0.27): ataca ~85% más que el promedio, encaja ~28% menos. FC Bayern München juega en casa (~+32% de ventaja, ya contada). Goles esperados: 3.29 – 1.26; el modelo ve marcando más a FC Bayern München. Pero ojo: en forma reciente FK Bodø/Glimt llega mejor que FC Bayern München, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de FK Bodø/Glimt: tomalo con pinzas."
+    "explicacion": "FC Bayern München es más fuerte de fondo (neto +0.95 vs +0.27): ataca ~85% más que el promedio, encaja ~28% menos. FC Bayern München juega en casa (~+32% de ventaja, ya contada). Goles esperados: 3.29 – 1.26; el modelo ve marcando más a FC Bayern München. Pero ojo: en forma reciente FK Bodø/Glimt llega mejor que FC Bayern München, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de FK Bodø/Glimt: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "Más de 2.5 goles",
+     "prob": 0.832,
+     "por_que": "Bastantes goles esperados (3.29 + 1.26 = 4.55); al menos una defensa floja. Probabilidad al over: 83%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.94
+     },
+     "confianza": "baja"
+    }
    }
   },
   {
@@ -248,7 +268,7 @@
      ],
      [
       "0-1",
-      0.1109
+      0.1108
      ],
      [
       "1-2",
@@ -310,7 +330,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Racing Club de Lens es más fuerte de fondo (neto -0.05 vs -0.64): es más completo en general. SK Slavia Praha juega en casa (~+32% de ventaja, ya contada). Goles esperados: 1.14 – 1.54; el modelo ve marcando más a Racing Club de Lens. Y la forma reciente lo confirma: Racing Club de Lens llega mejor (2G-1E-2P vs 0G-1E-4P). El modelo tiene pocos datos de SK Slavia Praha: tomalo con pinzas."
+    "explicacion": "Racing Club de Lens es más fuerte de fondo (neto -0.05 vs -0.64): es más completo en general. SK Slavia Praha juega en casa (~+32% de ventaja, ya contada). Goles esperados: 1.14 – 1.54; el modelo ve marcando más a Racing Club de Lens. Y la forma reciente lo confirma: Racing Club de Lens llega mejor (2G-1E-2P vs 0G-1E-4P). El modelo tiene pocos datos de SK Slavia Praha: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.715,
+     "por_que": "Doble oportunidad: cubre que SK Slavia Praha no gane. El escenario que queda afuera (gane SK Slavia Praha) es el menos probable (28%), así que el mercado se cumple ~72% de las veces.",
+     "alternativa": null,
+     "confianza": "baja"
+    }
    }
   }
  ]

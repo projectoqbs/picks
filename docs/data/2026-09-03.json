@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-03",
- "actualizado": "2026-09-01T20:48:06+00:00",
+ "actualizado": "2026-09-01T22:51:16+00:00",
  "partidos": [
   {
    "id": 559696,
@@ -124,7 +124,17 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Lille OSC es más fuerte de fondo (neto +0.44 vs +0.06): ataca ~13% más que el promedio, encaja ~27% menos. Toulouse FC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.10 – 1.32; el modelo ve marcando más a Lille OSC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento."
+    "explicacion": "Lille OSC es más fuerte de fondo (neto +0.44 vs +0.06): ataca ~13% más que el promedio, encaja ~27% menos. Toulouse FC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.10 – 1.32; el modelo ve marcando más a Lille OSC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.697,
+     "por_que": "Doble oportunidad: cubre que Toulouse FC no gane. El escenario que queda afuera (gane Toulouse FC) es el menos probable (30%), así que el mercado se cumple ~70% de las veces.",
+     "alternativa": {
+      "mercado": "Menos de 2.5 goles",
+      "prob": 0.566
+     },
+     "confianza": "alta"
+    }
    }
   },
   {
@@ -179,7 +189,7 @@
      "ataque": 0.111,
      "defensa": 0.028,
      "neto": 0.139,
-     "peso": 46.0,
+     "peso": 45.9,
      "fiable": true
     },
     "forma_local": {
@@ -249,7 +259,14 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.08 vs +0.14). Real Sociedad de Fútbol juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.59 – 1.25; el modelo ve marcando más a Real Sociedad de Fútbol. También parejos en forma (1G-1E-3P vs 1G-2E-2P en 5)."
+    "explicacion": "En fuerza de temporada están parejos (neto +0.08 vs +0.14). Real Sociedad de Fútbol juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.59 – 1.25; el modelo ve marcando más a Real Sociedad de Fútbol. También parejos en forma (1G-1E-3P vs 1G-2E-2P en 5).",
+    "recomendacion": {
+     "mercado": "Ambos marcan: Sí",
+     "prob": 0.567,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.59 y 1.25. Probabilidad: 57%.",
+     "alternativa": null,
+     "confianza": "alta"
+    }
    }
   }
  ]

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-07",
- "actualizado": "2026-09-01T20:48:06+00:00",
+ "actualizado": "2026-09-01T22:51:16+00:00",
  "partidos": [
   {
    "id": 558610,
@@ -15,7 +15,7 @@
     "prob_X": 0.295,
     "prob_2": 0.254,
     "goles_esperados": [
-     1.234,
+     1.233,
      0.849
     ],
     "prob_over_2_5": 0.346,
@@ -124,7 +124,17 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Cagliari Calcio es más fuerte de fondo (neto -0.16 vs -0.43): es más completo en general. Cagliari Calcio juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.23 – 0.85; el modelo ve marcando más a Cagliari Calcio. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento."
+    "explicacion": "Cagliari Calcio es más fuerte de fondo (neto -0.16 vs -0.43): es más completo en general. Cagliari Calcio juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.23 – 0.85; el modelo ve marcando más a Cagliari Calcio. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "recomendacion": {
+     "mercado": "Menos de 2.5 goles",
+     "prob": 0.654,
+     "por_que": "Pocos goles esperados en total (1.23 + 0.85 = 2.08). El modelo ve el partido cerrado (65% al under).",
+     "alternativa": {
+      "mercado": "Menos de 3.5 goles",
+      "prob": 0.842
+     },
+     "confianza": "alta"
+    }
    }
   },
   {
@@ -179,7 +189,7 @@
      "ataque": 0.111,
      "defensa": 0.028,
      "neto": 0.139,
-     "peso": 46.0,
+     "peso": 45.9,
      "fiable": true
     },
     "forma_local": {
@@ -249,7 +259,17 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "RC Celta de Vigo es más fuerte de fondo (neto +0.14 vs -0.07): ataca ~12% más que el promedio. Getafe CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.02 – 0.94; el modelo ve marcando más a Getafe CF. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento."
+    "explicacion": "RC Celta de Vigo es más fuerte de fondo (neto +0.14 vs -0.07): ataca ~12% más que el promedio. Getafe CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.02 – 0.94; el modelo ve marcando más a Getafe CF. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "recomendacion": {
+     "mercado": "Menos de 2.5 goles",
+     "prob": 0.688,
+     "por_que": "Pocos goles esperados en total (1.02 + 0.94 = 1.96); la defensa de Getafe CF aprieta. El modelo ve el partido cerrado (69% al under).",
+     "alternativa": {
+      "mercado": "Menos de 3.5 goles",
+      "prob": 0.865
+     },
+     "confianza": "alta"
+    }
    }
   },
   {
@@ -374,7 +394,17 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "SS Lazio es más fuerte de fondo (neto +0.24 vs -0.01): encaja ~15% menos. Udinese Calcio juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.07 – 1.24; el modelo ve marcando más a SS Lazio. Y la forma reciente lo confirma: SS Lazio llega mejor (3G-0E-2P vs 2G-1E-2P)."
+    "explicacion": "SS Lazio es más fuerte de fondo (neto +0.24 vs -0.01): encaja ~15% menos. Udinese Calcio juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.07 – 1.24; el modelo ve marcando más a SS Lazio. Y la forma reciente lo confirma: SS Lazio llega mejor (3G-0E-2P vs 2G-1E-2P).",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.684,
+     "por_que": "Doble oportunidad: cubre que Udinese Calcio no gane. El escenario que queda afuera (gane Udinese Calcio) es el menos probable (32%), así que el mercado se cumple ~68% de las veces.",
+     "alternativa": {
+      "mercado": "Menos de 2.5 goles",
+      "prob": 0.593
+     },
+     "confianza": "alta"
+    }
    }
   },
   {
@@ -478,7 +508,17 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Real Sociedad de Fútbol es más fuerte de fondo (neto +0.08 vs -0.07): ataca ~11% más que el promedio. Elche CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.61 – 1.37; el modelo ve marcando más a Elche CF. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento."
+    "explicacion": "Real Sociedad de Fútbol es más fuerte de fondo (neto +0.08 vs -0.07): ataca ~11% más que el promedio. Elche CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.61 – 1.37; el modelo ve marcando más a Elche CF. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "recomendacion": {
+     "mercado": "Ambos marcan: Sí",
+     "prob": 0.596,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.61 y 1.37. Probabilidad: 60%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.797
+     },
+     "confianza": "alta"
+    }
    }
   }
  ]

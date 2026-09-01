@@ -144,6 +144,110 @@ def explicar(local, visitante, p, fl, fv, forma_l, forma_v, vloc):
     return " ".join(partes)
 
 
+# base rate aproximada de cada mercado (cuan seguido pasa en general).
+# El "lean" = prob_modelo - base mide cuanto se aparta el modelo del
+# resultado tipico; se premia probabilidad alta CON lean positivo.
+_BASE = {
+    "1": 0.44, "X": 0.26, "2": 0.30,
+    "1X": 0.70, "12": 0.74, "X2": 0.56,
+    "Más de 2.5 goles": 0.52, "Menos de 2.5 goles": 0.48,
+    "Más de 1.5 goles": 0.75, "Menos de 3.5 goles": 0.78,
+    "Ambos marcan: Sí": 0.52, "Ambos marcan: No": 0.48,
+}
+
+
+def recomendar_mercado(local, visitante, p, fl, fv, forma_l, forma_v):
+    """Devuelve el mercado que el modelo ve mas claro (no 'de valor':
+    su lectura mas firme) con el porque, y una alternativa mas conservadora."""
+    cand = [
+        ("1", p["prob_1"]), ("X", p["prob_X"]), ("2", p["prob_2"]),
+        ("1X", p["prob_1"] + p["prob_X"]), ("12", p["prob_1"] + p["prob_2"]),
+        ("X2", p["prob_X"] + p["prob_2"]),
+        ("Más de 2.5 goles", p["prob_over_2_5"]),
+        ("Menos de 2.5 goles", p["prob_under_2_5"]),
+        ("Más de 1.5 goles", p["prob_over_1_5"]),
+        ("Menos de 3.5 goles", p["prob_under_3_5"]),
+        ("Ambos marcan: Sí", p["prob_btts_si"]),
+        ("Ambos marcan: No", p["prob_btts_no"]),
+    ]
+    puntuadas = []
+    for nombre, prob in cand:
+        lean = prob - _BASE[nombre]
+        if prob < 0.55 or lean <= 0.03:      # ni muy incierto ni trivial
+            continue
+        puntuadas.append((prob * lean, prob, nombre))
+    if not puntuadas:
+        return None
+    puntuadas.sort(reverse=True)
+    _, prob_top, mercado = puntuadas[0]
+
+    # alternativa: la de mayor probabilidad absoluta que no sea la misma
+    # familia (para ofrecer algo mas seguro aunque pague menos)
+    alt = None
+    for _, prob_a, nombre_a in sorted(puntuadas, key=lambda t: -t[1]):
+        if nombre_a != mercado:
+            alt = {"mercado": nombre_a, "prob": round(prob_a, 3)}
+            break
+
+    return {
+        "mercado": mercado,
+        "prob": round(prob_top, 3),
+        "por_que": _por_que_mercado(mercado, local, visitante, p, fl, fv,
+                                    forma_l, forma_v),
+        "alternativa": alt,
+        "confianza": "baja" if (not fl or not fv or not fl["fiable"]
+                                or not fv["fiable"]) else "alta",
+    }
+
+
+def _por_que_mercado(m, local, visitante, p, fl, fv, forma_l, forma_v):
+    lam_l, lam_v = p["lambda_local"], p["lambda_visitante"]
+    tot = lam_l + lam_v
+    dif_neto = (fl["neto"] - fv["neto"]) if (fl and fv) else 0.0
+
+    if m == "2":
+        base = (f"El modelo ve a {visitante} marcando más que {local} pese a la "
+                f"localía ({lam_v:.2f} vs {lam_l:.2f})")
+        if dif_neto < -0.15:
+            base += f", y lo respalda una diferencia de fuerza clara (neto {fv['neto']:+.2f} vs {fl['neto']:+.2f})"
+        return base + f". Probabilidad del modelo: {p['prob_2']*100:.0f}%."
+    if m == "1":
+        base = (f"{local} es favorito en casa: marca más ({lam_l:.2f} vs {lam_v:.2f})")
+        if dif_neto > 0.15:
+            base += f" y es más fuerte de fondo (neto {fl['neto']:+.2f} vs {fv['neto']:+.2f})"
+        return base + f". Probabilidad: {p['prob_1']*100:.0f}%."
+    if m in ("1X", "12", "X2"):
+        cubre = {"1X": f"que {local} no pierda", "12": "que no sea empate",
+                 "X2": f"que {local} no gane"}[m]
+        prob = {"1X": p["prob_1"] + p["prob_X"], "12": p["prob_1"] + p["prob_2"],
+                "X2": p["prob_X"] + p["prob_2"]}[m]
+        peor = {"1X": ("gane " + visitante, p["prob_2"]),
+                "12": ("empate", p["prob_X"]),
+                "X2": ("gane " + local, p["prob_1"])}[m]
+        return (f"Doble oportunidad: cubre {cubre}. El escenario que queda "
+                f"afuera ({peor[0]}) es el menos probable ({peor[1]*100:.0f}%), "
+                f"así que el mercado se cumple ~{prob*100:.0f}% de las veces.")
+    if m in ("Menos de 2.5 goles", "Menos de 3.5 goles"):
+        base = (f"Pocos goles esperados en total ({lam_l:.2f} + {lam_v:.2f} = "
+                f"{tot:.2f})")
+        if fl and fv and max(fl["defensa"], fv["defensa"]) >= 0.15:
+            quien = local if fl["defensa"] >= fv["defensa"] else visitante
+            base += f"; la defensa de {quien} aprieta"
+        return base + f". El modelo ve el partido cerrado ({p['prob_under_2_5' if '2.5' in m else 'prob_under_3_5']*100:.0f}% al under)."
+    if m in ("Más de 2.5 goles", "Más de 1.5 goles"):
+        base = (f"Bastantes goles esperados ({lam_l:.2f} + {lam_v:.2f} = {tot:.2f})")
+        if fl and fv and min(fl["defensa"], fv["defensa"]) <= 0.0:
+            base += "; al menos una defensa floja"
+        prob = p["prob_over_2_5"] if "2.5" in m else p["prob_over_1_5"]
+        return base + f". Probabilidad al over: {prob*100:.0f}%."
+    if m.startswith("Ambos marcan"):
+        si = m.endswith("Sí")
+        return (f"El modelo espera que {'los dos' if si else 'no los dos'} "
+                f"equipos marquen: goles esperados {lam_l:.2f} y {lam_v:.2f}. "
+                f"Probabilidad: {(p['prob_btts_si'] if si else p['prob_btts_no'])*100:.0f}%.")
+    return f"El modelo le da {p.get('prob_1', 0)*100:.0f}% a este mercado."
+
+
 def predecir_partido(modelo, fx, conn):
     local, visitante = fx["local"], fx["visitante"]
     conocidos = local in modelo.idx and visitante in modelo.idx
@@ -190,6 +294,8 @@ def predecir_partido(modelo, fx, conn):
         "forma_visitante": forma_v,
         "cara_a_cara": cara_a_cara(conn, liga, local, visitante, fx["fecha_utc"], H2H_N),
         "explicacion": explicar(local, visitante, p, fl, fv, forma_l, forma_v, vloc),
+        "recomendacion": recomendar_mercado(local, visitante, p, fl, fv,
+                                            forma_l, forma_v),
     }
     return base
 

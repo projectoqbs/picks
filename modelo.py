@@ -288,7 +288,9 @@ class ModeloPoisson:
         p1 = float(np.tril(M, -1).sum())     # goles_local > goles_visita
         px = float(np.trace(M))              # empate
         p2 = float(np.triu(M, 1).sum())      # goles_local < goles_visita
-        p_over = float(M[total >= 3].sum())
+        p_over = float(M[total >= 3].sum())            # over 2.5
+        p_over15 = float(M[total >= 2].sum())          # over 1.5
+        p_over35 = float(M[total >= 4].sum())          # over 3.5
         p_btts = float(M[1:, 1:].sum())
 
         # calibracion: suaviza (o agudiza) las probabilidades sin tocar el
@@ -330,6 +332,8 @@ class ModeloPoisson:
             "prob_2": round(p2, 4),
             "prob_over_2_5": round(p_over, 4),
             "prob_under_2_5": round(1 - p_over, 4),
+            "prob_over_1_5": round(p_over15, 4),
+            "prob_under_3_5": round(1 - p_over35, 4),
             "prob_btts_si": round(p_btts, 4),
             "prob_btts_no": round(1 - p_btts, 4),
             "cuotas_justas_1x2": [cuota(p1), cuota(px), cuota(p2)],
