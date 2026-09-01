@@ -256,6 +256,7 @@ function tarjeta(p) {
     </div>
     <div class="resumen">${pr.resumen}</div>
     <div class="detalle">
+      ${an.explicacion ? `<p class="explica">${an.explicacion}</p>` : ''}
       <div class="grid">
         <div><div class="k">Goles esperados</div>${g1.toFixed(2)} – ${g2.toFixed(2)}</div>
         <div><div class="k">Más de 2.5 goles</div>${pct(pr.prob_over_2_5)}</div>
@@ -271,6 +272,18 @@ function tarjeta(p) {
         ${bloqueForma(p.visitante, an.forma_visitante)}
       </div>
       ${bloqueH2H(an.cara_a_cara)}
+      <details class="glosario">
+        <summary>¿Cómo se leen estos números?</summary>
+        <p><b>Ataque / Defensa / Neto</b>: escala donde <b>0 = equipo promedio de la liga</b>.
+        Positivo = mejor que el promedio. Ataque alto = marca más; defensa alta = encaja menos;
+        Neto = ataque + defensa (fuerza total). Un valor de +0.10 equivale a ~10% mejor que el
+        promedio. Es <b>fuerza de temporada</b> (últimos 1–2 años, lo reciente pesa más).</p>
+        <p><b>Forma</b>: solo los últimos 5 partidos — el momento actual, no la calidad de fondo.
+        Cuando el neto y la forma coinciden, la predicción es más firme; cuando se contradicen,
+        el partido puede estar más abierto.</p>
+        <p><b>Goles esperados</b>: promedio de goles que el modelo espera de cada equipo, con la
+        ventaja de local ya incluida. <b>Cuota justa</b> = 1 ÷ probabilidad (sin margen de casa).</p>
+      </details>
     </div>`;
 
   el.onclick = () => el.classList.toggle('abierto');

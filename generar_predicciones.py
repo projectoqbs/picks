@@ -21,6 +21,7 @@ Uso:
     python generar_predicciones.py
 """
 import json
+import math
 import os
 from collections import defaultdict
 from datetime import datetime, timezone
@@ -65,6 +66,84 @@ def frase_resumen(local, visitante, p):
     return ". ".join(partes) + "."
 
 
+def _pct_mas(x):
+    return round((math.exp(x) - 1) * 100)
+
+
+def _pct_menos(x):
+    return round((1 - math.exp(-x)) * 100)
+
+
+def _ppg(f):
+    return (f["g"] * 3 + f["e"]) / f["pj"] if f and f["pj"] else None
+
+
+def explicar(local, visitante, p, fl, fv, forma_l, forma_v, vloc):
+    """Parrafo en lenguaje llano: de donde sale la prediccion y si el
+    historico (fuerza de temporada) y la forma reciente coinciden."""
+    if not fl or not fv:
+        return None
+    lam_l, lam_v = p["lambda_local"], p["lambda_visitante"]
+    dif = fl["neto"] - fv["neto"]
+    partes = []
+
+    # 1) fuerza de fondo
+    if abs(dif) < 0.12:
+        partes.append(f"En fuerza de temporada están parejos "
+                      f"(neto {fl['neto']:+.2f} vs {fv['neto']:+.2f}).")
+    else:
+        fuerte, ff, otro_neto = ((local, fl, fv["neto"]) if dif > 0
+                                 else (visitante, fv, fl["neto"]))
+        via = []
+        if ff["ataque"] >= 0.10:
+            via.append(f"ataca ~{_pct_mas(ff['ataque'])}% más que el promedio")
+        if ff["defensa"] >= 0.10:
+            via.append(f"encaja ~{_pct_menos(ff['defensa'])}% menos")
+        via_txt = ", ".join(via) if via else "es más completo en general"
+        partes.append(f"{fuerte} es más fuerte de fondo "
+                      f"(neto {ff['neto']:+.2f} vs {otro_neto:+.2f}): {via_txt}.")
+
+    # 2) ventaja de local + goles esperados
+    quien_mas = local if lam_l > lam_v else visitante
+    partes.append(f"{local} juega en casa (~+{_pct_mas(vloc)}% de ventaja, ya "
+                  f"contada). Goles esperados: {lam_l:.2f} – {lam_v:.2f}; el "
+                  f"modelo ve marcando más a {quien_mas}.")
+
+    # 3) historico vs forma reciente
+    pl, pv = _ppg(forma_l), _ppg(forma_v)
+    if pl is not None and pv is not None:
+        difp = pl - pv
+        rl = f"{forma_l['g']}G-{forma_l['e']}E-{forma_l['p']}P"
+        rv = f"{forma_v['g']}G-{forma_v['e']}E-{forma_v['p']}P"
+        if abs(dif) < 0.12:
+            if abs(difp) < 0.4:
+                partes.append(f"También parejos en forma ({rl} vs {rv} en 5).")
+            else:
+                mejor = local if difp > 0 else visitante
+                partes.append(f"En forma reciente pinta algo mejor {mejor} "
+                              f"({rl} vs {rv} en 5).")
+        else:
+            fuerte = local if dif > 0 else visitante
+            debil = visitante if dif > 0 else local
+            if abs(difp) < 0.35:
+                partes.append("En los últimos 5 van parejos, así que la ventaja "
+                              "viene de la calidad de temporada, no del momento.")
+            elif (difp > 0) == (dif > 0):
+                partes.append(f"Y la forma reciente lo confirma: {fuerte} llega "
+                              f"mejor ({rl if dif>0 else rv} vs {rv if dif>0 else rl}).")
+            else:
+                partes.append(f"Pero ojo: en forma reciente {debil} llega mejor "
+                              f"que {fuerte}, así que puede estar más cerca de lo "
+                              f"que dice el neto.")
+
+    # 4) confianza
+    if not fl["fiable"] or not fv["fiable"]:
+        flojo = local if not fl["fiable"] else visitante
+        partes.append(f"El modelo tiene pocos datos de {flojo}: tomalo con pinzas.")
+
+    return " ".join(partes)
+
+
 def predecir_partido(modelo, fx, conn):
     local, visitante = fx["local"], fx["visitante"]
     conocidos = local in modelo.idx and visitante in modelo.idx
@@ -99,12 +178,18 @@ def predecir_partido(modelo, fx, conn):
         base["nota"] = p["aviso"]
 
     liga = fx["competicion_codigo"]
+    fl = modelo.fuerza(local)
+    fv = modelo.fuerza(visitante)
+    forma_l = forma_reciente(conn, liga, local, fx["fecha_utc"], FORMA_N)
+    forma_v = forma_reciente(conn, liga, visitante, fx["fecha_utc"], FORMA_N)
+    vloc = float(modelo.params_[1])
     base["analisis"] = {
-        "fuerza_local": modelo.fuerza(local),
-        "fuerza_visitante": modelo.fuerza(visitante),
-        "forma_local": forma_reciente(conn, liga, local, fx["fecha_utc"], FORMA_N),
-        "forma_visitante": forma_reciente(conn, liga, visitante, fx["fecha_utc"], FORMA_N),
+        "fuerza_local": fl,
+        "fuerza_visitante": fv,
+        "forma_local": forma_l,
+        "forma_visitante": forma_v,
         "cara_a_cara": cara_a_cara(conn, liga, local, visitante, fx["fecha_utc"], H2H_N),
+        "explicacion": explicar(local, visitante, p, fl, fv, forma_l, forma_v, vloc),
     }
     return base
 
