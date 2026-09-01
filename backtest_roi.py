@@ -218,6 +218,65 @@ def _a_dt(s):
     return _parse_fecha(s)
 
 
+def recolectar_apuestas(conn, liga, desde=DESDE_DEFECTO, umbral=UMBRAL_EV,
+                        half_life=HALF_LIFE_DIAS, prior_sd=PRIOR_SD, dc=True,
+                        reajuste_dias=REAJUSTE_DIAS, min_train=MIN_TRAIN,
+                        min_prob=0.0, max_cuota=99.0):
+    """Walk-forward sin simular staking: devuelve la lista ordenada de
+    apuestas [{fecha, liga, seleccion, p, o, gano}] para alimentar
+    simuladores de banca externos."""
+    filas = cargar_partidos(conn, liga)
+    fechas = [_parse_fecha(f[0]) for f in filas]
+    desde_dt = _a_dt(desde)
+    cuotas = cargar_cuotas(liga)
+    nombres_db = sorted({f[1] for f in filas} | {f[2] for f in filas})
+    nombres_couk = sorted({c["home"] for c in cuotas} | {c["away"] for c in cuotas})
+    mapa, _ = mapa_nombres(liga, nombres_db, nombres_couk)
+    cidx = {}
+    for c in cuotas:
+        cidx[(c["fecha"].date(), c["home"], c["away"])] = c
+    hasta_dt = max(c["fecha"] for c in cuotas) + timedelta(days=2)
+    test = [i for i, d in enumerate(fechas)
+            if desde_dt <= d <= hasta_dt and i >= min_train]
+
+    modelo = None
+    prox = None
+    salida = []
+    for i in test:
+        corte = fechas[i]
+        if modelo is None or corte >= prox:
+            modelo = ModeloPoisson(dc=dc, half_life_dias=half_life, prior_sd=prior_sd)
+            modelo.liga = liga
+            modelo.ajustar(filas[:i], fecha_ref=corte)
+            prox = corte + timedelta(days=reajuste_dias)
+        f = filas[i]
+        local, visita, gl, gv = f[1], f[2], f[3], f[4]
+        if local not in modelo.idx or visita not in modelo.idx:
+            continue
+        c = cidx.get((corte.date(), mapa.get(local), mapa.get(visita)))
+        if c is None:
+            for dd in (-1, 1):
+                c = cidx.get(((corte + timedelta(days=dd)).date(),
+                              mapa.get(local), mapa.get(visita)))
+                if c:
+                    break
+        if c is None:
+            continue
+        pred = modelo.predecir(local, visita)
+        p = np.array([pred["prob_1"], pred["prob_X"], pred["prob_2"]])
+        o = np.array([c["o1"], c["ox"], c["o2"]])
+        ev = p * o - 1.0
+        k = int(np.argmax(ev))
+        if ev[k] < umbral or p[k] < min_prob or o[k] > max_cuota:
+            continue
+        salida.append({
+            "fecha": corte.isoformat(), "liga": liga, "seleccion": "1X2"[k],
+            "p": float(p[k]), "o": float(o[k]),
+            "gano": resultado_1x2(gl, gv) == k,
+        })
+    return salida
+
+
 def backtest_roi(conn, liga, desde=DESDE_DEFECTO, umbral=UMBRAL_EV,
                  kelly_frac=KELLY_FRAC, half_life=HALF_LIFE_DIAS,
                  prior_sd=PRIOR_SD, dc=True, reajuste_dias=REAJUSTE_DIAS,
