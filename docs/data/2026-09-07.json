@@ -1,0 +1,170 @@
+{
+ "fecha": "2026-09-07",
+ "actualizado": "2026-09-01T03:23:19+00:00",
+ "partidos": [
+  {
+   "id": 558610,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-09-07T16:00:00Z",
+   "jornada": 3,
+   "local": "Cagliari Calcio",
+   "visitante": "US Lecce",
+   "prediccion": {
+    "prob_1": 0.451,
+    "prob_X": 0.295,
+    "prob_2": 0.254,
+    "goles_esperados": [
+     1.234,
+     0.849
+    ],
+    "prob_over_2_5": 0.346,
+    "prob_btts": 0.406,
+    "marcadores": [
+     [
+      "1-0",
+      0.1528
+     ],
+     [
+      "1-1",
+      0.1314
+     ],
+     [
+      "0-0",
+      0.1254
+     ]
+    ],
+    "cuotas_justas": [
+     2.22,
+     3.39,
+     3.94
+    ],
+    "resumen": "Gana Cagliari Calcio (ligero favorito, 45%). pocos goles (-2.5).",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 564665,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-09-07T17:00:00Z",
+   "jornada": 4,
+   "local": "Getafe CF",
+   "visitante": "RC Celta de Vigo",
+   "prediccion": {
+    "prob_1": 0.368,
+    "prob_X": 0.31,
+    "prob_2": 0.322,
+    "goles_esperados": [
+     1.025,
+     0.938
+    ],
+    "prob_over_2_5": 0.313,
+    "prob_btts": 0.389,
+    "marcadores": [
+     [
+      "1-0",
+      0.1448
+     ],
+     [
+      "0-0",
+      0.1395
+     ],
+     [
+      "1-1",
+      0.1341
+     ]
+    ],
+    "cuotas_justas": [
+     2.72,
+     3.23,
+     3.1
+    ],
+    "resumen": "Partido parejo. pocos goles (-2.5).",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 558617,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-09-07T18:45:00Z",
+   "jornada": 3,
+   "local": "Udinese Calcio",
+   "visitante": "SS Lazio",
+   "prediccion": {
+    "prob_1": 0.316,
+    "prob_X": 0.283,
+    "prob_2": 0.401,
+    "goles_esperados": [
+     1.07,
+     1.241
+    ],
+    "prob_over_2_5": 0.407,
+    "prob_btts": 0.468,
+    "marcadores": [
+     [
+      "1-1",
+      0.1325
+     ],
+     [
+      "0-1",
+      0.1222
+     ],
+     [
+      "1-0",
+      0.1052
+     ]
+    ],
+    "cuotas_justas": [
+     3.16,
+     3.53,
+     2.5
+    ],
+    "resumen": "Partido parejo. pocos goles (-2.5).",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 564658,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-09-07T19:30:00Z",
+   "jornada": 4,
+   "local": "Elche CF",
+   "visitante": "Real Sociedad de Fútbol",
+   "prediccion": {
+    "prob_1": 0.431,
+    "prob_X": 0.24,
+    "prob_2": 0.329,
+    "goles_esperados": [
+     1.611,
+     1.378
+    ],
+    "prob_over_2_5": 0.574,
+    "prob_btts": 0.598,
+    "marcadores": [
+     [
+      "1-1",
+      0.111
+     ],
+     [
+      "2-1",
+      0.09
+     ],
+     [
+      "1-0",
+      0.0819
+     ]
+    ],
+    "cuotas_justas": [
+     2.32,
+     4.16,
+     3.04
+    ],
+    "resumen": "Gana Elche CF (ligero favorito, 43%). ambos marcan.",
+    "confianza": "alta"
+   }
+  }
+ ]
+}

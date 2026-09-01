@@ -1,0 +1,225 @@
+{
+ "fecha": "2026-09-09",
+ "actualizado": "2026-09-01T03:23:19+00:00",
+ "partidos": [
+  {
+   "id": 575329,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-09-09T16:45:00Z",
+   "jornada": 1,
+   "local": "FC Barcelona",
+   "visitante": "Feyenoord Rotterdam",
+   "prediccion": {
+    "prob_1": 0.787,
+    "prob_X": 0.111,
+    "prob_2": 0.103,
+    "goles_esperados": [
+     3.684,
+     1.415
+    ],
+    "prob_over_2_5": 0.883,
+    "prob_btts": 0.737,
+    "marcadores": [
+     [
+      "3-1",
+      0.0721
+     ],
+     [
+      "4-1",
+      0.0664
+     ],
+     [
+      "2-1",
+      0.0587
+     ]
+    ],
+    "cuotas_justas": [
+     1.27,
+     9.03,
+     9.74
+    ],
+    "resumen": "Gana FC Barcelona (claro favorito, 79%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Feyenoord Rotterdam' solo tiene 4.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+  },
+  {
+   "id": 575330,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-09-09T16:45:00Z",
+   "jornada": 1,
+   "local": "VfB Stuttgart",
+   "visitante": "Viking FK",
+   "prediccion": null,
+   "nota": "sin datos suficientes de alguno de los equipos"
+  },
+  {
+   "id": 575331,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-09-09T19:00:00Z",
+   "jornada": 1,
+   "local": "Liverpool FC",
+   "visitante": "Club Atlético de Madrid",
+   "prediccion": {
+    "prob_1": 0.542,
+    "prob_X": 0.211,
+    "prob_2": 0.247,
+    "goles_esperados": [
+     1.964,
+     1.257
+    ],
+    "prob_over_2_5": 0.625,
+    "prob_btts": 0.611,
+    "marcadores": [
+     [
+      "2-1",
+      0.0968
+     ],
+     [
+      "1-1",
+      0.0947
+     ],
+     [
+      "1-0",
+      0.0822
+     ]
+    ],
+    "cuotas_justas": [
+     1.84,
+     4.74,
+     4.05
+    ],
+    "resumen": "Gana Liverpool FC (ligero favorito, 54%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 575332,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-09-09T19:00:00Z",
+   "jornada": 1,
+   "local": "Paris Saint-Germain FC",
+   "visitante": "ŠK Slovan Bratislava",
+   "prediccion": {
+    "prob_1": 0.97,
+    "prob_X": 0.021,
+    "prob_2": 0.009,
+    "goles_esperados": [
+     5.647,
+     0.751
+    ],
+    "prob_over_2_5": 0.952,
+    "prob_btts": 0.526,
+    "marcadores": [
+     [
+      "5-0",
+      0.0821
+     ],
+     [
+      "6-0",
+      0.0773
+     ],
+     [
+      "4-0",
+      0.0727
+     ]
+    ],
+    "cuotas_justas": [
+     1.03,
+     47.79,
+     109.65
+    ],
+    "resumen": "Gana Paris Saint-Germain FC (claro favorito, 97%). se esperan goles (+2.5).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'ŠK Slovan Bratislava' solo tiene 2.3 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+  },
+  {
+   "id": 575333,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-09-09T19:00:00Z",
+   "jornada": 1,
+   "local": "SSC Napoli",
+   "visitante": "Arsenal FC",
+   "prediccion": {
+    "prob_1": 0.104,
+    "prob_X": 0.177,
+    "prob_2": 0.719,
+    "goles_esperados": [
+     0.651,
+     2.124
+    ],
+    "prob_over_2_5": 0.524,
+    "prob_btts": 0.418,
+    "marcadores": [
+     [
+      "0-2",
+      0.1407
+     ],
+     [
+      "0-1",
+      0.1359
+     ],
+     [
+      "0-3",
+      0.0996
+     ]
+    ],
+    "cuotas_justas": [
+     9.58,
+     5.66,
+     1.39
+    ],
+    "resumen": "Gana Arsenal FC (claro favorito, 72%).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'SSC Napoli' solo tiene 5.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+  },
+  {
+   "id": 575334,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-09-09T19:00:00Z",
+   "jornada": 1,
+   "local": "Sporting Clube de Portugal",
+   "visitante": "Galatasaray SK",
+   "prediccion": {
+    "prob_1": 0.624,
+    "prob_X": 0.2,
+    "prob_2": 0.176,
+    "goles_esperados": [
+     2.03,
+     0.968
+    ],
+    "prob_over_2_5": 0.576,
+    "prob_btts": 0.535,
+    "marcadores": [
+     [
+      "1-0",
+      0.1051
+     ],
+     [
+      "2-0",
+      0.1028
+     ],
+     [
+      "2-1",
+      0.0995
+     ]
+    ],
+    "cuotas_justas": [
+     1.6,
+     4.99,
+     5.68
+    ],
+    "resumen": "Gana Sporting Clube de Portugal (claro favorito, 62%).",
+    "confianza": "alta"
+   }
+  }
+ ]
+}

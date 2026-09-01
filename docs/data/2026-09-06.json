@@ -1,0 +1,623 @@
+{
+ "fecha": "2026-09-06",
+ "actualizado": "2026-09-01T03:23:19+00:00",
+ "partidos": [
+  {
+   "id": 559700,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-09-06T13:00:00Z",
+   "jornada": 3,
+   "local": "ES Troyes AC",
+   "visitante": "RC Strasbourg Alsace",
+   "prediccion": {
+    "prob_1": 0.424,
+    "prob_X": 0.29,
+    "prob_2": 0.285,
+    "goles_esperados": [
+     1.325,
+     1.039
+    ],
+    "prob_over_2_5": 0.421,
+    "prob_btts": 0.482,
+    "marcadores": [
+     [
+      "1-1",
+      0.1368
+     ],
+     [
+      "1-0",
+      0.1172
+     ],
+     [
+      "0-0",
+      0.1014
+     ]
+    ],
+    "cuotas_justas": [
+     2.36,
+     3.45,
+     3.5
+    ],
+    "resumen": "Gana ES Troyes AC (ligero favorito, 42%).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'ES Troyes AC' solo tiene 2.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+  },
+  {
+   "id": 558612,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-09-06T13:00:00Z",
+   "jornada": 3,
+   "local": "Parma Calcio 1913",
+   "visitante": "AC Monza",
+   "prediccion": {
+    "prob_1": 0.45,
+    "prob_X": 0.286,
+    "prob_2": 0.264,
+    "goles_esperados": [
+     1.29,
+     0.918
+    ],
+    "prob_over_2_5": 0.38,
+    "prob_btts": 0.436,
+    "marcadores": [
+     [
+      "1-0",
+      0.1409
+     ],
+     [
+      "1-1",
+      0.131
+     ],
+     [
+      "0-0",
+      0.1107
+     ]
+    ],
+    "cuotas_justas": [
+     2.22,
+     3.5,
+     3.79
+    ],
+    "resumen": "Gana Parma Calcio 1913 (ligero favorito, 45%). pocos goles (-2.5).",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 558615,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-09-06T13:00:00Z",
+   "jornada": 3,
+   "local": "Frosinone Calcio",
+   "visitante": "Venezia FC",
+   "prediccion": {
+    "prob_1": 0.525,
+    "prob_X": 0.26,
+    "prob_2": 0.215,
+    "goles_esperados": [
+     1.527,
+     0.875
+    ],
+    "prob_over_2_5": 0.431,
+    "prob_btts": 0.457,
+    "marcadores": [
+     [
+      "1-0",
+      0.1375
+     ],
+     [
+      "1-1",
+      0.1218
+     ],
+     [
+      "2-0",
+      0.1055
+     ]
+    ],
+    "cuotas_justas": [
+     1.9,
+     3.85,
+     4.65
+    ],
+    "resumen": "Gana Frosinone Calcio (ligero favorito, 53%).",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 560567,
+   "competicion": "Premier League",
+   "competicion_codigo": "PL",
+   "fecha_utc": "2026-09-06T13:00:00Z",
+   "jornada": 3,
+   "local": "Everton FC",
+   "visitante": "Manchester United FC",
+   "prediccion": {
+    "prob_1": 0.357,
+    "prob_X": 0.291,
+    "prob_2": 0.353,
+    "goles_esperados": [
+     1.273,
+     1.264
+    ],
+    "prob_over_2_5": 0.466,
+    "prob_btts": 0.528,
+    "marcadores": [
+     [
+      "1-1",
+      0.1387
+     ],
+     [
+      "0-0",
+      0.0905
+     ],
+     [
+      "1-0",
+      0.0893
+     ]
+    ],
+    "cuotas_justas": [
+     2.8,
+     3.44,
+     2.84
+    ],
+    "resumen": "Partido parejo.",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 565788,
+   "competicion": "Bundesliga",
+   "competicion_codigo": "BL1",
+   "fecha_utc": "2026-09-06T13:30:00Z",
+   "jornada": 2,
+   "local": "Hamburger SV",
+   "visitante": "1. FSV Mainz 05",
+   "prediccion": {
+    "prob_1": 0.344,
+    "prob_X": 0.297,
+    "prob_2": 0.359,
+    "goles_esperados": [
+     1.178,
+     1.208
+    ],
+    "prob_over_2_5": 0.426,
+    "prob_btts": 0.495,
+    "marcadores": [
+     [
+      "1-1",
+      0.1406
+     ],
+     [
+      "0-0",
+      0.1017
+     ],
+     [
+      "0-1",
+      0.1016
+     ]
+    ],
+    "cuotas_justas": [
+     2.91,
+     3.37,
+     2.79
+    ],
+    "resumen": "Partido parejo.",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 564659,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-09-06T14:15:00Z",
+   "jornada": 4,
+   "local": "Valencia CF",
+   "visitante": "FC Barcelona",
+   "prediccion": {
+    "prob_1": 0.168,
+    "prob_X": 0.199,
+    "prob_2": 0.632,
+    "goles_esperados": [
+     0.997,
+     2.123
+    ],
+    "prob_over_2_5": 0.603,
+    "prob_btts": 0.555,
+    "marcadores": [
+     [
+      "0-2",
+      0.0995
+     ],
+     [
+      "1-2",
+      0.0992
+     ],
+     [
+      "0-1",
+      0.0944
+     ]
+    ],
+    "cuotas_justas": [
+     5.94,
+     5.02,
+     1.58
+    ],
+    "resumen": "Gana FC Barcelona (claro favorito, 63%). se esperan goles (+2.5).",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 559698,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-09-06T15:15:00Z",
+   "jornada": 3,
+   "local": "Angers SCO",
+   "visitante": "Stade Rennais FC 1901",
+   "prediccion": {
+    "prob_1": 0.257,
+    "prob_X": 0.268,
+    "prob_2": 0.475,
+    "goles_esperados": [
+     1.074,
+     1.543
+    ],
+    "prob_over_2_5": 0.486,
+    "prob_btts": 0.524,
+    "marcadores": [
+     [
+      "1-1",
+      0.1278
+     ],
+     [
+      "0-1",
+      0.1058
+     ],
+     [
+      "1-2",
+      0.0934
+     ]
+    ],
+    "cuotas_justas": [
+     3.89,
+     3.73,
+     2.11
+    ],
+    "resumen": "Gana Stade Rennais FC 1901 (ligero favorito, 47%).",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 565786,
+   "competicion": "Bundesliga",
+   "competicion_codigo": "BL1",
+   "fecha_utc": "2026-09-06T15:30:00Z",
+   "jornada": 2,
+   "local": "Eintracht Frankfurt",
+   "visitante": "FC Augsburg",
+   "prediccion": {
+    "prob_1": 0.542,
+    "prob_X": 0.229,
+    "prob_2": 0.228,
+    "goles_esperados": [
+     2.013,
+     1.255
+    ],
+    "prob_over_2_5": 0.634,
+    "prob_btts": 0.626,
+    "marcadores": [
+     [
+      "1-1",
+      0.1033
+     ],
+     [
+      "2-1",
+      0.0968
+     ],
+     [
+      "2-0",
+      0.0772
+     ]
+    ],
+    "cuotas_justas": [
+     1.84,
+     4.36,
+     4.38
+    ],
+    "resumen": "Gana Eintracht Frankfurt (ligero favorito, 54%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 560570,
+   "competicion": "Premier League",
+   "competicion_codigo": "PL",
+   "fecha_utc": "2026-09-06T15:30:00Z",
+   "jornada": 3,
+   "local": "Arsenal FC",
+   "visitante": "Chelsea FC",
+   "prediccion": {
+    "prob_1": 0.633,
+    "prob_X": 0.224,
+    "prob_2": 0.143,
+    "goles_esperados": [
+     2.007,
+     0.857
+    ],
+    "prob_over_2_5": 0.546,
+    "prob_btts": 0.507,
+    "marcadores": [
+     [
+      "2-0",
+      0.1149
+     ],
+     [
+      "1-1",
+      0.1069
+     ],
+     [
+      "1-0",
+      0.1057
+     ]
+    ],
+    "cuotas_justas": [
+     1.58,
+     4.47,
+     6.99
+    ],
+    "resumen": "Gana Arsenal FC (claro favorito, 63%).",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 558613,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-09-06T16:00:00Z",
+   "jornada": 3,
+   "local": "Bologna FC 1909",
+   "visitante": "US Sassuolo Calcio",
+   "prediccion": {
+    "prob_1": 0.489,
+    "prob_X": 0.252,
+    "prob_2": 0.259,
+    "goles_esperados": [
+     1.585,
+     1.084
+    ],
+    "prob_over_2_5": 0.499,
+    "prob_btts": 0.527,
+    "marcadores": [
+     [
+      "1-1",
+      0.1199
+     ],
+     [
+      "1-0",
+      0.109
+     ],
+     [
+      "2-1",
+      0.0944
+     ]
+    ],
+    "cuotas_justas": [
+     2.05,
+     3.97,
+     3.86
+    ],
+    "resumen": "Gana Bologna FC 1909 (ligero favorito, 49%).",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 564664,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-09-06T16:30:00Z",
+   "jornada": 4,
+   "local": "Deportivo Alavés",
+   "visitante": "CA Osasuna",
+   "prediccion": {
+    "prob_1": 0.431,
+    "prob_X": 0.279,
+    "prob_2": 0.29,
+    "goles_esperados": [
+     1.286,
+     1.001
+    ],
+    "prob_over_2_5": 0.4,
+    "prob_btts": 0.457,
+    "marcadores": [
+     [
+      "1-0",
+      0.1316
+     ],
+     [
+      "1-1",
+      0.1299
+     ],
+     [
+      "0-1",
+      0.1025
+     ]
+    ],
+    "cuotas_justas": [
+     2.32,
+     3.58,
+     3.45
+    ],
+    "resumen": "Gana Deportivo Alavés (ligero favorito, 43%). pocos goles (-2.5).",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 564666,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-09-06T16:30:00Z",
+   "jornada": 4,
+   "local": "Málaga CF",
+   "visitante": "Levante UD",
+   "prediccion": {
+    "prob_1": 0.308,
+    "prob_X": 0.267,
+    "prob_2": 0.425,
+    "goles_esperados": [
+     1.117,
+     1.364
+    ],
+    "prob_over_2_5": 0.451,
+    "prob_btts": 0.5,
+    "marcadores": [
+     [
+      "1-1",
+      0.1266
+     ],
+     [
+      "0-1",
+      0.115
+     ],
+     [
+      "1-0",
+      0.0943
+     ]
+    ],
+    "cuotas_justas": [
+     3.25,
+     3.75,
+     2.35
+    ],
+    "resumen": "Gana Levante UD (ligero favorito, 43%).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Málaga CF' solo tiene 3.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+  },
+  {
+   "id": 559694,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-09-06T18:45:00Z",
+   "jornada": 3,
+   "local": "Olympique de Marseille",
+   "visitante": "Paris FC",
+   "prediccion": {
+    "prob_1": 0.515,
+    "prob_X": 0.24,
+    "prob_2": 0.246,
+    "goles_esperados": [
+     1.846,
+     1.219
+    ],
+    "prob_over_2_5": 0.591,
+    "prob_btts": 0.599,
+    "marcadores": [
+     [
+      "1-1",
+      0.1109
+     ],
+     [
+      "2-1",
+      0.0969
+     ],
+     [
+      "1-0",
+      0.0801
+     ]
+    ],
+    "cuotas_justas": [
+     1.94,
+     4.17,
+     4.07
+    ],
+    "resumen": "Gana Olympique de Marseille (ligero favorito, 51%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 558618,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-09-06T18:45:00Z",
+   "jornada": 3,
+   "local": "Juventus FC",
+   "visitante": "AC Milan",
+   "prediccion": {
+    "prob_1": 0.438,
+    "prob_X": 0.274,
+    "prob_2": 0.287,
+    "goles_esperados": [
+     1.354,
+     1.042
+    ],
+    "prob_over_2_5": 0.429,
+    "prob_btts": 0.481,
+    "marcadores": [
+     [
+      "1-1",
+      0.1293
+     ],
+     [
+      "1-0",
+      0.1225
+     ],
+     [
+      "0-1",
+      0.0941
+     ]
+    ],
+    "cuotas_justas": [
+     2.28,
+     3.64,
+     3.48
+    ],
+    "resumen": "Gana Juventus FC (ligero favorito, 44%).",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 564661,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-09-06T19:00:00Z",
+   "jornada": 4,
+   "local": "RCD Espanyol de Barcelona",
+   "visitante": "Sevilla FC",
+   "prediccion": {
+    "prob_1": 0.465,
+    "prob_X": 0.257,
+    "prob_2": 0.279,
+    "goles_esperados": [
+     1.492,
+     1.093
+    ],
+    "prob_over_2_5": 0.478,
+    "prob_btts": 0.514,
+    "marcadores": [
+     [
+      "1-1",
+      0.1221
+     ],
+     [
+      "1-0",
+      0.1133
+     ],
+     [
+      "2-1",
+      0.0917
+     ]
+    ],
+    "cuotas_justas": [
+     2.15,
+     3.89,
+     3.59
+    ],
+    "resumen": "Gana RCD Espanyol de Barcelona (ligero favorito, 46%).",
+    "confianza": "alta"
+   }
+  }
+ ]
+}

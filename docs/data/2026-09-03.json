@@ -1,0 +1,88 @@
+{
+ "fecha": "2026-09-03",
+ "actualizado": "2026-09-01T03:23:19+00:00",
+ "partidos": [
+  {
+   "id": 559696,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-09-03T18:45:00Z",
+   "jornada": 3,
+   "local": "Toulouse FC",
+   "visitante": "Lille OSC",
+   "prediccion": {
+    "prob_1": 0.303,
+    "prob_X": 0.288,
+    "prob_2": 0.409,
+    "goles_esperados": [
+     1.097,
+     1.316
+    ],
+    "prob_over_2_5": 0.434,
+    "prob_btts": 0.495,
+    "marcadores": [
+     [
+      "1-1",
+      0.1366
+     ],
+     [
+      "0-1",
+      0.1106
+     ],
+     [
+      "0-0",
+      0.0969
+     ]
+    ],
+    "cuotas_justas": [
+     3.3,
+     3.47,
+     2.45
+    ],
+    "resumen": "Partido parejo.",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 564682,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-09-03T19:00:00Z",
+   "jornada": 6,
+   "local": "Real Sociedad de Fútbol",
+   "visitante": "RC Celta de Vigo",
+   "prediccion": {
+    "prob_1": 0.452,
+    "prob_X": 0.245,
+    "prob_2": 0.303,
+    "goles_esperados": [
+     1.59,
+     1.257
+    ],
+    "prob_over_2_5": 0.542,
+    "prob_btts": 0.569,
+    "marcadores": [
+     [
+      "1-1",
+      0.1152
+     ],
+     [
+      "1-0",
+      0.093
+     ],
+     [
+      "2-1",
+      0.0922
+     ]
+    ],
+    "cuotas_justas": [
+     2.21,
+     4.08,
+     3.3
+    ],
+    "resumen": "Gana Real Sociedad de Fútbol (ligero favorito, 45%).",
+    "confianza": "alta"
+   }
+  }
+ ]
+}

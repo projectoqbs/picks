@@ -1,0 +1,252 @@
+{
+ "fecha": "2026-09-04",
+ "actualizado": "2026-09-01T03:23:19+00:00",
+ "partidos": [
+  {
+   "id": 559699,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-09-04T17:00:00Z",
+   "jornada": 3,
+   "local": "Olympique Lyonnais",
+   "visitante": "AJ Auxerre",
+   "prediccion": {
+    "prob_1": 0.572,
+    "prob_X": 0.236,
+    "prob_2": 0.192,
+    "goles_esperados": [
+     1.867,
+     0.997
+    ],
+    "prob_over_2_5": 0.545,
+    "prob_btts": 0.539,
+    "marcadores": [
+     [
+      "1-1",
+      0.1122
+     ],
+     [
+      "1-0",
+      0.1005
+     ],
+     [
+      "2-0",
+      0.0995
+     ]
+    ],
+    "cuotas_justas": [
+     1.75,
+     4.23,
+     5.2
+    ],
+    "resumen": "Gana Olympique Lyonnais (claro favorito, 57%).",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 565791,
+   "competicion": "Bundesliga",
+   "competicion_codigo": "BL1",
+   "fecha_utc": "2026-09-04T18:30:00Z",
+   "jornada": 2,
+   "local": "VfB Stuttgart",
+   "visitante": "1. FC Köln",
+   "prediccion": {
+    "prob_1": 0.671,
+    "prob_X": 0.181,
+    "prob_2": 0.148,
+    "goles_esperados": [
+     2.567,
+     1.164
+    ],
+    "prob_over_2_5": 0.72,
+    "prob_btts": 0.64,
+    "marcadores": [
+     [
+      "2-1",
+      0.0919
+     ],
+     [
+      "2-0",
+      0.079
+     ],
+     [
+      "3-1",
+      0.0787
+     ]
+    ],
+    "cuotas_justas": [
+     1.49,
+     5.52,
+     6.77
+    ],
+    "resumen": "Gana VfB Stuttgart (claro favorito, 67%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 558609,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-09-04T18:45:00Z",
+   "jornada": 3,
+   "local": "Genoa CFC",
+   "visitante": "Como 1907",
+   "prediccion": {
+    "prob_1": 0.21,
+    "prob_X": 0.259,
+    "prob_2": 0.53,
+    "goles_esperados": [
+     0.863,
+     1.536
+    ],
+    "prob_over_2_5": 0.43,
+    "prob_btts": 0.454,
+    "marcadores": [
+     [
+      "0-1",
+      0.1387
+     ],
+     [
+      "1-1",
+      0.1212
+     ],
+     [
+      "0-2",
+      0.1071
+     ]
+    ],
+    "cuotas_justas": [
+     4.75,
+     3.86,
+     1.88
+    ],
+    "resumen": "Gana Como 1907 (ligero favorito, 53%).",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 564667,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-09-04T19:00:00Z",
+   "jornada": 4,
+   "local": "Real Betis Balompié",
+   "visitante": "Real Madrid CF",
+   "prediccion": {
+    "prob_1": 0.272,
+    "prob_X": 0.235,
+    "prob_2": 0.493,
+    "goles_esperados": [
+     1.229,
+     1.732
+    ],
+    "prob_over_2_5": 0.568,
+    "prob_btts": 0.581,
+    "marcadores": [
+     [
+      "1-1",
+      0.1095
+     ],
+     [
+      "1-2",
+      0.0954
+     ],
+     [
+      "0-1",
+      0.0904
+     ]
+    ],
+    "cuotas_justas": [
+     3.67,
+     4.26,
+     2.03
+    ],
+    "resumen": "Gana Real Madrid CF (ligero favorito, 49%). ambos marcan.",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 560566,
+   "competicion": "Premier League",
+   "competicion_codigo": "PL",
+   "fecha_utc": "2026-09-04T19:00:00Z",
+   "jornada": 3,
+   "local": "Ipswich Town FC",
+   "visitante": "Liverpool FC",
+   "prediccion": {
+    "prob_1": 0.13,
+    "prob_X": 0.172,
+    "prob_2": 0.699,
+    "goles_esperados": [
+     1.127,
+     2.69
+    ],
+    "prob_over_2_5": 0.734,
+    "prob_btts": 0.636,
+    "marcadores": [
+     [
+      "1-2",
+      0.0897
+     ],
+     [
+      "1-3",
+      0.0804
+     ],
+     [
+      "0-2",
+      0.0796
+     ]
+    ],
+    "cuotas_justas": [
+     7.72,
+     5.82,
+     1.43
+    ],
+    "resumen": "Gana Liverpool FC (claro favorito, 70%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 559697,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-09-04T19:05:00Z",
+   "jornada": 3,
+   "local": "Paris Saint-Germain FC",
+   "visitante": "AS Monaco FC",
+   "prediccion": {
+    "prob_1": 0.644,
+    "prob_X": 0.191,
+    "prob_2": 0.164,
+    "goles_esperados": [
+     2.413,
+     1.166
+    ],
+    "prob_over_2_5": 0.694,
+    "prob_btts": 0.631,
+    "marcadores": [
+     [
+      "2-1",
+      0.0947
+     ],
+     [
+      "1-1",
+      0.0829
+     ],
+     [
+      "2-0",
+      0.0812
+     ]
+    ],
+    "cuotas_justas": [
+     1.55,
+     5.23,
+     6.08
+    ],
+    "resumen": "Gana Paris Saint-Germain FC (claro favorito, 64%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   }
+  }
+ ]
+}

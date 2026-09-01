@@ -1,0 +1,171 @@
+{
+ "fecha": "2026-09-11",
+ "actualizado": "2026-09-01T03:23:19+00:00",
+ "partidos": [
+  {
+   "id": 565797,
+   "competicion": "Bundesliga",
+   "competicion_codigo": "BL1",
+   "fecha_utc": "2026-09-11T18:30:00Z",
+   "jornada": 3,
+   "local": "1. FC Union Berlin",
+   "visitante": "FC Schalke 04",
+   "prediccion": {
+    "prob_1": 0.602,
+    "prob_X": 0.227,
+    "prob_2": 0.171,
+    "goles_esperados": [
+     1.987,
+     0.974
+    ],
+    "prob_over_2_5": 0.568,
+    "prob_btts": 0.544,
+    "marcadores": [
+     [
+      "1-1",
+      0.1076
+     ],
+     [
+      "2-0",
+      0.1022
+     ],
+     [
+      "2-1",
+      0.0995
+     ]
+    ],
+    "cuotas_justas": [
+     1.66,
+     4.41,
+     5.84
+    ],
+    "resumen": "Gana 1. FC Union Berlin (claro favorito, 60%).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'FC Schalke 04' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+  },
+  {
+   "id": 559689,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-09-11T18:45:00Z",
+   "jornada": 4,
+   "local": "Stade Rennais FC 1901",
+   "visitante": "Olympique de Marseille",
+   "prediccion": {
+    "prob_1": 0.388,
+    "prob_X": 0.235,
+    "prob_2": 0.377,
+    "goles_esperados": [
+     1.745,
+     1.719
+    ],
+    "prob_over_2_5": 0.672,
+    "prob_btts": 0.683,
+    "marcadores": [
+     [
+      "1-1",
+      0.0992
+     ],
+     [
+      "2-1",
+      0.0819
+     ],
+     [
+      "1-2",
+      0.0807
+     ]
+    ],
+    "cuotas_justas": [
+     2.58,
+     4.26,
+     2.65
+    ],
+    "resumen": "Partido parejo. se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 558606,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-09-11T18:45:00Z",
+   "jornada": 4,
+   "local": "Venezia FC",
+   "visitante": "ACF Fiorentina",
+   "prediccion": {
+    "prob_1": 0.234,
+    "prob_X": 0.271,
+    "prob_2": 0.495,
+    "goles_esperados": [
+     0.893,
+     1.431
+    ],
+    "prob_over_2_5": 0.41,
+    "prob_btts": 0.45,
+    "marcadores": [
+     [
+      "0-1",
+      0.1393
+     ],
+     [
+      "1-1",
+      0.1259
+     ],
+     [
+      "0-2",
+      0.1003
+     ]
+    ],
+    "cuotas_justas": [
+     4.27,
+     3.69,
+     2.02
+    ],
+    "resumen": "Gana ACF Fiorentina (ligero favorito, 50%). pocos goles (-2.5).",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 564669,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-09-11T19:00:00Z",
+   "jornada": 5,
+   "local": "Sevilla FC",
+   "visitante": "Valencia CF",
+   "prediccion": {
+    "prob_1": 0.452,
+    "prob_X": 0.259,
+    "prob_2": 0.289,
+    "goles_esperados": [
+     1.46,
+     1.11
+    ],
+    "prob_over_2_5": 0.474,
+    "prob_btts": 0.514,
+    "marcadores": [
+     [
+      "1-1",
+      0.1232
+     ],
+     [
+      "1-0",
+      0.1126
+     ],
+     [
+      "2-1",
+      0.0905
+     ]
+    ],
+    "cuotas_justas": [
+     2.21,
+     3.86,
+     3.47
+    ],
+    "resumen": "Gana Sevilla FC (ligero favorito, 45%).",
+    "confianza": "alta"
+   }
+  }
+ ]
+}

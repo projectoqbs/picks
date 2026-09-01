@@ -1,0 +1,195 @@
+{
+ "fecha": "2026-09-08",
+ "actualizado": "2026-09-01T03:23:19+00:00",
+ "partidos": [
+  {
+   "id": 575323,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-09-08T16:45:00Z",
+   "jornada": 1,
+   "local": "Club Brugge KV",
+   "visitante": "Aston Villa FC",
+   "prediccion": {
+    "prob_1": 0.305,
+    "prob_X": 0.22,
+    "prob_2": 0.475,
+    "goles_esperados": [
+     1.418,
+     1.819
+    ],
+    "prob_over_2_5": 0.628,
+    "prob_btts": 0.631,
+    "marcadores": [
+     [
+      "1-1",
+      0.0974
+     ],
+     [
+      "1-2",
+      0.0922
+     ],
+     [
+      "0-1",
+      0.0754
+     ]
+    ],
+    "cuotas_justas": [
+     3.28,
+     4.54,
+     2.11
+    ],
+    "resumen": "Gana Aston Villa FC (ligero favorito, 47%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Aston Villa FC' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+  },
+  {
+   "id": 575324,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-09-08T16:45:00Z",
+   "jornada": 1,
+   "local": "PAE AEK",
+   "visitante": "LASK Linz",
+   "prediccion": null,
+   "nota": "sin datos suficientes de alguno de los equipos"
+  },
+  {
+   "id": 575325,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-09-08T19:00:00Z",
+   "jornada": 1,
+   "local": "Real Madrid CF",
+   "visitante": "FC Internazionale Milano",
+   "prediccion": {
+    "prob_1": 0.565,
+    "prob_X": 0.202,
+    "prob_2": 0.233,
+    "goles_esperados": [
+     2.094,
+     1.278
+    ],
+    "prob_over_2_5": 0.655,
+    "prob_btts": 0.629,
+    "marcadores": [
+     [
+      "2-1",
+      0.0962
+     ],
+     [
+      "1-1",
+      0.0883
+     ],
+     [
+      "1-0",
+      0.0755
+     ]
+    ],
+    "cuotas_justas": [
+     1.77,
+     4.95,
+     4.3
+    ],
+    "resumen": "Gana Real Madrid CF (claro favorito, 57%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   }
+  },
+  {
+   "id": 575326,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-09-08T19:00:00Z",
+   "jornada": 1,
+   "local": "FC Porto",
+   "visitante": "Manchester City FC",
+   "prediccion": {
+    "prob_1": 0.495,
+    "prob_X": 0.209,
+    "prob_2": 0.296,
+    "goles_esperados": [
+     1.993,
+     1.503
+    ],
+    "prob_over_2_5": 0.678,
+    "prob_btts": 0.668,
+    "marcadores": [
+     [
+      "2-1",
+      0.0905
+     ],
+     [
+      "1-1",
+      0.0873
+     ],
+     [
+      "1-2",
+      0.0683
+     ]
+    ],
+    "cuotas_justas": [
+     2.02,
+     4.77,
+     3.38
+    ],
+    "resumen": "Gana FC Porto (ligero favorito, 49%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'FC Porto' solo tiene 1.2 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+  },
+  {
+   "id": 575327,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-09-08T19:00:00Z",
+   "jornada": 1,
+   "local": "Borussia Dortmund",
+   "visitante": "Villarreal CF",
+   "prediccion": {
+    "prob_1": 0.844,
+    "prob_X": 0.101,
+    "prob_2": 0.054,
+    "goles_esperados": [
+     3.075,
+     0.683
+    ],
+    "prob_over_2_5": 0.724,
+    "prob_btts": 0.47,
+    "marcadores": [
+     [
+      "3-0",
+      0.1131
+     ],
+     [
+      "2-0",
+      0.1104
+     ],
+     [
+      "4-0",
+      0.0869
+     ]
+    ],
+    "cuotas_justas": [
+     1.18,
+     9.89,
+     18.38
+    ],
+    "resumen": "Gana Borussia Dortmund (claro favorito, 84%). se esperan goles (+2.5).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Villarreal CF' solo tiene 4.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+  },
+  {
+   "id": 575328,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-09-08T19:00:00Z",
+   "jornada": 1,
+   "local": "Lille OSC",
+   "visitante": "Real Betis Balompié",
+   "prediccion": null,
+   "nota": "sin datos suficientes de alguno de los equipos"
+  }
+ ]
+}
