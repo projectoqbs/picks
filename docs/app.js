@@ -22,7 +22,15 @@ async function init() {
   } catch (e) {
     $('#lista').innerHTML = '<p class="vacio">No se pudo cargar la información.<br>Revisá tu conexión.</p>';
   }
-  if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('sw.js').catch(() => {});
+    let recargando = false;
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+      if (recargando) return;
+      recargando = true;
+      location.reload();      // hay SW nuevo -> recargar con datos frescos
+    });
+  }
 }
 
 async function getJSON(url) {
