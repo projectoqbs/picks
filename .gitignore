@@ -4,5 +4,6 @@ __pycache__/
 .venv/
 venv/
 *.db
+!futbol.db
 datos_cuotas/
 proximos*.csv

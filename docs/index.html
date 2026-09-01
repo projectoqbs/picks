@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Pronóstico</title>
+<meta name="theme-color" content="#0e121b">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Pronóstico">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header id="top">
+  <h1>Pronóstico</h1>
+  <span id="actualizado"></span>
+</header>
+
+<nav id="dias" aria-label="Días"></nav>
+
+<main id="lista">
+  <p class="cargando">Cargando…</p>
+</main>
+
+<footer>
+  <p>Probabilidades de un modelo estadístico (Poisson/Dixon-Coles) sobre resultados históricos.
+  Es una estimación de lo más probable, no una garantía ni un consejo de apuestas.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

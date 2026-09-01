@@ -1,0 +1,15 @@
+{
+  "name": "Pronóstico",
+  "short_name": "Pronóstico",
+  "description": "Análisis de lo más probable en los partidos del día.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e121b",
+  "theme_color": "#0e121b",
+  "lang": "es",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
