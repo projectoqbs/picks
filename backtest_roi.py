@@ -1,12 +1,17 @@
 """
 Backtest de ROI: ¿el edge del modelo se traduce en ganancia contra
-cuotas reales de cierre del mercado?
+cuotas reales del mercado?
 
-Cuotas: CSV historicos gratuitos de football-data.co.uk (cuotas de
-cierre de Pinnacle / Bet365 / media de mercado). Cubre las 5 ligas
-domesticas europeas que tambien estan en futbol.db:
+Cuotas: dataset abierto de GitHub que replica y unifica football-data.co.uk
+(xgabora/Club-Football-Match-Data). Un solo CSV con cuotas pre-partido de
+Bet365 (OddHome/Draw/Away) y el mejor precio entre ~17 casas europeas
+(MaxHome/Draw/Away). Se usa por GitHub porque football-data.co.uk esta
+bloqueado por Coljuegos en Colombia.
+
+Cubre las 5 ligas domesticas europeas que tambien estan en futbol.db:
     PL -> E0 | PD -> SP1 | SA -> I1 | BL1 -> D1 | FL1 -> F1
-(No hay Champions, Brasileirao ni Sudamerica en esa fuente.)
+Temporadas con cuotas: 2023-24 y 2024-25 (el dataset termina en jun-2025;
+no hay 2025-26). No hay Champions ni Sudamerica.
 
 Metodo:
   1. Walk-forward igual que backtest.py: para cada partido de la ventana
@@ -34,11 +39,16 @@ from datetime import datetime, timedelta, timezone
 from difflib import get_close_matches
 
 import numpy as np
+import requests
 
 from modelo import (conectar, cargar_partidos, ModeloPoisson, _parse_fecha,
                     HALF_LIFE_DIAS, PRIOR_SD)
 
 CACHE_DIR = os.getenv("DIR_CUOTAS", "datos_cuotas")
+CSV_CUOTAS = os.path.join(CACHE_DIR, "Matches.csv")
+URL_CUOTAS = ("https://raw.githubusercontent.com/xgabora/"
+              "Club-Football-Match-Data-2000-2025/main/data/Matches.csv")
+
 DESDE_DEFECTO = "2024-08-01"
 MIN_TRAIN = 150
 REAJUSTE_DIAS = 7
@@ -46,15 +56,10 @@ UMBRAL_EV = 0.05
 KELLY_FRAC = 0.25
 BANCA_INICIAL = 100.0
 KELLY_CAP = 0.05          # tope de fraccion de banca por apuesta
+MERCADO = os.getenv("MERCADO_CUOTAS", "max")   # 'max' = mejor precio, 'b365' = Bet365
 
-# liga interna -> (division en football-data.co.uk, temporadas a bajar)
-DIV = {
-    "PL":  ("E0",  ["2324", "2425", "2526"]),
-    "PD":  ("SP1", ["2324", "2425", "2526"]),
-    "SA":  ("I1",  ["2324", "2425", "2526"]),
-    "BL1": ("D1",  ["2324", "2425", "2526"]),
-    "FL1": ("F1",  ["2324", "2425", "2526"]),
-}
+# liga interna -> codigo Division en el dataset
+DIV = {"PL": "E0", "PD": "SP1", "SA": "I1", "BL1": "D1", "FL1": "F1"}
 
 # alias para los pocos nombres que el emparejado automatico no resuelve
 ALIAS = {
@@ -110,37 +115,18 @@ ALIAS = {
 
 
 # --------------------------------------------------------------- cuotas
-# Fuente de los CSV: football-data.co.uk. En Colombia ese dominio esta
-# bloqueado por Coljuegos (secuestro de DNS), asi que el script NO lo
-# descarga solo: espera los archivos ya presentes en datos_cuotas/ con
-# el nombre {DIV}_{TEMPORADA}.csv, p.ej. datos_cuotas/E0_2425.csv.
-# Consíguelos como accedas normalmente a ese sitio y dejalos ahi.
-URL_PLANTILLA = "https://www.football-data.co.uk/mmz4281/{season}/{div}.csv"
-
-
-def descargar(div, season):
-    destino = os.path.join(CACHE_DIR, f"{div}_{season}.csv")
-    if os.path.exists(destino) and os.path.getsize(destino) > 0:
-        return destino
-    raise SystemExit(
-        f"Falta {destino}\n"
-        f"  Descargalo de {URL_PLANTILLA.format(season=season, div=div)} "
-        f"y ponlo en la carpeta {CACHE_DIR}/ con ese nombre exacto."
-    )
-
-
-def _leer_csv(path):
-    with open(path, "r", encoding="latin-1", newline="") as f:
-        return list(csv.DictReader(f))
-
-
-def _fecha_couk(s):
-    for fmt in ("%d/%m/%Y", "%d/%m/%y"):
-        try:
-            return datetime.strptime(s, fmt).replace(tzinfo=timezone.utc)
-        except ValueError:
-            pass
-    return None
+def descargar_cuotas():
+    """Baja el CSV unico de cuotas del mirror de GitHub (una vez, cacheado)."""
+    if os.path.exists(CSV_CUOTAS) and os.path.getsize(CSV_CUOTAS) > 1_000_000:
+        return CSV_CUOTAS
+    os.makedirs(CACHE_DIR, exist_ok=True)
+    print(f"  bajando cuotas de {URL_CUOTAS} (~44 MB, una sola vez)...")
+    r = requests.get(URL_CUOTAS, timeout=180)
+    r.raise_for_status()
+    with open(CSV_CUOTAS, "wb") as f:
+        f.write(r.content)
+    print(f"  guardado {CSV_CUOTAS} ({len(r.content)//1024//1024} MB)")
+    return CSV_CUOTAS
 
 
 def _num(row, *claves):
@@ -155,22 +141,30 @@ def _num(row, *claves):
 
 
 def cargar_cuotas(liga):
-    """Lista de dicts: fecha, home, away, fthg, ftag, o1, ox, o2 (cierre)."""
+    """Lista de dicts: fecha, home, away, fthg, ftag, o1, ox, o2.
+
+    Cuotas segun MERCADO: 'max' = mejor precio entre ~17 casas (columnas
+    Max*), 'b365' = Bet365 (columnas Odd*). El mejor precio es lo realista
+    para value betting; Bet365 sirve para comparar contra una sola casa.
+    """
     if liga not in DIV:
-        raise SystemExit(f"{liga}: sin cuotas en football-data.co.uk. "
+        raise SystemExit(f"{liga}: sin cuotas en el dataset. "
                          f"Ligas con cuotas: {', '.join(DIV)}")
-    div, seasons = DIV[liga]
+    cols = (("MaxHome", "MaxDraw", "MaxAway") if MERCADO == "max"
+            else ("OddHome", "OddDraw", "OddAway"))
+    div = DIV[liga]
     filas = []
-    for season in seasons:
-        for row in _leer_csv(descargar(div, season)):
-            fecha = _fecha_couk((row.get("Date") or "").strip())
-            if not fecha:
+    with open(CSV_CUOTAS, "r", encoding="utf-8", newline="") as f:
+        for row in csv.DictReader(f):
+            if row.get("Division") != div:
                 continue
-            o1 = _num(row, "PSCH", "B365CH", "AvgCH", "PSH", "B365H", "AvgH")
-            ox = _num(row, "PSCD", "B365CD", "AvgCD", "PSD", "B365D", "AvgD")
-            o2 = _num(row, "PSCA", "B365CA", "AvgCA", "PSA", "B365A", "AvgA")
-            fthg = _num(row, "FTHG")
-            ftag = _num(row, "FTAG")
+            try:
+                fecha = datetime.strptime(row["MatchDate"], "%Y-%m-%d").replace(
+                    tzinfo=timezone.utc)
+            except (KeyError, ValueError):
+                continue
+            o1, ox, o2 = (_num(row, cols[0]), _num(row, cols[1]), _num(row, cols[2]))
+            fthg, ftag = _num(row, "FTHome"), _num(row, "FTAway")
             if None in (o1, ox, o2, fthg, ftag):
                 continue
             filas.append({
@@ -226,11 +220,12 @@ def _a_dt(s):
 def backtest_roi(conn, liga, desde=DESDE_DEFECTO, umbral=UMBRAL_EV,
                  kelly_frac=KELLY_FRAC, half_life=HALF_LIFE_DIAS,
                  prior_sd=PRIOR_SD, dc=True, reajuste_dias=REAJUSTE_DIAS,
-                 min_train=MIN_TRAIN, verbose=True):
+                 min_train=MIN_TRAIN, min_prob=0.0, max_cuota=99.0, verbose=True):
     filas = cargar_partidos(conn, liga)
     fechas = [_parse_fecha(f[0]) for f in filas]
     desde_dt = _a_dt(desde)
 
+    descargar_cuotas()
     cuotas = cargar_cuotas(liga)
     nombres_db = sorted({f[1] for f in filas} | {f[2] for f in filas})
     nombres_couk = sorted({c["home"] for c in cuotas} | {c["away"] for c in cuotas})
@@ -243,7 +238,13 @@ def backtest_roi(conn, liga, desde=DESDE_DEFECTO, umbral=UMBRAL_EV,
     for c in cuotas:
         cidx[(c["fecha"].date(), c["home"], c["away"])] = c
 
-    test = [i for i, d in enumerate(fechas) if d >= desde_dt and i >= min_train]
+    # el dataset de cuotas no llega hasta hoy: no evaluar partidos posteriores
+    hasta_dt = max(c["fecha"] for c in cuotas) + timedelta(days=2)
+    test = [i for i, d in enumerate(fechas)
+            if desde_dt <= d <= hasta_dt and i >= min_train]
+    if verbose:
+        print(f"  ventana de test: {desde} .. {hasta_dt.date()} "
+              f"({len(test)} partidos)")
 
     banca = BANCA_INICIAL
     pico = banca
@@ -283,7 +284,7 @@ def backtest_roi(conn, liga, desde=DESDE_DEFECTO, umbral=UMBRAL_EV,
         o = np.array([c["o1"], c["ox"], c["o2"]])
         ev = p * o - 1.0
         k = int(np.argmax(ev))
-        if ev[k] < umbral:
+        if ev[k] < umbral or p[k] < min_prob or o[k] > max_cuota:
             continue
 
         real = resultado_1x2(gl, gv)
@@ -339,7 +340,7 @@ def backtest_roi(conn, liga, desde=DESDE_DEFECTO, umbral=UMBRAL_EV,
 def _imprimir(r):
     c = r["config"]
     print(f"\n== ROI {r['liga']}  (desde {r['desde']}, umbral EV {r['umbral']}, "
-          f"hl={c['half_life']} sd={c['prior_sd']} dc={int(c['dc'])}) ==")
+          f"mercado {MERCADO}, hl={c['half_life']} sd={c['prior_sd']} dc={int(c['dc'])}) ==")
     print(f"  partidos con cuota .....: {r['partidos_con_cuota']} "
           f"(sin emparejar cuota: {r['partidos_sin_cuota']})")
     print(f"  apuestas realizadas ....: {r['apuestas']}")
@@ -366,11 +367,19 @@ def _cli():
 
     kw = {}
     for flag, clave, conv in (("--desde", "desde", str), ("--umbral", "umbral", float),
-                              ("--kelly", "kelly_frac", float)):
+                              ("--kelly", "kelly_frac", float),
+                              ("--min-prob", "min_prob", float),
+                              ("--max-cuota", "max_cuota", float)):
         if flag in args:
             i = args.index(flag)
             kw[clave] = conv(args[i + 1])
             del args[i:i + 2]
+
+    global MERCADO
+    if "--mercado" in args:
+        i = args.index("--mercado")
+        MERCADO = args[i + 1]
+        del args[i:i + 2]
 
     os.makedirs(CACHE_DIR, exist_ok=True)
     conn = conectar()
