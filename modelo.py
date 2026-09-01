@@ -239,6 +239,22 @@ class ModeloPoisson:
                 f"Equipos disponibles:\n  " + "\n  ".join(self.equipos)
             )
 
+    def fuerza(self, equipo):
+        """Desglose de fuerza de un equipo (para mostrar el 'por que'):
+        ataque, defensa, neto (=ataque+defensa) y si tiene datos suficientes."""
+        if equipo not in self.idx:
+            return None
+        _, _, atk, dfn, _ = self.params_
+        k = self.idx[equipo]
+        peso = self._peso_equipo.get(equipo, 0.0)
+        return {
+            "ataque": round(float(atk[k]), 3),
+            "defensa": round(float(dfn[k]), 3),
+            "neto": round(float(atk[k] + dfn[k]), 3),
+            "peso": round(peso, 1),
+            "fiable": bool(peso >= PESO_MIN_FIABLE),
+        }
+
     def tasas(self, local, visitante):
         """(lambda_local, lambda_visita) esperados para ese cruce."""
         self._chequear(local, visitante)
@@ -334,7 +350,7 @@ class ModeloPoisson:
         filas = []
         for e, k in self.idx.items():
             peso = self._peso_equipo[e]
-            fiable = peso >= PESO_MIN_FIABLE
+            fiable = bool(peso >= PESO_MIN_FIABLE)
             if solo_fiables and not fiable:
                 continue
             filas.append((e, float(atk[k]), float(dfn[k]), round(peso, 1), fiable))

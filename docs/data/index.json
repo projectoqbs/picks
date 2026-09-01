@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T03:23:19+00:00",
+ "actualizado": "2026-09-01T16:09:31+00:00",
  "dias": [
   "2026-09-03",
   "2026-09-04",
@@ -35,6 +35,38 @@
   {
    "codigo": "CL",
    "nombre": "Champions League"
+  }
+ ],
+ "tablas": [
+  {
+   "codigo": "FL1",
+   "nombre": "Ligue 1",
+   "archivo": "tabla_FL1.json"
+  },
+  {
+   "codigo": "PD",
+   "nombre": "La Liga",
+   "archivo": "tabla_PD.json"
+  },
+  {
+   "codigo": "BL1",
+   "nombre": "Bundesliga",
+   "archivo": "tabla_BL1.json"
+  },
+  {
+   "codigo": "SA",
+   "nombre": "Serie A",
+   "archivo": "tabla_SA.json"
+  },
+  {
+   "codigo": "PL",
+   "nombre": "Premier League",
+   "archivo": "tabla_PL.json"
+  },
+  {
+   "codigo": "CL",
+   "nombre": "Champions League",
+   "archivo": "tabla_CL.json"
   }
  ],
  "total_partidos": 71

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-09",
- "actualizado": "2026-09-01T03:23:19+00:00",
+ "actualizado": "2026-09-01T16:09:31+00:00",
  "partidos": [
   {
    "id": 575329,
@@ -11,11 +11,11 @@
    "local": "FC Barcelona",
    "visitante": "Feyenoord Rotterdam",
    "prediccion": {
-    "prob_1": 0.787,
+    "prob_1": 0.786,
     "prob_X": 0.111,
     "prob_2": 0.103,
     "goles_esperados": [
-     3.684,
+     3.683,
      1.415
     ],
     "prob_over_2_5": 0.883,
@@ -36,13 +36,60 @@
     ],
     "cuotas_justas": [
      1.27,
-     9.03,
+     9.02,
      9.74
     ],
     "resumen": "Gana FC Barcelona (claro favorito, 79%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Feyenoord Rotterdam' solo tiene 4.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+   "nota": "pocos datos: 'Feyenoord Rotterdam' solo tiene 4.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.567,
+     "defensa": 0.058,
+     "neto": 0.625,
+     "peso": 13.8,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.138,
+     "defensa": -0.191,
+     "neto": -0.052,
+     "peso": 4.6,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 14,
+     "gc": 7,
+     "racha": [
+      "G",
+      "E",
+      "G",
+      "P",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 4,
+     "gc": 11,
+     "racha": [
+      "P",
+      "G",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": []
+   }
   },
   {
    "id": 575330,
@@ -69,7 +116,7 @@
     "prob_2": 0.247,
     "goles_esperados": [
      1.964,
-     1.257
+     1.258
     ],
     "prob_over_2_5": 0.625,
     "prob_btts": 0.611,
@@ -94,6 +141,61 @@
     ],
     "resumen": "Gana Liverpool FC (ligero favorito, 54%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.24,
+     "defensa": 0.485,
+     "neto": 0.725,
+     "peso": 10.7,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.447,
+     "defensa": 0.111,
+     "neto": 0.559,
+     "peso": 15.2,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 0,
+     "p": 3,
+     "gf": 10,
+     "gc": 5,
+     "racha": [
+      "G",
+      "P",
+      "G",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 6,
+     "gc": 7,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "E",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2025-09-17",
+      "local": "Liverpool FC",
+      "visitante": "Club Atlético de Madrid",
+      "goles_local": 3,
+      "goles_visitante": 2
+     }
+    ]
    }
   },
   {
@@ -109,7 +211,7 @@
     "prob_X": 0.021,
     "prob_2": 0.009,
     "goles_esperados": [
-     5.647,
+     5.644,
      0.751
     ],
     "prob_over_2_5": 0.952,
@@ -121,7 +223,7 @@
      ],
      [
       "6-0",
-      0.0773
+      0.0772
      ],
      [
       "4-0",
@@ -130,13 +232,60 @@
     ],
     "cuotas_justas": [
      1.03,
-     47.79,
-     109.65
+     47.67,
+     109.33
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 97%). se esperan goles (+2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'ŠK Slovan Bratislava' solo tiene 2.3 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+   "nota": "pocos datos: 'ŠK Slovan Bratislava' solo tiene 2.3 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.732,
+     "defensa": 0.328,
+     "neto": 1.061,
+     "peso": 19.1,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.224,
+     "defensa": -0.452,
+     "neto": -0.676,
+     "peso": 2.3,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 4,
+     "e": 1,
+     "p": 0,
+     "gf": 15,
+     "gc": 9,
+     "racha": [
+      "G",
+      "G",
+      "G",
+      "E",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 0,
+     "e": 0,
+     "p": 5,
+     "gf": 6,
+     "gc": 16,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": []
+   }
   },
   {
    "id": 575333,
@@ -152,7 +301,7 @@
     "prob_2": 0.719,
     "goles_esperados": [
      0.651,
-     2.124
+     2.123
     ],
     "prob_over_2_5": 0.524,
     "prob_btts": 0.418,
@@ -163,7 +312,7 @@
      ],
      [
       "0-1",
-      0.1359
+      0.1358
      ],
      [
       "0-3",
@@ -171,14 +320,61 @@
      ]
     ],
     "cuotas_justas": [
-     9.58,
+     9.57,
      5.66,
      1.39
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 72%).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'SSC Napoli' solo tiene 5.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+   "nota": "pocos datos: 'SSC Napoli' solo tiene 5.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.246,
+     "defensa": -0.053,
+     "neto": -0.299,
+     "peso": 5.9,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": 0.434,
+     "defensa": 0.729,
+     "neto": 1.163,
+     "peso": 16.3,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 5,
+     "gc": 6,
+     "racha": [
+      "E",
+      "G",
+      "P",
+      "E",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 2,
+     "p": 1,
+     "gf": 7,
+     "gc": 6,
+     "racha": [
+      "G",
+      "E",
+      "E",
+      "G",
+      "P"
+     ]
+    },
+    "cara_a_cara": []
+   }
   },
   {
    "id": 575334,
@@ -189,7 +385,7 @@
    "local": "Sporting Clube de Portugal",
    "visitante": "Galatasaray SK",
    "prediccion": {
-    "prob_1": 0.624,
+    "prob_1": 0.623,
     "prob_X": 0.2,
     "prob_2": 0.176,
     "goles_esperados": [
@@ -215,10 +411,57 @@
     "cuotas_justas": [
      1.6,
      4.99,
-     5.68
+     5.67
     ],
     "resumen": "Gana Sporting Clube de Portugal (claro favorito, 62%).",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.154,
+     "defensa": 0.315,
+     "neto": 0.469,
+     "peso": 10.7,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.016,
+     "defensa": -0.008,
+     "neto": 0.008,
+     "peso": 8.3,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 8,
+     "gc": 6,
+     "racha": [
+      "G",
+      "P",
+      "G",
+      "P",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 0,
+     "p": 3,
+     "gf": 8,
+     "gc": 11,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "G",
+      "P"
+     ]
+    },
+    "cara_a_cara": []
    }
   }
  ]

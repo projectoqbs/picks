@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-08",
- "actualizado": "2026-09-01T03:23:19+00:00",
+ "actualizado": "2026-09-01T16:09:31+00:00",
  "partidos": [
   {
    "id": 575323,
@@ -16,7 +16,7 @@
     "prob_2": 0.475,
     "goles_esperados": [
      1.418,
-     1.819
+     1.818
     ],
     "prob_over_2_5": 0.628,
     "prob_btts": 0.631,
@@ -27,7 +27,7 @@
      ],
      [
       "1-2",
-      0.0922
+      0.0921
      ],
      [
       "0-1",
@@ -42,7 +42,76 @@
     "resumen": "Gana Aston Villa FC (ligero favorito, 47%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Aston Villa FC' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+   "nota": "pocos datos: 'Aston Villa FC' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.155,
+     "defensa": -0.104,
+     "neto": 0.051,
+     "peso": 9.8,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.228,
+     "defensa": 0.351,
+     "neto": 0.579,
+     "peso": 3.8,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 11,
+     "gc": 11,
+     "racha": [
+      "P",
+      "G",
+      "G",
+      "E",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 4,
+     "e": 0,
+     "p": 1,
+     "gf": 14,
+     "gc": 8,
+     "racha": [
+      "G",
+      "G",
+      "G",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2025-03-12",
+      "local": "Aston Villa FC",
+      "visitante": "Club Brugge KV",
+      "goles_local": 3,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-03-04",
+      "local": "Club Brugge KV",
+      "visitante": "Aston Villa FC",
+      "goles_local": 1,
+      "goles_visitante": 3
+     },
+     {
+      "fecha": "2024-11-06",
+      "local": "Club Brugge KV",
+      "visitante": "Aston Villa FC",
+      "goles_local": 1,
+      "goles_visitante": 0
+     }
+    ]
+   }
   },
   {
    "id": 575324,
@@ -94,6 +163,53 @@
     ],
     "resumen": "Gana Real Madrid CF (claro favorito, 57%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.522,
+     "defensa": 0.127,
+     "neto": 0.648,
+     "peso": 15.7,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.106,
+     "defensa": 0.328,
+     "neto": 0.434,
+     "peso": 12.3,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 11,
+     "gc": 8,
+     "racha": [
+      "G",
+      "G",
+      "G",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 5,
+     "gc": 9,
+     "racha": [
+      "P",
+      "P",
+      "G",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": []
    }
   },
   {
@@ -136,7 +252,54 @@
     "resumen": "Gana FC Porto (ligero favorito, 49%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'FC Porto' solo tiene 1.2 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+   "nota": "pocos datos: 'FC Porto' solo tiene 1.2 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.232,
+     "defensa": 0.055,
+     "neto": 0.288,
+     "peso": 1.2,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": 0.197,
+     "defensa": 0.088,
+     "neto": 0.285,
+     "peso": 10.7,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 11,
+     "gc": 10,
+     "racha": [
+      "G",
+      "P",
+      "G",
+      "G",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 0,
+     "p": 3,
+     "gf": 6,
+     "gc": 9,
+     "racha": [
+      "G",
+      "P",
+      "G",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": []
+   }
   },
   {
    "id": 575327,
@@ -151,7 +314,7 @@
     "prob_X": 0.101,
     "prob_2": 0.054,
     "goles_esperados": [
-     3.075,
+     3.074,
      0.683
     ],
     "prob_over_2_5": 0.724,
@@ -172,13 +335,68 @@
     ],
     "cuotas_justas": [
      1.18,
-     9.89,
-     18.38
+     9.88,
+     18.36
     ],
     "resumen": "Gana Borussia Dortmund (claro favorito, 84%). se esperan goles (+2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Villarreal CF' solo tiene 4.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+   "nota": "pocos datos: 'Villarreal CF' solo tiene 4.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.28,
+     "defensa": 0.113,
+     "neto": 0.394,
+     "peso": 12.7,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.534,
+     "defensa": -0.297,
+     "neto": -0.831,
+     "peso": 4.7,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 5,
+     "gc": 10,
+     "racha": [
+      "E",
+      "P",
+      "P",
+      "G",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 0,
+     "e": 0,
+     "p": 5,
+     "gf": 3,
+     "gc": 13,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2025-11-25",
+      "local": "Borussia Dortmund",
+      "visitante": "Villarreal CF",
+      "goles_local": 4,
+      "goles_visitante": 0
+     }
+    ]
+   }
   },
   {
    "id": 575328,

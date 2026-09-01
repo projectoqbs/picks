@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-07",
- "actualizado": "2026-09-01T03:23:19+00:00",
+ "actualizado": "2026-09-01T16:09:31+00:00",
  "partidos": [
   {
    "id": 558610,
@@ -41,6 +41,89 @@
     ],
     "resumen": "Gana Cagliari Calcio (ligero favorito, 45%). pocos goles (-2.5).",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.071,
+     "defensa": -0.089,
+     "neto": -0.16,
+     "peso": 45.0,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.365,
+     "defensa": -0.069,
+     "neto": -0.434,
+     "peso": 45.0,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 5,
+     "gc": 5,
+     "racha": [
+      "P",
+      "G",
+      "G",
+      "G",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 6,
+     "gc": 7,
+     "racha": [
+      "P",
+      "G",
+      "G",
+      "G",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-02-16",
+      "local": "Cagliari Calcio",
+      "visitante": "US Lecce",
+      "goles_local": 0,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-09-19",
+      "local": "US Lecce",
+      "visitante": "Cagliari Calcio",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-01-19",
+      "local": "Cagliari Calcio",
+      "visitante": "US Lecce",
+      "goles_local": 4,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-08-31",
+      "local": "US Lecce",
+      "visitante": "Cagliari Calcio",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-05-05",
+      "local": "Cagliari Calcio",
+      "visitante": "US Lecce",
+      "goles_local": 1,
+      "goles_visitante": 1
+     }
+    ]
    }
   },
   {
@@ -82,6 +165,89 @@
     ],
     "resumen": "Partido parejo. pocos goles (-2.5).",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.333,
+     "defensa": 0.262,
+     "neto": -0.071,
+     "peso": 46.0,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.113,
+     "defensa": 0.026,
+     "neto": 0.138,
+     "peso": 46.0,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 0,
+     "p": 3,
+     "gf": 2,
+     "gc": 5,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "G",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 3,
+     "gc": 5,
+     "racha": [
+      "E",
+      "G",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-02-01",
+      "local": "Getafe CF",
+      "visitante": "RC Celta de Vigo",
+      "goles_local": 0,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-08-17",
+      "local": "RC Celta de Vigo",
+      "visitante": "Getafe CF",
+      "goles_local": 0,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-05-24",
+      "local": "Getafe CF",
+      "visitante": "RC Celta de Vigo",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-11-04",
+      "local": "RC Celta de Vigo",
+      "visitante": "Getafe CF",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-02-11",
+      "local": "Getafe CF",
+      "visitante": "RC Celta de Vigo",
+      "goles_local": 3,
+      "goles_visitante": 2
+     }
+    ]
    }
   },
   {
@@ -123,6 +289,89 @@
     ],
     "resumen": "Partido parejo. pocos goles (-2.5).",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.018,
+     "defensa": -0.03,
+     "neto": -0.012,
+     "peso": 45.0,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.074,
+     "defensa": 0.162,
+     "neto": 0.236,
+     "peso": 45.1,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 6,
+     "gc": 5,
+     "racha": [
+      "G",
+      "P",
+      "P",
+      "E",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 4,
+     "gc": 6,
+     "racha": [
+      "P",
+      "P",
+      "G",
+      "G",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-04-27",
+      "local": "SS Lazio",
+      "visitante": "Udinese Calcio",
+      "goles_local": 3,
+      "goles_visitante": 3
+     },
+     {
+      "fecha": "2025-12-27",
+      "local": "Udinese Calcio",
+      "visitante": "SS Lazio",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-03-10",
+      "local": "SS Lazio",
+      "visitante": "Udinese Calcio",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-08-24",
+      "local": "Udinese Calcio",
+      "visitante": "SS Lazio",
+      "goles_local": 2,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-03-11",
+      "local": "SS Lazio",
+      "visitante": "Udinese Calcio",
+      "goles_local": 1,
+      "goles_visitante": 2
+     }
+    ]
    }
   },
   {
@@ -139,7 +388,7 @@
     "prob_2": 0.329,
     "goles_esperados": [
      1.611,
-     1.378
+     1.377
     ],
     "prob_over_2_5": 0.574,
     "prob_btts": 0.598,
@@ -164,6 +413,68 @@
     ],
     "resumen": "Gana Elche CF (ligero favorito, 43%). ambos marcan.",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.063,
+     "defensa": -0.129,
+     "neto": -0.066,
+     "peso": 27.6,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.106,
+     "defensa": -0.031,
+     "neto": 0.075,
+     "peso": 46.0,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 5,
+     "gc": 10,
+     "racha": [
+      "G",
+      "E",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 7,
+     "gc": 11,
+     "racha": [
+      "P",
+      "E",
+      "P",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-02-07",
+      "local": "Real Sociedad de Fútbol",
+      "visitante": "Elche CF",
+      "goles_local": 3,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-11-07",
+      "local": "Elche CF",
+      "visitante": "Real Sociedad de Fútbol",
+      "goles_local": 1,
+      "goles_visitante": 1
+     }
+    ]
    }
   }
  ]

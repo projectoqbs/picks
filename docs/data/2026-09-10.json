@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-10",
- "actualizado": "2026-09-01T03:23:19+00:00",
+ "actualizado": "2026-09-01T16:09:31+00:00",
  "partidos": [
   {
    "id": 575335,
@@ -53,7 +53,62 @@
     "resumen": "Gana PSV (claro favorito, 65%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'FK Shakhtar Donetsk' solo tiene 3.2 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+   "nota": "pocos datos: 'FK Shakhtar Donetsk' solo tiene 3.2 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.309,
+     "defensa": -0.082,
+     "neto": 0.227,
+     "peso": 9.6,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.115,
+     "defensa": -0.068,
+     "neto": -0.183,
+     "peso": 3.2,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 8,
+     "gc": 10,
+     "racha": [
+      "E",
+      "G",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 0,
+     "p": 3,
+     "gf": 8,
+     "gc": 12,
+     "racha": [
+      "G",
+      "P",
+      "P",
+      "G",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2024-11-27",
+      "local": "PSV",
+      "visitante": "FK Shakhtar Donetsk",
+      "goles_local": 3,
+      "goles_visitante": 2
+     }
+    ]
+   }
   },
   {
    "id": 575337,
@@ -95,7 +150,54 @@
     "resumen": "Gana FC Bayern München (claro favorito, 77%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'FK Bodø/Glimt' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+   "nota": "pocos datos: 'FK Bodø/Glimt' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.615,
+     "defensa": 0.33,
+     "neto": 0.946,
+     "peso": 15.7,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.295,
+     "defensa": -0.03,
+     "neto": 0.265,
+     "peso": 7.5,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 15,
+     "gc": 11,
+     "racha": [
+      "G",
+      "G",
+      "G",
+      "P",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 4,
+     "e": 0,
+     "p": 1,
+     "gf": 10,
+     "gc": 8,
+     "racha": [
+      "G",
+      "G",
+      "G",
+      "G",
+      "P"
+     ]
+    },
+    "cara_a_cara": []
+   }
   },
   {
    "id": 575338,
@@ -132,7 +234,7 @@
     "prob_X": 0.244,
     "prob_2": 0.471,
     "goles_esperados": [
-     1.134,
+     1.135,
      1.54
     ],
     "prob_over_2_5": 0.5,
@@ -159,7 +261,54 @@
     "resumen": "Gana Racing Club de Lens (ligero favorito, 47%).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Racing Club de Lens' solo tiene 0.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+   "nota": "pocos datos: 'Racing Club de Lens' solo tiene 0.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.404,
+     "defensa": -0.232,
+     "neto": -0.636,
+     "peso": 4.7,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": -0.067,
+     "defensa": 0.016,
+     "neto": -0.051,
+     "peso": 0.8,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 0,
+     "e": 1,
+     "p": 4,
+     "gf": 3,
+     "gc": 14,
+     "racha": [
+      "P",
+      "E",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 5,
+     "gc": 10,
+     "racha": [
+      "G",
+      "E",
+      "P",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": []
+   }
   }
  ]
 }

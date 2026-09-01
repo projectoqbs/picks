@@ -20,19 +20,28 @@ header{
 header h1{font-size:20px; font-weight:700; letter-spacing:-.02em}
 #actualizado{color:var(--tx3); font-size:12px}
 
-#dias{
+#vistas{display:flex; gap:8px; padding:10px 16px 0; background:var(--bg)}
+.vista{
+  flex:1; padding:9px 0; border-radius:10px; background:var(--card);
+  color:var(--tx2); font-size:13px; font-weight:700; border:1px solid var(--line);
+  cursor:pointer;
+}
+.vista.sel{background:var(--acc); color:#06121c; border-color:var(--acc)}
+
+#dias, #ligas{
   position:sticky; top:0; display:flex; gap:8px; overflow-x:auto;
   padding:10px 16px; background:var(--bg2); border-bottom:1px solid var(--line);
   -webkit-overflow-scrolling:touch; scrollbar-width:none;
 }
-#dias::-webkit-scrollbar{display:none}
-.dia{
+#dias[hidden], #ligas[hidden]{display:none}
+#dias::-webkit-scrollbar, #ligas::-webkit-scrollbar{display:none}
+.dia, .liga{
   flex:0 0 auto; padding:7px 12px; border-radius:999px; background:var(--card);
   color:var(--tx2); font-size:13px; font-weight:600; white-space:nowrap;
   border:1px solid var(--line); cursor:pointer;
 }
 .dia .n{display:block; font-size:11px; font-weight:500; color:var(--tx3)}
-.dia.sel{background:var(--acc); color:#06121c; border-color:var(--acc)}
+.dia.sel, .liga.sel{background:var(--acc); color:#06121c; border-color:var(--acc)}
 .dia.sel .n{color:#06121c; opacity:.7}
 
 main{padding:12px 12px 4px}
@@ -68,5 +77,47 @@ main{padding:12px 12px 4px}
 .marcadores span{background:var(--bg2); border:1px solid var(--line); border-radius:8px;
   padding:4px 8px; font-size:12px; color:var(--tx2)}
 .sindatos{color:var(--tx3); font-size:13px; margin-top:8px}
+
+/* fuerza (comparacion local vs visitante) */
+.fuerza{margin-top:14px}
+.fhead{display:flex; justify-content:space-between; font-size:11px; font-weight:700;
+  color:var(--tx2); text-transform:uppercase; letter-spacing:.03em; margin-bottom:4px}
+.frow{display:grid; grid-template-columns:1fr 84px 1fr; align-items:center;
+  font-size:13px; padding:4px 0}
+.flab{color:var(--tx3); font-size:11px; text-align:center}
+.fval{font-weight:700; font-variant-numeric:tabular-nums; color:var(--tx2)}
+.frow .fval:first-child{text-align:left}
+.frow .fval:last-child{text-align:right}
+.frow:last-child .fval{color:var(--tx)}
+
+/* forma reciente */
+.formas{margin-top:14px; display:flex; flex-direction:column; gap:8px}
+.forma{display:flex; align-items:center; gap:8px; flex-wrap:wrap; font-size:12px}
+.forma b{flex:0 0 auto; min-width:0; overflow:hidden; text-overflow:ellipsis;
+  white-space:nowrap; max-width:40%}
+.puntos i{display:inline-block; width:8px; height:8px; border-radius:50%; margin-right:3px}
+.puntos .pg{background:var(--vis)} .puntos .pe{background:var(--emp)} .puntos .pp{background:#f87171}
+.mini{color:var(--tx3); font-size:11px}
+
+/* cara a cara */
+.h2h{margin-top:14px}
+.h2hrow{display:flex; gap:10px; font-size:12px; padding:3px 0; color:var(--tx2)}
+.h2hfecha{color:var(--tx3); flex:0 0 72px}
+
+/* tabla de posiciones/fuerza */
+.tablawrap{overflow-x:auto; border:1px solid var(--line); border-radius:var(--r);
+  background:var(--card)}
+.tabla{width:100%; border-collapse:collapse; font-size:13px}
+.tabla th{text-align:right; color:var(--tx3); font-size:11px; text-transform:uppercase;
+  padding:8px 10px; border-bottom:1px solid var(--line)}
+.tabla th:nth-child(2){text-align:left}
+.tabla td{padding:7px 10px; border-bottom:1px solid var(--line)}
+.tabla tr:last-child td{border-bottom:none}
+.tabla td.pos{color:var(--tx3); width:24px}
+.tabla td.nombre{text-align:left; white-space:nowrap}
+.tabla td.num{text-align:right; font-variant-numeric:tabular-nums; color:var(--tx2)}
+.tabla td.neto{color:var(--tx); font-weight:700}
+.tabla tr.floja td.nombre{color:var(--tx3)}
+.leyenda{color:var(--tx3); font-size:11px; padding:10px 4px 0}
 
 footer{padding:20px 20px calc(env(safe-area-inset-bottom) + 24px); color:var(--tx3); font-size:11px; text-align:center}

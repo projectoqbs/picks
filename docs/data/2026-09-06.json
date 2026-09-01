@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-06",
- "actualizado": "2026-09-01T03:23:19+00:00",
+ "actualizado": "2026-09-01T16:09:31+00:00",
  "partidos": [
   {
    "id": 559700,
@@ -42,7 +42,51 @@
     "resumen": "Gana ES Troyes AC (ligero favorito, 42%).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'ES Troyes AC' solo tiene 2.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+   "nota": "pocos datos: 'ES Troyes AC' solo tiene 2.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.103,
+     "defensa": 0.339,
+     "neto": 0.237,
+     "peso": 2.0,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": 0.173,
+     "defensa": 0.017,
+     "neto": 0.19,
+     "peso": 40.2,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 2,
+     "g": 1,
+     "e": 1,
+     "p": 0,
+     "gf": 2,
+     "gc": 1,
+     "racha": [
+      "E",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 10,
+     "gc": 11,
+     "racha": [
+      "E",
+      "G",
+      "G",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": []
+   }
   },
   {
    "id": 558612,
@@ -83,6 +127,68 @@
     ],
     "resumen": "Gana Parma Calcio 1913 (ligero favorito, 45%). pocos goles (-2.5).",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.278,
+     "defensa": -0.002,
+     "neto": -0.28,
+     "peso": 38.9,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.2,
+     "defensa": -0.322,
+     "neto": -0.521,
+     "peso": 20.4,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 3,
+     "gc": 7,
+     "racha": [
+      "P",
+      "P",
+      "G",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 6,
+     "gc": 13,
+     "racha": [
+      "G",
+      "P",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2025-03-15",
+      "local": "AC Monza",
+      "visitante": "Parma Calcio 1913",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-12-28",
+      "local": "Parma Calcio 1913",
+      "visitante": "AC Monza",
+      "goles_local": 2,
+      "goles_visitante": 1
+     }
+    ]
    }
   },
   {
@@ -122,8 +228,55 @@
      3.85,
      4.65
     ],
-    "resumen": "Gana Frosinone Calcio (ligero favorito, 53%).",
+    "resumen": "Gana Frosinone Calcio (ligero favorito, 52%).",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.053,
+     "defensa": -0.1,
+     "neto": -0.047,
+     "peso": 8.1,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.345,
+     "defensa": -0.159,
+     "neto": -0.504,
+     "peso": 14.2,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 0,
+     "p": 3,
+     "gf": 4,
+     "gc": 7,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "P",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 4,
+     "gc": 11,
+     "racha": [
+      "G",
+      "P",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": []
    }
   },
   {
@@ -136,7 +289,7 @@
    "visitante": "Manchester United FC",
    "prediccion": {
     "prob_1": 0.357,
-    "prob_X": 0.291,
+    "prob_X": 0.29,
     "prob_2": 0.353,
     "goles_esperados": [
      1.273,
@@ -165,6 +318,89 @@
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.094,
+     "defensa": 0.182,
+     "neto": 0.089,
+     "peso": 44.8,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.202,
+     "defensa": 0.058,
+     "neto": 0.26,
+     "peso": 44.8,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 6,
+     "gc": 7,
+     "racha": [
+      "E",
+      "P",
+      "P",
+      "G",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 11,
+     "gc": 6,
+     "racha": [
+      "E",
+      "G",
+      "G",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-02-23",
+      "local": "Everton FC",
+      "visitante": "Manchester United FC",
+      "goles_local": 0,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-11-24",
+      "local": "Manchester United FC",
+      "visitante": "Everton FC",
+      "goles_local": 0,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-02-22",
+      "local": "Everton FC",
+      "visitante": "Manchester United FC",
+      "goles_local": 2,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-12-01",
+      "local": "Manchester United FC",
+      "visitante": "Everton FC",
+      "goles_local": 4,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-03-09",
+      "local": "Manchester United FC",
+      "visitante": "Everton FC",
+      "goles_local": 2,
+      "goles_visitante": 0
+     }
+    ]
    }
   },
   {
@@ -200,12 +436,74 @@
      ]
     ],
     "cuotas_justas": [
-     2.91,
+     2.9,
      3.37,
      2.79
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.19,
+     "defensa": 0.041,
+     "neto": -0.148,
+     "peso": 23.0,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.075,
+     "defensa": 0.143,
+     "neto": 0.068,
+     "peso": 39.5,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 7,
+     "gc": 8,
+     "racha": [
+      "P",
+      "G",
+      "G",
+      "E",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 8,
+     "gc": 8,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "G",
+      "E"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-02-20",
+      "local": "1. FSV Mainz 05",
+      "visitante": "Hamburger SV",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-10-05",
+      "local": "Hamburger SV",
+      "visitante": "1. FSV Mainz 05",
+      "goles_local": 4,
+      "goles_visitante": 0
+     }
+    ]
    }
   },
   {
@@ -247,6 +545,89 @@
     ],
     "resumen": "Gana FC Barcelona (claro favorito, 63%). se esperan goles (+2.5).",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.053,
+     "defensa": 0.027,
+     "neto": -0.026,
+     "peso": 46.1,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.694,
+     "defensa": 0.333,
+     "neto": 1.027,
+     "peso": 45.0,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 8,
+     "gc": 8,
+     "racha": [
+      "G",
+      "G",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 11,
+     "gc": 5,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "G",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-05-23",
+      "local": "Valencia CF",
+      "visitante": "FC Barcelona",
+      "goles_local": 3,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-09-14",
+      "local": "FC Barcelona",
+      "visitante": "Valencia CF",
+      "goles_local": 6,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-01-26",
+      "local": "FC Barcelona",
+      "visitante": "Valencia CF",
+      "goles_local": 7,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-08-17",
+      "local": "Valencia CF",
+      "visitante": "FC Barcelona",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-04-29",
+      "local": "FC Barcelona",
+      "visitante": "Valencia CF",
+      "goles_local": 4,
+      "goles_visitante": 2
+     }
+    ]
    }
   },
   {
@@ -270,7 +651,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1278
+      0.1279
      ],
      [
       "0-1",
@@ -288,6 +669,82 @@
     ],
     "resumen": "Gana Stade Rennais FC 1901 (ligero favorito, 47%).",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.348,
+     "defensa": 0.006,
+     "neto": -0.342,
+     "peso": 34.7,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.235,
+     "defensa": -0.018,
+     "neto": 0.217,
+     "peso": 40.1,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 6,
+     "gc": 8,
+     "racha": [
+      "P",
+      "E",
+      "E",
+      "P",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 10,
+     "gc": 12,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "E",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-04-11",
+      "local": "Stade Rennais FC 1901",
+      "visitante": "Angers SCO",
+      "goles_local": 2,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-08-31",
+      "local": "Angers SCO",
+      "visitante": "Stade Rennais FC 1901",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-03-30",
+      "local": "Angers SCO",
+      "visitante": "Stade Rennais FC 1901",
+      "goles_local": 0,
+      "goles_visitante": 3
+     },
+     {
+      "fecha": "2024-12-15",
+      "local": "Stade Rennais FC 1901",
+      "visitante": "Angers SCO",
+      "goles_local": 2,
+      "goles_visitante": 0
+     }
+    ]
    }
   },
   {
@@ -329,6 +786,89 @@
     ],
     "resumen": "Gana Eintracht Frankfurt (ligero favorito, 54%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.208,
+     "defensa": -0.047,
+     "neto": 0.162,
+     "peso": 39.5,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.125,
+     "defensa": 0.005,
+     "neto": -0.12,
+     "peso": 39.5,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 0,
+     "e": 3,
+     "p": 2,
+     "gf": 9,
+     "gc": 11,
+     "racha": [
+      "E",
+      "P",
+      "P",
+      "E",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 10,
+     "gc": 7,
+     "racha": [
+      "E",
+      "G",
+      "G",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-04-25",
+      "local": "FC Augsburg",
+      "visitante": "Eintracht Frankfurt",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-12-13",
+      "local": "Eintracht Frankfurt",
+      "visitante": "FC Augsburg",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-04-20",
+      "local": "FC Augsburg",
+      "visitante": "Eintracht Frankfurt",
+      "goles_local": 0,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-12-07",
+      "local": "Eintracht Frankfurt",
+      "visitante": "FC Augsburg",
+      "goles_local": 2,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-04-19",
+      "local": "Eintracht Frankfurt",
+      "visitante": "FC Augsburg",
+      "goles_local": 3,
+      "goles_visitante": 1
+     }
+    ]
    }
   },
   {
@@ -370,6 +910,89 @@
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 63%).",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.347,
+     "defensa": 0.611,
+     "neto": 0.958,
+     "peso": 43.7,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.242,
+     "defensa": 0.044,
+     "neto": 0.285,
+     "peso": 44.8,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 5,
+     "e": 0,
+     "p": 0,
+     "gf": 10,
+     "gc": 1,
+     "racha": [
+      "G",
+      "G",
+      "G",
+      "G",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 11,
+     "gc": 9,
+     "racha": [
+      "E",
+      "G",
+      "P",
+      "G",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-03-01",
+      "local": "Arsenal FC",
+      "visitante": "Chelsea FC",
+      "goles_local": 2,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-11-30",
+      "local": "Chelsea FC",
+      "visitante": "Arsenal FC",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-03-16",
+      "local": "Arsenal FC",
+      "visitante": "Chelsea FC",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-11-10",
+      "local": "Chelsea FC",
+      "visitante": "Arsenal FC",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-04-23",
+      "local": "Arsenal FC",
+      "visitante": "Chelsea FC",
+      "goles_local": 5,
+      "goles_visitante": 0
+     }
+    ]
    }
   },
   {
@@ -386,7 +1009,7 @@
     "prob_2": 0.259,
     "goles_esperados": [
      1.585,
-     1.084
+     1.085
     ],
     "prob_over_2_5": 0.499,
     "prob_btts": 0.527,
@@ -411,6 +1034,82 @@
     ],
     "resumen": "Gana Bologna FC 1909 (ligero favorito, 49%).",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.134,
+     "defensa": 0.089,
+     "neto": 0.222,
+     "peso": 45.2,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.058,
+     "defensa": -0.116,
+     "neto": -0.058,
+     "peso": 32.8,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 7,
+     "gc": 7,
+     "racha": [
+      "G",
+      "G",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 6,
+     "gc": 9,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-03-15",
+      "local": "US Sassuolo Calcio",
+      "visitante": "Bologna FC 1909",
+      "goles_local": 0,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-12-28",
+      "local": "Bologna FC 1909",
+      "visitante": "US Sassuolo Calcio",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-02-03",
+      "local": "Bologna FC 1909",
+      "visitante": "US Sassuolo Calcio",
+      "goles_local": 4,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2023-10-28",
+      "local": "US Sassuolo Calcio",
+      "visitante": "Bologna FC 1909",
+      "goles_local": 1,
+      "goles_visitante": 1
+     }
+    ]
    }
   },
   {
@@ -452,6 +1151,89 @@
     ],
     "resumen": "Gana Deportivo Alavés (ligero favorito, 43%). pocos goles (-2.5).",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.056,
+     "defensa": 0.066,
+     "neto": 0.009,
+     "peso": 46.0,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.019,
+     "defensa": 0.075,
+     "neto": 0.056,
+     "peso": 46.0,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 7,
+     "gc": 3,
+     "racha": [
+      "G",
+      "P",
+      "G",
+      "E",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 4,
+     "gc": 4,
+     "racha": [
+      "P",
+      "P",
+      "E",
+      "G",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-04-05",
+      "local": "Deportivo Alavés",
+      "visitante": "CA Osasuna",
+      "goles_local": 2,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-12-20",
+      "local": "CA Osasuna",
+      "visitante": "Deportivo Alavés",
+      "goles_local": 3,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-05-24",
+      "local": "Deportivo Alavés",
+      "visitante": "CA Osasuna",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-12-08",
+      "local": "CA Osasuna",
+      "visitante": "Deportivo Alavés",
+      "goles_local": 2,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-03-04",
+      "local": "CA Osasuna",
+      "visitante": "Deportivo Alavés",
+      "goles_local": 1,
+      "goles_visitante": 0
+     }
+    ]
    }
   },
   {
@@ -467,10 +1249,10 @@
     "prob_X": 0.267,
     "prob_2": 0.425,
     "goles_esperados": [
-     1.117,
+     1.118,
      1.364
     ],
-    "prob_over_2_5": 0.451,
+    "prob_over_2_5": 0.452,
     "prob_btts": 0.5,
     "marcadores": [
      [
@@ -479,7 +1261,7 @@
      ],
      [
       "0-1",
-      0.115
+      0.1149
      ],
      [
       "1-0",
@@ -494,7 +1276,52 @@
     "resumen": "Gana Levante UD (ligero favorito, 43%).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Málaga CF' solo tiene 3.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+   "nota": "pocos datos: 'Málaga CF' solo tiene 3.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.379,
+     "defensa": -0.142,
+     "neto": -0.522,
+     "peso": 3.0,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": 0.083,
+     "defensa": -0.108,
+     "neto": -0.025,
+     "peso": 27.7,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 3,
+     "g": 0,
+     "e": 1,
+     "p": 2,
+     "gf": 1,
+     "gc": 7,
+     "racha": [
+      "P",
+      "E",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 8,
+     "gc": 7,
+     "racha": [
+      "G",
+      "P",
+      "P",
+      "E",
+      "G"
+     ]
+    },
+    "cara_a_cara": []
+   }
   },
   {
    "id": 559694,
@@ -535,6 +1362,68 @@
     ],
     "resumen": "Gana Olympique de Marseille (ligero favorito, 51%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.319,
+     "defensa": 0.079,
+     "neto": 0.398,
+     "peso": 40.2,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.072,
+     "defensa": 0.106,
+     "neto": 0.178,
+     "peso": 23.8,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 8,
+     "gc": 6,
+     "racha": [
+      "P",
+      "G",
+      "G",
+      "G",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 10,
+     "gc": 3,
+     "racha": [
+      "G",
+      "P",
+      "G",
+      "E",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-01-31",
+      "local": "Paris FC",
+      "visitante": "Olympique de Marseille",
+      "goles_local": 2,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-08-23",
+      "local": "Olympique de Marseille",
+      "visitante": "Paris FC",
+      "goles_local": 5,
+      "goles_visitante": 2
+     }
+    ]
    }
   },
   {
@@ -576,6 +1465,89 @@
     ],
     "resumen": "Gana Juventus FC (ligero favorito, 44%).",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.272,
+     "defensa": 0.35,
+     "neto": 0.622,
+     "peso": 45.0,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.278,
+     "defensa": 0.181,
+     "neto": 0.459,
+     "peso": 45.2,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 6,
+     "gc": 4,
+     "racha": [
+      "G",
+      "P",
+      "E",
+      "G",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 9,
+     "gc": 7,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "G",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-04-26",
+      "local": "AC Milan",
+      "visitante": "Juventus FC",
+      "goles_local": 0,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-10-05",
+      "local": "Juventus FC",
+      "visitante": "AC Milan",
+      "goles_local": 0,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-01-18",
+      "local": "Juventus FC",
+      "visitante": "AC Milan",
+      "goles_local": 2,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-11-23",
+      "local": "AC Milan",
+      "visitante": "Juventus FC",
+      "goles_local": 0,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-04-27",
+      "local": "Juventus FC",
+      "visitante": "AC Milan",
+      "goles_local": 0,
+      "goles_visitante": 0
+     }
+    ]
    }
   },
   {
@@ -589,7 +1561,7 @@
    "prediccion": {
     "prob_1": 0.465,
     "prob_X": 0.257,
-    "prob_2": 0.279,
+    "prob_2": 0.278,
     "goles_esperados": [
      1.492,
      1.093
@@ -617,6 +1589,82 @@
     ],
     "resumen": "Gana RCD Espanyol de Barcelona (ligero favorito, 46%).",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.055,
+     "defensa": 0.018,
+     "neto": -0.037,
+     "peso": 39.9,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.022,
+     "defensa": -0.072,
+     "neto": -0.051,
+     "peso": 46.0,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 8,
+     "gc": 6,
+     "racha": [
+      "G",
+      "E",
+      "G",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 0,
+     "p": 3,
+     "gf": 6,
+     "gc": 7,
+     "racha": [
+      "P",
+      "P",
+      "G",
+      "G",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-05-09",
+      "local": "Sevilla FC",
+      "visitante": "RCD Espanyol de Barcelona",
+      "goles_local": 2,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-11-24",
+      "local": "RCD Espanyol de Barcelona",
+      "visitante": "Sevilla FC",
+      "goles_local": 2,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-01-25",
+      "local": "Sevilla FC",
+      "visitante": "RCD Espanyol de Barcelona",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-10-25",
+      "local": "RCD Espanyol de Barcelona",
+      "visitante": "Sevilla FC",
+      "goles_local": 0,
+      "goles_visitante": 2
+     }
+    ]
    }
   }
  ]

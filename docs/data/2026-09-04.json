@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-04",
- "actualizado": "2026-09-01T03:23:19+00:00",
+ "actualizado": "2026-09-01T16:09:31+00:00",
  "partidos": [
   {
    "id": 559699,
@@ -11,7 +11,7 @@
    "local": "Olympique Lyonnais",
    "visitante": "AJ Auxerre",
    "prediccion": {
-    "prob_1": 0.572,
+    "prob_1": 0.571,
     "prob_X": 0.236,
     "prob_2": 0.192,
     "goles_esperados": [
@@ -41,6 +41,82 @@
     ],
     "resumen": "Gana Olympique Lyonnais (claro favorito, 57%).",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.21,
+     "defensa": 0.115,
+     "neto": 0.325,
+     "peso": 40.2,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.093,
+     "defensa": -0.014,
+     "neto": -0.107,
+     "peso": 34.7,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 8,
+     "gc": 9,
+     "racha": [
+      "G",
+      "P",
+      "P",
+      "G",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 10,
+     "gc": 10,
+     "racha": [
+      "G",
+      "G",
+      "G",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-04-25",
+      "local": "Olympique Lyonnais",
+      "visitante": "AJ Auxerre",
+      "goles_local": 3,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-11-23",
+      "local": "AJ Auxerre",
+      "visitante": "Olympique Lyonnais",
+      "goles_local": 0,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-04-13",
+      "local": "AJ Auxerre",
+      "visitante": "Olympique Lyonnais",
+      "goles_local": 1,
+      "goles_visitante": 3
+     },
+     {
+      "fecha": "2024-10-27",
+      "local": "Olympique Lyonnais",
+      "visitante": "AJ Auxerre",
+      "goles_local": 2,
+      "goles_visitante": 2
+     }
+    ]
    }
   },
   {
@@ -68,7 +144,7 @@
      ],
      [
       "2-0",
-      0.079
+      0.0789
      ],
      [
       "3-1",
@@ -82,6 +158,82 @@
     ],
     "resumen": "Gana VfB Stuttgart (claro favorito, 67%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.334,
+     "defensa": 0.094,
+     "neto": 0.427,
+     "peso": 39.5,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.059,
+     "defensa": -0.113,
+     "neto": -0.172,
+     "peso": 28.5,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 3,
+     "p": 1,
+     "gf": 10,
+     "gc": 12,
+     "racha": [
+      "E",
+      "E",
+      "G",
+      "E",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 8,
+     "gc": 14,
+     "racha": [
+      "P",
+      "E",
+      "P",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-02-14",
+      "local": "VfB Stuttgart",
+      "visitante": "1. FC Köln",
+      "goles_local": 3,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-09-28",
+      "local": "1. FC Köln",
+      "visitante": "VfB Stuttgart",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-02-24",
+      "local": "VfB Stuttgart",
+      "visitante": "1. FC Köln",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2023-09-30",
+      "local": "1. FC Köln",
+      "visitante": "VfB Stuttgart",
+      "goles_local": 0,
+      "goles_visitante": 2
+     }
+    ]
    }
   },
   {
@@ -123,6 +275,82 @@
     ],
     "resumen": "Gana Como 1907 (ligero favorito, 53%).",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.091,
+     "defensa": 0.004,
+     "neto": -0.087,
+     "peso": 45.0,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.321,
+     "defensa": 0.268,
+     "neto": 0.589,
+     "peso": 38.9,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 0,
+     "e": 1,
+     "p": 4,
+     "gf": 1,
+     "gc": 6,
+     "racha": [
+      "E",
+      "P",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 4,
+     "e": 1,
+     "p": 0,
+     "gf": 9,
+     "gc": 3,
+     "racha": [
+      "G",
+      "G",
+      "G",
+      "E",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-04-26",
+      "local": "Genoa CFC",
+      "visitante": "Como 1907",
+      "goles_local": 0,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-09-15",
+      "local": "Como 1907",
+      "visitante": "Genoa CFC",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-04-27",
+      "local": "Como 1907",
+      "visitante": "Genoa CFC",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-11-07",
+      "local": "Genoa CFC",
+      "visitante": "Como 1907",
+      "goles_local": 1,
+      "goles_visitante": 1
+     }
+    ]
    }
   },
   {
@@ -159,11 +387,94 @@
     ],
     "cuotas_justas": [
      3.67,
-     4.26,
+     4.25,
      2.03
     ],
     "resumen": "Gana Real Madrid CF (ligero favorito, 49%). ambos marcan.",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.203,
+     "defensa": 0.067,
+     "neto": 0.27,
+     "peso": 46.0,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.531,
+     "defensa": 0.38,
+     "neto": 0.911,
+     "peso": 46.0,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 7,
+     "gc": 9,
+     "racha": [
+      "P",
+      "G",
+      "G",
+      "G",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 5,
+     "e": 0,
+     "p": 0,
+     "gf": 15,
+     "gc": 4,
+     "racha": [
+      "G",
+      "G",
+      "G",
+      "G",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-04-24",
+      "local": "Real Betis Balompié",
+      "visitante": "Real Madrid CF",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2026-01-04",
+      "local": "Real Madrid CF",
+      "visitante": "Real Betis Balompié",
+      "goles_local": 5,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-03-01",
+      "local": "Real Betis Balompié",
+      "visitante": "Real Madrid CF",
+      "goles_local": 2,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-09-01",
+      "local": "Real Madrid CF",
+      "visitante": "Real Betis Balompié",
+      "goles_local": 2,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-05-25",
+      "local": "Real Madrid CF",
+      "visitante": "Real Betis Balompié",
+      "goles_local": 0,
+      "goles_visitante": 0
+     }
+    ]
    }
   },
   {
@@ -205,6 +516,68 @@
     ],
     "resumen": "Gana Liverpool FC (claro favorito, 70%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.165,
+     "defensa": -0.412,
+     "neto": -0.577,
+     "peso": 14.2,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.362,
+     "defensa": 0.109,
+     "neto": 0.471,
+     "peso": 44.8,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 5,
+     "gc": 12,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "G",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 0,
+     "e": 4,
+     "p": 1,
+     "gf": 8,
+     "gc": 10,
+     "racha": [
+      "E",
+      "P",
+      "E",
+      "E",
+      "E"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2025-01-25",
+      "local": "Liverpool FC",
+      "visitante": "Ipswich Town FC",
+      "goles_local": 4,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-08-17",
+      "local": "Ipswich Town FC",
+      "visitante": "Liverpool FC",
+      "goles_local": 0,
+      "goles_visitante": 2
+     }
+    ]
    }
   },
   {
@@ -232,7 +605,7 @@
      ],
      [
       "1-1",
-      0.0829
+      0.083
      ],
      [
       "2-0",
@@ -246,6 +619,89 @@
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 64%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.533,
+     "defensa": 0.347,
+     "neto": 0.88,
+     "peso": 40.2,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.296,
+     "defensa": 0.052,
+     "neto": 0.348,
+     "peso": 40.1,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 2,
+     "p": 1,
+     "gf": 8,
+     "gc": 6,
+     "racha": [
+      "G",
+      "G",
+      "P",
+      "E",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 9,
+     "gc": 7,
+     "racha": [
+      "G",
+      "P",
+      "P",
+      "G",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-03-06",
+      "local": "Paris Saint-Germain FC",
+      "visitante": "AS Monaco FC",
+      "goles_local": 1,
+      "goles_visitante": 3
+     },
+     {
+      "fecha": "2025-11-29",
+      "local": "AS Monaco FC",
+      "visitante": "Paris Saint-Germain FC",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-02-07",
+      "local": "Paris Saint-Germain FC",
+      "visitante": "AS Monaco FC",
+      "goles_local": 4,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-12-18",
+      "local": "AS Monaco FC",
+      "visitante": "Paris Saint-Germain FC",
+      "goles_local": 2,
+      "goles_visitante": 4
+     },
+     {
+      "fecha": "2024-03-01",
+      "local": "AS Monaco FC",
+      "visitante": "Paris Saint-Germain FC",
+      "goles_local": 0,
+      "goles_visitante": 0
+     }
+    ]
    }
   }
  ]

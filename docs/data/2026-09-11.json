@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-11",
- "actualizado": "2026-09-01T03:23:19+00:00",
+ "actualizado": "2026-09-01T16:09:31+00:00",
  "partidos": [
   {
    "id": 565797,
@@ -11,11 +11,11 @@
    "local": "1. FC Union Berlin",
    "visitante": "FC Schalke 04",
    "prediccion": {
-    "prob_1": 0.602,
+    "prob_1": 0.601,
     "prob_X": 0.227,
-    "prob_2": 0.171,
+    "prob_2": 0.172,
     "goles_esperados": [
-     1.987,
+     1.985,
      0.974
     ],
     "prob_over_2_5": 0.568,
@@ -23,7 +23,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1076
+      0.1077
      ],
      [
       "2-0",
@@ -36,13 +36,56 @@
     ],
     "cuotas_justas": [
      1.66,
-     4.41,
-     5.84
+     4.4,
+     5.83
     ],
     "resumen": "Gana 1. FC Union Berlin (claro favorito, 60%).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'FC Schalke 04' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga"
+   "nota": "pocos datos: 'FC Schalke 04' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.154,
+     "defensa": -0.012,
+     "neto": -0.167,
+     "peso": 39.2,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.344,
+     "defensa": -0.343,
+     "neto": -0.687,
+     "peso": 1.0,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 2,
+     "p": 1,
+     "gf": 13,
+     "gc": 9,
+     "racha": [
+      "P",
+      "E",
+      "G",
+      "G",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 1,
+     "g": 0,
+     "e": 0,
+     "p": 1,
+     "gf": 0,
+     "gc": 3,
+     "racha": [
+      "P"
+     ]
+    },
+    "cara_a_cara": []
+   }
   },
   {
    "id": 559689,
@@ -65,7 +108,7 @@
     "marcadores": [
      [
       "1-1",
-      0.0992
+      0.0993
      ],
      [
       "2-1",
@@ -83,6 +126,89 @@
     ],
     "resumen": "Partido parejo. se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.235,
+     "defensa": -0.018,
+     "neto": 0.217,
+     "peso": 40.1,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.319,
+     "defensa": 0.079,
+     "neto": 0.398,
+     "peso": 40.2,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 10,
+     "gc": 12,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "E",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 8,
+     "gc": 6,
+     "racha": [
+      "P",
+      "G",
+      "G",
+      "G",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-05-17",
+      "local": "Olympique de Marseille",
+      "visitante": "Stade Rennais FC 1901",
+      "goles_local": 3,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-08-15",
+      "local": "Stade Rennais FC 1901",
+      "visitante": "Olympique de Marseille",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-05-17",
+      "local": "Olympique de Marseille",
+      "visitante": "Stade Rennais FC 1901",
+      "goles_local": 4,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-01-11",
+      "local": "Stade Rennais FC 1901",
+      "visitante": "Olympique de Marseille",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-03-17",
+      "local": "Stade Rennais FC 1901",
+      "visitante": "Olympique de Marseille",
+      "goles_local": 2,
+      "goles_visitante": 0
+     }
+    ]
    }
   },
   {
@@ -114,7 +240,7 @@
      ],
      [
       "0-2",
-      0.1003
+      0.1002
      ]
     ],
     "cuotas_justas": [
@@ -124,6 +250,68 @@
     ],
     "resumen": "Gana ACF Fiorentina (ligero favorito, 50%). pocos goles (-2.5).",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.345,
+     "defensa": -0.159,
+     "neto": -0.504,
+     "peso": 14.2,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.087,
+     "defensa": -0.02,
+     "neto": 0.067,
+     "peso": 45.1,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 4,
+     "gc": 11,
+     "racha": [
+      "G",
+      "P",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 3,
+     "gc": 8,
+     "racha": [
+      "E",
+      "G",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2025-05-12",
+      "local": "Venezia FC",
+      "visitante": "ACF Fiorentina",
+      "goles_local": 2,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-08-25",
+      "local": "ACF Fiorentina",
+      "visitante": "Venezia FC",
+      "goles_local": 0,
+      "goles_visitante": 0
+     }
+    ]
    }
   },
   {
@@ -165,6 +353,89 @@
     ],
     "resumen": "Gana Sevilla FC (ligero favorito, 45%).",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.022,
+     "defensa": -0.072,
+     "neto": -0.051,
+     "peso": 46.0,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.053,
+     "defensa": 0.027,
+     "neto": -0.026,
+     "peso": 46.1,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 0,
+     "p": 3,
+     "gf": 6,
+     "gc": 7,
+     "racha": [
+      "P",
+      "P",
+      "G",
+      "G",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 8,
+     "gc": 8,
+     "racha": [
+      "G",
+      "G",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-03-21",
+      "local": "Sevilla FC",
+      "visitante": "Valencia CF",
+      "goles_local": 0,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-12-07",
+      "local": "Valencia CF",
+      "visitante": "Sevilla FC",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-04-11",
+      "local": "Valencia CF",
+      "visitante": "Sevilla FC",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-01-11",
+      "local": "Sevilla FC",
+      "visitante": "Valencia CF",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-02-17",
+      "local": "Valencia CF",
+      "visitante": "Sevilla FC",
+      "goles_local": 0,
+      "goles_visitante": 0
+     }
+    ]
    }
   }
  ]

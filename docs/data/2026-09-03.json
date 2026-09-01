@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-03",
- "actualizado": "2026-09-01T03:23:19+00:00",
+ "actualizado": "2026-09-01T16:09:31+00:00",
  "partidos": [
   {
    "id": 559696,
@@ -27,7 +27,7 @@
      ],
      [
       "0-1",
-      0.1106
+      0.1105
      ],
      [
       "0-0",
@@ -41,6 +41,89 @@
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.009,
+     "defensa": 0.049,
+     "neto": 0.058,
+     "peso": 39.3,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.119,
+     "defensa": 0.317,
+     "neto": 0.436,
+     "peso": 40.1,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 2,
+     "p": 1,
+     "gf": 8,
+     "gc": 8,
+     "racha": [
+      "E",
+      "G",
+      "G",
+      "P",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 2,
+     "p": 1,
+     "gf": 6,
+     "gc": 5,
+     "racha": [
+      "E",
+      "G",
+      "P",
+      "G",
+      "E"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-04-12",
+      "local": "Toulouse FC",
+      "visitante": "Lille OSC",
+      "goles_local": 0,
+      "goles_visitante": 4
+     },
+     {
+      "fecha": "2025-09-14",
+      "local": "Lille OSC",
+      "visitante": "Toulouse FC",
+      "goles_local": 2,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-04-12",
+      "local": "Toulouse FC",
+      "visitante": "Lille OSC",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-10-05",
+      "local": "Lille OSC",
+      "visitante": "Toulouse FC",
+      "goles_local": 2,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-02-25",
+      "local": "Toulouse FC",
+      "visitante": "Lille OSC",
+      "goles_local": 3,
+      "goles_visitante": 1
+     }
+    ]
    }
   },
   {
@@ -56,10 +139,10 @@
     "prob_X": 0.245,
     "prob_2": 0.303,
     "goles_esperados": [
-     1.59,
+     1.589,
      1.257
     ],
-    "prob_over_2_5": 0.542,
+    "prob_over_2_5": 0.541,
     "prob_btts": 0.569,
     "marcadores": [
      [
@@ -82,6 +165,89 @@
     ],
     "resumen": "Gana Real Sociedad de Fútbol (ligero favorito, 45%).",
     "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.106,
+     "defensa": -0.031,
+     "neto": 0.075,
+     "peso": 46.0,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.113,
+     "defensa": 0.026,
+     "neto": 0.138,
+     "peso": 46.0,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 7,
+     "gc": 11,
+     "racha": [
+      "P",
+      "E",
+      "P",
+      "P",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 3,
+     "gc": 5,
+     "racha": [
+      "E",
+      "G",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-01-25",
+      "local": "Real Sociedad de Fútbol",
+      "visitante": "RC Celta de Vigo",
+      "goles_local": 3,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-10-19",
+      "local": "RC Celta de Vigo",
+      "visitante": "Real Sociedad de Fútbol",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-05-13",
+      "local": "Real Sociedad de Fútbol",
+      "visitante": "RC Celta de Vigo",
+      "goles_local": 0,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-12-21",
+      "local": "RC Celta de Vigo",
+      "visitante": "Real Sociedad de Fútbol",
+      "goles_local": 2,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-01-20",
+      "local": "RC Celta de Vigo",
+      "visitante": "Real Sociedad de Fútbol",
+      "goles_local": 0,
+      "goles_visitante": 1
+     }
+    ]
    }
   }
  ]

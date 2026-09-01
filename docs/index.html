@@ -19,15 +19,22 @@
   <span id="actualizado"></span>
 </header>
 
+<div id="vistas" role="tablist" aria-label="Vista">
+  <button class="vista sel" data-v="partidos">Partidos</button>
+  <button class="vista" data-v="tablas">Tablas</button>
+</div>
+
 <nav id="dias" aria-label="Días"></nav>
+<nav id="ligas" aria-label="Ligas" hidden></nav>
 
 <main id="lista">
   <p class="cargando">Cargando…</p>
 </main>
 
 <footer>
-  <p>Probabilidades de un modelo estadístico (Poisson/Dixon-Coles) sobre resultados históricos.
-  Es una estimación de lo más probable, no una garantía ni un consejo de apuestas.</p>
+  <p>Base estadística de un modelo Poisson/Dixon-Coles sobre resultados históricos: probabilidades,
+  fuerza de cada equipo, forma reciente y cara a cara. Es contexto para decidir, no un veredicto
+  ni un consejo de apuestas — el modelo no le gana al mercado (ver el proyecto en GitHub).</p>
 </footer>
 
 <script src="app.js"></script>
