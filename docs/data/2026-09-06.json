@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-06",
- "actualizado": "2026-09-01T20:43:45+00:00",
+ "actualizado": "2026-09-01T20:48:06+00:00",
  "partidos": [
   {
    "id": 559700,
@@ -222,7 +222,7 @@
      ],
      [
       "2-0",
-      0.1056
+      0.1055
      ]
     ],
     "cuotas_justas": [
@@ -292,48 +292,48 @@
    "visitante": "Manchester United FC",
    "prediccion": {
     "prob_1": 0.357,
-    "prob_X": 0.29,
+    "prob_X": 0.289,
     "prob_2": 0.353,
     "goles_esperados": [
-     1.273,
-     1.264
+     1.275,
+     1.266
     ],
-    "prob_over_2_5": 0.466,
+    "prob_over_2_5": 0.467,
     "prob_btts": 0.528,
     "marcadores": [
      [
       "1-1",
-      0.1387
+      0.1382
      ],
      [
       "0-0",
-      0.0905
+      0.0898
      ],
      [
       "1-0",
-      0.0893
+      0.0895
      ]
     ],
     "cuotas_justas": [
      2.8,
-     3.44,
-     2.84
+     3.46,
+     2.83
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.094,
-     "defensa": 0.183,
-     "neto": 0.089,
+     "ataque": -0.093,
+     "defensa": 0.181,
+     "neto": 0.088,
      "peso": 44.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.202,
-     "defensa": 0.058,
-     "neto": 0.26,
+     "ataque": 0.203,
+     "defensa": 0.056,
+     "neto": 0.259,
      "peso": 44.7,
      "fiable": true
     },
@@ -404,7 +404,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Manchester United FC es más fuerte de fondo (neto +0.26 vs +0.09): ataca ~22% más que el promedio. Everton FC juega en casa (~+20% de ventaja, ya contada). Goles esperados: 1.27 – 1.26; el modelo ve marcando más a Everton FC. Y la forma reciente lo confirma: Manchester United FC llega mejor (3G-1E-1P vs 1G-2E-2P)."
+    "explicacion": "Manchester United FC es más fuerte de fondo (neto +0.26 vs +0.09): ataca ~23% más que el promedio. Everton FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.27 – 1.27; el modelo ve marcando más a Everton FC. Y la forma reciente lo confirma: Manchester United FC llega mejor (3G-1E-1P vs 1G-2E-2P)."
    }
   },
   {
@@ -436,7 +436,7 @@
      ],
      [
       "0-1",
-      0.1016
+      0.1015
      ]
     ],
     "cuotas_justas": [
@@ -520,32 +520,32 @@
    "local": "Valencia CF",
    "visitante": "FC Barcelona",
    "prediccion": {
-    "prob_1": 0.168,
-    "prob_X": 0.199,
-    "prob_2": 0.632,
+    "prob_1": 0.17,
+    "prob_X": 0.197,
+    "prob_2": 0.634,
     "goles_esperados": [
-     0.997,
-     2.123
+     1.024,
+     2.162
     ],
-    "prob_over_2_5": 0.603,
-    "prob_btts": 0.555,
+    "prob_over_2_5": 0.617,
+    "prob_btts": 0.567,
     "marcadores": [
      [
-      "0-2",
-      0.0995
-     ],
-     [
       "1-2",
-      0.0992
+      0.0989
      ],
      [
-      "0-1",
-      0.0944
+      "0-2",
+      0.0966
+     ],
+     [
+      "1-1",
+      0.0909
      ]
     ],
     "cuotas_justas": [
-     5.94,
-     5.02,
+     5.9,
+     5.09,
      1.58
     ],
     "resumen": "Gana FC Barcelona (claro favorito, 63%). se esperan goles (+2.5).",
@@ -553,17 +553,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.053,
-     "defensa": 0.027,
+     "ataque": -0.055,
+     "defensa": 0.029,
      "neto": -0.026,
      "peso": 46.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.694,
-     "defensa": 0.333,
-     "neto": 1.028,
-     "peso": 44.9,
+     "ataque": 0.714,
+     "defensa": 0.306,
+     "neto": 1.021,
+     "peso": 45.9,
      "fiable": true
     },
     "forma_local": {
@@ -583,15 +583,15 @@
     },
     "forma_visitante": {
      "pj": 5,
-     "g": 3,
+     "g": 4,
      "e": 0,
-     "p": 2,
-     "gf": 11,
-     "gc": 5,
+     "p": 1,
+     "gf": 16,
+     "gc": 6,
      "racha": [
-      "P",
       "G",
       "P",
+      "G",
       "G",
       "G"
      ]
@@ -633,7 +633,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.03 vs -0.03): ataca ~100% más que el promedio, encaja ~28% menos. Valencia CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.00 – 2.12; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (3G-0E-2P vs 2G-1E-2P)."
+    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.02 vs -0.03): ataca ~104% más que el promedio, encaja ~26% menos. Valencia CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.02 – 2.16; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (4G-0E-1P vs 2G-1E-2P)."
    }
   },
   {
@@ -888,48 +888,48 @@
    "local": "Arsenal FC",
    "visitante": "Chelsea FC",
    "prediccion": {
-    "prob_1": 0.633,
+    "prob_1": 0.636,
     "prob_X": 0.224,
-    "prob_2": 0.143,
+    "prob_2": 0.14,
     "goles_esperados": [
-     2.007,
-     0.857
+     1.993,
+     0.836
     ],
-    "prob_over_2_5": 0.546,
-    "prob_btts": 0.507,
+    "prob_over_2_5": 0.537,
+    "prob_btts": 0.498,
     "marcadores": [
      [
       "2-0",
-      0.1149
+      0.1174
+     ],
+     [
+      "1-0",
+      0.1093
      ],
      [
       "1-1",
       0.1069
-     ],
-     [
-      "1-0",
-      0.1057
      ]
     ],
     "cuotas_justas": [
-     1.58,
+     1.57,
      4.47,
-     6.99
+     7.12
     ],
-    "resumen": "Gana Arsenal FC (claro favorito, 63%).",
+    "resumen": "Gana Arsenal FC (claro favorito, 64%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.347,
-     "defensa": 0.611,
-     "neto": 0.958,
-     "peso": 43.7,
+     "ataque": 0.34,
+     "defensa": 0.636,
+     "neto": 0.976,
+     "peso": 44.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.242,
-     "defensa": 0.044,
+     "ataque": 0.243,
+     "defensa": 0.042,
      "neto": 0.285,
      "peso": 44.7,
      "fiable": true
@@ -939,7 +939,7 @@
      "g": 5,
      "e": 0,
      "p": 0,
-     "gf": 10,
+     "gf": 8,
      "gc": 1,
      "racha": [
       "G",
@@ -1001,7 +1001,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Arsenal FC es más fuerte de fondo (neto +0.96 vs +0.28): ataca ~41% más que el promedio, encaja ~46% menos. Arsenal FC juega en casa (~+20% de ventaja, ya contada). Goles esperados: 2.01 – 0.86; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (5G-0E-0P vs 3G-1E-1P)."
+    "explicacion": "Arsenal FC es más fuerte de fondo (neto +0.98 vs +0.28): ataca ~40% más que el promedio, encaja ~47% menos. Arsenal FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.99 – 0.84; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (5G-0E-0P vs 3G-1E-1P)."
    }
   },
   {
@@ -1054,7 +1054,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.058,
-     "defensa": -0.115,
+     "defensa": -0.116,
      "neto": -0.058,
      "peso": 32.8,
      "fiable": true
@@ -1132,26 +1132,26 @@
    "visitante": "CA Osasuna",
    "prediccion": {
     "prob_1": 0.431,
-    "prob_X": 0.279,
+    "prob_X": 0.28,
     "prob_2": 0.29,
     "goles_esperados": [
-     1.286,
-     1.001
+     1.282,
+     0.997
     ],
-    "prob_over_2_5": 0.4,
-    "prob_btts": 0.457,
+    "prob_over_2_5": 0.398,
+    "prob_btts": 0.455,
     "marcadores": [
      [
       "1-0",
-      0.1316
+      0.1322
      ],
      [
       "1-1",
-      0.1299
+      0.13
      ],
      [
       "0-1",
-      0.1025
+      0.103
      ]
     ],
     "cuotas_justas": [
@@ -1164,16 +1164,16 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.056,
-     "defensa": 0.066,
-     "neto": 0.009,
+     "ataque": -0.059,
+     "defensa": 0.069,
+     "neto": 0.01,
      "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.019,
-     "defensa": 0.075,
-     "neto": 0.056,
+     "ataque": -0.021,
+     "defensa": 0.078,
+     "neto": 0.057,
      "peso": 46.0,
      "fiable": true
     },
@@ -1244,7 +1244,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.01 vs +0.06). Deportivo Alavés juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.29 – 1.00; el modelo ve marcando más a Deportivo Alavés. En forma reciente pinta algo mejor Deportivo Alavés (3G-1E-1P vs 2G-1E-2P en 5)."
+    "explicacion": "En fuerza de temporada están parejos (neto +0.01 vs +0.06). Deportivo Alavés juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.28 – 1.00; el modelo ve marcando más a Deportivo Alavés. En forma reciente pinta algo mejor Deportivo Alavés (3G-1E-1P vs 2G-1E-2P en 5)."
    }
   },
   {
@@ -1260,10 +1260,10 @@
     "prob_X": 0.267,
     "prob_2": 0.425,
     "goles_esperados": [
-     1.118,
-     1.364
+     1.117,
+     1.363
     ],
-    "prob_over_2_5": 0.452,
+    "prob_over_2_5": 0.451,
     "prob_btts": 0.5,
     "marcadores": [
      [
@@ -1272,11 +1272,11 @@
      ],
      [
       "0-1",
-      0.1148
+      0.115
      ],
      [
       "1-0",
-      0.0943
+      0.0944
      ]
     ],
     "cuotas_justas": [
@@ -1290,16 +1290,16 @@
    "nota": "pocos datos: 'Málaga CF' solo tiene 3.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.379,
-     "defensa": -0.143,
+     "ataque": -0.38,
+     "defensa": -0.142,
      "neto": -0.522,
      "peso": 3.0,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.083,
-     "defensa": -0.108,
-     "neto": -0.025,
+     "ataque": 0.081,
+     "defensa": -0.105,
+     "neto": -0.024,
      "peso": 27.7,
      "fiable": true
     },
@@ -1332,7 +1332,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Levante UD es más fuerte de fondo (neto -0.03 vs -0.52): es más completo en general. Málaga CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.12 – 1.36; el modelo ve marcando más a Levante UD. Y la forma reciente lo confirma: Levante UD llega mejor (2G-1E-2P vs 0G-1E-2P). El modelo tiene pocos datos de Málaga CF: tomalo con pinzas."
+    "explicacion": "Levante UD es más fuerte de fondo (neto -0.02 vs -0.52): es más completo en general. Málaga CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.12 – 1.36; el modelo ve marcando más a Levante UD. Y la forma reciente lo confirma: Levante UD llega mejor (2G-1E-2P vs 0G-1E-2P). El modelo tiene pocos datos de Málaga CF: tomalo con pinzas."
    }
   },
   {
@@ -1575,47 +1575,47 @@
    "prediccion": {
     "prob_1": 0.465,
     "prob_X": 0.257,
-    "prob_2": 0.279,
+    "prob_2": 0.278,
     "goles_esperados": [
-     1.492,
-     1.093
+     1.488,
+     1.089
     ],
-    "prob_over_2_5": 0.478,
-    "prob_btts": 0.514,
+    "prob_over_2_5": 0.476,
+    "prob_btts": 0.513,
     "marcadores": [
      [
       "1-1",
-      0.1221
+      0.1223
      ],
      [
       "1-0",
-      0.1133
+      0.114
      ],
      [
       "2-1",
-      0.0917
+      0.0916
      ]
     ],
     "cuotas_justas": [
      2.15,
      3.89,
-     3.59
+     3.6
     ],
     "resumen": "Gana RCD Espanyol de Barcelona (ligero favorito, 46%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.055,
-     "defensa": 0.018,
-     "neto": -0.037,
+     "ataque": -0.057,
+     "defensa": 0.021,
+     "neto": -0.036,
      "peso": 39.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.022,
-     "defensa": -0.072,
-     "neto": -0.051,
+     "ataque": 0.019,
+     "defensa": -0.069,
+     "neto": -0.05,
      "peso": 46.0,
      "fiable": true
     },

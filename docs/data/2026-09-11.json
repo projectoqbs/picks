@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-11",
- "actualizado": "2026-09-01T20:43:45+00:00",
+ "actualizado": "2026-09-01T20:48:06+00:00",
  "partidos": [
   {
    "id": 565797,
@@ -327,31 +327,31 @@
    "visitante": "Valencia CF",
    "prediccion": {
     "prob_1": 0.452,
-    "prob_X": 0.259,
-    "prob_2": 0.289,
+    "prob_X": 0.26,
+    "prob_2": 0.288,
     "goles_esperados": [
-     1.46,
-     1.11
+     1.455,
+     1.106
     ],
-    "prob_over_2_5": 0.474,
-    "prob_btts": 0.514,
+    "prob_over_2_5": 0.472,
+    "prob_btts": 0.512,
     "marcadores": [
      [
       "1-1",
-      0.1232
+      0.1234
      ],
      [
       "1-0",
-      0.1126
+      0.1132
      ],
      [
       "2-1",
-      0.0905
+      0.0904
      ]
     ],
     "cuotas_justas": [
      2.21,
-     3.86,
+     3.85,
      3.47
     ],
     "resumen": "Gana Sevilla FC (ligero favorito, 45%).",
@@ -359,15 +359,15 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.022,
-     "defensa": -0.072,
-     "neto": -0.051,
+     "ataque": 0.019,
+     "defensa": -0.069,
+     "neto": -0.05,
      "peso": 46.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.053,
-     "defensa": 0.027,
+     "ataque": -0.055,
+     "defensa": 0.029,
      "neto": -0.026,
      "peso": 46.0,
      "fiable": true

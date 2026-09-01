@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-03",
- "actualizado": "2026-09-01T20:43:45+00:00",
+ "actualizado": "2026-09-01T20:48:06+00:00",
  "partidos": [
   {
    "id": 559696,
@@ -140,19 +140,19 @@
     "prob_X": 0.245,
     "prob_2": 0.303,
     "goles_esperados": [
-     1.589,
-     1.257
+     1.586,
+     1.253
     ],
-    "prob_over_2_5": 0.542,
-    "prob_btts": 0.569,
+    "prob_over_2_5": 0.54,
+    "prob_btts": 0.567,
     "marcadores": [
      [
       "1-1",
-      0.1152
+      0.1154
      ],
      [
       "1-0",
-      0.093
+      0.0935
      ],
      [
       "2-1",
@@ -169,15 +169,15 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.106,
-     "defensa": -0.031,
-     "neto": 0.075,
+     "ataque": 0.104,
+     "defensa": -0.028,
+     "neto": 0.076,
      "peso": 46.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.113,
-     "defensa": 0.026,
+     "ataque": 0.111,
+     "defensa": 0.028,
      "neto": 0.139,
      "peso": 46.0,
      "fiable": true
@@ -249,7 +249,7 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.07 vs +0.14). Real Sociedad de Fútbol juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.59 – 1.26; el modelo ve marcando más a Real Sociedad de Fútbol. También parejos en forma (1G-1E-3P vs 1G-2E-2P en 5)."
+    "explicacion": "En fuerza de temporada están parejos (neto +0.08 vs +0.14). Real Sociedad de Fútbol juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.59 – 1.25; el modelo ve marcando más a Real Sociedad de Fútbol. También parejos en forma (1G-1E-3P vs 1G-2E-2P en 5)."
    }
   }
  ]
