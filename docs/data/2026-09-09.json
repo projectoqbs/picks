@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-09",
- "actualizado": "2026-09-01T22:51:16+00:00",
+ "actualizado": "2026-09-01T22:53:10+00:00",
  "partidos": [
   {
    "id": 575329,
@@ -233,7 +233,7 @@
     "prob_X": 0.021,
     "prob_2": 0.009,
     "goles_esperados": [
-     5.65,
+     5.645,
      0.751
     ],
     "prob_over_2_5": 0.952,
@@ -245,17 +245,17 @@
      ],
      [
       "6-0",
-      0.0773
+      0.0772
      ],
      [
       "4-0",
-      0.0726
+      0.0727
      ]
     ],
     "cuotas_justas": [
      1.03,
-     47.85,
-     109.79
+     47.71,
+     109.45
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 97%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -271,7 +271,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.224,
-     "defensa": -0.454,
+     "defensa": -0.453,
      "neto": -0.677,
      "peso": 2.3,
      "fiable": false
@@ -307,11 +307,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +1.06 vs -0.68): ataca ~108% más que el promedio, encaja ~28% menos. Paris Saint-Germain FC juega en casa (~+32% de ventaja, ya contada). Goles esperados: 5.65 – 0.75; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-1E-0P vs 0G-0E-5P). El modelo tiene pocos datos de ŠK Slovan Bratislava: tomalo con pinzas.",
+    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +1.06 vs -0.68): ataca ~108% más que el promedio, encaja ~28% menos. Paris Saint-Germain FC juega en casa (~+32% de ventaja, ya contada). Goles esperados: 5.64 – 0.75; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-1E-0P vs 0G-0E-5P). El modelo tiene pocos datos de ŠK Slovan Bratislava: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.97,
-     "por_que": "Paris Saint-Germain FC es favorito en casa: marca más (5.65 vs 0.75) y es más fuerte de fondo (neto +1.06 vs -0.68). Probabilidad: 97%.",
+     "por_que": "Paris Saint-Germain FC es favorito en casa: marca más (5.64 vs 0.75) y es más fuerte de fondo (neto +1.06 vs -0.68). Probabilidad: 97%.",
      "alternativa": {
       "mercado": "1X",
       "prob": 0.991
@@ -349,7 +349,7 @@
      ],
      [
       "0-3",
-      0.0995
+      0.0996
      ]
     ],
     "cuotas_justas": [
@@ -455,7 +455,7 @@
     "cuotas_justas": [
      1.6,
      4.99,
-     5.68
+     5.67
     ],
     "resumen": "Gana Sporting Clube de Portugal (claro favorito, 62%).",
     "confianza": "alta"

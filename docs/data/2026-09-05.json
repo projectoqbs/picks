@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-05",
- "actualizado": "2026-09-01T22:51:16+00:00",
+ "actualizado": "2026-09-01T22:53:10+00:00",
  "partidos": [
   {
    "id": 560571,
@@ -170,7 +170,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.16,
+     2.17,
      3.86,
      3.59
     ],
@@ -441,7 +441,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.178,
-     "defensa": -0.08,
+     "defensa": -0.081,
      "neto": 0.098,
      "peso": 39.5,
      "fiable": true
@@ -682,7 +682,7 @@
     "prob_2": 0.469,
     "goles_esperados": [
      1.593,
-     2.005
+     2.004
     ],
     "prob_over_2_5": 0.697,
     "prob_btts": 0.696,
@@ -711,14 +711,14 @@
    "nota": "pocos datos: 'SV 07 Elversberg' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.05,
+     "ataque": -0.049,
      "defensa": -0.005,
      "neto": -0.055,
      "peso": 39.4,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.385,
+     "ataque": 0.384,
      "defensa": -0.019,
      "neto": 0.366,
      "peso": 1.0,
@@ -773,11 +773,11 @@
    "local": "SC Paderborn 07",
    "visitante": "SC Freiburg",
    "prediccion": {
-    "prob_1": 0.407,
+    "prob_1": 0.406,
     "prob_X": 0.307,
-    "prob_2": 0.286,
+    "prob_2": 0.287,
     "goles_esperados": [
-     1.228,
+     1.227,
      0.988
     ],
     "prob_over_2_5": 0.381,
@@ -785,7 +785,7 @@
     "marcadores": [
      [
       "1-1",
-      0.142
+      0.1421
      ],
      [
       "1-0",
@@ -807,7 +807,7 @@
    "nota": "pocos datos: 'SC Paderborn 07' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.29,
+     "ataque": -0.291,
      "defensa": 0.358,
      "neto": 0.067,
      "peso": 1.0,
@@ -851,10 +851,10 @@
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.619,
-     "por_que": "Pocos goles esperados en total (1.23 + 0.99 = 2.22); la defensa de SC Paderborn 07 aprieta. El modelo ve el partido cerrado (62% al under).",
+     "por_que": "Pocos goles esperados en total (1.23 + 0.99 = 2.21); la defensa de SC Paderborn 07 aprieta. El modelo ve el partido cerrado (62% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
-      "prob": 0.816
+      "prob": 0.817
      },
      "confianza": "baja"
     }
@@ -1024,7 +1024,7 @@
      ],
      [
       "1-0",
-      0.1075
+      0.1076
      ]
     ],
     "cuotas_justas": [
@@ -1040,7 +1040,7 @@
     "fuerza_local": {
      "ataque": 0.439,
      "defensa": 0.38,
-     "neto": 0.82,
+     "neto": 0.819,
      "peso": 44.8,
      "fiable": true
     },
@@ -1108,7 +1108,7 @@
      1.587,
      1.163
     ],
-    "prob_over_2_5": 0.518,
+    "prob_over_2_5": 0.519,
     "prob_btts": 0.557,
     "marcadores": [
      [
@@ -1250,7 +1250,7 @@
     "fuerza_local": {
      "ataque": 0.158,
      "defensa": 0.05,
-     "neto": 0.207,
+     "neto": 0.208,
      "peso": 44.7,
      "fiable": true
     },
@@ -1492,7 +1492,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.331,
+     "ataque": 0.33,
      "defensa": 0.238,
      "neto": 0.569,
      "peso": 45.9,
@@ -1724,7 +1724,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1119
+      0.112
      ],
      [
       "1-0",
@@ -1886,7 +1886,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.156,
-     "defensa": -0.165,
+     "defensa": -0.164,
      "neto": -0.008,
      "peso": 2.9,
      "fiable": false
@@ -1938,18 +1938,18 @@
     "prob_2": 0.905,
     "goles_esperados": [
      0.837,
-     4.157
+     4.154
     ],
     "prob_over_2_5": 0.874,
     "prob_btts": 0.56,
     "marcadores": [
      [
       "0-4",
-      0.0846
+      0.0847
      ],
      [
       "0-3",
-      0.0814
+      0.0815
      ],
      [
       "1-4",
@@ -1957,8 +1957,8 @@
      ]
     ],
     "cuotas_justas": [
-     33.22,
-     15.5,
+     33.18,
+     15.47,
      1.1
     ],
     "resumen": "Gana FC Bayern München (claro favorito, 91%). se esperan goles (+2.5).",
@@ -1968,7 +1968,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.344,
-     "defensa": -0.344,
+     "defensa": -0.343,
      "neto": -0.687,
      "peso": 1.0,
      "fiable": false
@@ -2007,11 +2007,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.11 vs -0.69): ataca ~117% más que el promedio, encaja ~28% menos. FC Schalke 04 juega en casa (~+21% de ventaja, ya contada). Goles esperados: 0.84 – 4.16; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (4G-1E-0P vs 0G-0E-1P). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
+    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.11 vs -0.69): ataca ~117% más que el promedio, encaja ~28% menos. FC Schalke 04 juega en casa (~+21% de ventaja, ya contada). Goles esperados: 0.84 – 4.15; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (4G-1E-0P vs 0G-0E-1P). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "2",
      "prob": 0.905,
-     "por_que": "El modelo ve a FC Bayern München marcando más que FC Schalke 04 pese a la localía (4.16 vs 0.84), y lo respalda una diferencia de fuerza clara (neto +1.11 vs -0.69). Probabilidad del modelo: 91%.",
+     "por_que": "El modelo ve a FC Bayern München marcando más que FC Schalke 04 pese a la localía (4.15 vs 0.84), y lo respalda una diferencia de fuerza clara (neto +1.11 vs -0.69). Probabilidad del modelo: 91%.",
      "alternativa": {
       "mercado": "X2",
       "prob": 0.97
@@ -2041,7 +2041,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1377
+      0.1378
      ],
      [
       "1-1",
@@ -2049,7 +2049,7 @@
      ],
      [
       "0-0",
-      0.1126
+      0.1127
      ]
     ],
     "cuotas_justas": [
@@ -2070,7 +2070,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.137,
+     "ataque": 0.138,
      "defensa": 0.06,
      "neto": 0.197,
      "peso": 44.7,
@@ -2388,7 +2388,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.371,
+     "ataque": 0.372,
      "defensa": 0.345,
      "neto": 0.716,
      "peso": 45.0,
@@ -2491,7 +2491,7 @@
     "prob_X": 0.202,
     "prob_2": 0.196,
     "goles_esperados": [
-     2.141,
+     2.142,
      1.145
     ],
     "prob_over_2_5": 0.638,
@@ -2513,7 +2513,7 @@
     "cuotas_justas": [
      1.66,
      4.95,
-     5.09
+     5.1
     ],
     "resumen": "Gana Villarreal CF (claro favorito, 60%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -2523,13 +2523,13 @@
     "fuerza_local": {
      "ataque": 0.41,
      "defensa": 0.043,
-     "neto": 0.452,
+     "neto": 0.453,
      "peso": 46.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.092,
-     "defensa": 0.034,
+     "defensa": 0.033,
      "neto": 0.125,
      "peso": 3.0,
      "fiable": false
