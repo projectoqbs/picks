@@ -1,142 +1,7 @@
 {
  "fecha": "2026-09-07",
- "actualizado": "2026-09-01T22:55:08+00:00",
+ "actualizado": "2026-09-02T10:17:27+00:00",
  "partidos": [
-  {
-   "id": 558610,
-   "competicion": "Serie A",
-   "competicion_codigo": "SA",
-   "fecha_utc": "2026-09-07T16:30:00Z",
-   "jornada": 3,
-   "local": "Cagliari Calcio",
-   "visitante": "US Lecce",
-   "prediccion": {
-    "prob_1": 0.451,
-    "prob_X": 0.295,
-    "prob_2": 0.254,
-    "goles_esperados": [
-     1.234,
-     0.849
-    ],
-    "prob_over_2_5": 0.346,
-    "prob_btts": 0.406,
-    "marcadores": [
-     [
-      "1-0",
-      0.1528
-     ],
-     [
-      "1-1",
-      0.1314
-     ],
-     [
-      "0-0",
-      0.1254
-     ]
-    ],
-    "cuotas_justas": [
-     2.22,
-     3.39,
-     3.94
-    ],
-    "resumen": "Gana Cagliari Calcio (ligero favorito, 45%). pocos goles (-2.5).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.071,
-     "defensa": -0.089,
-     "neto": -0.16,
-     "peso": 45.0,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.365,
-     "defensa": -0.069,
-     "neto": -0.434,
-     "peso": 45.0,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 3,
-     "e": 0,
-     "p": 2,
-     "gf": 5,
-     "gc": 5,
-     "racha": [
-      "P",
-      "G",
-      "G",
-      "G",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 3,
-     "e": 0,
-     "p": 2,
-     "gf": 6,
-     "gc": 7,
-     "racha": [
-      "P",
-      "G",
-      "G",
-      "G",
-      "P"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-02-16",
-      "local": "Cagliari Calcio",
-      "visitante": "US Lecce",
-      "goles_local": 0,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2025-09-19",
-      "local": "US Lecce",
-      "visitante": "Cagliari Calcio",
-      "goles_local": 1,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2025-01-19",
-      "local": "Cagliari Calcio",
-      "visitante": "US Lecce",
-      "goles_local": 4,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2024-08-31",
-      "local": "US Lecce",
-      "visitante": "Cagliari Calcio",
-      "goles_local": 1,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2024-05-05",
-      "local": "Cagliari Calcio",
-      "visitante": "US Lecce",
-      "goles_local": 1,
-      "goles_visitante": 1
-     }
-    ],
-    "explicacion": "Cagliari Calcio es más fuerte de fondo (neto -0.16 vs -0.43): es más completo en general. Cagliari Calcio juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.23 – 0.85; el modelo ve marcando más a Cagliari Calcio. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
-    "recomendacion": {
-     "mercado": "Menos de 2.5 goles",
-     "prob": 0.654,
-     "por_que": "Pocos goles esperados en total (1.23 + 0.85 = 2.08). El modelo ve el partido cerrado (65% al under).",
-     "alternativa": {
-      "mercado": "Menos de 3.5 goles",
-      "prob": 0.842
-     },
-     "confianza": "alta"
-    }
-   }
-  },
   {
    "id": 564665,
    "competicion": "La Liga",
@@ -182,7 +47,7 @@
      "ataque": -0.335,
      "defensa": 0.264,
      "neto": -0.07,
-     "peso": 46.0,
+     "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -432,7 +297,7 @@
      ],
      [
       "2-1",
-      0.09
+      0.0901
      ],
      [
       "1-0",
@@ -450,16 +315,16 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.06,
-     "defensa": -0.126,
+     "defensa": -0.125,
      "neto": -0.065,
-     "peso": 27.6,
+     "peso": 27.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.104,
      "defensa": -0.028,
      "neto": 0.076,
-     "peso": 46.0,
+     "peso": 45.9,
      "fiable": true
     },
     "forma_local": {

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-01T22:55:08+00:00",
+ "actualizado": "2026-09-02T10:17:27+00:00",
  "dias": [
   "2026-09-03",
   "2026-09-04",
@@ -9,7 +9,8 @@
   "2026-09-08",
   "2026-09-09",
   "2026-09-10",
-  "2026-09-11"
+  "2026-09-11",
+  "2026-09-12"
  ],
  "competiciones": [
   {
@@ -49,11 +50,6 @@
    "archivo": "tabla_PD.json"
   },
   {
-   "codigo": "BL1",
-   "nombre": "Bundesliga",
-   "archivo": "tabla_BL1.json"
-  },
-  {
    "codigo": "SA",
    "nombre": "Serie A",
    "archivo": "tabla_SA.json"
@@ -69,5 +65,5 @@
    "archivo": "tabla_CL.json"
   }
  ],
- "total_partidos": 71
+ "total_partidos": 73
 }
