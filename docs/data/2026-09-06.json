@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-06",
- "actualizado": "2026-09-02T10:17:27+00:00",
+ "actualizado": "2026-09-02T17:33:09+00:00",
  "partidos": [
   {
    "id": 559700,
@@ -16,7 +16,7 @@
     "prob_2": 0.285,
     "goles_esperados": [
      1.325,
-     1.039
+     1.04
     ],
     "prob_over_2_5": 0.421,
     "prob_btts": 0.482,
@@ -27,11 +27,11 @@
      ],
      [
       "1-0",
-      0.1173
+      0.1172
      ],
      [
       "0-0",
-      0.1014
+      0.1013
      ]
     ],
     "cuotas_justas": [
@@ -46,7 +46,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.103,
-     "defensa": 0.34,
+     "defensa": 0.339,
      "neto": 0.237,
      "peso": 2.0,
      "fiable": false
@@ -90,7 +90,7 @@
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.579,
-     "por_que": "Pocos goles esperados en total (1.32 + 1.04 = 2.36); la defensa de ES Troyes AC aprieta. El modelo ve el partido cerrado (58% al under).",
+     "por_que": "Pocos goles esperados en total (1.32 + 1.04 = 2.37); la defensa de ES Troyes AC aprieta. El modelo ve el partido cerrado (58% al under).",
      "alternativa": null,
      "confianza": "baja"
     }
@@ -141,14 +141,14 @@
      "ataque": -0.278,
      "defensa": -0.002,
      "neto": -0.28,
-     "peso": 38.9,
+     "peso": 38.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.2,
      "defensa": -0.322,
      "neto": -0.521,
-     "peso": 20.4,
+     "peso": 20.3,
      "fiable": true
     },
     "forma_local": {
@@ -231,7 +231,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1375
+      0.1374
      ],
      [
       "1-1",
@@ -458,7 +458,7 @@
      2.162
     ],
     "prob_over_2_5": 0.617,
-    "prob_btts": 0.566,
+    "prob_btts": 0.567,
     "marcadores": [
      [
       "1-2",
@@ -621,7 +621,7 @@
      "ataque": -0.348,
      "defensa": 0.006,
      "neto": -0.341,
-     "peso": 34.7,
+     "peso": 34.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -712,7 +712,7 @@
    "prediccion": {
     "prob_1": 0.636,
     "prob_X": 0.224,
-    "prob_2": 0.14,
+    "prob_2": 0.141,
     "goles_esperados": [
      1.993,
      0.836
@@ -750,7 +750,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.243,
+     "ataque": 0.242,
      "defensa": 0.042,
      "neto": 0.285,
      "peso": 44.7,
@@ -986,7 +986,7 @@
      ],
      [
       "1-1",
-      0.13
+      0.1299
      ],
      [
       "0-1",
@@ -1106,7 +1106,7 @@
     "prob_X": 0.267,
     "prob_2": 0.425,
     "goles_esperados": [
-     1.119,
+     1.118,
      1.363
     ],
     "prob_over_2_5": 0.451,
@@ -1118,7 +1118,7 @@
      ],
      [
       "0-1",
-      0.1149
+      0.115
      ],
      [
       "1-0",
@@ -1126,7 +1126,7 @@
      ]
     ],
     "cuotas_justas": [
-     3.24,
+     3.25,
      3.75,
      2.35
     ],
@@ -1136,9 +1136,9 @@
    "nota": "pocos datos: 'Málaga CF' solo tiene 3.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.378,
+     "ataque": -0.379,
      "defensa": -0.142,
-     "neto": -0.52,
+     "neto": -0.521,
      "peso": 3.0,
      "fiable": false
     },
@@ -1347,7 +1347,7 @@
      "ataque": 0.272,
      "defensa": 0.35,
      "neto": 0.622,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1479,7 +1479,7 @@
      "ataque": -0.057,
      "defensa": 0.021,
      "neto": -0.036,
-     "peso": 39.9,
+     "peso": 39.8,
      "fiable": true
     },
     "fuerza_visitante": {

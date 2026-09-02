@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-04",
- "actualizado": "2026-09-02T10:17:27+00:00",
+ "actualizado": "2026-09-02T17:33:09+00:00",
  "partidos": [
   {
    "id": 559699,
@@ -16,7 +16,7 @@
     "prob_2": 0.192,
     "goles_esperados": [
      1.867,
-     0.996
+     0.997
     ],
     "prob_over_2_5": 0.545,
     "prob_btts": 0.539,
@@ -54,7 +54,7 @@
      "ataque": -0.093,
      "defensa": -0.014,
      "neto": -0.107,
-     "peso": 34.7,
+     "peso": 34.6,
      "fiable": true
     },
     "forma_local": {
@@ -175,7 +175,7 @@
      "ataque": -0.091,
      "defensa": 0.004,
      "neto": -0.087,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -271,7 +271,7 @@
     "prob_X": 0.235,
     "prob_2": 0.492,
     "goles_esperados": [
-     1.225,
+     1.226,
      1.726
     ],
     "prob_over_2_5": 0.566,
@@ -383,7 +383,7 @@
     "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.91 vs +0.27): ataca ~70% más que el promedio, encaja ~32% menos. Real Betis Balompié juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.23 – 1.73; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (5G-0E-0P vs 3G-0E-2P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.728,
+     "prob": 0.727,
      "por_que": "Doble oportunidad: cubre que Real Betis Balompié no gane. El escenario que queda afuera (gane Real Betis Balompié) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -518,7 +518,7 @@
    "prediccion": {
     "prob_1": 0.644,
     "prob_X": 0.191,
-    "prob_2": 0.164,
+    "prob_2": 0.165,
     "goles_esperados": [
      2.413,
      1.166
@@ -559,7 +559,7 @@
      "ataque": 0.296,
      "defensa": 0.052,
      "neto": 0.348,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "forma_local": {
