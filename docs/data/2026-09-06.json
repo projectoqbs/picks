@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-06",
- "actualizado": "2026-09-02T17:33:09+00:00",
+ "actualizado": "2026-09-03T10:28:12+00:00",
  "partidos": [
   {
    "id": 559700,
@@ -16,7 +16,7 @@
     "prob_2": 0.285,
     "goles_esperados": [
      1.325,
-     1.04
+     1.039
     ],
     "prob_over_2_5": 0.421,
     "prob_btts": 0.482,
@@ -31,7 +31,7 @@
      ],
      [
       "0-0",
-      0.1013
+      0.1014
      ]
     ],
     "cuotas_justas": [
@@ -46,7 +46,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.103,
-     "defensa": 0.339,
+     "defensa": 0.34,
      "neto": 0.237,
      "peso": 2.0,
      "fiable": false
@@ -90,7 +90,7 @@
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.579,
-     "por_que": "Pocos goles esperados en total (1.32 + 1.04 = 2.37); la defensa de ES Troyes AC aprieta. El modelo ve el partido cerrado (58% al under).",
+     "por_que": "Pocos goles esperados en total (1.32 + 1.04 = 2.36); la defensa de ES Troyes AC aprieta. El modelo ve el partido cerrado (58% al under).",
      "alternativa": null,
      "confianza": "baja"
     }
@@ -253,7 +253,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.053,
-     "defensa": -0.1,
+     "defensa": -0.099,
      "neto": -0.047,
      "peso": 8.1,
      "fiable": true
@@ -300,7 +300,7 @@
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.785,
-     "por_que": "Doble oportunidad: cubre que Frosinone Calcio no pierda. El escenario que queda afuera (gane Venezia FC) es el menos probable (21%), así que el mercado se cumple ~78% de las veces.",
+     "por_que": "Doble oportunidad: cubre que Frosinone Calcio no pierda. El escenario que queda afuera (gane Venezia FC) es el menos probable (22%), así que el mercado se cumple ~79% de las veces.",
      "alternativa": {
       "mercado": "Menos de 2.5 goles",
       "prob": 0.569
@@ -354,14 +354,14 @@
      "ataque": -0.093,
      "defensa": 0.181,
      "neto": 0.088,
-     "peso": 44.7,
+     "peso": 44.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.203,
      "defensa": 0.056,
      "neto": 0.259,
-     "peso": 44.7,
+     "peso": 44.6,
      "fiable": true
     },
     "forma_local": {
@@ -442,6 +442,120 @@
    }
   },
   {
+   "id": 565788,
+   "competicion": "Bundesliga",
+   "competicion_codigo": "BL1",
+   "fecha_utc": "2026-09-06T13:30:00Z",
+   "jornada": 2,
+   "local": "Hamburger SV",
+   "visitante": "1. FSV Mainz 05",
+   "prediccion": {
+    "prob_1": 0.344,
+    "prob_X": 0.297,
+    "prob_2": 0.359,
+    "goles_esperados": [
+     1.178,
+     1.208
+    ],
+    "prob_over_2_5": 0.426,
+    "prob_btts": 0.495,
+    "marcadores": [
+     [
+      "1-1",
+      0.1406
+     ],
+     [
+      "0-0",
+      0.1017
+     ],
+     [
+      "0-1",
+      0.1015
+     ]
+    ],
+    "cuotas_justas": [
+     2.9,
+     3.37,
+     2.79
+    ],
+    "resumen": "Partido parejo.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.19,
+     "defensa": 0.041,
+     "neto": -0.148,
+     "peso": 23.0,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.075,
+     "defensa": 0.143,
+     "neto": 0.068,
+     "peso": 39.4,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 7,
+     "gc": 8,
+     "racha": [
+      "P",
+      "G",
+      "G",
+      "E",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 8,
+     "gc": 8,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "G",
+      "E"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-02-20",
+      "local": "1. FSV Mainz 05",
+      "visitante": "Hamburger SV",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-10-05",
+      "local": "Hamburger SV",
+      "visitante": "1. FSV Mainz 05",
+      "goles_local": 4,
+      "goles_visitante": 0
+     }
+    ],
+    "explicacion": "1. FSV Mainz 05 es más fuerte de fondo (neto +0.07 vs -0.15): encaja ~13% menos. Hamburger SV juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.18 – 1.21; el modelo ve marcando más a 1. FSV Mainz 05. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.656,
+     "por_que": "Doble oportunidad: cubre que Hamburger SV no gane. El escenario que queda afuera (gane Hamburger SV) es el menos probable (34%), así que el mercado se cumple ~66% de las veces.",
+     "alternativa": {
+      "mercado": "Menos de 2.5 goles",
+      "prob": 0.574
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
    "id": 564659,
    "competicion": "La Liga",
    "competicion_codigo": "PD",
@@ -486,14 +600,14 @@
      "ataque": -0.055,
      "defensa": 0.029,
      "neto": -0.026,
-     "peso": 46.0,
+     "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.714,
      "defensa": 0.306,
      "neto": 1.02,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "forma_local": {
@@ -566,7 +680,7 @@
     "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.02 vs -0.03): ataca ~104% más que el promedio, encaja ~26% menos. Valencia CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.02 – 2.16; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (4G-0E-1P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.831,
+     "prob": 0.83,
      "por_que": "Doble oportunidad: cubre que Valencia CF no gane. El escenario que queda afuera (gane Valencia CF) es el menos probable (17%), así que el mercado se cumple ~83% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -597,7 +711,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1279
+      0.1278
      ],
      [
       "0-1",
@@ -620,7 +734,7 @@
     "fuerza_local": {
      "ataque": -0.348,
      "defensa": 0.006,
-     "neto": -0.341,
+     "neto": -0.342,
      "peso": 34.6,
      "fiable": true
     },
@@ -628,7 +742,7 @@
      "ataque": 0.235,
      "defensa": -0.018,
      "neto": 0.217,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "forma_local": {
@@ -702,6 +816,141 @@
    }
   },
   {
+   "id": 565786,
+   "competicion": "Bundesliga",
+   "competicion_codigo": "BL1",
+   "fecha_utc": "2026-09-06T15:30:00Z",
+   "jornada": 2,
+   "local": "Eintracht Frankfurt",
+   "visitante": "FC Augsburg",
+   "prediccion": {
+    "prob_1": 0.542,
+    "prob_X": 0.229,
+    "prob_2": 0.228,
+    "goles_esperados": [
+     2.013,
+     1.255
+    ],
+    "prob_over_2_5": 0.634,
+    "prob_btts": 0.626,
+    "marcadores": [
+     [
+      "1-1",
+      0.1033
+     ],
+     [
+      "2-1",
+      0.0968
+     ],
+     [
+      "2-0",
+      0.0772
+     ]
+    ],
+    "cuotas_justas": [
+     1.84,
+     4.36,
+     4.38
+    ],
+    "resumen": "Gana Eintracht Frankfurt (ligero favorito, 54%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.208,
+     "defensa": -0.046,
+     "neto": 0.161,
+     "peso": 39.3,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.125,
+     "defensa": 0.005,
+     "neto": -0.12,
+     "peso": 39.3,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 0,
+     "e": 3,
+     "p": 2,
+     "gf": 9,
+     "gc": 11,
+     "racha": [
+      "E",
+      "P",
+      "P",
+      "E",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 10,
+     "gc": 7,
+     "racha": [
+      "E",
+      "G",
+      "G",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-04-25",
+      "local": "FC Augsburg",
+      "visitante": "Eintracht Frankfurt",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-12-13",
+      "local": "Eintracht Frankfurt",
+      "visitante": "FC Augsburg",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-04-20",
+      "local": "FC Augsburg",
+      "visitante": "Eintracht Frankfurt",
+      "goles_local": 0,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-12-07",
+      "local": "Eintracht Frankfurt",
+      "visitante": "FC Augsburg",
+      "goles_local": 2,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-04-19",
+      "local": "Eintracht Frankfurt",
+      "visitante": "FC Augsburg",
+      "goles_local": 3,
+      "goles_visitante": 1
+     }
+    ],
+    "explicacion": "Eintracht Frankfurt es más fuerte de fondo (neto +0.16 vs -0.12): ataca ~23% más que el promedio. Eintracht Frankfurt juega en casa (~+21% de ventaja, ya contada). Goles esperados: 2.01 – 1.25; el modelo ve marcando más a Eintracht Frankfurt. Pero ojo: en forma reciente FC Augsburg llega mejor que Eintracht Frankfurt, así que puede estar más cerca de lo que dice el neto.",
+    "recomendacion": {
+     "mercado": "Más de 1.5 goles",
+     "prob": 0.845,
+     "por_que": "Bastantes goles esperados (2.01 + 1.25 = 3.27); al menos una defensa floja. Probabilidad al over: 84%.",
+     "alternativa": {
+      "mercado": "1X",
+      "prob": 0.772
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
    "id": 560570,
    "competicion": "Premier League",
    "competicion_codigo": "PL",
@@ -746,14 +995,14 @@
      "ataque": 0.34,
      "defensa": 0.636,
      "neto": 0.976,
-     "peso": 44.6,
+     "peso": 44.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.242,
      "defensa": 0.042,
      "neto": 0.285,
-     "peso": 44.7,
+     "peso": 44.6,
      "fiable": true
     },
     "forma_local": {
@@ -881,12 +1130,12 @@
      "ataque": 0.134,
      "defensa": 0.089,
      "neto": 0.222,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.058,
-     "defensa": -0.115,
+     "defensa": -0.116,
      "neto": -0.058,
      "peso": 32.7,
      "fiable": true
@@ -1006,7 +1255,7 @@
      "ataque": -0.059,
      "defensa": 0.069,
      "neto": 0.01,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1106,7 +1355,7 @@
     "prob_X": 0.267,
     "prob_2": 0.425,
     "goles_esperados": [
-     1.118,
+     1.119,
      1.363
     ],
     "prob_over_2_5": 0.451,
@@ -1118,7 +1367,7 @@
      ],
      [
       "0-1",
-      0.115
+      0.1149
      ],
      [
       "1-0",
@@ -1126,20 +1375,20 @@
      ]
     ],
     "cuotas_justas": [
-     3.25,
+     3.24,
      3.75,
      2.35
     ],
     "resumen": "Gana Levante UD (ligero favorito, 42%).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Málaga CF' solo tiene 3.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Málaga CF' solo tiene 2.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.379,
+     "ataque": -0.378,
      "defensa": -0.142,
-     "neto": -0.521,
-     "peso": 3.0,
+     "neto": -0.52,
+     "peso": 2.9,
      "fiable": false
     },
     "fuerza_visitante": {
@@ -1230,16 +1479,16 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.319,
+     "ataque": 0.318,
      "defensa": 0.079,
      "neto": 0.398,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.073,
+     "ataque": 0.072,
      "defensa": 0.106,
-     "neto": 0.179,
+     "neto": 0.178,
      "peso": 23.7,
      "fiable": true
     },
@@ -1289,7 +1538,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Olympique de Marseille es más fuerte de fondo (neto +0.40 vs +0.18): ataca ~38% más que el promedio. Olympique de Marseille juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.85 – 1.22; el modelo ve marcando más a Olympique de Marseille. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Olympique de Marseille es más fuerte de fondo (neto +0.40 vs +0.18): ataca ~37% más que el promedio. Olympique de Marseille juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.85 – 1.22; el modelo ve marcando más a Olympique de Marseille. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "Más de 1.5 goles",
      "prob": 0.816,
@@ -1354,7 +1603,7 @@
      "ataque": 0.278,
      "defensa": 0.181,
      "neto": 0.459,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "forma_local": {
@@ -1484,7 +1733,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.019,
-     "defensa": -0.069,
+     "defensa": -0.07,
      "neto": -0.05,
      "peso": 45.9,
      "fiable": true

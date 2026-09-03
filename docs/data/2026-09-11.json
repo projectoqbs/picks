@@ -1,7 +1,103 @@
 {
  "fecha": "2026-09-11",
- "actualizado": "2026-09-02T17:33:09+00:00",
+ "actualizado": "2026-09-03T10:28:12+00:00",
  "partidos": [
+  {
+   "id": 565797,
+   "competicion": "Bundesliga",
+   "competicion_codigo": "BL1",
+   "fecha_utc": "2026-09-11T18:30:00Z",
+   "jornada": 3,
+   "local": "1. FC Union Berlin",
+   "visitante": "FC Schalke 04",
+   "prediccion": {
+    "prob_1": 0.601,
+    "prob_X": 0.227,
+    "prob_2": 0.172,
+    "goles_esperados": [
+     1.983,
+     0.976
+    ],
+    "prob_over_2_5": 0.568,
+    "prob_btts": 0.545,
+    "marcadores": [
+     [
+      "1-1",
+      0.1078
+     ],
+     [
+      "2-0",
+      0.102
+     ],
+     [
+      "2-1",
+      0.0995
+     ]
+    ],
+    "cuotas_justas": [
+     1.67,
+     4.4,
+     5.81
+    ],
+    "resumen": "Gana 1. FC Union Berlin (claro favorito, 60%).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'FC Schalke 04' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.154,
+     "defensa": -0.012,
+     "neto": -0.167,
+     "peso": 39.1,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.343,
+     "defensa": -0.342,
+     "neto": -0.685,
+     "peso": 1.0,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 2,
+     "p": 1,
+     "gf": 13,
+     "gc": 9,
+     "racha": [
+      "P",
+      "E",
+      "G",
+      "G",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 1,
+     "g": 0,
+     "e": 0,
+     "p": 1,
+     "gf": 0,
+     "gc": 3,
+     "racha": [
+      "P"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "1. FC Union Berlin es más fuerte de fondo (neto -0.17 vs -0.69): es más completo en general. 1. FC Union Berlin juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.98 – 0.98; el modelo ve marcando más a 1. FC Union Berlin. Y la forma reciente lo confirma: 1. FC Union Berlin llega mejor (2G-2E-1P vs 0G-0E-1P). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.828,
+     "por_que": "Doble oportunidad: cubre que 1. FC Union Berlin no pierda. El escenario que queda afuera (gane FC Schalke 04) es el menos probable (17%), así que el mercado se cumple ~83% de las veces.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.802
+     },
+     "confianza": "baja"
+    }
+   }
+  },
   {
    "id": 559689,
    "competicion": "Ligue 1",
@@ -47,14 +143,14 @@
      "ataque": 0.235,
      "defensa": -0.018,
      "neto": 0.217,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.319,
+     "ataque": 0.318,
      "defensa": 0.079,
      "neto": 0.398,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "forma_local": {
@@ -124,7 +220,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Olympique de Marseille es más fuerte de fondo (neto +0.40 vs +0.22): ataca ~38% más que el promedio. Stade Rennais FC 1901 juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.75 – 1.72; el modelo ve marcando más a Stade Rennais FC 1901. Y la forma reciente lo confirma: Olympique de Marseille llega mejor (3G-0E-2P vs 2G-1E-2P).",
+    "explicacion": "Olympique de Marseille es más fuerte de fondo (neto +0.40 vs +0.22): ataca ~37% más que el promedio. Stade Rennais FC 1901 juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.75 – 1.72; el modelo ve marcando más a Stade Rennais FC 1901. Y la forma reciente lo confirma: Olympique de Marseille llega mejor (3G-0E-2P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.683,
@@ -249,6 +345,132 @@
      },
      "confianza": "alta"
     }
+   }
+  },
+  {
+   "id": 564669,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-09-11T19:00:00Z",
+   "jornada": 5,
+   "local": "Sevilla FC",
+   "visitante": "Valencia CF",
+   "prediccion": {
+    "prob_1": 0.452,
+    "prob_X": 0.26,
+    "prob_2": 0.288,
+    "goles_esperados": [
+     1.455,
+     1.106
+    ],
+    "prob_over_2_5": 0.472,
+    "prob_btts": 0.512,
+    "marcadores": [
+     [
+      "1-1",
+      0.1234
+     ],
+     [
+      "1-0",
+      0.1132
+     ],
+     [
+      "2-1",
+      0.0904
+     ]
+    ],
+    "cuotas_justas": [
+     2.21,
+     3.85,
+     3.47
+    ],
+    "resumen": "Gana Sevilla FC (ligero favorito, 45%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.019,
+     "defensa": -0.07,
+     "neto": -0.05,
+     "peso": 45.9,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.055,
+     "defensa": 0.029,
+     "neto": -0.026,
+     "peso": 45.9,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 0,
+     "p": 3,
+     "gf": 6,
+     "gc": 7,
+     "racha": [
+      "P",
+      "P",
+      "G",
+      "G",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 8,
+     "gc": 8,
+     "racha": [
+      "G",
+      "G",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-03-21",
+      "local": "Sevilla FC",
+      "visitante": "Valencia CF",
+      "goles_local": 0,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-12-07",
+      "local": "Valencia CF",
+      "visitante": "Sevilla FC",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-04-11",
+      "local": "Valencia CF",
+      "visitante": "Sevilla FC",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-01-11",
+      "local": "Sevilla FC",
+      "visitante": "Valencia CF",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-02-17",
+      "local": "Valencia CF",
+      "visitante": "Sevilla FC",
+      "goles_local": 0,
+      "goles_visitante": 0
+     }
+    ],
+    "explicacion": "En fuerza de temporada están parejos (neto -0.05 vs -0.03). Sevilla FC juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.46 – 1.11; el modelo ve marcando más a Sevilla FC. También parejos en forma (2G-0E-3P vs 2G-1E-2P en 5).",
+    "recomendacion": null
    }
   }
  ]

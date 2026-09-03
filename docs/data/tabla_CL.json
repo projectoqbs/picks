@@ -6,7 +6,7 @@
    "equipo": "Arsenal FC",
    "ataque": 0.434,
    "defensa": 0.729,
-   "neto": 1.163,
+   "neto": 1.162,
    "peso": 16.2,
    "fiable": true
   },
@@ -29,8 +29,8 @@
   {
    "equipo": "Liverpool FC",
    "ataque": 0.24,
-   "defensa": 0.485,
-   "neto": 0.725,
+   "defensa": 0.484,
+   "neto": 0.724,
    "peso": 10.7,
    "fiable": true
   },
@@ -95,13 +95,13 @@
    "ataque": 0.106,
    "defensa": 0.328,
    "neto": 0.434,
-   "peso": 12.3,
+   "peso": 12.2,
    "fiable": true
   },
   {
    "equipo": "Lille OSC",
-   "ataque": 0.228,
-   "defensa": 0.192,
+   "ataque": 0.227,
+   "defensa": 0.191,
    "neto": 0.419,
    "peso": 3.0,
    "fiable": false
@@ -165,7 +165,7 @@
   {
    "equipo": "Juventus FC",
    "ataque": 0.094,
-   "defensa": 0.102,
+   "defensa": 0.103,
    "neto": 0.196,
    "peso": 9.1,
    "fiable": true
@@ -173,7 +173,7 @@
   {
    "equipo": "Real Sociedad de Fútbol",
    "ataque": -0.125,
-   "defensa": 0.271,
+   "defensa": 0.27,
    "neto": 0.146,
    "peso": 1.2,
    "fiable": false
@@ -236,7 +236,7 @@
   },
   {
    "equipo": "Manchester United FC",
-   "ataque": 0.087,
+   "ataque": 0.086,
    "defensa": -0.109,
    "neto": -0.022,
    "peso": 0.8,
@@ -278,7 +278,7 @@
    "equipo": "RB Leipzig",
    "ataque": -0.084,
    "defensa": -0.001,
-   "neto": -0.084,
+   "neto": -0.085,
    "peso": 3.5,
    "fiable": false
   },
@@ -292,9 +292,9 @@
   },
   {
    "equipo": "1. FC Union Berlin",
-   "ataque": -0.1,
+   "ataque": -0.099,
    "defensa": 0.004,
-   "neto": -0.096,
+   "neto": -0.095,
    "peso": 0.8,
    "fiable": false
   },
@@ -316,9 +316,9 @@
   },
   {
    "equipo": "Sporting Clube de Braga",
-   "ataque": -0.109,
-   "defensa": -0.057,
-   "neto": -0.165,
+   "ataque": -0.108,
+   "defensa": -0.056,
+   "neto": -0.164,
    "peso": 0.8,
    "fiable": false
   },
@@ -326,14 +326,14 @@
    "equipo": "VfB Stuttgart",
    "ataque": -0.033,
    "defensa": -0.145,
-   "neto": -0.177,
+   "neto": -0.178,
    "peso": 2.3,
    "fiable": false
   },
   {
    "equipo": "PAE Olympiakos SFP",
    "ataque": -0.268,
-   "defensa": 0.089,
+   "defensa": 0.09,
    "neto": -0.179,
    "peso": 6.0,
    "fiable": false
@@ -364,7 +364,7 @@
   },
   {
    "equipo": "Royal Antwerp FC",
-   "ataque": -0.099,
+   "ataque": -0.098,
    "defensa": -0.147,
    "neto": -0.246,
    "peso": 0.8,
@@ -391,7 +391,7 @@
    "ataque": -0.246,
    "defensa": -0.053,
    "neto": -0.298,
-   "peso": 5.9,
+   "peso": 5.8,
    "fiable": false
   },
   {
@@ -437,8 +437,8 @@
   {
    "equipo": "Qarabağ Ağdam FK",
    "ataque": -0.009,
-   "defensa": -0.596,
-   "neto": -0.605,
+   "defensa": -0.595,
+   "neto": -0.604,
    "peso": 6.0,
    "fiable": false
   },
@@ -454,7 +454,7 @@
    "equipo": "FK Kairat",
    "ataque": -0.256,
    "defensa": -0.37,
-   "neto": -0.626,
+   "neto": -0.625,
    "peso": 4.7,
    "fiable": false
   },
@@ -462,14 +462,14 @@
    "equipo": "SK Slavia Praha",
    "ataque": -0.403,
    "defensa": -0.232,
-   "neto": -0.636,
+   "neto": -0.635,
    "peso": 4.7,
    "fiable": false
   },
   {
    "equipo": "ŠK Slovan Bratislava",
-   "ataque": -0.224,
-   "defensa": -0.452,
+   "ataque": -0.223,
+   "defensa": -0.453,
    "neto": -0.676,
    "peso": 2.3,
    "fiable": false
@@ -486,7 +486,7 @@
    "equipo": "AFC Ajax",
    "ataque": -0.275,
    "defensa": -0.489,
-   "neto": -0.764,
+   "neto": -0.763,
    "peso": 4.7,
    "fiable": false
   },
@@ -500,7 +500,7 @@
   },
   {
    "equipo": "BSC Young Boys",
-   "ataque": -0.461,
+   "ataque": -0.462,
    "defensa": -0.376,
    "neto": -0.838,
    "peso": 3.2,

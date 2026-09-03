@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-04",
- "actualizado": "2026-09-02T17:33:09+00:00",
+ "actualizado": "2026-09-03T10:28:12+00:00",
  "partidos": [
   {
    "id": 559699,
@@ -47,7 +47,7 @@
      "ataque": 0.21,
      "defensa": 0.115,
      "neto": 0.325,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -131,6 +131,134 @@
    }
   },
   {
+   "id": 565791,
+   "competicion": "Bundesliga",
+   "competicion_codigo": "BL1",
+   "fecha_utc": "2026-09-04T18:30:00Z",
+   "jornada": 2,
+   "local": "VfB Stuttgart",
+   "visitante": "1. FC Köln",
+   "prediccion": {
+    "prob_1": 0.671,
+    "prob_X": 0.181,
+    "prob_2": 0.148,
+    "goles_esperados": [
+     2.567,
+     1.164
+    ],
+    "prob_over_2_5": 0.72,
+    "prob_btts": 0.64,
+    "marcadores": [
+     [
+      "2-1",
+      0.0919
+     ],
+     [
+      "2-0",
+      0.0789
+     ],
+     [
+      "3-1",
+      0.0787
+     ]
+    ],
+    "cuotas_justas": [
+     1.49,
+     5.52,
+     6.77
+    ],
+    "resumen": "Gana VfB Stuttgart (claro favorito, 67%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.333,
+     "defensa": 0.094,
+     "neto": 0.427,
+     "peso": 39.4,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.059,
+     "defensa": -0.113,
+     "neto": -0.172,
+     "peso": 28.4,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 3,
+     "p": 1,
+     "gf": 10,
+     "gc": 12,
+     "racha": [
+      "E",
+      "E",
+      "G",
+      "E",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 8,
+     "gc": 14,
+     "racha": [
+      "P",
+      "E",
+      "P",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-02-14",
+      "local": "VfB Stuttgart",
+      "visitante": "1. FC Köln",
+      "goles_local": 3,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-09-28",
+      "local": "1. FC Köln",
+      "visitante": "VfB Stuttgart",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-02-24",
+      "local": "VfB Stuttgart",
+      "visitante": "1. FC Köln",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2023-09-30",
+      "local": "1. FC Köln",
+      "visitante": "VfB Stuttgart",
+      "goles_local": 0,
+      "goles_visitante": 2
+     }
+    ],
+    "explicacion": "VfB Stuttgart es más fuerte de fondo (neto +0.43 vs -0.17): ataca ~40% más que el promedio. VfB Stuttgart juega en casa (~+21% de ventaja, ya contada). Goles esperados: 2.57 – 1.16; el modelo ve marcando más a VfB Stuttgart. Y la forma reciente lo confirma: VfB Stuttgart llega mejor (1G-3E-1P vs 1G-1E-3P).",
+    "recomendacion": {
+     "mercado": "1",
+     "prob": 0.671,
+     "por_que": "VfB Stuttgart es favorito en casa: marca más (2.57 vs 1.16) y es más fuerte de fondo (neto +0.43 vs -0.17). Probabilidad: 67%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.892
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
    "id": 558609,
    "competicion": "Serie A",
    "competicion_codigo": "SA",
@@ -182,7 +310,7 @@
      "ataque": 0.321,
      "defensa": 0.268,
      "neto": 0.589,
-     "peso": 38.9,
+     "peso": 38.8,
      "fiable": true
     },
     "forma_local": {
@@ -259,141 +387,6 @@
    }
   },
   {
-   "id": 564667,
-   "competicion": "La Liga",
-   "competicion_codigo": "PD",
-   "fecha_utc": "2026-09-04T19:00:00Z",
-   "jornada": 4,
-   "local": "Real Betis Balompié",
-   "visitante": "Real Madrid CF",
-   "prediccion": {
-    "prob_1": 0.273,
-    "prob_X": 0.235,
-    "prob_2": 0.492,
-    "goles_esperados": [
-     1.226,
-     1.726
-    ],
-    "prob_over_2_5": 0.566,
-    "prob_btts": 0.58,
-    "marcadores": [
-     [
-      "1-1",
-      0.1098
-     ],
-     [
-      "1-2",
-      0.0954
-     ],
-     [
-      "0-1",
-      0.091
-     ]
-    ],
-    "cuotas_justas": [
-     3.67,
-     4.25,
-     2.03
-    ],
-    "resumen": "Gana Real Madrid CF (ligero favorito, 49%).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.201,
-     "defensa": 0.069,
-     "neto": 0.271,
-     "peso": 45.9,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.529,
-     "defensa": 0.383,
-     "neto": 0.912,
-     "peso": 45.9,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 3,
-     "e": 0,
-     "p": 2,
-     "gf": 7,
-     "gc": 9,
-     "racha": [
-      "P",
-      "G",
-      "G",
-      "G",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 5,
-     "e": 0,
-     "p": 0,
-     "gf": 15,
-     "gc": 4,
-     "racha": [
-      "G",
-      "G",
-      "G",
-      "G",
-      "G"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-04-24",
-      "local": "Real Betis Balompié",
-      "visitante": "Real Madrid CF",
-      "goles_local": 1,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2026-01-04",
-      "local": "Real Madrid CF",
-      "visitante": "Real Betis Balompié",
-      "goles_local": 5,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2025-03-01",
-      "local": "Real Betis Balompié",
-      "visitante": "Real Madrid CF",
-      "goles_local": 2,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2024-09-01",
-      "local": "Real Madrid CF",
-      "visitante": "Real Betis Balompié",
-      "goles_local": 2,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2024-05-25",
-      "local": "Real Madrid CF",
-      "visitante": "Real Betis Balompié",
-      "goles_local": 0,
-      "goles_visitante": 0
-     }
-    ],
-    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.91 vs +0.27): ataca ~70% más que el promedio, encaja ~32% menos. Real Betis Balompié juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.23 – 1.73; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (5G-0E-0P vs 3G-0E-2P).",
-    "recomendacion": {
-     "mercado": "X2",
-     "prob": 0.727,
-     "por_que": "Doble oportunidad: cubre que Real Betis Balompié no gane. El escenario que queda afuera (gane Real Betis Balompié) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.793
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
    "id": 560566,
    "competicion": "Premier League",
    "competicion_codigo": "PL",
@@ -445,7 +438,7 @@
      "ataque": 0.363,
      "defensa": 0.107,
      "neto": 0.47,
-     "peso": 44.7,
+     "peso": 44.6,
      "fiable": true
     },
     "forma_local": {
@@ -549,10 +542,10 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.533,
+     "ataque": 0.532,
      "defensa": 0.347,
-     "neto": 0.88,
-     "peso": 40.2,
+     "neto": 0.879,
+     "peso": 40.1,
      "fiable": true
     },
     "fuerza_visitante": {
