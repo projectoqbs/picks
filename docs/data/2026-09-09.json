@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-09",
- "actualizado": "2026-09-03T10:28:12+00:00",
+ "actualizado": "2026-09-03T17:25:54+00:00",
  "partidos": [
   {
    "id": 575329,
@@ -16,7 +16,7 @@
     "prob_2": 0.103,
     "goles_esperados": [
      3.682,
-     1.414
+     1.415
     ],
     "prob_over_2_5": 0.883,
     "prob_btts": 0.737,
@@ -31,7 +31,7 @@
      ],
      [
       "2-1",
-      0.0588
+      0.0587
      ]
     ],
     "cuotas_justas": [
@@ -89,11 +89,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "FC Barcelona es más fuerte de fondo (neto +0.62 vs -0.05): ataca ~76% más que el promedio. FC Barcelona juega en casa (~+32% de ventaja, ya contada). Goles esperados: 3.68 – 1.41; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (3G-1E-1P vs 1G-1E-3P). El modelo tiene pocos datos de Feyenoord Rotterdam: tomalo con pinzas.",
+    "explicacion": "FC Barcelona es más fuerte de fondo (neto +0.62 vs -0.05): ataca ~76% más que el promedio. FC Barcelona juega en casa (~+32% de ventaja, ya contada). Goles esperados: 3.68 – 1.42; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (3G-1E-1P vs 1G-1E-3P). El modelo tiene pocos datos de Feyenoord Rotterdam: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.883,
-     "por_que": "Bastantes goles esperados (3.68 + 1.41 = 5.10); al menos una defensa floja. Probabilidad al over: 88%.",
+     "por_que": "Bastantes goles esperados (3.68 + 1.42 = 5.10); al menos una defensa floja. Probabilidad al over: 88%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.961
@@ -130,11 +130,11 @@
      1.258
     ],
     "prob_over_2_5": 0.625,
-    "prob_btts": 0.612,
+    "prob_btts": 0.611,
     "marcadores": [
      [
       "2-1",
-      0.0967
+      0.0968
      ],
      [
       "1-1",
@@ -146,7 +146,7 @@
      ]
     ],
     "cuotas_justas": [
-     1.85,
+     1.84,
      4.74,
      4.05
     ],
@@ -233,7 +233,7 @@
     "prob_X": 0.021,
     "prob_2": 0.009,
     "goles_esperados": [
-     5.643,
+     5.642,
      0.752
     ],
     "prob_over_2_5": 0.952,
@@ -241,11 +241,11 @@
     "marcadores": [
      [
       "5-0",
-      0.082
+      0.0821
      ],
      [
       "6-0",
-      0.0771
+      0.0772
      ],
      [
       "4-0",
@@ -254,7 +254,7 @@
     ],
     "cuotas_justas": [
      1.03,
-     47.6,
+     47.58,
      109.05
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 97%). se esperan goles (+2.5).",
@@ -270,8 +270,8 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.223,
-     "defensa": -0.453,
+     "ataque": -0.224,
+     "defensa": -0.452,
      "neto": -0.676,
      "peso": 2.3,
      "fiable": false
@@ -333,7 +333,7 @@
     "prob_X": 0.177,
     "prob_2": 0.719,
     "goles_esperados": [
-     0.651,
+     0.652,
      2.123
     ],
     "prob_over_2_5": 0.524,

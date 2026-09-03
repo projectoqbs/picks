@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-12",
- "actualizado": "2026-09-03T10:28:12+00:00",
+ "actualizado": "2026-09-03T17:25:54+00:00",
  "partidos": [
   {
    "id": 564670,
@@ -16,18 +16,18 @@
     "prob_2": 0.289,
     "goles_esperados": [
      1.604,
-     1.212
+     1.211
     ],
     "prob_over_2_5": 0.534,
     "prob_btts": 0.56,
     "marcadores": [
      [
       "1-1",
-      0.1155
+      0.1156
      ],
      [
       "1-0",
-      0.0968
+      0.0969
      ],
      [
       "2-1",
@@ -46,7 +46,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.156,
-     "defensa": -0.165,
+     "defensa": -0.164,
      "neto": -0.008,
      "peso": 2.9,
      "fiable": false
@@ -254,16 +254,16 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.178,
-     "defensa": -0.08,
+     "defensa": -0.081,
      "neto": 0.098,
-     "peso": 39.4,
+     "peso": 39.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.333,
      "defensa": 0.094,
      "neto": 0.427,
-     "peso": 39.4,
+     "peso": 39.3,
      "fiable": true
     },
     "forma_local": {
@@ -360,14 +360,14 @@
     "prob_2": 0.164,
     "goles_esperados": [
      1.584,
-     0.735
+     0.736
     ],
     "prob_over_2_5": 0.409,
     "prob_btts": 0.422,
     "marcadores": [
      [
       "1-0",
-      0.1474
+      0.1473
      ],
      [
       "2-0",
@@ -380,7 +380,7 @@
     ],
     "cuotas_justas": [
      1.76,
-     3.73,
+     3.74,
      6.1
     ],
     "resumen": "Gana Borussia Dortmund (claro favorito, 57%). pocos goles (-2.5).",
@@ -429,7 +429,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.64 vs +0.07): ataca ~38% más que el promedio, encaja ~28% menos. Borussia Dortmund juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.58 – 0.73; el modelo ve marcando más a Borussia Dortmund. Y la forma reciente lo confirma: Borussia Dortmund llega mejor (4G-0E-1P vs 0G-1E-0P). El modelo tiene pocos datos de SC Paderborn 07: tomalo con pinzas.",
+    "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.64 vs +0.07): ataca ~38% más que el promedio, encaja ~28% menos. Borussia Dortmund juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.58 – 0.74; el modelo ve marcando más a Borussia Dortmund. Y la forma reciente lo confirma: Borussia Dortmund llega mejor (4G-0E-1P vs 0G-1E-0P). El modelo tiene pocos datos de SC Paderborn 07: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.836,
@@ -453,7 +453,7 @@
    "prediccion": {
     "prob_1": 0.222,
     "prob_X": 0.238,
-    "prob_2": 0.54,
+    "prob_2": 0.539,
     "goles_esperados": [
      1.159,
      1.902
@@ -622,12 +622,12 @@
      "ataque": -0.075,
      "defensa": 0.143,
      "neto": 0.068,
-     "peso": 39.4,
+     "peso": 39.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.208,
-     "defensa": -0.046,
+     "defensa": -0.047,
      "neto": 0.161,
      "peso": 39.3,
      "fiable": true
@@ -737,7 +737,7 @@
      ],
      [
       "2-1",
-      0.094
+      0.0941
      ],
      [
       "1-0",
@@ -757,7 +757,7 @@
      "ataque": 0.04,
      "defensa": 0.001,
      "neto": 0.041,
-     "peso": 39.4,
+     "peso": 39.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1004,7 +1004,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.363,
-     "defensa": 0.107,
+     "defensa": 0.108,
      "neto": 0.47,
      "peso": 44.6,
      "fiable": true
@@ -1013,7 +1013,7 @@
      "ataque": -0.021,
      "defensa": 0.052,
      "neto": 0.031,
-     "peso": 44.6,
+     "peso": 44.5,
      "fiable": true
     },
     "forma_local": {
@@ -1139,7 +1139,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.137,
-     "defensa": 0.059,
+     "defensa": 0.06,
      "neto": 0.197,
      "peso": 44.5,
      "fiable": true
@@ -1148,7 +1148,7 @@
      "ataque": 0.029,
      "defensa": 0.098,
      "neto": 0.127,
-     "peso": 44.6,
+     "peso": 44.5,
      "fiable": true
     },
     "forma_local": {
@@ -1376,7 +1376,7 @@
     "prob_X": 0.303,
     "prob_2": 0.382,
     "goles_esperados": [
-     1.1,
+     1.101,
      1.237
     ],
     "prob_over_2_5": 0.414,
@@ -1388,7 +1388,7 @@
      ],
      [
       "0-1",
-      0.1082
+      0.1081
      ],
      [
       "0-0",
@@ -1505,7 +1505,7 @@
      "ataque": -0.021,
      "defensa": 0.078,
      "neto": 0.057,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1633,7 +1633,7 @@
      "ataque": 0.173,
      "defensa": 0.017,
      "neto": 0.19,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1748,7 +1748,7 @@
      ],
      [
       "0-1",
-      0.1169
+      0.117
      ],
      [
       "1-0",
@@ -1903,12 +1903,12 @@
      "ataque": 0.039,
      "defensa": 0.129,
      "neto": 0.169,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.06,
-     "defensa": -0.125,
+     "defensa": -0.126,
      "neto": -0.065,
      "peso": 27.5,
      "fiable": true
@@ -2014,14 +2014,14 @@
      "ataque": -0.059,
      "defensa": -0.113,
      "neto": -0.172,
-     "peso": 28.4,
+     "peso": 28.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.142,
      "defensa": -0.042,
      "neto": -0.184,
-     "peso": 39.4,
+     "peso": 39.3,
      "fiable": true
     },
     "forma_local": {
@@ -2776,7 +2776,7 @@
      "ataque": -0.071,
      "defensa": -0.089,
      "neto": -0.16,
-     "peso": 44.9,
+     "peso": 44.8,
      "fiable": true
     },
     "forma_local": {
@@ -3015,7 +3015,7 @@
     "marcadores": [
      [
       "0-1",
-      0.1613
+      0.1612
      ],
      [
       "0-2",
