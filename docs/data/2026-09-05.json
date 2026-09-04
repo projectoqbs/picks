@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-05",
- "actualizado": "2026-09-04T10:15:34+00:00",
+ "actualizado": "2026-09-04T17:19:07+00:00",
  "partidos": [
   {
    "id": 560571,
@@ -264,603 +264,6 @@
    }
   },
   {
-   "id": 565785,
-   "competicion": "Bundesliga",
-   "competicion_codigo": "BL1",
-   "fecha_utc": "2026-09-05T13:30:00Z",
-   "jornada": 2,
-   "local": "SV Werder Bremen",
-   "visitante": "RB Leipzig",
-   "prediccion": {
-    "prob_1": 0.246,
-    "prob_X": 0.247,
-    "prob_2": 0.508,
-    "goles_esperados": [
-     1.202,
-     1.807
-    ],
-    "prob_over_2_5": 0.579,
-    "prob_btts": 0.592,
-    "marcadores": [
-     [
-      "1-1",
-      0.1151
-     ],
-     [
-      "1-2",
-      0.0968
-     ],
-     [
-      "0-1",
-      0.0813
-     ]
-    ],
-    "cuotas_justas": [
-     4.07,
-     4.05,
-     1.97
-    ],
-    "resumen": "Gana RB Leipzig (ligero favorito, 51%). ambos marcan.",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.142,
-     "defensa": -0.042,
-     "neto": -0.184,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.244,
-     "defensa": 0.171,
-     "neto": 0.415,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 0,
-     "e": 1,
-     "p": 4,
-     "gf": 3,
-     "gc": 11,
-     "racha": [
-      "E",
-      "P",
-      "P",
-      "P",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 3,
-     "e": 0,
-     "p": 2,
-     "gf": 10,
-     "gc": 10,
-     "racha": [
-      "G",
-      "P",
-      "G",
-      "P",
-      "G"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-04-04",
-      "local": "SV Werder Bremen",
-      "visitante": "RB Leipzig",
-      "goles_local": 1,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2025-11-23",
-      "local": "RB Leipzig",
-      "visitante": "SV Werder Bremen",
-      "goles_local": 2,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-05-10",
-      "local": "SV Werder Bremen",
-      "visitante": "RB Leipzig",
-      "goles_local": 0,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-01-12",
-      "local": "RB Leipzig",
-      "visitante": "SV Werder Bremen",
-      "goles_local": 4,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2024-05-11",
-      "local": "RB Leipzig",
-      "visitante": "SV Werder Bremen",
-      "goles_local": 1,
-      "goles_visitante": 1
-     }
-    ],
-    "explicacion": "RB Leipzig es más fuerte de fondo (neto +0.41 vs -0.18): ataca ~28% más que el promedio, encaja ~16% menos. SV Werder Bremen juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.20 – 1.81; el modelo ve marcando más a RB Leipzig. Y la forma reciente lo confirma: RB Leipzig llega mejor (3G-0E-2P vs 0G-1E-4P).",
-    "recomendacion": {
-     "mercado": "X2",
-     "prob": 0.754,
-     "por_que": "Doble oportunidad: cubre que SV Werder Bremen no gane. El escenario que queda afuera (gane SV Werder Bremen) es el menos probable (25%), así que el mercado se cumple ~75% de las veces.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.81
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 565787,
-   "competicion": "Bundesliga",
-   "competicion_codigo": "BL1",
-   "fecha_utc": "2026-09-05T13:30:00Z",
-   "jornada": 2,
-   "local": "TSG 1899 Hoffenheim",
-   "visitante": "Borussia Dortmund",
-   "prediccion": {
-    "prob_1": 0.263,
-    "prob_X": 0.228,
-    "prob_2": 0.509,
-    "goles_esperados": [
-     1.422,
-     2.026
-    ],
-    "prob_over_2_5": 0.669,
-    "prob_btts": 0.665,
-    "marcadores": [
-     [
-      "1-1",
-      0.0984
-     ],
-     [
-      "1-2",
-      0.0928
-     ],
-     [
-      "2-2",
-      0.066
-     ]
-    ],
-    "cuotas_justas": [
-     3.81,
-     4.38,
-     1.96
-    ],
-    "resumen": "Gana Borussia Dortmund (ligero favorito, 51%). se esperan goles (+2.5). ambos marcan.",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.178,
-     "defensa": -0.081,
-     "neto": 0.098,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.32,
-     "defensa": 0.323,
-     "neto": 0.643,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 2,
-     "e": 1,
-     "p": 2,
-     "gf": 8,
-     "gc": 11,
-     "racha": [
-      "G",
-      "E",
-      "G",
-      "P",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 4,
-     "e": 0,
-     "p": 1,
-     "gf": 11,
-     "gc": 3,
-     "racha": [
-      "G",
-      "P",
-      "G",
-      "G",
-      "G"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-04-18",
-      "local": "TSG 1899 Hoffenheim",
-      "visitante": "Borussia Dortmund",
-      "goles_local": 2,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2025-12-07",
-      "local": "Borussia Dortmund",
-      "visitante": "TSG 1899 Hoffenheim",
-      "goles_local": 2,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-04-26",
-      "local": "TSG 1899 Hoffenheim",
-      "visitante": "Borussia Dortmund",
-      "goles_local": 2,
-      "goles_visitante": 3
-     },
-     {
-      "fecha": "2024-12-15",
-      "local": "Borussia Dortmund",
-      "visitante": "TSG 1899 Hoffenheim",
-      "goles_local": 1,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2024-02-25",
-      "local": "Borussia Dortmund",
-      "visitante": "TSG 1899 Hoffenheim",
-      "goles_local": 2,
-      "goles_visitante": 3
-     }
-    ],
-    "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.64 vs +0.10): ataca ~38% más que el promedio, encaja ~28% menos. TSG 1899 Hoffenheim juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.42 – 2.03; el modelo ve marcando más a Borussia Dortmund. Y la forma reciente lo confirma: Borussia Dortmund llega mejor (4G-0E-1P vs 2G-1E-2P).",
-    "recomendacion": {
-     "mercado": "X2",
-     "prob": 0.737,
-     "por_que": "Doble oportunidad: cubre que TSG 1899 Hoffenheim no gane. El escenario que queda afuera (gane TSG 1899 Hoffenheim) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.865
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 565790,
-   "competicion": "Bundesliga",
-   "competicion_codigo": "BL1",
-   "fecha_utc": "2026-09-05T13:30:00Z",
-   "jornada": 2,
-   "local": "Bayer 04 Leverkusen",
-   "visitante": "1. FC Union Berlin",
-   "prediccion": {
-    "prob_1": 0.683,
-    "prob_X": 0.19,
-    "prob_2": 0.127,
-    "goles_esperados": [
-     2.344,
-     0.929
-    ],
-    "prob_over_2_5": 0.635,
-    "prob_btts": 0.553,
-    "marcadores": [
-     [
-      "2-0",
-      0.1041
-     ],
-     [
-      "2-1",
-      0.0967
-     ],
-     [
-      "1-1",
-      0.0886
-     ]
-    ],
-    "cuotas_justas": [
-     1.46,
-     5.26,
-     7.88
-    ],
-    "resumen": "Gana Bayer 04 Leverkusen (claro favorito, 68%). se esperan goles (+2.5).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.343,
-     "defensa": 0.224,
-     "neto": 0.567,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.154,
-     "defensa": -0.012,
-     "neto": -0.167,
-     "peso": 39.0,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 2,
-     "e": 1,
-     "p": 2,
-     "gf": 10,
-     "gc": 9,
-     "racha": [
-      "G",
-      "G",
-      "P",
-      "E",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 2,
-     "e": 2,
-     "p": 1,
-     "gf": 13,
-     "gc": 9,
-     "racha": [
-      "P",
-      "E",
-      "G",
-      "G",
-      "E"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-02-21",
-      "local": "1. FC Union Berlin",
-      "visitante": "Bayer 04 Leverkusen",
-      "goles_local": 1,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-10-04",
-      "local": "Bayer 04 Leverkusen",
-      "visitante": "1. FC Union Berlin",
-      "goles_local": 2,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-04-12",
-      "local": "Bayer 04 Leverkusen",
-      "visitante": "1. FC Union Berlin",
-      "goles_local": 0,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2024-11-30",
-      "local": "1. FC Union Berlin",
-      "visitante": "Bayer 04 Leverkusen",
-      "goles_local": 1,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2024-04-06",
-      "local": "1. FC Union Berlin",
-      "visitante": "Bayer 04 Leverkusen",
-      "goles_local": 0,
-      "goles_visitante": 1
-     }
-    ],
-    "explicacion": "Bayer 04 Leverkusen es más fuerte de fondo (neto +0.57 vs -0.17): ataca ~41% más que el promedio, encaja ~20% menos. Bayer 04 Leverkusen juega en casa (~+21% de ventaja, ya contada). Goles esperados: 2.34 – 0.93; el modelo ve marcando más a Bayer 04 Leverkusen. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
-    "recomendacion": {
-     "mercado": "1",
-     "prob": 0.683,
-     "por_que": "Bayer 04 Leverkusen es favorito en casa: marca más (2.34 vs 0.93) y es más fuerte de fondo (neto +0.57 vs -0.17). Probabilidad: 68%.",
-     "alternativa": {
-      "mercado": "1X",
-      "prob": 0.873
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 565792,
-   "competicion": "Bundesliga",
-   "competicion_codigo": "BL1",
-   "fecha_utc": "2026-09-05T13:30:00Z",
-   "jornada": 2,
-   "local": "Borussia Mönchengladbach",
-   "visitante": "SV 07 Elversberg",
-   "prediccion": {
-    "prob_1": 0.304,
-    "prob_X": 0.228,
-    "prob_2": 0.468,
-    "goles_esperados": [
-     1.593,
-     2.002
-    ],
-    "prob_over_2_5": 0.696,
-    "prob_btts": 0.696,
-    "marcadores": [
-     [
-      "1-1",
-      0.094
-     ],
-     [
-      "1-2",
-      0.0877
-     ],
-     [
-      "2-2",
-      0.0698
-     ]
-    ],
-    "cuotas_justas": [
-     3.29,
-     4.38,
-     2.14
-    ],
-    "resumen": "Gana SV 07 Elversberg (ligero favorito, 47%). se esperan goles (+2.5). ambos marcan.",
-    "confianza": "baja"
-   },
-   "nota": "pocos datos: 'SV 07 Elversberg' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.05,
-     "defensa": -0.005,
-     "neto": -0.055,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.383,
-     "defensa": -0.019,
-     "neto": 0.365,
-     "peso": 1.0,
-     "fiable": false
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 2,
-     "e": 1,
-     "p": 2,
-     "gf": 6,
-     "gc": 6,
-     "racha": [
-      "E",
-      "G",
-      "P",
-      "G",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 1,
-     "g": 1,
-     "e": 0,
-     "p": 0,
-     "gf": 3,
-     "gc": 2,
-     "racha": [
-      "G"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "SV 07 Elversberg es más fuerte de fondo (neto +0.36 vs -0.06): ataca ~47% más que el promedio. Borussia Mönchengladbach juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.59 – 2.00; el modelo ve marcando más a SV 07 Elversberg. Y la forma reciente lo confirma: SV 07 Elversberg llega mejor (1G-0E-0P vs 2G-1E-2P). El modelo tiene pocos datos de SV 07 Elversberg: tomalo con pinzas.",
-    "recomendacion": {
-     "mercado": "Más de 2.5 goles",
-     "prob": 0.696,
-     "por_que": "Bastantes goles esperados (1.59 + 2.00 = 3.59); al menos una defensa floja. Probabilidad al over: 70%.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.88
-     },
-     "confianza": "baja"
-    }
-   }
-  },
-  {
-   "id": 565793,
-   "competicion": "Bundesliga",
-   "competicion_codigo": "BL1",
-   "fecha_utc": "2026-09-05T13:30:00Z",
-   "jornada": 2,
-   "local": "SC Paderborn 07",
-   "visitante": "SC Freiburg",
-   "prediccion": {
-    "prob_1": 0.407,
-    "prob_X": 0.307,
-    "prob_2": 0.287,
-    "goles_esperados": [
-     1.228,
-     0.989
-    ],
-    "prob_over_2_5": 0.382,
-    "prob_btts": 0.454,
-    "marcadores": [
-     [
-      "1-1",
-      0.142
-     ],
-     [
-      "1-0",
-      0.1241
-     ],
-     [
-      "0-0",
-      0.1187
-     ]
-    ],
-    "cuotas_justas": [
-     2.46,
-     3.26,
-     3.49
-    ],
-    "resumen": "Partido parejo. pocos goles (-2.5).",
-    "confianza": "baja"
-   },
-   "nota": "pocos datos: 'SC Paderborn 07' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.29,
-     "defensa": 0.357,
-     "neto": 0.067,
-     "peso": 1.0,
-     "fiable": false
-    },
-    "fuerza_visitante": {
-     "ataque": 0.04,
-     "defensa": 0.001,
-     "neto": 0.041,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 1,
-     "g": 0,
-     "e": 1,
-     "p": 0,
-     "gf": 0,
-     "gc": 0,
-     "racha": [
-      "E"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 2,
-     "e": 1,
-     "p": 2,
-     "gf": 11,
-     "gc": 10,
-     "racha": [
-      "P",
-      "E",
-      "P",
-      "G",
-      "G"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.07 vs +0.04). SC Paderborn 07 juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.23 – 0.99; el modelo ve marcando más a SC Paderborn 07. También parejos en forma (0G-1E-0P vs 2G-1E-2P en 5). El modelo tiene pocos datos de SC Paderborn 07: tomalo con pinzas.",
-    "recomendacion": {
-     "mercado": "Menos de 2.5 goles",
-     "prob": 0.618,
-     "por_que": "Pocos goles esperados en total (1.23 + 0.99 = 2.22); la defensa de SC Paderborn 07 aprieta. El modelo ve el partido cerrado (62% al under).",
-     "alternativa": {
-      "mercado": "Menos de 3.5 goles",
-      "prob": 0.816
-     },
-     "confianza": "baja"
-    }
-   }
-  },
-  {
    "id": 560562,
    "competicion": "Premier League",
    "competicion_codigo": "PL",
@@ -1030,7 +433,7 @@
     "cuotas_justas": [
      1.26,
      6.71,
-     17.2
+     17.19
     ],
     "resumen": "Gana Manchester City FC (claro favorito, 79%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -1045,7 +448,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.386,
+     "ataque": -0.385,
      "defensa": -0.098,
      "neto": -0.483,
      "peso": 2.0,
@@ -1113,7 +516,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1281
+      0.1282
      ],
      [
       "2-1",
@@ -1620,7 +1023,7 @@
      "ataque": 0.244,
      "defensa": 0.217,
      "neto": 0.461,
-     "peso": 40.0,
+     "peso": 39.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1836,102 +1239,6 @@
    }
   },
   {
-   "id": 565789,
-   "competicion": "Bundesliga",
-   "competicion_codigo": "BL1",
-   "fecha_utc": "2026-09-05T16:30:00Z",
-   "jornada": 2,
-   "local": "FC Schalke 04",
-   "visitante": "FC Bayern München",
-   "prediccion": {
-    "prob_1": 0.03,
-    "prob_X": 0.065,
-    "prob_2": 0.905,
-    "goles_esperados": [
-     0.838,
-     4.151
-    ],
-    "prob_over_2_5": 0.874,
-    "prob_btts": 0.56,
-    "marcadores": [
-     [
-      "0-4",
-      0.0846
-     ],
-     [
-      "0-3",
-      0.0815
-     ],
-     [
-      "1-4",
-      0.0709
-     ]
-    ],
-    "cuotas_justas": [
-     33.01,
-     15.42,
-     1.11
-    ],
-    "resumen": "Gana FC Bayern München (claro favorito, 90%). se esperan goles (+2.5).",
-    "confianza": "baja"
-   },
-   "nota": "pocos datos: 'FC Schalke 04' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.343,
-     "defensa": -0.342,
-     "neto": -0.685,
-     "peso": 1.0,
-     "fiable": false
-    },
-    "fuerza_visitante": {
-     "ataque": 0.776,
-     "defensa": 0.331,
-     "neto": 1.106,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 1,
-     "g": 0,
-     "e": 0,
-     "p": 1,
-     "gf": 0,
-     "gc": 3,
-     "racha": [
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 4,
-     "e": 1,
-     "p": 0,
-     "gf": 18,
-     "gc": 8,
-     "racha": [
-      "G",
-      "E",
-      "G",
-      "G",
-      "G"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.11 vs -0.69): ataca ~117% más que el promedio, encaja ~28% menos. FC Schalke 04 juega en casa (~+21% de ventaja, ya contada). Goles esperados: 0.84 – 4.15; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (4G-1E-0P vs 0G-0E-1P). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
-    "recomendacion": {
-     "mercado": "2",
-     "prob": 0.905,
-     "por_que": "El modelo ve a FC Bayern München marcando más que FC Schalke 04 pese a la localía (4.15 vs 0.84), y lo respalda una diferencia de fuerza clara (neto +1.11 vs -0.69). Probabilidad del modelo: 90%.",
-     "alternativa": {
-      "mercado": "X2",
-      "prob": 0.97
-     },
-     "confianza": "baja"
-    }
-   }
-  },
-  {
    "id": 560569,
    "competicion": "Premier League",
    "competicion_codigo": "PL",
@@ -1952,7 +1259,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1376
+      0.1375
      ],
      [
       "1-1",
@@ -1984,7 +1291,7 @@
      "ataque": 0.137,
      "defensa": 0.06,
      "neto": 0.197,
-     "peso": 44.5,
+     "peso": 44.4,
      "fiable": true
     },
     "forma_local": {
@@ -2073,7 +1380,7 @@
     "fuerza_local": {
      "ataque": -0.124,
      "defensa": 0.126,
-     "neto": 0.001,
+     "neto": 0.002,
      "peso": 45.8,
      "fiable": true
     },
@@ -2262,7 +1569,7 @@
     "prob_X": 0.233,
     "prob_2": 0.302,
     "goles_esperados": [
-     1.887,
+     1.886,
      1.495
     ],
     "prob_over_2_5": 0.657,
@@ -2270,7 +1577,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1008
+      0.1009
      ],
      [
       "2-1",
@@ -2491,7 +1798,7 @@
     "prob_X": 0.202,
     "prob_2": 0.196,
     "goles_esperados": [
-     2.141,
+     2.142,
      1.145
     ],
     "prob_over_2_5": 0.638,
@@ -2523,13 +1830,13 @@
     "fuerza_local": {
      "ataque": 0.41,
      "defensa": 0.043,
-     "neto": 0.452,
+     "neto": 0.453,
      "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.092,
-     "defensa": 0.034,
+     "defensa": 0.033,
      "neto": 0.125,
      "peso": 2.9,
      "fiable": false

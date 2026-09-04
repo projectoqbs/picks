@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-12",
- "actualizado": "2026-09-04T10:15:34+00:00",
+ "actualizado": "2026-09-04T17:19:07+00:00",
  "partidos": [
   {
    "id": 564670,
@@ -212,642 +212,6 @@
    }
   },
   {
-   "id": 565794,
-   "competicion": "Bundesliga",
-   "competicion_codigo": "BL1",
-   "fecha_utc": "2026-09-12T13:30:00Z",
-   "jornada": 3,
-   "local": "TSG 1899 Hoffenheim",
-   "visitante": "VfB Stuttgart",
-   "prediccion": {
-    "prob_1": 0.337,
-    "prob_X": 0.222,
-    "prob_2": 0.441,
-    "goles_esperados": [
-     1.788,
-     2.053
-    ],
-    "prob_over_2_5": 0.738,
-    "prob_btts": 0.732,
-    "marcadores": [
-     [
-      "1-1",
-      0.0846
-     ],
-     [
-      "1-2",
-      0.0809
-     ],
-     [
-      "2-2",
-      0.0723
-     ]
-    ],
-    "cuotas_justas": [
-     2.97,
-     4.51,
-     2.27
-    ],
-    "resumen": "Gana VfB Stuttgart (ligero favorito, 44%). se esperan goles (+2.5). ambos marcan.",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.178,
-     "defensa": -0.081,
-     "neto": 0.098,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.333,
-     "defensa": 0.094,
-     "neto": 0.427,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 2,
-     "e": 1,
-     "p": 2,
-     "gf": 8,
-     "gc": 11,
-     "racha": [
-      "G",
-      "E",
-      "G",
-      "P",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 1,
-     "e": 3,
-     "p": 1,
-     "gf": 10,
-     "gc": 12,
-     "racha": [
-      "E",
-      "E",
-      "G",
-      "E",
-      "P"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-05-02",
-      "local": "TSG 1899 Hoffenheim",
-      "visitante": "VfB Stuttgart",
-      "goles_local": 3,
-      "goles_visitante": 3
-     },
-     {
-      "fecha": "2025-12-20",
-      "local": "VfB Stuttgart",
-      "visitante": "TSG 1899 Hoffenheim",
-      "goles_local": 0,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-02-23",
-      "local": "TSG 1899 Hoffenheim",
-      "visitante": "VfB Stuttgart",
-      "goles_local": 1,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2024-10-06",
-      "local": "VfB Stuttgart",
-      "visitante": "TSG 1899 Hoffenheim",
-      "goles_local": 1,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2024-03-16",
-      "local": "TSG 1899 Hoffenheim",
-      "visitante": "VfB Stuttgart",
-      "goles_local": 0,
-      "goles_visitante": 3
-     }
-    ],
-    "explicacion": "VfB Stuttgart es más fuerte de fondo (neto +0.43 vs +0.10): ataca ~40% más que el promedio. TSG 1899 Hoffenheim juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.79 – 2.05; el modelo ve marcando más a VfB Stuttgart. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
-    "recomendacion": {
-     "mercado": "Más de 2.5 goles",
-     "prob": 0.738,
-     "por_que": "Bastantes goles esperados (1.79 + 2.05 = 3.84); al menos una defensa floja. Probabilidad al over: 74%.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.902
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 565795,
-   "competicion": "Bundesliga",
-   "competicion_codigo": "BL1",
-   "fecha_utc": "2026-09-12T13:30:00Z",
-   "jornada": 3,
-   "local": "Borussia Dortmund",
-   "visitante": "SC Paderborn 07",
-   "prediccion": {
-    "prob_1": 0.568,
-    "prob_X": 0.268,
-    "prob_2": 0.164,
-    "goles_esperados": [
-     1.583,
-     0.735
-    ],
-    "prob_over_2_5": 0.409,
-    "prob_btts": 0.422,
-    "marcadores": [
-     [
-      "1-0",
-      0.1474
-     ],
-     [
-      "2-0",
-      0.1233
-     ],
-     [
-      "1-1",
-      0.123
-     ]
-    ],
-    "cuotas_justas": [
-     1.76,
-     3.73,
-     6.1
-    ],
-    "resumen": "Gana Borussia Dortmund (claro favorito, 57%). pocos goles (-2.5).",
-    "confianza": "baja"
-   },
-   "nota": "pocos datos: 'SC Paderborn 07' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.32,
-     "defensa": 0.323,
-     "neto": 0.643,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.29,
-     "defensa": 0.357,
-     "neto": 0.067,
-     "peso": 1.0,
-     "fiable": false
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 4,
-     "e": 0,
-     "p": 1,
-     "gf": 11,
-     "gc": 3,
-     "racha": [
-      "G",
-      "P",
-      "G",
-      "G",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 1,
-     "g": 0,
-     "e": 1,
-     "p": 0,
-     "gf": 0,
-     "gc": 0,
-     "racha": [
-      "E"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.64 vs +0.07): ataca ~38% más que el promedio, encaja ~28% menos. Borussia Dortmund juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.58 – 0.73; el modelo ve marcando más a Borussia Dortmund. Y la forma reciente lo confirma: Borussia Dortmund llega mejor (4G-0E-1P vs 0G-1E-0P). El modelo tiene pocos datos de SC Paderborn 07: tomalo con pinzas.",
-    "recomendacion": {
-     "mercado": "1X",
-     "prob": 0.836,
-     "por_que": "Doble oportunidad: cubre que Borussia Dortmund no pierda. El escenario que queda afuera (gane SC Paderborn 07) es el menos probable (16%), así que el mercado se cumple ~84% de las veces.",
-     "alternativa": {
-      "mercado": "Menos de 2.5 goles",
-      "prob": 0.591
-     },
-     "confianza": "baja"
-    }
-   }
-  },
-  {
-   "id": 565796,
-   "competicion": "Bundesliga",
-   "competicion_codigo": "BL1",
-   "fecha_utc": "2026-09-12T13:30:00Z",
-   "jornada": 3,
-   "local": "FC Augsburg",
-   "visitante": "Bayer 04 Leverkusen",
-   "prediccion": {
-    "prob_1": 0.222,
-    "prob_X": 0.238,
-    "prob_2": 0.54,
-    "goles_esperados": [
-     1.159,
-     1.902
-    ],
-    "prob_over_2_5": 0.59,
-    "prob_btts": 0.591,
-    "marcadores": [
-     [
-      "1-1",
-      0.1108
-     ],
-     [
-      "1-2",
-      0.0982
-     ],
-     [
-      "0-2",
-      0.0847
-     ]
-    ],
-    "cuotas_justas": [
-     4.5,
-     4.2,
-     1.85
-    ],
-    "resumen": "Gana Bayer 04 Leverkusen (ligero favorito, 54%). se esperan goles (+2.5). ambos marcan.",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.125,
-     "defensa": 0.005,
-     "neto": -0.12,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.343,
-     "defensa": 0.224,
-     "neto": 0.567,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 3,
-     "e": 1,
-     "p": 1,
-     "gf": 10,
-     "gc": 7,
-     "racha": [
-      "E",
-      "G",
-      "G",
-      "P",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 2,
-     "e": 1,
-     "p": 2,
-     "gf": 10,
-     "gc": 9,
-     "racha": [
-      "G",
-      "G",
-      "P",
-      "E",
-      "P"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-04-18",
-      "local": "Bayer 04 Leverkusen",
-      "visitante": "FC Augsburg",
-      "goles_local": 1,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2025-12-06",
-      "local": "FC Augsburg",
-      "visitante": "Bayer 04 Leverkusen",
-      "goles_local": 2,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-04-26",
-      "local": "Bayer 04 Leverkusen",
-      "visitante": "FC Augsburg",
-      "goles_local": 2,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2024-12-14",
-      "local": "FC Augsburg",
-      "visitante": "Bayer 04 Leverkusen",
-      "goles_local": 0,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2024-05-18",
-      "local": "Bayer 04 Leverkusen",
-      "visitante": "FC Augsburg",
-      "goles_local": 2,
-      "goles_visitante": 1
-     }
-    ],
-    "explicacion": "Bayer 04 Leverkusen es más fuerte de fondo (neto +0.57 vs -0.12): ataca ~41% más que el promedio, encaja ~20% menos. FC Augsburg juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.16 – 1.90; el modelo ve marcando más a Bayer 04 Leverkusen. Pero ojo: en forma reciente FC Augsburg llega mejor que Bayer 04 Leverkusen, así que puede estar más cerca de lo que dice el neto.",
-    "recomendacion": {
-     "mercado": "X2",
-     "prob": 0.778,
-     "por_que": "Doble oportunidad: cubre que FC Augsburg no gane. El escenario que queda afuera (gane FC Augsburg) es el menos probable (22%), así que el mercado se cumple ~78% de las veces.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.817
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 565801,
-   "competicion": "Bundesliga",
-   "competicion_codigo": "BL1",
-   "fecha_utc": "2026-09-12T13:30:00Z",
-   "jornada": 3,
-   "local": "1. FSV Mainz 05",
-   "visitante": "Eintracht Frankfurt",
-   "prediccion": {
-    "prob_1": 0.404,
-    "prob_X": 0.257,
-    "prob_2": 0.339,
-    "goles_esperados": [
-     1.596,
-     1.448
-    ],
-    "prob_over_2_5": 0.587,
-    "prob_btts": 0.618,
-    "marcadores": [
-     [
-      "1-1",
-      0.1182
-     ],
-     [
-      "2-1",
-      0.0879
-     ],
-     [
-      "1-2",
-      0.0797
-     ]
-    ],
-    "cuotas_justas": [
-     2.47,
-     3.9,
-     2.95
-    ],
-    "resumen": "Partido parejo. se esperan goles (+2.5). ambos marcan.",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.075,
-     "defensa": 0.143,
-     "neto": 0.068,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.208,
-     "defensa": -0.047,
-     "neto": 0.161,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 2,
-     "e": 1,
-     "p": 2,
-     "gf": 8,
-     "gc": 8,
-     "racha": [
-      "P",
-      "G",
-      "P",
-      "G",
-      "E"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 0,
-     "e": 3,
-     "p": 2,
-     "gf": 9,
-     "gc": 11,
-     "racha": [
-      "E",
-      "P",
-      "P",
-      "E",
-      "E"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-03-22",
-      "local": "1. FSV Mainz 05",
-      "visitante": "Eintracht Frankfurt",
-      "goles_local": 2,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2025-11-09",
-      "local": "Eintracht Frankfurt",
-      "visitante": "1. FSV Mainz 05",
-      "goles_local": 1,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-05-04",
-      "local": "1. FSV Mainz 05",
-      "visitante": "Eintracht Frankfurt",
-      "goles_local": 1,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2024-12-21",
-      "local": "Eintracht Frankfurt",
-      "visitante": "1. FSV Mainz 05",
-      "goles_local": 1,
-      "goles_visitante": 3
-     },
-     {
-      "fecha": "2024-01-26",
-      "local": "Eintracht Frankfurt",
-      "visitante": "1. FSV Mainz 05",
-      "goles_local": 1,
-      "goles_visitante": 0
-     }
-    ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.07 vs +0.16). 1. FSV Mainz 05 juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.60 – 1.45; el modelo ve marcando más a 1. FSV Mainz 05. En forma reciente pinta algo mejor 1. FSV Mainz 05 (2G-1E-2P vs 0G-3E-2P en 5).",
-    "recomendacion": {
-     "mercado": "Ambos marcan: Sí",
-     "prob": 0.618,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.60 y 1.45. Probabilidad: 62%.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.815
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 565802,
-   "competicion": "Bundesliga",
-   "competicion_codigo": "BL1",
-   "fecha_utc": "2026-09-12T13:30:00Z",
-   "jornada": 3,
-   "local": "SC Freiburg",
-   "visitante": "Borussia Mönchengladbach",
-   "prediccion": {
-    "prob_1": 0.467,
-    "prob_X": 0.253,
-    "prob_2": 0.28,
-    "goles_esperados": [
-     1.72,
-     1.29
-    ],
-    "prob_over_2_5": 0.579,
-    "prob_btts": 0.603,
-    "marcadores": [
-     [
-      "1-1",
-      0.1174
-     ],
-     [
-      "2-1",
-      0.094
-     ],
-     [
-      "1-0",
-      0.0767
-     ]
-    ],
-    "cuotas_justas": [
-     2.14,
-     3.96,
-     3.57
-    ],
-    "resumen": "Gana SC Freiburg (ligero favorito, 47%). ambos marcan.",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.04,
-     "defensa": 0.001,
-     "neto": 0.041,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.05,
-     "defensa": -0.005,
-     "neto": -0.055,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 2,
-     "e": 1,
-     "p": 2,
-     "gf": 11,
-     "gc": 10,
-     "racha": [
-      "P",
-      "E",
-      "P",
-      "G",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 2,
-     "e": 1,
-     "p": 2,
-     "gf": 6,
-     "gc": 6,
-     "racha": [
-      "E",
-      "G",
-      "P",
-      "G",
-      "P"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-02-22",
-      "local": "SC Freiburg",
-      "visitante": "Borussia Mönchengladbach",
-      "goles_local": 2,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2025-10-05",
-      "local": "Borussia Mönchengladbach",
-      "visitante": "SC Freiburg",
-      "goles_local": 0,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-04-12",
-      "local": "Borussia Mönchengladbach",
-      "visitante": "SC Freiburg",
-      "goles_local": 1,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2024-11-30",
-      "local": "SC Freiburg",
-      "visitante": "Borussia Mönchengladbach",
-      "goles_local": 3,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2024-03-30",
-      "local": "Borussia Mönchengladbach",
-      "visitante": "SC Freiburg",
-      "goles_local": 0,
-      "goles_visitante": 3
-     }
-    ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.04 vs -0.06). SC Freiburg juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.72 – 1.29; el modelo ve marcando más a SC Freiburg. También parejos en forma (2G-1E-2P vs 2G-1E-2P en 5).",
-    "recomendacion": {
-     "mercado": "Ambos marcan: Sí",
-     "prob": 0.603,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.72 y 1.29. Probabilidad: 60%.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.81
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
    "id": 560572,
    "competicion": "Premier League",
    "competicion_codigo": "PL",
@@ -858,12 +222,12 @@
    "prediccion": {
     "prob_1": 0.61,
     "prob_X": 0.221,
-    "prob_2": 0.17,
+    "prob_2": 0.169,
     "goles_esperados": [
      2.093,
      1.029
     ],
-    "prob_over_2_5": 0.603,
+    "prob_over_2_5": 0.604,
     "prob_btts": 0.571,
     "marcadores": [
      [
@@ -955,7 +319,7 @@
      "por_que": "Doble oportunidad: cubre que Crystal Palace FC no pierda. El escenario que queda afuera (gane Ipswich Town FC) es el menos probable (17%), así que el mercado se cumple ~83% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.826
+      "prob": 0.827
      },
      "confianza": "alta"
     }
@@ -974,7 +338,7 @@
     "prob_X": 0.229,
     "prob_2": 0.191,
     "goles_esperados": [
-     2.019,
+     2.02,
      1.089
     ],
     "prob_over_2_5": 0.601,
@@ -1004,7 +368,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.363,
-     "defensa": 0.107,
+     "defensa": 0.108,
      "neto": 0.47,
      "peso": 44.5,
      "fiable": true
@@ -1141,7 +505,7 @@
      "ataque": 0.137,
      "defensa": 0.06,
      "neto": 0.197,
-     "peso": 44.5,
+     "peso": 44.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1376,7 +740,7 @@
     "prob_X": 0.303,
     "prob_2": 0.382,
     "goles_esperados": [
-     1.101,
+     1.102,
      1.237
     ],
     "prob_over_2_5": 0.414,
@@ -1505,7 +869,7 @@
      "ataque": -0.021,
      "defensa": 0.078,
      "neto": 0.057,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1602,7 +966,7 @@
     "prob_2": 0.368,
     "goles_esperados": [
      1.685,
-     1.626
+     1.627
     ],
     "prob_over_2_5": 0.643,
     "prob_btts": 0.66,
@@ -1737,7 +1101,7 @@
     "prob_2": 0.396,
     "goles_esperados": [
      1.11,
-     1.258
+     1.257
     ],
     "prob_over_2_5": 0.422,
     "prob_btts": 0.481,
@@ -1859,134 +1223,6 @@
    }
   },
   {
-   "id": 565798,
-   "competicion": "Bundesliga",
-   "competicion_codigo": "BL1",
-   "fecha_utc": "2026-09-12T16:30:00Z",
-   "jornada": 3,
-   "local": "1. FC Köln",
-   "visitante": "SV Werder Bremen",
-   "prediccion": {
-    "prob_1": 0.436,
-    "prob_X": 0.26,
-    "prob_2": 0.304,
-    "goles_esperados": [
-     1.615,
-     1.318
-    ],
-    "prob_over_2_5": 0.562,
-    "prob_btts": 0.595,
-    "marcadores": [
-     [
-      "1-1",
-      0.1217
-     ],
-     [
-      "2-1",
-      0.0915
-     ],
-     [
-      "1-0",
-      0.0777
-     ]
-    ],
-    "cuotas_justas": [
-     2.29,
-     3.85,
-     3.29
-    ],
-    "resumen": "Gana 1. FC Köln (ligero favorito, 44%). ambos marcan.",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.059,
-     "defensa": -0.113,
-     "neto": -0.172,
-     "peso": 28.3,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.142,
-     "defensa": -0.042,
-     "neto": -0.184,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 1,
-     "e": 1,
-     "p": 3,
-     "gf": 8,
-     "gc": 14,
-     "racha": [
-      "P",
-      "E",
-      "P",
-      "P",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 0,
-     "e": 1,
-     "p": 4,
-     "gf": 3,
-     "gc": 11,
-     "racha": [
-      "E",
-      "P",
-      "P",
-      "P",
-      "P"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-04-12",
-      "local": "1. FC Köln",
-      "visitante": "SV Werder Bremen",
-      "goles_local": 3,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2025-11-29",
-      "local": "SV Werder Bremen",
-      "visitante": "1. FC Köln",
-      "goles_local": 1,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2024-02-16",
-      "local": "1. FC Köln",
-      "visitante": "SV Werder Bremen",
-      "goles_local": 0,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2023-09-23",
-      "local": "SV Werder Bremen",
-      "visitante": "1. FC Köln",
-      "goles_local": 2,
-      "goles_visitante": 1
-     }
-    ],
-    "explicacion": "En fuerza de temporada están parejos (neto -0.17 vs -0.18). 1. FC Köln juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.61 – 1.32; el modelo ve marcando más a 1. FC Köln. En forma reciente pinta algo mejor 1. FC Köln (1G-1E-3P vs 0G-1E-4P en 5).",
-    "recomendacion": {
-     "mercado": "Ambos marcan: Sí",
-     "prob": 0.595,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.61 y 1.32. Probabilidad: 60%.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.799
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
    "id": 560575,
    "competicion": "Premier League",
    "competicion_codigo": "PL",
@@ -1995,7 +1231,7 @@
    "local": "Tottenham Hotspur FC",
    "visitante": "Everton FC",
    "prediccion": {
-    "prob_1": 0.367,
+    "prob_1": 0.366,
     "prob_X": 0.29,
     "prob_2": 0.343,
     "goles_esperados": [
@@ -2132,7 +1368,7 @@
     "prob_2": 0.222,
     "goles_esperados": [
      1.733,
-     1.017
+     1.018
     ],
     "prob_over_2_5": 0.519,
     "prob_btts": 0.525,
@@ -2662,7 +1898,7 @@
      "ataque": 0.211,
      "defensa": 0.113,
      "neto": 0.324,
-     "peso": 40.0,
+     "peso": 39.9,
      "fiable": true
     },
     "forma_local": {
@@ -2892,7 +2128,7 @@
      ]
     ],
     "cuotas_justas": [
-     6.37,
+     6.38,
      3.55,
      1.78
     ],
@@ -2911,7 +2147,7 @@
      "ataque": 0.34,
      "defensa": 0.636,
      "neto": 0.976,
-     "peso": 44.5,
+     "peso": 44.4,
      "fiable": true
     },
     "forma_local": {
@@ -2967,7 +2203,7 @@
      "por_que": "Doble oportunidad: cubre que Sunderland AFC no gane. El escenario que queda afuera (gane Sunderland AFC) es el menos probable (16%), así que el mercado se cumple ~84% de las veces.",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
-      "prob": 0.825
+      "prob": 0.826
      },
      "confianza": "alta"
     }
@@ -3015,7 +2251,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.528,
+     "ataque": 0.529,
      "defensa": 0.383,
      "neto": 0.911,
      "peso": 45.7,
@@ -3024,7 +2260,7 @@
     "fuerza_visitante": {
      "ataque": -0.124,
      "defensa": 0.126,
-     "neto": 0.001,
+     "neto": 0.002,
      "peso": 45.8,
      "fiable": true
     },

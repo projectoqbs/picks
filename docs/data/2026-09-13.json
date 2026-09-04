@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-13",
- "actualizado": "2026-09-04T10:15:34+00:00",
+ "actualizado": "2026-09-04T17:19:07+00:00",
  "partidos": [
   {
    "id": 564672,
@@ -15,7 +15,7 @@
     "prob_X": 0.212,
     "prob_2": 0.137,
     "goles_esperados": [
-     1.893,
+     1.894,
      0.726
     ],
     "prob_over_2_5": 0.486,
@@ -52,7 +52,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.378,
+     "ataque": -0.379,
      "defensa": -0.142,
      "neto": -0.521,
      "peso": 2.9,
@@ -114,7 +114,7 @@
     "prob_2": 0.237,
     "goles_esperados": [
      1.189,
-     0.787
+     0.788
     ],
     "prob_over_2_5": 0.317,
     "prob_btts": 0.386,
@@ -125,7 +125,7 @@
      ],
      [
       "0-0",
-      0.1453
+      0.1452
      ],
      [
       "1-1",
@@ -226,7 +226,7 @@
      ],
      [
       "0-0",
-      0.1155
+      0.1156
      ]
     ],
     "cuotas_justas": [
@@ -368,7 +368,7 @@
    "nota": "pocos datos: 'Coventry City FC' solo tiene 2.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.386,
+     "ataque": -0.385,
      "defensa": -0.098,
      "neto": -0.483,
      "peso": 2.0,
@@ -420,120 +420,6 @@
    }
   },
   {
-   "id": 565799,
-   "competicion": "Bundesliga",
-   "competicion_codigo": "BL1",
-   "fecha_utc": "2026-09-13T13:30:00Z",
-   "jornada": 3,
-   "local": "RB Leipzig",
-   "visitante": "Hamburger SV",
-   "prediccion": {
-    "prob_1": 0.614,
-    "prob_X": 0.224,
-    "prob_2": 0.163,
-    "goles_esperados": [
-     2.012,
-     0.946
-    ],
-    "prob_over_2_5": 0.568,
-    "prob_btts": 0.537,
-    "marcadores": [
-     [
-      "1-1",
-      0.1061
-     ],
-     [
-      "2-0",
-      0.105
-     ],
-     [
-      "2-1",
-      0.0994
-     ]
-    ],
-    "cuotas_justas": [
-     1.63,
-     4.47,
-     6.15
-    ],
-    "resumen": "Gana RB Leipzig (claro favorito, 61%).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.244,
-     "defensa": 0.171,
-     "neto": 0.415,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.19,
-     "defensa": 0.041,
-     "neto": -0.148,
-     "peso": 22.9,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 3,
-     "e": 0,
-     "p": 2,
-     "gf": 10,
-     "gc": 10,
-     "racha": [
-      "G",
-      "P",
-      "G",
-      "P",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 2,
-     "e": 1,
-     "p": 2,
-     "gf": 7,
-     "gc": 8,
-     "racha": [
-      "P",
-      "G",
-      "G",
-      "E",
-      "P"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-03-01",
-      "local": "Hamburger SV",
-      "visitante": "RB Leipzig",
-      "goles_local": 1,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2025-10-18",
-      "local": "RB Leipzig",
-      "visitante": "Hamburger SV",
-      "goles_local": 2,
-      "goles_visitante": 1
-     }
-    ],
-    "explicacion": "RB Leipzig es más fuerte de fondo (neto +0.41 vs -0.15): ataca ~28% más que el promedio, encaja ~16% menos. RB Leipzig juega en casa (~+21% de ventaja, ya contada). Goles esperados: 2.01 – 0.95; el modelo ve marcando más a RB Leipzig. Y la forma reciente lo confirma: RB Leipzig llega mejor (3G-0E-2P vs 2G-1E-2P).",
-    "recomendacion": {
-     "mercado": "1X",
-     "prob": 0.837,
-     "por_que": "Doble oportunidad: cubre que RB Leipzig no pierda. El escenario que queda afuera (gane Hamburger SV) es el menos probable (16%), así que el mercado se cumple ~84% de las veces.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.802
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
    "id": 564675,
    "competicion": "La Liga",
    "competicion_codigo": "PD",
@@ -547,7 +433,7 @@
     "prob_2": 0.659,
     "goles_esperados": [
      1.174,
-     2.475
+     2.474
     ],
     "prob_over_2_5": 0.706,
     "prob_btts": 0.632,
@@ -566,7 +452,7 @@
      ]
     ],
     "cuotas_justas": [
-     6.09,
+     6.08,
      5.65,
      1.52
     ],
@@ -634,11 +520,11 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.02 vs -0.02): ataca ~104% más que el promedio, encaja ~26% menos. Levante UD juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.17 – 2.48; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (4G-0E-1P vs 2G-1E-2P).",
+    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.02 vs -0.02): ataca ~104% más que el promedio, encaja ~26% menos. Levante UD juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.17 – 2.47; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (4G-0E-1P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "2",
      "prob": 0.659,
-     "por_que": "El modelo ve a FC Barcelona marcando más que Levante UD pese a la localía (2.48 vs 1.17), y lo respalda una diferencia de fuerza clara (neto +1.02 vs -0.02). Probabilidad del modelo: 66%.",
+     "por_que": "El modelo ve a FC Barcelona marcando más que Levante UD pese a la localía (2.47 vs 1.17), y lo respalda una diferencia de fuerza clara (neto +1.02 vs -0.02). Probabilidad del modelo: 66%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.878
@@ -680,7 +566,7 @@
      ]
     ],
     "cuotas_justas": [
-     3.8,
+     3.79,
      4.52,
      1.94
     ],
@@ -700,7 +586,7 @@
      "ataque": 0.244,
      "defensa": 0.217,
      "neto": 0.461,
-     "peso": 40.0,
+     "peso": 39.9,
      "fiable": true
     },
     "forma_local": {
@@ -745,102 +631,6 @@
    }
   },
   {
-   "id": 565800,
-   "competicion": "Bundesliga",
-   "competicion_codigo": "BL1",
-   "fecha_utc": "2026-09-13T15:30:00Z",
-   "jornada": 3,
-   "local": "SV 07 Elversberg",
-   "visitante": "FC Bayern München",
-   "prediccion": {
-    "prob_1": 0.199,
-    "prob_X": 0.169,
-    "prob_2": 0.632,
-    "goles_esperados": [
-     1.732,
-     3.003
-    ],
-    "prob_over_2_5": 0.851,
-    "prob_btts": 0.786,
-    "marcadores": [
-     [
-      "1-3",
-      0.0687
-     ],
-     [
-      "1-2",
-      0.0686
-     ],
-     [
-      "2-3",
-      0.0595
-     ]
-    ],
-    "cuotas_justas": [
-     5.02,
-     5.92,
-     1.58
-    ],
-    "resumen": "Gana FC Bayern München (claro favorito, 63%). se esperan goles (+2.5). ambos marcan.",
-    "confianza": "baja"
-   },
-   "nota": "pocos datos: 'SV 07 Elversberg' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.383,
-     "defensa": -0.019,
-     "neto": 0.365,
-     "peso": 1.0,
-     "fiable": false
-    },
-    "fuerza_visitante": {
-     "ataque": 0.776,
-     "defensa": 0.331,
-     "neto": 1.106,
-     "peso": 39.3,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 1,
-     "g": 1,
-     "e": 0,
-     "p": 0,
-     "gf": 3,
-     "gc": 2,
-     "racha": [
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 4,
-     "e": 1,
-     "p": 0,
-     "gf": 18,
-     "gc": 8,
-     "racha": [
-      "G",
-      "E",
-      "G",
-      "G",
-      "G"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.11 vs +0.36): ataca ~117% más que el promedio, encaja ~28% menos. SV 07 Elversberg juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.73 – 3.00; el modelo ve marcando más a FC Bayern München. Pero ojo: en forma reciente SV 07 Elversberg llega mejor que FC Bayern München, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de SV 07 Elversberg: tomalo con pinzas.",
-    "recomendacion": {
-     "mercado": "Más de 2.5 goles",
-     "prob": 0.851,
-     "por_que": "Bastantes goles esperados (1.73 + 3.00 = 4.74); al menos una defensa floja. Probabilidad al over: 85%.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.953
-     },
-     "confianza": "baja"
-    }
-   }
-  },
-  {
    "id": 560580,
    "competicion": "Premier League",
    "competicion_codigo": "PL",
@@ -869,7 +659,7 @@
      ],
      [
       "0-2",
-      0.0776
+      0.0777
      ]
     ],
     "cuotas_justas": [
@@ -1135,7 +925,7 @@
      ],
      [
       "0-0",
-      0.1436
+      0.1435
      ],
      [
       "1-1",
@@ -1161,7 +951,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.092,
-     "defensa": 0.034,
+     "defensa": 0.033,
      "neto": 0.125,
      "peso": 2.9,
      "fiable": false
@@ -1481,10 +1271,10 @@
     "prob_X": 0.246,
     "prob_2": 0.439,
     "goles_esperados": [
-     1.285,
+     1.286,
      1.561
     ],
-    "prob_over_2_5": 0.541,
+    "prob_over_2_5": 0.542,
     "prob_btts": 0.571,
     "marcadores": [
      [
@@ -1590,7 +1380,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Club Atlético de Madrid es más fuerte de fondo (neto +0.57 vs +0.08): ataca ~39% más que el promedio, encaja ~21% menos. Real Sociedad de Fútbol juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.28 – 1.56; el modelo ve marcando más a Club Atlético de Madrid. Y la forma reciente lo confirma: Club Atlético de Madrid llega mejor (3G-1E-1P vs 1G-1E-3P).",
+    "explicacion": "Club Atlético de Madrid es más fuerte de fondo (neto +0.57 vs +0.08): ataca ~39% más que el promedio, encaja ~21% menos. Real Sociedad de Fútbol juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.29 – 1.56; el modelo ve marcando más a Club Atlético de Madrid. Y la forma reciente lo confirma: Club Atlético de Madrid llega mejor (3G-1E-1P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.685,

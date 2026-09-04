@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-08",
- "actualizado": "2026-09-04T10:15:34+00:00",
+ "actualizado": "2026-09-04T17:19:07+00:00",
  "partidos": [
   {
    "id": 575323,
@@ -48,11 +48,11 @@
      "ataque": 0.154,
      "defensa": -0.104,
      "neto": 0.051,
-     "peso": 9.8,
+     "peso": 9.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.228,
+     "ataque": 0.227,
      "defensa": 0.351,
      "neto": 0.578,
      "peso": 3.8,
@@ -111,7 +111,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Aston Villa FC es más fuerte de fondo (neto +0.58 vs +0.05): ataca ~26% más que el promedio, encaja ~30% menos. Club Brugge KV juega en casa (~+32% de ventaja, ya contada). Goles esperados: 1.42 – 1.82; el modelo ve marcando más a Aston Villa FC. Y la forma reciente lo confirma: Aston Villa FC llega mejor (4G-0E-1P vs 2G-1E-2P). El modelo tiene pocos datos de Aston Villa FC: tomalo con pinzas.",
+    "explicacion": "Aston Villa FC es más fuerte de fondo (neto +0.58 vs +0.05): ataca ~25% más que el promedio, encaja ~30% menos. Club Brugge KV juega en casa (~+32% de ventaja, ya contada). Goles esperados: 1.42 – 1.82; el modelo ve marcando más a Aston Villa FC. Y la forma reciente lo confirma: Aston Villa FC llega mejor (4G-0E-1P vs 2G-1E-2P). El modelo tiene pocos datos de Aston Villa FC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.695,
@@ -244,7 +244,7 @@
    "visitante": "Manchester City FC",
    "prediccion": {
     "prob_1": 0.495,
-    "prob_X": 0.209,
+    "prob_X": 0.21,
     "prob_2": 0.296,
     "goles_esperados": [
      1.992,
@@ -279,7 +279,7 @@
     "fuerza_local": {
      "ataque": 0.231,
      "defensa": 0.055,
-     "neto": 0.287,
+     "neto": 0.286,
      "peso": 1.2,
      "fiable": false
     },
@@ -369,7 +369,7 @@
     "cuotas_justas": [
      1.18,
      9.86,
-     18.31
+     18.3
     ],
     "resumen": "Gana Borussia Dortmund (claro favorito, 84%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -385,7 +385,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.533,
-     "defensa": -0.297,
+     "defensa": -0.296,
      "neto": -0.83,
      "peso": 4.6,
      "fiable": false

@@ -1,103 +1,7 @@
 {
  "fecha": "2026-09-11",
- "actualizado": "2026-09-04T10:15:34+00:00",
+ "actualizado": "2026-09-04T17:19:07+00:00",
  "partidos": [
-  {
-   "id": 565797,
-   "competicion": "Bundesliga",
-   "competicion_codigo": "BL1",
-   "fecha_utc": "2026-09-11T18:30:00Z",
-   "jornada": 3,
-   "local": "1. FC Union Berlin",
-   "visitante": "FC Schalke 04",
-   "prediccion": {
-    "prob_1": 0.601,
-    "prob_X": 0.227,
-    "prob_2": 0.172,
-    "goles_esperados": [
-     1.983,
-     0.976
-    ],
-    "prob_over_2_5": 0.568,
-    "prob_btts": 0.545,
-    "marcadores": [
-     [
-      "1-1",
-      0.1078
-     ],
-     [
-      "2-0",
-      0.102
-     ],
-     [
-      "2-1",
-      0.0995
-     ]
-    ],
-    "cuotas_justas": [
-     1.67,
-     4.4,
-     5.81
-    ],
-    "resumen": "Gana 1. FC Union Berlin (claro favorito, 60%).",
-    "confianza": "baja"
-   },
-   "nota": "pocos datos: 'FC Schalke 04' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.154,
-     "defensa": -0.012,
-     "neto": -0.167,
-     "peso": 39.0,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.343,
-     "defensa": -0.342,
-     "neto": -0.685,
-     "peso": 1.0,
-     "fiable": false
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 2,
-     "e": 2,
-     "p": 1,
-     "gf": 13,
-     "gc": 9,
-     "racha": [
-      "P",
-      "E",
-      "G",
-      "G",
-      "E"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 1,
-     "g": 0,
-     "e": 0,
-     "p": 1,
-     "gf": 0,
-     "gc": 3,
-     "racha": [
-      "P"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "1. FC Union Berlin es más fuerte de fondo (neto -0.17 vs -0.69): es más completo en general. 1. FC Union Berlin juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.98 – 0.98; el modelo ve marcando más a 1. FC Union Berlin. Y la forma reciente lo confirma: 1. FC Union Berlin llega mejor (2G-2E-1P vs 0G-0E-1P). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
-    "recomendacion": {
-     "mercado": "1X",
-     "prob": 0.828,
-     "por_que": "Doble oportunidad: cubre que 1. FC Union Berlin no pierda. El escenario que queda afuera (gane FC Schalke 04) es el menos probable (17%), así que el mercado se cumple ~83% de las veces.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.802
-     },
-     "confianza": "baja"
-    }
-   }
-  },
   {
    "id": 559689,
    "competicion": "Ligue 1",
@@ -392,7 +296,7 @@
      "ataque": 0.019,
      "defensa": -0.07,
      "neto": -0.05,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
