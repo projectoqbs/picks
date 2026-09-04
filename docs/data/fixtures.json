@@ -1,26 +1,6 @@
 {
- "actualizado": "2026-09-03T17:25:50+00:00",
+ "actualizado": "2026-09-04T10:15:30+00:00",
  "fixtures": [
-  {
-   "id": 559696,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-09-03T18:45:00Z",
-   "estado": "TIMED",
-   "jornada": 3,
-   "local": "Toulouse FC",
-   "visitante": "Lille OSC"
-  },
-  {
-   "id": 564682,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-09-03T19:00:00Z",
-   "estado": "TIMED",
-   "jornada": 6,
-   "local": "Real Sociedad de Fútbol",
-   "visitante": "RC Celta de Vigo"
-  },
   {
    "id": 559699,
    "competicion_codigo": "FL1",
@@ -190,6 +170,16 @@
    "jornada": 3,
    "local": "Fulham FC",
    "visitante": "Crystal Palace FC"
+  },
+  {
+   "id": 564663,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-09-05T14:15:00Z",
+   "estado": "TIMED",
+   "jornada": 4,
+   "local": "Athletic Club",
+   "visitante": "Club Atlético de Madrid"
   },
   {
    "id": 559695,
@@ -1080,6 +1070,56 @@
    "jornada": 5,
    "local": "Real Sociedad de Fútbol",
    "visitante": "Club Atlético de Madrid"
+  },
+  {
+   "id": 558602,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-09-14T16:30:00Z",
+   "estado": "TIMED",
+   "jornada": 4,
+   "local": "Como 1907",
+   "visitante": "Parma Calcio 1913"
+  },
+  {
+   "id": 558603,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-09-14T16:30:00Z",
+   "estado": "TIMED",
+   "jornada": 4,
+   "local": "Torino FC",
+   "visitante": "AS Roma"
+  },
+  {
+   "id": 558601,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-09-14T18:45:00Z",
+   "estado": "TIMED",
+   "jornada": 4,
+   "local": "FC Internazionale Milano",
+   "visitante": "Udinese Calcio"
+  },
+  {
+   "id": 560579,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-09-14T19:00:00Z",
+   "estado": "TIMED",
+   "jornada": 4,
+   "local": "Leeds United FC",
+   "visitante": "Newcastle United FC"
+  },
+  {
+   "id": 564671,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-09-14T19:00:00Z",
+   "estado": "TIMED",
+   "jornada": 5,
+   "local": "Villarreal CF",
+   "visitante": "Real Betis Balompié"
   }
  ]
 }

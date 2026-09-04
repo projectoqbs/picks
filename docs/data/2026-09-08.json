@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-08",
- "actualizado": "2026-09-03T17:25:54+00:00",
+ "actualizado": "2026-09-04T10:15:34+00:00",
  "partidos": [
   {
    "id": 575323,
@@ -15,7 +15,7 @@
     "prob_X": 0.22,
     "prob_2": 0.474,
     "goles_esperados": [
-     1.418,
+     1.419,
      1.818
     ],
     "prob_over_2_5": 0.628,
@@ -45,7 +45,7 @@
    "nota": "pocos datos: 'Aston Villa FC' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.155,
+     "ataque": 0.154,
      "defensa": -0.104,
      "neto": 0.051,
      "peso": 9.8,
@@ -54,7 +54,7 @@
     "fuerza_visitante": {
      "ataque": 0.228,
      "defensa": 0.351,
-     "neto": 0.579,
+     "neto": 0.578,
      "peso": 3.8,
      "fiable": false
     },
@@ -180,7 +180,7 @@
      "ataque": 0.521,
      "defensa": 0.127,
      "neto": 0.648,
-     "peso": 15.7,
+     "peso": 15.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -277,14 +277,14 @@
    "nota": "pocos datos: 'FC Porto' solo tiene 1.2 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.232,
+     "ataque": 0.231,
      "defensa": 0.055,
      "neto": 0.287,
      "peso": 1.2,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.197,
+     "ataque": 0.196,
      "defensa": 0.088,
      "neto": 0.285,
      "peso": 10.7,
@@ -347,11 +347,11 @@
     "prob_X": 0.101,
     "prob_2": 0.055,
     "goles_esperados": [
-     3.073,
+     3.072,
      0.684
     ],
     "prob_over_2_5": 0.724,
-    "prob_btts": 0.47,
+    "prob_btts": 0.471,
     "marcadores": [
      [
       "3-0",
@@ -368,13 +368,13 @@
     ],
     "cuotas_justas": [
      1.18,
-     9.87,
-     18.32
+     9.86,
+     18.31
     ],
     "resumen": "Gana Borussia Dortmund (claro favorito, 84%). se esperan goles (+2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Villarreal CF' solo tiene 4.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Villarreal CF' solo tiene 4.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.28,
@@ -384,10 +384,10 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.534,
+     "ataque": -0.533,
      "defensa": -0.297,
      "neto": -0.83,
-     "peso": 4.7,
+     "peso": 4.6,
      "fiable": false
     },
     "forma_local": {

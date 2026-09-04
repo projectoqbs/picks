@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-13",
- "actualizado": "2026-09-03T17:25:54+00:00",
+ "actualizado": "2026-09-04T10:15:34+00:00",
  "partidos": [
   {
    "id": 564672,
@@ -11,7 +11,7 @@
    "local": "RC Celta de Vigo",
    "visitante": "Málaga CF",
    "prediccion": {
-    "prob_1": 0.651,
+    "prob_1": 0.652,
     "prob_X": 0.212,
     "prob_2": 0.137,
     "goles_esperados": [
@@ -27,7 +27,7 @@
      ],
      [
       "2-0",
-      0.1305
+      0.1306
      ],
      [
       "1-1",
@@ -37,7 +37,7 @@
     "cuotas_justas": [
      1.53,
      4.72,
-     7.31
+     7.32
     ],
     "resumen": "Gana RC Celta de Vigo (claro favorito, 65%).",
     "confianza": "baja"
@@ -48,13 +48,13 @@
      "ataque": 0.111,
      "defensa": 0.028,
      "neto": 0.139,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.378,
      "defensa": -0.142,
-     "neto": -0.52,
+     "neto": -0.521,
      "peso": 2.9,
      "fiable": false
     },
@@ -109,66 +109,66 @@
    "local": "Lille OSC",
    "visitante": "ES Troyes AC",
    "prediccion": {
-    "prob_1": 0.444,
+    "prob_1": 0.447,
     "prob_X": 0.315,
-    "prob_2": 0.241,
+    "prob_2": 0.237,
     "goles_esperados": [
-     1.197,
-     0.807
+     1.189,
+     0.787
     ],
-    "prob_over_2_5": 0.324,
-    "prob_btts": 0.394,
+    "prob_over_2_5": 0.317,
+    "prob_btts": 0.386,
     "marcadores": [
      [
       "1-0",
-      0.154
+      0.158
      ],
      [
       "0-0",
-      0.1422
+      0.1453
      ],
      [
       "1-1",
-      0.1376
+      0.1365
      ]
     ],
     "cuotas_justas": [
-     2.25,
-     3.18,
-     4.14
+     2.24,
+     3.17,
+     4.21
     ],
-    "resumen": "Gana Lille OSC (ligero favorito, 44%). pocos goles (-2.5).",
+    "resumen": "Gana Lille OSC (ligero favorito, 45%). pocos goles (-2.5).",
     "confianza": "baja"
    },
    "nota": "pocos datos: 'ES Troyes AC' solo tiene 2.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.119,
-     "defensa": 0.317,
-     "neto": 0.436,
-     "peso": 40.0,
+     "ataque": 0.114,
+     "defensa": 0.34,
+     "neto": 0.454,
+     "peso": 40.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.103,
-     "defensa": 0.34,
-     "neto": 0.237,
+     "defensa": 0.339,
+     "neto": 0.236,
      "peso": 2.0,
      "fiable": false
     },
     "forma_local": {
      "pj": 5,
-     "g": 2,
-     "e": 2,
+     "g": 3,
+     "e": 1,
      "p": 1,
      "gf": 6,
-     "gc": 5,
+     "gc": 4,
      "racha": [
-      "E",
       "G",
       "P",
       "G",
-      "E"
+      "E",
+      "G"
      ]
     },
     "forma_visitante": {
@@ -184,14 +184,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Lille OSC es más fuerte de fondo (neto +0.44 vs +0.24): ataca ~13% más que el promedio, encaja ~27% menos. Lille OSC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.20 – 0.81; el modelo ve marcando más a Lille OSC. Pero ojo: en forma reciente ES Troyes AC llega mejor que Lille OSC, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de ES Troyes AC: tomalo con pinzas.",
+    "explicacion": "Lille OSC es más fuerte de fondo (neto +0.45 vs +0.24): ataca ~12% más que el promedio, encaja ~29% menos. Lille OSC juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.19 – 0.79; el modelo ve marcando más a Lille OSC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de ES Troyes AC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.676,
-     "por_que": "Pocos goles esperados en total (1.20 + 0.81 = 2.00); la defensa de ES Troyes AC aprieta. El modelo ve el partido cerrado (68% al under).",
+     "prob": 0.683,
+     "por_que": "Pocos goles esperados en total (1.19 + 0.79 = 1.98); la defensa de Lille OSC aprieta. El modelo ve el partido cerrado (68% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
-      "prob": 0.857
+      "prob": 0.861
      },
      "confianza": "baja"
     }
@@ -226,7 +226,7 @@
      ],
      [
       "0-0",
-      0.1156
+      0.1155
      ]
     ],
     "cuotas_justas": [
@@ -242,7 +242,7 @@
      "ataque": -0.365,
      "defensa": -0.069,
      "neto": -0.434,
-     "peso": 44.9,
+     "peso": 44.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -350,7 +350,7 @@
      ],
      [
       "0-1",
-      0.1149
+      0.1148
      ],
      [
       "0-2",
@@ -370,7 +370,7 @@
     "fuerza_local": {
      "ataque": -0.386,
      "defensa": -0.098,
-     "neto": -0.484,
+     "neto": -0.483,
      "peso": 2.0,
      "fiable": false
     },
@@ -378,7 +378,7 @@
      "ataque": 0.162,
      "defensa": 0.061,
      "neto": 0.223,
-     "peso": 44.6,
+     "peso": 44.5,
      "fiable": true
     },
     "forma_local": {
@@ -435,7 +435,7 @@
      2.012,
      0.946
     ],
-    "prob_over_2_5": 0.567,
+    "prob_over_2_5": 0.568,
     "prob_btts": 0.537,
     "marcadores": [
      [
@@ -444,7 +444,7 @@
      ],
      [
       "2-0",
-      0.1051
+      0.105
      ],
      [
       "2-1",
@@ -471,7 +471,7 @@
      "ataque": -0.19,
      "defensa": 0.041,
      "neto": -0.148,
-     "peso": 23.0,
+     "peso": 22.9,
      "fiable": true
     },
     "forma_local": {
@@ -547,7 +547,7 @@
     "prob_2": 0.659,
     "goles_esperados": [
      1.174,
-     2.474
+     2.475
     ],
     "prob_over_2_5": 0.706,
     "prob_btts": 0.632,
@@ -578,14 +578,14 @@
      "ataque": 0.081,
      "defensa": -0.105,
      "neto": -0.024,
-     "peso": 27.6,
+     "peso": 27.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.714,
      "defensa": 0.306,
      "neto": 1.02,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "forma_local": {
@@ -634,11 +634,11 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.02 vs -0.02): ataca ~104% más que el promedio, encaja ~26% menos. Levante UD juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.17 – 2.47; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (4G-0E-1P vs 2G-1E-2P).",
+    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.02 vs -0.02): ataca ~104% más que el promedio, encaja ~26% menos. Levante UD juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.17 – 2.48; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (4G-0E-1P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "2",
      "prob": 0.659,
-     "por_que": "El modelo ve a FC Barcelona marcando más que Levante UD pese a la localía (2.47 vs 1.17), y lo respalda una diferencia de fuerza clara (neto +1.02 vs -0.02). Probabilidad del modelo: 66%.",
+     "por_que": "El modelo ve a FC Barcelona marcando más que Levante UD pese a la localía (2.48 vs 1.17), y lo respalda una diferencia de fuerza clara (neto +1.02 vs -0.02). Probabilidad del modelo: 66%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.878
@@ -656,50 +656,50 @@
    "local": "Le Mans FC",
    "visitante": "Racing Club de Lens",
    "prediccion": {
-    "prob_1": 0.263,
-    "prob_X": 0.222,
+    "prob_1": 0.264,
+    "prob_X": 0.221,
     "prob_2": 0.515,
     "goles_esperados": [
-     1.45,
+     1.449,
      2.073
     ],
     "prob_over_2_5": 0.683,
-    "prob_btts": 0.674,
+    "prob_btts": 0.673,
     "marcadores": [
      [
       "1-1",
-      0.0937
+      0.0933
      ],
      [
       "1-2",
-      0.0919
+      0.092
      ],
      [
       "2-2",
-      0.0667
+      0.0666
      ]
     ],
     "cuotas_justas": [
      3.8,
-     4.51,
+     4.52,
      1.94
     ],
-    "resumen": "Gana Racing Club de Lens (ligero favorito, 51%). se esperan goles (+2.5). ambos marcan.",
+    "resumen": "Gana Racing Club de Lens (ligero favorito, 52%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
    "nota": "pocos datos: 'Le Mans FC' solo tiene 2.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.19,
+     "ataque": 0.189,
      "defensa": -0.281,
      "neto": -0.091,
      "peso": 2.0,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.243,
-     "defensa": 0.219,
-     "neto": 0.462,
+     "ataque": 0.244,
+     "defensa": 0.217,
+     "neto": 0.461,
      "peso": 40.0,
      "fiable": true
     },
@@ -731,14 +731,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Racing Club de Lens es más fuerte de fondo (neto +0.46 vs -0.09): ataca ~28% más que el promedio, encaja ~20% menos. Le Mans FC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.45 – 2.07; el modelo ve marcando más a Racing Club de Lens. Y la forma reciente lo confirma: Racing Club de Lens llega mejor (3G-0E-2P vs 0G-1E-1P). El modelo tiene pocos datos de Le Mans FC: tomalo con pinzas.",
+    "explicacion": "Racing Club de Lens es más fuerte de fondo (neto +0.46 vs -0.09): ataca ~28% más que el promedio, encaja ~20% menos. Le Mans FC juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.45 – 2.07; el modelo ve marcando más a Racing Club de Lens. Y la forma reciente lo confirma: Racing Club de Lens llega mejor (3G-0E-2P vs 0G-1E-1P). El modelo tiene pocos datos de Le Mans FC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.736,
      "por_que": "Doble oportunidad: cubre que Le Mans FC no gane. El escenario que queda afuera (gane Le Mans FC) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.872
+      "prob": 0.871
      },
      "confianza": "baja"
     }
@@ -757,11 +757,11 @@
     "prob_X": 0.169,
     "prob_2": 0.632,
     "goles_esperados": [
-     1.731,
+     1.732,
      3.003
     ],
     "prob_over_2_5": 0.851,
-    "prob_btts": 0.785,
+    "prob_btts": 0.786,
     "marcadores": [
      [
       "1-3",
@@ -777,7 +777,7 @@
      ]
     ],
     "cuotas_justas": [
-     5.03,
+     5.02,
      5.92,
      1.58
     ],
@@ -789,7 +789,7 @@
     "fuerza_local": {
      "ataque": 0.383,
      "defensa": -0.019,
-     "neto": 0.364,
+     "neto": 0.365,
      "peso": 1.0,
      "fiable": false
     },
@@ -831,7 +831,7 @@
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.851,
-     "por_que": "Bastantes goles esperados (1.73 + 3.00 = 4.73); al menos una defensa floja. Probabilidad al over: 85%.",
+     "por_que": "Bastantes goles esperados (1.73 + 3.00 = 4.74); al menos una defensa floja. Probabilidad al over: 85%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.953
@@ -869,7 +869,7 @@
      ],
      [
       "0-2",
-      0.0777
+      0.0776
      ]
     ],
     "cuotas_justas": [
@@ -885,14 +885,14 @@
      "ataque": 0.203,
      "defensa": 0.056,
      "neto": 0.259,
-     "peso": 44.6,
+     "peso": 44.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.439,
      "defensa": 0.38,
      "neto": 0.819,
-     "peso": 44.7,
+     "peso": 44.6,
      "fiable": true
     },
     "forma_local": {
@@ -1020,14 +1020,14 @@
      "ataque": 0.263,
      "defensa": 0.289,
      "neto": 0.552,
-     "peso": 44.9,
+     "peso": 44.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.134,
+     "ataque": 0.133,
      "defensa": 0.089,
      "neto": 0.222,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "forma_local": {
@@ -1156,7 +1156,7 @@
      "ataque": -0.335,
      "defensa": 0.264,
      "neto": -0.07,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1218,14 +1218,14 @@
    "visitante": "Paris Saint-Germain FC",
    "prediccion": {
     "prob_1": 0.169,
-    "prob_X": 0.201,
-    "prob_2": 0.63,
+    "prob_X": 0.2,
+    "prob_2": 0.631,
     "goles_esperados": [
-     1.111,
-     2.271
+     1.112,
+     2.278
     ],
-    "prob_over_2_5": 0.657,
-    "prob_btts": 0.606,
+    "prob_over_2_5": 0.658,
+    "prob_btts": 0.607,
     "marcadores": [
      [
       "1-2",
@@ -1233,34 +1233,34 @@
      ],
      [
       "1-1",
-      0.0906
+      0.0898
      ],
      [
       "0-2",
-      0.0876
+      0.0874
      ]
     ],
     "cuotas_justas": [
      5.92,
-     4.97,
-     1.59
+     5.0,
+     1.58
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 63%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.052,
-     "defensa": -0.083,
-     "neto": -0.031,
+     "ataque": 0.053,
+     "defensa": -0.085,
+     "neto": -0.032,
      "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.532,
-     "defensa": 0.347,
+     "ataque": 0.534,
+     "defensa": 0.345,
      "neto": 0.879,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "forma_local": {
@@ -1330,14 +1330,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.88 vs -0.03): ataca ~70% más que el promedio, encaja ~29% menos. Stade Brestois 29 juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.11 – 2.27; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (2G-2E-1P vs 0G-3E-2P).",
+    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.88 vs -0.03): ataca ~71% más que el promedio, encaja ~29% menos. Stade Brestois 29 juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.11 – 2.28; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (2G-2E-1P vs 0G-3E-2P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.831,
      "por_que": "Doble oportunidad: cubre que Stade Brestois 29 no gane. El escenario que queda afuera (gane Stade Brestois 29) es el menos probable (17%), así que el mercado se cumple ~83% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.856
+      "prob": 0.857
      },
      "confianza": "alta"
     }
@@ -1395,7 +1395,7 @@
      "ataque": 0.272,
      "defensa": 0.35,
      "neto": 0.622,
-     "peso": 44.9,
+     "peso": 44.8,
      "fiable": true
     },
     "forma_local": {
@@ -1484,7 +1484,7 @@
      1.285,
      1.561
     ],
-    "prob_over_2_5": 0.542,
+    "prob_over_2_5": 0.541,
     "prob_btts": 0.571,
     "marcadores": [
      [
@@ -1513,14 +1513,14 @@
      "ataque": 0.104,
      "defensa": -0.028,
      "neto": 0.076,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.33,
      "defensa": 0.238,
      "neto": 0.569,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "forma_local": {

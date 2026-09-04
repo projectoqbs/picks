@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-06",
- "actualizado": "2026-09-03T17:25:54+00:00",
+ "actualizado": "2026-09-04T10:15:34+00:00",
  "partidos": [
   {
    "id": 559700,
@@ -12,32 +12,32 @@
    "visitante": "RC Strasbourg Alsace",
    "prediccion": {
     "prob_1": 0.424,
-    "prob_X": 0.29,
-    "prob_2": 0.285,
+    "prob_X": 0.289,
+    "prob_2": 0.287,
     "goles_esperados": [
-     1.325,
-     1.039
+     1.323,
+     1.04
     ],
     "prob_over_2_5": 0.421,
-    "prob_btts": 0.482,
+    "prob_btts": 0.481,
     "marcadores": [
      [
       "1-1",
-      0.1368
+      0.1362
      ],
      [
       "1-0",
-      0.1172
+      0.1178
      ],
      [
       "0-0",
-      0.1014
+      0.1009
      ]
     ],
     "cuotas_justas": [
      2.36,
-     3.45,
-     3.5
+     3.46,
+     3.49
     ],
     "resumen": "Gana ES Troyes AC (ligero favorito, 42%).",
     "confianza": "baja"
@@ -46,15 +46,15 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.103,
-     "defensa": 0.34,
-     "neto": 0.237,
+     "defensa": 0.339,
+     "neto": 0.236,
      "peso": 2.0,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.173,
-     "defensa": 0.017,
-     "neto": 0.19,
+     "ataque": 0.174,
+     "defensa": 0.015,
+     "neto": 0.189,
      "peso": 40.0,
      "fiable": true
     },
@@ -86,7 +86,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.24 vs +0.19). ES Troyes AC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.32 – 1.04; el modelo ve marcando más a ES Troyes AC. También parejos en forma (1G-1E-0P vs 3G-1E-1P en 5). El modelo tiene pocos datos de ES Troyes AC: tomalo con pinzas.",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.24 vs +0.19). ES Troyes AC juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.32 – 1.04; el modelo ve marcando más a ES Troyes AC. También parejos en forma (1G-1E-0P vs 3G-1E-1P en 5). El modelo tiene pocos datos de ES Troyes AC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.579,
@@ -141,7 +141,7 @@
      "ataque": -0.278,
      "defensa": -0.002,
      "neto": -0.28,
-     "peso": 38.8,
+     "peso": 38.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -200,7 +200,7 @@
     "explicacion": "Parma Calcio 1913 es más fuerte de fondo (neto -0.28 vs -0.52): es más completo en general. Parma Calcio 1913 juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.29 – 0.92; el modelo ve marcando más a Parma Calcio 1913. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.621,
+     "prob": 0.62,
      "por_que": "Pocos goles esperados en total (1.29 + 0.92 = 2.21). El modelo ve el partido cerrado (62% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
@@ -247,7 +247,7 @@
      3.85,
      4.65
     ],
-    "resumen": "Gana Frosinone Calcio (ligero favorito, 52%).",
+    "resumen": "Gana Frosinone Calcio (ligero favorito, 53%).",
     "confianza": "alta"
    },
    "analisis": {
@@ -300,7 +300,7 @@
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.785,
-     "por_que": "Doble oportunidad: cubre que Frosinone Calcio no pierda. El escenario que queda afuera (gane Venezia FC) es el menos probable (22%), así que el mercado se cumple ~78% de las veces.",
+     "por_que": "Doble oportunidad: cubre que Frosinone Calcio no pierda. El escenario que queda afuera (gane Venezia FC) es el menos probable (21%), así que el mercado se cumple ~79% de las veces.",
      "alternativa": {
       "mercado": "Menos de 2.5 goles",
       "prob": 0.569
@@ -354,14 +354,14 @@
      "ataque": -0.093,
      "defensa": 0.181,
      "neto": 0.088,
-     "peso": 44.6,
+     "peso": 44.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.203,
      "defensa": 0.056,
      "neto": 0.259,
-     "peso": 44.6,
+     "peso": 44.5,
      "fiable": true
     },
     "forma_local": {
@@ -462,7 +462,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1406
+      0.1405
      ],
      [
       "0-0",
@@ -486,7 +486,7 @@
      "ataque": -0.19,
      "defensa": 0.041,
      "neto": -0.148,
-     "peso": 23.0,
+     "peso": 22.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -600,14 +600,14 @@
      "ataque": -0.055,
      "defensa": 0.029,
      "neto": -0.026,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.714,
      "defensa": 0.306,
      "neto": 1.02,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "forma_local": {
@@ -699,50 +699,50 @@
    "local": "Angers SCO",
    "visitante": "Stade Rennais FC 1901",
    "prediccion": {
-    "prob_1": 0.257,
-    "prob_X": 0.268,
-    "prob_2": 0.475,
+    "prob_1": 0.258,
+    "prob_X": 0.267,
+    "prob_2": 0.476,
     "goles_esperados": [
-     1.074,
-     1.543
+     1.075,
+     1.548
     ],
-    "prob_over_2_5": 0.486,
-    "prob_btts": 0.524,
+    "prob_over_2_5": 0.487,
+    "prob_btts": 0.525,
     "marcadores": [
      [
       "1-1",
-      0.1278
+      0.1271
      ],
      [
       "0-1",
-      0.1058
+      0.1061
      ],
      [
       "1-2",
-      0.0934
+      0.0935
      ]
     ],
     "cuotas_justas": [
-     3.89,
-     3.73,
-     2.11
+     3.88,
+     3.75,
+     2.1
     ],
-    "resumen": "Gana Stade Rennais FC 1901 (ligero favorito, 47%).",
+    "resumen": "Gana Stade Rennais FC 1901 (ligero favorito, 48%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.348,
-     "defensa": 0.006,
+     "ataque": -0.346,
+     "defensa": 0.004,
      "neto": -0.342,
-     "peso": 34.6,
+     "peso": 34.5,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.235,
-     "defensa": -0.018,
+     "ataque": 0.236,
+     "defensa": -0.02,
      "neto": 0.217,
-     "peso": 40.0,
+     "peso": 39.9,
      "fiable": true
     },
     "forma_local": {
@@ -805,10 +805,10 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Stade Rennais FC 1901 es más fuerte de fondo (neto +0.22 vs -0.34): ataca ~26% más que el promedio. Angers SCO juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.07 – 1.54; el modelo ve marcando más a Stade Rennais FC 1901. Y la forma reciente lo confirma: Stade Rennais FC 1901 llega mejor (2G-1E-2P vs 1G-2E-2P).",
+    "explicacion": "Stade Rennais FC 1901 es más fuerte de fondo (neto +0.22 vs -0.34): ataca ~27% más que el promedio. Angers SCO juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.07 – 1.55; el modelo ve marcando más a Stade Rennais FC 1901. Y la forma reciente lo confirma: Stade Rennais FC 1901 llega mejor (2G-1E-2P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.743,
+     "prob": 0.742,
      "por_que": "Doble oportunidad: cubre que Angers SCO no gane. El escenario que queda afuera (gane Angers SCO) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
      "alternativa": null,
      "confianza": "alta"
@@ -1002,7 +1002,7 @@
      "ataque": 0.242,
      "defensa": 0.042,
      "neto": 0.285,
-     "peso": 44.6,
+     "peso": 44.5,
      "fiable": true
     },
     "forma_local": {
@@ -1127,10 +1127,10 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.134,
+     "ataque": 0.133,
      "defensa": 0.089,
      "neto": 0.222,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1235,7 +1235,7 @@
      ],
      [
       "1-1",
-      0.13
+      0.1299
      ],
      [
       "0-1",
@@ -1255,7 +1255,7 @@
      "ataque": -0.059,
      "defensa": 0.069,
      "neto": 0.01,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1387,7 +1387,7 @@
     "fuerza_local": {
      "ataque": -0.378,
      "defensa": -0.142,
-     "neto": -0.52,
+     "neto": -0.521,
      "peso": 2.9,
      "fiable": false
     },
@@ -1395,7 +1395,7 @@
      "ataque": 0.081,
      "defensa": -0.105,
      "neto": -0.024,
-     "peso": 27.6,
+     "peso": 27.5,
      "fiable": true
     },
     "forma_local": {
@@ -1447,18 +1447,18 @@
    "visitante": "Paris FC",
    "prediccion": {
     "prob_1": 0.515,
-    "prob_X": 0.24,
-    "prob_2": 0.246,
+    "prob_X": 0.238,
+    "prob_2": 0.247,
     "goles_esperados": [
-     1.846,
-     1.219
+     1.847,
+     1.222
     ],
-    "prob_over_2_5": 0.591,
-    "prob_btts": 0.599,
+    "prob_over_2_5": 0.592,
+    "prob_btts": 0.6,
     "marcadores": [
      [
       "1-1",
-      0.1109
+      0.1103
      ],
      [
       "2-1",
@@ -1466,30 +1466,30 @@
      ],
      [
       "1-0",
-      0.0801
+      0.0804
      ]
     ],
     "cuotas_justas": [
      1.94,
-     4.17,
-     4.07
+     4.19,
+     4.05
     ],
     "resumen": "Gana Olympique de Marseille (ligero favorito, 51%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.318,
-     "defensa": 0.079,
-     "neto": 0.398,
-     "peso": 40.0,
+     "ataque": 0.32,
+     "defensa": 0.077,
+     "neto": 0.397,
+     "peso": 39.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.072,
-     "defensa": 0.106,
+     "ataque": 0.073,
+     "defensa": 0.105,
      "neto": 0.178,
-     "peso": 23.7,
+     "peso": 23.6,
      "fiable": true
     },
     "forma_local": {
@@ -1538,14 +1538,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Olympique de Marseille es más fuerte de fondo (neto +0.40 vs +0.18): ataca ~37% más que el promedio. Olympique de Marseille juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.85 – 1.22; el modelo ve marcando más a Olympique de Marseille. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Olympique de Marseille es más fuerte de fondo (neto +0.40 vs +0.18): ataca ~38% más que el promedio. Olympique de Marseille juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.85 – 1.22; el modelo ve marcando más a Olympique de Marseille. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "Más de 1.5 goles",
      "prob": 0.816,
      "por_que": "Bastantes goles esperados (1.85 + 1.22 = 3.07). Probabilidad al over: 82%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.754
+      "prob": 0.753
      },
      "confianza": "alta"
     }
@@ -1596,14 +1596,14 @@
      "ataque": 0.272,
      "defensa": 0.35,
      "neto": 0.622,
-     "peso": 44.9,
+     "peso": 44.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.278,
      "defensa": 0.181,
      "neto": 0.459,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "forma_local": {
@@ -1728,7 +1728,7 @@
      "ataque": -0.057,
      "defensa": 0.021,
      "neto": -0.036,
-     "peso": 39.8,
+     "peso": 39.7,
      "fiable": true
     },
     "fuerza_visitante": {
