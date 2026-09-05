@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-14",
- "actualizado": "2026-09-04T17:19:07+00:00",
+ "actualizado": "2026-09-05T09:44:23+00:00",
  "partidos": [
   {
    "id": 558602,
@@ -11,50 +11,50 @@
    "local": "Como 1907",
    "visitante": "Parma Calcio 1913",
    "prediccion": {
-    "prob_1": 0.629,
-    "prob_X": 0.234,
-    "prob_2": 0.137,
+    "prob_1": 0.641,
+    "prob_X": 0.228,
+    "prob_2": 0.132,
     "goles_esperados": [
-     1.706,
-     0.648
+     1.762,
+     0.652
     ],
-    "prob_over_2_5": 0.418,
-    "prob_btts": 0.391,
+    "prob_over_2_5": 0.434,
+    "prob_btts": 0.398,
     "marcadores": [
      [
       "1-0",
-      0.1614
+      0.1568
      ],
      [
       "2-0",
-      0.1382
+      0.1389
      ],
      [
       "1-1",
-      0.1057
+      0.1036
      ]
     ],
     "cuotas_justas": [
-     1.59,
-     4.27,
-     7.31
+     1.56,
+     4.4,
+     7.58
     ],
-    "resumen": "Gana Como 1907 (claro favorito, 63%). pocos goles (-2.5).",
+    "resumen": "Gana Como 1907 (claro favorito, 64%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.321,
-     "defensa": 0.268,
-     "neto": 0.589,
-     "peso": 38.7,
+     "ataque": 0.355,
+     "defensa": 0.264,
+     "neto": 0.62,
+     "peso": 39.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.278,
-     "defensa": -0.002,
-     "neto": -0.28,
-     "peso": 38.7,
+     "ataque": -0.279,
+     "defensa": 0.0,
+     "neto": -0.279,
+     "peso": 38.6,
      "fiable": true
     },
     "forma_local": {
@@ -62,13 +62,13 @@
      "g": 4,
      "e": 1,
      "p": 0,
-     "gf": 9,
-     "gc": 3,
+     "gf": 12,
+     "gc": 4,
      "racha": [
       "G",
       "G",
-      "G",
       "E",
+      "G",
       "G"
      ]
     },
@@ -117,14 +117,14 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.59 vs -0.28): ataca ~38% más que el promedio, encaja ~24% menos. Como 1907 juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.71 – 0.65; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (4G-1E-0P vs 1G-0E-4P).",
+    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.62 vs -0.28): ataca ~43% más que el promedio, encaja ~23% menos. Como 1907 juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.76 – 0.65; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (4G-1E-0P vs 1G-0E-4P).",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.863,
-     "por_que": "Doble oportunidad: cubre que Como 1907 no pierda. El escenario que queda afuera (gane Parma Calcio 1913) es el menos probable (14%), así que el mercado se cumple ~86% de las veces.",
+     "prob": 0.868,
+     "por_que": "Doble oportunidad: cubre que Como 1907 no pierda. El escenario que queda afuera (gane Parma Calcio 1913) es el menos probable (13%), así que el mercado se cumple ~87% de las veces.",
      "alternativa": {
-      "mercado": "1",
-      "prob": 0.629
+      "mercado": "12",
+      "prob": 0.772
      },
      "confianza": "alta"
     }
@@ -139,32 +139,32 @@
    "local": "Torino FC",
    "visitante": "AS Roma",
    "prediccion": {
-    "prob_1": 0.172,
+    "prob_1": 0.171,
     "prob_X": 0.229,
-    "prob_2": 0.599,
+    "prob_2": 0.6,
     "goles_esperados": [
-     0.847,
+     0.843,
      1.802
     ],
-    "prob_over_2_5": 0.494,
-    "prob_btts": 0.478,
+    "prob_over_2_5": 0.493,
+    "prob_btts": 0.477,
     "marcadores": [
      [
       "0-1",
-      0.1268
+      0.127
      ],
      [
       "0-2",
-      0.1148
+      0.1152
      ],
      [
       "1-1",
-      0.1087
+      0.1088
      ]
     ],
     "cuotas_justas": [
-     5.82,
-     4.37,
+     5.85,
+     4.36,
      1.67
     ],
     "resumen": "Gana AS Roma (claro favorito, 60%).",
@@ -172,17 +172,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.033,
-     "defensa": -0.105,
+     "ataque": -0.035,
+     "defensa": -0.103,
      "neto": -0.138,
-     "peso": 44.8,
+     "peso": 44.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.371,
-     "defensa": 0.344,
+     "ataque": 0.37,
+     "defensa": 0.346,
      "neto": 0.716,
-     "peso": 44.8,
+     "peso": 44.7,
      "fiable": true
     },
     "forma_local": {
@@ -252,10 +252,10 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "AS Roma es más fuerte de fondo (neto +0.72 vs -0.14): ataca ~45% más que el promedio, encaja ~29% menos. Torino FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.85 – 1.80; el modelo ve marcando más a AS Roma. Y la forma reciente lo confirma: AS Roma llega mejor (5G-0E-0P vs 1G-1E-3P).",
+    "explicacion": "AS Roma es más fuerte de fondo (neto +0.72 vs -0.14): ataca ~45% más que el promedio, encaja ~29% menos. Torino FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.84 – 1.80; el modelo ve marcando más a AS Roma. Y la forma reciente lo confirma: AS Roma llega mejor (5G-0E-0P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.828,
+     "prob": 0.829,
      "por_que": "Doble oportunidad: cubre que Torino FC no gane. El escenario que queda afuera (gane Torino FC) es el menos probable (17%), así que el mercado se cumple ~83% de las veces.",
      "alternativa": {
       "mercado": "12",
@@ -274,50 +274,50 @@
    "local": "FC Internazionale Milano",
    "visitante": "Udinese Calcio",
    "prediccion": {
-    "prob_1": 0.727,
-    "prob_X": 0.166,
-    "prob_2": 0.107,
+    "prob_1": 0.725,
+    "prob_X": 0.167,
+    "prob_2": 0.108,
     "goles_esperados": [
-     2.423,
-     0.821
+     2.41,
+     0.82
     ],
-    "prob_over_2_5": 0.629,
-    "prob_btts": 0.511,
+    "prob_over_2_5": 0.626,
+    "prob_btts": 0.51,
     "marcadores": [
      [
       "2-0",
-      0.1146
+      0.1149
      ],
      [
       "1-0",
-      0.0941
+      0.0947
      ],
      [
       "2-1",
-      0.094
+      0.0942
      ]
     ],
     "cuotas_justas": [
      1.38,
-     6.03,
-     9.33
+     5.98,
+     9.26
     ],
-    "resumen": "Gana FC Internazionale Milano (claro favorito, 73%). se esperan goles (+2.5).",
+    "resumen": "Gana FC Internazionale Milano (claro favorito, 72%). se esperan goles (+2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.644,
-     "defensa": 0.328,
+     "ataque": 0.642,
+     "defensa": 0.33,
      "neto": 0.971,
-     "peso": 44.9,
+     "peso": 44.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.018,
-     "defensa": -0.03,
-     "neto": -0.012,
-     "peso": 44.8,
+     "ataque": 0.016,
+     "defensa": -0.027,
+     "neto": -0.011,
+     "peso": 44.7,
      "fiable": true
     },
     "forma_local": {
@@ -387,14 +387,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.97 vs -0.01): ataca ~90% más que el promedio, encaja ~28% menos. FC Internazionale Milano juega en casa (~+10% de ventaja, ya contada). Goles esperados: 2.42 – 0.82; el modelo ve marcando más a FC Internazionale Milano. Y la forma reciente lo confirma: FC Internazionale Milano llega mejor (3G-2E-0P vs 2G-1E-2P).",
+    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.97 vs -0.01): ataca ~90% más que el promedio, encaja ~28% menos. FC Internazionale Milano juega en casa (~+10% de ventaja, ya contada). Goles esperados: 2.41 – 0.82; el modelo ve marcando más a FC Internazionale Milano. Y la forma reciente lo confirma: FC Internazionale Milano llega mejor (3G-2E-0P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.727,
-     "por_que": "FC Internazionale Milano es favorito en casa: marca más (2.42 vs 0.82) y es más fuerte de fondo (neto +0.97 vs -0.01). Probabilidad: 73%.",
+     "prob": 0.725,
+     "por_que": "FC Internazionale Milano es favorito en casa: marca más (2.41 vs 0.82) y es más fuerte de fondo (neto +0.97 vs -0.01). Probabilidad: 72%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.893
+      "prob": 0.892
      },
      "confianza": "alta"
     }
@@ -413,10 +413,10 @@
     "prob_X": 0.273,
     "prob_2": 0.365,
     "goles_esperados": [
-     1.404,
-     1.411
+     1.405,
+     1.412
     ],
-    "prob_over_2_5": 0.534,
+    "prob_over_2_5": 0.535,
     "prob_btts": 0.581,
     "marcadores": [
      [
@@ -425,7 +425,7 @@
      ],
      [
       "1-2",
-      0.0837
+      0.0838
      ],
      [
       "2-1",
@@ -442,17 +442,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.002,
-     "defensa": 0.092,
-     "neto": 0.09,
+     "ataque": -0.0,
+     "defensa": 0.091,
+     "neto": 0.091,
      "peso": 26.2,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.222,
-     "defensa": 0.051,
-     "neto": 0.273,
-     "peso": 44.5,
+     "ataque": 0.225,
+     "defensa": 0.049,
+     "neto": 0.274,
+     "peso": 44.4,
      "fiable": true
     },
     "forma_local": {
@@ -501,7 +501,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Newcastle United FC es más fuerte de fondo (neto +0.27 vs +0.09): ataca ~25% más que el promedio. Leeds United FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.40 – 1.41; el modelo ve marcando más a Newcastle United FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Newcastle United FC es más fuerte de fondo (neto +0.27 vs +0.09): ataca ~25% más que el promedio. Leeds United FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.41 – 1.41; el modelo ve marcando más a Newcastle United FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.638,
@@ -523,50 +523,50 @@
    "local": "Villarreal CF",
    "visitante": "Real Betis Balompié",
    "prediccion": {
-    "prob_1": 0.556,
-    "prob_X": 0.21,
-    "prob_2": 0.234,
+    "prob_1": 0.548,
+    "prob_X": 0.214,
+    "prob_2": 0.239,
     "goles_esperados": [
-     2.065,
-     1.278
+     2.022,
+     1.275
     ],
-    "prob_over_2_5": 0.649,
-    "prob_btts": 0.629,
+    "prob_over_2_5": 0.64,
+    "prob_btts": 0.625,
     "marcadores": [
      [
       "2-1",
-      0.0963
+      0.0964
      ],
      [
       "1-1",
-      0.0926
+      0.0949
      ],
      [
       "2-0",
-      0.0754
+      0.0757
      ]
     ],
     "cuotas_justas": [
-     1.8,
-     4.76,
-     4.28
+     1.83,
+     4.68,
+     4.19
     ],
-    "resumen": "Gana Villarreal CF (claro favorito, 56%). se esperan goles (+2.5). ambos marcan.",
+    "resumen": "Gana Villarreal CF (ligero favorito, 55%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.41,
-     "defensa": 0.043,
+     "ataque": 0.412,
+     "defensa": 0.04,
      "neto": 0.453,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.201,
-     "defensa": 0.07,
-     "neto": 0.271,
-     "peso": 45.7,
+     "ataque": 0.2,
+     "defensa": 0.093,
+     "neto": 0.293,
+     "peso": 46.7,
      "fiable": true
     },
     "forma_local": {
@@ -586,17 +586,17 @@
     },
     "forma_visitante": {
      "pj": 5,
-     "g": 3,
+     "g": 4,
      "e": 0,
-     "p": 2,
+     "p": 1,
      "gf": 7,
-     "gc": 9,
+     "gc": 6,
      "racha": [
+      "G",
+      "G",
+      "G",
       "P",
-      "G",
-      "G",
-      "G",
-      "P"
+      "G"
      ]
     },
     "cara_a_cara": [
@@ -636,14 +636,14 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "Villarreal CF es más fuerte de fondo (neto +0.45 vs +0.27): ataca ~51% más que el promedio. Villarreal CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.06 – 1.28; el modelo ve marcando más a Villarreal CF. Pero ojo: en forma reciente Real Betis Balompié llega mejor que Villarreal CF, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Villarreal CF es más fuerte de fondo (neto +0.45 vs +0.29): ataca ~51% más que el promedio. Villarreal CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.02 – 1.27; el modelo ve marcando más a Villarreal CF. Pero ojo: en forma reciente Real Betis Balompié llega mejor que Villarreal CF, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.649,
-     "por_que": "Bastantes goles esperados (2.06 + 1.28 = 3.34). Probabilidad al over: 65%.",
+     "prob": 0.64,
+     "por_que": "Bastantes goles esperados (2.02 + 1.27 = 3.30). Probabilidad al over: 64%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.846
+      "prob": 0.841
      },
      "confianza": "alta"
     }

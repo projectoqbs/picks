@@ -1,0 +1,383 @@
+{
+ "fecha": "2026-09-15",
+ "actualizado": "2026-09-05T09:44:23+00:00",
+ "partidos": [
+  {
+   "id": 564678,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-09-15T17:00:00Z",
+   "jornada": 6,
+   "local": "Rayo Vallecano de Madrid",
+   "visitante": "RCD Espanyol de Barcelona",
+   "prediccion": {
+    "prob_1": 0.45,
+    "prob_X": 0.284,
+    "prob_2": 0.265,
+    "goles_esperados": [
+     1.279,
+     0.91
+    ],
+    "prob_over_2_5": 0.374,
+    "prob_btts": 0.43,
+    "marcadores": [
+     [
+      "1-0",
+      0.144
+     ],
+     [
+      "1-1",
+      0.1297
+     ],
+     [
+      "0-0",
+      0.1114
+     ]
+    ],
+    "cuotas_justas": [
+     2.22,
+     3.52,
+     3.77
+    ],
+    "resumen": "Gana Rayo Vallecano de Madrid (ligero favorito, 45%). pocos goles (-2.5).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.122,
+     "defensa": 0.123,
+     "neto": 0.001,
+     "peso": 45.7,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.054,
+     "defensa": 0.017,
+     "neto": -0.037,
+     "peso": 39.6,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 8,
+     "gc": 9,
+     "racha": [
+      "G",
+      "G",
+      "P",
+      "E",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 8,
+     "gc": 6,
+     "racha": [
+      "G",
+      "E",
+      "G",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-04-23",
+      "local": "Rayo Vallecano de Madrid",
+      "visitante": "RCD Espanyol de Barcelona",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-12-07",
+      "local": "RCD Espanyol de Barcelona",
+      "visitante": "Rayo Vallecano de Madrid",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-04-04",
+      "local": "Rayo Vallecano de Madrid",
+      "visitante": "RCD Espanyol de Barcelona",
+      "goles_local": 0,
+      "goles_visitante": 4
+     },
+     {
+      "fecha": "2024-08-31",
+      "local": "RCD Espanyol de Barcelona",
+      "visitante": "Rayo Vallecano de Madrid",
+      "goles_local": 2,
+      "goles_visitante": 1
+     }
+    ],
+    "explicacion": "En fuerza de temporada están parejos (neto +0.00 vs -0.04). Rayo Vallecano de Madrid juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.28 – 0.91; el modelo ve marcando más a Rayo Vallecano de Madrid. También parejos en forma (2G-1E-2P vs 2G-1E-2P en 5).",
+    "recomendacion": {
+     "mercado": "Menos de 2.5 goles",
+     "prob": 0.626,
+     "por_que": "Pocos goles esperados en total (1.28 + 0.91 = 2.19). El modelo ve el partido cerrado (63% al under).",
+     "alternativa": {
+      "mercado": "Menos de 3.5 goles",
+      "prob": 0.822
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 564680,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-09-15T18:00:00Z",
+   "jornada": 6,
+   "local": "Deportivo Alavés",
+   "visitante": "Valencia CF",
+   "prediccion": {
+    "prob_1": 0.457,
+    "prob_X": 0.274,
+    "prob_2": 0.268,
+    "goles_esperados": [
+     1.352,
+     0.966
+    ],
+    "prob_over_2_5": 0.409,
+    "prob_btts": 0.459,
+    "marcadores": [
+     [
+      "1-0",
+      0.1338
+     ],
+     [
+      "1-1",
+      0.1279
+     ],
+     [
+      "0-0",
+      0.0978
+     ]
+    ],
+    "cuotas_justas": [
+     2.19,
+     3.65,
+     3.73
+    ],
+    "resumen": "Gana Deportivo Alavés (ligero favorito, 46%). pocos goles (-2.5).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.057,
+     "defensa": 0.066,
+     "neto": 0.009,
+     "peso": 45.6,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.052,
+     "defensa": 0.026,
+     "neto": -0.025,
+     "peso": 45.7,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 7,
+     "gc": 3,
+     "racha": [
+      "G",
+      "P",
+      "G",
+      "E",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 8,
+     "gc": 8,
+     "racha": [
+      "G",
+      "G",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-03-08",
+      "local": "Valencia CF",
+      "visitante": "Deportivo Alavés",
+      "goles_local": 3,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-10-20",
+      "local": "Deportivo Alavés",
+      "visitante": "Valencia CF",
+      "goles_local": 0,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-05-14",
+      "local": "Deportivo Alavés",
+      "visitante": "Valencia CF",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-12-22",
+      "local": "Valencia CF",
+      "visitante": "Deportivo Alavés",
+      "goles_local": 2,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-05-05",
+      "local": "Valencia CF",
+      "visitante": "Deportivo Alavés",
+      "goles_local": 0,
+      "goles_visitante": 1
+     }
+    ],
+    "explicacion": "En fuerza de temporada están parejos (neto +0.01 vs -0.03). Deportivo Alavés juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.35 – 0.97; el modelo ve marcando más a Deportivo Alavés. En forma reciente pinta algo mejor Deportivo Alavés (3G-1E-1P vs 2G-1E-2P en 5).",
+    "recomendacion": {
+     "mercado": "Menos de 2.5 goles",
+     "prob": 0.591,
+     "por_que": "Pocos goles esperados en total (1.35 + 0.97 = 2.32). El modelo ve el partido cerrado (59% al under).",
+     "alternativa": {
+      "mercado": "1X",
+      "prob": 0.732
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 564681,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-09-15T19:30:00Z",
+   "jornada": 6,
+   "local": "Elche CF",
+   "visitante": "Real Madrid CF",
+   "prediccion": {
+    "prob_1": 0.189,
+    "prob_X": 0.206,
+    "prob_2": 0.605,
+    "goles_esperados": [
+     1.064,
+     2.065
+    ],
+    "prob_over_2_5": 0.605,
+    "prob_btts": 0.571,
+    "marcadores": [
+     [
+      "1-2",
+      0.0993
+     ],
+     [
+      "1-1",
+      0.0956
+     ],
+     [
+      "0-2",
+      0.0933
+     ]
+    ],
+    "cuotas_justas": [
+     5.3,
+     4.84,
+     1.65
+    ],
+    "resumen": "Gana Real Madrid CF (claro favorito, 60%). se esperan goles (+2.5).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.063,
+     "defensa": -0.128,
+     "neto": -0.065,
+     "peso": 27.4,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.514,
+     "defensa": 0.386,
+     "neto": 0.9,
+     "peso": 46.6,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 5,
+     "gc": 10,
+     "racha": [
+      "G",
+      "E",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 4,
+     "e": 0,
+     "p": 1,
+     "gf": 14,
+     "gc": 5,
+     "racha": [
+      "G",
+      "G",
+      "G",
+      "G",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-03-14",
+      "local": "Real Madrid CF",
+      "visitante": "Elche CF",
+      "goles_local": 4,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-11-23",
+      "local": "Elche CF",
+      "visitante": "Real Madrid CF",
+      "goles_local": 2,
+      "goles_visitante": 2
+     }
+    ],
+    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.90 vs -0.07): ataca ~67% más que el promedio, encaja ~32% menos. Elche CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.06 – 2.06; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (4G-0E-1P vs 1G-2E-2P).",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.811,
+     "por_que": "Doble oportunidad: cubre que Elche CF no gane. El escenario que queda afuera (gane Elche CF) es el menos probable (19%), así que el mercado se cumple ~81% de las veces.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.819
+     },
+     "confianza": "alta"
+    }
+   }
+  }
+ ]
+}

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-09",
- "actualizado": "2026-09-04T17:19:07+00:00",
+ "actualizado": "2026-09-05T09:44:23+00:00",
  "partidos": [
   {
    "id": 575329,
@@ -15,7 +15,7 @@
     "prob_X": 0.111,
     "prob_2": 0.103,
     "goles_esperados": [
-     3.682,
+     3.681,
      1.414
     ],
     "prob_over_2_5": 0.883,
@@ -48,13 +48,13 @@
      "ataque": 0.567,
      "defensa": 0.058,
      "neto": 0.625,
-     "peso": 13.8,
+     "peso": 13.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.138,
      "defensa": -0.19,
-     "neto": -0.052,
+     "neto": -0.053,
      "peso": 4.6,
      "fiable": false
     },
@@ -93,7 +93,7 @@
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.883,
-     "por_que": "Bastantes goles esperados (3.68 + 1.41 = 5.10); al menos una defensa floja. Probabilidad al over: 88%.",
+     "por_que": "Bastantes goles esperados (3.68 + 1.41 = 5.09); al menos una defensa floja. Probabilidad al over: 88%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.961
@@ -146,7 +146,7 @@
      ]
     ],
     "cuotas_justas": [
-     1.84,
+     1.85,
      4.74,
      4.05
     ],
@@ -165,7 +165,7 @@
      "ataque": 0.447,
      "defensa": 0.111,
      "neto": 0.558,
-     "peso": 15.2,
+     "peso": 15.1,
      "fiable": true
     },
     "forma_local": {
@@ -233,7 +233,7 @@
     "prob_X": 0.021,
     "prob_2": 0.009,
     "goles_esperados": [
-     5.636,
+     5.634,
      0.752
     ],
     "prob_over_2_5": 0.952,
@@ -249,13 +249,13 @@
      ],
      [
       "4-0",
-      0.0728
+      0.0729
      ]
     ],
     "cuotas_justas": [
      1.03,
-     47.4,
-     108.58
+     47.32,
+     108.35
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 97%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -263,9 +263,9 @@
    "nota": "pocos datos: 'ŠK Slovan Bratislava' solo tiene 2.3 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.732,
+     "ataque": 0.731,
      "defensa": 0.328,
-     "neto": 1.06,
+     "neto": 1.059,
      "peso": 19.0,
      "fiable": true
     },
@@ -307,11 +307,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +1.06 vs -0.68): ataca ~108% más que el promedio, encaja ~28% menos. Paris Saint-Germain FC juega en casa (~+32% de ventaja, ya contada). Goles esperados: 5.64 – 0.75; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-1E-0P vs 0G-0E-5P). El modelo tiene pocos datos de ŠK Slovan Bratislava: tomalo con pinzas.",
+    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +1.06 vs -0.68): ataca ~108% más que el promedio, encaja ~28% menos. Paris Saint-Germain FC juega en casa (~+32% de ventaja, ya contada). Goles esperados: 5.63 – 0.75; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-1E-0P vs 0G-0E-5P). El modelo tiene pocos datos de ŠK Slovan Bratislava: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.97,
-     "por_que": "Paris Saint-Germain FC es favorito en casa: marca más (5.64 vs 0.75) y es más fuerte de fondo (neto +1.06 vs -0.68). Probabilidad: 97%.",
+     "por_que": "Paris Saint-Germain FC es favorito en casa: marca más (5.63 vs 0.75) y es más fuerte de fondo (neto +1.06 vs -0.68). Probabilidad: 97%.",
      "alternativa": {
       "mercado": "1X",
       "prob": 0.991
@@ -331,7 +331,7 @@
    "prediccion": {
     "prob_1": 0.105,
     "prob_X": 0.177,
-    "prob_2": 0.719,
+    "prob_2": 0.718,
     "goles_esperados": [
      0.652,
      2.123
@@ -354,7 +354,7 @@
     ],
     "cuotas_justas": [
      9.55,
-     5.66,
+     5.65,
      1.39
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 72%).",
@@ -363,7 +363,7 @@
    "nota": "pocos datos: 'SSC Napoli' solo tiene 5.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.245,
+     "ataque": -0.246,
      "defensa": -0.053,
      "neto": -0.298,
      "peso": 5.8,
@@ -373,7 +373,7 @@
      "ataque": 0.433,
      "defensa": 0.728,
      "neto": 1.162,
-     "peso": 16.2,
+     "peso": 16.1,
      "fiable": true
     },
     "forma_local": {
@@ -410,7 +410,7 @@
     "explicacion": "Arsenal FC es más fuerte de fondo (neto +1.16 vs -0.30): ataca ~54% más que el promedio, encaja ~52% menos. SSC Napoli juega en casa (~+32% de ventaja, ya contada). Goles esperados: 0.65 – 2.12; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (2G-2E-1P vs 1G-2E-2P). El modelo tiene pocos datos de SSC Napoli: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "2",
-     "prob": 0.719,
+     "prob": 0.718,
      "por_que": "El modelo ve a Arsenal FC marcando más que SSC Napoli pese a la localía (2.12 vs 0.65), y lo respalda una diferencia de fuerza clara (neto +1.16 vs -0.30). Probabilidad del modelo: 72%.",
      "alternativa": {
       "mercado": "X2",

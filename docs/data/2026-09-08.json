@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-08",
- "actualizado": "2026-09-04T17:19:07+00:00",
+ "actualizado": "2026-09-05T09:44:23+00:00",
  "partidos": [
   {
    "id": 575323,
@@ -11,7 +11,7 @@
    "local": "Club Brugge KV",
    "visitante": "Aston Villa FC",
    "prediccion": {
-    "prob_1": 0.305,
+    "prob_1": 0.306,
     "prob_X": 0.22,
     "prob_2": 0.474,
     "goles_esperados": [
@@ -53,7 +53,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.227,
-     "defensa": 0.351,
+     "defensa": 0.35,
      "neto": 0.578,
      "peso": 3.8,
      "fiable": false
@@ -114,7 +114,7 @@
     "explicacion": "Aston Villa FC es más fuerte de fondo (neto +0.58 vs +0.05): ataca ~25% más que el promedio, encaja ~30% menos. Club Brugge KV juega en casa (~+32% de ventaja, ya contada). Goles esperados: 1.42 – 1.82; el modelo ve marcando más a Aston Villa FC. Y la forma reciente lo confirma: Aston Villa FC llega mejor (4G-0E-1P vs 2G-1E-2P). El modelo tiene pocos datos de Aston Villa FC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.695,
+     "prob": 0.694,
      "por_que": "Doble oportunidad: cubre que Club Brugge KV no gane. El escenario que queda afuera (gane Club Brugge KV) es el menos probable (31%), así que el mercado se cumple ~69% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -170,9 +170,9 @@
     "cuotas_justas": [
      1.77,
      4.95,
-     4.3
+     4.29
     ],
-    "resumen": "Gana Real Madrid CF (claro favorito, 57%). se esperan goles (+2.5). ambos marcan.",
+    "resumen": "Gana Real Madrid CF (claro favorito, 56%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
@@ -186,7 +186,7 @@
     "fuerza_visitante": {
      "ataque": 0.106,
      "defensa": 0.328,
-     "neto": 0.434,
+     "neto": 0.433,
      "peso": 12.2,
      "fiable": true
     },
@@ -243,7 +243,7 @@
    "local": "FC Porto",
    "visitante": "Manchester City FC",
    "prediccion": {
-    "prob_1": 0.495,
+    "prob_1": 0.494,
     "prob_X": 0.21,
     "prob_2": 0.296,
     "goles_esperados": [
@@ -287,7 +287,7 @@
      "ataque": 0.196,
      "defensa": 0.088,
      "neto": 0.285,
-     "peso": 10.7,
+     "peso": 10.6,
      "fiable": true
     },
     "forma_local": {
@@ -355,7 +355,7 @@
     "marcadores": [
      [
       "3-0",
-      0.113
+      0.1129
      ],
      [
       "2-0",
@@ -363,13 +363,13 @@
      ],
      [
       "4-0",
-      0.0868
+      0.0867
      ]
     ],
     "cuotas_justas": [
-     1.18,
+     1.19,
      9.86,
-     18.3
+     18.28
     ],
     "resumen": "Gana Borussia Dortmund (claro favorito, 84%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -386,7 +386,7 @@
     "fuerza_visitante": {
      "ataque": -0.533,
      "defensa": -0.296,
-     "neto": -0.83,
+     "neto": -0.829,
      "peso": 4.6,
      "fiable": false
     },
