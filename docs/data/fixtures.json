@@ -1,142 +1,12 @@
 {
- "actualizado": "2026-09-05T09:44:21+00:00",
+ "actualizado": "2026-09-05T16:26:25+00:00",
  "fixtures": [
-  {
-   "id": 560571,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-09-05T11:30:00Z",
-   "estado": "TIMED",
-   "jornada": 3,
-   "local": "Newcastle United FC",
-   "visitante": "AFC Bournemouth"
-  },
-  {
-   "id": 558616,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-09-05T13:00:00Z",
-   "estado": "TIMED",
-   "jornada": 3,
-   "local": "ACF Fiorentina",
-   "visitante": "Torino FC"
-  },
-  {
-   "id": 565785,
-   "competicion_codigo": "BL1",
-   "competicion": "Bundesliga",
-   "fecha_utc": "2026-09-05T13:30:00Z",
-   "estado": "TIMED",
-   "jornada": 2,
-   "local": "SV Werder Bremen",
-   "visitante": "RB Leipzig"
-  },
-  {
-   "id": 565787,
-   "competicion_codigo": "BL1",
-   "competicion": "Bundesliga",
-   "fecha_utc": "2026-09-05T13:30:00Z",
-   "estado": "TIMED",
-   "jornada": 2,
-   "local": "TSG 1899 Hoffenheim",
-   "visitante": "Borussia Dortmund"
-  },
-  {
-   "id": 565790,
-   "competicion_codigo": "BL1",
-   "competicion": "Bundesliga",
-   "fecha_utc": "2026-09-05T13:30:00Z",
-   "estado": "TIMED",
-   "jornada": 2,
-   "local": "Bayer 04 Leverkusen",
-   "visitante": "1. FC Union Berlin"
-  },
-  {
-   "id": 565792,
-   "competicion_codigo": "BL1",
-   "competicion": "Bundesliga",
-   "fecha_utc": "2026-09-05T13:30:00Z",
-   "estado": "TIMED",
-   "jornada": 2,
-   "local": "Borussia Mönchengladbach",
-   "visitante": "SV 07 Elversberg"
-  },
-  {
-   "id": 565793,
-   "competicion_codigo": "BL1",
-   "competicion": "Bundesliga",
-   "fecha_utc": "2026-09-05T13:30:00Z",
-   "estado": "TIMED",
-   "jornada": 2,
-   "local": "SC Paderborn 07",
-   "visitante": "SC Freiburg"
-  },
-  {
-   "id": 560562,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-09-05T14:00:00Z",
-   "estado": "TIMED",
-   "jornada": 3,
-   "local": "Nottingham Forest FC",
-   "visitante": "Tottenham Hotspur FC"
-  },
-  {
-   "id": 560563,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-09-05T14:00:00Z",
-   "estado": "TIMED",
-   "jornada": 3,
-   "local": "Manchester City FC",
-   "visitante": "Coventry City FC"
-  },
-  {
-   "id": 560564,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-09-05T14:00:00Z",
-   "estado": "TIMED",
-   "jornada": 3,
-   "local": "Brighton & Hove Albion FC",
-   "visitante": "Leeds United FC"
-  },
-  {
-   "id": 560565,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-09-05T14:00:00Z",
-   "estado": "TIMED",
-   "jornada": 3,
-   "local": "Brentford FC",
-   "visitante": "Sunderland AFC"
-  },
-  {
-   "id": 560568,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-09-05T14:00:00Z",
-   "estado": "TIMED",
-   "jornada": 3,
-   "local": "Fulham FC",
-   "visitante": "Crystal Palace FC"
-  },
-  {
-   "id": 564663,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-09-05T14:15:00Z",
-   "estado": "TIMED",
-   "jornada": 4,
-   "local": "Athletic Club",
-   "visitante": "Club Atlético de Madrid"
-  },
   {
    "id": 559695,
    "competicion_codigo": "FL1",
    "competicion": "Ligue 1",
    "fecha_utc": "2026-09-05T15:15:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 3,
    "local": "Racing Club de Lens",
    "visitante": "FC Lorient"
@@ -146,7 +16,7 @@
    "competicion_codigo": "SA",
    "competicion": "Serie A",
    "fecha_utc": "2026-09-05T16:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 3,
    "local": "FC Internazionale Milano",
    "visitante": "SSC Napoli"

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-11",
- "actualizado": "2026-09-05T09:44:23+00:00",
+ "actualizado": "2026-09-05T16:26:29+00:00",
  "partidos": [
   {
    "id": 565797,
@@ -11,23 +11,23 @@
    "local": "1. FC Union Berlin",
    "visitante": "FC Schalke 04",
    "prediccion": {
-    "prob_1": 0.601,
-    "prob_X": 0.227,
-    "prob_2": 0.172,
+    "prob_1": 0.592,
+    "prob_X": 0.229,
+    "prob_2": 0.179,
     "goles_esperados": [
-     1.985,
-     0.975
+     1.966,
+     0.998
     ],
-    "prob_over_2_5": 0.568,
-    "prob_btts": 0.544,
+    "prob_over_2_5": 0.569,
+    "prob_btts": 0.55,
     "marcadores": [
      [
       "1-1",
-      0.1076
+      0.1081
      ],
      [
       "2-0",
-      0.1021
+      0.0998
      ],
      [
       "2-1",
@@ -35,26 +35,26 @@
      ]
     ],
     "cuotas_justas": [
-     1.66,
-     4.4,
-     5.82
+     1.69,
+     4.38,
+     5.57
     ],
-    "resumen": "Gana 1. FC Union Berlin (claro favorito, 60%).",
+    "resumen": "Gana 1. FC Union Berlin (claro favorito, 59%).",
     "confianza": "baja"
    },
    "nota": "pocos datos: 'FC Schalke 04' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.155,
-     "defensa": -0.012,
-     "neto": -0.167,
-     "peso": 38.9,
+     "ataque": -0.174,
+     "defensa": -0.022,
+     "neto": -0.196,
+     "peso": 39.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.342,
-     "defensa": -0.342,
-     "neto": -0.684,
+     "ataque": -0.338,
+     "defensa": -0.337,
+     "neto": -0.675,
      "peso": 1.0,
      "fiable": false
     },
@@ -63,14 +63,14 @@
      "g": 2,
      "e": 2,
      "p": 1,
-     "gf": 13,
-     "gc": 9,
+     "gf": 12,
+     "gc": 10,
      "racha": [
-      "P",
       "E",
       "G",
       "G",
-      "E"
+      "E",
+      "P"
      ]
     },
     "forma_visitante": {
@@ -85,130 +85,16 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "1. FC Union Berlin es más fuerte de fondo (neto -0.17 vs -0.68): es más completo en general. 1. FC Union Berlin juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.99 – 0.97; el modelo ve marcando más a 1. FC Union Berlin. Y la forma reciente lo confirma: 1. FC Union Berlin llega mejor (2G-2E-1P vs 0G-0E-1P). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
+    "explicacion": "1. FC Union Berlin es más fuerte de fondo (neto -0.20 vs -0.68): es más completo en general. 1. FC Union Berlin juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.97 – 1.00; el modelo ve marcando más a 1. FC Union Berlin. Y la forma reciente lo confirma: 1. FC Union Berlin llega mejor (2G-2E-1P vs 0G-0E-1P). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.828,
-     "por_que": "Doble oportunidad: cubre que 1. FC Union Berlin no pierda. El escenario que queda afuera (gane FC Schalke 04) es el menos probable (17%), así que el mercado se cumple ~83% de las veces.",
+     "prob": 0.821,
+     "por_que": "Doble oportunidad: cubre que 1. FC Union Berlin no pierda. El escenario que queda afuera (gane FC Schalke 04) es el menos probable (18%), así que el mercado se cumple ~82% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.802
      },
      "confianza": "baja"
-    }
-   }
-  },
-  {
-   "id": 558606,
-   "competicion": "Serie A",
-   "competicion_codigo": "SA",
-   "fecha_utc": "2026-09-11T18:45:00Z",
-   "jornada": 4,
-   "local": "Venezia FC",
-   "visitante": "ACF Fiorentina",
-   "prediccion": {
-    "prob_1": 0.233,
-    "prob_X": 0.271,
-    "prob_2": 0.496,
-    "goles_esperados": [
-     0.89,
-     1.431
-    ],
-    "prob_over_2_5": 0.41,
-    "prob_btts": 0.45,
-    "marcadores": [
-     [
-      "0-1",
-      0.1394
-     ],
-     [
-      "1-1",
-      0.126
-     ],
-     [
-      "0-2",
-      0.1005
-     ]
-    ],
-    "cuotas_justas": [
-     4.29,
-     3.69,
-     2.02
-    ],
-    "resumen": "Gana ACF Fiorentina (ligero favorito, 50%). pocos goles (-2.5).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.346,
-     "defensa": -0.157,
-     "neto": -0.503,
-     "peso": 14.1,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.086,
-     "defensa": -0.019,
-     "neto": 0.067,
-     "peso": 44.8,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 1,
-     "e": 0,
-     "p": 4,
-     "gf": 4,
-     "gc": 11,
-     "racha": [
-      "G",
-      "P",
-      "P",
-      "P",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 1,
-     "e": 2,
-     "p": 2,
-     "gf": 3,
-     "gc": 8,
-     "racha": [
-      "E",
-      "G",
-      "E",
-      "P",
-      "P"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2025-05-12",
-      "local": "Venezia FC",
-      "visitante": "ACF Fiorentina",
-      "goles_local": 2,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2024-08-25",
-      "local": "ACF Fiorentina",
-      "visitante": "Venezia FC",
-      "goles_local": 0,
-      "goles_visitante": 0
-     }
-    ],
-    "explicacion": "ACF Fiorentina es más fuerte de fondo (neto +0.07 vs -0.50): es más completo en general. Venezia FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.89 – 1.43; el modelo ve marcando más a ACF Fiorentina. Y la forma reciente lo confirma: ACF Fiorentina llega mejor (1G-2E-2P vs 1G-0E-4P).",
-    "recomendacion": {
-     "mercado": "X2",
-     "prob": 0.767,
-     "por_que": "Doble oportunidad: cubre que Venezia FC no gane. El escenario que queda afuera (gane Venezia FC) es el menos probable (23%), así que el mercado se cumple ~77% de las veces.",
-     "alternativa": {
-      "mercado": "Menos de 2.5 goles",
-      "prob": 0.59
-     },
-     "confianza": "alta"
     }
    }
   },
@@ -254,17 +140,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.235,
+     "ataque": 0.236,
      "defensa": -0.019,
      "neto": 0.216,
-     "peso": 39.9,
+     "peso": 39.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.32,
      "defensa": 0.078,
      "neto": 0.398,
-     "peso": 39.9,
+     "peso": 39.8,
      "fiable": true
     },
     "forma_local": {
@@ -348,6 +234,120 @@
    }
   },
   {
+   "id": 558606,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-09-11T18:45:00Z",
+   "jornada": 4,
+   "local": "Venezia FC",
+   "visitante": "ACF Fiorentina",
+   "prediccion": {
+    "prob_1": 0.237,
+    "prob_X": 0.272,
+    "prob_2": 0.491,
+    "goles_esperados": [
+     0.901,
+     1.422
+    ],
+    "prob_over_2_5": 0.41,
+    "prob_btts": 0.452,
+    "marcadores": [
+     [
+      "0-1",
+      0.1382
+     ],
+     [
+      "1-1",
+      0.1266
+     ],
+     [
+      "0-2",
+      0.099
+     ]
+    ],
+    "cuotas_justas": [
+     4.21,
+     3.68,
+     2.04
+    ],
+    "resumen": "Gana ACF Fiorentina (ligero favorito, 49%). pocos goles (-2.5).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.346,
+     "defensa": -0.157,
+     "neto": -0.503,
+     "peso": 14.1,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.078,
+     "defensa": -0.032,
+     "neto": 0.046,
+     "peso": 45.8,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 4,
+     "gc": 11,
+     "racha": [
+      "G",
+      "P",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 4,
+     "gc": 10,
+     "racha": [
+      "G",
+      "E",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2025-05-12",
+      "local": "Venezia FC",
+      "visitante": "ACF Fiorentina",
+      "goles_local": 2,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-08-25",
+      "local": "ACF Fiorentina",
+      "visitante": "Venezia FC",
+      "goles_local": 0,
+      "goles_visitante": 0
+     }
+    ],
+    "explicacion": "ACF Fiorentina es más fuerte de fondo (neto +0.05 vs -0.50): es más completo en general. Venezia FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.90 – 1.42; el modelo ve marcando más a ACF Fiorentina. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.763,
+     "por_que": "Doble oportunidad: cubre que Venezia FC no gane. El escenario que queda afuera (gane Venezia FC) es el menos probable (24%), así que el mercado se cumple ~76% de las veces.",
+     "alternativa": {
+      "mercado": "Menos de 2.5 goles",
+      "prob": 0.59
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
    "id": 564669,
    "competicion": "La Liga",
    "competicion_codigo": "PD",
@@ -356,48 +356,48 @@
    "local": "Sevilla FC",
    "visitante": "Valencia CF",
    "prediccion": {
-    "prob_1": 0.453,
+    "prob_1": 0.455,
     "prob_X": 0.259,
-    "prob_2": 0.288,
+    "prob_2": 0.286,
     "goles_esperados": [
-     1.463,
-     1.109
+     1.465,
+     1.105
     ],
     "prob_over_2_5": 0.474,
     "prob_btts": 0.514,
     "marcadores": [
      [
       "1-1",
-      0.1233
+      0.1232
      ],
      [
       "1-0",
-      0.1124
+      0.1128
      ],
      [
       "2-1",
-      0.0906
+      0.0907
      ]
     ],
     "cuotas_justas": [
-     2.21,
+     2.2,
      3.86,
-     3.48
+     3.49
     ],
     "resumen": "Gana Sevilla FC (ligero favorito, 45%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.022,
-     "defensa": -0.072,
+     "ataque": 0.021,
+     "defensa": -0.071,
      "neto": -0.051,
      "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.052,
-     "defensa": 0.026,
+     "defensa": 0.027,
      "neto": -0.025,
      "peso": 45.7,
      "fiable": true
@@ -469,7 +469,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto -0.05 vs -0.03). Sevilla FC juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.46 – 1.11; el modelo ve marcando más a Sevilla FC. También parejos en forma (2G-0E-3P vs 2G-1E-2P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto -0.05 vs -0.03). Sevilla FC juega en casa (~+36% de ventaja, ya contada). Goles esperados: 1.47 – 1.10; el modelo ve marcando más a Sevilla FC. También parejos en forma (2G-0E-3P vs 2G-1E-2P en 5).",
     "recomendacion": null
    }
   }

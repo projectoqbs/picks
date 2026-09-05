@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-10",
- "actualizado": "2026-09-05T09:44:23+00:00",
+ "actualizado": "2026-09-05T16:26:29+00:00",
  "partidos": [
   {
    "id": 575335,
@@ -56,9 +56,9 @@
    "nota": "pocos datos: 'FK Shakhtar Donetsk' solo tiene 3.2 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.309,
+     "ataque": 0.308,
      "defensa": -0.082,
-     "neto": 0.227,
+     "neto": 0.226,
      "peso": 9.5,
      "fiable": true
     },
@@ -161,12 +161,12 @@
     "resumen": "Gana FC Bayern München (claro favorito, 77%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'FK Bodø/Glimt' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'FK Bodø/Glimt' solo tiene 7.4 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.615,
      "defensa": 0.33,
-     "neto": 0.945,
+     "neto": 0.944,
      "peso": 15.6,
      "fiable": true
     },
@@ -174,7 +174,7 @@
      "ataque": 0.294,
      "defensa": -0.03,
      "neto": 0.264,
-     "peso": 7.5,
+     "peso": 7.4,
      "fiable": false
     },
     "forma_local": {
@@ -259,7 +259,7 @@
      1.136,
      1.54
     ],
-    "prob_over_2_5": 0.5,
+    "prob_over_2_5": 0.501,
     "prob_btts": 0.529,
     "marcadores": [
      [

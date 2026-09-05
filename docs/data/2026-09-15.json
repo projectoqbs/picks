@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-15",
- "actualizado": "2026-09-05T09:44:23+00:00",
+ "actualizado": "2026-09-05T16:26:29+00:00",
  "partidos": [
   {
    "id": 564678,
@@ -11,33 +11,33 @@
    "local": "Rayo Vallecano de Madrid",
    "visitante": "RCD Espanyol de Barcelona",
    "prediccion": {
-    "prob_1": 0.45,
+    "prob_1": 0.452,
     "prob_X": 0.284,
-    "prob_2": 0.265,
+    "prob_2": 0.264,
     "goles_esperados": [
-     1.279,
-     0.91
+     1.281,
+     0.907
     ],
     "prob_over_2_5": 0.374,
     "prob_btts": 0.43,
     "marcadores": [
      [
       "1-0",
-      0.144
+      0.1444
      ],
      [
       "1-1",
-      0.1297
+      0.1296
      ],
      [
       "0-0",
-      0.1114
+      0.1115
      ]
     ],
     "cuotas_justas": [
-     2.22,
+     2.21,
      3.52,
-     3.77
+     3.79
     ],
     "resumen": "Gana Rayo Vallecano de Madrid (ligero favorito, 45%). pocos goles (-2.5).",
     "confianza": "alta"
@@ -45,14 +45,14 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.122,
-     "defensa": 0.123,
-     "neto": 0.001,
+     "defensa": 0.124,
+     "neto": 0.002,
      "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.054,
-     "defensa": 0.017,
+     "defensa": 0.018,
      "neto": -0.037,
      "peso": 39.6,
      "fiable": true
@@ -117,7 +117,7 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.00 vs -0.04). Rayo Vallecano de Madrid juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.28 – 0.91; el modelo ve marcando más a Rayo Vallecano de Madrid. También parejos en forma (2G-1E-2P vs 2G-1E-2P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.00 vs -0.04). Rayo Vallecano de Madrid juega en casa (~+36% de ventaja, ya contada). Goles esperados: 1.28 – 0.91; el modelo ve marcando más a Rayo Vallecano de Madrid. También parejos en forma (2G-1E-2P vs 2G-1E-2P en 5).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.626,
@@ -139,23 +139,23 @@
    "local": "Deportivo Alavés",
    "visitante": "Valencia CF",
    "prediccion": {
-    "prob_1": 0.457,
+    "prob_1": 0.459,
     "prob_X": 0.274,
-    "prob_2": 0.268,
+    "prob_2": 0.267,
     "goles_esperados": [
-     1.352,
-     0.966
+     1.355,
+     0.963
     ],
     "prob_over_2_5": 0.409,
-    "prob_btts": 0.459,
+    "prob_btts": 0.458,
     "marcadores": [
      [
       "1-0",
-      0.1338
+      0.1342
      ],
      [
       "1-1",
-      0.1279
+      0.1278
      ],
      [
       "0-0",
@@ -163,9 +163,9 @@
      ]
     ],
     "cuotas_justas": [
-     2.19,
+     2.18,
      3.65,
-     3.73
+     3.75
     ],
     "resumen": "Gana Deportivo Alavés (ligero favorito, 46%). pocos goles (-2.5).",
     "confianza": "alta"
@@ -173,14 +173,14 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.057,
-     "defensa": 0.066,
-     "neto": 0.009,
+     "defensa": 0.067,
+     "neto": 0.01,
      "peso": 45.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.052,
-     "defensa": 0.026,
+     "defensa": 0.027,
      "neto": -0.025,
      "peso": 45.7,
      "fiable": true
@@ -252,14 +252,14 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.01 vs -0.03). Deportivo Alavés juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.35 – 0.97; el modelo ve marcando más a Deportivo Alavés. En forma reciente pinta algo mejor Deportivo Alavés (3G-1E-1P vs 2G-1E-2P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.01 vs -0.03). Deportivo Alavés juega en casa (~+36% de ventaja, ya contada). Goles esperados: 1.35 – 0.96; el modelo ve marcando más a Deportivo Alavés. En forma reciente pinta algo mejor Deportivo Alavés (3G-1E-1P vs 2G-1E-2P en 5).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.591,
-     "por_que": "Pocos goles esperados en total (1.35 + 0.97 = 2.32). El modelo ve el partido cerrado (59% al under).",
+     "por_que": "Pocos goles esperados en total (1.35 + 0.96 = 2.32). El modelo ve el partido cerrado (59% al under).",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.732
+      "prob": 0.733
      },
      "confianza": "alta"
     }
@@ -274,14 +274,14 @@
    "local": "Elche CF",
    "visitante": "Real Madrid CF",
    "prediccion": {
-    "prob_1": 0.189,
-    "prob_X": 0.206,
-    "prob_2": 0.605,
+    "prob_1": 0.19,
+    "prob_X": 0.207,
+    "prob_2": 0.603,
     "goles_esperados": [
-     1.064,
-     2.065
+     1.065,
+     2.059
     ],
-    "prob_over_2_5": 0.605,
+    "prob_over_2_5": 0.604,
     "prob_btts": 0.571,
     "marcadores": [
      [
@@ -290,24 +290,24 @@
      ],
      [
       "1-1",
-      0.0956
+      0.0959
      ],
      [
       "0-2",
-      0.0933
+      0.0932
      ]
     ],
     "cuotas_justas": [
-     5.3,
-     4.84,
-     1.65
+     5.27,
+     4.83,
+     1.66
     ],
     "resumen": "Gana Real Madrid CF (claro favorito, 60%). se esperan goles (+2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.063,
+     "ataque": 0.062,
      "defensa": -0.128,
      "neto": -0.065,
      "peso": 27.4,
@@ -315,8 +315,8 @@
     },
     "fuerza_visitante": {
      "ataque": 0.514,
-     "defensa": 0.386,
-     "neto": 0.9,
+     "defensa": 0.387,
+     "neto": 0.901,
      "peso": 46.6,
      "fiable": true
     },
@@ -366,14 +366,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.90 vs -0.07): ataca ~67% más que el promedio, encaja ~32% menos. Elche CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.06 – 2.06; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (4G-0E-1P vs 1G-2E-2P).",
+    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.90 vs -0.07): ataca ~67% más que el promedio, encaja ~32% menos. Elche CF juega en casa (~+36% de ventaja, ya contada). Goles esperados: 1.06 – 2.06; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (4G-0E-1P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.811,
+     "prob": 0.81,
      "por_que": "Doble oportunidad: cubre que Elche CF no gane. El escenario que queda afuera (gane Elche CF) es el menos probable (19%), así que el mercado se cumple ~81% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.819
+      "prob": 0.818
      },
      "confianza": "alta"
     }
