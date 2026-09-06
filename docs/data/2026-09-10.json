@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-10",
- "actualizado": "2026-09-06T09:59:43+00:00",
+ "actualizado": "2026-09-06T16:37:33+00:00",
  "partidos": [
   {
    "id": 575335,
@@ -23,13 +23,13 @@
    "visitante": "FK Shakhtar Donetsk",
    "prediccion": {
     "prob_1": 0.649,
-    "prob_X": 0.172,
+    "prob_X": 0.173,
     "prob_2": 0.178,
     "goles_esperados": [
-     2.515,
+     2.514,
      1.263
     ],
-    "prob_over_2_5": 0.728,
+    "prob_over_2_5": 0.727,
     "prob_btts": 0.656,
     "marcadores": [
      [
@@ -108,11 +108,11 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "PSV es más fuerte de fondo (neto +0.23 vs -0.18): ataca ~36% más que el promedio. PSV juega en casa (~+32% de ventaja, ya contada). Goles esperados: 2.52 – 1.26; el modelo ve marcando más a PSV. Pero ojo: en forma reciente FK Shakhtar Donetsk llega mejor que PSV, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de FK Shakhtar Donetsk: tomalo con pinzas.",
+    "explicacion": "PSV es más fuerte de fondo (neto +0.23 vs -0.18): ataca ~36% más que el promedio. PSV juega en casa (~+32% de ventaja, ya contada). Goles esperados: 2.51 – 1.26; el modelo ve marcando más a PSV. Pero ojo: en forma reciente FK Shakhtar Donetsk llega mejor que PSV, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de FK Shakhtar Donetsk: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.728,
-     "por_que": "Bastantes goles esperados (2.52 + 1.26 = 3.78); al menos una defensa floja. Probabilidad al over: 73%.",
+     "prob": 0.727,
+     "por_que": "Bastantes goles esperados (2.51 + 1.26 = 3.78); al menos una defensa floja. Probabilidad al over: 73%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.888
@@ -156,7 +156,7 @@
     "cuotas_justas": [
      1.31,
      8.08,
-     9.09
+     9.08
     ],
     "resumen": "Gana FC Bayern München (claro favorito, 77%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -164,8 +164,8 @@
    "nota": "pocos datos: 'FK Bodø/Glimt' solo tiene 7.4 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.615,
-     "defensa": 0.33,
+     "ataque": 0.614,
+     "defensa": 0.329,
      "neto": 0.944,
      "peso": 15.6,
      "fiable": true
@@ -173,7 +173,7 @@
     "fuerza_visitante": {
      "ataque": 0.294,
      "defensa": -0.03,
-     "neto": 0.264,
+     "neto": 0.263,
      "peso": 7.4,
      "fiable": false
     },
@@ -286,7 +286,7 @@
    "nota": "pocos datos: 'Racing Club de Lens' solo tiene 0.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.403,
+     "ataque": -0.402,
      "defensa": -0.232,
      "neto": -0.634,
      "peso": 4.6,
@@ -294,7 +294,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.067,
-     "defensa": 0.016,
+     "defensa": 0.015,
      "neto": -0.051,
      "peso": 0.8,
      "fiable": false

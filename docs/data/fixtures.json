@@ -1,72 +1,12 @@
 {
- "actualizado": "2026-09-06T09:59:40+00:00",
+ "actualizado": "2026-09-06T16:37:30+00:00",
  "fixtures": [
-  {
-   "id": 560567,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-09-06T13:00:00Z",
-   "estado": "TIMED",
-   "jornada": 3,
-   "local": "Everton FC",
-   "visitante": "Manchester United FC"
-  },
-  {
-   "id": 558612,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-09-06T13:00:00Z",
-   "estado": "TIMED",
-   "jornada": 3,
-   "local": "Parma Calcio 1913",
-   "visitante": "AC Monza"
-  },
-  {
-   "id": 558615,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-09-06T13:00:00Z",
-   "estado": "TIMED",
-   "jornada": 3,
-   "local": "Frosinone Calcio",
-   "visitante": "Venezia FC"
-  },
-  {
-   "id": 559700,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-09-06T13:00:00Z",
-   "estado": "TIMED",
-   "jornada": 3,
-   "local": "ES Troyes AC",
-   "visitante": "RC Strasbourg Alsace"
-  },
-  {
-   "id": 565788,
-   "competicion_codigo": "BL1",
-   "competicion": "Bundesliga",
-   "fecha_utc": "2026-09-06T13:30:00Z",
-   "estado": "TIMED",
-   "jornada": 2,
-   "local": "Hamburger SV",
-   "visitante": "1. FSV Mainz 05"
-  },
-  {
-   "id": 564659,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-09-06T14:15:00Z",
-   "estado": "TIMED",
-   "jornada": 4,
-   "local": "Valencia CF",
-   "visitante": "FC Barcelona"
-  },
   {
    "id": 559698,
    "competicion_codigo": "FL1",
    "competicion": "Ligue 1",
    "fecha_utc": "2026-09-06T15:15:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 3,
    "local": "Angers SCO",
    "visitante": "Stade Rennais FC 1901"
@@ -76,7 +16,7 @@
    "competicion_codigo": "PL",
    "competicion": "Premier League",
    "fecha_utc": "2026-09-06T15:30:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 3,
    "local": "Arsenal FC",
    "visitante": "Chelsea FC"
@@ -86,7 +26,7 @@
    "competicion_codigo": "BL1",
    "competicion": "Bundesliga",
    "fecha_utc": "2026-09-06T15:30:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 2,
    "local": "Eintracht Frankfurt",
    "visitante": "FC Augsburg"
@@ -96,7 +36,7 @@
    "competicion_codigo": "SA",
    "competicion": "Serie A",
    "fecha_utc": "2026-09-06T16:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 3,
    "local": "Bologna FC 1909",
    "visitante": "US Sassuolo Calcio"
@@ -106,7 +46,7 @@
    "competicion_codigo": "PD",
    "competicion": "La Liga",
    "fecha_utc": "2026-09-06T16:30:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 4,
    "local": "Deportivo Alavés",
    "visitante": "CA Osasuna"
@@ -116,7 +56,7 @@
    "competicion_codigo": "PD",
    "competicion": "La Liga",
    "fecha_utc": "2026-09-06T16:30:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 4,
    "local": "Málaga CF",
    "visitante": "Levante UD"

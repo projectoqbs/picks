@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-09",
- "actualizado": "2026-09-06T09:59:43+00:00",
+ "actualizado": "2026-09-06T16:37:33+00:00",
  "partidos": [
   {
    "id": 575329,
@@ -23,7 +23,7 @@
     "marcadores": [
      [
       "3-1",
-      0.0721
+      0.0722
      ],
      [
       "4-1",
@@ -127,7 +127,7 @@
     "prob_2": 0.247,
     "goles_esperados": [
      1.964,
-     1.258
+     1.259
     ],
     "prob_over_2_5": 0.625,
     "prob_btts": 0.612,
@@ -156,7 +156,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.24,
-     "defensa": 0.484,
+     "defensa": 0.483,
      "neto": 0.723,
      "peso": 10.6,
      "fiable": true
@@ -233,29 +233,29 @@
     "prob_X": 0.021,
     "prob_2": 0.009,
     "goles_esperados": [
-     5.634,
-     0.753
+     5.635,
+     0.754
     ],
     "prob_over_2_5": 0.952,
     "prob_btts": 0.527,
     "marcadores": [
      [
       "5-0",
-      0.0821
+      0.082
      ],
      [
       "6-0",
-      0.0771
+      0.077
      ],
      [
       "4-0",
-      0.0728
+      0.0727
      ]
     ],
     "cuotas_justas": [
      1.03,
-     47.27,
-     108.2
+     47.25,
+     108.05
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 97%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -270,9 +270,9 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.223,
-     "defensa": -0.451,
-     "neto": -0.675,
+     "ataque": -0.222,
+     "defensa": -0.452,
+     "neto": -0.674,
      "peso": 2.3,
      "fiable": false
     },
@@ -307,11 +307,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +1.06 vs -0.68): ataca ~108% más que el promedio, encaja ~28% menos. Paris Saint-Germain FC juega en casa (~+32% de ventaja, ya contada). Goles esperados: 5.63 – 0.75; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-1E-0P vs 0G-0E-5P). El modelo tiene pocos datos de ŠK Slovan Bratislava: tomalo con pinzas.",
+    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +1.06 vs -0.67): ataca ~108% más que el promedio, encaja ~28% menos. Paris Saint-Germain FC juega en casa (~+32% de ventaja, ya contada). Goles esperados: 5.63 – 0.75; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-1E-0P vs 0G-0E-5P). El modelo tiene pocos datos de ŠK Slovan Bratislava: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.97,
-     "por_que": "Paris Saint-Germain FC es favorito en casa: marca más (5.63 vs 0.75) y es más fuerte de fondo (neto +1.06 vs -0.68). Probabilidad: 97%.",
+     "por_que": "Paris Saint-Germain FC es favorito en casa: marca más (5.63 vs 0.75) y es más fuerte de fondo (neto +1.06 vs -0.67). Probabilidad: 97%.",
      "alternativa": {
       "mercado": "1X",
       "prob": 0.991
@@ -345,7 +345,7 @@
      ],
      [
       "0-1",
-      0.1357
+      0.1358
      ],
      [
       "0-3",
@@ -364,7 +364,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.245,
-     "defensa": -0.053,
+     "defensa": -0.052,
      "neto": -0.298,
      "peso": 5.8,
      "fiable": false
@@ -430,7 +430,7 @@
    "visitante": "Galatasaray SK",
    "prediccion": {
     "prob_1": 0.623,
-    "prob_X": 0.2,
+    "prob_X": 0.201,
     "prob_2": 0.176,
     "goles_esperados": [
      2.029,
@@ -471,7 +471,7 @@
     "fuerza_visitante": {
      "ataque": 0.016,
      "defensa": -0.008,
-     "neto": 0.007,
+     "neto": 0.008,
      "peso": 8.3,
      "fiable": true
     },
