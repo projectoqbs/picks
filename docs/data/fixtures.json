@@ -1,96 +1,6 @@
 {
- "actualizado": "2026-09-05T16:26:25+00:00",
+ "actualizado": "2026-09-06T09:59:40+00:00",
  "fixtures": [
-  {
-   "id": 559695,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-09-05T15:15:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 3,
-   "local": "Racing Club de Lens",
-   "visitante": "FC Lorient"
-  },
-  {
-   "id": 558614,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-09-05T16:00:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 3,
-   "local": "FC Internazionale Milano",
-   "visitante": "SSC Napoli"
-  },
-  {
-   "id": 560569,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-09-05T16:30:00Z",
-   "estado": "TIMED",
-   "jornada": 3,
-   "local": "Hull City AFC",
-   "visitante": "Aston Villa FC"
-  },
-  {
-   "id": 564660,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-09-05T16:30:00Z",
-   "estado": "TIMED",
-   "jornada": 4,
-   "local": "Rayo Vallecano de Madrid",
-   "visitante": "Real Racing Club de Santander"
-  },
-  {
-   "id": 565789,
-   "competicion_codigo": "BL1",
-   "competicion": "Bundesliga",
-   "fecha_utc": "2026-09-05T16:30:00Z",
-   "estado": "TIMED",
-   "jornada": 2,
-   "local": "FC Schalke 04",
-   "visitante": "FC Bayern München"
-  },
-  {
-   "id": 558611,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-09-05T18:45:00Z",
-   "estado": "TIMED",
-   "jornada": 3,
-   "local": "AS Roma",
-   "visitante": "Atalanta BC"
-  },
-  {
-   "id": 559693,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-09-05T18:45:00Z",
-   "estado": "TIMED",
-   "jornada": 3,
-   "local": "Le Havre AC",
-   "visitante": "Stade Brestois 29"
-  },
-  {
-   "id": 559701,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-09-05T18:45:00Z",
-   "estado": "TIMED",
-   "jornada": 3,
-   "local": "OGC Nice",
-   "visitante": "Le Mans FC"
-  },
-  {
-   "id": 564662,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-09-05T19:00:00Z",
-   "estado": "TIMED",
-   "jornada": 4,
-   "local": "Villarreal CF",
-   "visitante": "RC Deportivo La Coruña"
-  },
   {
    "id": 560567,
    "competicion_codigo": "PL",
@@ -970,6 +880,46 @@
    "jornada": 6,
    "local": "Elche CF",
    "visitante": "Real Madrid CF"
+  },
+  {
+   "id": 564679,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-09-16T17:00:00Z",
+   "estado": "TIMED",
+   "jornada": 6,
+   "local": "RC Deportivo La Coruña",
+   "visitante": "Sevilla FC"
+  },
+  {
+   "id": 564684,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-09-16T17:00:00Z",
+   "estado": "TIMED",
+   "jornada": 6,
+   "local": "Club Atlético de Madrid",
+   "visitante": "CA Osasuna"
+  },
+  {
+   "id": 564685,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-09-16T19:30:00Z",
+   "estado": "TIMED",
+   "jornada": 6,
+   "local": "Levante UD",
+   "visitante": "Athletic Club"
+  },
+  {
+   "id": 564687,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-09-16T19:30:00Z",
+   "estado": "TIMED",
+   "jornada": 6,
+   "local": "FC Barcelona",
+   "visitante": "Real Racing Club de Santander"
   }
  ]
 }

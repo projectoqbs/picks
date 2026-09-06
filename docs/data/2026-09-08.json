@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-08",
- "actualizado": "2026-09-05T16:26:29+00:00",
+ "actualizado": "2026-09-06T09:59:43+00:00",
  "partidos": [
   {
    "id": 575323,
@@ -47,14 +47,14 @@
     "fuerza_local": {
      "ataque": 0.154,
      "defensa": -0.104,
-     "neto": 0.051,
+     "neto": 0.05,
      "peso": 9.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.227,
      "defensa": 0.35,
-     "neto": 0.578,
+     "neto": 0.577,
      "peso": 3.8,
      "fiable": false
     },
@@ -172,14 +172,14 @@
      4.95,
      4.3
     ],
-    "resumen": "Gana Real Madrid CF (claro favorito, 57%). se esperan goles (+2.5). ambos marcan.",
+    "resumen": "Gana Real Madrid CF (claro favorito, 56%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
      "ataque": 0.521,
      "defensa": 0.127,
-     "neto": 0.648,
+     "neto": 0.647,
      "peso": 15.6,
      "fiable": true
     },
@@ -247,7 +247,7 @@
     "prob_X": 0.21,
     "prob_2": 0.296,
     "goles_esperados": [
-     1.992,
+     1.991,
      1.504
     ],
     "prob_over_2_5": 0.678,
@@ -348,7 +348,7 @@
     "prob_2": 0.055,
     "goles_esperados": [
      3.071,
-     0.684
+     0.685
     ],
     "prob_over_2_5": 0.724,
     "prob_btts": 0.471,
@@ -368,8 +368,8 @@
     ],
     "cuotas_justas": [
      1.19,
-     9.86,
-     18.28
+     9.85,
+     18.26
     ],
     "resumen": "Gana Borussia Dortmund (claro favorito, 84%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -380,11 +380,11 @@
      "ataque": 0.28,
      "defensa": 0.113,
      "neto": 0.393,
-     "peso": 12.7,
+     "peso": 12.6,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.533,
+     "ataque": -0.532,
      "defensa": -0.296,
      "neto": -0.829,
      "peso": 4.6,
@@ -429,11 +429,11 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.39 vs -0.83): ataca ~32% más que el promedio, encaja ~11% menos. Borussia Dortmund juega en casa (~+32% de ventaja, ya contada). Goles esperados: 3.07 – 0.68; el modelo ve marcando más a Borussia Dortmund. Y la forma reciente lo confirma: Borussia Dortmund llega mejor (1G-1E-3P vs 0G-0E-5P). El modelo tiene pocos datos de Villarreal CF: tomalo con pinzas.",
+    "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.39 vs -0.83): ataca ~32% más que el promedio, encaja ~11% menos. Borussia Dortmund juega en casa (~+32% de ventaja, ya contada). Goles esperados: 3.07 – 0.69; el modelo ve marcando más a Borussia Dortmund. Y la forma reciente lo confirma: Borussia Dortmund llega mejor (1G-1E-3P vs 0G-0E-5P). El modelo tiene pocos datos de Villarreal CF: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.844,
-     "por_que": "Borussia Dortmund es favorito en casa: marca más (3.07 vs 0.68) y es más fuerte de fondo (neto +0.39 vs -0.83). Probabilidad: 84%.",
+     "por_que": "Borussia Dortmund es favorito en casa: marca más (3.07 vs 0.69) y es más fuerte de fondo (neto +0.39 vs -0.83). Probabilidad: 84%.",
      "alternativa": {
       "mercado": "1X",
       "prob": 0.945

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-10",
- "actualizado": "2026-09-05T16:26:29+00:00",
+ "actualizado": "2026-09-06T09:59:43+00:00",
  "partidos": [
   {
    "id": 575335,
@@ -48,7 +48,7 @@
     "cuotas_justas": [
      1.54,
      5.8,
-     5.61
+     5.6
     ],
     "resumen": "Gana PSV (claro favorito, 65%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -256,7 +256,7 @@
     "prob_X": 0.244,
     "prob_2": 0.471,
     "goles_esperados": [
-     1.136,
+     1.137,
      1.54
     ],
     "prob_over_2_5": 0.501,
@@ -268,7 +268,7 @@
      ],
      [
       "0-1",
-      0.1107
+      0.1106
      ],
      [
       "1-2",
@@ -288,7 +288,7 @@
     "fuerza_local": {
      "ataque": -0.403,
      "defensa": -0.232,
-     "neto": -0.635,
+     "neto": -0.634,
      "peso": 4.6,
      "fiable": false
     },
@@ -330,7 +330,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Racing Club de Lens es más fuerte de fondo (neto -0.05 vs -0.64): es más completo en general. SK Slavia Praha juega en casa (~+32% de ventaja, ya contada). Goles esperados: 1.14 – 1.54; el modelo ve marcando más a Racing Club de Lens. Y la forma reciente lo confirma: Racing Club de Lens llega mejor (2G-1E-2P vs 0G-1E-4P). El modelo tiene pocos datos de SK Slavia Praha: tomalo con pinzas.",
+    "explicacion": "Racing Club de Lens es más fuerte de fondo (neto -0.05 vs -0.63): es más completo en general. SK Slavia Praha juega en casa (~+32% de ventaja, ya contada). Goles esperados: 1.14 – 1.54; el modelo ve marcando más a Racing Club de Lens. Y la forma reciente lo confirma: Racing Club de Lens llega mejor (2G-1E-2P vs 0G-1E-4P). El modelo tiene pocos datos de SK Slavia Praha: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.715,
