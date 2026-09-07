@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-16",
- "actualizado": "2026-09-07T11:09:54+00:00",
+ "actualizado": "2026-09-07T18:32:25+00:00",
  "partidos": [
   {
    "id": 564679,
@@ -18,7 +18,7 @@
      2.138,
      1.078
     ],
-    "prob_over_2_5": 0.623,
+    "prob_over_2_5": 0.624,
     "prob_btts": 0.582,
     "marcadores": [
      [
@@ -27,7 +27,7 @@
      ],
      [
       "1-1",
-      0.0926
+      0.0925
      ],
      [
       "2-0",
@@ -53,7 +53,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.011,
-     "defensa": -0.061,
+     "defensa": -0.062,
      "neto": -0.05,
      "peso": 46.5,
      "fiable": true
@@ -110,19 +110,19 @@
    "local": "Club Atlético de Madrid",
    "visitante": "CA Osasuna",
    "prediccion": {
-    "prob_1": 0.629,
+    "prob_1": 0.63,
     "prob_X": 0.21,
     "prob_2": 0.16,
     "goles_esperados": [
-     1.982,
+     1.983,
      0.886
     ],
-    "prob_over_2_5": 0.546,
+    "prob_over_2_5": 0.547,
     "prob_btts": 0.507,
     "marcadores": [
      [
       "1-0",
-      0.1126
+      0.1125
      ],
      [
       "2-0",
@@ -136,17 +136,17 @@
     "cuotas_justas": [
      1.59,
      4.76,
-     6.23
+     6.24
     ],
     "resumen": "Gana Club Atlético de Madrid (claro favorito, 63%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.314,
+     "ataque": 0.315,
      "defensa": 0.206,
      "neto": 0.52,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -226,7 +226,7 @@
     "explicacion": "Club Atlético de Madrid es más fuerte de fondo (neto +0.52 vs +0.02): ataca ~37% más que el promedio, encaja ~19% menos. Club Atlético de Madrid juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.98 – 0.89; el modelo ve marcando más a Club Atlético de Madrid. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.629,
+     "prob": 0.63,
      "por_que": "Club Atlético de Madrid es favorito en casa: marca más (1.98 vs 0.89) y es más fuerte de fondo (neto +0.52 vs +0.02). Probabilidad: 63%.",
      "alternativa": {
       "mercado": "1X",
@@ -265,7 +265,7 @@
      ],
      [
       "0-1",
-      0.0942
+      0.0941
      ]
     ],
     "cuotas_justas": [
@@ -281,7 +281,7 @@
      "ataque": 0.046,
      "defensa": -0.085,
      "neto": -0.039,
-     "peso": 28.4,
+     "peso": 28.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -361,7 +361,7 @@
     "prob_2": 0.041,
     "goles_esperados": [
      4.239,
-     1.013
+     1.014
     ],
     "prob_over_2_5": 0.895,
     "prob_btts": 0.628,
@@ -376,7 +376,7 @@
      ],
      [
       "3-1",
-      0.0677
+      0.0676
      ]
     ],
     "cuotas_justas": [
@@ -399,7 +399,7 @@
     "fuerza_visitante": {
      "ataque": 0.251,
      "defensa": -0.322,
-     "neto": -0.07,
+     "neto": -0.071,
      "peso": 3.9,
      "fiable": false
     },

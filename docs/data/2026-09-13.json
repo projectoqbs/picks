@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-13",
- "actualizado": "2026-09-07T11:09:54+00:00",
+ "actualizado": "2026-09-07T18:32:25+00:00",
  "partidos": [
   {
    "id": 564672,
@@ -23,7 +23,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1814
+      0.1813
      ],
      [
       "2-0",
@@ -37,7 +37,7 @@
     "cuotas_justas": [
      1.61,
      4.05,
-     7.48
+     7.49
     ],
     "resumen": "Gana RC Celta de Vigo (claro favorito, 62%). pocos goles (-2.5).",
     "confianza": "baja"
@@ -48,7 +48,7 @@
      "ataque": 0.085,
      "defensa": 0.054,
      "neto": 0.139,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -95,7 +95,7 @@
      "por_que": "Doble oportunidad: cubre que RC Celta de Vigo no pierda. El escenario que queda afuera (gane Málaga CF) es el menos probable (13%), así que el mercado se cumple ~87% de las veces.",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
-      "prob": 0.826
+      "prob": 0.825
      },
      "confianza": "baja"
     }
@@ -146,7 +146,7 @@
      "ataque": -0.377,
      "defensa": -0.058,
      "neto": -0.435,
-     "peso": 44.6,
+     "peso": 44.5,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -336,11 +336,11 @@
    "local": "Coventry City FC",
    "visitante": "Brighton & Hove Albion FC",
    "prediccion": {
-    "prob_1": 0.212,
+    "prob_1": 0.213,
     "prob_X": 0.304,
     "prob_2": 0.483,
     "goles_esperados": [
-     0.822,
+     0.823,
      1.366
     ],
     "prob_over_2_5": 0.374,
@@ -360,7 +360,7 @@
      ]
     ],
     "cuotas_justas": [
-     4.71,
+     4.7,
      3.29,
      2.07
     ],
@@ -370,9 +370,9 @@
    "nota": "pocos datos: 'Coventry City FC' solo tiene 2.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.507,
+     "ataque": -0.506,
      "defensa": 0.047,
-     "neto": -0.46,
+     "neto": -0.459,
      "peso": 2.9,
      "fiable": false
     },
@@ -415,7 +415,7 @@
     "explicacion": "Brighton & Hove Albion FC es más fuerte de fondo (neto +0.22 vs -0.46): ataca ~18% más que el promedio. Coventry City FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 0.82 – 1.37; el modelo ve marcando más a Brighton & Hove Albion FC. Y la forma reciente lo confirma: Brighton & Hove Albion FC llega mejor (1G-1E-3P vs 0G-0E-3P). El modelo tiene pocos datos de Coventry City FC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.788,
+     "prob": 0.787,
      "por_que": "Doble oportunidad: cubre que Coventry City FC no gane. El escenario que queda afuera (gane Coventry City FC) es el menos probable (21%), así que el mercado se cumple ~79% de las veces.",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
@@ -441,7 +441,7 @@
      2.153,
      0.936
     ],
-    "prob_over_2_5": 0.597,
+    "prob_over_2_5": 0.596,
     "prob_btts": 0.544,
     "marcadores": [
      [
@@ -470,7 +470,7 @@
      "ataque": 0.236,
      "defensa": 0.133,
      "neto": 0.369,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -584,7 +584,7 @@
      "ataque": 0.046,
      "defensa": -0.085,
      "neto": -0.039,
-     "peso": 28.4,
+     "peso": 28.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -784,7 +784,7 @@
      ]
     ],
     "cuotas_justas": [
-     4.64,
+     4.65,
      6.67,
      1.58
     ],
@@ -801,7 +801,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.758,
+     "ataque": 0.759,
      "defensa": 0.338,
      "neto": 1.096,
      "peso": 40.0,
@@ -835,7 +835,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.10 vs +0.43): ataca ~113% más que el promedio, encaja ~29% menos. SV 07 Elversberg juega en casa (~+21% de ventaja, ya contada). Goles esperados: 2.23 – 3.59; el modelo ve marcando más a FC Bayern München. Pero ojo: en forma reciente SV 07 Elversberg llega mejor que FC Bayern München, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de SV 07 Elversberg: tomalo con pinzas.",
+    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.10 vs +0.43): ataca ~114% más que el promedio, encaja ~29% menos. SV 07 Elversberg juega en casa (~+21% de ventaja, ya contada). Goles esperados: 2.23 – 3.59; el modelo ve marcando más a FC Bayern München. Pero ojo: en forma reciente SV 07 Elversberg llega mejor que FC Bayern München, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de SV 07 Elversberg: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.93,
@@ -862,7 +862,7 @@
     "prob_2": 0.502,
     "goles_esperados": [
      1.233,
-     1.829
+     1.828
     ],
     "prob_over_2_5": 0.591,
     "prob_btts": 0.606,
@@ -893,7 +893,7 @@
      "ataque": 0.23,
      "defensa": 0.028,
      "neto": 0.257,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1028,14 +1028,14 @@
      "ataque": 0.265,
      "defensa": 0.273,
      "neto": 0.539,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.13,
      "defensa": 0.082,
      "neto": 0.212,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "forma_local": {
@@ -1126,7 +1126,7 @@
    "prediccion": {
     "prob_1": 0.323,
     "prob_X": 0.294,
-    "prob_2": 0.382,
+    "prob_2": 0.383,
     "goles_esperados": [
      1.019,
      1.136
@@ -1144,13 +1144,13 @@
      ],
      [
       "1-0",
-      0.118
+      0.1179
      ]
     ],
     "cuotas_justas": [
-     3.09,
+     3.1,
      3.4,
-     2.62
+     2.61
     ],
     "resumen": "Partido parejo. pocos goles (-2.5).",
     "confianza": "baja"
@@ -1353,7 +1353,7 @@
     "prob_2": 0.623,
     "goles_esperados": [
      1.136,
-     2.265
+     2.264
     ],
     "prob_over_2_5": 0.66,
     "prob_btts": 0.613,
@@ -1384,7 +1384,7 @@
      "ataque": 0.062,
      "defensa": -0.057,
      "neto": 0.005,
-     "peso": 40.8,
+     "peso": 40.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1461,7 +1461,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.87 vs +0.01): ataca ~68% más que el promedio, encaja ~30% menos. Stade Brestois 29 juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.14 – 2.27; el modelo ve marcando más a Paris Saint-Germain FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.87 vs +0.01): ataca ~68% más que el promedio, encaja ~30% menos. Stade Brestois 29 juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.14 – 2.26; el modelo ve marcando más a Paris Saint-Germain FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.825,
@@ -1519,14 +1519,14 @@
      "ataque": 0.075,
      "defensa": -0.01,
      "neto": 0.065,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.314,
+     "ataque": 0.315,
      "defensa": 0.206,
      "neto": 0.52,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "forma_local": {

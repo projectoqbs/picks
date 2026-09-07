@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-12",
- "actualizado": "2026-09-07T11:09:54+00:00",
+ "actualizado": "2026-09-07T18:32:25+00:00",
  "partidos": [
   {
    "id": 564670,
@@ -16,14 +16,14 @@
     "prob_2": 0.324,
     "goles_esperados": [
      1.803,
-     1.506
+     1.507
     ],
     "prob_over_2_5": 0.642,
     "prob_btts": 0.65,
     "marcadores": [
      [
       "1-1",
-      0.0994
+      0.0993
      ],
      [
       "2-1",
@@ -47,7 +47,7 @@
     "fuerza_local": {
      "ataque": 0.251,
      "defensa": -0.322,
-     "neto": -0.07,
+     "neto": -0.071,
      "peso": 3.9,
      "fiable": false
     },
@@ -221,15 +221,15 @@
    "local": "TSG 1899 Hoffenheim",
    "visitante": "VfB Stuttgart",
    "prediccion": {
-    "prob_1": 0.329,
+    "prob_1": 0.328,
     "prob_X": 0.219,
     "prob_2": 0.452,
     "goles_esperados": [
-     1.786,
-     2.104
+     1.785,
+     2.103
     ],
     "prob_over_2_5": 0.745,
-    "prob_btts": 0.737,
+    "prob_btts": 0.736,
     "marcadores": [
      [
       "1-1",
@@ -257,7 +257,7 @@
      "ataque": 0.187,
      "defensa": -0.102,
      "neto": 0.085,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -334,11 +334,11 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "VfB Stuttgart es más fuerte de fondo (neto +0.44 vs +0.09): ataca ~42% más que el promedio. TSG 1899 Hoffenheim juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.79 – 2.10; el modelo ve marcando más a VfB Stuttgart. Y la forma reciente lo confirma: VfB Stuttgart llega mejor (2G-2E-1P vs 1G-1E-3P).",
+    "explicacion": "VfB Stuttgart es más fuerte de fondo (neto +0.44 vs +0.09): ataca ~42% más que el promedio. TSG 1899 Hoffenheim juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.78 – 2.10; el modelo ve marcando más a VfB Stuttgart. Y la forma reciente lo confirma: VfB Stuttgart llega mejor (2G-2E-1P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.745,
-     "por_que": "Bastantes goles esperados (1.79 + 2.10 = 3.89); al menos una defensa floja. Probabilidad al over: 75%.",
+     "por_que": "Bastantes goles esperados (1.78 + 2.10 = 3.89); al menos una defensa floja. Probabilidad al over: 75%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.906
@@ -360,8 +360,8 @@
     "prob_X": 0.266,
     "prob_2": 0.124,
     "goles_esperados": [
-     1.561,
-     0.562
+     1.56,
+     0.561
     ],
     "prob_over_2_5": 0.356,
     "prob_btts": 0.347,
@@ -376,13 +376,13 @@
      ],
      [
       "0-0",
-      0.1275
+      0.1276
      ]
     ],
     "cuotas_justas": [
      1.64,
      3.76,
-     8.08
+     8.09
     ],
     "resumen": "Gana Borussia Dortmund (claro favorito, 61%). pocos goles (-2.5).",
     "confianza": "baja"
@@ -397,7 +397,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.566,
+     "ataque": -0.567,
      "defensa": 0.364,
      "neto": -0.203,
      "peso": 2.0,
@@ -438,7 +438,7 @@
      "por_que": "Doble oportunidad: cubre que Borussia Dortmund no pierda. El escenario que queda afuera (gane SC Paderborn 07) es el menos probable (12%), así que el mercado se cumple ~88% de las veces.",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
-      "prob": 0.834
+      "prob": 0.835
      },
      "confianza": "baja"
     }
@@ -624,13 +624,13 @@
      "ataque": -0.013,
      "defensa": 0.147,
      "neto": 0.134,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.197,
      "defensa": -0.091,
-     "neto": 0.106,
+     "neto": 0.105,
      "peso": 40.0,
      "fiable": true
     },
@@ -701,7 +701,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.13 vs +0.11). 1. FSV Mainz 05 juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.75 – 1.41; el modelo ve marcando más a 1. FSV Mainz 05. En forma reciente pinta algo mejor 1. FSV Mainz 05 (3G-1E-1P vs 0G-2E-3P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.13 vs +0.10). 1. FSV Mainz 05 juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.75 – 1.41; el modelo ve marcando más a 1. FSV Mainz 05. En forma reciente pinta algo mejor 1. FSV Mainz 05 (3G-1E-1P vs 0G-2E-3P en 5).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.631,
@@ -759,7 +759,7 @@
      "ataque": 0.04,
      "defensa": 0.008,
      "neto": 0.048,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -992,7 +992,7 @@
      ],
      [
       "2-0",
-      0.0914
+      0.0915
      ]
     ],
     "cuotas_justas": [
@@ -1008,7 +1008,7 @@
      "ataque": 0.37,
      "defensa": 0.112,
      "neto": 0.482,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1114,8 +1114,8 @@
      1.495,
      1.157
     ],
-    "prob_over_2_5": 0.495,
-    "prob_btts": 0.545,
+    "prob_over_2_5": 0.494,
+    "prob_btts": 0.544,
     "marcadores": [
      [
       "1-1",
@@ -1372,15 +1372,15 @@
     "prob_X": 0.338,
     "prob_2": 0.353,
     "goles_esperados": [
-     0.949,
+     0.95,
      1.032
     ],
-    "prob_over_2_5": 0.318,
+    "prob_over_2_5": 0.319,
     "prob_btts": 0.409,
     "marcadores": [
      [
       "0-0",
-      0.1519
+      0.1518
      ],
      [
       "1-1",
@@ -1394,25 +1394,25 @@
     "cuotas_justas": [
      3.23,
      2.96,
-     2.83
+     2.84
     ],
     "resumen": "Partido parejo. pocos goles (-2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Hull City AFC' solo tiene 3.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Hull City AFC' solo tiene 2.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.259,
      "defensa": 0.029,
      "neto": 0.288,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.13,
      "defensa": 0.672,
      "neto": 0.542,
-     "peso": 3.0,
+     "peso": 2.9,
      "fiable": false
     },
     "forma_local": {
@@ -1447,7 +1447,7 @@
     "explicacion": "Hull City AFC es más fuerte de fondo (neto +0.54 vs +0.29): encaja ~49% menos. Chelsea FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 0.95 – 1.03; el modelo ve marcando más a Hull City AFC. Y la forma reciente lo confirma: Hull City AFC llega mejor (2G-1E-0P vs 3G-0E-2P). El modelo tiene pocos datos de Hull City AFC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.682,
+     "prob": 0.681,
      "por_que": "Pocos goles esperados en total (0.95 + 1.03 = 1.98); la defensa de Hull City AFC aprieta. El modelo ve el partido cerrado (68% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
@@ -1486,7 +1486,7 @@
      ],
      [
       "2-0",
-      0.0904
+      0.0905
      ]
     ],
     "cuotas_justas": [
@@ -1507,7 +1507,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.07,
-     "defensa": 0.021,
+     "defensa": 0.022,
      "neto": -0.048,
      "peso": 40.5,
      "fiable": true
@@ -1630,14 +1630,14 @@
      "ataque": 0.226,
      "defensa": 0.029,
      "neto": 0.256,
-     "peso": 40.8,
+     "peso": 40.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.301,
      "defensa": 0.1,
      "neto": 0.401,
-     "peso": 40.7,
+     "peso": 40.6,
      "fiable": true
     },
     "forma_local": {
@@ -1765,14 +1765,14 @@
      "ataque": 0.062,
      "defensa": 0.172,
      "neto": 0.234,
-     "peso": 44.6,
+     "peso": 44.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.265,
-     "defensa": 0.2,
+     "defensa": 0.199,
      "neto": 0.465,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "forma_local": {
@@ -2021,7 +2021,7 @@
      "ataque": -0.109,
      "defensa": -0.041,
      "neto": -0.151,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "forma_local": {
@@ -2131,7 +2131,7 @@
     ],
     "cuotas_justas": [
      2.76,
-     3.37,
+     3.38,
      2.93
     ],
     "resumen": "Partido parejo.",
@@ -2142,14 +2142,14 @@
      "ataque": 0.038,
      "defensa": -0.084,
      "neto": -0.047,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.067,
      "defensa": 0.157,
      "neto": 0.09,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "forma_local": {
@@ -2643,7 +2643,7 @@
      ],
      [
       "0-0",
-      0.138
+      0.1379
      ]
     ],
     "cuotas_justas": [
@@ -2869,7 +2869,7 @@
     "prob_X": 0.177,
     "prob_2": 0.099,
     "goles_esperados": [
-     2.197,
+     2.196,
      0.667
     ],
     "prob_over_2_5": 0.546,
@@ -2901,7 +2901,7 @@
      "ataque": 0.512,
      "defensa": 0.387,
      "neto": 0.899,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -3019,7 +3019,7 @@
       0.1278
      ],
      [
-      "0-0",
+      "1-1",
       0.1272
      ]
     ],
@@ -3036,7 +3036,7 @@
      "ataque": -0.141,
      "defensa": 0.15,
      "neto": 0.01,
-     "peso": 27.1,
+     "peso": 27.0,
      "fiable": true
     },
     "fuerza_visitante": {

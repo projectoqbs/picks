@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-10",
- "actualizado": "2026-09-07T11:09:54+00:00",
+ "actualizado": "2026-09-07T18:32:25+00:00",
  "partidos": [
   {
    "id": 575335,
@@ -165,13 +165,13 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.614,
-     "defensa": 0.33,
+     "defensa": 0.329,
      "neto": 0.944,
      "peso": 15.5,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.294,
+     "ataque": 0.293,
      "defensa": -0.03,
      "neto": 0.263,
      "peso": 7.4,
@@ -257,7 +257,7 @@
     "prob_2": 0.471,
     "goles_esperados": [
      1.137,
-     1.54
+     1.541
     ],
     "prob_over_2_5": 0.501,
     "prob_btts": 0.529,
