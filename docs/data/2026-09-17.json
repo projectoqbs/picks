@@ -1,0 +1,240 @@
+{
+ "fecha": "2026-09-17",
+ "actualizado": "2026-09-07T11:09:54+00:00",
+ "partidos": [
+  {
+   "id": 564686,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-09-17T17:00:00Z",
+   "jornada": 6,
+   "local": "Real Betis Balompié",
+   "visitante": "Getafe CF",
+   "prediccion": {
+    "prob_1": 0.529,
+    "prob_X": 0.28,
+    "prob_2": 0.192,
+    "goles_esperados": [
+     1.37,
+     0.702
+    ],
+    "prob_over_2_5": 0.343,
+    "prob_btts": 0.377,
+    "marcadores": [
+     [
+      "1-0",
+      0.1723
+     ],
+     [
+      "0-0",
+      0.126
+     ],
+     [
+      "1-1",
+      0.1213
+     ]
+    ],
+    "cuotas_justas": [
+     1.89,
+     3.58,
+     5.22
+    ],
+    "resumen": "Gana Real Betis Balompié (ligero favorito, 53%). pocos goles (-2.5).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.193,
+     "defensa": 0.096,
+     "neto": 0.289,
+     "peso": 46.5,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.346,
+     "defensa": 0.269,
+     "neto": -0.077,
+     "peso": 45.5,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 4,
+     "e": 0,
+     "p": 1,
+     "gf": 7,
+     "gc": 6,
+     "racha": [
+      "G",
+      "G",
+      "G",
+      "P",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 0,
+     "p": 3,
+     "gf": 2,
+     "gc": 5,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "G",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-03-08",
+      "local": "Getafe CF",
+      "visitante": "Real Betis Balompié",
+      "goles_local": 2,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-12-21",
+      "local": "Real Betis Balompié",
+      "visitante": "Getafe CF",
+      "goles_local": 4,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-02-23",
+      "local": "Getafe CF",
+      "visitante": "Real Betis Balompié",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-09-18",
+      "local": "Real Betis Balompié",
+      "visitante": "Getafe CF",
+      "goles_local": 2,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-02-04",
+      "local": "Real Betis Balompié",
+      "visitante": "Getafe CF",
+      "goles_local": 1,
+      "goles_visitante": 1
+     }
+    ],
+    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.29 vs -0.08): ataca ~21% más que el promedio. Real Betis Balompié juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.37 – 0.70; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (4G-0E-1P vs 2G-0E-3P).",
+    "recomendacion": {
+     "mercado": "Menos de 2.5 goles",
+     "prob": 0.657,
+     "por_que": "Pocos goles esperados en total (1.37 + 0.70 = 2.07); la defensa de Getafe CF aprieta. El modelo ve el partido cerrado (66% al under).",
+     "alternativa": {
+      "mercado": "Menos de 3.5 goles",
+      "prob": 0.844
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 564683,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-09-17T19:30:00Z",
+   "jornada": 6,
+   "local": "Málaga CF",
+   "visitante": "Villarreal CF",
+   "prediccion": {
+    "prob_1": 0.188,
+    "prob_X": 0.249,
+    "prob_2": 0.563,
+    "goles_esperados": [
+     0.81,
+     1.608
+    ],
+    "prob_over_2_5": 0.435,
+    "prob_btts": 0.444,
+    "marcadores": [
+     [
+      "0-1",
+      0.1432
+     ],
+     [
+      "1-1",
+      0.1162
+     ],
+     [
+      "0-2",
+      0.1152
+     ]
+    ],
+    "cuotas_justas": [
+     5.32,
+     4.01,
+     1.78
+    ],
+    "resumen": "Gana Villarreal CF (claro favorito, 56%).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Málaga CF' solo tiene 3.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.577,
+     "defensa": 0.014,
+     "neto": -0.563,
+     "peso": 3.9,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": 0.4,
+     "defensa": 0.024,
+     "neto": 0.424,
+     "peso": 46.6,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 4,
+     "g": 0,
+     "e": 2,
+     "p": 2,
+     "gf": 1,
+     "gc": 7,
+     "racha": [
+      "P",
+      "E",
+      "P",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 11,
+     "gc": 9,
+     "racha": [
+      "G",
+      "E",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Villarreal CF es más fuerte de fondo (neto +0.42 vs -0.56): ataca ~49% más que el promedio. Málaga CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 0.81 – 1.61; el modelo ve marcando más a Villarreal CF. Y la forma reciente lo confirma: Villarreal CF llega mejor (1G-2E-2P vs 0G-2E-2P). El modelo tiene pocos datos de Málaga CF: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.812,
+     "por_que": "Doble oportunidad: cubre que Málaga CF no gane. El escenario que queda afuera (gane Málaga CF) es el menos probable (19%), así que el mercado se cumple ~81% de las veces.",
+     "alternativa": {
+      "mercado": "Menos de 2.5 goles",
+      "prob": 0.565
+     },
+     "confianza": "baja"
+    }
+   }
+  }
+ ]
+}

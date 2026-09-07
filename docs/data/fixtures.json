@@ -1,96 +1,6 @@
 {
- "actualizado": "2026-09-06T16:37:30+00:00",
+ "actualizado": "2026-09-07T11:09:50+00:00",
  "fixtures": [
-  {
-   "id": 559698,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-09-06T15:15:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 3,
-   "local": "Angers SCO",
-   "visitante": "Stade Rennais FC 1901"
-  },
-  {
-   "id": 560570,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-09-06T15:30:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 3,
-   "local": "Arsenal FC",
-   "visitante": "Chelsea FC"
-  },
-  {
-   "id": 565786,
-   "competicion_codigo": "BL1",
-   "competicion": "Bundesliga",
-   "fecha_utc": "2026-09-06T15:30:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 2,
-   "local": "Eintracht Frankfurt",
-   "visitante": "FC Augsburg"
-  },
-  {
-   "id": 558613,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-09-06T16:00:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 3,
-   "local": "Bologna FC 1909",
-   "visitante": "US Sassuolo Calcio"
-  },
-  {
-   "id": 564664,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-09-06T16:30:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 4,
-   "local": "Deportivo Alavés",
-   "visitante": "CA Osasuna"
-  },
-  {
-   "id": 564666,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-09-06T16:30:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 4,
-   "local": "Málaga CF",
-   "visitante": "Levante UD"
-  },
-  {
-   "id": 558618,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-09-06T18:45:00Z",
-   "estado": "TIMED",
-   "jornada": 3,
-   "local": "Juventus FC",
-   "visitante": "AC Milan"
-  },
-  {
-   "id": 559694,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-09-06T18:45:00Z",
-   "estado": "TIMED",
-   "jornada": 3,
-   "local": "Olympique de Marseille",
-   "visitante": "Paris FC"
-  },
-  {
-   "id": 564661,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-09-06T19:00:00Z",
-   "estado": "TIMED",
-   "jornada": 4,
-   "local": "RCD Espanyol de Barcelona",
-   "visitante": "Sevilla FC"
-  },
   {
    "id": 558610,
    "competicion_codigo": "SA",
@@ -860,6 +770,26 @@
    "jornada": 6,
    "local": "FC Barcelona",
    "visitante": "Real Racing Club de Santander"
+  },
+  {
+   "id": 564686,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-09-17T17:00:00Z",
+   "estado": "TIMED",
+   "jornada": 6,
+   "local": "Real Betis Balompié",
+   "visitante": "Getafe CF"
+  },
+  {
+   "id": 564683,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-09-17T19:30:00Z",
+   "estado": "TIMED",
+   "jornada": 6,
+   "local": "Málaga CF",
+   "visitante": "Villarreal CF"
   }
  ]
 }

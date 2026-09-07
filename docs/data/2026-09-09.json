@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-09",
- "actualizado": "2026-09-06T16:37:33+00:00",
+ "actualizado": "2026-09-07T11:09:54+00:00",
  "partidos": [
   {
    "id": 575329,
@@ -15,7 +15,7 @@
     "prob_X": 0.111,
     "prob_2": 0.103,
     "goles_esperados": [
-     3.68,
+     3.679,
      1.414
     ],
     "prob_over_2_5": 0.883,
@@ -23,7 +23,7 @@
     "marcadores": [
      [
       "3-1",
-      0.0722
+      0.0721
      ],
      [
       "4-1",
@@ -45,7 +45,7 @@
    "nota": "pocos datos: 'Feyenoord Rotterdam' solo tiene 4.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.567,
+     "ataque": 0.566,
      "defensa": 0.058,
      "neto": 0.624,
      "peso": 13.7,
@@ -127,7 +127,7 @@
     "prob_2": 0.247,
     "goles_esperados": [
      1.964,
-     1.259
+     1.258
     ],
     "prob_over_2_5": 0.625,
     "prob_btts": 0.612,
@@ -233,15 +233,15 @@
     "prob_X": 0.021,
     "prob_2": 0.009,
     "goles_esperados": [
-     5.635,
-     0.754
+     5.631,
+     0.753
     ],
     "prob_over_2_5": 0.952,
     "prob_btts": 0.527,
     "marcadores": [
      [
       "5-0",
-      0.082
+      0.0821
      ],
      [
       "6-0",
@@ -249,13 +249,13 @@
      ],
      [
       "4-0",
-      0.0727
+      0.0729
      ]
     ],
     "cuotas_justas": [
      1.03,
-     47.25,
-     108.05
+     47.19,
+     107.94
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 97%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -266,12 +266,12 @@
      "ataque": 0.731,
      "defensa": 0.328,
      "neto": 1.059,
-     "peso": 19.0,
+     "peso": 18.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.222,
-     "defensa": -0.452,
+     "ataque": -0.223,
+     "defensa": -0.451,
      "neto": -0.674,
      "peso": 2.3,
      "fiable": false
@@ -333,7 +333,7 @@
     "prob_X": 0.177,
     "prob_2": 0.718,
     "goles_esperados": [
-     0.652,
+     0.653,
      2.122
     ],
     "prob_over_2_5": 0.524,
@@ -341,15 +341,15 @@
     "marcadores": [
      [
       "0-2",
-      0.1405
+      0.1404
      ],
      [
       "0-1",
-      0.1358
+      0.1357
      ],
      [
       "0-3",
-      0.0994
+      0.0993
      ]
     ],
     "cuotas_justas": [
@@ -364,7 +364,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.245,
-     "defensa": -0.052,
+     "defensa": -0.053,
      "neto": -0.298,
      "peso": 5.8,
      "fiable": false
@@ -464,14 +464,14 @@
     "fuerza_local": {
      "ataque": 0.153,
      "defensa": 0.315,
-     "neto": 0.468,
+     "neto": 0.467,
      "peso": 10.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.016,
      "defensa": -0.008,
-     "neto": 0.008,
+     "neto": 0.007,
      "peso": 8.3,
      "fiable": true
     },
