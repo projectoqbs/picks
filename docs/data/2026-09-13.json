@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-13",
- "actualizado": "2026-09-08T10:21:37+00:00",
+ "actualizado": "2026-09-08T17:42:55+00:00",
  "partidos": [
   {
    "id": 564672,
@@ -11,7 +11,7 @@
    "local": "RC Celta de Vigo",
    "visitante": "Málaga CF",
    "prediccion": {
-    "prob_1": 0.62,
+    "prob_1": 0.619,
     "prob_X": 0.247,
     "prob_2": 0.133,
     "goles_esperados": [
@@ -48,7 +48,7 @@
      "ataque": 0.085,
      "defensa": 0.056,
      "neto": 0.141,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -146,7 +146,7 @@
      "ataque": -0.398,
      "defensa": -0.055,
      "neto": -0.453,
-     "peso": 45.5,
+     "peso": 45.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -245,7 +245,7 @@
      2.359,
      0.897
     ],
-    "prob_over_2_5": 0.632,
+    "prob_over_2_5": 0.631,
     "prob_btts": 0.54,
     "marcadores": [
      [
@@ -279,9 +279,9 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.013,
+     "ataque": 0.012,
      "defensa": -0.33,
-     "neto": -0.317,
+     "neto": -0.318,
      "peso": 2.9,
      "fiable": false
     },
@@ -568,7 +568,7 @@
      ],
      [
       "1-3",
-      0.0778
+      0.0777
      ]
     ],
     "cuotas_justas": [
@@ -591,7 +591,7 @@
      "ataque": 0.73,
      "defensa": 0.329,
      "neto": 1.059,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {
@@ -704,9 +704,9 @@
     },
     "fuerza_visitante": {
      "ataque": 0.212,
-     "defensa": 0.246,
+     "defensa": 0.247,
      "neto": 0.458,
-     "peso": 40.7,
+     "peso": 40.6,
      "fiable": true
     },
     "forma_local": {
@@ -762,17 +762,17 @@
    "prediccion": {
     "prob_1": 0.215,
     "prob_X": 0.15,
-    "prob_2": 0.634,
+    "prob_2": 0.635,
     "goles_esperados": [
-     2.234,
-     3.591
+     2.233,
+     3.59
     ],
     "prob_over_2_5": 0.93,
     "prob_btts": 0.87,
     "marcadores": [
      [
       "2-3",
-      0.0569
+      0.057
      ],
      [
       "2-4",
@@ -839,7 +839,7 @@
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.93,
-     "por_que": "Bastantes goles esperados (2.23 + 3.59 = 5.83); al menos una defensa floja. Probabilidad al over: 93%.",
+     "por_que": "Bastantes goles esperados (2.23 + 3.59 = 5.82); al menos una defensa floja. Probabilidad al over: 93%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.982
@@ -857,7 +857,7 @@
    "local": "Manchester United FC",
    "visitante": "Manchester City FC",
    "prediccion": {
-    "prob_1": 0.247,
+    "prob_1": 0.246,
     "prob_X": 0.251,
     "prob_2": 0.502,
     "goles_esperados": [
@@ -900,7 +900,7 @@
      "ataque": 0.441,
      "defensa": 0.381,
      "neto": 0.822,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "forma_local": {
@@ -1266,7 +1266,7 @@
      "ataque": 0.256,
      "defensa": 0.362,
      "neto": 0.618,
-     "peso": 45.5,
+     "peso": 45.4,
      "fiable": true
     },
     "forma_local": {
@@ -1353,7 +1353,7 @@
     "prob_2": 0.623,
     "goles_esperados": [
      1.136,
-     2.265
+     2.264
     ],
     "prob_over_2_5": 0.66,
     "prob_btts": 0.613,
@@ -1461,7 +1461,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.87 vs +0.01): ataca ~68% más que el promedio, encaja ~30% menos. Stade Brestois 29 juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.14 – 2.27; el modelo ve marcando más a Paris Saint-Germain FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.87 vs +0.01): ataca ~68% más que el promedio, encaja ~30% menos. Stade Brestois 29 juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.14 – 2.26; el modelo ve marcando más a Paris Saint-Germain FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.825,
@@ -1524,7 +1524,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.313,
-     "defensa": 0.208,
+     "defensa": 0.207,
      "neto": 0.521,
      "peso": 46.4,
      "fiable": true

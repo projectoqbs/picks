@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-11",
- "actualizado": "2026-09-08T10:21:37+00:00",
+ "actualizado": "2026-09-08T17:42:55+00:00",
  "partidos": [
   {
    "id": 565797,
@@ -13,7 +13,7 @@
    "prediccion": {
     "prob_1": 0.409,
     "prob_X": 0.326,
-    "prob_2": 0.264,
+    "prob_2": 0.265,
     "goles_esperados": [
      1.126,
      0.85
@@ -23,7 +23,7 @@
     "marcadores": [
      [
       "0-0",
-      0.1485
+      0.1484
      ],
      [
       "1-0",
@@ -93,7 +93,7 @@
      "por_que": "Pocos goles esperados en total (1.13 + 0.85 = 1.98); la defensa de FC Schalke 04 aprieta. El modelo ve el partido cerrado (68% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
-      "prob": 0.862
+      "prob": 0.861
      },
      "confianza": "baja"
     }
@@ -151,7 +151,7 @@
      "ataque": 0.068,
      "defensa": -0.023,
      "neto": 0.045,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "forma_local": {
@@ -400,7 +400,7 @@
      "ataque": -0.076,
      "defensa": -0.003,
      "neto": -0.079,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "forma_local": {

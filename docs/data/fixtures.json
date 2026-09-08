@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-09-08T10:21:33+00:00",
+ "actualizado": "2026-09-08T17:42:51+00:00",
  "fixtures": [
   {
    "id": 575323,
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-09-08T16:45:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 1,
    "local": "Club Brugge KV",
    "visitante": "Aston Villa FC"
@@ -16,7 +16,7 @@
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-09-08T16:45:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 1,
    "local": "PAE AEK",
    "visitante": "LASK Linz"
@@ -26,7 +26,7 @@
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-09-08T19:00:00Z",
-   "estado": "TIMED",
+   "estado": "SCHEDULED",
    "jornada": 1,
    "local": "Real Madrid CF",
    "visitante": "FC Internazionale Milano"
@@ -36,7 +36,7 @@
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-09-08T19:00:00Z",
-   "estado": "TIMED",
+   "estado": "SCHEDULED",
    "jornada": 1,
    "local": "FC Porto",
    "visitante": "Manchester City FC"
@@ -46,7 +46,7 @@
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-09-08T19:00:00Z",
-   "estado": "TIMED",
+   "estado": "SCHEDULED",
    "jornada": 1,
    "local": "Borussia Dortmund",
    "visitante": "Villarreal CF"
@@ -56,7 +56,7 @@
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-09-08T19:00:00Z",
-   "estado": "TIMED",
+   "estado": "SCHEDULED",
    "jornada": 1,
    "local": "Lille OSC",
    "visitante": "Real Betis Balompié"
