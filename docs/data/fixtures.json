@@ -1,46 +1,6 @@
 {
- "actualizado": "2026-09-07T18:32:21+00:00",
+ "actualizado": "2026-09-08T10:21:33+00:00",
  "fixtures": [
-  {
-   "id": 558610,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-09-07T16:30:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 3,
-   "local": "Cagliari Calcio",
-   "visitante": "US Lecce"
-  },
-  {
-   "id": 564665,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-09-07T17:00:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 4,
-   "local": "Getafe CF",
-   "visitante": "RC Celta de Vigo"
-  },
-  {
-   "id": 558617,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-09-07T18:45:00Z",
-   "estado": "TIMED",
-   "jornada": 3,
-   "local": "Udinese Calcio",
-   "visitante": "SS Lazio"
-  },
-  {
-   "id": 564658,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-09-07T19:30:00Z",
-   "estado": "TIMED",
-   "jornada": 4,
-   "local": "Elche CF",
-   "visitante": "Real Sociedad de Fútbol"
-  },
   {
    "id": 575323,
    "competicion_codigo": "CL",
@@ -790,6 +750,56 @@
    "jornada": 6,
    "local": "Málaga CF",
    "visitante": "Villarreal CF"
+  },
+  {
+   "id": 565804,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-09-18T18:30:00Z",
+   "estado": "TIMED",
+   "jornada": 4,
+   "local": "FC Bayern München",
+   "visitante": "1. FC Union Berlin"
+  },
+  {
+   "id": 558596,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-09-18T18:45:00Z",
+   "estado": "TIMED",
+   "jornada": 5,
+   "local": "AC Monza",
+   "visitante": "US Sassuolo Calcio"
+  },
+  {
+   "id": 559682,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-09-18T18:45:00Z",
+   "estado": "TIMED",
+   "jornada": 5,
+   "local": "AS Monaco FC",
+   "visitante": "Racing Club de Lens"
+  },
+  {
+   "id": 560591,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-09-18T19:00:00Z",
+   "estado": "TIMED",
+   "jornada": 5,
+   "local": "Brentford FC",
+   "visitante": "Chelsea FC"
+  },
+  {
+   "id": 564692,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-09-18T19:00:00Z",
+   "estado": "TIMED",
+   "jornada": 7,
+   "local": "RCD Espanyol de Barcelona",
+   "visitante": "Elche CF"
   }
  ]
 }

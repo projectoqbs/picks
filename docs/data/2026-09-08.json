@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-08",
- "actualizado": "2026-09-07T18:32:25+00:00",
+ "actualizado": "2026-09-08T10:21:37+00:00",
  "partidos": [
   {
    "id": 575323,
@@ -54,7 +54,7 @@
     "fuerza_visitante": {
      "ataque": 0.227,
      "defensa": 0.35,
-     "neto": 0.577,
+     "neto": 0.576,
      "peso": 3.8,
      "fiable": false
     },
@@ -247,7 +247,7 @@
     "prob_X": 0.21,
     "prob_2": 0.296,
     "goles_esperados": [
-     1.991,
+     1.99,
      1.504
     ],
     "prob_over_2_5": 0.678,
@@ -325,7 +325,7 @@
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.678,
-     "por_que": "Bastantes goles esperados (1.99 + 1.50 = 3.50). Probabilidad al over: 68%.",
+     "por_que": "Bastantes goles esperados (1.99 + 1.50 = 3.49). Probabilidad al over: 68%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.86
@@ -355,7 +355,7 @@
     "marcadores": [
      [
       "3-0",
-      0.1129
+      0.1128
      ],
      [
       "2-0",
@@ -369,7 +369,7 @@
     "cuotas_justas": [
      1.19,
      9.84,
-     18.24
+     18.22
     ],
     "resumen": "Gana Borussia Dortmund (claro favorito, 84%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -377,7 +377,7 @@
    "nota": "pocos datos: 'Villarreal CF' solo tiene 4.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.28,
+     "ataque": 0.279,
      "defensa": 0.113,
      "neto": 0.392,
      "peso": 12.6,

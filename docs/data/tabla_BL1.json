@@ -4,7 +4,7 @@
  "equipos": [
   {
    "equipo": "FC Bayern München",
-   "ataque": 0.759,
+   "ataque": 0.758,
    "defensa": 0.338,
    "neto": 1.096,
    "peso": 40.0,
@@ -23,7 +23,7 @@
    "ataque": 0.355,
    "defensa": 0.243,
    "neto": 0.598,
-   "peso": 40.1,
+   "peso": 40.0,
    "fiable": true
   },
   {
@@ -116,9 +116,9 @@
   },
   {
    "equipo": "SC Paderborn 07",
-   "ataque": -0.567,
+   "ataque": -0.566,
    "defensa": 0.364,
-   "neto": -0.203,
+   "neto": -0.202,
    "peso": 2.0,
    "fiable": false
   },
@@ -143,22 +143,22 @@
    "ataque": -0.224,
    "defensa": -0.053,
    "neto": -0.277,
-   "peso": 23.8,
+   "peso": 23.7,
    "fiable": true
   },
   {
    "equipo": "Holstein Kiel",
-   "ataque": 0.007,
-   "defensa": -0.31,
+   "ataque": 0.006,
+   "defensa": -0.309,
    "neto": -0.303,
    "peso": 10.9,
    "fiable": true
   },
   {
    "equipo": "FC Schalke 04",
-   "ataque": -0.498,
+   "ataque": -0.497,
    "defensa": 0.19,
-   "neto": -0.308,
+   "neto": -0.307,
    "peso": 2.0,
    "fiable": false
   },
@@ -172,7 +172,7 @@
   },
   {
    "equipo": "FC St. Pauli 1910",
-   "ataque": -0.511,
+   "ataque": -0.512,
    "defensa": 0.05,
    "neto": -0.462,
    "peso": 32.6,
@@ -181,7 +181,7 @@
   {
    "equipo": "VfL Bochum 1848",
    "ataque": -0.293,
-   "defensa": -0.2,
+   "defensa": -0.201,
    "neto": -0.493,
    "peso": 16.0,
    "fiable": true

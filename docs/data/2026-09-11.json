@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-11",
- "actualizado": "2026-09-07T18:32:25+00:00",
+ "actualizado": "2026-09-08T10:21:37+00:00",
  "partidos": [
   {
    "id": 565797,
@@ -16,7 +16,7 @@
     "prob_2": 0.264,
     "goles_esperados": [
      1.126,
-     0.849
+     0.85
     ],
     "prob_over_2_5": 0.317,
     "prob_btts": 0.397,
@@ -27,7 +27,7 @@
      ],
      [
       "1-0",
-      0.1464
+      0.1463
      ],
      [
       "1-1",
@@ -36,7 +36,7 @@
     ],
     "cuotas_justas": [
      2.44,
-     3.06,
+     3.07,
      3.78
     ],
     "resumen": "Partido parejo. pocos goles (-2.5).",
@@ -52,9 +52,9 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.498,
+     "ataque": -0.497,
      "defensa": 0.19,
-     "neto": -0.308,
+     "neto": -0.307,
      "peso": 2.0,
      "fiable": false
     },
@@ -90,7 +90,7 @@
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.683,
-     "por_que": "Pocos goles esperados en total (1.13 + 0.85 = 1.97); la defensa de FC Schalke 04 aprieta. El modelo ve el partido cerrado (68% al under).",
+     "por_que": "Pocos goles esperados en total (1.13 + 0.85 = 1.98); la defensa de FC Schalke 04 aprieta. El modelo ve el partido cerrado (68% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
       "prob": 0.862
@@ -109,22 +109,22 @@
    "visitante": "ACF Fiorentina",
    "prediccion": {
     "prob_1": 0.242,
-    "prob_X": 0.265,
-    "prob_2": 0.493,
+    "prob_X": 0.264,
+    "prob_2": 0.494,
     "goles_esperados": [
      0.964,
-     1.493
+     1.494
     ],
-    "prob_over_2_5": 0.445,
-    "prob_btts": 0.482,
+    "prob_over_2_5": 0.446,
+    "prob_btts": 0.481,
     "marcadores": [
      [
       "0-1",
-      0.1259
+      0.1263
      ],
      [
       "1-1",
-      0.1254
+      0.1248
      ],
      [
       "0-2",
@@ -133,7 +133,7 @@
     ],
     "cuotas_justas": [
      4.13,
-     3.77,
+     3.79,
      2.03
     ],
     "resumen": "Gana ACF Fiorentina (ligero favorito, 49%).",
@@ -141,8 +141,8 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.282,
-     "defensa": -0.203,
+     "ataque": -0.281,
+     "defensa": -0.204,
      "neto": -0.485,
      "peso": 15.1,
      "fiable": true
@@ -207,7 +207,7 @@
      "por_que": "Doble oportunidad: cubre que Venezia FC no gane. El escenario que queda afuera (gane Venezia FC) es el menos probable (24%), así que el mercado se cumple ~76% de las veces.",
      "alternativa": {
       "mercado": "Menos de 2.5 goles",
-      "prob": 0.555
+      "prob": 0.554
      },
      "confianza": "alta"
     }
@@ -258,14 +258,14 @@
      "ataque": 0.241,
      "defensa": 0.006,
      "neto": 0.247,
-     "peso": 40.7,
+     "peso": 40.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.319,
      "defensa": 0.075,
      "neto": 0.394,
-     "peso": 40.7,
+     "peso": 40.6,
      "fiable": true
     },
     "forma_local": {
@@ -357,32 +357,32 @@
    "local": "Sevilla FC",
    "visitante": "Valencia CF",
    "prediccion": {
-    "prob_1": 0.469,
-    "prob_X": 0.258,
+    "prob_1": 0.468,
+    "prob_X": 0.26,
     "prob_2": 0.272,
     "goles_esperados": [
-     1.501,
+     1.497,
      1.078
     ],
-    "prob_over_2_5": 0.476,
+    "prob_over_2_5": 0.475,
     "prob_btts": 0.513,
     "marcadores": [
      [
       "1-1",
-      0.1228
+      0.1235
      ],
      [
       "1-0",
-      0.1137
+      0.1134
      ],
      [
       "2-1",
-      0.0921
+      0.092
      ]
     ],
     "cuotas_justas": [
-     2.13,
-     3.87,
+     2.14,
+     3.85,
      3.67
     ],
     "resumen": "Gana Sevilla FC (ligero favorito, 47%).",
@@ -390,16 +390,16 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.011,
-     "defensa": -0.062,
+     "ataque": 0.01,
+     "defensa": -0.06,
      "neto": -0.05,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.075,
-     "defensa": -0.004,
-     "neto": -0.08,
+     "ataque": -0.076,
+     "defensa": -0.003,
+     "neto": -0.079,
      "peso": 46.5,
      "fiable": true
     },
