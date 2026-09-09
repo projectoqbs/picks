@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-16",
- "actualizado": "2026-09-08T17:42:55+00:00",
+ "actualizado": "2026-09-09T10:29:59+00:00",
  "partidos": [
   {
    "id": 564679,
@@ -11,11 +11,11 @@
    "local": "RC Deportivo La Coruña",
    "visitante": "Sevilla FC",
    "prediccion": {
-    "prob_1": 0.612,
+    "prob_1": 0.611,
     "prob_X": 0.204,
     "prob_2": 0.184,
     "goles_esperados": [
-     2.119,
+     2.117,
      1.078
     ],
     "prob_over_2_5": 0.619,
@@ -27,7 +27,7 @@
      ],
      [
       "1-1",
-      0.0939
+      0.094
      ],
      [
       "2-0",
@@ -35,9 +35,9 @@
      ]
     ],
     "cuotas_justas": [
-     1.63,
-     4.9,
-     5.43
+     1.64,
+     4.89,
+     5.42
     ],
     "resumen": "Gana RC Deportivo La Coruña (claro favorito, 61%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -45,9 +45,9 @@
    "nota": "pocos datos: 'RC Deportivo La Coruña' solo tiene 3.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.3,
+     "ataque": 0.299,
      "defensa": 0.027,
-     "neto": 0.327,
+     "neto": 0.326,
      "peso": 3.9,
      "fiable": false
     },
@@ -55,7 +55,7 @@
      "ataque": 0.01,
      "defensa": -0.06,
      "neto": -0.05,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {
@@ -91,7 +91,7 @@
     "explicacion": "RC Deportivo La Coruña es más fuerte de fondo (neto +0.33 vs -0.05): ataca ~35% más que el promedio. RC Deportivo La Coruña juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.12 – 1.08; el modelo ve marcando más a RC Deportivo La Coruña. Y la forma reciente lo confirma: RC Deportivo La Coruña llega mejor (2G-2E-0P vs 2G-1E-2P). El modelo tiene pocos datos de RC Deportivo La Coruña: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.612,
+     "prob": 0.611,
      "por_que": "RC Deportivo La Coruña es favorito en casa: marca más (2.12 vs 1.08) y es más fuerte de fondo (neto +0.33 vs -0.05). Probabilidad: 61%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -126,7 +126,7 @@
      ],
      [
       "2-0",
-      0.1117
+      0.1116
      ],
      [
       "1-1",
@@ -146,14 +146,14 @@
      "ataque": 0.313,
      "defensa": 0.207,
      "neto": 0.521,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.006,
      "defensa": 0.022,
      "neto": 0.016,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {
@@ -287,8 +287,8 @@
     "fuerza_visitante": {
      "ataque": 0.062,
      "defensa": 0.152,
-     "neto": 0.214,
-     "peso": 46.3,
+     "neto": 0.213,
+     "peso": 46.2,
      "fiable": true
     },
     "forma_local": {
@@ -360,29 +360,29 @@
     "prob_X": 0.068,
     "prob_2": 0.041,
     "goles_esperados": [
-     4.224,
-     1.006
+     4.22,
+     1.005
     ],
     "prob_over_2_5": 0.893,
     "prob_btts": 0.625,
     "marcadores": [
      [
       "4-1",
-      0.0717
+      0.0718
      ],
      [
       "4-0",
-      0.0713
+      0.0714
      ],
      [
       "3-1",
-      0.0679
+      0.068
      ]
     ],
     "cuotas_justas": [
      1.12,
-     14.75,
-     24.48
+     14.73,
+     24.45
     ],
     "resumen": "Gana FC Barcelona (claro favorito, 89%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -398,7 +398,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.243,
-     "defensa": -0.32,
+     "defensa": -0.319,
      "neto": -0.077,
      "peso": 3.9,
      "fiable": false
@@ -433,11 +433,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.06 vs -0.08): ataca ~108% más que el promedio, encaja ~28% menos. FC Barcelona juega en casa (~+35% de ventaja, ya contada). Goles esperados: 4.22 – 1.01; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (4G-0E-1P vs 1G-1E-2P). El modelo tiene pocos datos de Real Racing Club de Santander: tomalo con pinzas.",
+    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.06 vs -0.08): ataca ~108% más que el promedio, encaja ~28% menos. FC Barcelona juega en casa (~+35% de ventaja, ya contada). Goles esperados: 4.22 – 1.00; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (4G-0E-1P vs 1G-1E-2P). El modelo tiene pocos datos de Real Racing Club de Santander: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.891,
-     "por_que": "FC Barcelona es favorito en casa: marca más (4.22 vs 1.01) y es más fuerte de fondo (neto +1.06 vs -0.08). Probabilidad: 89%.",
+     "por_que": "FC Barcelona es favorito en casa: marca más (4.22 vs 1.00) y es más fuerte de fondo (neto +1.06 vs -0.08). Probabilidad: 89%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.967

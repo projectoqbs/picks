@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-15",
- "actualizado": "2026-09-08T17:42:55+00:00",
+ "actualizado": "2026-09-09T10:29:59+00:00",
  "partidos": [
   {
    "id": 564678,
@@ -23,7 +23,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1423
+      0.1422
      ],
      [
       "1-1",
@@ -46,7 +46,7 @@
     "fuerza_local": {
      "ataque": -0.107,
      "defensa": 0.117,
-     "neto": 0.01,
+     "neto": 0.009,
      "peso": 46.4,
      "fiable": true
     },
@@ -54,7 +54,7 @@
      "ataque": -0.071,
      "defensa": 0.024,
      "neto": -0.047,
-     "peso": 40.4,
+     "peso": 40.3,
      "fiable": true
     },
     "forma_local": {
@@ -179,7 +179,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.076,
+     "ataque": -0.077,
      "defensa": -0.003,
      "neto": -0.079,
      "peso": 46.4,
@@ -279,7 +279,7 @@
     "prob_2": 0.613,
     "goles_esperados": [
      1.064,
-     2.108
+     2.107
     ],
     "prob_over_2_5": 0.614,
     "prob_btts": 0.576,
@@ -307,15 +307,15 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.061,
-     "defensa": -0.143,
+     "ataque": 0.06,
+     "defensa": -0.144,
      "neto": -0.083,
      "peso": 28.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.51,
-     "defensa": 0.39,
+     "defensa": 0.389,
      "neto": 0.9,
      "peso": 46.3,
      "fiable": true

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-12",
- "actualizado": "2026-09-08T17:42:55+00:00",
+ "actualizado": "2026-09-09T10:29:59+00:00",
  "partidos": [
   {
    "id": 564670,
@@ -15,15 +15,15 @@
     "prob_X": 0.229,
     "prob_2": 0.327,
     "goles_esperados": [
-     1.785,
-     1.506
+     1.784,
+     1.505
     ],
-    "prob_over_2_5": 0.639,
+    "prob_over_2_5": 0.638,
     "prob_btts": 0.648,
     "marcadores": [
      [
       "1-1",
-      0.1005
+      0.1007
      ],
      [
       "2-1",
@@ -46,7 +46,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.243,
-     "defensa": -0.32,
+     "defensa": -0.319,
      "neto": -0.077,
      "peso": 3.9,
      "fiable": false
@@ -88,14 +88,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Deportivo Alavés es más fuerte de fondo (neto +0.05 vs -0.08): es más completo en general. Real Racing Club de Santander juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.78 – 1.51; el modelo ve marcando más a Real Racing Club de Santander. Y la forma reciente lo confirma: Deportivo Alavés llega mejor (3G-1E-1P vs 1G-1E-2P). El modelo tiene pocos datos de Real Racing Club de Santander: tomalo con pinzas.",
+    "explicacion": "Deportivo Alavés es más fuerte de fondo (neto +0.05 vs -0.08): es más completo en general. Real Racing Club de Santander juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.78 – 1.50; el modelo ve marcando más a Real Racing Club de Santander. Y la forma reciente lo confirma: Deportivo Alavés llega mejor (3G-1E-1P vs 1G-1E-2P). El modelo tiene pocos datos de Real Racing Club de Santander: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.648,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.78 y 1.51. Probabilidad: 65%.",
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.78 y 1.50. Probabilidad: 65%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.841
+      "prob": 0.84
      },
      "confianza": "baja"
     }
@@ -257,14 +257,14 @@
      "ataque": 0.187,
      "defensa": -0.102,
      "neto": 0.085,
-     "peso": 40.0,
+     "peso": 39.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.35,
      "defensa": 0.086,
      "neto": 0.436,
-     "peso": 40.0,
+     "peso": 39.9,
      "fiable": true
     },
     "forma_local": {
@@ -357,18 +357,18 @@
    "visitante": "SC Paderborn 07",
    "prediccion": {
     "prob_1": 0.611,
-    "prob_X": 0.266,
+    "prob_X": 0.265,
     "prob_2": 0.124,
     "goles_esperados": [
-     1.561,
-     0.562
+     1.563,
+     0.563
     ],
     "prob_over_2_5": 0.357,
-    "prob_btts": 0.347,
+    "prob_btts": 0.348,
     "marcadores": [
      [
       "1-0",
-      0.1791
+      0.1788
      ],
      [
       "2-0",
@@ -376,7 +376,7 @@
      ],
      [
       "0-0",
-      0.1274
+      0.1271
      ]
     ],
     "cuotas_justas": [
@@ -397,8 +397,8 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.566,
-     "defensa": 0.363,
+     "ataque": -0.564,
+     "defensa": 0.362,
      "neto": -0.202,
      "peso": 2.0,
      "fiable": false
@@ -496,7 +496,7 @@
      "ataque": 0.355,
      "defensa": 0.243,
      "neto": 0.598,
-     "peso": 40.0,
+     "peso": 39.9,
      "fiable": true
     },
     "forma_local": {
@@ -588,7 +588,7 @@
    "local": "1. FSV Mainz 05",
    "visitante": "Eintracht Frankfurt",
    "prediccion": {
-    "prob_1": 0.449,
+    "prob_1": 0.448,
     "prob_X": 0.248,
     "prob_2": 0.303,
     "goles_esperados": [
@@ -624,14 +624,14 @@
      "ataque": -0.013,
      "defensa": 0.147,
      "neto": 0.134,
-     "peso": 40.0,
+     "peso": 39.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.197,
      "defensa": -0.091,
      "neto": 0.105,
-     "peso": 40.0,
+     "peso": 39.9,
      "fiable": true
     },
     "forma_local": {
@@ -759,7 +759,7 @@
      "ataque": 0.04,
      "defensa": 0.008,
      "neto": 0.048,
-     "peso": 40.0,
+     "peso": 39.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -977,7 +977,7 @@
     "prob_2": 0.184,
     "goles_esperados": [
      2.054,
-     1.085
+     1.084
     ],
     "prob_over_2_5": 0.607,
     "prob_btts": 0.587,
@@ -1008,14 +1008,14 @@
      "ataque": 0.37,
      "defensa": 0.112,
      "neto": 0.482,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.003,
      "defensa": 0.011,
      "neto": 0.014,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "forma_local": {
@@ -1119,7 +1119,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1347
+      0.1346
      ],
      [
       "1-0",
@@ -1143,7 +1143,7 @@
      "ataque": 0.142,
      "defensa": 0.064,
      "neto": 0.206,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1368,11 +1368,11 @@
    "local": "Chelsea FC",
    "visitante": "Hull City AFC",
    "prediccion": {
-    "prob_1": 0.309,
+    "prob_1": 0.31,
     "prob_X": 0.338,
     "prob_2": 0.353,
     "goles_esperados": [
-     0.95,
+     0.951,
      1.032
     ],
     "prob_over_2_5": 0.319,
@@ -1380,7 +1380,7 @@
     "marcadores": [
      [
       "0-0",
-      0.1518
+      0.1517
      ],
      [
       "1-1",
@@ -1405,13 +1405,13 @@
      "ataque": 0.259,
      "defensa": 0.029,
      "neto": 0.288,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.13,
-     "defensa": 0.672,
-     "neto": 0.542,
+     "defensa": 0.671,
+     "neto": 0.541,
      "peso": 2.9,
      "fiable": false
     },
@@ -1502,14 +1502,14 @@
      "ataque": -0.006,
      "defensa": 0.022,
      "neto": 0.016,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.071,
      "defensa": 0.024,
      "neto": -0.047,
-     "peso": 40.4,
+     "peso": 40.3,
      "fiable": true
     },
     "forma_local": {
@@ -1630,14 +1630,14 @@
      "ataque": 0.226,
      "defensa": 0.029,
      "neto": 0.256,
-     "peso": 40.7,
+     "peso": 40.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.301,
      "defensa": 0.1,
      "neto": 0.401,
-     "peso": 40.6,
+     "peso": 40.5,
      "fiable": true
     },
     "forma_local": {
@@ -1765,7 +1765,7 @@
      "ataque": 0.075,
      "defensa": 0.172,
      "neto": 0.247,
-     "peso": 45.5,
+     "peso": 45.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1898,16 +1898,16 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.063,
-     "defensa": -0.146,
+     "defensa": -0.145,
      "neto": -0.208,
-     "peso": 29.1,
+     "peso": 29.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.11,
      "defensa": -0.041,
      "neto": -0.151,
-     "peso": 40.0,
+     "peso": 39.9,
      "fiable": true
     },
     "forma_local": {
@@ -2027,13 +2027,13 @@
     "fuerza_local": {
      "ataque": 0.062,
      "defensa": 0.152,
-     "neto": 0.214,
-     "peso": 46.3,
+     "neto": 0.213,
+     "peso": 46.2,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.061,
-     "defensa": -0.143,
+     "ataque": 0.06,
+     "defensa": -0.144,
      "neto": -0.083,
      "peso": 28.2,
      "fiable": true
@@ -2142,14 +2142,14 @@
      "ataque": 0.038,
      "defensa": -0.084,
      "neto": -0.047,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.067,
      "defensa": 0.157,
      "neto": 0.09,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "forma_local": {
@@ -2274,7 +2274,7 @@
      "ataque": 0.309,
      "defensa": 0.261,
      "neto": 0.57,
-     "peso": 45.5,
+     "peso": 45.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2399,7 +2399,7 @@
     "cuotas_justas": [
      2.49,
      3.63,
-     3.09
+     3.1
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
@@ -2416,7 +2416,7 @@
      "ataque": -0.014,
      "defensa": 0.081,
      "neto": 0.067,
-     "peso": 39.8,
+     "peso": 39.7,
      "fiable": true
     },
     "forma_local": {
@@ -2793,7 +2793,7 @@
     "fuerza_visitante": {
      "ataque": 0.222,
      "defensa": 0.138,
-     "neto": 0.361,
+     "neto": 0.36,
      "peso": 40.6,
      "fiable": true
     },
@@ -2891,7 +2891,7 @@
     "cuotas_justas": [
      1.38,
      5.61,
-     10.15
+     10.14
     ],
     "resumen": "Gana Real Madrid CF (claro favorito, 72%).",
     "confianza": "alta"
@@ -2899,7 +2899,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.51,
-     "defensa": 0.39,
+     "defensa": 0.389,
      "neto": 0.9,
      "peso": 46.3,
      "fiable": true
@@ -2907,7 +2907,7 @@
     "fuerza_visitante": {
      "ataque": -0.107,
      "defensa": 0.117,
-     "neto": 0.01,
+     "neto": 0.009,
      "peso": 46.4,
      "fiable": true
     },
@@ -2985,7 +2985,7 @@
      "por_que": "Real Madrid CF es favorito en casa: marca más (2.19 vs 0.67) y es más fuerte de fondo (neto +0.90 vs +0.01). Probabilidad: 72%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.902
+      "prob": 0.901
      },
      "confianza": "alta"
     }
@@ -3035,15 +3035,15 @@
     "fuerza_local": {
      "ataque": -0.141,
      "defensa": 0.15,
-     "neto": 0.01,
+     "neto": 0.009,
      "peso": 27.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.359,
+     "ataque": 0.358,
      "defensa": 0.619,
-     "neto": 0.978,
-     "peso": 45.1,
+     "neto": 0.977,
+     "peso": 45.0,
      "fiable": true
     },
     "forma_local": {

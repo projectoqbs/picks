@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-09",
- "actualizado": "2026-09-08T17:42:55+00:00",
+ "actualizado": "2026-09-09T10:29:59+00:00",
  "partidos": [
   {
    "id": 575329,
@@ -11,50 +11,50 @@
    "local": "FC Barcelona",
    "visitante": "Feyenoord Rotterdam",
    "prediccion": {
-    "prob_1": 0.786,
-    "prob_X": 0.111,
-    "prob_2": 0.103,
+    "prob_1": 0.78,
+    "prob_X": 0.113,
+    "prob_2": 0.107,
     "goles_esperados": [
-     3.678,
-     1.414
+     3.644,
+     1.43
     ],
-    "prob_over_2_5": 0.883,
-    "prob_btts": 0.737,
+    "prob_over_2_5": 0.881,
+    "prob_btts": 0.739,
     "marcadores": [
      [
       "3-1",
-      0.0722
+      0.0723
      ],
      [
       "4-1",
-      0.0664
+      0.0658
      ],
      [
       "2-1",
-      0.0589
+      0.0595
      ]
     ],
     "cuotas_justas": [
-     1.27,
-     9.01,
-     9.71
+     1.28,
+     8.87,
+     9.32
     ],
-    "resumen": "Gana FC Barcelona (claro favorito, 79%). se esperan goles (+2.5). ambos marcan.",
+    "resumen": "Gana FC Barcelona (claro favorito, 78%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
    "nota": "pocos datos: 'Feyenoord Rotterdam' solo tiene 4.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.566,
-     "defensa": 0.058,
-     "neto": 0.624,
+     "ataque": 0.562,
+     "defensa": 0.048,
+     "neto": 0.61,
      "peso": 13.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.137,
-     "defensa": -0.19,
-     "neto": -0.053,
+     "defensa": -0.195,
+     "neto": -0.058,
      "peso": 4.5,
      "fiable": false
     },
@@ -89,14 +89,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "FC Barcelona es más fuerte de fondo (neto +0.62 vs -0.05): ataca ~76% más que el promedio. FC Barcelona juega en casa (~+32% de ventaja, ya contada). Goles esperados: 3.68 – 1.41; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (3G-1E-1P vs 1G-1E-3P). El modelo tiene pocos datos de Feyenoord Rotterdam: tomalo con pinzas.",
+    "explicacion": "FC Barcelona es más fuerte de fondo (neto +0.61 vs -0.06): ataca ~75% más que el promedio. FC Barcelona juega en casa (~+31% de ventaja, ya contada). Goles esperados: 3.64 – 1.43; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (3G-1E-1P vs 1G-1E-3P). El modelo tiene pocos datos de Feyenoord Rotterdam: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.883,
-     "por_que": "Bastantes goles esperados (3.68 + 1.41 = 5.09); al menos una defensa floja. Probabilidad al over: 88%.",
+     "prob": 0.881,
+     "por_que": "Bastantes goles esperados (3.64 + 1.43 = 5.07); al menos una defensa floja. Probabilidad al over: 88%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.961
+      "prob": 0.96
      },
      "confianza": "baja"
     }
@@ -122,15 +122,15 @@
    "local": "Liverpool FC",
    "visitante": "Club Atlético de Madrid",
    "prediccion": {
-    "prob_1": 0.542,
-    "prob_X": 0.211,
-    "prob_2": 0.247,
+    "prob_1": 0.539,
+    "prob_X": 0.21,
+    "prob_2": 0.251,
     "goles_esperados": [
-     1.964,
-     1.259
+     1.948,
+     1.26
     ],
-    "prob_over_2_5": 0.625,
-    "prob_btts": 0.612,
+    "prob_over_2_5": 0.622,
+    "prob_btts": 0.609,
     "marcadores": [
      [
       "2-1",
@@ -138,17 +138,17 @@
      ],
      [
       "1-1",
-      0.0947
+      0.0942
      ],
      [
       "1-0",
-      0.0821
+      0.0838
      ]
     ],
     "cuotas_justas": [
      1.85,
-     4.74,
-     4.05
+     4.76,
+     3.99
     ],
     "resumen": "Gana Liverpool FC (ligero favorito, 54%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -156,15 +156,15 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.239,
-     "defensa": 0.483,
-     "neto": 0.723,
-     "peso": 10.6,
+     "defensa": 0.479,
+     "neto": 0.718,
+     "peso": 10.5,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.446,
-     "defensa": 0.111,
-     "neto": 0.557,
+     "ataque": 0.441,
+     "defensa": 0.108,
+     "neto": 0.549,
      "peso": 15.0,
      "fiable": true
     },
@@ -207,14 +207,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.72 vs +0.56): ataca ~27% más que el promedio, encaja ~38% menos. Liverpool FC juega en casa (~+32% de ventaja, ya contada). Goles esperados: 1.96 – 1.26; el modelo ve marcando más a Liverpool FC. Y la forma reciente lo confirma: Liverpool FC llega mejor (2G-0E-3P vs 1G-1E-3P).",
+    "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.72 vs +0.55): ataca ~27% más que el promedio, encaja ~38% menos. Liverpool FC juega en casa (~+31% de ventaja, ya contada). Goles esperados: 1.95 – 1.26; el modelo ve marcando más a Liverpool FC. Y la forma reciente lo confirma: Liverpool FC llega mejor (2G-0E-3P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.625,
-     "por_que": "Bastantes goles esperados (1.96 + 1.26 = 3.22). Probabilidad al over: 62%.",
+     "prob": 0.622,
+     "por_que": "Bastantes goles esperados (1.95 + 1.26 = 3.21). Probabilidad al over: 62%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.828
+      "prob": 0.825
      },
      "confianza": "alta"
     }
@@ -229,33 +229,33 @@
    "local": "Paris Saint-Germain FC",
    "visitante": "ŠK Slovan Bratislava",
    "prediccion": {
-    "prob_1": 0.97,
-    "prob_X": 0.021,
-    "prob_2": 0.009,
+    "prob_1": 0.968,
+    "prob_X": 0.022,
+    "prob_2": 0.01,
     "goles_esperados": [
-     5.628,
-     0.753
+     5.588,
+     0.76
     ],
-    "prob_over_2_5": 0.952,
-    "prob_btts": 0.527,
+    "prob_over_2_5": 0.951,
+    "prob_btts": 0.53,
     "marcadores": [
      [
       "5-0",
-      0.0821
+      0.0818
      ],
      [
       "6-0",
-      0.077
+      0.0761
      ],
      [
       "4-0",
-      0.0729
+      0.0731
      ]
     ],
     "cuotas_justas": [
      1.03,
-     47.07,
-     107.61
+     45.81,
+     101.9
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 97%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -263,16 +263,16 @@
    "nota": "pocos datos: 'ŠK Slovan Bratislava' solo tiene 2.3 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.731,
-     "defensa": 0.328,
+     "ataque": 0.73,
+     "defensa": 0.327,
      "neto": 1.058,
      "peso": 18.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.223,
-     "defensa": -0.451,
-     "neto": -0.674,
+     "ataque": -0.216,
+     "defensa": -0.454,
+     "neto": -0.671,
      "peso": 2.3,
      "fiable": false
     },
@@ -307,14 +307,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +1.06 vs -0.67): ataca ~108% más que el promedio, encaja ~28% menos. Paris Saint-Germain FC juega en casa (~+32% de ventaja, ya contada). Goles esperados: 5.63 – 0.75; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-1E-0P vs 0G-0E-5P). El modelo tiene pocos datos de ŠK Slovan Bratislava: tomalo con pinzas.",
+    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +1.06 vs -0.67): ataca ~108% más que el promedio, encaja ~28% menos. Paris Saint-Germain FC juega en casa (~+31% de ventaja, ya contada). Goles esperados: 5.59 – 0.76; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-1E-0P vs 0G-0E-5P). El modelo tiene pocos datos de ŠK Slovan Bratislava: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.97,
-     "por_que": "Paris Saint-Germain FC es favorito en casa: marca más (5.63 vs 0.75) y es más fuerte de fondo (neto +1.06 vs -0.67). Probabilidad: 97%.",
+     "prob": 0.968,
+     "por_que": "Paris Saint-Germain FC es favorito en casa: marca más (5.59 vs 0.76) y es más fuerte de fondo (neto +1.06 vs -0.67). Probabilidad: 97%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.991
+      "prob": 0.99
      },
      "confianza": "baja"
     }
@@ -329,23 +329,23 @@
    "local": "SSC Napoli",
    "visitante": "Arsenal FC",
    "prediccion": {
-    "prob_1": 0.105,
-    "prob_X": 0.177,
-    "prob_2": 0.718,
+    "prob_1": 0.106,
+    "prob_X": 0.175,
+    "prob_2": 0.719,
     "goles_esperados": [
-     0.653,
-     2.122
+     0.655,
+     2.127
     ],
-    "prob_over_2_5": 0.524,
+    "prob_over_2_5": 0.526,
     "prob_btts": 0.419,
     "marcadores": [
      [
       "0-2",
-      0.1404
+      0.14
      ],
      [
       "0-1",
-      0.1357
+      0.1361
      ],
      [
       "0-3",
@@ -353,8 +353,8 @@
      ]
     ],
     "cuotas_justas": [
-     9.53,
-     5.65,
+     9.43,
+     5.73,
      1.39
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 72%).",
@@ -363,16 +363,16 @@
    "nota": "pocos datos: 'SSC Napoli' solo tiene 5.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.245,
-     "defensa": -0.053,
-     "neto": -0.298,
+     "ataque": -0.241,
+     "defensa": -0.052,
+     "neto": -0.293,
      "peso": 5.8,
      "fiable": false
     },
     "fuerza_visitante": {
      "ataque": 0.433,
-     "defensa": 0.727,
-     "neto": 1.16,
+     "defensa": 0.718,
+     "neto": 1.151,
      "peso": 16.0,
      "fiable": true
     },
@@ -407,14 +407,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Arsenal FC es más fuerte de fondo (neto +1.16 vs -0.30): ataca ~54% más que el promedio, encaja ~52% menos. SSC Napoli juega en casa (~+32% de ventaja, ya contada). Goles esperados: 0.65 – 2.12; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (2G-2E-1P vs 1G-2E-2P). El modelo tiene pocos datos de SSC Napoli: tomalo con pinzas.",
+    "explicacion": "Arsenal FC es más fuerte de fondo (neto +1.15 vs -0.29): ataca ~54% más que el promedio, encaja ~51% menos. SSC Napoli juega en casa (~+31% de ventaja, ya contada). Goles esperados: 0.66 – 2.13; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (2G-2E-1P vs 1G-2E-2P). El modelo tiene pocos datos de SSC Napoli: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "2",
-     "prob": 0.718,
-     "por_que": "El modelo ve a Arsenal FC marcando más que SSC Napoli pese a la localía (2.12 vs 0.65), y lo respalda una diferencia de fuerza clara (neto +1.16 vs -0.30). Probabilidad del modelo: 72%.",
+     "prob": 0.719,
+     "por_que": "El modelo ve a Arsenal FC marcando más que SSC Napoli pese a la localía (2.13 vs 0.66), y lo respalda una diferencia de fuerza clara (neto +1.15 vs -0.29). Probabilidad del modelo: 72%.",
      "alternativa": {
       "mercado": "X2",
-      "prob": 0.895
+      "prob": 0.894
      },
      "confianza": "baja"
     }
@@ -429,49 +429,49 @@
    "local": "Sporting Clube de Portugal",
    "visitante": "Galatasaray SK",
    "prediccion": {
-    "prob_1": 0.623,
+    "prob_1": 0.616,
     "prob_X": 0.201,
-    "prob_2": 0.176,
+    "prob_2": 0.183,
     "goles_esperados": [
-     2.029,
-     0.969
+     2.003,
+     0.981
     ],
-    "prob_over_2_5": 0.576,
-    "prob_btts": 0.535,
+    "prob_over_2_5": 0.573,
+    "prob_btts": 0.536,
     "marcadores": [
      [
       "1-0",
-      0.1051
+      0.1064
      ],
      [
       "2-0",
-      0.1027
+      0.1015
      ],
      [
       "2-1",
-      0.0995
+      0.0996
      ]
     ],
     "cuotas_justas": [
-     1.61,
-     4.99,
-     5.67
+     1.62,
+     4.98,
+     5.46
     ],
     "resumen": "Gana Sporting Clube de Portugal (claro favorito, 62%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.153,
+     "ataque": 0.146,
      "defensa": 0.314,
-     "neto": 0.467,
+     "neto": 0.46,
      "peso": 10.5,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.016,
-     "defensa": -0.008,
-     "neto": 0.007,
+     "ataque": 0.025,
+     "defensa": -0.012,
+     "neto": 0.013,
      "peso": 8.2,
      "fiable": true
     },
@@ -506,14 +506,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Sporting Clube de Portugal es más fuerte de fondo (neto +0.47 vs +0.01): ataca ~17% más que el promedio, encaja ~27% menos. Sporting Clube de Portugal juega en casa (~+32% de ventaja, ya contada). Goles esperados: 2.03 – 0.97; el modelo ve marcando más a Sporting Clube de Portugal. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Sporting Clube de Portugal es más fuerte de fondo (neto +0.46 vs +0.01): ataca ~16% más que el promedio, encaja ~27% menos. Sporting Clube de Portugal juega en casa (~+31% de ventaja, ya contada). Goles esperados: 2.00 – 0.98; el modelo ve marcando más a Sporting Clube de Portugal. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.623,
-     "por_que": "Sporting Clube de Portugal es favorito en casa: marca más (2.03 vs 0.97) y es más fuerte de fondo (neto +0.47 vs +0.01). Probabilidad: 62%.",
+     "prob": 0.616,
+     "por_que": "Sporting Clube de Portugal es favorito en casa: marca más (2.00 vs 0.98) y es más fuerte de fondo (neto +0.46 vs +0.01). Probabilidad: 62%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.824
+      "prob": 0.817
      },
      "confianza": "alta"
     }
