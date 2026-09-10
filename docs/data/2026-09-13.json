@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-13",
- "actualizado": "2026-09-10T10:20:17+00:00",
+ "actualizado": "2026-09-10T17:26:15+00:00",
  "partidos": [
   {
    "id": 564672,
@@ -35,7 +35,7 @@
      ]
     ],
     "cuotas_justas": [
-     1.61,
+     1.62,
      4.04,
      7.5
     ],
@@ -102,134 +102,6 @@
    }
   },
   {
-   "id": 558605,
-   "competicion": "Serie A",
-   "competicion_codigo": "SA",
-   "fecha_utc": "2026-09-13T13:00:00Z",
-   "jornada": 4,
-   "local": "US Lecce",
-   "visitante": "AC Monza",
-   "prediccion": {
-    "prob_1": 0.391,
-    "prob_X": 0.3,
-    "prob_2": 0.309,
-    "goles_esperados": [
-     1.137,
-     0.977
-    ],
-    "prob_over_2_5": 0.354,
-    "prob_btts": 0.425,
-    "marcadores": [
-     [
-      "1-1",
-      0.1358
-     ],
-     [
-      "1-0",
-      0.1356
-     ],
-     [
-      "0-0",
-      0.1225
-     ]
-    ],
-    "cuotas_justas": [
-     2.56,
-     3.33,
-     3.24
-    ],
-    "resumen": "Partido parejo. pocos goles (-2.5).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.398,
-     "defensa": -0.055,
-     "neto": -0.453,
-     "peso": 45.3,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.208,
-     "defensa": -0.305,
-     "neto": -0.512,
-     "peso": 21.0,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 3,
-     "e": 0,
-     "p": 2,
-     "gf": 6,
-     "gc": 7,
-     "racha": [
-      "G",
-      "G",
-      "G",
-      "P",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 0,
-     "e": 1,
-     "p": 4,
-     "gf": 5,
-     "gc": 13,
-     "racha": [
-      "P",
-      "P",
-      "P",
-      "P",
-      "E"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2025-02-16",
-      "local": "AC Monza",
-      "visitante": "US Lecce",
-      "goles_local": 0,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2024-12-15",
-      "local": "US Lecce",
-      "visitante": "AC Monza",
-      "goles_local": 2,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2024-04-27",
-      "local": "US Lecce",
-      "visitante": "AC Monza",
-      "goles_local": 1,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2023-09-17",
-      "local": "AC Monza",
-      "visitante": "US Lecce",
-      "goles_local": 1,
-      "goles_visitante": 1
-     }
-    ],
-    "explicacion": "En fuerza de temporada están parejos (neto -0.45 vs -0.51). US Lecce juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.14 – 0.98; el modelo ve marcando más a US Lecce. En forma reciente pinta algo mejor US Lecce (3G-0E-2P vs 0G-1E-4P en 5).",
-    "recomendacion": {
-     "mercado": "Menos de 2.5 goles",
-     "prob": 0.646,
-     "por_que": "Pocos goles esperados en total (1.14 + 0.98 = 2.11). El modelo ve el partido cerrado (65% al under).",
-     "alternativa": {
-      "mercado": "Menos de 3.5 goles",
-      "prob": 0.836
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
    "id": 559685,
    "competicion": "Ligue 1",
    "competicion_codigo": "FL1",
@@ -264,7 +136,7 @@
     "cuotas_justas": [
      1.44,
      5.45,
-     8.21
+     8.22
     ],
     "resumen": "Gana Lille OSC (claro favorito, 69%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -352,7 +224,7 @@
      ],
      [
       "1-1",
-      0.139
+      0.1391
      ],
      [
       "0-0",
@@ -360,7 +232,7 @@
      ]
     ],
     "cuotas_justas": [
-     4.7,
+     4.69,
      3.29,
      2.07
     ],
@@ -477,7 +349,7 @@
      "ataque": -0.224,
      "defensa": -0.053,
      "neto": -0.277,
-     "peso": 23.7,
+     "peso": 23.6,
      "fiable": true
     },
     "forma_local": {
@@ -553,7 +425,7 @@
     "prob_2": 0.671,
     "goles_esperados": [
      1.112,
-     2.473
+     2.472
     ],
     "prob_over_2_5": 0.695,
     "prob_btts": 0.615,
@@ -666,7 +538,7 @@
     "prob_X": 0.238,
     "prob_2": 0.489,
     "goles_esperados": [
-     1.34,
+     1.339,
      1.849
     ],
     "prob_over_2_5": 0.618,
@@ -794,7 +666,7 @@
    "nota": "pocos datos: 'SV 07 Elversberg' solo tiene 2.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.662,
+     "ataque": 0.661,
      "defensa": -0.228,
      "neto": 0.433,
      "peso": 2.0,
@@ -861,8 +733,8 @@
     "prob_X": 0.251,
     "prob_2": 0.502,
     "goles_esperados": [
-     1.234,
-     1.829
+     1.233,
+     1.828
     ],
     "prob_over_2_5": 0.591,
     "prob_btts": 0.606,
@@ -984,138 +856,6 @@
    }
   },
   {
-   "id": 558599,
-   "competicion": "Serie A",
-   "competicion_codigo": "SA",
-   "fecha_utc": "2026-09-13T16:00:00Z",
-   "jornada": 4,
-   "local": "SSC Napoli",
-   "visitante": "Bologna FC 1909",
-   "prediccion": {
-    "prob_1": 0.489,
-    "prob_X": 0.263,
-    "prob_2": 0.247,
-    "goles_esperados": [
-     1.5,
-     0.987
-    ],
-    "prob_over_2_5": 0.453,
-    "prob_btts": 0.489,
-    "marcadores": [
-     [
-      "1-1",
-      0.1247
-     ],
-     [
-      "1-0",
-      0.1232
-     ],
-     [
-      "2-0",
-      0.0936
-     ]
-    ],
-    "cuotas_justas": [
-     2.04,
-     3.8,
-     4.04
-    ],
-    "resumen": "Gana SSC Napoli (ligero favorito, 49%).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.266,
-     "defensa": 0.273,
-     "neto": 0.539,
-     "peso": 45.3,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.13,
-     "defensa": 0.082,
-     "neto": 0.213,
-     "peso": 45.4,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 3,
-     "e": 0,
-     "p": 2,
-     "gf": 9,
-     "gc": 5,
-     "racha": [
-      "G",
-      "G",
-      "G",
-      "P",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 1,
-     "e": 2,
-     "p": 2,
-     "gf": 6,
-     "gc": 7,
-     "racha": [
-      "G",
-      "E",
-      "P",
-      "P",
-      "E"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-05-11",
-      "local": "SSC Napoli",
-      "visitante": "Bologna FC 1909",
-      "goles_local": 2,
-      "goles_visitante": 3
-     },
-     {
-      "fecha": "2025-11-09",
-      "local": "Bologna FC 1909",
-      "visitante": "SSC Napoli",
-      "goles_local": 2,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-04-07",
-      "local": "Bologna FC 1909",
-      "visitante": "SSC Napoli",
-      "goles_local": 1,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2024-08-25",
-      "local": "SSC Napoli",
-      "visitante": "Bologna FC 1909",
-      "goles_local": 3,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2024-05-11",
-      "local": "SSC Napoli",
-      "visitante": "Bologna FC 1909",
-      "goles_local": 0,
-      "goles_visitante": 2
-     }
-    ],
-    "explicacion": "SSC Napoli es más fuerte de fondo (neto +0.54 vs +0.21): ataca ~30% más que el promedio, encaja ~24% menos. SSC Napoli juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.50 – 0.99; el modelo ve marcando más a SSC Napoli. Y la forma reciente lo confirma: SSC Napoli llega mejor (3G-0E-2P vs 1G-2E-2P).",
-    "recomendacion": {
-     "mercado": "1X",
-     "prob": 0.753,
-     "por_que": "Doble oportunidad: cubre que SSC Napoli no pierda. El escenario que queda afuera (gane Bologna FC 1909) es el menos probable (25%), así que el mercado se cumple ~75% de las veces.",
-     "alternativa": null,
-     "confianza": "alta"
-    }
-   }
-  },
-  {
    "id": 564668,
    "competicion": "La Liga",
    "competicion_codigo": "PD",
@@ -1144,7 +884,7 @@
      ],
      [
       "1-0",
-      0.1182
+      0.1181
      ]
     ],
     "cuotas_justas": [
@@ -1167,7 +907,7 @@
     "fuerza_visitante": {
      "ataque": 0.3,
      "defensa": 0.027,
-     "neto": 0.326,
+     "neto": 0.327,
      "peso": 3.9,
      "fiable": false
     },
@@ -1211,131 +951,6 @@
       "prob": 0.83
      },
      "confianza": "baja"
-    }
-   }
-  },
-  {
-   "id": 558608,
-   "competicion": "Serie A",
-   "competicion_codigo": "SA",
-   "fecha_utc": "2026-09-13T18:45:00Z",
-   "jornada": 4,
-   "local": "US Sassuolo Calcio",
-   "visitante": "Juventus FC",
-   "prediccion": {
-    "prob_1": 0.211,
-    "prob_X": 0.248,
-    "prob_2": 0.541,
-    "goles_esperados": [
-     0.932,
-     1.65
-    ],
-    "prob_over_2_5": 0.477,
-    "prob_btts": 0.491,
-    "marcadores": [
-     [
-      "0-1",
-      0.1234
-     ],
-     [
-      "1-1",
-      0.1178
-     ],
-     [
-      "0-2",
-      0.103
-     ]
-    ],
-    "cuotas_justas": [
-     4.74,
-     4.03,
-     1.85
-    ],
-    "resumen": "Gana Juventus FC (ligero favorito, 54%).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.069,
-     "defensa": -0.115,
-     "neto": -0.046,
-     "peso": 33.2,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.256,
-     "defensa": 0.362,
-     "neto": 0.618,
-     "peso": 45.3,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 1,
-     "e": 1,
-     "p": 3,
-     "gf": 7,
-     "gc": 9,
-     "racha": [
-      "P",
-      "P",
-      "P",
-      "G",
-      "E"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 2,
-     "e": 2,
-     "p": 1,
-     "gf": 6,
-     "gc": 5,
-     "racha": [
-      "P",
-      "E",
-      "G",
-      "G",
-      "E"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-03-21",
-      "local": "Juventus FC",
-      "visitante": "US Sassuolo Calcio",
-      "goles_local": 1,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2026-01-06",
-      "local": "US Sassuolo Calcio",
-      "visitante": "Juventus FC",
-      "goles_local": 0,
-      "goles_visitante": 3
-     },
-     {
-      "fecha": "2024-01-16",
-      "local": "Juventus FC",
-      "visitante": "US Sassuolo Calcio",
-      "goles_local": 3,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2023-09-23",
-      "local": "US Sassuolo Calcio",
-      "visitante": "Juventus FC",
-      "goles_local": 4,
-      "goles_visitante": 2
-     }
-    ],
-    "explicacion": "Juventus FC es más fuerte de fondo (neto +0.62 vs -0.05): ataca ~29% más que el promedio, encaja ~30% menos. US Sassuolo Calcio juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.93 – 1.65; el modelo ve marcando más a Juventus FC. Y la forma reciente lo confirma: Juventus FC llega mejor (2G-2E-1P vs 1G-1E-3P).",
-    "recomendacion": {
-     "mercado": "X2",
-     "prob": 0.789,
-     "por_que": "Doble oportunidad: cubre que US Sassuolo Calcio no gane. El escenario que queda afuera (gane US Sassuolo Calcio) es el menos probable (21%), así que el mercado se cumple ~79% de las veces.",
-     "alternativa": null,
-     "confianza": "alta"
     }
    }
   },
@@ -1391,7 +1006,7 @@
      "ataque": 0.516,
      "defensa": 0.354,
      "neto": 0.87,
-     "peso": 40.6,
+     "peso": 40.5,
      "fiable": true
     },
     "forma_local": {
