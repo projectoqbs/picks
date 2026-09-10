@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-16",
- "actualizado": "2026-09-09T17:28:22+00:00",
+ "actualizado": "2026-09-10T10:20:17+00:00",
  "partidos": [
   {
    "id": 564679,
@@ -45,7 +45,7 @@
    "nota": "pocos datos: 'RC Deportivo La Coruña' solo tiene 3.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.299,
+     "ataque": 0.3,
      "defensa": 0.027,
      "neto": 0.326,
      "peso": 3.9,
@@ -55,7 +55,7 @@
      "ataque": 0.01,
      "defensa": -0.06,
      "neto": -0.05,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "forma_local": {
@@ -122,11 +122,11 @@
     "marcadores": [
      [
       "1-0",
-      0.1124
+      0.1125
      ],
      [
       "2-0",
-      0.1117
+      0.1116
      ],
      [
       "1-1",
@@ -146,14 +146,14 @@
      "ataque": 0.313,
      "defensa": 0.207,
      "neto": 0.521,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.006,
      "defensa": 0.022,
      "neto": 0.016,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "forma_local": {
@@ -230,7 +230,7 @@
      "por_que": "Club Atlético de Madrid es favorito en casa: marca más (1.98 vs 0.89) y es más fuerte de fondo (neto +0.52 vs +0.02). Probabilidad: 63%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.84
+      "prob": 0.839
      },
      "confianza": "alta"
     }
@@ -287,7 +287,7 @@
     "fuerza_visitante": {
      "ataque": 0.062,
      "defensa": 0.152,
-     "neto": 0.213,
+     "neto": 0.214,
      "peso": 46.2,
      "fiable": true
     },
@@ -381,8 +381,8 @@
     ],
     "cuotas_justas": [
      1.12,
-     14.73,
-     24.45
+     14.72,
+     24.44
     ],
     "resumen": "Gana FC Barcelona (claro favorito, 89%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -393,12 +393,12 @@
      "ataque": 0.73,
      "defensa": 0.329,
      "neto": 1.059,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.243,
-     "defensa": -0.319,
+     "defensa": -0.32,
      "neto": -0.077,
      "peso": 3.9,
      "fiable": false

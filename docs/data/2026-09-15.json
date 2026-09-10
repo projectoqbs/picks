@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-15",
- "actualizado": "2026-09-09T17:28:22+00:00",
+ "actualizado": "2026-09-10T10:20:17+00:00",
  "partidos": [
   {
    "id": 564678,
@@ -23,7 +23,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1422
+      0.1423
      ],
      [
       "1-1",
@@ -46,7 +46,7 @@
     "fuerza_local": {
      "ataque": -0.107,
      "defensa": 0.117,
-     "neto": 0.009,
+     "neto": 0.01,
      "peso": 46.3,
      "fiable": true
     },
@@ -310,14 +310,14 @@
      "ataque": 0.06,
      "defensa": -0.144,
      "neto": -0.083,
-     "peso": 28.2,
+     "peso": 28.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.51,
      "defensa": 0.389,
      "neto": 0.9,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "forma_local": {
@@ -369,7 +369,7 @@
     "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.90 vs -0.08): ataca ~67% más que el promedio, encaja ~32% menos. Elche CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.06 – 2.11; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (4G-0E-1P vs 0G-2E-3P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.817,
+     "prob": 0.818,
      "por_que": "Doble oportunidad: cubre que Elche CF no gane. El escenario que queda afuera (gane Elche CF) es el menos probable (18%), así que el mercado se cumple ~82% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",

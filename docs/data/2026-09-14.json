@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-14",
- "actualizado": "2026-09-09T17:28:22+00:00",
+ "actualizado": "2026-09-10T10:20:17+00:00",
  "partidos": [
   {
    "id": 558602,
@@ -182,7 +182,7 @@
      "ataque": 0.368,
      "defensa": 0.355,
      "neto": 0.723,
-     "peso": 45.4,
+     "peso": 45.3,
      "fiable": true
     },
     "forma_local": {
@@ -274,7 +274,7 @@
    "local": "FC Internazionale Milano",
    "visitante": "Udinese Calcio",
    "prediccion": {
-    "prob_1": 0.729,
+    "prob_1": 0.728,
     "prob_X": 0.165,
     "prob_2": 0.107,
     "goles_esperados": [
@@ -317,7 +317,7 @@
      "ataque": 0.007,
      "defensa": -0.031,
      "neto": -0.025,
-     "peso": 45.4,
+     "peso": 45.3,
      "fiable": true
     },
     "forma_local": {
@@ -390,7 +390,7 @@
     "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.96 vs -0.03): ataca ~91% más que el promedio, encaja ~27% menos. FC Internazionale Milano juega en casa (~+10% de ventaja, ya contada). Goles esperados: 2.46 – 0.84; el modelo ve marcando más a FC Internazionale Milano. Y la forma reciente lo confirma: FC Internazionale Milano llega mejor (3G-2E-0P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.729,
+     "prob": 0.728,
      "por_que": "FC Internazionale Milano es favorito en casa: marca más (2.46 vs 0.84) y es más fuerte de fondo (neto +0.96 vs -0.03). Probabilidad: 73%.",
      "alternativa": {
       "mercado": "1X",
@@ -410,7 +410,7 @@
    "visitante": "Real Betis Balompié",
    "prediccion": {
     "prob_1": 0.537,
-    "prob_X": 0.218,
+    "prob_X": 0.217,
     "prob_2": 0.246,
     "goles_esperados": [
      1.996,
@@ -442,17 +442,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.398,
+     "ataque": 0.399,
      "defensa": 0.025,
      "neto": 0.424,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.192,
      "defensa": 0.098,
      "neto": 0.29,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "forma_local": {
@@ -560,7 +560,7 @@
      ],
      [
       "2-1",
-      0.0837
+      0.0836
      ],
      [
       "1-2",
@@ -587,7 +587,7 @@
      "ataque": 0.241,
      "defensa": 0.027,
      "neto": 0.269,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "forma_local": {
