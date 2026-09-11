@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-18",
- "actualizado": "2026-09-10T17:26:15+00:00",
+ "actualizado": "2026-09-11T10:19:49+00:00",
  "partidos": [
   {
    "id": 565804,
@@ -16,7 +16,7 @@
     "prob_2": 0.043,
     "goles_esperados": [
      3.597,
-     0.805
+     0.806
     ],
     "prob_over_2_5": 0.815,
     "prob_btts": 0.541,
@@ -36,8 +36,8 @@
     ],
     "cuotas_justas": [
      1.15,
-     11.27,
-     23.55
+     11.26,
+     23.54
     ],
     "resumen": "Gana FC Bayern München (claro favorito, 87%). se esperan goles (+2.5).",
     "confianza": "alta"
@@ -47,7 +47,7 @@
      "ataque": 0.758,
      "defensa": 0.338,
      "neto": 1.096,
-     "peso": 39.8,
+     "peso": 39.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -138,6 +138,120 @@
    }
   },
   {
+   "id": 558596,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-09-18T18:45:00Z",
+   "jornada": 5,
+   "local": "AC Monza",
+   "visitante": "US Sassuolo Calcio",
+   "prediccion": {
+    "prob_1": 0.261,
+    "prob_X": 0.247,
+    "prob_2": 0.492,
+    "goles_esperados": [
+     1.138,
+     1.654
+    ],
+    "prob_over_2_5": 0.529,
+    "prob_btts": 0.551,
+    "marcadores": [
+     [
+      "1-1",
+      0.1168
+     ],
+     [
+      "0-1",
+      0.0999
+     ],
+     [
+      "1-2",
+      0.0954
+     ]
+    ],
+    "cuotas_justas": [
+     3.83,
+     4.05,
+     2.03
+    ],
+    "resumen": "Gana US Sassuolo Calcio (ligero favorito, 49%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.208,
+     "defensa": -0.304,
+     "neto": -0.512,
+     "peso": 21.0,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.069,
+     "defensa": -0.115,
+     "neto": -0.046,
+     "peso": 33.2,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 0,
+     "e": 1,
+     "p": 4,
+     "gf": 5,
+     "gc": 13,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "P",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 7,
+     "gc": 9,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "G",
+      "E"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2024-01-28",
+      "local": "AC Monza",
+      "visitante": "US Sassuolo Calcio",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2023-10-02",
+      "local": "US Sassuolo Calcio",
+      "visitante": "AC Monza",
+      "goles_local": 0,
+      "goles_visitante": 1
+     }
+    ],
+    "explicacion": "US Sassuolo Calcio es más fuerte de fondo (neto -0.05 vs -0.51): es más completo en general. AC Monza juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.14 – 1.65; el modelo ve marcando más a US Sassuolo Calcio. Y la forma reciente lo confirma: US Sassuolo Calcio llega mejor (1G-1E-3P vs 0G-1E-4P).",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.739,
+     "por_que": "Doble oportunidad: cubre que AC Monza no gane. El escenario que queda afuera (gane AC Monza) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
+     "alternativa": {
+      "mercado": "Ambos marcan: Sí",
+      "prob": 0.551
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
    "id": 559682,
    "competicion": "Ligue 1",
    "competicion_codigo": "FL1",
@@ -189,7 +303,7 @@
      "ataque": 0.212,
      "defensa": 0.246,
      "neto": 0.458,
-     "peso": 40.5,
+     "peso": 40.4,
      "fiable": true
     },
     "forma_local": {
@@ -266,7 +380,7 @@
      "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.61 y 1.43. Probabilidad: 61%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.812
+      "prob": 0.811
      },
      "confianza": "alta"
     }
@@ -391,7 +505,7 @@
     "prob_2": 0.342,
     "goles_esperados": [
      1.649,
-     1.513
+     1.512
     ],
     "prob_over_2_5": 0.612,
     "prob_btts": 0.641,
@@ -422,14 +536,14 @@
      "ataque": 0.168,
      "defensa": 0.035,
      "neto": 0.203,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.259,
      "defensa": 0.029,
      "neto": 0.287,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "forma_local": {

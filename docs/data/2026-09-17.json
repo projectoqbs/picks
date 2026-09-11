@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-17",
- "actualizado": "2026-09-10T17:26:15+00:00",
+ "actualizado": "2026-09-11T10:19:49+00:00",
  "partidos": [
   {
    "id": 564686,
@@ -47,14 +47,14 @@
      "ataque": 0.192,
      "defensa": 0.098,
      "neto": 0.29,
-     "peso": 46.2,
+     "peso": 46.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.348,
      "defensa": 0.269,
      "neto": -0.079,
-     "peso": 46.2,
+     "peso": 46.1,
      "fiable": true
     },
     "forma_local": {
@@ -148,31 +148,31 @@
    "prediccion": {
     "prob_1": 0.187,
     "prob_X": 0.249,
-    "prob_2": 0.564,
+    "prob_2": 0.563,
     "goles_esperados": [
-     0.811,
+     0.812,
      1.613
     ],
-    "prob_over_2_5": 0.436,
-    "prob_btts": 0.445,
+    "prob_over_2_5": 0.437,
+    "prob_btts": 0.446,
     "marcadores": [
      [
       "0-1",
-      0.1424
+      0.1421
      ],
      [
       "1-1",
-      0.1164
+      0.1165
      ],
      [
       "0-2",
-      0.1152
+      0.1151
      ]
     ],
     "cuotas_justas": [
-     5.35,
+     5.34,
      4.01,
-     1.77
+     1.78
     ],
     "resumen": "Gana Villarreal CF (claro favorito, 56%).",
     "confianza": "baja"
@@ -180,15 +180,15 @@
    "nota": "pocos datos: 'Málaga CF' solo tiene 3.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.575,
+     "ataque": -0.573,
      "defensa": 0.012,
-     "neto": -0.563,
+     "neto": -0.561,
      "peso": 3.9,
      "fiable": false
     },
     "fuerza_visitante": {
      "ataque": 0.398,
-     "defensa": 0.026,
+     "defensa": 0.025,
      "neto": 0.424,
      "peso": 46.3,
      "fiable": true
@@ -229,8 +229,8 @@
      "prob": 0.813,
      "por_que": "Doble oportunidad: cubre que Málaga CF no gane. El escenario que queda afuera (gane Málaga CF) es el menos probable (19%), así que el mercado se cumple ~81% de las veces.",
      "alternativa": {
-      "mercado": "Menos de 2.5 goles",
-      "prob": 0.564
+      "mercado": "2",
+      "prob": 0.563
      },
      "confianza": "baja"
     }

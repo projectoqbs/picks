@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-12",
- "actualizado": "2026-09-10T17:26:15+00:00",
+ "actualizado": "2026-09-11T10:19:49+00:00",
  "partidos": [
   {
    "id": 564670,
@@ -12,18 +12,18 @@
    "visitante": "Deportivo Alavés",
    "prediccion": {
     "prob_1": 0.444,
-    "prob_X": 0.229,
+    "prob_X": 0.23,
     "prob_2": 0.327,
     "goles_esperados": [
-     1.784,
-     1.505
+     1.783,
+     1.504
     ],
     "prob_over_2_5": 0.638,
     "prob_btts": 0.648,
     "marcadores": [
      [
       "1-1",
-      0.1006
+      0.1007
      ],
      [
       "2-1",
@@ -45,8 +45,8 @@
    "nota": "pocos datos: 'Real Racing Club de Santander' solo tiene 3.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.243,
-     "defensa": -0.32,
+     "ataque": 0.242,
+     "defensa": -0.319,
      "neto": -0.077,
      "peso": 3.9,
      "fiable": false
@@ -55,7 +55,7 @@
      "ataque": -0.003,
      "defensa": 0.055,
      "neto": 0.052,
-     "peso": 46.2,
+     "peso": 46.1,
      "fiable": true
     },
     "forma_local": {
@@ -95,9 +95,120 @@
      "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.78 y 1.50. Probabilidad: 65%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.841
+      "prob": 0.84
      },
      "confianza": "baja"
+    }
+   }
+  },
+  {
+   "id": 558604,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-09-12T13:00:00Z",
+   "jornada": 4,
+   "local": "Genoa CFC",
+   "visitante": "Frosinone Calcio",
+   "prediccion": {
+    "prob_1": 0.366,
+    "prob_X": 0.263,
+    "prob_2": 0.371,
+    "goles_esperados": [
+     1.334,
+     1.344
+    ],
+    "prob_over_2_5": 0.501,
+    "prob_btts": 0.546,
+    "marcadores": [
+     [
+      "1-1",
+      0.1247
+     ],
+     [
+      "0-1",
+      0.0907
+     ],
+     [
+      "1-0",
+      0.09
+     ]
+    ],
+    "cuotas_justas": [
+     2.73,
+     3.81,
+     2.69
+    ],
+    "resumen": "Partido parejo.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.097,
+     "defensa": -0.025,
+     "neto": -0.122,
+     "peso": 45.2,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.141,
+     "defensa": -0.163,
+     "neto": -0.022,
+     "peso": 9.0,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 0,
+     "e": 0,
+     "p": 5,
+     "gf": 2,
+     "gc": 10,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 7,
+     "gc": 4,
+     "racha": [
+      "G",
+      "P",
+      "P",
+      "G",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2024-03-30",
+      "local": "Genoa CFC",
+      "visitante": "Frosinone Calcio",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2023-11-26",
+      "local": "Frosinone Calcio",
+      "visitante": "Genoa CFC",
+      "goles_local": 2,
+      "goles_visitante": 1
+     }
+    ],
+    "explicacion": "En fuerza de temporada están parejos (neto -0.12 vs -0.02). Genoa CFC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.33 – 1.34; el modelo ve marcando más a Frosinone Calcio. En forma reciente pinta algo mejor Frosinone Calcio (0G-0E-5P vs 3G-0E-2P en 5).",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.634,
+     "por_que": "Doble oportunidad: cubre que Genoa CFC no gane. El escenario que queda afuera (gane Genoa CFC) es el menos probable (37%), así que el mercado se cumple ~63% de las veces.",
+     "alternativa": null,
+     "confianza": "alta"
     }
    }
   },
@@ -153,7 +264,7 @@
      "ataque": 0.35,
      "defensa": 0.086,
      "neto": 0.436,
-     "peso": 39.8,
+     "peso": 39.7,
      "fiable": true
     },
     "forma_local": {
@@ -257,7 +368,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1788
+      0.1787
      ],
      [
       "2-0",
@@ -265,7 +376,7 @@
      ],
      [
       "0-0",
-      0.1271
+      0.127
      ]
     ],
     "cuotas_justas": [
@@ -282,12 +393,12 @@
      "ataque": 0.33,
      "defensa": 0.302,
      "neto": 0.632,
-     "peso": 39.8,
+     "peso": 39.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.564,
-     "defensa": 0.363,
+     "defensa": 0.362,
      "neto": -0.202,
      "peso": 2.0,
      "fiable": false
@@ -378,14 +489,14 @@
      "ataque": -0.062,
      "defensa": 0.006,
      "neto": -0.056,
-     "peso": 39.8,
+     "peso": 39.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.355,
      "defensa": 0.243,
      "neto": 0.598,
-     "peso": 39.9,
+     "peso": 39.8,
      "fiable": true
     },
     "forma_local": {
@@ -477,7 +588,7 @@
    "local": "1. FSV Mainz 05",
    "visitante": "Eintracht Frankfurt",
    "prediccion": {
-    "prob_1": 0.448,
+    "prob_1": 0.449,
     "prob_X": 0.248,
     "prob_2": 0.303,
     "goles_esperados": [
@@ -520,7 +631,7 @@
      "ataque": 0.197,
      "defensa": -0.091,
      "neto": 0.105,
-     "peso": 39.8,
+     "peso": 39.7,
      "fiable": true
     },
     "forma_local": {
@@ -655,7 +766,7 @@
      "ataque": -0.03,
      "defensa": -0.034,
      "neto": -0.064,
-     "peso": 39.8,
+     "peso": 39.7,
      "fiable": true
     },
     "forma_local": {
@@ -783,7 +894,7 @@
      "ataque": -0.018,
      "defensa": -0.002,
      "neto": -0.02,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -897,7 +1008,7 @@
      "ataque": 0.37,
      "defensa": 0.112,
      "neto": 0.482,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1155,17 +1266,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.152,
+     "ataque": 0.151,
      "defensa": 0.054,
      "neto": 0.206,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.168,
      "defensa": 0.035,
      "neto": 0.203,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "forma_local": {
@@ -1269,7 +1380,7 @@
     "marcadores": [
      [
       "0-0",
-      0.1515
+      0.1514
      ],
      [
       "1-1",
@@ -1277,7 +1388,7 @@
      ],
      [
       "0-1",
-      0.1279
+      0.1278
      ]
     ],
     "cuotas_justas": [
@@ -1294,7 +1405,7 @@
      "ataque": 0.259,
      "defensa": 0.029,
      "neto": 0.287,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1518,7 +1629,7 @@
     "fuerza_local": {
      "ataque": 0.226,
      "defensa": 0.029,
-     "neto": 0.256,
+     "neto": 0.255,
      "peso": 40.5,
      "fiable": true
     },
@@ -1610,6 +1721,141 @@
    }
   },
   {
+   "id": 558600,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-09-12T16:00:00Z",
+   "jornada": 4,
+   "local": "SS Lazio",
+   "visitante": "AC Milan",
+   "prediccion": {
+    "prob_1": 0.323,
+    "prob_X": 0.282,
+    "prob_2": 0.395,
+    "goles_esperados": [
+     1.103,
+     1.251
+    ],
+    "prob_over_2_5": 0.418,
+    "prob_btts": 0.478,
+    "marcadores": [
+     [
+      "1-1",
+      0.1327
+     ],
+     [
+      "0-1",
+      0.1171
+     ],
+     [
+      "1-0",
+      0.1032
+     ]
+    ],
+    "cuotas_justas": [
+     3.1,
+     3.54,
+     2.53
+    ],
+    "resumen": "Partido parejo. pocos goles (-2.5).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.075,
+     "defensa": 0.172,
+     "neto": 0.247,
+     "peso": 45.2,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.266,
+     "defensa": 0.199,
+     "neto": 0.464,
+     "peso": 45.3,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 4,
+     "e": 0,
+     "p": 1,
+     "gf": 6,
+     "gc": 4,
+     "racha": [
+      "P",
+      "G",
+      "G",
+      "G",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 8,
+     "gc": 5,
+     "racha": [
+      "G",
+      "P",
+      "G",
+      "G",
+      "E"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-03-15",
+      "local": "SS Lazio",
+      "visitante": "AC Milan",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-11-29",
+      "local": "AC Milan",
+      "visitante": "SS Lazio",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-03-02",
+      "local": "AC Milan",
+      "visitante": "SS Lazio",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-08-31",
+      "local": "SS Lazio",
+      "visitante": "AC Milan",
+      "goles_local": 2,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-03-01",
+      "local": "SS Lazio",
+      "visitante": "AC Milan",
+      "goles_local": 0,
+      "goles_visitante": 1
+     }
+    ],
+    "explicacion": "AC Milan es más fuerte de fondo (neto +0.46 vs +0.25): ataca ~30% más que el promedio, encaja ~18% menos. SS Lazio juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.10 – 1.25; el modelo ve marcando más a AC Milan. Pero ojo: en forma reciente SS Lazio llega mejor que AC Milan, así que puede estar más cerca de lo que dice el neto.",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.677,
+     "por_que": "Doble oportunidad: cubre que SS Lazio no gane. El escenario que queda afuera (gane SS Lazio) es el menos probable (32%), así que el mercado se cumple ~68% de las veces.",
+     "alternativa": {
+      "mercado": "Menos de 2.5 goles",
+      "prob": 0.582
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
    "id": 565798,
    "competicion": "Bundesliga",
    "competicion_codigo": "BL1",
@@ -1654,7 +1900,7 @@
      "ataque": -0.063,
      "defensa": -0.146,
      "neto": -0.208,
-     "peso": 29.0,
+     "peso": 28.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1781,7 +2027,7 @@
     "fuerza_local": {
      "ataque": 0.062,
      "defensa": 0.152,
-     "neto": 0.214,
+     "neto": 0.213,
      "peso": 46.1,
      "fiable": true
     },
@@ -1896,14 +2142,14 @@
      "ataque": 0.038,
      "defensa": -0.084,
      "neto": -0.047,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.067,
      "defensa": 0.157,
      "neto": 0.09,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "forma_local": {
@@ -1984,6 +2230,141 @@
    }
   },
   {
+   "id": 558607,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-09-12T18:45:00Z",
+   "jornada": 4,
+   "local": "Atalanta BC",
+   "visitante": "Cagliari Calcio",
+   "prediccion": {
+    "prob_1": 0.613,
+    "prob_X": 0.227,
+    "prob_2": 0.16,
+    "goles_esperados": [
+     1.817,
+     0.804
+    ],
+    "prob_over_2_5": 0.487,
+    "prob_btts": 0.464,
+    "marcadores": [
+     [
+      "1-0",
+      0.1307
+     ],
+     [
+      "2-0",
+      0.12
+     ],
+     [
+      "1-1",
+      0.1076
+     ]
+    ],
+    "cuotas_justas": [
+     1.63,
+     4.4,
+     6.26
+    ],
+    "resumen": "Gana Atalanta BC (claro favorito, 61%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.309,
+     "defensa": 0.261,
+     "neto": 0.57,
+     "peso": 45.2,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.086,
+     "defensa": -0.066,
+     "neto": -0.153,
+     "peso": 45.2,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 5,
+     "gc": 5,
+     "racha": [
+      "P",
+      "E",
+      "G",
+      "G",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 4,
+     "e": 0,
+     "p": 1,
+     "gf": 6,
+     "gc": 3,
+     "racha": [
+      "G",
+      "G",
+      "G",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-04-27",
+      "local": "Cagliari Calcio",
+      "visitante": "Atalanta BC",
+      "goles_local": 3,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-12-13",
+      "local": "Atalanta BC",
+      "visitante": "Cagliari Calcio",
+      "goles_local": 2,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-02-15",
+      "local": "Atalanta BC",
+      "visitante": "Cagliari Calcio",
+      "goles_local": 0,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-12-14",
+      "local": "Cagliari Calcio",
+      "visitante": "Atalanta BC",
+      "goles_local": 0,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-04-07",
+      "local": "Cagliari Calcio",
+      "visitante": "Atalanta BC",
+      "goles_local": 2,
+      "goles_visitante": 1
+     }
+    ],
+    "explicacion": "Atalanta BC es más fuerte de fondo (neto +0.57 vs -0.15): ataca ~36% más que el promedio, encaja ~23% menos. Atalanta BC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.82 – 0.80; el modelo ve marcando más a Atalanta BC. Pero ojo: en forma reciente Cagliari Calcio llega mejor que Atalanta BC, así que puede estar más cerca de lo que dice el neto.",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.84,
+     "por_que": "Doble oportunidad: cubre que Atalanta BC no pierda. El escenario que queda afuera (gane Cagliari Calcio) es el menos probable (16%), así que el mercado se cumple ~84% de las veces.",
+     "alternativa": {
+      "mercado": "12",
+      "prob": 0.773
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
    "id": 559684,
    "competicion": "Ligue 1",
    "competicion_codigo": "FL1",
@@ -2008,7 +2389,7 @@
      ],
      [
       "1-0",
-      0.0958
+      0.0959
      ],
      [
       "2-1",
@@ -2028,7 +2409,7 @@
      "ataque": -0.011,
      "defensa": 0.032,
      "neto": 0.021,
-     "peso": 29.7,
+     "peso": 29.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2160,7 +2541,7 @@
      "ataque": -0.061,
      "defensa": 0.026,
      "neto": -0.035,
-     "peso": 40.5,
+     "peso": 40.4,
      "fiable": true
     },
     "forma_local": {
@@ -2278,7 +2659,7 @@
      "ataque": -0.262,
      "defensa": 0.009,
      "neto": -0.253,
-     "peso": 40.5,
+     "peso": 40.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2413,7 +2794,7 @@
      "ataque": 0.222,
      "defensa": 0.138,
      "neto": 0.36,
-     "peso": 40.5,
+     "peso": 40.4,
      "fiable": true
     },
     "forma_local": {
@@ -2519,15 +2900,15 @@
     "fuerza_local": {
      "ataque": 0.51,
      "defensa": 0.389,
-     "neto": 0.9,
-     "peso": 46.2,
+     "neto": 0.899,
+     "peso": 46.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.107,
      "defensa": 0.117,
-     "neto": 0.01,
-     "peso": 46.3,
+     "neto": 0.009,
+     "peso": 46.2,
      "fiable": true
     },
     "forma_local": {
@@ -2604,7 +2985,7 @@
      "por_que": "Real Madrid CF es favorito en casa: marca más (2.19 vs 0.67) y es más fuerte de fondo (neto +0.90 vs +0.01). Probabilidad: 72%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.902
+      "prob": 0.901
      },
      "confianza": "alta"
     }
@@ -2654,7 +3035,7 @@
     "fuerza_local": {
      "ataque": -0.141,
      "defensa": 0.15,
-     "neto": 0.01,
+     "neto": 0.009,
      "peso": 26.9,
      "fiable": true
     },
