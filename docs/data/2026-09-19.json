@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-19",
- "actualizado": "2026-09-11T10:19:49+00:00",
+ "actualizado": "2026-09-11T17:27:36+00:00",
  "partidos": [
   {
    "id": 560587,
@@ -35,7 +35,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.96,
+     2.95,
      3.7,
      2.56
     ],
@@ -54,7 +54,7 @@
      "ataque": 0.142,
      "defensa": 0.064,
      "neto": 0.206,
-     "peso": 44.9,
+     "peso": 44.8,
      "fiable": true
     },
     "forma_local": {
@@ -150,7 +150,7 @@
     "prob_X": 0.282,
     "prob_2": 0.274,
     "goles_esperados": [
-     1.307,
+     1.308,
      0.963
     ],
     "prob_over_2_5": 0.396,
@@ -182,7 +182,7 @@
      "ataque": -0.006,
      "defensa": 0.022,
      "neto": 0.016,
-     "peso": 46.2,
+     "peso": 46.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -443,7 +443,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.007,
+     "ataque": 0.006,
      "defensa": -0.031,
      "neto": -0.025,
      "peso": 45.2,
@@ -699,7 +699,7 @@
      "ataque": -0.013,
      "defensa": 0.147,
      "neto": 0.134,
-     "peso": 39.8,
+     "peso": 39.7,
      "fiable": true
     },
     "forma_local": {
@@ -827,7 +827,7 @@
      "ataque": -0.11,
      "defensa": -0.041,
      "neto": -0.151,
-     "peso": 39.8,
+     "peso": 39.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -930,7 +930,7 @@
     "prob_X": 0.233,
     "prob_2": 0.297,
     "goles_esperados": [
-     1.95,
+     1.949,
      1.526
     ],
     "prob_over_2_5": 0.675,
@@ -938,7 +938,7 @@
     "marcadores": [
      [
       "1-1",
-      0.0988
+      0.0989
      ],
      [
       "2-1",
@@ -969,7 +969,7 @@
      "ataque": 0.04,
      "defensa": 0.008,
      "neto": 0.048,
-     "peso": 39.8,
+     "peso": 39.7,
      "fiable": true
     },
     "forma_local": {
@@ -1087,7 +1087,7 @@
     "cuotas_justas": [
      1.57,
      4.44,
-     7.29
+     7.3
     ],
     "resumen": "Gana Everton FC (claro favorito, 64%).",
     "confianza": "alta"
@@ -1199,7 +1199,7 @@
      ]
     ],
     "cuotas_justas": [
-     5.08,
+     5.09,
      3.71,
      1.87
     ],
@@ -1218,7 +1218,7 @@
      "ataque": 0.358,
      "defensa": 0.619,
      "neto": 0.977,
-     "peso": 44.9,
+     "peso": 44.8,
      "fiable": true
     },
     "forma_local": {
@@ -1342,7 +1342,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.241,
-     "defensa": 0.027,
+     "defensa": 0.028,
      "neto": 0.269,
      "peso": 44.9,
      "fiable": true
@@ -1350,7 +1350,7 @@
     "fuerza_visitante": {
      "ataque": -0.129,
      "defensa": 0.669,
-     "neto": 0.54,
+     "neto": 0.539,
      "peso": 2.9,
      "fiable": false
     },
@@ -1441,7 +1441,7 @@
      "ataque": 0.062,
      "defensa": 0.152,
      "neto": 0.213,
-     "peso": 46.1,
+     "peso": 46.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1583,7 +1583,7 @@
      "ataque": 0.226,
      "defensa": 0.029,
      "neto": 0.255,
-     "peso": 40.5,
+     "peso": 40.4,
      "fiable": true
     },
     "forma_local": {
@@ -1694,7 +1694,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.646,
+     "ataque": 0.645,
      "defensa": 0.315,
      "neto": 0.961,
      "peso": 45.3,
@@ -1790,7 +1790,7 @@
    "visitante": "Borussia Dortmund",
    "prediccion": {
     "prob_1": 0.377,
-    "prob_X": 0.241,
+    "prob_X": 0.24,
     "prob_2": 0.383,
     "goles_esperados": [
      1.694,
@@ -1824,7 +1824,7 @@
     "fuerza_local": {
      "ataque": 0.35,
      "defensa": 0.086,
-     "neto": 0.436,
+     "neto": 0.435,
      "peso": 39.7,
      "fiable": true
     },
@@ -1902,7 +1902,7 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.63 vs +0.44): ataca ~39% más que el promedio, encaja ~26% menos. VfB Stuttgart juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.69 – 1.71; el modelo ve marcando más a Borussia Dortmund. Y la forma reciente lo confirma: Borussia Dortmund llega mejor (4G-0E-1P vs 2G-2E-1P).",
+    "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.63 vs +0.43): ataca ~39% más que el promedio, encaja ~26% menos. VfB Stuttgart juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.69 – 1.71; el modelo ve marcando más a Borussia Dortmund. Y la forma reciente lo confirma: Borussia Dortmund llega mejor (4G-0E-1P vs 2G-2E-1P).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.675,
@@ -1924,14 +1924,14 @@
    "local": "RC Celta de Vigo",
    "visitante": "Real Racing Club de Santander",
    "prediccion": {
-    "prob_1": 0.577,
+    "prob_1": 0.576,
     "prob_X": 0.202,
     "prob_2": 0.222,
     "goles_esperados": [
-     2.215,
+     2.214,
      1.321
     ],
-    "prob_over_2_5": 0.686,
+    "prob_over_2_5": 0.685,
     "prob_btts": 0.653,
     "marcadores": [
      [
@@ -1950,7 +1950,7 @@
     "cuotas_justas": [
      1.73,
      4.95,
-     4.52
+     4.51
     ],
     "resumen": "Gana RC Celta de Vigo (claro favorito, 58%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -2004,7 +2004,7 @@
     "explicacion": "RC Celta de Vigo es más fuerte de fondo (neto +0.14 vs -0.08): es más completo en general. RC Celta de Vigo juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.21 – 1.32; el modelo ve marcando más a RC Celta de Vigo. Pero ojo: en forma reciente Real Racing Club de Santander llega mejor que RC Celta de Vigo, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de Real Racing Club de Santander: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.686,
+     "prob": 0.685,
      "por_que": "Bastantes goles esperados (2.21 + 1.32 = 3.54); al menos una defensa floja. Probabilidad al over: 69%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -2023,7 +2023,7 @@
    "local": "Nottingham Forest FC",
    "visitante": "Coventry City FC",
    "prediccion": {
-    "prob_1": 0.536,
+    "prob_1": 0.535,
     "prob_X": 0.3,
     "prob_2": 0.164,
     "goles_esperados": [
@@ -2043,13 +2043,13 @@
      ],
      [
       "1-1",
-      0.1301
+      0.1302
      ]
     ],
     "cuotas_justas": [
      1.87,
      3.33,
-     6.1
+     6.09
     ],
     "resumen": "Gana Nottingham Forest FC (ligero favorito, 54%). pocos goles (-2.5).",
     "confianza": "baja"
@@ -2064,9 +2064,9 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.505,
+     "ataque": -0.504,
      "defensa": 0.047,
-     "neto": -0.458,
+     "neto": -0.457,
      "peso": 2.9,
      "fiable": false
     },
@@ -2338,7 +2338,7 @@
     "prob_2": 0.223,
     "goles_esperados": [
      1.485,
-     0.905
+     0.906
     ],
     "prob_over_2_5": 0.428,
     "prob_btts": 0.467,
@@ -2349,7 +2349,7 @@
      ],
      [
       "1-1",
-      0.1295
+      0.1296
      ],
      [
       "2-0",
@@ -2505,12 +2505,12 @@
      "ataque": -0.352,
      "defensa": 0.023,
      "neto": -0.329,
-     "peso": 35.1,
+     "peso": 35.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.012,
-     "defensa": -0.33,
+     "defensa": -0.329,
      "neto": -0.317,
      "peso": 2.9,
      "fiable": false
@@ -2571,7 +2571,7 @@
      1.415
     ],
     "prob_over_2_5": 0.641,
-    "prob_btts": 0.648,
+    "prob_btts": 0.647,
     "marcadores": [
      [
       "1-1",
@@ -2679,7 +2679,7 @@
     "explicacion": "En fuerza de temporada están parejos (neto +0.36 vs +0.25). Olympique Lyonnais juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.89 – 1.42; el modelo ve marcando más a Olympique Lyonnais. En forma reciente pinta algo mejor Stade Rennais FC 1901 (2G-1E-2P vs 3G-1E-1P en 5).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
-     "prob": 0.648,
+     "prob": 0.647,
      "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.89 y 1.42. Probabilidad: 65%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -2734,7 +2734,7 @@
      "ataque": 0.01,
      "defensa": -0.06,
      "neto": -0.05,
-     "peso": 46.2,
+     "peso": 46.1,
      "fiable": true
     },
     "fuerza_visitante": {
