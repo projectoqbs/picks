@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-15",
- "actualizado": "2026-09-11T17:27:36+00:00",
+ "actualizado": "2026-09-12T09:52:19+00:00",
  "partidos": [
   {
    "id": 564678,
@@ -11,50 +11,50 @@
    "local": "Rayo Vallecano de Madrid",
    "visitante": "RCD Espanyol de Barcelona",
    "prediccion": {
-    "prob_1": 0.454,
-    "prob_X": 0.285,
+    "prob_1": 0.455,
+    "prob_X": 0.284,
     "prob_2": 0.261,
     "goles_esperados": [
-     1.297,
-     0.909
+     1.299,
+     0.91
     ],
-    "prob_over_2_5": 0.379,
-    "prob_btts": 0.434,
+    "prob_over_2_5": 0.38,
+    "prob_btts": 0.435,
     "marcadores": [
      [
       "1-0",
-      0.1422
+      0.1425
      ],
      [
       "1-1",
-      0.1305
+      0.1299
      ],
      [
       "0-0",
-      0.1108
+      0.1099
      ]
     ],
     "cuotas_justas": [
      2.2,
-     3.51,
-     3.84
+     3.53,
+     3.83
     ],
-    "resumen": "Gana Rayo Vallecano de Madrid (ligero favorito, 45%). pocos goles (-2.5).",
+    "resumen": "Gana Rayo Vallecano de Madrid (ligero favorito, 46%). pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.107,
-     "defensa": 0.117,
-     "neto": 0.009,
-     "peso": 46.2,
+     "ataque": -0.106,
+     "defensa": 0.116,
+     "neto": 0.01,
+     "peso": 46.1,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.071,
-     "defensa": 0.024,
+     "ataque": -0.07,
+     "defensa": 0.023,
      "neto": -0.047,
-     "peso": 40.2,
+     "peso": 40.1,
      "fiable": true
     },
     "forma_local": {
@@ -120,7 +120,7 @@
     "explicacion": "En fuerza de temporada están parejos (neto +0.01 vs -0.05). Rayo Vallecano de Madrid juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.30 – 0.91; el modelo ve marcando más a Rayo Vallecano de Madrid. También parejos en forma (2G-1E-2P vs 1G-2E-2P en 5).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.621,
+     "prob": 0.62,
      "por_que": "Pocos goles esperados en total (1.30 + 0.91 = 2.21). El modelo ve el partido cerrado (62% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
@@ -139,50 +139,50 @@
    "local": "Deportivo Alavés",
    "visitante": "Valencia CF",
    "prediccion": {
-    "prob_1": 0.491,
+    "prob_1": 0.494,
     "prob_X": 0.264,
-    "prob_2": 0.245,
+    "prob_2": 0.242,
     "goles_esperados": [
-     1.478,
-     0.961
+     1.47,
+     0.943
     ],
-    "prob_over_2_5": 0.441,
-    "prob_btts": 0.477,
+    "prob_over_2_5": 0.434,
+    "prob_btts": 0.47,
     "marcadores": [
      [
       "1-0",
-      0.1283
+      0.1314
      ],
      [
       "1-1",
-      0.1245
+      0.1243
      ],
      [
       "2-0",
-      0.0953
+      0.0967
      ]
     ],
     "cuotas_justas": [
-     2.04,
-     3.79,
-     4.08
+     2.03,
+     3.78,
+     4.13
     ],
     "resumen": "Gana Deportivo Alavés (ligero favorito, 49%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.003,
-     "defensa": 0.055,
+     "ataque": -0.002,
+     "defensa": 0.054,
      "neto": 0.052,
-     "peso": 46.1,
+     "peso": 46.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.077,
-     "defensa": -0.003,
-     "neto": -0.08,
-     "peso": 46.2,
+     "ataque": -0.095,
+     "defensa": 0.004,
+     "neto": -0.091,
+     "peso": 47.1,
      "fiable": true
     },
     "forma_local": {
@@ -202,14 +202,14 @@
     },
     "forma_visitante": {
      "pj": 5,
-     "g": 1,
+     "g": 0,
      "e": 1,
-     "p": 3,
-     "gf": 4,
+     "p": 4,
+     "gf": 1,
      "gc": 10,
      "racha": [
-      "G",
       "E",
+      "P",
       "P",
       "P",
       "P"
@@ -252,14 +252,14 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Deportivo Alavés es más fuerte de fondo (neto +0.05 vs -0.08): es más completo en general. Deportivo Alavés juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.48 – 0.96; el modelo ve marcando más a Deportivo Alavés. Y la forma reciente lo confirma: Deportivo Alavés llega mejor (3G-1E-1P vs 1G-1E-3P).",
+    "explicacion": "Deportivo Alavés es más fuerte de fondo (neto +0.05 vs -0.09): es más completo en general. Deportivo Alavés juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.47 – 0.94; el modelo ve marcando más a Deportivo Alavés. Y la forma reciente lo confirma: Deportivo Alavés llega mejor (3G-1E-1P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.559,
-     "por_que": "Pocos goles esperados en total (1.48 + 0.96 = 2.44). El modelo ve el partido cerrado (56% al under).",
+     "prob": 0.566,
+     "por_que": "Pocos goles esperados en total (1.47 + 0.94 = 2.41). El modelo ve el partido cerrado (57% al under).",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.755
+      "prob": 0.758
      },
      "confianza": "alta"
     }
@@ -275,13 +275,13 @@
    "visitante": "Real Madrid CF",
    "prediccion": {
     "prob_1": 0.183,
-    "prob_X": 0.205,
+    "prob_X": 0.204,
     "prob_2": 0.613,
     "goles_esperados": [
-     1.064,
-     2.107
+     1.065,
+     2.108
     ],
-    "prob_over_2_5": 0.614,
+    "prob_over_2_5": 0.615,
     "prob_btts": 0.576,
     "marcadores": [
      [
@@ -290,16 +290,16 @@
      ],
      [
       "1-1",
-      0.0945
+      0.0941
      ],
      [
       "0-2",
-      0.0932
+      0.093
      ]
     ],
     "cuotas_justas": [
-     5.47,
-     4.88,
+     5.46,
+     4.9,
      1.63
     ],
     "resumen": "Gana Real Madrid CF (claro favorito, 61%). se esperan goles (+2.5).",
@@ -307,17 +307,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.06,
+     "ataque": 0.061,
      "defensa": -0.144,
      "neto": -0.083,
      "peso": 28.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.51,
-     "defensa": 0.389,
-     "neto": 0.899,
-     "peso": 46.1,
+     "ataque": 0.511,
+     "defensa": 0.388,
+     "neto": 0.9,
+     "peso": 46.0,
      "fiable": true
     },
     "forma_local": {

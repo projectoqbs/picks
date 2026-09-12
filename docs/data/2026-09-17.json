@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-17",
- "actualizado": "2026-09-11T17:27:36+00:00",
+ "actualizado": "2026-09-12T09:52:19+00:00",
  "partidos": [
   {
    "id": 564686,
@@ -11,49 +11,49 @@
    "local": "Real Betis Balompié",
    "visitante": "Getafe CF",
    "prediccion": {
-    "prob_1": 0.528,
-    "prob_X": 0.281,
-    "prob_2": 0.191,
+    "prob_1": 0.529,
+    "prob_X": 0.28,
+    "prob_2": 0.192,
     "goles_esperados": [
-     1.369,
-     0.702
+     1.371,
+     0.703
     ],
-    "prob_over_2_5": 0.342,
+    "prob_over_2_5": 0.343,
     "prob_btts": 0.377,
     "marcadores": [
      [
       "1-0",
-      0.172
+      0.1722
      ],
      [
       "0-0",
-      0.1267
+      0.1258
      ],
      [
       "1-1",
-      0.1218
+      0.1213
      ]
     ],
     "cuotas_justas": [
      1.89,
-     3.56,
-     5.23
+     3.58,
+     5.22
     ],
     "resumen": "Gana Real Betis Balompié (ligero favorito, 53%). pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.192,
-     "defensa": 0.098,
-     "neto": 0.29,
-     "peso": 46.1,
+     "ataque": 0.193,
+     "defensa": 0.097,
+     "neto": 0.289,
+     "peso": 46.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.348,
-     "defensa": 0.269,
-     "neto": -0.079,
+     "ataque": -0.346,
+     "defensa": 0.268,
+     "neto": -0.078,
      "peso": 46.1,
      "fiable": true
     },
@@ -127,7 +127,7 @@
     "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.29 vs -0.08): ataca ~21% más que el promedio. Real Betis Balompié juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.37 – 0.70; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (4G-0E-1P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.658,
+     "prob": 0.657,
      "por_que": "Pocos goles esperados en total (1.37 + 0.70 = 2.07); la defensa de Getafe CF aprieta. El modelo ve el partido cerrado (66% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
@@ -146,32 +146,32 @@
    "local": "Málaga CF",
    "visitante": "Villarreal CF",
    "prediccion": {
-    "prob_1": 0.187,
+    "prob_1": 0.188,
     "prob_X": 0.249,
     "prob_2": 0.563,
     "goles_esperados": [
      0.812,
-     1.613
+     1.612
     ],
-    "prob_over_2_5": 0.437,
-    "prob_btts": 0.446,
+    "prob_over_2_5": 0.436,
+    "prob_btts": 0.445,
     "marcadores": [
      [
       "0-1",
-      0.1421
+      0.1426
      ],
      [
       "1-1",
-      0.1165
+      0.1161
      ],
      [
       "0-2",
-      0.1151
+      0.115
      ]
     ],
     "cuotas_justas": [
-     5.34,
-     4.01,
+     5.32,
+     4.02,
      1.78
     ],
     "resumen": "Gana Villarreal CF (claro favorito, 56%).",
@@ -181,13 +181,13 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.574,
-     "defensa": 0.012,
-     "neto": -0.562,
+     "defensa": 0.013,
+     "neto": -0.561,
      "peso": 3.9,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.398,
+     "ataque": 0.399,
      "defensa": 0.025,
      "neto": 0.424,
      "peso": 46.2,
@@ -226,11 +226,11 @@
     "explicacion": "Villarreal CF es más fuerte de fondo (neto +0.42 vs -0.56): ataca ~49% más que el promedio. Málaga CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 0.81 – 1.61; el modelo ve marcando más a Villarreal CF. Y la forma reciente lo confirma: Villarreal CF llega mejor (1G-2E-2P vs 0G-2E-2P). El modelo tiene pocos datos de Málaga CF: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.813,
+     "prob": 0.812,
      "por_que": "Doble oportunidad: cubre que Málaga CF no gane. El escenario que queda afuera (gane Málaga CF) es el menos probable (19%), así que el mercado se cumple ~81% de las veces.",
      "alternativa": {
-      "mercado": "2",
-      "prob": 0.563
+      "mercado": "Menos de 2.5 goles",
+      "prob": 0.564
      },
      "confianza": "baja"
     }

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-18",
- "actualizado": "2026-09-11T17:27:36+00:00",
+ "actualizado": "2026-09-12T09:52:19+00:00",
  "partidos": [
   {
    "id": 565804,
@@ -11,50 +11,50 @@
    "local": "FC Bayern München",
    "visitante": "1. FC Union Berlin",
    "prediccion": {
-    "prob_1": 0.869,
-    "prob_X": 0.089,
-    "prob_2": 0.043,
+    "prob_1": 0.876,
+    "prob_X": 0.085,
+    "prob_2": 0.04,
     "goles_esperados": [
-     3.597,
-     0.806
+     3.676,
+     0.802
     ],
-    "prob_over_2_5": 0.815,
-    "prob_btts": 0.541,
+    "prob_over_2_5": 0.824,
+    "prob_btts": 0.54,
     "marcadores": [
      [
       "3-0",
-      0.0951
+      0.0942
      ],
      [
       "4-0",
-      0.0855
+      0.0866
      ],
      [
       "2-0",
-      0.0793
+      0.0769
      ]
     ],
     "cuotas_justas": [
-     1.15,
-     11.27,
-     23.54
+     1.14,
+     11.84,
+     25.19
     ],
-    "resumen": "Gana FC Bayern München (claro favorito, 87%). se esperan goles (+2.5).",
+    "resumen": "Gana FC Bayern München (claro favorito, 88%). se esperan goles (+2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.758,
-     "defensa": 0.338,
-     "neto": 1.096,
+     "ataque": 0.74,
+     "defensa": 0.344,
+     "neto": 1.084,
      "peso": 39.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.17,
-     "defensa": -0.043,
-     "neto": -0.213,
-     "peso": 39.4,
+     "ataque": -0.188,
+     "defensa": -0.067,
+     "neto": -0.255,
+     "peso": 40.4,
      "fiable": true
     },
     "forma_local": {
@@ -75,15 +75,15 @@
     "forma_visitante": {
      "pj": 5,
      "g": 2,
-     "e": 2,
-     "p": 1,
-     "gf": 12,
-     "gc": 10,
+     "e": 1,
+     "p": 2,
+     "gf": 11,
+     "gc": 11,
      "racha": [
-      "E",
       "G",
       "G",
       "E",
+      "P",
       "P"
      ]
     },
@@ -124,14 +124,14 @@
       "goles_visitante": 5
      }
     ],
-    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.10 vs -0.21): ataca ~113% más que el promedio, encaja ~29% menos. FC Bayern München juega en casa (~+21% de ventaja, ya contada). Goles esperados: 3.60 – 0.81; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (3G-2E-0P vs 2G-2E-1P).",
+    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.08 vs -0.26): ataca ~110% más que el promedio, encaja ~29% menos. FC Bayern München juega en casa (~+20% de ventaja, ya contada). Goles esperados: 3.68 – 0.80; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (3G-2E-0P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.869,
-     "por_que": "FC Bayern München es favorito en casa: marca más (3.60 vs 0.81) y es más fuerte de fondo (neto +1.10 vs -0.21). Probabilidad: 87%.",
+     "prob": 0.876,
+     "por_que": "FC Bayern München es favorito en casa: marca más (3.68 vs 0.80) y es más fuerte de fondo (neto +1.08 vs -0.26). Probabilidad: 88%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.958
+      "prob": 0.96
      },
      "confianza": "alta"
     }
@@ -146,31 +146,31 @@
    "local": "AC Monza",
    "visitante": "US Sassuolo Calcio",
    "prediccion": {
-    "prob_1": 0.261,
+    "prob_1": 0.259,
     "prob_X": 0.247,
-    "prob_2": 0.492,
+    "prob_2": 0.494,
     "goles_esperados": [
-     1.138,
-     1.654
+     1.134,
+     1.655
     ],
-    "prob_over_2_5": 0.529,
-    "prob_btts": 0.551,
+    "prob_over_2_5": 0.528,
+    "prob_btts": 0.55,
     "marcadores": [
      [
       "1-1",
-      0.1168
+      0.117
      ],
      [
       "0-1",
-      0.0999
+      0.1002
      ],
      [
       "1-2",
-      0.0954
+      0.0955
      ]
     ],
     "cuotas_justas": [
-     3.83,
+     3.86,
      4.05,
      2.03
     ],
@@ -179,16 +179,16 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.208,
-     "defensa": -0.304,
-     "neto": -0.512,
+     "ataque": -0.213,
+     "defensa": -0.301,
+     "neto": -0.513,
      "peso": 21.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.069,
-     "defensa": -0.115,
-     "neto": -0.046,
+     "ataque": 0.067,
+     "defensa": -0.112,
+     "neto": -0.045,
      "peso": 33.1,
      "fiable": true
     },
@@ -238,14 +238,14 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "US Sassuolo Calcio es más fuerte de fondo (neto -0.05 vs -0.51): es más completo en general. AC Monza juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.14 – 1.65; el modelo ve marcando más a US Sassuolo Calcio. Y la forma reciente lo confirma: US Sassuolo Calcio llega mejor (1G-1E-3P vs 0G-1E-4P).",
+    "explicacion": "US Sassuolo Calcio es más fuerte de fondo (neto -0.04 vs -0.51): es más completo en general. AC Monza juega en casa (~+9% de ventaja, ya contada). Goles esperados: 1.13 – 1.66; el modelo ve marcando más a US Sassuolo Calcio. Y la forma reciente lo confirma: US Sassuolo Calcio llega mejor (1G-1E-3P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.739,
+     "prob": 0.741,
      "por_que": "Doble oportunidad: cubre que AC Monza no gane. El escenario que queda afuera (gane AC Monza) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
      "alternativa": {
       "mercado": "Ambos marcan: Sí",
-      "prob": 0.551
+      "prob": 0.55
      },
      "confianza": "alta"
     }
@@ -260,32 +260,32 @@
    "local": "AS Monaco FC",
    "visitante": "Racing Club de Lens",
    "prediccion": {
-    "prob_1": 0.413,
-    "prob_X": 0.252,
+    "prob_1": 0.415,
+    "prob_X": 0.25,
     "prob_2": 0.335,
     "goles_esperados": [
-     1.606,
-     1.428
+     1.613,
+     1.43
     ],
-    "prob_over_2_5": 0.584,
-    "prob_btts": 0.613,
+    "prob_over_2_5": 0.586,
+    "prob_btts": 0.614,
     "marcadores": [
      [
       "1-1",
-      0.1161
+      0.1149
      ],
      [
       "2-1",
-      0.0886
+      0.0887
      ],
      [
       "1-2",
-      0.0788
+      0.0786
      ]
     ],
     "cuotas_justas": [
-     2.42,
-     3.97,
+     2.41,
+     4.0,
      2.98
     ],
     "resumen": "Partido parejo. se esperan goles (+2.5). ambos marcan.",
@@ -293,17 +293,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.301,
-     "defensa": 0.1,
+     "ataque": 0.303,
+     "defensa": 0.097,
      "neto": 0.4,
      "peso": 40.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.211,
-     "defensa": 0.246,
-     "neto": 0.458,
-     "peso": 40.4,
+     "ataque": 0.213,
+     "defensa": 0.244,
+     "neto": 0.457,
+     "peso": 40.3,
      "fiable": true
     },
     "forma_local": {
@@ -376,11 +376,11 @@
     "explicacion": "En fuerza de temporada están parejos (neto +0.40 vs +0.46). AS Monaco FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.61 – 1.43; el modelo ve marcando más a AS Monaco FC. En forma reciente pinta algo mejor AS Monaco FC (3G-0E-2P vs 2G-0E-3P en 5).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
-     "prob": 0.613,
+     "prob": 0.614,
      "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.61 y 1.43. Probabilidad: 61%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.811
+      "prob": 0.812
      },
      "confianza": "alta"
     }
@@ -395,32 +395,32 @@
    "local": "RCD Espanyol de Barcelona",
    "visitante": "Elche CF",
    "prediccion": {
-    "prob_1": 0.478,
-    "prob_X": 0.25,
+    "prob_1": 0.479,
+    "prob_X": 0.249,
     "prob_2": 0.272,
     "goles_esperados": [
-     1.59,
-     1.137
+     1.592,
+     1.138
     ],
-    "prob_over_2_5": 0.513,
+    "prob_over_2_5": 0.514,
     "prob_btts": 0.541,
     "marcadores": [
      [
       "1-1",
-      0.1189
+      0.1183
      ],
      [
       "1-0",
-      0.1034
+      0.1037
      ],
      [
       "2-1",
-      0.094
+      0.0941
      ]
     ],
     "cuotas_justas": [
      2.09,
-     3.99,
+     4.01,
      3.68
     ],
     "resumen": "Gana RCD Espanyol de Barcelona (ligero favorito, 48%).",
@@ -428,14 +428,14 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.071,
-     "defensa": 0.024,
+     "ataque": -0.07,
+     "defensa": 0.023,
      "neto": -0.047,
-     "peso": 40.2,
+     "peso": 40.1,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.06,
+     "ataque": 0.061,
      "defensa": -0.144,
      "neto": -0.083,
      "peso": 28.0,
@@ -536,14 +536,14 @@
      "ataque": 0.168,
      "defensa": 0.035,
      "neto": 0.203,
-     "peso": 44.9,
+     "peso": 44.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.259,
      "defensa": 0.029,
      "neto": 0.287,
-     "peso": 44.9,
+     "peso": 44.8,
      "fiable": true
     },
     "forma_local": {

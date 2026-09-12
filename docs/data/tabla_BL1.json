@@ -4,193 +4,193 @@
  "equipos": [
   {
    "equipo": "FC Bayern München",
-   "ataque": 0.758,
-   "defensa": 0.338,
-   "neto": 1.096,
+   "ataque": 0.74,
+   "defensa": 0.344,
+   "neto": 1.084,
    "peso": 39.7,
    "fiable": true
   },
   {
    "equipo": "Borussia Dortmund",
-   "ataque": 0.33,
+   "ataque": 0.312,
    "defensa": 0.302,
-   "neto": 0.632,
+   "neto": 0.614,
    "peso": 39.7,
    "fiable": true
   },
   {
    "equipo": "Bayer 04 Leverkusen",
-   "ataque": 0.355,
+   "ataque": 0.337,
    "defensa": 0.243,
-   "neto": 0.598,
-   "peso": 39.8,
-   "fiable": true
-  },
-  {
-   "equipo": "VfB Stuttgart",
-   "ataque": 0.35,
-   "defensa": 0.086,
-   "neto": 0.435,
+   "neto": 0.58,
    "peso": 39.7,
    "fiable": true
   },
   {
    "equipo": "SV 07 Elversberg",
-   "ataque": 0.661,
+   "ataque": 0.65,
    "defensa": -0.228,
-   "neto": 0.433,
+   "neto": 0.422,
    "peso": 2.0,
    "fiable": false
   },
   {
+   "equipo": "VfB Stuttgart",
+   "ataque": 0.332,
+   "defensa": 0.086,
+   "neto": 0.418,
+   "peso": 39.7,
+   "fiable": true
+  },
+  {
    "equipo": "RB Leipzig",
-   "ataque": 0.235,
+   "ataque": 0.218,
    "defensa": 0.133,
-   "neto": 0.368,
+   "neto": 0.351,
    "peso": 39.7,
    "fiable": true
   },
   {
    "equipo": "1. FSV Mainz 05",
-   "ataque": -0.013,
+   "ataque": -0.031,
    "defensa": 0.147,
-   "neto": 0.134,
+   "neto": 0.116,
    "peso": 39.7,
    "fiable": true
   },
   {
    "equipo": "Eintracht Frankfurt",
-   "ataque": 0.197,
+   "ataque": 0.179,
    "defensa": -0.091,
-   "neto": 0.105,
+   "neto": 0.088,
    "peso": 39.7,
    "fiable": true
   },
   {
+   "equipo": "FC Schalke 04",
+   "ataque": -0.12,
+   "defensa": 0.2,
+   "neto": 0.08,
+   "peso": 3.0,
+   "fiable": false
+  },
+  {
    "equipo": "TSG 1899 Hoffenheim",
-   "ataque": 0.187,
+   "ataque": 0.169,
    "defensa": -0.102,
-   "neto": 0.085,
+   "neto": 0.067,
    "peso": 39.7,
    "fiable": true
   },
   {
    "equipo": "SC Freiburg",
-   "ataque": 0.04,
+   "ataque": 0.023,
    "defensa": 0.008,
-   "neto": 0.048,
+   "neto": 0.031,
    "peso": 39.7,
    "fiable": true
   },
   {
    "equipo": "FC Augsburg",
-   "ataque": -0.062,
-   "defensa": 0.006,
-   "neto": -0.056,
+   "ataque": -0.08,
+   "defensa": 0.011,
+   "neto": -0.068,
    "peso": 39.7,
    "fiable": true
   },
   {
    "equipo": "Borussia Mönchengladbach",
-   "ataque": -0.03,
+   "ataque": -0.047,
    "defensa": -0.034,
-   "neto": -0.064,
+   "neto": -0.081,
    "peso": 39.7,
    "fiable": true
   },
   {
    "equipo": "SV Werder Bremen",
-   "ataque": -0.11,
+   "ataque": -0.127,
    "defensa": -0.041,
-   "neto": -0.151,
+   "neto": -0.168,
    "peso": 39.7,
    "fiable": true
   },
   {
    "equipo": "VfL Wolfsburg",
-   "ataque": -0.061,
+   "ataque": -0.078,
    "defensa": -0.106,
-   "neto": -0.166,
-   "peso": 37.8,
+   "neto": -0.184,
+   "peso": 37.7,
    "fiable": true
   },
   {
    "equipo": "SC Paderborn 07",
-   "ataque": -0.564,
-   "defensa": 0.362,
-   "neto": -0.201,
+   "ataque": -0.569,
+   "defensa": 0.361,
+   "neto": -0.208,
    "peso": 2.0,
    "fiable": false
   },
   {
    "equipo": "1. FC Köln",
-   "ataque": -0.063,
-   "defensa": -0.146,
-   "neto": -0.208,
+   "ataque": -0.08,
+   "defensa": -0.145,
+   "neto": -0.225,
    "peso": 28.9,
    "fiable": true
   },
   {
    "equipo": "1. FC Union Berlin",
-   "ataque": -0.17,
-   "defensa": -0.043,
-   "neto": -0.213,
-   "peso": 39.4,
+   "ataque": -0.188,
+   "defensa": -0.067,
+   "neto": -0.255,
+   "peso": 40.4,
    "fiable": true
   },
   {
    "equipo": "Hamburger SV",
-   "ataque": -0.224,
+   "ataque": -0.241,
    "defensa": -0.053,
-   "neto": -0.277,
+   "neto": -0.294,
    "peso": 23.6,
    "fiable": true
   },
   {
    "equipo": "Holstein Kiel",
-   "ataque": 0.006,
+   "ataque": -0.009,
    "defensa": -0.309,
-   "neto": -0.303,
+   "neto": -0.318,
    "peso": 10.8,
    "fiable": true
   },
   {
-   "equipo": "FC Schalke 04",
-   "ataque": -0.495,
-   "defensa": 0.189,
-   "neto": -0.306,
-   "peso": 2.0,
-   "fiable": false
-  },
-  {
    "equipo": "1. FC Heidenheim 1846",
-   "ataque": -0.154,
+   "ataque": -0.171,
    "defensa": -0.16,
-   "neto": -0.313,
-   "peso": 37.8,
+   "neto": -0.331,
+   "peso": 37.7,
    "fiable": true
   },
   {
    "equipo": "FC St. Pauli 1910",
-   "ataque": -0.511,
+   "ataque": -0.528,
    "defensa": 0.05,
-   "neto": -0.461,
+   "neto": -0.478,
    "peso": 32.4,
    "fiable": true
   },
   {
    "equipo": "VfL Bochum 1848",
-   "ataque": -0.292,
+   "ataque": -0.308,
    "defensa": -0.2,
-   "neto": -0.493,
+   "neto": -0.508,
    "peso": 15.9,
    "fiable": true
   },
   {
    "equipo": "SV Darmstadt 98",
-   "ataque": -0.371,
+   "ataque": -0.383,
    "defensa": -0.349,
-   "neto": -0.72,
+   "neto": -0.732,
    "peso": 5.4,
    "fiable": false
   }
