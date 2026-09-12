@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-20",
- "actualizado": "2026-09-12T09:52:19+00:00",
+ "actualizado": "2026-09-12T16:41:07+00:00",
  "partidos": [
   {
    "id": 558591,
@@ -11,23 +11,23 @@
    "local": "ACF Fiorentina",
    "visitante": "SSC Napoli",
    "prediccion": {
-    "prob_1": 0.258,
-    "prob_X": 0.258,
+    "prob_1": 0.257,
+    "prob_X": 0.259,
     "prob_2": 0.484,
     "goles_esperados": [
-     1.055,
-     1.544
+     1.056,
+     1.546
     ],
-    "prob_over_2_5": 0.481,
-    "prob_btts": 0.514,
+    "prob_over_2_5": 0.482,
+    "prob_btts": 0.515,
     "marcadores": [
      [
       "1-1",
-      0.1228
+      0.1232
      ],
      [
       "0-1",
-      0.1131
+      0.1124
      ],
      [
       "1-2",
@@ -35,24 +35,24 @@
      ]
     ],
     "cuotas_justas": [
-     3.88,
-     3.88,
-     2.06
+     3.89,
+     3.86,
+     2.07
     ],
     "resumen": "Gana SSC Napoli (ligero favorito, 48%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.104,
-     "defensa": -0.036,
+     "ataque": 0.106,
+     "defensa": -0.037,
      "neto": 0.068,
      "peso": 46.2,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.262,
-     "defensa": 0.277,
+     "ataque": 0.263,
+     "defensa": 0.276,
      "neto": 0.539,
      "peso": 45.1,
      "fiable": true
@@ -124,10 +124,10 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "SSC Napoli es más fuerte de fondo (neto +0.54 vs +0.07): ataca ~30% más que el promedio, encaja ~24% menos. ACF Fiorentina juega en casa (~+9% de ventaja, ya contada). Goles esperados: 1.05 – 1.54; el modelo ve marcando más a SSC Napoli. Y la forma reciente lo confirma: SSC Napoli llega mejor (3G-0E-2P vs 1G-1E-3P).",
+    "explicacion": "SSC Napoli es más fuerte de fondo (neto +0.54 vs +0.07): ataca ~30% más que el promedio, encaja ~24% menos. ACF Fiorentina juega en casa (~+9% de ventaja, ya contada). Goles esperados: 1.06 – 1.55; el modelo ve marcando más a SSC Napoli. Y la forma reciente lo confirma: SSC Napoli llega mejor (3G-0E-2P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.742,
+     "prob": 0.743,
      "por_que": "Doble oportunidad: cubre que ACF Fiorentina no gane. El escenario que queda afuera (gane ACF Fiorentina) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
      "alternativa": null,
      "confianza": "alta"
@@ -145,31 +145,31 @@
    "prediccion": {
     "prob_1": 0.489,
     "prob_X": 0.345,
-    "prob_2": 0.166,
+    "prob_2": 0.167,
     "goles_esperados": [
      1.032,
-     0.472
+     0.473
     ],
     "prob_over_2_5": 0.192,
-    "prob_btts": 0.242,
+    "prob_btts": 0.243,
     "marcadores": [
      [
       "1-0",
-      0.2293
+      0.229
      ],
      [
       "0-0",
-      0.2224
+      0.2222
      ],
      [
       "2-0",
-      0.1184
+      0.1182
      ]
     ],
     "cuotas_justas": [
-     2.04,
+     2.05,
      2.9,
-     6.01
+     6.0
     ],
     "resumen": "Gana Getafe CF (ligero favorito, 49%). pocos goles (-2.5).",
     "confianza": "baja"
@@ -177,16 +177,16 @@
    "nota": "pocos datos: 'Málaga CF' solo tiene 3.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.346,
-     "defensa": 0.268,
-     "neto": -0.078,
-     "peso": 46.1,
+     "ataque": -0.345,
+     "defensa": 0.266,
+     "neto": -0.08,
+     "peso": 46.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.574,
-     "defensa": 0.013,
-     "neto": -0.561,
+     "defensa": 0.011,
+     "neto": -0.563,
      "peso": 3.9,
      "fiable": false
     },
@@ -220,7 +220,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Getafe CF es más fuerte de fondo (neto -0.08 vs -0.56): encaja ~24% menos. Getafe CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.03 – 0.47; el modelo ve marcando más a Getafe CF. Y la forma reciente lo confirma: Getafe CF llega mejor (2G-1E-2P vs 0G-2E-2P). El modelo tiene pocos datos de Málaga CF: tomalo con pinzas.",
+    "explicacion": "Getafe CF es más fuerte de fondo (neto -0.08 vs -0.56): encaja ~23% menos. Getafe CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.03 – 0.47; el modelo ve marcando más a Getafe CF. Y la forma reciente lo confirma: Getafe CF llega mejor (2G-1E-2P vs 0G-2E-2P). El modelo tiene pocos datos de Málaga CF: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.808,
@@ -230,593 +230,6 @@
       "prob": 0.934
      },
      "confianza": "baja"
-    }
-   }
-  },
-  {
-   "id": 558592,
-   "competicion": "Serie A",
-   "competicion_codigo": "SA",
-   "fecha_utc": "2026-09-20T13:00:00Z",
-   "jornada": 5,
-   "local": "Frosinone Calcio",
-   "visitante": "Como 1907",
-   "prediccion": {
-    "prob_1": 0.214,
-    "prob_X": 0.227,
-    "prob_2": 0.559,
-    "goles_esperados": [
-     1.083,
-     1.88
-    ],
-    "prob_over_2_5": 0.569,
-    "prob_btts": 0.562,
-    "marcadores": [
-     [
-      "1-1",
-      0.1066
-     ],
-     [
-      "1-2",
-      0.0989
-     ],
-     [
-      "0-1",
-      0.0957
-     ]
-    ],
-    "cuotas_justas": [
-     4.66,
-     4.4,
-     1.79
-    ],
-    "resumen": "Gana Como 1907 (claro favorito, 56%).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.128,
-     "defensa": -0.153,
-     "neto": -0.025,
-     "peso": 8.9,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.342,
-     "defensa": 0.274,
-     "neto": 0.617,
-     "peso": 39.1,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 3,
-     "e": 0,
-     "p": 2,
-     "gf": 7,
-     "gc": 4,
-     "racha": [
-      "G",
-      "P",
-      "P",
-      "G",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 4,
-     "e": 1,
-     "p": 0,
-     "gf": 12,
-     "gc": 4,
-     "racha": [
-      "G",
-      "G",
-      "E",
-      "G",
-      "G"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.62 vs -0.03): ataca ~41% más que el promedio, encaja ~24% menos. Frosinone Calcio juega en casa (~+9% de ventaja, ya contada). Goles esperados: 1.08 – 1.88; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (4G-1E-0P vs 3G-0E-2P).",
-    "recomendacion": {
-     "mercado": "X2",
-     "prob": 0.786,
-     "por_que": "Doble oportunidad: cubre que Frosinone Calcio no gane. El escenario que queda afuera (gane Frosinone Calcio) es el menos probable (21%), así que el mercado se cumple ~79% de las veces.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.797
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 558590,
-   "competicion": "Serie A",
-   "competicion_codigo": "SA",
-   "fecha_utc": "2026-09-20T13:00:00Z",
-   "jornada": 5,
-   "local": "Parma Calcio 1913",
-   "visitante": "Genoa CFC",
-   "prediccion": {
-    "prob_1": 0.323,
-    "prob_X": 0.314,
-    "prob_2": 0.363,
-    "goles_esperados": [
-     0.951,
-     1.027
-    ],
-    "prob_over_2_5": 0.317,
-    "prob_btts": 0.396,
-    "marcadores": [
-     [
-      "0-1",
-      0.1402
-     ],
-     [
-      "0-0",
-      0.1402
-     ],
-     [
-      "1-1",
-      0.137
-     ]
-    ],
-    "cuotas_justas": [
-     3.1,
-     3.18,
-     2.75
-    ],
-    "resumen": "Partido parejo. pocos goles (-2.5).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.298,
-     "defensa": 0.01,
-     "neto": -0.288,
-     "peso": 39.1,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.1,
-     "defensa": -0.021,
-     "neto": -0.122,
-     "peso": 45.1,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 1,
-     "e": 1,
-     "p": 3,
-     "gf": 2,
-     "gc": 5,
-     "racha": [
-      "P",
-      "G",
-      "P",
-      "P",
-      "E"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 0,
-     "e": 0,
-     "p": 5,
-     "gf": 2,
-     "gc": 10,
-     "racha": [
-      "P",
-      "P",
-      "P",
-      "P",
-      "P"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-01-18",
-      "local": "Parma Calcio 1913",
-      "visitante": "Genoa CFC",
-      "goles_local": 0,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-10-19",
-      "local": "Genoa CFC",
-      "visitante": "Parma Calcio 1913",
-      "goles_local": 0,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-01-12",
-      "local": "Genoa CFC",
-      "visitante": "Parma Calcio 1913",
-      "goles_local": 1,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2024-11-04",
-      "local": "Parma Calcio 1913",
-      "visitante": "Genoa CFC",
-      "goles_local": 0,
-      "goles_visitante": 1
-     }
-    ],
-    "explicacion": "Genoa CFC es más fuerte de fondo (neto -0.12 vs -0.29): es más completo en general. Parma Calcio 1913 juega en casa (~+9% de ventaja, ya contada). Goles esperados: 0.95 – 1.03; el modelo ve marcando más a Genoa CFC. Pero ojo: en forma reciente Parma Calcio 1913 llega mejor que Genoa CFC, así que puede estar más cerca de lo que dice el neto.",
-    "recomendacion": {
-     "mercado": "Menos de 2.5 goles",
-     "prob": 0.683,
-     "por_que": "Pocos goles esperados en total (0.95 + 1.03 = 1.98). El modelo ve el partido cerrado (68% al under).",
-     "alternativa": {
-      "mercado": "Menos de 3.5 goles",
-      "prob": 0.861
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 560582,
-   "competicion": "Premier League",
-   "competicion_codigo": "PL",
-   "fecha_utc": "2026-09-20T13:00:00Z",
-   "jornada": 5,
-   "local": "AFC Bournemouth",
-   "visitante": "Liverpool FC",
-   "prediccion": {
-    "prob_1": 0.336,
-    "prob_X": 0.258,
-    "prob_2": 0.407,
-    "goles_esperados": [
-     1.493,
-     1.658
-    ],
-    "prob_over_2_5": 0.61,
-    "prob_btts": 0.639,
-    "marcadores": [
-     [
-      "1-1",
-      0.117
-     ],
-     [
-      "1-2",
-      0.0879
-     ],
-     [
-      "2-1",
-      0.0791
-     ]
-    ],
-    "cuotas_justas": [
-     2.98,
-     3.88,
-     2.46
-    ],
-    "resumen": "Partido parejo. se esperan goles (+2.5). ambos marcan.",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.151,
-     "defensa": 0.054,
-     "neto": 0.206,
-     "peso": 44.8,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.37,
-     "defensa": 0.112,
-     "neto": 0.482,
-     "peso": 44.8,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 0,
-     "e": 4,
-     "p": 1,
-     "gf": 6,
-     "gc": 7,
-     "racha": [
-      "E",
-      "E",
-      "P",
-      "E",
-      "E"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 1,
-     "e": 3,
-     "p": 1,
-     "gf": 9,
-     "gc": 9,
-     "racha": [
-      "P",
-      "E",
-      "E",
-      "E",
-      "G"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-01-24",
-      "local": "AFC Bournemouth",
-      "visitante": "Liverpool FC",
-      "goles_local": 3,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2025-08-15",
-      "local": "Liverpool FC",
-      "visitante": "AFC Bournemouth",
-      "goles_local": 4,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2025-02-01",
-      "local": "AFC Bournemouth",
-      "visitante": "Liverpool FC",
-      "goles_local": 0,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2024-09-21",
-      "local": "Liverpool FC",
-      "visitante": "AFC Bournemouth",
-      "goles_local": 3,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2024-01-21",
-      "local": "AFC Bournemouth",
-      "visitante": "Liverpool FC",
-      "goles_local": 0,
-      "goles_visitante": 4
-     }
-    ],
-    "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.48 vs +0.21): ataca ~45% más que el promedio, encaja ~11% menos. AFC Bournemouth juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.49 – 1.66; el modelo ve marcando más a Liverpool FC. Y la forma reciente lo confirma: Liverpool FC llega mejor (1G-3E-1P vs 0G-4E-1P).",
-    "recomendacion": {
-     "mercado": "Ambos marcan: Sí",
-     "prob": 0.639,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.49 y 1.66. Probabilidad: 64%.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.833
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 560585,
-   "competicion": "Premier League",
-   "competicion_codigo": "PL",
-   "fecha_utc": "2026-09-20T13:00:00Z",
-   "jornada": 5,
-   "local": "Leeds United FC",
-   "visitante": "Crystal Palace FC",
-   "prediccion": {
-    "prob_1": 0.442,
-    "prob_X": 0.288,
-    "prob_2": 0.269,
-    "goles_esperados": [
-     1.45,
-     1.082
-    ],
-    "prob_over_2_5": 0.464,
-    "prob_btts": 0.519,
-    "marcadores": [
-     [
-      "1-1",
-      0.1377
-     ],
-     [
-      "1-0",
-      0.1023
-     ],
-     [
-      "0-0",
-      0.0925
-     ]
-    ],
-    "cuotas_justas": [
-     2.26,
-     3.47,
-     3.72
-    ],
-    "resumen": "Gana Leeds United FC (ligero favorito, 44%).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.008,
-     "defensa": 0.093,
-     "neto": 0.101,
-     "peso": 26.8,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.018,
-     "defensa": -0.002,
-     "neto": -0.02,
-     "peso": 44.9,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 2,
-     "e": 2,
-     "p": 1,
-     "gf": 4,
-     "gc": 5,
-     "racha": [
-      "G",
-      "P",
-      "G",
-      "E",
-      "E"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 1,
-     "e": 1,
-     "p": 3,
-     "gf": 7,
-     "gc": 12,
-     "racha": [
-      "E",
-      "P",
-      "P",
-      "P",
-      "G"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-03-15",
-      "local": "Crystal Palace FC",
-      "visitante": "Leeds United FC",
-      "goles_local": 0,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-12-20",
-      "local": "Leeds United FC",
-      "visitante": "Crystal Palace FC",
-      "goles_local": 4,
-      "goles_visitante": 1
-     }
-    ],
-    "explicacion": "Leeds United FC es más fuerte de fondo (neto +0.10 vs -0.02): es más completo en general. Leeds United FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.45 – 1.08; el modelo ve marcando más a Leeds United FC. Y la forma reciente lo confirma: Leeds United FC llega mejor (2G-2E-1P vs 1G-1E-3P).",
-    "recomendacion": {
-     "mercado": "1X",
-     "prob": 0.731,
-     "por_que": "Doble oportunidad: cubre que Leeds United FC no pierda. El escenario que queda afuera (gane Crystal Palace FC) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
-     "alternativa": null,
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 560590,
-   "competicion": "Premier League",
-   "competicion_codigo": "PL",
-   "fecha_utc": "2026-09-20T13:00:00Z",
-   "jornada": 5,
-   "local": "Manchester City FC",
-   "visitante": "Sunderland AFC",
-   "prediccion": {
-    "prob_1": 0.648,
-    "prob_X": 0.23,
-    "prob_2": 0.121,
-    "goles_esperados": [
-     1.92,
-     0.718
-    ],
-    "prob_over_2_5": 0.491,
-    "prob_btts": 0.447,
-    "marcadores": [
-     [
-      "2-0",
-      0.1318
-     ],
-     [
-      "1-0",
-      0.127
-     ],
-     [
-      "1-1",
-      0.1088
-     ]
-    ],
-    "cuotas_justas": [
-     1.54,
-     4.34,
-     8.23
-    ],
-    "resumen": "Gana Manchester City FC (claro favorito, 65%).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.441,
-     "defensa": 0.381,
-     "neto": 0.822,
-     "peso": 44.9,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.141,
-     "defensa": 0.15,
-     "neto": 0.009,
-     "peso": 26.8,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 3,
-     "e": 1,
-     "p": 1,
-     "gf": 9,
-     "gc": 5,
-     "racha": [
-      "E",
-      "P",
-      "G",
-      "G",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 3,
-     "e": 1,
-     "p": 1,
-     "gf": 8,
-     "gc": 5,
-     "racha": [
-      "G",
-      "G",
-      "P",
-      "G",
-      "E"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-01-01",
-      "local": "Sunderland AFC",
-      "visitante": "Manchester City FC",
-      "goles_local": 0,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-12-06",
-      "local": "Manchester City FC",
-      "visitante": "Sunderland AFC",
-      "goles_local": 3,
-      "goles_visitante": 0
-     }
-    ],
-    "explicacion": "Manchester City FC es más fuerte de fondo (neto +0.82 vs +0.01): ataca ~55% más que el promedio, encaja ~32% menos. Manchester City FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.92 – 0.72; el modelo ve marcando más a Manchester City FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
-    "recomendacion": {
-     "mercado": "1X",
-     "prob": 0.878,
-     "por_que": "Doble oportunidad: cubre que Manchester City FC no pierda. El escenario que queda afuera (gane Sunderland AFC) es el menos probable (12%), así que el mercado se cumple ~88% de las veces.",
-     "alternativa": {
-      "mercado": "1",
-      "prob": 0.648
-     },
-     "confianza": "alta"
     }
    }
   },
@@ -834,7 +247,7 @@
     "prob_2": 0.348,
     "goles_esperados": [
      1.467,
-     1.371
+     1.372
     ],
     "prob_over_2_5": 0.54,
     "prob_btts": 0.579,
@@ -845,7 +258,7 @@
      ],
      [
       "2-1",
-      0.0864
+      0.0863
      ],
      [
       "1-2",
@@ -872,7 +285,7 @@
      "ataque": 0.063,
      "defensa": -0.059,
      "neto": 0.004,
-     "peso": 40.4,
+     "peso": 40.3,
      "fiable": true
     },
     "forma_local": {
@@ -949,6 +362,593 @@
    }
   },
   {
+   "id": 558592,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-09-20T13:00:00Z",
+   "jornada": 5,
+   "local": "Frosinone Calcio",
+   "visitante": "Como 1907",
+   "prediccion": {
+    "prob_1": 0.214,
+    "prob_X": 0.231,
+    "prob_2": 0.556,
+    "goles_esperados": [
+     1.061,
+     1.847
+    ],
+    "prob_over_2_5": 0.556,
+    "prob_btts": 0.553,
+    "marcadores": [
+     [
+      "1-1",
+      0.1089
+     ],
+     [
+      "0-1",
+      0.0989
+     ],
+     [
+      "1-2",
+      0.0988
+     ]
+    ],
+    "cuotas_justas": [
+     4.68,
+     4.33,
+     1.8
+    ],
+    "resumen": "Gana Como 1907 (claro favorito, 56%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.108,
+     "defensa": -0.135,
+     "neto": -0.027,
+     "peso": 9.9,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.344,
+     "defensa": 0.273,
+     "neto": 0.617,
+     "peso": 39.1,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 7,
+     "gc": 5,
+     "racha": [
+      "P",
+      "P",
+      "G",
+      "G",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 4,
+     "e": 1,
+     "p": 0,
+     "gf": 12,
+     "gc": 4,
+     "racha": [
+      "G",
+      "G",
+      "E",
+      "G",
+      "G"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.62 vs -0.03): ataca ~41% más que el promedio, encaja ~24% menos. Frosinone Calcio juega en casa (~+9% de ventaja, ya contada). Goles esperados: 1.06 – 1.85; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (4G-1E-0P vs 2G-1E-2P).",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.786,
+     "por_que": "Doble oportunidad: cubre que Frosinone Calcio no gane. El escenario que queda afuera (gane Frosinone Calcio) es el menos probable (21%), así que el mercado se cumple ~79% de las veces.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.789
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 558590,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-09-20T13:00:00Z",
+   "jornada": 5,
+   "local": "Parma Calcio 1913",
+   "visitante": "Genoa CFC",
+   "prediccion": {
+    "prob_1": 0.322,
+    "prob_X": 0.316,
+    "prob_2": 0.361,
+    "goles_esperados": [
+     0.947,
+     1.021
+    ],
+    "prob_over_2_5": 0.315,
+    "prob_btts": 0.394,
+    "marcadores": [
+     [
+      "0-0",
+      0.1422
+     ],
+     [
+      "0-1",
+      0.1403
+     ],
+     [
+      "1-1",
+      0.1375
+     ]
+    ],
+    "cuotas_justas": [
+     3.1,
+     3.16,
+     2.77
+    ],
+    "resumen": "Partido parejo. pocos goles (-2.5).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.297,
+     "defensa": 0.009,
+     "neto": -0.288,
+     "peso": 39.1,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.105,
+     "defensa": -0.018,
+     "neto": -0.123,
+     "peso": 46.1,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 2,
+     "gc": 5,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "P",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 0,
+     "e": 1,
+     "p": 4,
+     "gf": 2,
+     "gc": 9,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "P",
+      "E"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-01-18",
+      "local": "Parma Calcio 1913",
+      "visitante": "Genoa CFC",
+      "goles_local": 0,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-10-19",
+      "local": "Genoa CFC",
+      "visitante": "Parma Calcio 1913",
+      "goles_local": 0,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-01-12",
+      "local": "Genoa CFC",
+      "visitante": "Parma Calcio 1913",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-11-04",
+      "local": "Parma Calcio 1913",
+      "visitante": "Genoa CFC",
+      "goles_local": 0,
+      "goles_visitante": 1
+     }
+    ],
+    "explicacion": "Genoa CFC es más fuerte de fondo (neto -0.12 vs -0.29): es más completo en general. Parma Calcio 1913 juega en casa (~+9% de ventaja, ya contada). Goles esperados: 0.95 – 1.02; el modelo ve marcando más a Genoa CFC. Pero ojo: en forma reciente Parma Calcio 1913 llega mejor que Genoa CFC, así que puede estar más cerca de lo que dice el neto.",
+    "recomendacion": {
+     "mercado": "Menos de 2.5 goles",
+     "prob": 0.685,
+     "por_que": "Pocos goles esperados en total (0.95 + 1.02 = 1.97). El modelo ve el partido cerrado (69% al under).",
+     "alternativa": {
+      "mercado": "Menos de 3.5 goles",
+      "prob": 0.863
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 560582,
+   "competicion": "Premier League",
+   "competicion_codigo": "PL",
+   "fecha_utc": "2026-09-20T13:00:00Z",
+   "jornada": 5,
+   "local": "AFC Bournemouth",
+   "visitante": "Liverpool FC",
+   "prediccion": {
+    "prob_1": 0.332,
+    "prob_X": 0.261,
+    "prob_2": 0.408,
+    "goles_esperados": [
+     1.471,
+     1.647
+    ],
+    "prob_over_2_5": 0.603,
+    "prob_btts": 0.634,
+    "marcadores": [
+     [
+      "1-1",
+      0.1192
+     ],
+     [
+      "1-2",
+      0.0883
+     ],
+     [
+      "2-1",
+      0.0788
+     ]
+    ],
+    "cuotas_justas": [
+     3.02,
+     3.83,
+     2.45
+    ],
+    "resumen": "Partido parejo. se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.15,
+     "defensa": 0.051,
+     "neto": 0.201,
+     "peso": 45.8,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.341,
+     "defensa": 0.136,
+     "neto": 0.477,
+     "peso": 45.8,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 0,
+     "e": 4,
+     "p": 1,
+     "gf": 7,
+     "gc": 8,
+     "racha": [
+      "E",
+      "P",
+      "E",
+      "E",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 4,
+     "p": 0,
+     "gf": 7,
+     "gc": 5,
+     "racha": [
+      "E",
+      "E",
+      "E",
+      "G",
+      "E"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-01-24",
+      "local": "AFC Bournemouth",
+      "visitante": "Liverpool FC",
+      "goles_local": 3,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-08-15",
+      "local": "Liverpool FC",
+      "visitante": "AFC Bournemouth",
+      "goles_local": 4,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-02-01",
+      "local": "AFC Bournemouth",
+      "visitante": "Liverpool FC",
+      "goles_local": 0,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-09-21",
+      "local": "Liverpool FC",
+      "visitante": "AFC Bournemouth",
+      "goles_local": 3,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-01-21",
+      "local": "AFC Bournemouth",
+      "visitante": "Liverpool FC",
+      "goles_local": 0,
+      "goles_visitante": 4
+     }
+    ],
+    "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.48 vs +0.20): ataca ~41% más que el promedio, encaja ~13% menos. AFC Bournemouth juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.47 – 1.65; el modelo ve marcando más a Liverpool FC. Y la forma reciente lo confirma: Liverpool FC llega mejor (1G-4E-0P vs 0G-4E-1P).",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.668,
+     "por_que": "Doble oportunidad: cubre que AFC Bournemouth no gane. El escenario que queda afuera (gane AFC Bournemouth) es el menos probable (33%), así que el mercado se cumple ~67% de las veces.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.83
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 560585,
+   "competicion": "Premier League",
+   "competicion_codigo": "PL",
+   "fecha_utc": "2026-09-20T13:00:00Z",
+   "jornada": 5,
+   "local": "Leeds United FC",
+   "visitante": "Crystal Palace FC",
+   "prediccion": {
+    "prob_1": 0.449,
+    "prob_X": 0.287,
+    "prob_2": 0.264,
+    "goles_esperados": [
+     1.485,
+     1.088
+    ],
+    "prob_over_2_5": 0.475,
+    "prob_btts": 0.527,
+    "marcadores": [
+     [
+      "1-1",
+      0.1371
+     ],
+     [
+      "1-0",
+      0.0995
+     ],
+     [
+      "2-1",
+      0.0915
+     ]
+    ],
+    "cuotas_justas": [
+     2.23,
+     3.48,
+     3.79
+    ],
+    "resumen": "Gana Leeds United FC (ligero favorito, 45%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.0,
+     "defensa": 0.099,
+     "neto": 0.1,
+     "peso": 26.8,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.025,
+     "defensa": -0.023,
+     "neto": -0.048,
+     "peso": 45.9,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 2,
+     "p": 1,
+     "gf": 4,
+     "gc": 5,
+     "racha": [
+      "G",
+      "P",
+      "G",
+      "E",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 7,
+     "gc": 13,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "G",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-03-15",
+      "local": "Crystal Palace FC",
+      "visitante": "Leeds United FC",
+      "goles_local": 0,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-12-20",
+      "local": "Leeds United FC",
+      "visitante": "Crystal Palace FC",
+      "goles_local": 4,
+      "goles_visitante": 1
+     }
+    ],
+    "explicacion": "Leeds United FC es más fuerte de fondo (neto +0.10 vs -0.05): es más completo en general. Leeds United FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.49 – 1.09; el modelo ve marcando más a Leeds United FC. Y la forma reciente lo confirma: Leeds United FC llega mejor (2G-2E-1P vs 1G-0E-4P).",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.736,
+     "por_que": "Doble oportunidad: cubre que Leeds United FC no pierda. El escenario que queda afuera (gane Crystal Palace FC) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
+     "alternativa": null,
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 560590,
+   "competicion": "Premier League",
+   "competicion_codigo": "PL",
+   "fecha_utc": "2026-09-20T13:00:00Z",
+   "jornada": 5,
+   "local": "Manchester City FC",
+   "visitante": "Sunderland AFC",
+   "prediccion": {
+    "prob_1": 0.644,
+    "prob_X": 0.234,
+    "prob_2": 0.122,
+    "goles_esperados": [
+     1.908,
+     0.721
+    ],
+    "prob_over_2_5": 0.489,
+    "prob_btts": 0.449,
+    "marcadores": [
+     [
+      "2-0",
+      0.1313
+     ],
+     [
+      "1-0",
+      0.1265
+     ],
+     [
+      "1-1",
+      0.1104
+     ]
+    ],
+    "cuotas_justas": [
+     1.55,
+     4.28,
+     8.17
+    ],
+    "resumen": "Gana Manchester City FC (claro favorito, 64%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.432,
+     "defensa": 0.388,
+     "neto": 0.82,
+     "peso": 44.9,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.147,
+     "defensa": 0.158,
+     "neto": 0.011,
+     "peso": 26.8,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 9,
+     "gc": 5,
+     "racha": [
+      "E",
+      "P",
+      "G",
+      "G",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 8,
+     "gc": 5,
+     "racha": [
+      "G",
+      "G",
+      "P",
+      "G",
+      "E"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-01-01",
+      "local": "Sunderland AFC",
+      "visitante": "Manchester City FC",
+      "goles_local": 0,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-12-06",
+      "local": "Manchester City FC",
+      "visitante": "Sunderland AFC",
+      "goles_local": 3,
+      "goles_visitante": 0
+     }
+    ],
+    "explicacion": "Manchester City FC es más fuerte de fondo (neto +0.82 vs +0.01): ataca ~54% más que el promedio, encaja ~32% menos. Manchester City FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.91 – 0.72; el modelo ve marcando más a Manchester City FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.878,
+     "por_que": "Doble oportunidad: cubre que Manchester City FC no pierda. El escenario que queda afuera (gane Sunderland AFC) es el menos probable (12%), así que el mercado se cumple ~88% de las veces.",
+     "alternativa": {
+      "mercado": "1",
+      "prob": 0.644
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
    "id": 565807,
    "competicion": "Bundesliga",
    "competicion_codigo": "BL1",
@@ -961,61 +961,61 @@
     "prob_X": 0.23,
     "prob_2": 0.245,
     "goles_esperados": [
-     2.011,
-     1.331
+     2.019,
+     1.34
     ],
-    "prob_over_2_5": 0.649,
-    "prob_btts": 0.644,
+    "prob_over_2_5": 0.652,
+    "prob_btts": 0.648,
     "marcadores": [
      [
       "1-1",
-      0.1019
+      0.1014
      ],
      [
       "2-1",
-      0.0952
+      0.095
      ],
      [
       "2-0",
-      0.0715
+      0.0709
      ]
     ],
     "cuotas_justas": [
-     1.9,
-     4.34,
-     4.08
+     1.91,
+     4.35,
+     4.07
     ],
     "resumen": "Gana Bayer 04 Leverkusen (ligero favorito, 52%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.337,
-     "defensa": 0.243,
-     "neto": 0.58,
-     "peso": 39.7,
+     "ataque": 0.343,
+     "defensa": 0.239,
+     "neto": 0.582,
+     "peso": 40.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.218,
-     "defensa": 0.133,
-     "neto": 0.351,
+     "ataque": 0.221,
+     "defensa": 0.144,
+     "neto": 0.364,
      "peso": 39.7,
      "fiable": true
     },
     "forma_local": {
      "pj": 5,
-     "g": 2,
-     "e": 1,
+     "g": 1,
+     "e": 2,
      "p": 2,
-     "gf": 12,
-     "gc": 8,
+     "gf": 10,
+     "gc": 9,
      "racha": [
-      "G",
       "P",
       "E",
       "P",
-      "G"
+      "G",
+      "E"
      ]
     },
     "forma_visitante": {
@@ -1070,14 +1070,14 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "Bayer 04 Leverkusen es más fuerte de fondo (neto +0.58 vs +0.35): ataca ~40% más que el promedio, encaja ~22% menos. Bayer 04 Leverkusen juega en casa (~+20% de ventaja, ya contada). Goles esperados: 2.01 – 1.33; el modelo ve marcando más a Bayer 04 Leverkusen. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Bayer 04 Leverkusen es más fuerte de fondo (neto +0.58 vs +0.36): ataca ~41% más que el promedio, encaja ~21% menos. Bayer 04 Leverkusen juega en casa (~+21% de ventaja, ya contada). Goles esperados: 2.02 – 1.34; el modelo ve marcando más a Bayer 04 Leverkusen. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "Más de 1.5 goles",
-     "prob": 0.854,
-     "por_que": "Bastantes goles esperados (2.01 + 1.33 = 3.34). Probabilidad al over: 85%.",
+     "prob": 0.856,
+     "por_que": "Bastantes goles esperados (2.02 + 1.34 = 3.36). Probabilidad al over: 86%.",
      "alternativa": {
-      "mercado": "1X",
-      "prob": 0.755
+      "mercado": "12",
+      "prob": 0.77
      },
      "confianza": "alta"
     }
@@ -1092,12 +1092,12 @@
    "local": "Club Atlético de Madrid",
    "visitante": "Real Madrid CF",
    "prediccion": {
-    "prob_1": 0.35,
+    "prob_1": 0.349,
     "prob_X": 0.25,
-    "prob_2": 0.401,
+    "prob_2": 0.402,
     "goles_esperados": [
-     1.372,
-     1.485
+     1.371,
+     1.489
     ],
     "prob_over_2_5": 0.544,
     "prob_btts": 0.578,
@@ -1108,17 +1108,17 @@
      ],
      [
       "1-2",
-      0.0869
+      0.087
      ],
      [
       "0-1",
-      0.0851
+      0.0852
      ]
     ],
     "cuotas_justas": [
-     2.86,
+     2.87,
      4.01,
-     2.5
+     2.49
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
@@ -1126,15 +1126,15 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.314,
-     "defensa": 0.206,
-     "neto": 0.521,
+     "defensa": 0.204,
+     "neto": 0.518,
      "peso": 46.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.511,
-     "defensa": 0.388,
-     "neto": 0.9,
+     "defensa": 0.387,
+     "neto": 0.898,
      "peso": 46.0,
      "fiable": true
     },
@@ -1208,7 +1208,7 @@
     "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.90 vs +0.52): ataca ~67% más que el promedio, encaja ~32% menos. Club Atlético de Madrid juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.37 – 1.49; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (4G-0E-1P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.65,
+     "prob": 0.651,
      "por_que": "Doble oportunidad: cubre que Club Atlético de Madrid no gane. El escenario que queda afuera (gane Club Atlético de Madrid) es el menos probable (35%), así que el mercado se cumple ~65% de las veces.",
      "alternativa": {
       "mercado": "Ambos marcan: Sí",
@@ -1243,7 +1243,7 @@
      ],
      [
       "0-1",
-      0.1223
+      0.1222
      ],
      [
       "0-0",
@@ -1354,101 +1354,6 @@
    }
   },
   {
-   "id": 565805,
-   "competicion": "Bundesliga",
-   "competicion_codigo": "BL1",
-   "fecha_utc": "2026-09-20T15:30:00Z",
-   "jornada": 4,
-   "local": "FC Schalke 04",
-   "visitante": "SV 07 Elversberg",
-   "prediccion": {
-    "prob_1": 0.331,
-    "prob_X": 0.217,
-    "prob_2": 0.452,
-    "goles_esperados": [
-     1.828,
-     2.14
-    ],
-    "prob_over_2_5": 0.757,
-    "prob_btts": 0.746,
-    "marcadores": [
-     [
-      "1-1",
-      0.0796
-     ],
-     [
-      "1-2",
-      0.0792
-     ],
-     [
-      "2-2",
-      0.0724
-     ]
-    ],
-    "cuotas_justas": [
-     3.02,
-     4.61,
-     2.21
-    ],
-    "resumen": "Gana SV 07 Elversberg (ligero favorito, 45%). se esperan goles (+2.5). ambos marcan.",
-    "confianza": "baja"
-   },
-   "nota": "pocos datos: 'SV 07 Elversberg' solo tiene 2.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.12,
-     "defensa": 0.2,
-     "neto": 0.08,
-     "peso": 3.0,
-     "fiable": false
-    },
-    "fuerza_visitante": {
-     "ataque": 0.65,
-     "defensa": -0.228,
-     "neto": 0.422,
-     "peso": 2.0,
-     "fiable": false
-    },
-    "forma_local": {
-     "pj": 3,
-     "g": 1,
-     "e": 1,
-     "p": 1,
-     "gf": 3,
-     "gc": 4,
-     "racha": [
-      "P",
-      "E",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 2,
-     "g": 2,
-     "e": 0,
-     "p": 0,
-     "gf": 7,
-     "gc": 5,
-     "racha": [
-      "G",
-      "G"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "SV 07 Elversberg es más fuerte de fondo (neto +0.42 vs +0.08): ataca ~92% más que el promedio. FC Schalke 04 juega en casa (~+20% de ventaja, ya contada). Goles esperados: 1.83 – 2.14; el modelo ve marcando más a SV 07 Elversberg. Y la forma reciente lo confirma: SV 07 Elversberg llega mejor (2G-0E-0P vs 1G-1E-1P). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
-    "recomendacion": {
-     "mercado": "Más de 2.5 goles",
-     "prob": 0.757,
-     "por_que": "Bastantes goles esperados (1.83 + 2.14 = 3.97); al menos una defensa floja. Probabilidad al over: 76%.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.912
-     },
-     "confianza": "baja"
-    }
-   }
-  },
-  {
    "id": 560583,
    "competicion": "Premier League",
    "competicion_codigo": "PL",
@@ -1457,49 +1362,49 @@
    "local": "Fulham FC",
    "visitante": "Manchester United FC",
    "prediccion": {
-    "prob_1": 0.341,
-    "prob_X": 0.271,
-    "prob_2": 0.388,
+    "prob_1": 0.339,
+    "prob_X": 0.277,
+    "prob_2": 0.384,
     "goles_esperados": [
-     1.4,
-     1.504
+     1.365,
+     1.465
     ],
-    "prob_over_2_5": 0.555,
-    "prob_btts": 0.598,
+    "prob_over_2_5": 0.538,
+    "prob_btts": 0.586,
     "marcadores": [
      [
       "1-1",
-      0.1274
+      0.1312
      ],
      [
       "1-2",
-      0.0868
+      0.0864
      ],
      [
       "2-1",
-      0.0808
+      0.0805
      ]
     ],
     "cuotas_justas": [
-     2.93,
-     3.69,
-     2.58
+     2.95,
+     3.61,
+     2.6
     ],
     "resumen": "Partido parejo. ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.003,
-     "defensa": 0.011,
-     "neto": 0.014,
-     "peso": 44.8,
+     "ataque": -0.022,
+     "defensa": 0.045,
+     "neto": 0.023,
+     "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.229,
-     "defensa": 0.028,
-     "neto": 0.257,
+     "ataque": 0.219,
+     "defensa": 0.039,
+     "neto": 0.258,
      "peso": 44.8,
      "fiable": true
     },
@@ -1508,14 +1413,14 @@
      "g": 1,
      "e": 1,
      "p": 3,
-     "gf": 7,
-     "gc": 8,
+     "gf": 6,
+     "gc": 7,
      "racha": [
-      "E",
       "G",
       "P",
       "P",
-      "P"
+      "P",
+      "E"
      ]
     },
     "forma_visitante": {
@@ -1570,16 +1475,111 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Manchester United FC es más fuerte de fondo (neto +0.26 vs +0.01): ataca ~26% más que el promedio. Fulham FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.40 – 1.50; el modelo ve marcando más a Manchester United FC. Y la forma reciente lo confirma: Manchester United FC llega mejor (3G-1E-1P vs 1G-1E-3P).",
+    "explicacion": "Manchester United FC es más fuerte de fondo (neto +0.26 vs +0.02): ataca ~24% más que el promedio. Fulham FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.36 – 1.47; el modelo ve marcando más a Manchester United FC. Y la forma reciente lo confirma: Manchester United FC llega mejor (3G-1E-1P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.659,
+     "prob": 0.661,
      "por_que": "Doble oportunidad: cubre que Fulham FC no gane. El escenario que queda afuera (gane Fulham FC) es el menos probable (34%), así que el mercado se cumple ~66% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.798
+      "prob": 0.787
      },
      "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 565805,
+   "competicion": "Bundesliga",
+   "competicion_codigo": "BL1",
+   "fecha_utc": "2026-09-20T15:30:00Z",
+   "jornada": 4,
+   "local": "FC Schalke 04",
+   "visitante": "SV 07 Elversberg",
+   "prediccion": {
+    "prob_1": 0.344,
+    "prob_X": 0.219,
+    "prob_2": 0.437,
+    "goles_esperados": [
+     1.853,
+     2.094
+    ],
+    "prob_over_2_5": 0.754,
+    "prob_btts": 0.745,
+    "marcadores": [
+     [
+      "1-1",
+      0.0808
+     ],
+     [
+      "1-2",
+      0.0785
+     ],
+     [
+      "2-2",
+      0.0727
+     ]
+    ],
+    "cuotas_justas": [
+     2.91,
+     4.57,
+     2.29
+    ],
+    "resumen": "Gana SV 07 Elversberg (ligero favorito, 44%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'SV 07 Elversberg' solo tiene 2.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.115,
+     "defensa": 0.207,
+     "neto": 0.092,
+     "peso": 3.0,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": 0.635,
+     "defensa": -0.228,
+     "neto": 0.407,
+     "peso": 2.0,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 3,
+     "g": 1,
+     "e": 1,
+     "p": 1,
+     "gf": 3,
+     "gc": 4,
+     "racha": [
+      "P",
+      "E",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 2,
+     "g": 2,
+     "e": 0,
+     "p": 0,
+     "gf": 7,
+     "gc": 5,
+     "racha": [
+      "G",
+      "G"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "SV 07 Elversberg es más fuerte de fondo (neto +0.41 vs +0.09): ataca ~89% más que el promedio. FC Schalke 04 juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.85 – 2.09; el modelo ve marcando más a SV 07 Elversberg. Y la forma reciente lo confirma: SV 07 Elversberg llega mejor (2G-0E-0P vs 1G-1E-1P). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "Más de 2.5 goles",
+     "prob": 0.754,
+     "por_que": "Bastantes goles esperados (1.85 + 2.09 = 3.95); al menos una defensa floja. Probabilidad al over: 75%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.91
+     },
+     "confianza": "baja"
     }
    }
   },
@@ -1592,50 +1592,50 @@
    "local": "Juventus FC",
    "visitante": "Atalanta BC",
    "prediccion": {
-    "prob_1": 0.397,
-    "prob_X": 0.285,
-    "prob_2": 0.319,
+    "prob_1": 0.396,
+    "prob_X": 0.286,
+    "prob_2": 0.318,
     "goles_esperados": [
-     1.238,
-     1.079
+     1.239,
+     1.08
     ],
-    "prob_over_2_5": 0.408,
-    "prob_btts": 0.47,
+    "prob_over_2_5": 0.409,
+    "prob_btts": 0.471,
     "marcadores": [
      [
       "1-1",
-      0.1335
+      0.134
      ],
      [
       "1-0",
-      0.1202
+      0.1195
      ],
      [
       "0-1",
-      0.1045
+      0.1039
      ]
     ],
     "cuotas_justas": [
      2.52,
-     3.51,
-     3.14
+     3.5,
+     3.15
     ],
     "resumen": "Partido parejo. pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.252,
-     "defensa": 0.366,
+     "ataque": 0.254,
+     "defensa": 0.364,
      "neto": 0.618,
      "peso": 45.1,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.305,
-     "defensa": 0.265,
+     "ataque": 0.306,
+     "defensa": 0.264,
      "neto": 0.57,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "forma_local": {
@@ -1708,11 +1708,11 @@
     "explicacion": "En fuerza de temporada están parejos (neto +0.62 vs +0.57). Juventus FC juega en casa (~+9% de ventaja, ya contada). Goles esperados: 1.24 – 1.08; el modelo ve marcando más a Juventus FC. También parejos en forma (2G-2E-1P vs 2G-1E-2P en 5).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.592,
+     "prob": 0.591,
      "por_que": "Pocos goles esperados en total (1.24 + 1.08 = 2.32); la defensa de Juventus FC aprieta. El modelo ve el partido cerrado (59% al under).",
      "alternativa": {
       "mercado": "X2",
-      "prob": 0.603
+      "prob": 0.604
      },
      "confianza": "alta"
     }
@@ -1727,14 +1727,14 @@
    "local": "RC Deportivo La Coruña",
    "visitante": "Real Betis Balompié",
    "prediccion": {
-    "prob_1": 0.496,
+    "prob_1": 0.495,
     "prob_X": 0.23,
     "prob_2": 0.274,
     "goles_esperados": [
-     1.813,
-     1.295
+     1.812,
+     1.296
     ],
-    "prob_over_2_5": 0.601,
+    "prob_over_2_5": 0.6,
     "prob_btts": 0.608,
     "marcadores": [
      [
@@ -1752,8 +1752,8 @@
     ],
     "cuotas_justas": [
      2.02,
-     4.35,
-     3.65
+     4.34,
+     3.64
     ],
     "resumen": "Gana RC Deportivo La Coruña (ligero favorito, 50%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -1762,15 +1762,15 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.301,
-     "defensa": 0.025,
+     "defensa": 0.024,
      "neto": 0.325,
      "peso": 3.9,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.193,
-     "defensa": 0.097,
-     "neto": 0.289,
+     "ataque": 0.192,
+     "defensa": 0.095,
+     "neto": 0.287,
      "peso": 46.0,
      "fiable": true
     },
@@ -1804,11 +1804,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.33 vs +0.29). RC Deportivo La Coruña juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.81 – 1.29; el modelo ve marcando más a RC Deportivo La Coruña. También parejos en forma (2G-2E-0P vs 4G-0E-1P en 5). El modelo tiene pocos datos de RC Deportivo La Coruña: tomalo con pinzas.",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.33 vs +0.29). RC Deportivo La Coruña juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.81 – 1.30; el modelo ve marcando más a RC Deportivo La Coruña. También parejos en forma (2G-2E-0P vs 4G-0E-1P en 5). El modelo tiene pocos datos de RC Deportivo La Coruña: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 1.5 goles",
-     "prob": 0.817,
-     "por_que": "Bastantes goles esperados (1.81 + 1.29 = 3.11). Probabilidad al over: 82%.",
+     "prob": 0.816,
+     "por_que": "Bastantes goles esperados (1.81 + 1.30 = 3.11). Probabilidad al over: 82%.",
      "alternativa": {
       "mercado": "Ambos marcan: Sí",
       "prob": 0.608
@@ -1830,45 +1830,45 @@
     "prob_X": 0.182,
     "prob_2": 0.162,
     "goles_esperados": [
-     2.396,
-     1.118
+     2.397,
+     1.12
     ],
     "prob_over_2_5": 0.682,
-    "prob_btts": 0.612,
+    "prob_btts": 0.613,
     "marcadores": [
      [
       "2-1",
-      0.0956
+      0.0955
      ],
      [
       "2-0",
-      0.0855
+      0.0853
      ],
      [
       "1-1",
-      0.0799
+      0.0798
      ]
     ],
     "cuotas_justas": [
      1.52,
      5.49,
-     6.19
+     6.17
     ],
     "resumen": "Gana Villarreal CF (claro favorito, 66%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.399,
-     "defensa": 0.025,
-     "neto": 0.424,
-     "peso": 46.2,
+     "ataque": 0.4,
+     "defensa": 0.023,
+     "neto": 0.423,
+     "peso": 46.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.045,
-     "defensa": -0.084,
-     "neto": -0.039,
+     "defensa": -0.086,
+     "neto": -0.041,
      "peso": 28.1,
      "fiable": true
     },
@@ -1940,226 +1940,92 @@
    "local": "SC Paderborn 07",
    "visitante": "TSG 1899 Hoffenheim",
    "prediccion": {
-    "prob_1": 0.318,
-    "prob_X": 0.315,
-    "prob_2": 0.367,
+    "prob_1": 0.236,
+    "prob_X": 0.294,
+    "prob_2": 0.47,
     "goles_esperados": [
-     1.028,
-     1.126
+     0.903,
+     1.382
     ],
-    "prob_over_2_5": 0.365,
-    "prob_btts": 0.444,
+    "prob_over_2_5": 0.4,
+    "prob_btts": 0.455,
     "marcadores": [
      [
       "1-1",
-      0.1445
-     ],
-     [
-      "0-0",
-      0.1262
+      0.137
      ],
      [
       "0-1",
-      0.1203
+      0.1306
+     ],
+     [
+      "0-0",
+      0.1118
      ]
     ],
     "cuotas_justas": [
-     3.15,
-     3.17,
-     2.72
+     4.24,
+     3.4,
+     2.13
     ],
-    "resumen": "Partido parejo. pocos goles (-2.5).",
+    "resumen": "Gana TSG 1899 Hoffenheim (ligero favorito, 47%). pocos goles (-2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'SC Paderborn 07' solo tiene 2.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'SC Paderborn 07' solo tiene 3.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.569,
-     "defensa": 0.361,
-     "neto": -0.208,
-     "peso": 2.0,
+     "ataque": -0.682,
+     "defensa": 0.162,
+     "neto": -0.52,
+     "peso": 3.0,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.169,
-     "defensa": -0.102,
-     "neto": 0.067,
-     "peso": 39.7,
+     "ataque": 0.174,
+     "defensa": -0.077,
+     "neto": 0.098,
+     "peso": 40.7,
      "fiable": true
     },
     "forma_local": {
-     "pj": 2,
+     "pj": 3,
      "g": 0,
      "e": 1,
-     "p": 1,
+     "p": 2,
      "gf": 0,
-     "gc": 1,
+     "gc": 4,
      "racha": [
       "E",
+      "P",
       "P"
      ]
     },
     "forma_visitante": {
      "pj": 5,
-     "g": 1,
-     "e": 1,
+     "g": 2,
+     "e": 0,
      "p": 3,
-     "gf": 8,
-     "gc": 13,
+     "gf": 7,
+     "gc": 11,
      "racha": [
-      "E",
       "G",
       "P",
       "P",
-      "P"
+      "P",
+      "G"
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "TSG 1899 Hoffenheim es más fuerte de fondo (neto +0.07 vs -0.21): ataca ~18% más que el promedio. SC Paderborn 07 juega en casa (~+20% de ventaja, ya contada). Goles esperados: 1.03 – 1.13; el modelo ve marcando más a TSG 1899 Hoffenheim. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de SC Paderborn 07: tomalo con pinzas.",
+    "explicacion": "TSG 1899 Hoffenheim es más fuerte de fondo (neto +0.10 vs -0.52): ataca ~19% más que el promedio. SC Paderborn 07 juega en casa (~+21% de ventaja, ya contada). Goles esperados: 0.90 – 1.38; el modelo ve marcando más a TSG 1899 Hoffenheim. Y la forma reciente lo confirma: TSG 1899 Hoffenheim llega mejor (2G-0E-3P vs 0G-1E-2P). El modelo tiene pocos datos de SC Paderborn 07: tomalo con pinzas.",
     "recomendacion": {
-     "mercado": "Menos de 2.5 goles",
-     "prob": 0.635,
-     "por_que": "Pocos goles esperados en total (1.03 + 1.13 = 2.15); la defensa de SC Paderborn 07 aprieta. El modelo ve el partido cerrado (64% al under).",
+     "mercado": "X2",
+     "prob": 0.764,
+     "por_que": "Doble oportunidad: cubre que SC Paderborn 07 no gane. El escenario que queda afuera (gane SC Paderborn 07) es el menos probable (24%), así que el mercado se cumple ~76% de las veces.",
      "alternativa": {
-      "mercado": "Menos de 3.5 goles",
-      "prob": 0.828
+      "mercado": "Menos de 2.5 goles",
+      "prob": 0.6
      },
      "confianza": "baja"
-    }
-   }
-  },
-  {
-   "id": 558597,
-   "competicion": "Serie A",
-   "competicion_codigo": "SA",
-   "fecha_utc": "2026-09-20T18:45:00Z",
-   "jornada": 5,
-   "local": "AC Milan",
-   "visitante": "US Lecce",
-   "prediccion": {
-    "prob_1": 0.635,
-    "prob_X": 0.235,
-    "prob_2": 0.13,
-    "goles_esperados": [
-     1.708,
-     0.624
-    ],
-    "prob_over_2_5": 0.412,
-    "prob_btts": 0.382,
-    "marcadores": [
-     [
-      "1-0",
-      0.1644
-     ],
-     [
-      "2-0",
-      0.1416
-     ],
-     [
-      "1-1",
-      0.1049
-     ]
-    ],
-    "cuotas_justas": [
-     1.57,
-     4.26,
-     7.67
-    ],
-    "resumen": "Gana AC Milan (claro favorito, 64%). pocos goles (-2.5).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.259,
-     "defensa": 0.204,
-     "neto": 0.463,
-     "peso": 45.2,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.404,
-     "defensa": -0.05,
-     "neto": -0.454,
-     "peso": 45.1,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 3,
-     "e": 1,
-     "p": 1,
-     "gf": 8,
-     "gc": 5,
-     "racha": [
-      "G",
-      "P",
-      "G",
-      "G",
-      "E"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 3,
-     "e": 0,
-     "p": 2,
-     "gf": 6,
-     "gc": 7,
-     "racha": [
-      "G",
-      "G",
-      "G",
-      "P",
-      "P"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-01-18",
-      "local": "AC Milan",
-      "visitante": "US Lecce",
-      "goles_local": 1,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-08-29",
-      "local": "US Lecce",
-      "visitante": "AC Milan",
-      "goles_local": 0,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2025-03-08",
-      "local": "US Lecce",
-      "visitante": "AC Milan",
-      "goles_local": 2,
-      "goles_visitante": 3
-     },
-     {
-      "fecha": "2024-09-27",
-      "local": "AC Milan",
-      "visitante": "US Lecce",
-      "goles_local": 3,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2024-04-06",
-      "local": "AC Milan",
-      "visitante": "US Lecce",
-      "goles_local": 3,
-      "goles_visitante": 0
-     }
-    ],
-    "explicacion": "AC Milan es más fuerte de fondo (neto +0.46 vs -0.45): ataca ~30% más que el promedio, encaja ~18% menos. AC Milan juega en casa (~+9% de ventaja, ya contada). Goles esperados: 1.71 – 0.62; el modelo ve marcando más a AC Milan. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
-    "recomendacion": {
-     "mercado": "1X",
-     "prob": 0.87,
-     "por_que": "Doble oportunidad: cubre que AC Milan no pierda. El escenario que queda afuera (gane US Lecce) es el menos probable (13%), así que el mercado se cumple ~87% de las veces.",
-     "alternativa": {
-      "mercado": "1",
-      "prob": 0.635
-     },
-     "confianza": "alta"
     }
    }
   },
@@ -2177,7 +2043,7 @@
     "prob_2": 0.493,
     "goles_esperados": [
      1.442,
-     1.96
+     1.961
     ],
     "prob_over_2_5": 0.661,
     "prob_btts": 0.66,
@@ -2188,7 +2054,7 @@
      ],
      [
       "1-2",
-      0.0922
+      0.0923
      ],
      [
       "2-1",
@@ -2196,7 +2062,7 @@
      ]
     ],
     "cuotas_justas": [
-     3.57,
+     3.58,
      4.4,
      2.03
     ],
@@ -2299,6 +2165,141 @@
    }
   },
   {
+   "id": 558597,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-09-20T18:45:00Z",
+   "jornada": 5,
+   "local": "AC Milan",
+   "visitante": "US Lecce",
+   "prediccion": {
+    "prob_1": 0.635,
+    "prob_X": 0.235,
+    "prob_2": 0.13,
+    "goles_esperados": [
+     1.708,
+     0.624
+    ],
+    "prob_over_2_5": 0.412,
+    "prob_btts": 0.382,
+    "marcadores": [
+     [
+      "1-0",
+      0.164
+     ],
+     [
+      "2-0",
+      0.1416
+     ],
+     [
+      "1-1",
+      0.1054
+     ]
+    ],
+    "cuotas_justas": [
+     1.58,
+     4.25,
+     7.7
+    ],
+    "resumen": "Gana AC Milan (claro favorito, 63%). pocos goles (-2.5).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.26,
+     "defensa": 0.203,
+     "neto": 0.464,
+     "peso": 45.2,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.403,
+     "defensa": -0.051,
+     "neto": -0.454,
+     "peso": 45.1,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 8,
+     "gc": 5,
+     "racha": [
+      "G",
+      "P",
+      "G",
+      "G",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 6,
+     "gc": 7,
+     "racha": [
+      "G",
+      "G",
+      "G",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-01-18",
+      "local": "AC Milan",
+      "visitante": "US Lecce",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-08-29",
+      "local": "US Lecce",
+      "visitante": "AC Milan",
+      "goles_local": 0,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-03-08",
+      "local": "US Lecce",
+      "visitante": "AC Milan",
+      "goles_local": 2,
+      "goles_visitante": 3
+     },
+     {
+      "fecha": "2024-09-27",
+      "local": "AC Milan",
+      "visitante": "US Lecce",
+      "goles_local": 3,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-04-06",
+      "local": "AC Milan",
+      "visitante": "US Lecce",
+      "goles_local": 3,
+      "goles_visitante": 0
+     }
+    ],
+    "explicacion": "AC Milan es más fuerte de fondo (neto +0.46 vs -0.45): ataca ~30% más que el promedio, encaja ~18% menos. AC Milan juega en casa (~+9% de ventaja, ya contada). Goles esperados: 1.71 – 0.62; el modelo ve marcando más a AC Milan. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.87,
+     "por_que": "Doble oportunidad: cubre que AC Milan no pierda. El escenario que queda afuera (gane US Lecce) es el menos probable (13%), así que el mercado se cumple ~87% de las veces.",
+     "alternativa": {
+      "mercado": "1",
+      "prob": 0.635
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
    "id": 564689,
    "competicion": "La Liga",
    "competicion_codigo": "PD",
@@ -2307,12 +2308,12 @@
    "local": "Valencia CF",
    "visitante": "Real Sociedad de Fútbol",
    "prediccion": {
-    "prob_1": 0.405,
+    "prob_1": 0.404,
     "prob_X": 0.265,
-    "prob_2": 0.33,
+    "prob_2": 0.331,
     "goles_esperados": [
-     1.365,
-     1.205
+     1.364,
+     1.208
     ],
     "prob_over_2_5": 0.474,
     "prob_btts": 0.522,
@@ -2323,33 +2324,33 @@
      ],
      [
       "1-0",
-      0.1043
+      0.1041
      ],
      [
       "0-1",
-      0.092
+      0.0921
      ]
     ],
     "cuotas_justas": [
      2.47,
      3.77,
-     3.03
+     3.02
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.095,
-     "defensa": 0.004,
-     "neto": -0.091,
+     "ataque": -0.096,
+     "defensa": 0.002,
+     "neto": -0.094,
      "peso": 47.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.1,
-     "defensa": -0.016,
-     "neto": 0.084,
+     "defensa": -0.018,
+     "neto": 0.082,
      "peso": 47.0,
      "fiable": true
     },
@@ -2423,8 +2424,8 @@
     "explicacion": "Real Sociedad de Fútbol es más fuerte de fondo (neto +0.08 vs -0.09): ataca ~11% más que el promedio. Valencia CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.36 – 1.21; el modelo ve marcando más a Valencia CF. Y la forma reciente lo confirma: Real Sociedad de Fútbol llega mejor (2G-1E-2P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.595,
-     "por_que": "Doble oportunidad: cubre que Valencia CF no gane. El escenario que queda afuera (gane Valencia CF) es el menos probable (41%), así que el mercado se cumple ~59% de las veces.",
+     "prob": 0.596,
+     "por_que": "Doble oportunidad: cubre que Valencia CF no gane. El escenario que queda afuera (gane Valencia CF) es el menos probable (40%), así que el mercado se cumple ~60% de las veces.",
      "alternativa": null,
      "confianza": "alta"
     }

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-18",
- "actualizado": "2026-09-12T09:52:19+00:00",
+ "actualizado": "2026-09-12T16:41:07+00:00",
  "partidos": [
   {
    "id": 565804,
@@ -11,49 +11,49 @@
    "local": "FC Bayern München",
    "visitante": "1. FC Union Berlin",
    "prediccion": {
-    "prob_1": 0.876,
-    "prob_X": 0.085,
-    "prob_2": 0.04,
+    "prob_1": 0.877,
+    "prob_X": 0.084,
+    "prob_2": 0.039,
     "goles_esperados": [
-     3.676,
-     0.802
+     3.68,
+     0.796
     ],
-    "prob_over_2_5": 0.824,
-    "prob_btts": 0.54,
+    "prob_over_2_5": 0.823,
+    "prob_btts": 0.538,
     "marcadores": [
      [
       "3-0",
-      0.0942
+      0.0946
      ],
      [
       "4-0",
-      0.0866
+      0.0871
      ],
      [
       "2-0",
-      0.0769
+      0.0772
      ]
     ],
     "cuotas_justas": [
      1.14,
-     11.84,
-     25.19
+     11.89,
+     25.58
     ],
     "resumen": "Gana FC Bayern München (claro favorito, 88%). se esperan goles (+2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.74,
-     "defensa": 0.344,
-     "neto": 1.084,
+     "ataque": 0.744,
+     "defensa": 0.354,
+     "neto": 1.098,
      "peso": 39.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.188,
-     "defensa": -0.067,
-     "neto": -0.255,
+     "ataque": -0.184,
+     "defensa": -0.055,
+     "neto": -0.239,
      "peso": 40.4,
      "fiable": true
     },
@@ -124,128 +124,14 @@
       "goles_visitante": 5
      }
     ],
-    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.08 vs -0.26): ataca ~110% más que el promedio, encaja ~29% menos. FC Bayern München juega en casa (~+20% de ventaja, ya contada). Goles esperados: 3.68 – 0.80; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (3G-2E-0P vs 2G-1E-2P).",
+    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.10 vs -0.24): ataca ~110% más que el promedio, encaja ~30% menos. FC Bayern München juega en casa (~+21% de ventaja, ya contada). Goles esperados: 3.68 – 0.80; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (3G-2E-0P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.876,
-     "por_que": "FC Bayern München es favorito en casa: marca más (3.68 vs 0.80) y es más fuerte de fondo (neto +1.08 vs -0.26). Probabilidad: 88%.",
+     "prob": 0.877,
+     "por_que": "FC Bayern München es favorito en casa: marca más (3.68 vs 0.80) y es más fuerte de fondo (neto +1.10 vs -0.24). Probabilidad: 88%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.96
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 558596,
-   "competicion": "Serie A",
-   "competicion_codigo": "SA",
-   "fecha_utc": "2026-09-18T18:45:00Z",
-   "jornada": 5,
-   "local": "AC Monza",
-   "visitante": "US Sassuolo Calcio",
-   "prediccion": {
-    "prob_1": 0.259,
-    "prob_X": 0.247,
-    "prob_2": 0.494,
-    "goles_esperados": [
-     1.134,
-     1.655
-    ],
-    "prob_over_2_5": 0.528,
-    "prob_btts": 0.55,
-    "marcadores": [
-     [
-      "1-1",
-      0.117
-     ],
-     [
-      "0-1",
-      0.1002
-     ],
-     [
-      "1-2",
-      0.0955
-     ]
-    ],
-    "cuotas_justas": [
-     3.86,
-     4.05,
-     2.03
-    ],
-    "resumen": "Gana US Sassuolo Calcio (ligero favorito, 49%).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.213,
-     "defensa": -0.301,
-     "neto": -0.513,
-     "peso": 21.0,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.067,
-     "defensa": -0.112,
-     "neto": -0.045,
-     "peso": 33.1,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 0,
-     "e": 1,
-     "p": 4,
-     "gf": 5,
-     "gc": 13,
-     "racha": [
-      "P",
-      "P",
-      "P",
-      "P",
-      "E"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 1,
-     "e": 1,
-     "p": 3,
-     "gf": 7,
-     "gc": 9,
-     "racha": [
-      "P",
-      "P",
-      "P",
-      "G",
-      "E"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2024-01-28",
-      "local": "AC Monza",
-      "visitante": "US Sassuolo Calcio",
-      "goles_local": 1,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2023-10-02",
-      "local": "US Sassuolo Calcio",
-      "visitante": "AC Monza",
-      "goles_local": 0,
-      "goles_visitante": 1
-     }
-    ],
-    "explicacion": "US Sassuolo Calcio es más fuerte de fondo (neto -0.04 vs -0.51): es más completo en general. AC Monza juega en casa (~+9% de ventaja, ya contada). Goles esperados: 1.13 – 1.66; el modelo ve marcando más a US Sassuolo Calcio. Y la forma reciente lo confirma: US Sassuolo Calcio llega mejor (1G-1E-3P vs 0G-1E-4P).",
-    "recomendacion": {
-     "mercado": "X2",
-     "prob": 0.741,
-     "por_que": "Doble oportunidad: cubre que AC Monza no gane. El escenario que queda afuera (gane AC Monza) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
-     "alternativa": {
-      "mercado": "Ambos marcan: Sí",
-      "prob": 0.55
+      "prob": 0.961
      },
      "confianza": "alta"
     }
@@ -280,7 +166,7 @@
      ],
      [
       "1-2",
-      0.0786
+      0.0787
      ]
     ],
     "cuotas_justas": [
@@ -387,70 +273,70 @@
    }
   },
   {
-   "id": 564692,
-   "competicion": "La Liga",
-   "competicion_codigo": "PD",
-   "fecha_utc": "2026-09-18T19:00:00Z",
-   "jornada": 7,
-   "local": "RCD Espanyol de Barcelona",
-   "visitante": "Elche CF",
+   "id": 558596,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-09-18T18:45:00Z",
+   "jornada": 5,
+   "local": "AC Monza",
+   "visitante": "US Sassuolo Calcio",
    "prediccion": {
-    "prob_1": 0.479,
-    "prob_X": 0.249,
-    "prob_2": 0.272,
+    "prob_1": 0.259,
+    "prob_X": 0.248,
+    "prob_2": 0.493,
     "goles_esperados": [
-     1.592,
-     1.138
+     1.134,
+     1.656
     ],
-    "prob_over_2_5": 0.514,
-    "prob_btts": 0.541,
+    "prob_over_2_5": 0.528,
+    "prob_btts": 0.551,
     "marcadores": [
      [
       "1-1",
-      0.1183
+      0.1174
      ],
      [
-      "1-0",
-      0.1037
+      "0-1",
+      0.0997
      ],
      [
-      "2-1",
-      0.0941
+      "1-2",
+      0.0955
      ]
     ],
     "cuotas_justas": [
-     2.09,
-     4.01,
-     3.68
+     3.86,
+     4.04,
+     2.03
     ],
-    "resumen": "Gana RCD Espanyol de Barcelona (ligero favorito, 48%).",
+    "resumen": "Gana US Sassuolo Calcio (ligero favorito, 49%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.07,
-     "defensa": 0.023,
-     "neto": -0.047,
-     "peso": 40.1,
+     "ataque": -0.212,
+     "defensa": -0.302,
+     "neto": -0.513,
+     "peso": 21.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.061,
-     "defensa": -0.144,
-     "neto": -0.083,
-     "peso": 28.0,
+     "ataque": 0.068,
+     "defensa": -0.113,
+     "neto": -0.045,
+     "peso": 33.1,
      "fiable": true
     },
     "forma_local": {
      "pj": 5,
-     "g": 1,
-     "e": 2,
-     "p": 2,
-     "gf": 7,
-     "gc": 6,
+     "g": 0,
+     "e": 1,
+     "p": 4,
+     "gf": 5,
+     "gc": 13,
      "racha": [
-      "E",
-      "G",
+      "P",
+      "P",
       "P",
       "P",
       "E"
@@ -458,37 +344,46 @@
     },
     "forma_visitante": {
      "pj": 5,
-     "g": 0,
-     "e": 2,
+     "g": 1,
+     "e": 1,
      "p": 3,
-     "gf": 6,
-     "gc": 13,
+     "gf": 7,
+     "gc": 9,
      "racha": [
-      "E",
-      "E",
       "P",
       "P",
-      "P"
+      "P",
+      "G",
+      "E"
      ]
     },
     "cara_a_cara": [
      {
-      "fecha": "2026-03-01",
-      "local": "Elche CF",
-      "visitante": "RCD Espanyol de Barcelona",
-      "goles_local": 2,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2025-10-25",
-      "local": "RCD Espanyol de Barcelona",
-      "visitante": "Elche CF",
+      "fecha": "2024-01-28",
+      "local": "AC Monza",
+      "visitante": "US Sassuolo Calcio",
       "goles_local": 1,
       "goles_visitante": 0
+     },
+     {
+      "fecha": "2023-10-02",
+      "local": "US Sassuolo Calcio",
+      "visitante": "AC Monza",
+      "goles_local": 0,
+      "goles_visitante": 1
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto -0.05 vs -0.08). RCD Espanyol de Barcelona juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.59 – 1.14; el modelo ve marcando más a RCD Espanyol de Barcelona. En forma reciente pinta algo mejor RCD Espanyol de Barcelona (1G-2E-2P vs 0G-2E-3P en 5).",
-    "recomendacion": null
+    "explicacion": "US Sassuolo Calcio es más fuerte de fondo (neto -0.04 vs -0.51): es más completo en general. AC Monza juega en casa (~+9% de ventaja, ya contada). Goles esperados: 1.13 – 1.66; el modelo ve marcando más a US Sassuolo Calcio. Y la forma reciente lo confirma: US Sassuolo Calcio llega mejor (1G-1E-3P vs 0G-1E-4P).",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.741,
+     "por_que": "Doble oportunidad: cubre que AC Monza no gane. El escenario que queda afuera (gane AC Monza) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
+     "alternativa": {
+      "mercado": "Ambos marcan: Sí",
+      "prob": 0.551
+     },
+     "confianza": "alta"
+    }
    }
   },
   {
@@ -501,49 +396,49 @@
    "visitante": "Chelsea FC",
    "prediccion": {
     "prob_1": 0.401,
-    "prob_X": 0.257,
-    "prob_2": 0.342,
+    "prob_X": 0.256,
+    "prob_2": 0.344,
     "goles_esperados": [
-     1.649,
-     1.513
+     1.68,
+     1.547
     ],
-    "prob_over_2_5": 0.612,
-    "prob_btts": 0.641,
+    "prob_over_2_5": 0.626,
+    "prob_btts": 0.652,
     "marcadores": [
      [
       "1-1",
-      0.1166
+      0.1147
      ],
      [
       "2-1",
-      0.0871
+      0.0866
      ],
      [
       "1-2",
-      0.0799
+      0.0797
      ]
     ],
     "cuotas_justas": [
      2.5,
-     3.89,
-     2.92
+     3.91,
+     2.91
     ],
     "resumen": "Partido parejo. se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.168,
+     "ataque": 0.169,
      "defensa": 0.035,
-     "neto": 0.203,
-     "peso": 44.8,
+     "neto": 0.205,
+     "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.259,
-     "defensa": 0.029,
-     "neto": 0.287,
-     "peso": 44.8,
+     "ataque": 0.263,
+     "defensa": 0.022,
+     "neto": 0.285,
+     "peso": 45.8,
      "fiable": true
     },
     "forma_local": {
@@ -555,25 +450,25 @@
      "gc": 5,
      "racha": [
       "E",
-      "E",
       "G",
+      "E",
       "E",
       "E"
      ]
     },
     "forma_visitante": {
      "pj": 5,
-     "g": 3,
-     "e": 0,
+     "g": 2,
+     "e": 1,
      "p": 2,
      "gf": 11,
-     "gc": 10,
+     "gc": 11,
      "racha": [
-      "G",
       "P",
       "G",
       "G",
-      "P"
+      "P",
+      "E"
      ]
     },
     "cara_a_cara": [
@@ -613,15 +508,126 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.20 vs +0.29). Brentford FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.65 – 1.51; el modelo ve marcando más a Brentford FC. En forma reciente pinta algo mejor Chelsea FC (1G-4E-0P vs 3G-0E-2P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.20 vs +0.28). Brentford FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.68 – 1.55; el modelo ve marcando más a Brentford FC. También parejos en forma (1G-4E-0P vs 2G-1E-2P en 5).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
-     "prob": 0.641,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.65 y 1.51. Probabilidad: 64%.",
+     "prob": 0.652,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.68 y 1.55. Probabilidad: 65%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.835
+      "prob": 0.844
      },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 564692,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-09-18T19:00:00Z",
+   "jornada": 7,
+   "local": "RCD Espanyol de Barcelona",
+   "visitante": "Elche CF",
+   "prediccion": {
+    "prob_1": 0.49,
+    "prob_X": 0.247,
+    "prob_2": 0.262,
+    "goles_esperados": [
+     1.619,
+     1.116
+    ],
+    "prob_over_2_5": 0.515,
+    "prob_btts": 0.539,
+    "marcadores": [
+     [
+      "1-1",
+      0.1174
+     ],
+     [
+      "1-0",
+      0.1049
+     ],
+     [
+      "2-1",
+      0.0949
+     ]
+    ],
+    "cuotas_justas": [
+     2.04,
+     4.04,
+     3.81
+    ],
+    "resumen": "Gana RCD Espanyol de Barcelona (ligero favorito, 49%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.051,
+     "defensa": 0.044,
+     "neto": -0.007,
+     "peso": 41.1,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.063,
+     "defensa": -0.145,
+     "neto": -0.082,
+     "peso": 28.0,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 8,
+     "gc": 5,
+     "racha": [
+      "G",
+      "P",
+      "P",
+      "E",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 0,
+     "e": 2,
+     "p": 3,
+     "gf": 6,
+     "gc": 13,
+     "racha": [
+      "E",
+      "E",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-03-01",
+      "local": "Elche CF",
+      "visitante": "RCD Espanyol de Barcelona",
+      "goles_local": 2,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-10-25",
+      "local": "RCD Espanyol de Barcelona",
+      "visitante": "Elche CF",
+      "goles_local": 1,
+      "goles_visitante": 0
+     }
+    ],
+    "explicacion": "En fuerza de temporada están parejos (neto -0.01 vs -0.08). RCD Espanyol de Barcelona juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.62 – 1.12; el modelo ve marcando más a RCD Espanyol de Barcelona. En forma reciente pinta algo mejor RCD Espanyol de Barcelona (2G-1E-2P vs 0G-2E-3P en 5).",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.738,
+     "por_que": "Doble oportunidad: cubre que RCD Espanyol de Barcelona no pierda. El escenario que queda afuera (gane Elche CF) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
+     "alternativa": null,
      "confianza": "alta"
     }
    }

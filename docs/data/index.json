@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-12T09:52:19+00:00",
+ "actualizado": "2026-09-12T16:41:07+00:00",
  "dias": [
   "2026-09-12",
   "2026-09-13",
@@ -39,9 +39,9 @@
  ],
  "tablas": [
   {
-   "codigo": "PD",
-   "nombre": "La Liga",
-   "archivo": "tabla_PD.json"
+   "codigo": "FL1",
+   "nombre": "Ligue 1",
+   "archivo": "tabla_FL1.json"
   },
   {
    "codigo": "SA",
@@ -49,20 +49,20 @@
    "archivo": "tabla_SA.json"
   },
   {
-   "codigo": "BL1",
-   "nombre": "Bundesliga",
-   "archivo": "tabla_BL1.json"
-  },
-  {
    "codigo": "PL",
    "nombre": "Premier League",
    "archivo": "tabla_PL.json"
   },
   {
-   "codigo": "FL1",
-   "nombre": "Ligue 1",
-   "archivo": "tabla_FL1.json"
+   "codigo": "PD",
+   "nombre": "La Liga",
+   "archivo": "tabla_PD.json"
+  },
+  {
+   "codigo": "BL1",
+   "nombre": "Bundesliga",
+   "archivo": "tabla_BL1.json"
   }
  ],
- "total_partidos": 101
+ "total_partidos": 88
 }
