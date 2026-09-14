@@ -1,270 +1,7 @@
 {
  "fecha": "2026-09-14",
- "actualizado": "2026-09-14T11:21:08+00:00",
+ "actualizado": "2026-09-14T18:59:08+00:00",
  "partidos": [
-  {
-   "id": 558602,
-   "competicion": "Serie A",
-   "competicion_codigo": "SA",
-   "fecha_utc": "2026-09-14T16:30:00Z",
-   "jornada": 4,
-   "local": "Como 1907",
-   "visitante": "Parma Calcio 1913",
-   "prediccion": {
-    "prob_1": 0.638,
-    "prob_X": 0.231,
-    "prob_2": 0.131,
-    "goles_esperados": [
-     1.742,
-     0.643
-    ],
-    "prob_over_2_5": 0.426,
-    "prob_btts": 0.393,
-    "marcadores": [
-     [
-      "1-0",
-      0.1591
-     ],
-     [
-      "2-0",
-      0.1397
-     ],
-     [
-      "1-1",
-      0.1044
-     ]
-    ],
-    "cuotas_justas": [
-     1.57,
-     4.34,
-     7.61
-    ],
-    "resumen": "Gana Como 1907 (claro favorito, 64%).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.338,
-     "defensa": 0.278,
-     "neto": 0.616,
-     "peso": 39.0,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.304,
-     "defensa": 0.015,
-     "neto": -0.289,
-     "peso": 39.0,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 4,
-     "e": 1,
-     "p": 0,
-     "gf": 12,
-     "gc": 4,
-     "racha": [
-      "G",
-      "G",
-      "E",
-      "G",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 1,
-     "e": 1,
-     "p": 3,
-     "gf": 2,
-     "gc": 5,
-     "racha": [
-      "P",
-      "G",
-      "P",
-      "P",
-      "E"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-05-17",
-      "local": "Como 1907",
-      "visitante": "Parma Calcio 1913",
-      "goles_local": 1,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-10-25",
-      "local": "Parma Calcio 1913",
-      "visitante": "Como 1907",
-      "goles_local": 0,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-05-03",
-      "local": "Parma Calcio 1913",
-      "visitante": "Como 1907",
-      "goles_local": 0,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2024-10-19",
-      "local": "Como 1907",
-      "visitante": "Parma Calcio 1913",
-      "goles_local": 1,
-      "goles_visitante": 1
-     }
-    ],
-    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.62 vs -0.29): ataca ~40% más que el promedio, encaja ~24% menos. Como 1907 juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.74 – 0.64; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (4G-1E-0P vs 1G-1E-3P).",
-    "recomendacion": {
-     "mercado": "1X",
-     "prob": 0.869,
-     "por_que": "Doble oportunidad: cubre que Como 1907 no pierda. El escenario que queda afuera (gane Parma Calcio 1913) es el menos probable (13%), así que el mercado se cumple ~87% de las veces.",
-     "alternativa": {
-      "mercado": "1",
-      "prob": 0.638
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 558603,
-   "competicion": "Serie A",
-   "competicion_codigo": "SA",
-   "fecha_utc": "2026-09-14T16:30:00Z",
-   "jornada": 4,
-   "local": "Torino FC",
-   "visitante": "AS Roma",
-   "prediccion": {
-    "prob_1": 0.173,
-    "prob_X": 0.232,
-    "prob_2": 0.595,
-    "goles_esperados": [
-     0.845,
-     1.782
-    ],
-    "prob_over_2_5": 0.488,
-    "prob_btts": 0.476,
-    "marcadores": [
-     [
-      "0-1",
-      0.1275
-     ],
-     [
-      "0-2",
-      0.1148
-     ],
-     [
-      "1-1",
-      0.1102
-     ]
-    ],
-    "cuotas_justas": [
-     5.78,
-     4.3,
-     1.68
-    ],
-    "resumen": "Gana AS Roma (claro favorito, 59%).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.037,
-     "defensa": -0.079,
-     "neto": -0.115,
-     "peso": 44.9,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.358,
-     "defensa": 0.364,
-     "neto": 0.722,
-     "peso": 45.0,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 1,
-     "e": 1,
-     "p": 3,
-     "gf": 7,
-     "gc": 9,
-     "racha": [
-      "P",
-      "E",
-      "P",
-      "P",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 5,
-     "e": 0,
-     "p": 0,
-     "gf": 14,
-     "gc": 1,
-     "racha": [
-      "G",
-      "G",
-      "G",
-      "G",
-      "G"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-01-18",
-      "local": "Torino FC",
-      "visitante": "AS Roma",
-      "goles_local": 0,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2025-09-14",
-      "local": "AS Roma",
-      "visitante": "Torino FC",
-      "goles_local": 0,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2025-05-25",
-      "local": "Torino FC",
-      "visitante": "AS Roma",
-      "goles_local": 0,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2024-10-31",
-      "local": "AS Roma",
-      "visitante": "Torino FC",
-      "goles_local": 1,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2024-02-26",
-      "local": "AS Roma",
-      "visitante": "Torino FC",
-      "goles_local": 3,
-      "goles_visitante": 2
-     }
-    ],
-    "explicacion": "AS Roma es más fuerte de fondo (neto +0.72 vs -0.12): ataca ~43% más que el promedio, encaja ~31% menos. Torino FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.84 – 1.78; el modelo ve marcando más a AS Roma. Y la forma reciente lo confirma: AS Roma llega mejor (5G-0E-0P vs 1G-1E-3P).",
-    "recomendacion": {
-     "mercado": "X2",
-     "prob": 0.827,
-     "por_que": "Doble oportunidad: cubre que Torino FC no gane. El escenario que queda afuera (gane Torino FC) es el menos probable (17%), así que el mercado se cumple ~83% de las veces.",
-     "alternativa": {
-      "mercado": "2",
-      "prob": 0.595
-     },
-     "confianza": "alta"
-    }
-   }
-  },
   {
    "id": 558601,
    "competicion": "Serie A",
@@ -274,15 +11,15 @@
    "local": "FC Internazionale Milano",
    "visitante": "Udinese Calcio",
    "prediccion": {
-    "prob_1": 0.727,
-    "prob_X": 0.166,
-    "prob_2": 0.107,
+    "prob_1": 0.726,
+    "prob_X": 0.167,
+    "prob_2": 0.108,
     "goles_esperados": [
-     2.436,
-     0.83
+     2.434,
+     0.831
     ],
-    "prob_over_2_5": 0.634,
-    "prob_btts": 0.515,
+    "prob_over_2_5": 0.633,
+    "prob_btts": 0.516,
     "marcadores": [
      [
       "2-0",
@@ -294,13 +31,13 @@
      ],
      [
       "1-0",
-      0.092
+      0.0921
      ]
     ],
     "cuotas_justas": [
      1.38,
-     6.02,
-     9.32
+     6.01,
+     9.29
     ],
     "resumen": "Gana FC Internazionale Milano (claro favorito, 73%). se esperan goles (+2.5).",
     "confianza": "alta"
@@ -387,14 +124,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.96 vs -0.03): ataca ~89% más que el promedio, encaja ~28% menos. FC Internazionale Milano juega en casa (~+10% de ventaja, ya contada). Goles esperados: 2.44 – 0.83; el modelo ve marcando más a FC Internazionale Milano. Y la forma reciente lo confirma: FC Internazionale Milano llega mejor (3G-2E-0P vs 1G-1E-3P).",
+    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.96 vs -0.03): ataca ~89% más que el promedio, encaja ~28% menos. FC Internazionale Milano juega en casa (~+9% de ventaja, ya contada). Goles esperados: 2.43 – 0.83; el modelo ve marcando más a FC Internazionale Milano. Y la forma reciente lo confirma: FC Internazionale Milano llega mejor (3G-2E-0P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.727,
-     "por_que": "FC Internazionale Milano es favorito en casa: marca más (2.44 vs 0.83) y es más fuerte de fondo (neto +0.96 vs -0.03). Probabilidad: 73%.",
+     "prob": 0.726,
+     "por_que": "FC Internazionale Milano es favorito en casa: marca más (2.43 vs 0.83) y es más fuerte de fondo (neto +0.96 vs -0.03). Probabilidad: 73%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.893
+      "prob": 0.892
      },
      "confianza": "alta"
     }
@@ -452,7 +189,7 @@
      "ataque": 0.245,
      "defensa": 0.045,
      "neto": 0.29,
-     "peso": 44.7,
+     "peso": 44.6,
      "fiable": true
     },
     "forma_local": {
@@ -557,7 +294,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.396,
-     "defensa": 0.024,
+     "defensa": 0.023,
      "neto": 0.419,
      "peso": 46.0,
      "fiable": true
@@ -566,7 +303,7 @@
      "ataque": 0.188,
      "defensa": 0.096,
      "neto": 0.284,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "forma_local": {

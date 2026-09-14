@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-18",
- "actualizado": "2026-09-14T11:21:08+00:00",
+ "actualizado": "2026-09-14T18:59:08+00:00",
  "partidos": [
   {
    "id": 565804,
@@ -146,15 +146,15 @@
    "local": "AC Monza",
    "visitante": "US Sassuolo Calcio",
    "prediccion": {
-    "prob_1": 0.251,
+    "prob_1": 0.25,
     "prob_X": 0.234,
-    "prob_2": 0.515,
+    "prob_2": 0.516,
     "goles_esperados": [
-     1.194,
-     1.804
+     1.193,
+     1.805
     ],
     "prob_over_2_5": 0.576,
-    "prob_btts": 0.584,
+    "prob_btts": 0.583,
     "marcadores": [
      [
       "1-1",
@@ -162,7 +162,7 @@
      ],
      [
       "1-2",
-      0.0969
+      0.097
      ],
      [
       "0-1",
@@ -179,7 +179,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.172,
+     "ataque": -0.173,
      "defensa": -0.341,
      "neto": -0.514,
      "peso": 21.9,
@@ -187,9 +187,9 @@
     },
     "fuerza_visitante": {
      "ataque": 0.108,
-     "defensa": -0.117,
+     "defensa": -0.118,
      "neto": -0.01,
-     "peso": 34.0,
+     "peso": 33.9,
      "fiable": true
     },
     "forma_local": {
@@ -238,10 +238,10 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "US Sassuolo Calcio es más fuerte de fondo (neto -0.01 vs -0.51): ataca ~11% más que el promedio. AC Monza juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.19 – 1.80; el modelo ve marcando más a US Sassuolo Calcio. Y la forma reciente lo confirma: US Sassuolo Calcio llega mejor (2G-1E-2P vs 0G-1E-4P).",
+    "explicacion": "US Sassuolo Calcio es más fuerte de fondo (neto -0.01 vs -0.51): ataca ~11% más que el promedio. AC Monza juega en casa (~+9% de ventaja, ya contada). Goles esperados: 1.19 – 1.80; el modelo ve marcando más a US Sassuolo Calcio. Y la forma reciente lo confirma: US Sassuolo Calcio llega mejor (2G-1E-2P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.749,
+     "prob": 0.75,
      "por_que": "Doble oportunidad: cubre que AC Monza no gane. El escenario que queda afuera (gane AC Monza) es el menos probable (25%), así que el mercado se cumple ~75% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -438,7 +438,7 @@
      "ataque": 0.274,
      "defensa": 0.033,
      "neto": 0.307,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "forma_local": {

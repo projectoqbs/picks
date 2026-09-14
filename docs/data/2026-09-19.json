@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-19",
- "actualizado": "2026-09-14T11:21:08+00:00",
+ "actualizado": "2026-09-14T18:59:08+00:00",
  "partidos": [
   {
    "id": 560587,
@@ -47,7 +47,7 @@
      "ataque": 0.022,
      "defensa": -0.051,
      "neto": -0.029,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -278,15 +278,15 @@
    "local": "Bologna FC 1909",
    "visitante": "Torino FC",
    "prediccion": {
-    "prob_1": 0.489,
+    "prob_1": 0.493,
     "prob_X": 0.261,
-    "prob_2": 0.249,
+    "prob_2": 0.245,
     "goles_esperados": [
-     1.515,
-     1.004
+     1.517,
+     0.99
     ],
-    "prob_over_2_5": 0.461,
-    "prob_btts": 0.496,
+    "prob_over_2_5": 0.458,
+    "prob_btts": 0.492,
     "marcadores": [
      [
       "1-1",
@@ -294,17 +294,17 @@
      ],
      [
       "1-0",
-      0.1205
+      0.1221
      ],
      [
-      "2-1",
-      0.0928
+      "2-0",
+      0.0938
      ]
     ],
     "cuotas_justas": [
-     2.04,
+     2.03,
      3.83,
-     4.01
+     4.08
     ],
     "resumen": "Gana Bologna FC 1909 (ligero favorito, 49%).",
     "confianza": "alta"
@@ -314,14 +314,14 @@
      "ataque": 0.104,
      "defensa": 0.1,
      "neto": 0.204,
-     "peso": 46.1,
+     "peso": 46.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.037,
-     "defensa": -0.079,
-     "neto": -0.115,
-     "peso": 44.9,
+     "ataque": -0.052,
+     "defensa": -0.081,
+     "neto": -0.134,
+     "peso": 45.9,
      "fiable": true
     },
     "forma_local": {
@@ -344,14 +344,14 @@
      "g": 1,
      "e": 1,
      "p": 3,
-     "gf": 7,
+     "gf": 6,
      "gc": 9,
      "racha": [
-      "P",
       "E",
       "P",
       "P",
-      "G"
+      "G",
+      "P"
      ]
     },
     "cara_a_cara": [
@@ -391,10 +391,10 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Bologna FC 1909 es más fuerte de fondo (neto +0.20 vs -0.12): ataca ~11% más que el promedio, encaja ~10% menos. Bologna FC 1909 juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.51 – 1.00; el modelo ve marcando más a Bologna FC 1909. Pero ojo: en forma reciente Torino FC llega mejor que Bologna FC 1909, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Bologna FC 1909 es más fuerte de fondo (neto +0.20 vs -0.13): ataca ~11% más que el promedio, encaja ~10% menos. Bologna FC 1909 juega en casa (~+9% de ventaja, ya contada). Goles esperados: 1.52 – 0.99; el modelo ve marcando más a Bologna FC 1909. Pero ojo: en forma reciente Torino FC llega mejor que Bologna FC 1909, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.751,
+     "prob": 0.755,
      "por_que": "Doble oportunidad: cubre que Bologna FC 1909 no pierda. El escenario que queda afuera (gane Torino FC) es el menos probable (25%), así que el mercado se cumple ~75% de las veces.",
      "alternativa": null,
      "confianza": "alta"
@@ -414,8 +414,8 @@
     "prob_X": 0.277,
     "prob_2": 0.308,
     "goles_esperados": [
-     1.317,
-     1.094
+     1.315,
+     1.095
     ],
     "prob_over_2_5": 0.433,
     "prob_btts": 0.488,
@@ -426,11 +426,11 @@
      ],
      [
       "1-0",
-      0.1166
+      0.1165
      ],
      [
       "0-1",
-      0.0966
+      0.0967
      ]
     ],
     "cuotas_justas": [
@@ -450,9 +450,9 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.073,
+     "ataque": -0.074,
      "defensa": -0.047,
-     "neto": -0.12,
+     "neto": -0.121,
      "peso": 45.9,
      "fiable": true
     },
@@ -523,11 +523,11 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto -0.03 vs -0.12). Udinese Calcio juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.32 – 1.09; el modelo ve marcando más a Udinese Calcio. En forma reciente pinta algo mejor Cagliari Calcio (1G-1E-3P vs 4G-0E-1P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto -0.03 vs -0.12). Udinese Calcio juega en casa (~+9% de ventaja, ya contada). Goles esperados: 1.31 – 1.09; el modelo ve marcando más a Udinese Calcio. En forma reciente pinta algo mejor Cagliari Calcio (1G-1E-3P vs 4G-0E-1P en 5).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.567,
-     "por_que": "Pocos goles esperados en total (1.32 + 1.09 = 2.41). El modelo ve el partido cerrado (57% al under).",
+     "por_que": "Pocos goles esperados en total (1.31 + 1.09 = 2.41). El modelo ve el partido cerrado (57% al under).",
      "alternativa": null,
      "confianza": "alta"
     }
@@ -585,7 +585,7 @@
      "ataque": -0.084,
      "defensa": -0.134,
      "neto": -0.219,
-     "peso": 29.8,
+     "peso": 29.7,
      "fiable": true
     },
     "forma_local": {
@@ -938,7 +938,7 @@
     "marcadores": [
      [
       "1-1",
-      0.0978
+      0.0977
      ],
      [
       "2-1",
@@ -1095,9 +1095,9 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.084,
-     "defensa": 0.194,
+     "defensa": 0.193,
      "neto": 0.11,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1208,7 +1208,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.212,
+     "ataque": 0.211,
      "defensa": 0.076,
      "neto": 0.287,
      "peso": 45.6,
@@ -1344,7 +1344,7 @@
      "ataque": 0.245,
      "defensa": 0.045,
      "neto": 0.29,
-     "peso": 44.7,
+     "peso": 44.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1391,7 +1391,7 @@
      "por_que": "Pocos goles esperados en total (1.14 + 1.12 = 2.27); la defensa de Hull City AFC aprieta. El modelo ve el partido cerrado (60% al under).",
      "alternativa": {
       "mercado": "X2",
-      "prob": 0.653
+      "prob": 0.654
      },
      "confianza": "baja"
     }
@@ -1655,43 +1655,43 @@
    "local": "AS Roma",
    "visitante": "FC Internazionale Milano",
    "prediccion": {
-    "prob_1": 0.327,
-    "prob_X": 0.253,
-    "prob_2": 0.42,
+    "prob_1": 0.332,
+    "prob_X": 0.255,
+    "prob_2": 0.413,
     "goles_esperados": [
-     1.305,
-     1.512
+     1.307,
+     1.484
     ],
-    "prob_over_2_5": 0.535,
-    "prob_btts": 0.57,
+    "prob_over_2_5": 0.528,
+    "prob_btts": 0.566,
     "marcadores": [
      [
       "1-1",
-      0.1194
-     ],
-     [
-      "1-2",
-      0.0892
+      0.1205
      ],
      [
       "0-1",
-      0.0889
+      0.0896
+     ],
+     [
+      "1-2",
+      0.0883
      ]
     ],
     "cuotas_justas": [
-     3.06,
-     3.95,
-     2.38
+     3.01,
+     3.92,
+     2.42
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.358,
-     "defensa": 0.364,
-     "neto": 0.722,
-     "peso": 45.0,
+     "ataque": 0.36,
+     "defensa": 0.383,
+     "neto": 0.743,
+     "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1768,14 +1768,14 @@
       "goles_visitante": 4
      }
     ],
-    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.96 vs +0.72): ataca ~89% más que el promedio, encaja ~28% menos. AS Roma juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.30 – 1.51; el modelo ve marcando más a FC Internazionale Milano. Pero ojo: en forma reciente AS Roma llega mejor que FC Internazionale Milano, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.96 vs +0.74): ataca ~89% más que el promedio, encaja ~28% menos. AS Roma juega en casa (~+9% de ventaja, ya contada). Goles esperados: 1.31 – 1.48; el modelo ve marcando más a FC Internazionale Milano. Pero ojo: en forma reciente AS Roma llega mejor que FC Internazionale Milano, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.673,
+     "prob": 0.668,
      "por_que": "Doble oportunidad: cubre que AS Roma no gane. El escenario que queda afuera (gane AS Roma) es el menos probable (33%), así que el mercado se cumple ~67% de las veces.",
      "alternativa": {
       "mercado": "Ambos marcan: Sí",
-      "prob": 0.57
+      "prob": 0.566
      },
      "confianza": "alta"
     }
@@ -1797,7 +1797,7 @@
      1.986,
      0.55
     ],
-    "prob_over_2_5": 0.465,
+    "prob_over_2_5": 0.466,
     "prob_btts": 0.375,
     "marcadores": [
      [
@@ -1816,7 +1816,7 @@
     "cuotas_justas": [
      1.42,
      4.72,
-     12.12
+     12.13
     ],
     "resumen": "Gana Nottingham Forest FC (claro favorito, 71%).",
     "confianza": "baja"
@@ -1833,7 +1833,7 @@
     "fuerza_visitante": {
      "ataque": -0.69,
      "defensa": -0.28,
-     "neto": -0.969,
+     "neto": -0.97,
      "peso": 3.9,
      "fiable": false
     },
@@ -1891,9 +1891,9 @@
    "prediccion": {
     "prob_1": 0.54,
     "prob_X": 0.213,
-    "prob_2": 0.247,
+    "prob_2": 0.246,
     "goles_esperados": [
-     2.087,
+     2.088,
      1.363
     ],
     "prob_over_2_5": 0.67,
@@ -1909,7 +1909,7 @@
      ],
      [
       "2-0",
-      0.0692
+      0.0691
      ]
     ],
     "cuotas_justas": [
@@ -1923,7 +1923,7 @@
    "nota": "pocos datos: 'Real Racing Club de Santander' solo tiene 4.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.075,
+     "ataque": 0.074,
      "defensa": 0.046,
      "neto": 0.121,
      "peso": 47.8,
@@ -1931,7 +1931,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.26,
-     "defensa": -0.274,
+     "defensa": -0.275,
      "neto": -0.014,
      "peso": 4.9,
      "fiable": false
@@ -1994,7 +1994,7 @@
     "prob_2": 0.389,
     "goles_esperados": [
      1.663,
-     1.715
+     1.714
     ],
     "prob_over_2_5": 0.656,
     "prob_btts": 0.673,
@@ -2102,11 +2102,11 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.65 vs +0.42): ataca ~39% más que el promedio, encaja ~27% menos. VfB Stuttgart juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.66 – 1.72; el modelo ve marcando más a Borussia Dortmund. Y la forma reciente lo confirma: Borussia Dortmund llega mejor (5G-0E-0P vs 2G-1E-2P).",
+    "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.65 vs +0.42): ataca ~39% más que el promedio, encaja ~27% menos. VfB Stuttgart juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.66 – 1.71; el modelo ve marcando más a Borussia Dortmund. Y la forma reciente lo confirma: Borussia Dortmund llega mejor (5G-0E-0P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.673,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.66 y 1.72. Probabilidad: 67%.",
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.66 y 1.71. Probabilidad: 67%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.859
@@ -2124,15 +2124,15 @@
    "local": "Venezia FC",
    "visitante": "SS Lazio",
    "prediccion": {
-    "prob_1": 0.191,
+    "prob_1": 0.19,
     "prob_X": 0.246,
-    "prob_2": 0.563,
+    "prob_2": 0.564,
     "goles_esperados": [
-     0.852,
-     1.657
+     0.851,
+     1.659
     ],
     "prob_over_2_5": 0.459,
-    "prob_btts": 0.466,
+    "prob_btts": 0.465,
     "marcadores": [
      [
       "0-1",
@@ -2140,17 +2140,17 @@
      ],
      [
       "1-1",
-      0.1163
+      0.1162
      ],
      [
       "0-2",
-      0.1117
+      0.1118
      ]
     ],
     "cuotas_justas": [
-     5.25,
+     5.26,
      4.06,
-     1.78
+     1.77
     ],
     "resumen": "Gana SS Lazio (claro favorito, 56%).",
     "confianza": "alta"
@@ -2167,7 +2167,7 @@
      "ataque": 0.082,
      "defensa": 0.164,
      "neto": 0.246,
-     "peso": 46.0,
+     "peso": 45.9,
      "fiable": true
     },
     "forma_local": {
@@ -2216,14 +2216,14 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "SS Lazio es más fuerte de fondo (neto +0.25 vs -0.51): encaja ~15% menos. Venezia FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.85 – 1.66; el modelo ve marcando más a SS Lazio. Y la forma reciente lo confirma: SS Lazio llega mejor (4G-1E-0P vs 0G-0E-5P).",
+    "explicacion": "SS Lazio es más fuerte de fondo (neto +0.25 vs -0.51): encaja ~15% menos. Venezia FC juega en casa (~+9% de ventaja, ya contada). Goles esperados: 0.85 – 1.66; el modelo ve marcando más a SS Lazio. Y la forma reciente lo confirma: SS Lazio llega mejor (4G-1E-0P vs 0G-0E-5P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.81,
      "por_que": "Doble oportunidad: cubre que Venezia FC no gane. El escenario que queda afuera (gane Venezia FC) es el menos probable (19%), así que el mercado se cumple ~81% de las veces.",
      "alternativa": {
       "mercado": "2",
-      "prob": 0.563
+      "prob": 0.564
      },
      "confianza": "alta"
     }
@@ -2242,10 +2242,10 @@
     "prob_X": 0.234,
     "prob_2": 0.318,
     "goles_esperados": [
-     1.846,
+     1.847,
      1.534
     ],
-    "prob_over_2_5": 0.656,
+    "prob_over_2_5": 0.657,
     "prob_btts": 0.665,
     "marcadores": [
      [
@@ -2361,7 +2361,7 @@
      ]
     ],
     "cuotas_justas": [
-     1.97,
+     1.96,
      3.68,
      4.57
     ],
@@ -2373,14 +2373,14 @@
      "ataque": 0.012,
      "defensa": 0.06,
      "neto": 0.072,
-     "peso": 40.4,
+     "peso": 40.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.276,
+     "ataque": -0.275,
      "defensa": 0.013,
      "neto": -0.263,
-     "peso": 41.2,
+     "peso": 41.1,
      "fiable": true
     },
     "forma_local": {
@@ -2509,7 +2509,7 @@
      "ataque": -0.364,
      "defensa": 0.032,
      "neto": -0.332,
-     "peso": 35.9,
+     "peso": 35.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2605,7 +2605,7 @@
      "ataque": 0.239,
      "defensa": 0.026,
      "neto": 0.265,
-     "peso": 41.2,
+     "peso": 41.1,
      "fiable": true
     },
     "forma_local": {

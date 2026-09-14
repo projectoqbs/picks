@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-17",
- "actualizado": "2026-09-14T11:21:08+00:00",
+ "actualizado": "2026-09-14T18:59:08+00:00",
  "partidos": [
   {
    "id": 564686,
@@ -47,14 +47,14 @@
      "ataque": 0.188,
      "defensa": 0.096,
      "neto": 0.284,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.351,
+     "ataque": -0.352,
      "defensa": 0.269,
-     "neto": -0.082,
-     "peso": 46.9,
+     "neto": -0.083,
+     "peso": 46.8,
      "fiable": true
     },
     "forma_local": {
@@ -148,9 +148,9 @@
    "prediccion": {
     "prob_1": 0.212,
     "prob_X": 0.262,
-    "prob_2": 0.526,
+    "prob_2": 0.525,
     "goles_esperados": [
-     0.866,
+     0.867,
      1.524
     ],
     "prob_over_2_5": 0.428,
@@ -158,19 +158,19 @@
     "marcadores": [
      [
       "0-1",
-      0.1379
+      0.1377
      ],
      [
       "1-1",
-      0.1226
+      0.1227
      ],
      [
       "0-2",
-      0.1064
+      0.1063
      ]
     ],
     "cuotas_justas": [
-     4.72,
+     4.71,
      3.81,
      1.9
     ],
@@ -180,15 +180,15 @@
    "nota": "pocos datos: 'Málaga CF' solo tiene 4.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.507,
+     "ataque": -0.506,
      "defensa": 0.07,
-     "neto": -0.438,
+     "neto": -0.436,
      "peso": 4.9,
      "fiable": false
     },
     "fuerza_visitante": {
      "ataque": 0.396,
-     "defensa": 0.024,
+     "defensa": 0.023,
      "neto": 0.419,
      "peso": 46.0,
      "fiable": true
