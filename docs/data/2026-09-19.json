@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-19",
- "actualizado": "2026-09-15T10:45:48+00:00",
+ "actualizado": "2026-09-15T17:52:27+00:00",
  "partidos": [
   {
    "id": 560587,
@@ -321,7 +321,7 @@
      "ataque": -0.055,
      "defensa": -0.078,
      "neto": -0.133,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "forma_local": {
@@ -426,7 +426,7 @@
      ],
      [
       "1-0",
-      0.111
+      0.1109
      ],
      [
       "0-1",
@@ -443,10 +443,10 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.034,
+     "ataque": 0.033,
      "defensa": -0.058,
      "neto": -0.025,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -540,7 +540,7 @@
     "prob_X": 0.272,
     "prob_2": 0.348,
     "goles_esperados": [
-     1.445,
+     1.446,
      1.373
     ],
     "prob_over_2_5": 0.535,
@@ -821,7 +821,7 @@
      "ataque": -0.124,
      "defensa": -0.026,
      "neto": -0.15,
-     "peso": 40.5,
+     "peso": 40.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -932,7 +932,7 @@
     "marcadores": [
      [
       "1-1",
-      0.0978
+      0.0977
      ],
      [
       "2-1",
@@ -945,7 +945,7 @@
     ],
     "cuotas_justas": [
      2.15,
-     4.29,
+     4.3,
      3.3
     ],
     "resumen": "Gana Eintracht Frankfurt (ligero favorito, 46%). se esperan goles (+2.5). ambos marcan.",
@@ -963,7 +963,7 @@
      "ataque": 0.076,
      "defensa": 0.028,
      "neto": 0.104,
-     "peso": 40.5,
+     "peso": 40.4,
      "fiable": true
     },
     "forma_local": {
@@ -1062,7 +1062,7 @@
      1.971,
      0.914
     ],
-    "prob_over_2_5": 0.55,
+    "prob_over_2_5": 0.551,
     "prob_btts": 0.527,
     "marcadores": [
      [
@@ -1096,7 +1096,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.112,
-     "defensa": -0.389,
+     "defensa": -0.39,
      "neto": -0.502,
      "peso": 15.8,
      "fiable": true
@@ -1305,11 +1305,11 @@
     "prob_X": 0.313,
     "prob_2": 0.349,
     "goles_esperados": [
-     1.142,
+     1.143,
      1.165
     ],
     "prob_over_2_5": 0.406,
-    "prob_btts": 0.483,
+    "prob_btts": 0.484,
     "marcadores": [
      [
       "1-1",
@@ -1321,7 +1321,7 @@
      ],
      [
       "0-1",
-      0.1009
+      0.1008
      ]
     ],
     "cuotas_justas": [
@@ -1343,8 +1343,8 @@
     },
     "fuerza_visitante": {
      "ataque": -0.054,
-     "defensa": 0.481,
-     "neto": 0.427,
+     "defensa": 0.48,
+     "neto": 0.426,
      "peso": 3.9,
      "fiable": false
     },
@@ -1577,7 +1577,7 @@
     "fuerza_visitante": {
      "ataque": 0.227,
      "defensa": 0.028,
-     "neto": 0.255,
+     "neto": 0.254,
      "peso": 41.1,
      "fiable": true
     },
@@ -1627,7 +1627,7 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.22 vs +0.26). Paris FC juega en casa (~+20% de ventaja, ya contada). Goles esperados: 1.57 – 1.36; el modelo ve marcando más a Paris FC. También parejos en forma (3G-2E-0P vs 3G-1E-1P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.22 vs +0.25). Paris FC juega en casa (~+20% de ventaja, ya contada). Goles esperados: 1.57 – 1.36; el modelo ve marcando más a Paris FC. También parejos en forma (3G-2E-0P vs 3G-1E-1P en 5).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.595,
@@ -1825,7 +1825,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.259,
+     "ataque": 0.258,
      "defensa": -0.276,
      "neto": -0.017,
      "peso": 4.8,
@@ -1896,7 +1896,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1056
+      0.1055
      ],
      [
       "1-2",
@@ -1917,7 +1917,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.331,
+     "ataque": 0.33,
      "defensa": 0.088,
      "neto": 0.419,
      "peso": 40.4,
@@ -2019,23 +2019,23 @@
    "local": "Nottingham Forest FC",
    "visitante": "Coventry City FC",
    "prediccion": {
-    "prob_1": 0.707,
+    "prob_1": 0.706,
     "prob_X": 0.211,
     "prob_2": 0.082,
     "goles_esperados": [
      1.989,
-     0.548
+     0.549
     ],
     "prob_over_2_5": 0.466,
     "prob_btts": 0.374,
     "marcadores": [
      [
       "2-0",
-      0.1564
+      0.1563
      ],
      [
       "1-0",
-      0.1475
+      0.1474
      ],
      [
       "3-0",
@@ -2045,7 +2045,7 @@
     "cuotas_justas": [
      1.42,
      4.73,
-     12.19
+     12.18
     ],
     "resumen": "Gana Nottingham Forest FC (claro favorito, 71%).",
     "confianza": "baja"
@@ -2062,7 +2062,7 @@
     "fuerza_visitante": {
      "ataque": -0.69,
      "defensa": -0.279,
-     "neto": -0.97,
+     "neto": -0.969,
      "peso": 3.9,
      "fiable": false
     },
@@ -2118,15 +2118,15 @@
    "local": "Venezia FC",
    "visitante": "SS Lazio",
    "prediccion": {
-    "prob_1": 0.19,
+    "prob_1": 0.191,
     "prob_X": 0.246,
     "prob_2": 0.563,
     "goles_esperados": [
-     0.848,
-     1.653
+     0.849,
+     1.652
     ],
     "prob_over_2_5": 0.456,
-    "prob_btts": 0.463,
+    "prob_btts": 0.464,
     "marcadores": [
      [
       "0-1",
@@ -2134,11 +2134,11 @@
      ],
      [
       "1-1",
-      0.1161
+      0.1162
      ],
      [
       "0-2",
-      0.112
+      0.1119
      ]
     ],
     "cuotas_justas": [
@@ -2151,14 +2151,14 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.23,
-     "defensa": -0.28,
-     "neto": -0.51,
-     "peso": 15.9,
+     "ataque": -0.229,
+     "defensa": -0.279,
+     "neto": -0.508,
+     "peso": 15.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.079,
+     "ataque": 0.078,
      "defensa": 0.168,
      "neto": 0.247,
      "peso": 45.9,
@@ -2213,7 +2213,7 @@
     "explicacion": "SS Lazio es más fuerte de fondo (neto +0.25 vs -0.51): encaja ~15% menos. Venezia FC juega en casa (~+9% de ventaja, ya contada). Goles esperados: 0.85 – 1.65; el modelo ve marcando más a SS Lazio. Y la forma reciente lo confirma: SS Lazio llega mejor (4G-1E-0P vs 0G-0E-5P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.81,
+     "prob": 0.809,
      "por_que": "Doble oportunidad: cubre que Venezia FC no gane. El escenario que queda afuera (gane Venezia FC) es el menos probable (19%), así que el mercado se cumple ~81% de las veces.",
      "alternativa": {
       "mercado": "2",
@@ -2351,7 +2351,7 @@
      ],
      [
       "2-0",
-      0.1023
+      0.1024
      ]
     ],
     "cuotas_justas": [
@@ -2371,7 +2371,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.275,
+     "ataque": -0.276,
      "defensa": 0.013,
      "neto": -0.263,
      "peso": 41.1,
@@ -2470,15 +2470,15 @@
     "prob_X": 0.277,
     "prob_2": 0.286,
     "goles_esperados": [
-     1.416,
+     1.417,
      1.096
     ],
-    "prob_over_2_5": 0.459,
+    "prob_over_2_5": 0.46,
     "prob_btts": 0.51,
     "marcadores": [
      [
       "1-1",
-      0.1319
+      0.1318
      ],
      [
       "1-0",
@@ -2508,7 +2508,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.106,
-     "defensa": -0.3,
+     "defensa": -0.301,
      "neto": -0.406,
      "peso": 3.9,
      "fiable": false
@@ -2696,7 +2696,7 @@
     "prob_2": 0.667,
     "goles_esperados": [
      1.078,
-     2.415
+     2.416
     ],
     "prob_over_2_5": 0.678,
     "prob_btts": 0.602,
@@ -2715,7 +2715,7 @@
      ]
     ],
     "cuotas_justas": [
-     6.59,
+     6.6,
      5.53,
      1.5
     ],

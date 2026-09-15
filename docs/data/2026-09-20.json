@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-20",
- "actualizado": "2026-09-15T10:45:48+00:00",
+ "actualizado": "2026-09-15T17:52:27+00:00",
  "partidos": [
   {
    "id": 558591,
@@ -19,7 +19,7 @@
      1.521
     ],
     "prob_over_2_5": 0.468,
-    "prob_btts": 0.503,
+    "prob_btts": 0.502,
     "marcadores": [
      [
       "1-1",
@@ -155,11 +155,11 @@
     "marcadores": [
      [
       "0-0",
-      0.2309
+      0.2308
      ],
      [
       "1-0",
-      0.2198
+      0.2197
      ],
      [
       "0-1",
@@ -186,7 +186,7 @@
     "fuerza_visitante": {
      "ataque": -0.507,
      "defensa": 0.069,
-     "neto": -0.438,
+     "neto": -0.437,
      "peso": 4.9,
      "fiable": false
     },
@@ -276,7 +276,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.099,
+     "ataque": 0.1,
      "defensa": -0.128,
      "neto": -0.029,
      "peso": 9.9,
@@ -346,7 +346,7 @@
     "prob_X": 0.314,
     "prob_2": 0.361,
     "goles_esperados": [
-     0.946,
+     0.947,
      1.017
     ],
     "prob_over_2_5": 0.313,
@@ -618,7 +618,7 @@
      ],
      [
       "2-1",
-      0.0786
+      0.0785
      ]
     ],
     "cuotas_justas": [
@@ -634,14 +634,14 @@
      "ataque": 0.159,
      "defensa": 0.062,
      "neto": 0.221,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.349,
      "defensa": 0.148,
      "neto": 0.498,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "forma_local": {
@@ -737,7 +737,7 @@
     "prob_X": 0.278,
     "prob_2": 0.246,
     "goles_esperados": [
-     1.584,
+     1.583,
      1.083
     ],
     "prob_over_2_5": 0.498,
@@ -769,14 +769,14 @@
      "ataque": 0.074,
      "defensa": 0.121,
      "neto": 0.195,
-     "peso": 27.7,
+     "peso": 27.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.016,
      "defensa": -0.011,
      "neto": -0.027,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "forma_local": {
@@ -856,7 +856,7 @@
     "marcadores": [
      [
       "2-0",
-      0.1353
+      0.1352
      ],
      [
       "1-0",
@@ -877,7 +877,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.423,
+     "ataque": 0.422,
      "defensa": 0.428,
      "neto": 0.851,
      "peso": 45.6,
@@ -887,7 +887,7 @@
      "ataque": -0.158,
      "defensa": 0.159,
      "neto": 0.001,
-     "peso": 27.7,
+     "peso": 27.6,
      "fiable": true
     },
     "forma_local": {
@@ -1126,17 +1126,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.327,
+     "ataque": 0.328,
      "defensa": 0.227,
      "neto": 0.554,
-     "peso": 46.8,
+     "peso": 46.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.526,
      "defensa": 0.379,
      "neto": 0.905,
-     "peso": 46.8,
+     "peso": 46.7,
      "fiable": true
     },
     "forma_local": {
@@ -1365,17 +1365,17 @@
    "prediccion": {
     "prob_1": 0.327,
     "prob_X": 0.239,
-    "prob_2": 0.434,
+    "prob_2": 0.433,
     "goles_esperados": [
-     1.588,
-     1.846
+     1.587,
+     1.844
     ],
-    "prob_over_2_5": 0.667,
+    "prob_over_2_5": 0.666,
     "prob_btts": 0.678,
     "marcadores": [
      [
       "1-1",
-      0.1025
+      0.1027
      ],
      [
       "1-2",
@@ -1397,7 +1397,7 @@
    "nota": "pocos datos: 'FC Schalke 04' solo tiene 2.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.106,
+     "ataque": -0.107,
      "defensa": 0.199,
      "neto": 0.093,
      "peso": 2.9,
@@ -1437,11 +1437,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "SV 07 Elversberg es más fuerte de fondo (neto +0.44 vs +0.09): ataca ~68% más que el promedio. FC Schalke 04 juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.59 – 1.85; el modelo ve marcando más a SV 07 Elversberg. Y la forma reciente lo confirma: SV 07 Elversberg llega mejor (2G-0E-1P vs 1G-1E-1P). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
+    "explicacion": "SV 07 Elversberg es más fuerte de fondo (neto +0.44 vs +0.09): ataca ~68% más que el promedio. FC Schalke 04 juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.59 – 1.84; el modelo ve marcando más a SV 07 Elversberg. Y la forma reciente lo confirma: SV 07 Elversberg llega mejor (2G-0E-1P vs 1G-1E-1P). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.678,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.59 y 1.85. Probabilidad: 68%.",
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.59 y 1.84. Probabilidad: 68%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.865
@@ -1630,7 +1630,7 @@
      "ataque": 0.251,
      "defensa": 0.327,
      "neto": 0.577,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1734,7 +1734,7 @@
     "prob_2": 0.282,
     "goles_esperados": [
      1.77,
-     1.305
+     1.306
     ],
     "prob_over_2_5": 0.593,
     "prob_btts": 0.606,
@@ -1772,8 +1772,8 @@
     "fuerza_visitante": {
      "ataque": 0.197,
      "defensa": 0.111,
-     "neto": 0.307,
-     "peso": 46.8,
+     "neto": 0.308,
+     "peso": 46.7,
      "fiable": true
     },
     "forma_local": {
@@ -1807,11 +1807,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.32 vs +0.31). RC Deportivo La Coruña juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.77 – 1.30; el modelo ve marcando más a RC Deportivo La Coruña. En forma reciente pinta algo mejor Real Betis Balompié (2G-3E-0P vs 4G-0E-1P en 5). El modelo tiene pocos datos de RC Deportivo La Coruña: tomalo con pinzas.",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.32 vs +0.31). RC Deportivo La Coruña juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.77 – 1.31; el modelo ve marcando más a RC Deportivo La Coruña. En forma reciente pinta algo mejor Real Betis Balompié (2G-3E-0P vs 4G-0E-1P en 5). El modelo tiene pocos datos de RC Deportivo La Coruña: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.606,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.77 y 1.30. Probabilidad: 61%.",
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.77 y 1.31. Probabilidad: 61%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.813
@@ -1834,7 +1834,7 @@
     "prob_2": 0.165,
     "goles_esperados": [
      2.432,
-     1.164
+     1.163
     ],
     "prob_over_2_5": 0.697,
     "prob_btts": 0.628,
@@ -1845,7 +1845,7 @@
      ],
      [
       "2-0",
-      0.0811
+      0.0812
      ],
      [
       "1-1",
@@ -1854,7 +1854,7 @@
     ],
     "cuotas_justas": [
      1.53,
-     5.46,
+     5.47,
      6.05
     ],
     "resumen": "Gana Villarreal CF (claro favorito, 65%). se esperan goles (+2.5). ambos marcan.",
@@ -1948,14 +1948,14 @@
     "prob_2": 0.467,
     "goles_esperados": [
      0.904,
-     1.375
+     1.374
     ],
     "prob_over_2_5": 0.398,
     "prob_btts": 0.455,
     "marcadores": [
      [
       "1-1",
-      0.138
+      0.1381
      ],
      [
       "0-1",
@@ -1963,7 +1963,7 @@
      ],
      [
       "0-0",
-      0.1131
+      0.1132
      ]
     ],
     "cuotas_justas": [
@@ -2019,7 +2019,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "TSG 1899 Hoffenheim es más fuerte de fondo (neto +0.10 vs -0.52): ataca ~20% más que el promedio. SC Paderborn 07 juega en casa (~+22% de ventaja, ya contada). Goles esperados: 0.90 – 1.38; el modelo ve marcando más a TSG 1899 Hoffenheim. Y la forma reciente lo confirma: TSG 1899 Hoffenheim llega mejor (2G-0E-3P vs 0G-1E-2P). El modelo tiene pocos datos de SC Paderborn 07: tomalo con pinzas.",
+    "explicacion": "TSG 1899 Hoffenheim es más fuerte de fondo (neto +0.10 vs -0.52): ataca ~20% más que el promedio. SC Paderborn 07 juega en casa (~+22% de ventaja, ya contada). Goles esperados: 0.90 – 1.37; el modelo ve marcando más a TSG 1899 Hoffenheim. Y la forma reciente lo confirma: TSG 1899 Hoffenheim llega mejor (2G-0E-3P vs 0G-1E-2P). El modelo tiene pocos datos de SC Paderborn 07: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.764,
@@ -2077,14 +2077,14 @@
      "ataque": 0.262,
      "defensa": 0.193,
      "neto": 0.455,
-     "peso": 46.0,
+     "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.364,
      "defensa": -0.058,
      "neto": -0.422,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "forma_local": {
@@ -2219,7 +2219,7 @@
      "ataque": 0.514,
      "defensa": 0.37,
      "neto": 0.884,
-     "peso": 41.2,
+     "peso": 41.1,
      "fiable": true
     },
     "forma_local": {
@@ -2316,7 +2316,7 @@
     "prob_2": 0.321,
     "goles_esperados": [
      1.38,
-     1.187
+     1.188
     ],
     "prob_over_2_5": 0.473,
     "prob_btts": 0.522,
@@ -2327,7 +2327,7 @@
      ],
      [
       "1-0",
-      0.1041
+      0.104
      ],
      [
       "0-1",
@@ -2346,7 +2346,7 @@
     "fuerza_local": {
      "ataque": -0.1,
      "defensa": 0.002,
-     "neto": -0.097,
+     "neto": -0.098,
      "peso": 46.8,
      "fiable": true
     },
@@ -2354,7 +2354,7 @@
      "ataque": 0.077,
      "defensa": -0.037,
      "neto": 0.041,
-     "peso": 47.8,
+     "peso": 47.7,
      "fiable": true
     },
     "forma_local": {
