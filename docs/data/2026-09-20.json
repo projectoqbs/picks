@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-20",
- "actualizado": "2026-09-16T10:34:20+00:00",
+ "actualizado": "2026-09-16T17:54:24+00:00",
  "partidos": [
   {
    "id": 558591,
@@ -19,7 +19,7 @@
      1.521
     ],
     "prob_over_2_5": 0.468,
-    "prob_btts": 0.502,
+    "prob_btts": 0.503,
     "marcadores": [
      [
       "1-1",
@@ -47,7 +47,7 @@
      "ataque": 0.097,
      "defensa": -0.029,
      "neto": 0.068,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -155,7 +155,7 @@
     "marcadores": [
      [
       "0-0",
-      0.2307
+      0.2304
      ],
      [
       "1-0",
@@ -174,7 +174,7 @@
     "resumen": "Gana Getafe CF (ligero favorito, 45%). pocos goles (-2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Málaga CF' solo tiene 4.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Málaga CF' solo tiene 4.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.351,
@@ -184,10 +184,10 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.508,
-     "defensa": 0.072,
+     "ataque": -0.507,
+     "defensa": 0.071,
      "neto": -0.436,
-     "peso": 4.9,
+     "peso": 4.8,
      "fiable": false
     },
     "forma_local": {
@@ -248,9 +248,9 @@
     "prob_2": 0.555,
     "goles_esperados": [
      1.061,
-     1.842
+     1.841
     ],
-    "prob_over_2_5": 0.555,
+    "prob_over_2_5": 0.554,
     "prob_btts": 0.551,
     "marcadores": [
      [
@@ -385,7 +385,7 @@
      "ataque": -0.114,
      "defensa": -0.009,
      "neto": -0.123,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "forma_local": {
@@ -513,7 +513,7 @@
      "ataque": 0.051,
      "defensa": -0.045,
      "neto": 0.006,
-     "peso": 41.1,
+     "peso": 41.0,
      "fiable": true
     },
     "forma_local": {
@@ -610,7 +610,7 @@
     "marcadores": [
      [
       "1-1",
-      0.119
+      0.1191
      ],
      [
       "1-2",
@@ -618,7 +618,7 @@
      ],
      [
       "2-1",
-      0.0785
+      0.0786
      ]
     ],
     "cuotas_justas": [
@@ -631,16 +631,16 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.158,
+     "ataque": 0.159,
      "defensa": 0.062,
-     "neto": 0.22,
-     "peso": 45.5,
+     "neto": 0.221,
+     "peso": 45.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.349,
      "defensa": 0.148,
-     "neto": 0.498,
+     "neto": 0.497,
      "peso": 45.5,
      "fiable": true
     },
@@ -737,7 +737,7 @@
     "prob_X": 0.278,
     "prob_2": 0.246,
     "goles_esperados": [
-     1.584,
+     1.583,
      1.083
     ],
     "prob_over_2_5": 0.498,
@@ -749,7 +749,7 @@
      ],
      [
       "1-0",
-      0.0964
+      0.0965
      ],
      [
       "2-1",
@@ -776,7 +776,7 @@
      "ataque": -0.016,
      "defensa": -0.011,
      "neto": -0.027,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "forma_local": {
@@ -844,11 +844,11 @@
    "local": "Manchester City FC",
    "visitante": "Sunderland AFC",
    "prediccion": {
-    "prob_1": 0.649,
+    "prob_1": 0.648,
     "prob_X": 0.234,
     "prob_2": 0.117,
     "goles_esperados": [
-     1.893,
+     1.892,
      0.691
     ],
     "prob_over_2_5": 0.477,
@@ -856,7 +856,7 @@
     "marcadores": [
      [
       "2-0",
-      0.1353
+      0.1352
      ],
      [
       "1-0",
@@ -879,12 +879,12 @@
     "fuerza_local": {
      "ataque": 0.422,
      "defensa": 0.428,
-     "neto": 0.85,
-     "peso": 45.6,
+     "neto": 0.851,
+     "peso": 45.5,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.159,
+     "ataque": -0.158,
      "defensa": 0.159,
      "neto": 0.001,
      "peso": 27.6,
@@ -943,7 +943,7 @@
      "por_que": "Doble oportunidad: cubre que Manchester City FC no pierda. El escenario que queda afuera (gane Sunderland AFC) es el menos probable (12%), así que el mercado se cumple ~88% de las veces.",
      "alternativa": {
       "mercado": "1",
-      "prob": 0.649
+      "prob": 0.648
      },
      "confianza": "alta"
     }
@@ -1001,7 +1001,7 @@
      "ataque": 0.26,
      "defensa": 0.151,
      "neto": 0.411,
-     "peso": 40.4,
+     "peso": 40.3,
      "fiable": true
     },
     "forma_local": {
@@ -1127,16 +1127,16 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.327,
-     "defensa": 0.227,
+     "defensa": 0.228,
      "neto": 0.554,
-     "peso": 46.7,
+     "peso": 46.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.534,
      "defensa": 0.36,
      "neto": 0.894,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "forma_local": {
@@ -1367,7 +1367,7 @@
     "prob_X": 0.239,
     "prob_2": 0.433,
     "goles_esperados": [
-     1.588,
+     1.587,
      1.844
     ],
     "prob_over_2_5": 0.666,
@@ -1375,7 +1375,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1026
+      0.1027
      ],
      [
       "1-2",
@@ -1404,7 +1404,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.516,
+     "ataque": 0.515,
      "defensa": -0.074,
      "neto": 0.441,
      "peso": 2.9,
@@ -1437,7 +1437,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "SV 07 Elversberg es más fuerte de fondo (neto +0.44 vs +0.09): ataca ~68% más que el promedio. FC Schalke 04 juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.59 – 1.84; el modelo ve marcando más a SV 07 Elversberg. Y la forma reciente lo confirma: SV 07 Elversberg llega mejor (2G-0E-1P vs 1G-1E-1P). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
+    "explicacion": "SV 07 Elversberg es más fuerte de fondo (neto +0.44 vs +0.09): ataca ~67% más que el promedio. FC Schalke 04 juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.59 – 1.84; el modelo ve marcando más a SV 07 Elversberg. Y la forma reciente lo confirma: SV 07 Elversberg llega mejor (2G-0E-1P vs 1G-1E-1P). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.678,
@@ -1494,7 +1494,7 @@
     "fuerza_local": {
      "ataque": -0.014,
      "defensa": 0.057,
-     "neto": 0.043,
+     "neto": 0.044,
      "peso": 45.4,
      "fiable": true
     },
@@ -1630,7 +1630,7 @@
      "ataque": 0.25,
      "defensa": 0.327,
      "neto": 0.577,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1733,10 +1733,10 @@
     "prob_X": 0.235,
     "prob_2": 0.282,
     "goles_esperados": [
-     1.769,
+     1.768,
      1.302
     ],
-    "prob_over_2_5": 0.593,
+    "prob_over_2_5": 0.592,
     "prob_btts": 0.605,
     "marcadores": [
      [
@@ -1749,7 +1749,7 @@
      ],
      [
       "1-0",
-      0.081
+      0.0811
      ]
     ],
     "cuotas_justas": [
@@ -1765,14 +1765,14 @@
     "fuerza_local": {
      "ataque": 0.296,
      "defensa": 0.031,
-     "neto": 0.327,
+     "neto": 0.326,
      "peso": 4.8,
      "fiable": false
     },
     "fuerza_visitante": {
      "ataque": 0.196,
      "defensa": 0.112,
-     "neto": 0.308,
+     "neto": 0.307,
      "peso": 46.7,
      "fiable": true
     },
@@ -2061,7 +2061,7 @@
      ],
      [
       "1-1",
-      0.1053
+      0.1054
      ]
     ],
     "cuotas_justas": [
@@ -2077,7 +2077,7 @@
      "ataque": 0.262,
      "defensa": 0.193,
      "neto": 0.455,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2327,7 +2327,7 @@
      ],
      [
       "1-0",
-      0.1073
+      0.1074
      ],
      [
       "0-1",
@@ -2344,17 +2344,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.1,
+     "ataque": -0.101,
      "defensa": 0.023,
      "neto": -0.077,
-     "peso": 47.8,
+     "peso": 47.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.076,
      "defensa": -0.035,
      "neto": 0.041,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "forma_local": {

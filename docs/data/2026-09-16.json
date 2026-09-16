@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-16",
- "actualizado": "2026-09-16T10:34:20+00:00",
+ "actualizado": "2026-09-16T17:54:24+00:00",
  "partidos": [
   {
    "id": 564679,
@@ -11,11 +11,11 @@
    "local": "RC Deportivo La Coruña",
    "visitante": "Sevilla FC",
    "prediccion": {
-    "prob_1": 0.604,
+    "prob_1": 0.603,
     "prob_X": 0.209,
     "prob_2": 0.188,
     "goles_esperados": [
-     2.07,
+     2.069,
      1.068
     ],
     "prob_over_2_5": 0.607,
@@ -27,7 +27,7 @@
      ],
      [
       "1-1",
-      0.0967
+      0.0968
      ],
      [
       "2-0",
@@ -36,7 +36,7 @@
     ],
     "cuotas_justas": [
      1.66,
-     4.79,
+     4.78,
      5.33
     ],
     "resumen": "Gana RC Deportivo La Coruña (claro favorito, 60%). se esperan goles (+2.5).",
@@ -47,14 +47,14 @@
     "fuerza_local": {
      "ataque": 0.296,
      "defensa": 0.031,
-     "neto": 0.327,
+     "neto": 0.326,
      "peso": 4.8,
      "fiable": false
     },
     "fuerza_visitante": {
      "ataque": -0.003,
      "defensa": -0.046,
-     "neto": -0.049,
+     "neto": -0.048,
      "peso": 46.7,
      "fiable": true
     },
@@ -92,11 +92,11 @@
     "explicacion": "RC Deportivo La Coruña es más fuerte de fondo (neto +0.33 vs -0.05): ataca ~34% más que el promedio. RC Deportivo La Coruña juega en casa (~+33% de ventaja, ya contada). Goles esperados: 2.07 – 1.07; el modelo ve marcando más a RC Deportivo La Coruña. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de RC Deportivo La Coruña: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.604,
+     "prob": 0.603,
      "por_que": "RC Deportivo La Coruña es favorito en casa: marca más (2.07 vs 1.07) y es más fuerte de fondo (neto +0.33 vs -0.05). Probabilidad: 60%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.822
+      "prob": 0.821
      },
      "confianza": "baja"
     }
@@ -123,7 +123,7 @@
     "marcadores": [
      [
       "2-0",
-      0.1156
+      0.1157
      ],
      [
       "1-0",
@@ -145,9 +145,9 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.327,
-     "defensa": 0.227,
+     "defensa": 0.228,
      "neto": 0.554,
-     "peso": 46.7,
+     "peso": 46.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -270,7 +270,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.62,
+     2.63,
      3.8,
      2.81
     ],
@@ -391,14 +391,14 @@
    "nota": "pocos datos: 'Real Racing Club de Santander' solo tiene 4.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.738,
+     "ataque": 0.737,
      "defensa": 0.309,
      "neto": 1.046,
-     "peso": 46.7,
+     "peso": 46.6,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.256,
+     "ataque": 0.255,
      "defensa": -0.273,
      "neto": -0.018,
      "peso": 4.8,

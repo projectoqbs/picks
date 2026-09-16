@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-19",
- "actualizado": "2026-09-16T10:34:20+00:00",
+ "actualizado": "2026-09-16T17:54:24+00:00",
  "partidos": [
   {
    "id": 560587,
@@ -151,7 +151,7 @@
     "prob_2": 0.285,
     "goles_esperados": [
      1.304,
-     1.004
+     1.003
     ],
     "prob_over_2_5": 0.406,
     "prob_btts": 0.463,
@@ -162,7 +162,7 @@
      ],
      [
       "1-0",
-      0.1285
+      0.1286
      ],
      [
       "0-0",
@@ -321,7 +321,7 @@
      "ataque": -0.055,
      "defensa": -0.078,
      "neto": -0.133,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "forma_local": {
@@ -426,7 +426,7 @@
      ],
      [
       "1-0",
-      0.1109
+      0.111
      ],
      [
       "0-1",
@@ -453,7 +453,7 @@
      "ataque": -0.077,
      "defensa": -0.043,
      "neto": -0.12,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "forma_local": {
@@ -540,7 +540,7 @@
     "prob_X": 0.272,
     "prob_2": 0.348,
     "goles_esperados": [
-     1.445,
+     1.446,
      1.373
     ],
     "prob_over_2_5": 0.535,
@@ -686,14 +686,14 @@
      "ataque": -0.05,
      "defensa": -0.075,
      "neto": -0.125,
-     "peso": 40.4,
+     "peso": 40.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.038,
+     "ataque": -0.037,
      "defensa": 0.125,
      "neto": 0.087,
-     "peso": 40.4,
+     "peso": 40.3,
      "fiable": true
     },
     "forma_local": {
@@ -825,10 +825,10 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.057,
+     "ataque": -0.056,
      "defensa": 0.015,
      "neto": -0.042,
-     "peso": 40.4,
+     "peso": 40.3,
      "fiable": true
     },
     "forma_local": {
@@ -956,7 +956,7 @@
      "ataque": 0.209,
      "defensa": -0.077,
      "neto": 0.132,
-     "peso": 40.4,
+     "peso": 40.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1059,10 +1059,10 @@
     "prob_X": 0.235,
     "prob_2": 0.156,
     "goles_esperados": [
-     1.971,
+     1.97,
      0.914
     ],
-    "prob_over_2_5": 0.551,
+    "prob_over_2_5": 0.55,
     "prob_btts": 0.527,
     "marcadores": [
      [
@@ -1096,7 +1096,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.112,
-     "defensa": -0.39,
+     "defensa": -0.389,
      "neto": -0.501,
      "peso": 15.8,
      "fiable": true
@@ -1205,7 +1205,7 @@
      "ataque": 0.209,
      "defensa": 0.078,
      "neto": 0.287,
-     "peso": 45.5,
+     "peso": 45.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1305,7 +1305,7 @@
     "prob_X": 0.313,
     "prob_2": 0.349,
     "goles_esperados": [
-     1.143,
+     1.144,
      1.165
     ],
     "prob_over_2_5": 0.406,
@@ -1321,7 +1321,7 @@
      ],
      [
       "0-1",
-      0.1008
+      0.1007
      ]
     ],
     "cuotas_justas": [
@@ -1344,7 +1344,7 @@
     "fuerza_visitante": {
      "ataque": -0.054,
      "defensa": 0.48,
-     "neto": 0.426,
+     "neto": 0.425,
      "peso": 3.9,
      "fiable": false
     },
@@ -1378,7 +1378,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Hull City AFC es más fuerte de fondo (neto +0.43 vs +0.25): encaja ~38% menos. Newcastle United FC juega en casa (~+17% de ventaja, ya contada). Goles esperados: 1.14 – 1.17; el modelo ve marcando más a Hull City AFC. Y la forma reciente lo confirma: Hull City AFC llega mejor (2G-2E-0P vs 1G-2E-2P). El modelo tiene pocos datos de Hull City AFC: tomalo con pinzas.",
+    "explicacion": "Hull City AFC es más fuerte de fondo (neto +0.42 vs +0.25): encaja ~38% menos. Newcastle United FC juega en casa (~+17% de ventaja, ya contada). Goles esperados: 1.14 – 1.17; el modelo ve marcando más a Hull City AFC. Y la forma reciente lo confirma: Hull City AFC llega mejor (2G-2E-0P vs 1G-2E-2P). El modelo tiene pocos datos de Hull City AFC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.594,
@@ -1412,7 +1412,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1348
+      0.1349
      ],
      [
       "1-1",
@@ -1443,7 +1443,7 @@
      "ataque": -0.039,
      "defensa": 0.051,
      "neto": 0.011,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "forma_local": {
@@ -1577,8 +1577,8 @@
     "fuerza_visitante": {
      "ataque": 0.227,
      "defensa": 0.028,
-     "neto": 0.254,
-     "peso": 41.1,
+     "neto": 0.255,
+     "peso": 41.0,
      "fiable": true
     },
     "forma_local": {
@@ -1627,7 +1627,7 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.22 vs +0.25). Paris FC juega en casa (~+20% de ventaja, ya contada). Goles esperados: 1.57 – 1.36; el modelo ve marcando más a Paris FC. También parejos en forma (3G-2E-0P vs 3G-1E-1P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.22 vs +0.26). Paris FC juega en casa (~+20% de ventaja, ya contada). Goles esperados: 1.57 – 1.36; el modelo ve marcando más a Paris FC. También parejos en forma (3G-2E-0P vs 3G-1E-1P en 5).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.595,
@@ -1821,11 +1821,11 @@
      "ataque": 0.074,
      "defensa": 0.047,
      "neto": 0.121,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.256,
+     "ataque": 0.255,
      "defensa": -0.273,
      "neto": -0.018,
      "peso": 4.8,
@@ -1920,14 +1920,14 @@
      "ataque": 0.33,
      "defensa": 0.088,
      "neto": 0.419,
-     "peso": 40.4,
+     "peso": 40.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.332,
      "defensa": 0.316,
      "neto": 0.648,
-     "peso": 40.4,
+     "peso": 40.3,
      "fiable": true
     },
     "forma_local": {
@@ -2039,7 +2039,7 @@
      ],
      [
       "3-0",
-      0.1036
+      0.1035
      ]
     ],
     "cuotas_justas": [
@@ -2056,7 +2056,7 @@
      "ataque": 0.034,
      "defensa": 0.127,
      "neto": 0.161,
-     "peso": 45.5,
+     "peso": 45.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2118,15 +2118,15 @@
    "local": "Venezia FC",
    "visitante": "SS Lazio",
    "prediccion": {
-    "prob_1": 0.191,
+    "prob_1": 0.19,
     "prob_X": 0.246,
     "prob_2": 0.563,
     "goles_esperados": [
-     0.849,
-     1.652
+     0.848,
+     1.653
     ],
     "prob_over_2_5": 0.456,
-    "prob_btts": 0.464,
+    "prob_btts": 0.463,
     "marcadores": [
      [
       "0-1",
@@ -2134,15 +2134,15 @@
      ],
      [
       "1-1",
-      0.1162
+      0.1161
      ],
      [
       "0-2",
-      0.1119
+      0.112
      ]
     ],
     "cuotas_justas": [
-     5.24,
+     5.25,
      4.06,
      1.78
     ],
@@ -2151,9 +2151,9 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.229,
-     "defensa": -0.279,
-     "neto": -0.508,
+     "ataque": -0.23,
+     "defensa": -0.28,
+     "neto": -0.51,
      "peso": 15.8,
      "fiable": true
     },
@@ -2213,7 +2213,7 @@
     "explicacion": "SS Lazio es más fuerte de fondo (neto +0.25 vs -0.51): encaja ~15% menos. Venezia FC juega en casa (~+9% de ventaja, ya contada). Goles esperados: 0.85 – 1.65; el modelo ve marcando más a SS Lazio. Y la forma reciente lo confirma: SS Lazio llega mejor (4G-1E-0P vs 0G-0E-5P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.809,
+     "prob": 0.81,
      "por_que": "Doble oportunidad: cubre que Venezia FC no gane. El escenario que queda afuera (gane Venezia FC) es el menos probable (19%), así que el mercado se cumple ~81% de las veces.",
      "alternativa": {
       "mercado": "2",
@@ -2276,7 +2276,7 @@
      "ataque": 0.015,
      "defensa": 0.002,
      "neto": 0.017,
-     "peso": 30.4,
+     "peso": 30.3,
      "fiable": true
     },
     "forma_local": {
@@ -2351,13 +2351,13 @@
      ],
      [
       "2-0",
-      0.1023
+      0.1024
      ]
     ],
     "cuotas_justas": [
-     1.97,
+     1.96,
      3.68,
-     4.56
+     4.57
     ],
     "resumen": "Gana Toulouse FC (ligero favorito, 51%).",
     "confianza": "alta"
@@ -2473,7 +2473,7 @@
      1.416,
      1.096
     ],
-    "prob_over_2_5": 0.459,
+    "prob_over_2_5": 0.46,
     "prob_btts": 0.51,
     "marcadores": [
      [
@@ -2716,7 +2716,7 @@
     ],
     "cuotas_justas": [
      6.59,
-     5.56,
+     5.55,
      1.5
     ],
     "resumen": "Gana FC Barcelona (claro favorito, 67%). se esperan goles (+2.5). ambos marcan.",
@@ -2726,15 +2726,15 @@
     "fuerza_local": {
      "ataque": -0.003,
      "defensa": -0.046,
-     "neto": -0.049,
+     "neto": -0.048,
      "peso": 46.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.738,
+     "ataque": 0.737,
      "defensa": 0.309,
      "neto": 1.046,
-     "peso": 46.7,
+     "peso": 46.6,
      "fiable": true
     },
     "forma_local": {

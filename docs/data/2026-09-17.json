@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-17",
- "actualizado": "2026-09-16T10:34:20+00:00",
+ "actualizado": "2026-09-16T17:54:24+00:00",
  "partidos": [
   {
    "id": 564686,
@@ -31,7 +31,7 @@
      ],
      [
       "1-1",
-      0.1219
+      0.122
      ]
     ],
     "cuotas_justas": [
@@ -46,7 +46,7 @@
     "fuerza_local": {
      "ataque": 0.196,
      "defensa": 0.112,
-     "neto": 0.308,
+     "neto": 0.307,
      "peso": 46.7,
      "fiable": true
     },
@@ -146,11 +146,11 @@
    "local": "Málaga CF",
    "visitante": "Villarreal CF",
    "prediccion": {
-    "prob_1": 0.216,
+    "prob_1": 0.217,
     "prob_X": 0.263,
     "prob_2": 0.521,
     "goles_esperados": [
-     0.873,
+     0.874,
      1.51
     ],
     "prob_over_2_5": 0.426,
@@ -158,15 +158,15 @@
     "marcadores": [
      [
       "0-1",
-      0.1382
+      0.1381
      ],
      [
       "1-1",
-      0.1228
+      0.1227
      ],
      [
       "0-2",
-      0.1052
+      0.1051
      ]
     ],
     "cuotas_justas": [
@@ -177,13 +177,13 @@
     "resumen": "Gana Villarreal CF (ligero favorito, 52%).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Málaga CF' solo tiene 4.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Málaga CF' solo tiene 4.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.508,
-     "defensa": 0.072,
+     "ataque": -0.507,
+     "defensa": 0.071,
      "neto": -0.436,
-     "peso": 4.9,
+     "peso": 4.8,
      "fiable": false
     },
     "fuerza_visitante": {
