@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-18",
- "actualizado": "2026-09-15T17:52:27+00:00",
+ "actualizado": "2026-09-16T10:34:20+00:00",
  "partidos": [
   {
    "id": 565804,
@@ -51,7 +51,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.178,
+     "ataque": -0.179,
      "defensa": -0.061,
      "neto": -0.239,
      "peso": 40.1,
@@ -189,7 +189,7 @@
      "ataque": 0.105,
      "defensa": -0.115,
      "neto": -0.009,
-     "peso": 33.9,
+     "peso": 33.8,
      "fiable": true
     },
     "forma_local": {
@@ -303,7 +303,7 @@
      "ataque": 0.224,
      "defensa": 0.226,
      "neto": 0.449,
-     "peso": 41.1,
+     "peso": 41.0,
      "fiable": true
     },
     "forma_local": {
@@ -395,33 +395,33 @@
    "local": "RCD Espanyol de Barcelona",
    "visitante": "Elche CF",
    "prediccion": {
-    "prob_1": 0.48,
-    "prob_X": 0.254,
-    "prob_2": 0.267,
+    "prob_1": 0.478,
+    "prob_X": 0.249,
+    "prob_2": 0.273,
     "goles_esperados": [
-     1.584,
-     1.116
+     1.609,
+     1.156
     ],
-    "prob_over_2_5": 0.506,
-    "prob_btts": 0.536,
+    "prob_over_2_5": 0.522,
+    "prob_btts": 0.549,
     "marcadores": [
      [
       "1-1",
-      0.1205
+      0.1182
      ],
      [
       "1-0",
-      0.1047
+      0.1003
      ],
      [
       "2-1",
-      0.0941
+      0.0942
      ]
     ],
     "cuotas_justas": [
-     2.08,
-     3.94,
-     3.75
+     2.09,
+     4.01,
+     3.67
     ],
     "resumen": "Gana RCD Espanyol de Barcelona (ligero favorito, 48%).",
     "confianza": "alta"
@@ -429,46 +429,46 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.056,
-     "defensa": 0.044,
-     "neto": -0.012,
-     "peso": 40.8,
+     "defensa": 0.034,
+     "neto": -0.022,
+     "peso": 41.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.057,
-     "defensa": -0.13,
-     "neto": -0.073,
-     "peso": 28.8,
+     "ataque": 0.079,
+     "defensa": -0.146,
+     "neto": -0.066,
+     "peso": 29.8,
      "fiable": true
     },
     "forma_local": {
      "pj": 5,
-     "g": 2,
+     "g": 1,
      "e": 1,
-     "p": 2,
-     "gf": 8,
-     "gc": 5,
+     "p": 3,
+     "gf": 6,
+     "gc": 7,
      "racha": [
-      "G",
       "P",
       "P",
       "E",
-      "G"
+      "G",
+      "P"
      ]
     },
     "forma_visitante": {
      "pj": 5,
      "g": 0,
-     "e": 2,
-     "p": 3,
-     "gf": 6,
-     "gc": 13,
+     "e": 1,
+     "p": 4,
+     "gf": 7,
+     "gc": 15,
      "racha": [
+      "P",
+      "P",
+      "P",
       "E",
-      "P",
-      "P",
-      "P",
-      "E"
+      "P"
      ]
     },
     "cara_a_cara": [
@@ -487,14 +487,8 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto -0.01 vs -0.07). RCD Espanyol de Barcelona juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.58 – 1.12; el modelo ve marcando más a RCD Espanyol de Barcelona. En forma reciente pinta algo mejor RCD Espanyol de Barcelona (2G-1E-2P vs 0G-2E-3P en 5).",
-    "recomendacion": {
-     "mercado": "1X",
-     "prob": 0.734,
-     "por_que": "Doble oportunidad: cubre que RCD Espanyol de Barcelona no pierda. El escenario que queda afuera (gane Elche CF) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
-     "alternativa": null,
-     "confianza": "alta"
-    }
+    "explicacion": "En fuerza de temporada están parejos (neto -0.02 vs -0.07). RCD Espanyol de Barcelona juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.61 – 1.16; el modelo ve marcando más a RCD Espanyol de Barcelona. En forma reciente pinta algo mejor RCD Espanyol de Barcelona (1G-1E-3P vs 0G-1E-4P en 5).",
+    "recomendacion": null
    }
   },
   {
@@ -511,7 +505,7 @@
     "prob_2": 0.345,
     "goles_esperados": [
      1.68,
-     1.553
+     1.552
     ],
     "prob_over_2_5": 0.627,
     "prob_btts": 0.653,
@@ -530,7 +524,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.5,
+     2.51,
      3.91,
      2.9
     ],
@@ -549,7 +543,7 @@
      "ataque": 0.272,
      "defensa": 0.034,
      "neto": 0.306,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "forma_local": {

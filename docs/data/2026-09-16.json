@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-16",
- "actualizado": "2026-09-15T17:52:27+00:00",
+ "actualizado": "2026-09-16T10:34:20+00:00",
  "partidos": [
   {
    "id": 564679,
@@ -11,15 +11,15 @@
    "local": "RC Deportivo La Coruña",
    "visitante": "Sevilla FC",
    "prediccion": {
-    "prob_1": 0.603,
-    "prob_X": 0.21,
-    "prob_2": 0.187,
+    "prob_1": 0.604,
+    "prob_X": 0.209,
+    "prob_2": 0.188,
     "goles_esperados": [
-     2.071,
-     1.07
+     2.07,
+     1.068
     ],
-    "prob_over_2_5": 0.608,
-    "prob_btts": 0.575,
+    "prob_over_2_5": 0.607,
+    "prob_btts": 0.574,
     "marcadores": [
      [
       "2-1",
@@ -27,35 +27,35 @@
      ],
      [
       "1-1",
-      0.0972
+      0.0967
      ],
      [
       "2-0",
-      0.0928
+      0.0929
      ]
     ],
     "cuotas_justas": [
      1.66,
-     4.76,
-     5.34
+     4.79,
+     5.33
     ],
     "resumen": "Gana RC Deportivo La Coruña (claro favorito, 60%). se esperan goles (+2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'RC Deportivo La Coruña' solo tiene 4.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'RC Deportivo La Coruña' solo tiene 4.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.296,
-     "defensa": 0.027,
-     "neto": 0.323,
-     "peso": 4.9,
+     "defensa": 0.031,
+     "neto": 0.327,
+     "peso": 4.8,
      "fiable": false
     },
     "fuerza_visitante": {
      "ataque": -0.003,
      "defensa": -0.046,
      "neto": -0.049,
-     "peso": 46.8,
+     "peso": 46.7,
      "fiable": true
     },
     "forma_local": {
@@ -89,11 +89,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "RC Deportivo La Coruña es más fuerte de fondo (neto +0.32 vs -0.05): ataca ~34% más que el promedio. RC Deportivo La Coruña juega en casa (~+33% de ventaja, ya contada). Goles esperados: 2.07 – 1.07; el modelo ve marcando más a RC Deportivo La Coruña. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de RC Deportivo La Coruña: tomalo con pinzas.",
+    "explicacion": "RC Deportivo La Coruña es más fuerte de fondo (neto +0.33 vs -0.05): ataca ~34% más que el promedio. RC Deportivo La Coruña juega en casa (~+33% de ventaja, ya contada). Goles esperados: 2.07 – 1.07; el modelo ve marcando más a RC Deportivo La Coruña. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de RC Deportivo La Coruña: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.603,
-     "por_que": "RC Deportivo La Coruña es favorito en casa: marca más (2.07 vs 1.07) y es más fuerte de fondo (neto +0.32 vs -0.05). Probabilidad: 60%.",
+     "prob": 0.604,
+     "por_que": "RC Deportivo La Coruña es favorito en casa: marca más (2.07 vs 1.07) y es más fuerte de fondo (neto +0.33 vs -0.05). Probabilidad: 60%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.822
@@ -112,22 +112,22 @@
    "visitante": "CA Osasuna",
    "prediccion": {
     "prob_1": 0.647,
-    "prob_X": 0.207,
+    "prob_X": 0.206,
     "prob_2": 0.147,
     "goles_esperados": [
-     2.029,
+     2.028,
      0.85
     ],
     "prob_over_2_5": 0.549,
-    "prob_btts": 0.499,
+    "prob_btts": 0.498,
     "marcadores": [
      [
       "2-0",
-      0.1157
+      0.1156
      ],
      [
       "1-0",
-      0.1126
+      0.1132
      ],
      [
       "2-1",
@@ -136,25 +136,25 @@
     ],
     "cuotas_justas": [
      1.55,
-     4.84,
-     6.82
+     4.86,
+     6.78
     ],
     "resumen": "Gana Club Atlético de Madrid (claro favorito, 65%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.328,
+     "ataque": 0.327,
      "defensa": 0.227,
      "neto": 0.554,
      "peso": 46.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.033,
+     "ataque": -0.034,
      "defensa": 0.006,
-     "neto": -0.027,
-     "peso": 46.8,
+     "neto": -0.028,
+     "peso": 46.7,
      "fiable": true
     },
     "forma_local": {
@@ -247,49 +247,49 @@
    "visitante": "Athletic Club",
    "prediccion": {
     "prob_1": 0.381,
-    "prob_X": 0.264,
-    "prob_2": 0.355,
+    "prob_X": 0.263,
+    "prob_2": 0.356,
     "goles_esperados": [
-     1.355,
-     1.299
+     1.351,
+     1.297
     ],
-    "prob_over_2_5": 0.495,
-    "prob_btts": 0.541,
+    "prob_over_2_5": 0.494,
+    "prob_btts": 0.54,
     "marcadores": [
      [
       "1-1",
-      0.1256
+      0.1252
      ],
      [
       "1-0",
-      0.0936
+      0.0945
      ],
      [
       "0-1",
-      0.0896
+      0.0906
      ]
     ],
     "cuotas_justas": [
      2.62,
-     3.78,
-     2.82
+     3.8,
+     2.81
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.068,
-     "defensa": -0.118,
+     "ataque": 0.066,
+     "defensa": -0.116,
      "neto": -0.05,
      "peso": 28.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.046,
-     "defensa": 0.15,
+     "ataque": 0.045,
+     "defensa": 0.151,
      "neto": 0.196,
-     "peso": 46.7,
+     "peso": 46.6,
      "fiable": true
     },
     "forma_local": {
@@ -357,15 +357,15 @@
    "local": "FC Barcelona",
    "visitante": "Real Racing Club de Santander",
    "prediccion": {
-    "prob_1": 0.874,
-    "prob_X": 0.077,
+    "prob_1": 0.873,
+    "prob_X": 0.078,
     "prob_2": 0.049,
     "goles_esperados": [
-     4.055,
-     1.049
+     4.042,
+     1.047
     ],
-    "prob_over_2_5": 0.883,
-    "prob_btts": 0.639,
+    "prob_over_2_5": 0.882,
+    "prob_btts": 0.638,
     "marcadores": [
      [
       "4-1",
@@ -373,17 +373,17 @@
      ],
      [
       "3-1",
-      0.071
+      0.0713
      ],
      [
       "4-0",
-      0.0686
+      0.0688
      ]
     ],
     "cuotas_justas": [
-     1.14,
-     12.91,
-     20.43
+     1.15,
+     12.88,
+     20.27
     ],
     "resumen": "Gana FC Barcelona (claro favorito, 87%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -392,15 +392,15 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.738,
-     "defensa": 0.308,
+     "defensa": 0.309,
      "neto": 1.046,
      "peso": 46.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.258,
-     "defensa": -0.276,
-     "neto": -0.017,
+     "ataque": 0.256,
+     "defensa": -0.273,
+     "neto": -0.018,
      "peso": 4.8,
      "fiable": false
     },
@@ -435,11 +435,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.05 vs -0.02): ataca ~109% más que el promedio, encaja ~27% menos. FC Barcelona juega en casa (~+33% de ventaja, ya contada). Goles esperados: 4.05 – 1.05; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (5G-0E-0P vs 2G-1E-2P). El modelo tiene pocos datos de Real Racing Club de Santander: tomalo con pinzas.",
+    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.05 vs -0.02): ataca ~109% más que el promedio, encaja ~27% menos. FC Barcelona juega en casa (~+33% de ventaja, ya contada). Goles esperados: 4.04 – 1.05; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (5G-0E-0P vs 2G-1E-2P). El modelo tiene pocos datos de Real Racing Club de Santander: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.874,
-     "por_que": "FC Barcelona es favorito en casa: marca más (4.05 vs 1.05) y es más fuerte de fondo (neto +1.05 vs -0.02). Probabilidad: 87%.",
+     "prob": 0.873,
+     "por_que": "FC Barcelona es favorito en casa: marca más (4.04 vs 1.05) y es más fuerte de fondo (neto +1.05 vs -0.02). Probabilidad: 87%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.963
