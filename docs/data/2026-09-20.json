@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-20",
- "actualizado": "2026-09-17T10:44:09+00:00",
+ "actualizado": "2026-09-17T17:54:02+00:00",
  "partidos": [
   {
    "id": 558591,
@@ -47,7 +47,7 @@
      "ataque": 0.097,
      "defensa": -0.029,
      "neto": 0.068,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -155,11 +155,11 @@
     "marcadores": [
      [
       "0-0",
-      0.2269
+      0.227
      ],
      [
       "1-0",
-      0.2212
+      0.2211
      ],
      [
       "0-1",
@@ -286,7 +286,7 @@
      "ataque": 0.338,
      "defensa": 0.274,
      "neto": 0.612,
-     "peso": 39.8,
+     "peso": 39.7,
      "fiable": true
     },
     "forma_local": {
@@ -349,7 +349,7 @@
      0.947,
      1.017
     ],
-    "prob_over_2_5": 0.313,
+    "prob_over_2_5": 0.314,
     "prob_btts": 0.392,
     "marcadores": [
      [
@@ -385,7 +385,7 @@
      "ataque": -0.114,
      "defensa": -0.009,
      "neto": -0.123,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "forma_local": {
@@ -451,7 +451,7 @@
     "explicacion": "Genoa CFC es más fuerte de fondo (neto -0.12 vs -0.28): es más completo en general. Parma Calcio 1913 juega en casa (~+9% de ventaja, ya contada). Goles esperados: 0.95 – 1.02; el modelo ve marcando más a Genoa CFC. Pero ojo: en forma reciente Parma Calcio 1913 llega mejor que Genoa CFC, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.687,
+     "prob": 0.686,
      "por_que": "Pocos goles esperados en total (0.95 + 1.02 = 1.96). El modelo ve el partido cerrado (69% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
@@ -482,7 +482,7 @@
     "marcadores": [
      [
       "1-1",
-      0.126
+      0.1261
      ],
      [
       "2-1",
@@ -504,14 +504,14 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.093,
-     "defensa": 0.002,
+     "defensa": 0.003,
      "neto": -0.091,
      "peso": 35.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.051,
-     "defensa": -0.045,
+     "defensa": -0.046,
      "neto": 0.006,
      "peso": 41.0,
      "fiable": true
@@ -640,7 +640,7 @@
     "fuerza_visitante": {
      "ataque": 0.349,
      "defensa": 0.148,
-     "neto": 0.498,
+     "neto": 0.497,
      "peso": 45.4,
      "fiable": true
     },
@@ -749,7 +749,7 @@
      ],
      [
       "1-0",
-      0.0965
+      0.0964
      ],
      [
       "2-1",
@@ -768,7 +768,7 @@
     "fuerza_local": {
      "ataque": 0.074,
      "defensa": 0.121,
-     "neto": 0.194,
+     "neto": 0.195,
      "peso": 27.5,
      "fiable": true
     },
@@ -825,7 +825,7 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Leeds United FC es más fuerte de fondo (neto +0.19 vs -0.03): encaja ~11% menos. Leeds United FC juega en casa (~+17% de ventaja, ya contada). Goles esperados: 1.58 – 1.08; el modelo ve marcando más a Leeds United FC. Y la forma reciente lo confirma: Leeds United FC llega mejor (2G-2E-1P vs 1G-0E-4P).",
+    "explicacion": "Leeds United FC es más fuerte de fondo (neto +0.20 vs -0.03): encaja ~11% menos. Leeds United FC juega en casa (~+17% de ventaja, ya contada). Goles esperados: 1.58 – 1.08; el modelo ve marcando más a Leeds United FC. Y la forma reciente lo confirma: Leeds United FC llega mejor (2G-2E-1P vs 1G-0E-4P).",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.754,
@@ -856,7 +856,7 @@
     "marcadores": [
      [
       "2-0",
-      0.1352
+      0.1353
      ],
      [
       "1-0",
@@ -879,12 +879,12 @@
     "fuerza_local": {
      "ataque": 0.422,
      "defensa": 0.428,
-     "neto": 0.85,
-     "peso": 45.5,
+     "neto": 0.851,
+     "peso": 45.4,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.158,
+     "ataque": -0.159,
      "defensa": 0.159,
      "neto": 0.001,
      "peso": 27.5,
@@ -1133,10 +1133,10 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.538,
+     "ataque": 0.537,
      "defensa": 0.367,
      "neto": 0.905,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "forma_local": {
@@ -1248,7 +1248,7 @@
      ],
      [
       "0-0",
-      0.1021
+      0.1022
      ]
     ],
     "cuotas_justas": [
@@ -1268,7 +1268,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.115,
+     "ataque": 0.114,
      "defensa": 0.373,
      "neto": 0.487,
      "peso": 40.9,
@@ -1367,15 +1367,15 @@
     "prob_X": 0.239,
     "prob_2": 0.433,
     "goles_esperados": [
-     1.588,
-     1.844
+     1.587,
+     1.845
     ],
     "prob_over_2_5": 0.666,
     "prob_btts": 0.678,
     "marcadores": [
      [
       "1-1",
-      0.1027
+      0.1026
      ],
      [
       "1-2",
@@ -1387,7 +1387,7 @@
      ]
     ],
     "cuotas_justas": [
-     3.05,
+     3.06,
      4.18,
      2.31
     ],
@@ -1399,12 +1399,12 @@
     "fuerza_local": {
      "ataque": -0.106,
      "defensa": 0.199,
-     "neto": 0.092,
+     "neto": 0.093,
      "peso": 2.9,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.515,
+     "ataque": 0.516,
      "defensa": -0.074,
      "neto": 0.441,
      "peso": 2.9,
@@ -1437,7 +1437,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "SV 07 Elversberg es más fuerte de fondo (neto +0.44 vs +0.09): ataca ~67% más que el promedio. FC Schalke 04 juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.59 – 1.84; el modelo ve marcando más a SV 07 Elversberg. Y la forma reciente lo confirma: SV 07 Elversberg llega mejor (2G-0E-1P vs 1G-1E-1P). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
+    "explicacion": "SV 07 Elversberg es más fuerte de fondo (neto +0.44 vs +0.09): ataca ~68% más que el promedio. FC Schalke 04 juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.59 – 1.84; el modelo ve marcando más a SV 07 Elversberg. Y la forma reciente lo confirma: SV 07 Elversberg llega mejor (2G-0E-1P vs 1G-1E-1P). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.678,
@@ -1495,7 +1495,7 @@
      "ataque": -0.014,
      "defensa": 0.057,
      "neto": 0.043,
-     "peso": 45.4,
+     "peso": 45.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1741,7 +1741,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1194
+      0.1195
      ],
      [
       "1-0",
@@ -1944,7 +1944,7 @@
     "prob_X": 0.297,
     "prob_2": 0.467,
     "goles_esperados": [
-     0.906,
+     0.907,
      1.375
     ],
     "prob_over_2_5": 0.399,
@@ -1956,15 +1956,15 @@
      ],
      [
       "0-1",
-      0.1298
+      0.1297
      ],
      [
       "0-0",
-      0.113
+      0.1129
      ]
     ],
     "cuotas_justas": [
-     4.23,
+     4.22,
      3.37,
      2.14
     ],
@@ -1975,8 +1975,8 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.676,
-     "defensa": 0.157,
-     "neto": -0.519,
+     "defensa": 0.158,
+     "neto": -0.518,
      "peso": 2.9,
      "fiable": false
     },
@@ -2073,7 +2073,7 @@
     "fuerza_local": {
      "ataque": 0.262,
      "defensa": 0.193,
-     "neto": 0.455,
+     "neto": 0.454,
      "peso": 45.8,
      "fiable": true
     },
@@ -2151,7 +2151,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "AC Milan es más fuerte de fondo (neto +0.46 vs -0.42): ataca ~30% más que el promedio, encaja ~18% menos. AC Milan juega en casa (~+9% de ventaja, ya contada). Goles esperados: 1.74 – 0.66; el modelo ve marcando más a AC Milan. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "AC Milan es más fuerte de fondo (neto +0.45 vs -0.42): ataca ~30% más que el promedio, encaja ~18% menos. AC Milan juega en casa (~+9% de ventaja, ya contada). Goles esperados: 1.74 – 0.66; el modelo ve marcando más a AC Milan. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.864,
@@ -2213,9 +2213,9 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.513,
+     "ataque": 0.514,
      "defensa": 0.37,
-     "neto": 0.883,
+     "neto": 0.884,
      "peso": 41.0,
      "fiable": true
     },
@@ -2344,14 +2344,14 @@
      "ataque": -0.096,
      "defensa": 0.027,
      "neto": -0.069,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.08,
      "defensa": -0.027,
      "neto": 0.053,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "forma_local": {
