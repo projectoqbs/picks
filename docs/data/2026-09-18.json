@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-18",
- "actualizado": "2026-09-16T17:54:24+00:00",
+ "actualizado": "2026-09-17T10:44:09+00:00",
  "partidos": [
   {
    "id": 565804,
@@ -15,7 +15,7 @@
     "prob_X": 0.085,
     "prob_2": 0.038,
     "goles_esperados": [
-     3.655,
+     3.654,
      0.778
     ],
     "prob_over_2_5": 0.818,
@@ -51,10 +51,10 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.178,
+     "ataque": -0.179,
      "defensa": -0.061,
      "neto": -0.239,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "forma_local": {
@@ -296,7 +296,7 @@
      "ataque": 0.303,
      "defensa": 0.102,
      "neto": 0.405,
-     "peso": 41.0,
+     "peso": 40.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -395,50 +395,50 @@
    "local": "RCD Espanyol de Barcelona",
    "visitante": "Elche CF",
    "prediccion": {
-    "prob_1": 0.478,
-    "prob_X": 0.249,
-    "prob_2": 0.273,
+    "prob_1": 0.483,
+    "prob_X": 0.248,
+    "prob_2": 0.27,
     "goles_esperados": [
-     1.609,
-     1.156
+     1.614,
+     1.144
     ],
-    "prob_over_2_5": 0.522,
-    "prob_btts": 0.549,
+    "prob_over_2_5": 0.521,
+    "prob_btts": 0.546,
     "marcadores": [
      [
       "1-1",
-      0.1182
+      0.1174
      ],
      [
       "1-0",
-      0.1003
+      0.102
      ],
      [
       "2-1",
-      0.0942
+      0.0945
      ]
     ],
     "cuotas_justas": [
-     2.09,
-     4.01,
-     3.67
+     2.07,
+     4.04,
+     3.71
     ],
     "resumen": "Gana RCD Espanyol de Barcelona (ligero favorito, 48%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.056,
-     "defensa": 0.034,
-     "neto": -0.023,
-     "peso": 41.8,
+     "ataque": -0.053,
+     "defensa": 0.041,
+     "neto": -0.012,
+     "peso": 41.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.079,
-     "defensa": -0.146,
-     "neto": -0.067,
-     "peso": 29.8,
+     "ataque": 0.075,
+     "defensa": -0.141,
+     "neto": -0.066,
+     "peso": 29.7,
      "fiable": true
     },
     "forma_local": {
@@ -487,8 +487,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto -0.02 vs -0.07). RCD Espanyol de Barcelona juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.61 – 1.16; el modelo ve marcando más a RCD Espanyol de Barcelona. En forma reciente pinta algo mejor RCD Espanyol de Barcelona (1G-1E-3P vs 0G-1E-4P en 5).",
-    "recomendacion": null
+    "explicacion": "En fuerza de temporada están parejos (neto -0.01 vs -0.07). RCD Espanyol de Barcelona juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.61 – 1.14; el modelo ve marcando más a RCD Espanyol de Barcelona. En forma reciente pinta algo mejor RCD Espanyol de Barcelona (1G-1E-3P vs 0G-1E-4P en 5).",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.73,
+     "por_que": "Doble oportunidad: cubre que RCD Espanyol de Barcelona no pierda. El escenario que queda afuera (gane Elche CF) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
+     "alternativa": null,
+     "confianza": "alta"
+    }
    }
   },
   {
@@ -524,7 +530,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.51,
+     2.5,
      3.91,
      2.9
     ],
@@ -543,7 +549,7 @@
      "ataque": 0.272,
      "defensa": 0.034,
      "neto": 0.306,
-     "peso": 45.5,
+     "peso": 45.4,
      "fiable": true
     },
     "forma_local": {
