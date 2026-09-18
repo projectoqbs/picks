@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-19",
- "actualizado": "2026-09-18T10:19:36+00:00",
+ "actualizado": "2026-09-18T17:24:32+00:00",
  "partidos": [
   {
    "id": 560587,
@@ -54,7 +54,7 @@
      "ataque": 0.134,
      "defensa": 0.073,
      "neto": 0.207,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "forma_local": {
@@ -187,9 +187,9 @@
     },
     "fuerza_visitante": {
      "ataque": -0.092,
-     "defensa": 0.1,
+     "defensa": 0.099,
      "neto": 0.008,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "forma_local": {
@@ -1059,10 +1059,10 @@
     "prob_X": 0.235,
     "prob_2": 0.157,
     "goles_esperados": [
-     1.971,
+     1.97,
      0.915
     ],
-    "prob_over_2_5": 0.551,
+    "prob_over_2_5": 0.55,
     "prob_btts": 0.527,
     "marcadores": [
      [
@@ -1096,9 +1096,9 @@
     },
     "fuerza_visitante": {
      "ataque": -0.112,
-     "defensa": -0.39,
+     "defensa": -0.389,
      "neto": -0.501,
-     "peso": 15.8,
+     "peso": 15.7,
      "fiable": true
     },
     "forma_local": {
@@ -1211,8 +1211,8 @@
     "fuerza_visitante": {
      "ataque": 0.354,
      "defensa": 0.654,
-     "neto": 1.009,
-     "peso": 45.3,
+     "neto": 1.008,
+     "peso": 45.2,
      "fiable": true
     },
     "forma_local": {
@@ -1305,7 +1305,7 @@
     "prob_X": 0.313,
     "prob_2": 0.349,
     "goles_esperados": [
-     1.144,
+     1.143,
      1.165
     ],
     "prob_over_2_5": 0.406,
@@ -1321,7 +1321,7 @@
      ],
      [
       "0-1",
-      0.1007
+      0.1008
      ]
     ],
     "cuotas_justas": [
@@ -1344,7 +1344,7 @@
     "fuerza_visitante": {
      "ataque": -0.054,
      "defensa": 0.48,
-     "neto": 0.425,
+     "neto": 0.426,
      "peso": 3.9,
      "fiable": false
     },
@@ -1378,7 +1378,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Hull City AFC es más fuerte de fondo (neto +0.42 vs +0.25): encaja ~38% menos. Newcastle United FC juega en casa (~+17% de ventaja, ya contada). Goles esperados: 1.14 – 1.17; el modelo ve marcando más a Hull City AFC. Y la forma reciente lo confirma: Hull City AFC llega mejor (2G-2E-0P vs 1G-2E-2P). El modelo tiene pocos datos de Hull City AFC: tomalo con pinzas.",
+    "explicacion": "Hull City AFC es más fuerte de fondo (neto +0.43 vs +0.25): encaja ~38% menos. Newcastle United FC juega en casa (~+17% de ventaja, ya contada). Goles esperados: 1.14 – 1.17; el modelo ve marcando más a Hull City AFC. Y la forma reciente lo confirma: Hull City AFC llega mejor (2G-2E-0P vs 1G-2E-2P). El modelo tiene pocos datos de Hull City AFC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.594,
@@ -1436,14 +1436,14 @@
      "ataque": 0.049,
      "defensa": 0.163,
      "neto": 0.213,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.04,
      "defensa": 0.063,
      "neto": 0.023,
-     "peso": 47.5,
+     "peso": 47.4,
      "fiable": true
     },
     "forma_local": {
@@ -1692,7 +1692,7 @@
      "ataque": 0.659,
      "defensa": 0.277,
      "neto": 0.936,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "forma_local": {
@@ -1962,7 +1962,7 @@
     "fuerza_visitante": {
      "ataque": -0.688,
      "defensa": -0.279,
-     "neto": -0.967,
+     "neto": -0.966,
      "peso": 3.9,
      "fiable": false
     },
@@ -2020,9 +2020,9 @@
    "prediccion": {
     "prob_1": 0.6,
     "prob_X": 0.185,
-    "prob_2": 0.214,
+    "prob_2": 0.215,
     "goles_esperados": [
-     2.496,
+     2.495,
      1.466
     ],
     "prob_over_2_5": 0.756,
@@ -2055,13 +2055,13 @@
      "ataque": 0.074,
      "defensa": 0.058,
      "neto": 0.132,
-     "peso": 47.5,
+     "peso": 47.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.336,
      "defensa": -0.447,
-     "neto": -0.112,
+     "neto": -0.111,
      "peso": 5.8,
      "fiable": false
     },
@@ -2103,7 +2103,7 @@
      "por_que": "Bastantes goles esperados (2.50 + 1.47 = 3.96); al menos una defensa floja. Probabilidad al over: 76%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.906
+      "prob": 0.905
      },
      "confianza": "baja"
     }
@@ -2313,10 +2313,10 @@
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.665,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.85 y 1.53. Probabilidad: 67%.",
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.85 y 1.53. Probabilidad: 66%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.856
+      "prob": 0.855
      },
      "confianza": "baja"
     }
@@ -2347,7 +2347,7 @@
      ],
      [
       "1-1",
-      0.1279
+      0.128
      ],
      [
       "2-0",
@@ -2355,7 +2355,7 @@
      ]
     ],
     "cuotas_justas": [
-     1.96,
+     1.97,
      3.68,
      4.56
     ],
@@ -2367,14 +2367,14 @@
      "ataque": 0.012,
      "defensa": 0.06,
      "neto": 0.072,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.275,
      "defensa": 0.013,
      "neto": -0.263,
-     "peso": 40.9,
+     "peso": 40.8,
      "fiable": true
     },
     "forma_local": {
@@ -2471,7 +2471,7 @@
     "prob_2": 0.286,
     "goles_esperados": [
      1.416,
-     1.097
+     1.096
     ],
     "prob_over_2_5": 0.459,
     "prob_btts": 0.51,
@@ -2509,7 +2509,7 @@
     "fuerza_visitante": {
      "ataque": -0.105,
      "defensa": -0.3,
-     "neto": -0.406,
+     "neto": -0.405,
      "peso": 3.9,
      "fiable": false
     },
@@ -2590,7 +2590,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.213,
-     "defensa": 0.154,
+     "defensa": 0.153,
      "neto": 0.367,
      "peso": 40.9,
      "fiable": true
@@ -2599,7 +2599,7 @@
      "ataque": 0.239,
      "defensa": 0.026,
      "neto": 0.265,
-     "peso": 40.9,
+     "peso": 40.8,
      "fiable": true
     },
     "forma_local": {
@@ -2696,7 +2696,7 @@
     "prob_2": 0.661,
     "goles_esperados": [
      1.098,
-     2.399
+     2.398
     ],
     "prob_over_2_5": 0.678,
     "prob_btts": 0.606,
@@ -2715,7 +2715,7 @@
      ]
     ],
     "cuotas_justas": [
-     6.34,
+     6.33,
      5.53,
      1.51
     ],
