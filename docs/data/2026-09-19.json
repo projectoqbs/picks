@@ -1,6 +1,6 @@
 {
  "fecha": "2026-09-19",
- "actualizado": "2026-09-17T17:54:02+00:00",
+ "actualizado": "2026-09-18T10:19:36+00:00",
  "partidos": [
   {
    "id": 560587,
@@ -47,7 +47,7 @@
      "ataque": 0.019,
      "defensa": -0.05,
      "neto": -0.031,
-     "peso": 45.4,
+     "peso": 45.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -146,19 +146,19 @@
    "local": "CA Osasuna",
    "visitante": "Rayo Vallecano de Madrid",
    "prediccion": {
-    "prob_1": 0.425,
-    "prob_X": 0.281,
+    "prob_1": 0.424,
+    "prob_X": 0.28,
     "prob_2": 0.295,
     "goles_esperados": [
      1.286,
-     1.021
+     1.023
     ],
     "prob_over_2_5": 0.406,
-    "prob_btts": 0.463,
+    "prob_btts": 0.464,
     "marcadores": [
      [
       "1-1",
-      0.1311
+      0.1308
      ],
      [
       "1-0",
@@ -166,13 +166,13 @@
      ],
      [
       "0-1",
-      0.1013
+      0.1016
      ]
     ],
     "cuotas_justas": [
-     2.35,
-     3.56,
-     3.39
+     2.36,
+     3.57,
+     3.38
     ],
     "resumen": "Gana CA Osasuna (ligero favorito, 42%). pocos goles (-2.5).",
     "confianza": "alta"
@@ -180,15 +180,15 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.043,
-     "defensa": -0.013,
-     "neto": -0.056,
-     "peso": 47.6,
+     "defensa": -0.01,
+     "neto": -0.053,
+     "peso": 47.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.092,
-     "defensa": 0.096,
-     "neto": 0.004,
+     "defensa": 0.1,
+     "neto": 0.008,
      "peso": 47.6,
      "fiable": true
     },
@@ -259,7 +259,7 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto -0.06 vs +0.00). CA Osasuna juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.29 – 1.02; el modelo ve marcando más a CA Osasuna. También parejos en forma (2G-0E-3P vs 2G-1E-2P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto -0.05 vs +0.01). CA Osasuna juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.29 – 1.02; el modelo ve marcando más a CA Osasuna. También parejos en forma (2G-0E-3P vs 2G-1E-2P en 5).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.594,
@@ -314,14 +314,14 @@
      "ataque": 0.102,
      "defensa": 0.103,
      "neto": 0.205,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.055,
      "defensa": -0.078,
      "neto": -0.133,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "forma_local": {
@@ -446,7 +446,7 @@
      "ataque": 0.033,
      "defensa": -0.058,
      "neto": -0.025,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -579,7 +579,7 @@
      "ataque": -0.085,
      "defensa": -0.134,
      "neto": -0.219,
-     "peso": 29.6,
+     "peso": 29.5,
      "fiable": true
     },
     "forma_local": {
@@ -686,14 +686,14 @@
      "ataque": -0.05,
      "defensa": -0.075,
      "neto": -0.125,
-     "peso": 40.3,
+     "peso": 40.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.038,
      "defensa": 0.125,
      "neto": 0.087,
-     "peso": 40.3,
+     "peso": 40.2,
      "fiable": true
     },
     "forma_local": {
@@ -821,14 +821,14 @@
      "ataque": -0.124,
      "defensa": -0.026,
      "neto": -0.15,
-     "peso": 40.3,
+     "peso": 40.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.057,
      "defensa": 0.015,
      "neto": -0.042,
-     "peso": 40.3,
+     "peso": 40.2,
      "fiable": true
     },
     "forma_local": {
@@ -956,14 +956,14 @@
      "ataque": 0.209,
      "defensa": -0.077,
      "neto": 0.132,
-     "peso": 40.3,
+     "peso": 40.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.076,
      "defensa": 0.028,
      "neto": 0.104,
-     "peso": 40.3,
+     "peso": 40.2,
      "fiable": true
     },
     "forma_local": {
@@ -1057,10 +1057,10 @@
    "prediccion": {
     "prob_1": 0.609,
     "prob_X": 0.235,
-    "prob_2": 0.156,
+    "prob_2": 0.157,
     "goles_esperados": [
      1.971,
-     0.914
+     0.915
     ],
     "prob_over_2_5": 0.551,
     "prob_btts": 0.527,
@@ -1091,12 +1091,12 @@
      "ataque": -0.086,
      "defensa": 0.194,
      "neto": 0.108,
-     "peso": 45.4,
+     "peso": 45.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.112,
-     "defensa": -0.389,
+     "defensa": -0.39,
      "neto": -0.501,
      "peso": 15.8,
      "fiable": true
@@ -1147,7 +1147,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Everton FC es más fuerte de fondo (neto +0.11 vs -0.50): encaja ~18% menos. Everton FC juega en casa (~+17% de ventaja, ya contada). Goles esperados: 1.97 – 0.91; el modelo ve marcando más a Everton FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Everton FC es más fuerte de fondo (neto +0.11 vs -0.50): encaja ~18% menos. Everton FC juega en casa (~+17% de ventaja, ya contada). Goles esperados: 1.97 – 0.92; el modelo ve marcando más a Everton FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.844,
@@ -1193,7 +1193,7 @@
      ]
     ],
     "cuotas_justas": [
-     4.98,
+     4.97,
      3.66,
      1.9
     ],
@@ -1205,7 +1205,7 @@
      "ataque": 0.209,
      "defensa": 0.078,
      "neto": 0.287,
-     "peso": 45.4,
+     "peso": 45.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1317,7 +1317,7 @@
      ],
      [
       "0-0",
-      0.1144
+      0.1145
      ],
      [
       "0-1",
@@ -1338,7 +1338,7 @@
      "ataque": 0.239,
      "defensa": 0.01,
      "neto": 0.249,
-     "peso": 45.4,
+     "peso": 45.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1402,10 +1402,10 @@
    "prediccion": {
     "prob_1": 0.501,
     "prob_X": 0.266,
-    "prob_2": 0.233,
+    "prob_2": 0.234,
     "goles_esperados": [
-     1.463,
-     0.905
+     1.462,
+     0.906
     ],
     "prob_over_2_5": 0.422,
     "prob_btts": 0.458,
@@ -1416,17 +1416,17 @@
      ],
      [
       "1-1",
-      0.1243
+      0.1242
      ],
      [
       "2-0",
-      0.1003
+      0.1001
      ]
     ],
     "cuotas_justas": [
-     1.99,
-     3.76,
-     4.3
+     2.0,
+     3.77,
+     4.28
     ],
     "resumen": "Gana Athletic Club (ligero favorito, 50%).",
     "confianza": "alta"
@@ -1434,15 +1434,15 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.049,
-     "defensa": 0.16,
-     "neto": 0.209,
+     "defensa": 0.163,
+     "neto": 0.213,
      "peso": 46.5,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.041,
-     "defensa": 0.059,
-     "neto": 0.019,
+     "ataque": -0.04,
+     "defensa": 0.063,
+     "neto": 0.023,
      "peso": 47.5,
      "fiable": true
     },
@@ -1513,14 +1513,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Athletic Club es más fuerte de fondo (neto +0.21 vs +0.02): encaja ~15% menos. Athletic Club juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.46 – 0.91; el modelo ve marcando más a Athletic Club. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Athletic Club es más fuerte de fondo (neto +0.21 vs +0.02): encaja ~15% menos. Athletic Club juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.46 – 0.91; el modelo ve marcando más a Athletic Club. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.578,
      "por_que": "Pocos goles esperados en total (1.46 + 0.91 = 2.37); la defensa de Athletic Club aprieta. El modelo ve el partido cerrado (58% al under).",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.767
+      "prob": 0.766
      },
      "confianza": "alta"
     }
@@ -1543,11 +1543,11 @@
      1.359
     ],
     "prob_over_2_5": 0.561,
-    "prob_btts": 0.594,
+    "prob_btts": 0.595,
     "marcadores": [
      [
       "1-1",
-      0.1194
+      0.1193
      ],
      [
       "2-1",
@@ -1578,7 +1578,7 @@
      "ataque": 0.227,
      "defensa": 0.028,
      "neto": 0.254,
-     "peso": 41.0,
+     "peso": 40.9,
      "fiable": true
     },
     "forma_local": {
@@ -1630,7 +1630,7 @@
     "explicacion": "En fuerza de temporada están parejos (neto +0.22 vs +0.25). Paris FC juega en casa (~+20% de ventaja, ya contada). Goles esperados: 1.57 – 1.36; el modelo ve marcando más a Paris FC. También parejos en forma (3G-2E-0P vs 3G-1E-1P en 5).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
-     "prob": 0.594,
+     "prob": 0.595,
      "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.57 y 1.36. Probabilidad: 59%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -1685,7 +1685,7 @@
      "ataque": 0.358,
      "defensa": 0.386,
      "neto": 0.744,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1776,106 +1776,6 @@
    }
   },
   {
-   "id": 564694,
-   "competicion": "La Liga",
-   "competicion_codigo": "PD",
-   "fecha_utc": "2026-09-19T16:30:00Z",
-   "jornada": 7,
-   "local": "RC Celta de Vigo",
-   "visitante": "Real Racing Club de Santander",
-   "prediccion": {
-    "prob_1": 0.603,
-    "prob_X": 0.185,
-    "prob_2": 0.213,
-    "goles_esperados": [
-     2.506,
-     1.463
-    ],
-    "prob_over_2_5": 0.757,
-    "prob_btts": 0.706,
-    "marcadores": [
-     [
-      "2-1",
-      0.0868
-     ],
-     [
-      "3-1",
-      0.0725
-     ],
-     [
-      "1-1",
-      0.0694
-     ]
-    ],
-    "cuotas_justas": [
-     1.66,
-     5.41,
-     4.7
-    ],
-    "resumen": "Gana RC Celta de Vigo (claro favorito, 60%). se esperan goles (+2.5). ambos marcan.",
-    "confianza": "baja"
-   },
-   "nota": "pocos datos: 'Real Racing Club de Santander' solo tiene 5.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.077,
-     "defensa": 0.055,
-     "neto": 0.131,
-     "peso": 47.5,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.335,
-     "defensa": -0.451,
-     "neto": -0.116,
-     "peso": 5.8,
-     "fiable": false
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 0,
-     "e": 3,
-     "p": 2,
-     "gf": 3,
-     "gc": 6,
-     "racha": [
-      "P",
-      "P",
-      "E",
-      "E",
-      "E"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 2,
-     "e": 0,
-     "p": 3,
-     "gf": 9,
-     "gc": 14,
-     "racha": [
-      "P",
-      "G",
-      "P",
-      "G",
-      "P"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "RC Celta de Vigo es más fuerte de fondo (neto +0.13 vs -0.12): es más completo en general. RC Celta de Vigo juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.51 – 1.46; el modelo ve marcando más a RC Celta de Vigo. Pero ojo: en forma reciente Real Racing Club de Santander llega mejor que RC Celta de Vigo, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de Real Racing Club de Santander: tomalo con pinzas.",
-    "recomendacion": {
-     "mercado": "Más de 2.5 goles",
-     "prob": 0.757,
-     "por_que": "Bastantes goles esperados (2.51 + 1.46 = 3.97); al menos una defensa floja. Probabilidad al over: 76%.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.906
-     },
-     "confianza": "baja"
-    }
-   }
-  },
-  {
    "id": 565806,
    "competicion": "Bundesliga",
    "competicion_codigo": "BL1",
@@ -1920,14 +1820,14 @@
      "ataque": 0.33,
      "defensa": 0.088,
      "neto": 0.419,
-     "peso": 40.3,
+     "peso": 40.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.332,
      "defensa": 0.316,
      "neto": 0.648,
-     "peso": 40.3,
+     "peso": 40.2,
      "fiable": true
     },
     "forma_local": {
@@ -2031,11 +1931,11 @@
     "marcadores": [
      [
       "2-0",
-      0.1561
+      0.1562
      ],
      [
       "1-0",
-      0.1472
+      0.1473
      ],
      [
       "3-0",
@@ -2053,16 +1953,16 @@
    "nota": "pocos datos: 'Coventry City FC' solo tiene 3.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.034,
+     "ataque": 0.033,
      "defensa": 0.127,
      "neto": 0.16,
      "peso": 45.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.687,
+     "ataque": -0.688,
      "defensa": -0.279,
-     "neto": -0.966,
+     "neto": -0.967,
      "peso": 3.9,
      "fiable": false
     },
@@ -2110,6 +2010,106 @@
    }
   },
   {
+   "id": 564694,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-09-19T16:30:00Z",
+   "jornada": 7,
+   "local": "RC Celta de Vigo",
+   "visitante": "Real Racing Club de Santander",
+   "prediccion": {
+    "prob_1": 0.6,
+    "prob_X": 0.185,
+    "prob_2": 0.214,
+    "goles_esperados": [
+     2.496,
+     1.466
+    ],
+    "prob_over_2_5": 0.756,
+    "prob_btts": 0.706,
+    "marcadores": [
+     [
+      "2-1",
+      0.0869
+     ],
+     [
+      "3-1",
+      0.0723
+     ],
+     [
+      "1-1",
+      0.0697
+     ]
+    ],
+    "cuotas_justas": [
+     1.67,
+     5.4,
+     4.66
+    ],
+    "resumen": "Gana RC Celta de Vigo (claro favorito, 60%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Real Racing Club de Santander' solo tiene 5.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.074,
+     "defensa": 0.058,
+     "neto": 0.132,
+     "peso": 47.5,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.336,
+     "defensa": -0.447,
+     "neto": -0.112,
+     "peso": 5.8,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 0,
+     "e": 3,
+     "p": 2,
+     "gf": 3,
+     "gc": 6,
+     "racha": [
+      "P",
+      "P",
+      "E",
+      "E",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 0,
+     "p": 3,
+     "gf": 9,
+     "gc": 14,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "G",
+      "P"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "RC Celta de Vigo es más fuerte de fondo (neto +0.13 vs -0.11): es más completo en general. RC Celta de Vigo juega en casa (~+33% de ventaja, ya contada). Goles esperados: 2.50 – 1.47; el modelo ve marcando más a RC Celta de Vigo. Pero ojo: en forma reciente Real Racing Club de Santander llega mejor que RC Celta de Vigo, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de Real Racing Club de Santander: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "Más de 2.5 goles",
+     "prob": 0.756,
+     "por_que": "Bastantes goles esperados (2.50 + 1.47 = 3.96); al menos una defensa floja. Probabilidad al over: 76%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.906
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
    "id": 558594,
    "competicion": "Serie A",
    "competicion_codigo": "SA",
@@ -2151,7 +2151,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.23,
+     "ataque": -0.229,
      "defensa": -0.279,
      "neto": -0.509,
      "peso": 15.8,
@@ -2161,7 +2161,7 @@
      "ataque": 0.078,
      "defensa": 0.168,
      "neto": 0.247,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "forma_local": {
@@ -2236,10 +2236,10 @@
     "prob_X": 0.234,
     "prob_2": 0.318,
     "goles_esperados": [
-     1.847,
+     1.846,
      1.534
     ],
-    "prob_over_2_5": 0.657,
+    "prob_over_2_5": 0.656,
     "prob_btts": 0.665,
     "marcadores": [
      [
@@ -2276,7 +2276,7 @@
      "ataque": 0.015,
      "defensa": 0.002,
      "neto": 0.017,
-     "peso": 30.3,
+     "peso": 30.2,
      "fiable": true
     },
     "forma_local": {
@@ -2343,11 +2343,11 @@
     "marcadores": [
      [
       "1-0",
-      0.1298
+      0.1299
      ],
      [
       "1-1",
-      0.128
+      0.1279
      ],
      [
       "2-0",
@@ -2355,7 +2355,7 @@
      ]
     ],
     "cuotas_justas": [
-     1.97,
+     1.96,
      3.68,
      4.56
     ],
@@ -2371,7 +2371,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.276,
+     "ataque": -0.275,
      "defensa": 0.013,
      "neto": -0.263,
      "peso": 40.9,
@@ -2470,10 +2470,10 @@
     "prob_X": 0.277,
     "prob_2": 0.286,
     "goles_esperados": [
-     1.417,
+     1.416,
      1.097
     ],
-    "prob_over_2_5": 0.46,
+    "prob_over_2_5": 0.459,
     "prob_btts": 0.51,
     "marcadores": [
      [
@@ -2482,7 +2482,7 @@
      ],
      [
       "1-0",
-      0.1087
+      0.1088
      ],
      [
       "2-1",
@@ -2502,13 +2502,13 @@
     "fuerza_local": {
      "ataque": -0.364,
      "defensa": 0.032,
-     "neto": -0.331,
+     "neto": -0.332,
      "peso": 35.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.105,
-     "defensa": -0.301,
+     "defensa": -0.3,
      "neto": -0.406,
      "peso": 3.9,
      "fiable": false
@@ -2560,7 +2560,7 @@
     "prob_X": 0.238,
     "prob_2": 0.285,
     "goles_esperados": [
-     1.82,
+     1.821,
      1.371
     ],
     "prob_over_2_5": 0.618,
@@ -2581,7 +2581,7 @@
     ],
     "cuotas_justas": [
      2.1,
-     4.19,
+     4.2,
      3.5
     ],
     "resumen": "Gana Olympique Lyonnais (ligero favorito, 48%). se esperan goles (+2.5). ambos marcan.",
@@ -2590,7 +2590,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.213,
-     "defensa": 0.153,
+     "defensa": 0.154,
      "neto": 0.367,
      "peso": 40.9,
      "fiable": true
@@ -2692,31 +2692,31 @@
    "visitante": "FC Barcelona",
    "prediccion": {
     "prob_1": 0.158,
-    "prob_X": 0.182,
-    "prob_2": 0.66,
+    "prob_X": 0.181,
+    "prob_2": 0.661,
     "goles_esperados": [
      1.098,
-     2.393
+     2.399
     ],
-    "prob_over_2_5": 0.677,
+    "prob_over_2_5": 0.678,
     "prob_btts": 0.606,
     "marcadores": [
      [
       "1-2",
-      0.0958
+      0.0957
      ],
      [
       "0-2",
-      0.0873
+      0.0872
      ],
      [
       "1-1",
-      0.0803
+      0.0799
      ]
     ],
     "cuotas_justas": [
-     6.32,
-     5.5,
+     6.34,
+     5.53,
      1.51
     ],
     "resumen": "Gana FC Barcelona (claro favorito, 66%). se esperan goles (+2.5). ambos marcan.",
@@ -2724,16 +2724,16 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.001,
-     "defensa": -0.014,
-     "neto": -0.015,
-     "peso": 47.6,
+     "ataque": -0.0,
+     "defensa": -0.011,
+     "neto": -0.011,
+     "peso": 47.5,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.758,
-     "defensa": 0.297,
-     "neto": 1.055,
+     "ataque": 0.759,
+     "defensa": 0.3,
+     "neto": 1.059,
      "peso": 47.5,
      "fiable": true
     },
@@ -2804,14 +2804,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.05 vs -0.01): ataca ~113% más que el promedio, encaja ~26% menos. Sevilla FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.10 – 2.39; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (5G-0E-0P vs 3G-1E-1P).",
+    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.06 vs -0.01): ataca ~114% más que el promedio, encaja ~26% menos. Sevilla FC juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.10 – 2.40; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (5G-0E-0P vs 3G-1E-1P).",
     "recomendacion": {
      "mercado": "2",
-     "prob": 0.66,
-     "por_que": "El modelo ve a FC Barcelona marcando más que Sevilla FC pese a la localía (2.39 vs 1.10), y lo respalda una diferencia de fuerza clara (neto +1.05 vs -0.01). Probabilidad del modelo: 66%.",
+     "prob": 0.661,
+     "por_que": "El modelo ve a FC Barcelona marcando más que Sevilla FC pese a la localía (2.40 vs 1.10), y lo respalda una diferencia de fuerza clara (neto +1.06 vs -0.01). Probabilidad del modelo: 66%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.863
+      "prob": 0.864
      },
      "confianza": "alta"
     }
