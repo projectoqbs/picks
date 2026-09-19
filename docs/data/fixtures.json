@@ -1,132 +1,12 @@
 {
- "actualizado": "2026-09-19T10:01:48+00:00",
+ "actualizado": "2026-09-19T16:58:00+00:00",
  "fixtures": [
-  {
-   "id": 560587,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-09-19T11:30:00Z",
-   "estado": "TIMED",
-   "jornada": 5,
-   "local": "Tottenham Hotspur FC",
-   "visitante": "Aston Villa FC"
-  },
-  {
-   "id": 564693,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-09-19T12:00:00Z",
-   "estado": "TIMED",
-   "jornada": 7,
-   "local": "CA Osasuna",
-   "visitante": "Rayo Vallecano de Madrid"
-  },
-  {
-   "id": 558598,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-09-19T13:00:00Z",
-   "estado": "TIMED",
-   "jornada": 5,
-   "local": "Bologna FC 1909",
-   "visitante": "Torino FC"
-  },
-  {
-   "id": 558589,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-09-19T13:00:00Z",
-   "estado": "TIMED",
-   "jornada": 5,
-   "local": "Udinese Calcio",
-   "visitante": "Cagliari Calcio"
-  },
-  {
-   "id": 565808,
-   "competicion_codigo": "BL1",
-   "competicion": "Bundesliga",
-   "fecha_utc": "2026-09-19T13:30:00Z",
-   "estado": "TIMED",
-   "jornada": 4,
-   "local": "Hamburger SV",
-   "visitante": "1. FC Köln"
-  },
-  {
-   "id": 565809,
-   "competicion_codigo": "BL1",
-   "competicion": "Bundesliga",
-   "fecha_utc": "2026-09-19T13:30:00Z",
-   "estado": "TIMED",
-   "jornada": 4,
-   "local": "Borussia Mönchengladbach",
-   "visitante": "1. FSV Mainz 05"
-  },
-  {
-   "id": 565810,
-   "competicion_codigo": "BL1",
-   "competicion": "Bundesliga",
-   "fecha_utc": "2026-09-19T13:30:00Z",
-   "estado": "TIMED",
-   "jornada": 4,
-   "local": "SV Werder Bremen",
-   "visitante": "FC Augsburg"
-  },
-  {
-   "id": 565811,
-   "competicion_codigo": "BL1",
-   "competicion": "Bundesliga",
-   "fecha_utc": "2026-09-19T13:30:00Z",
-   "estado": "TIMED",
-   "jornada": 4,
-   "local": "Eintracht Frankfurt",
-   "visitante": "SC Freiburg"
-  },
-  {
-   "id": 560584,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-09-19T14:00:00Z",
-   "estado": "TIMED",
-   "jornada": 5,
-   "local": "Everton FC",
-   "visitante": "Ipswich Town FC"
-  },
-  {
-   "id": 560586,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-09-19T14:00:00Z",
-   "estado": "TIMED",
-   "jornada": 5,
-   "local": "Brighton & Hove Albion FC",
-   "visitante": "Arsenal FC"
-  },
-  {
-   "id": 560588,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-09-19T14:00:00Z",
-   "estado": "TIMED",
-   "jornada": 5,
-   "local": "Newcastle United FC",
-   "visitante": "Hull City AFC"
-  },
-  {
-   "id": 564691,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-09-19T14:15:00Z",
-   "estado": "TIMED",
-   "jornada": 7,
-   "local": "Athletic Club",
-   "visitante": "Deportivo Alavés"
-  },
   {
    "id": 559679,
    "competicion_codigo": "FL1",
    "competicion": "Ligue 1",
    "fecha_utc": "2026-09-19T15:15:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 5,
    "local": "Paris FC",
    "visitante": "RC Strasbourg Alsace"
@@ -136,7 +16,7 @@
    "competicion_codigo": "SA",
    "competicion": "Serie A",
    "fecha_utc": "2026-09-19T16:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 5,
    "local": "AS Roma",
    "visitante": "FC Internazionale Milano"
@@ -146,7 +26,7 @@
    "competicion_codigo": "PL",
    "competicion": "Premier League",
    "fecha_utc": "2026-09-19T16:30:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 5,
    "local": "Nottingham Forest FC",
    "visitante": "Coventry City FC"
@@ -156,7 +36,7 @@
    "competicion_codigo": "PD",
    "competicion": "La Liga",
    "fecha_utc": "2026-09-19T16:30:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 7,
    "local": "RC Celta de Vigo",
    "visitante": "Real Racing Club de Santander"
@@ -166,7 +46,7 @@
    "competicion_codigo": "BL1",
    "competicion": "Bundesliga",
    "fecha_utc": "2026-09-19T16:30:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 4,
    "local": "VfB Stuttgart",
    "visitante": "Borussia Dortmund"
