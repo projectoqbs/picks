@@ -4,90 +4,82 @@
  "equipos": [
   {
    "equipo": "FC Internazionale Milano",
-   "ataque": 0.659,
-   "defensa": 0.277,
+   "ataque": 0.658,
+   "defensa": 0.278,
    "neto": 0.936,
    "peso": 45.6,
    "fiable": true
   },
   {
    "equipo": "AS Roma",
-   "ataque": 0.358,
+   "ataque": 0.357,
    "defensa": 0.386,
-   "neto": 0.744,
-   "peso": 45.6,
+   "neto": 0.743,
+   "peso": 45.5,
    "fiable": true
   },
   {
    "equipo": "Como 1907",
-   "ataque": 0.338,
+   "ataque": 0.337,
    "defensa": 0.274,
-   "neto": 0.612,
-   "peso": 39.7,
+   "neto": 0.611,
+   "peso": 39.6,
    "fiable": true
   },
   {
    "equipo": "Juventus FC",
-   "ataque": 0.25,
-   "defensa": 0.327,
-   "neto": 0.577,
-   "peso": 45.6,
+   "ataque": 0.249,
+   "defensa": 0.326,
+   "neto": 0.576,
+   "peso": 45.5,
    "fiable": true
   },
   {
    "equipo": "SSC Napoli",
-   "ataque": 0.246,
+   "ataque": 0.245,
    "defensa": 0.305,
-   "neto": 0.551,
-   "peso": 45.6,
+   "neto": 0.55,
+   "peso": 45.5,
    "fiable": true
   },
   {
    "equipo": "Atalanta BC",
-   "ataque": 0.288,
-   "defensa": 0.249,
-   "neto": 0.537,
-   "peso": 45.6,
+   "ataque": 0.287,
+   "defensa": 0.248,
+   "neto": 0.536,
+   "peso": 45.5,
    "fiable": true
   },
   {
    "equipo": "AC Milan",
-   "ataque": 0.262,
-   "defensa": 0.193,
+   "ataque": 0.261,
+   "defensa": 0.192,
    "neto": 0.454,
-   "peso": 45.7,
+   "peso": 45.6,
    "fiable": true
   },
   {
    "equipo": "SS Lazio",
    "ataque": 0.078,
    "defensa": 0.168,
-   "neto": 0.247,
-   "peso": 45.6,
+   "neto": 0.246,
+   "peso": 45.5,
    "fiable": true
   },
   {
    "equipo": "Bologna FC 1909",
-   "ataque": 0.102,
+   "ataque": 0.1,
    "defensa": 0.103,
-   "neto": 0.205,
-   "peso": 45.7,
+   "neto": 0.203,
+   "peso": 45.6,
    "fiable": true
   },
   {
    "equipo": "ACF Fiorentina",
-   "ataque": 0.097,
+   "ataque": 0.096,
    "defensa": -0.029,
-   "neto": 0.068,
-   "peso": 45.7,
-   "fiable": true
-  },
-  {
-   "equipo": "US Sassuolo Calcio",
-   "ataque": 0.105,
-   "defensa": -0.115,
-   "neto": -0.009,
-   "peso": 33.7,
+   "neto": 0.067,
+   "peso": 45.6,
    "fiable": true
   },
   {
@@ -95,7 +87,7 @@
    "ataque": 0.033,
    "defensa": -0.058,
    "neto": -0.025,
-   "peso": 45.6,
+   "peso": 45.5,
    "fiable": true
   },
   {
@@ -107,33 +99,41 @@
    "fiable": true
   },
   {
+   "equipo": "US Sassuolo Calcio",
+   "ataque": 0.089,
+   "defensa": -0.129,
+   "neto": -0.04,
+   "peso": 34.6,
+   "fiable": true
+  },
+  {
    "equipo": "Cagliari Calcio",
-   "ataque": -0.077,
+   "ataque": -0.078,
    "defensa": -0.043,
-   "neto": -0.12,
-   "peso": 45.6,
+   "neto": -0.121,
+   "peso": 45.5,
    "fiable": true
   },
   {
    "equipo": "Genoa CFC",
-   "ataque": -0.114,
+   "ataque": -0.115,
    "defensa": -0.009,
-   "neto": -0.123,
-   "peso": 45.6,
+   "neto": -0.124,
+   "peso": 45.5,
    "fiable": true
   },
   {
    "equipo": "Torino FC",
-   "ataque": -0.055,
+   "ataque": -0.056,
    "defensa": -0.078,
-   "neto": -0.133,
-   "peso": 45.6,
+   "neto": -0.135,
+   "peso": 45.5,
    "fiable": true
   },
   {
    "equipo": "Parma Calcio 1913",
    "ataque": -0.297,
-   "defensa": 0.013,
+   "defensa": 0.014,
    "neto": -0.284,
    "peso": 39.6,
    "fiable": true
@@ -142,7 +142,7 @@
    "equipo": "Empoli FC",
    "ataque": -0.275,
    "defensa": -0.13,
-   "neto": -0.406,
+   "neto": -0.405,
    "peso": 17.8,
    "fiable": true
   },
@@ -151,54 +151,54 @@
    "ataque": -0.364,
    "defensa": -0.058,
    "neto": -0.422,
-   "peso": 45.6,
+   "peso": 45.5,
    "fiable": true
   },
   {
    "equipo": "US Cremonese",
-   "ataque": -0.289,
-   "defensa": -0.135,
-   "neto": -0.424,
-   "peso": 23.9,
+   "ataque": -0.29,
+   "defensa": -0.136,
+   "neto": -0.426,
+   "peso": 23.8,
+   "fiable": true
+  },
+  {
+   "equipo": "AC Monza",
+   "ataque": -0.147,
+   "defensa": -0.318,
+   "neto": -0.464,
+   "peso": 22.7,
    "fiable": true
   },
   {
    "equipo": "Venezia FC",
    "ataque": -0.229,
-   "defensa": -0.279,
-   "neto": -0.509,
-   "peso": 15.8,
-   "fiable": true
-  },
-  {
-   "equipo": "AC Monza",
-   "ataque": -0.178,
-   "defensa": -0.335,
-   "neto": -0.512,
-   "peso": 21.7,
+   "defensa": -0.278,
+   "neto": -0.508,
+   "peso": 15.7,
    "fiable": true
   },
   {
    "equipo": "Hellas Verona FC",
    "ataque": -0.387,
    "defensa": -0.156,
-   "neto": -0.542,
+   "neto": -0.543,
    "peso": 41.7,
    "fiable": true
   },
   {
    "equipo": "US Salernitana 1919",
    "ataque": -0.207,
-   "defensa": -0.395,
-   "neto": -0.602,
+   "defensa": -0.394,
+   "neto": -0.601,
    "peso": 5.9,
    "fiable": false
   },
   {
    "equipo": "AC Pisa 1909",
-   "ataque": -0.445,
-   "defensa": -0.348,
-   "neto": -0.792,
+   "ataque": -0.446,
+   "defensa": -0.349,
+   "neto": -0.795,
    "peso": 23.8,
    "fiable": true
   }

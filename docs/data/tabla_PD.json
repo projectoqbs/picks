@@ -4,193 +4,193 @@
  "equipos": [
   {
    "equipo": "FC Barcelona",
-   "ataque": 0.759,
-   "defensa": 0.3,
+   "ataque": 0.758,
+   "defensa": 0.301,
    "neto": 1.059,
-   "peso": 47.5,
+   "peso": 47.4,
    "fiable": true
   },
   {
    "equipo": "Real Madrid CF",
-   "ataque": 0.535,
-   "defensa": 0.371,
+   "ataque": 0.534,
+   "defensa": 0.372,
    "neto": 0.906,
-   "peso": 47.5,
+   "peso": 47.4,
    "fiable": true
   },
   {
    "equipo": "Club Atlético de Madrid",
-   "ataque": 0.35,
+   "ataque": 0.349,
    "defensa": 0.253,
-   "neto": 0.603,
-   "peso": 47.5,
+   "neto": 0.602,
+   "peso": 47.4,
    "fiable": true
   },
   {
    "equipo": "Villarreal CF",
-   "ataque": 0.399,
+   "ataque": 0.398,
    "defensa": 0.022,
-   "neto": 0.421,
+   "neto": 0.42,
    "peso": 47.6,
    "fiable": true
   },
   {
    "equipo": "Real Betis Balompié",
-   "ataque": 0.194,
+   "ataque": 0.192,
    "defensa": 0.134,
-   "neto": 0.328,
-   "peso": 47.5,
+   "neto": 0.327,
+   "peso": 47.4,
    "fiable": true
   },
   {
    "equipo": "Athletic Club",
-   "ataque": 0.049,
-   "defensa": 0.163,
+   "ataque": 0.048,
+   "defensa": 0.164,
    "neto": 0.213,
    "peso": 46.4,
    "fiable": true
   },
   {
    "equipo": "RC Deportivo La Coruña",
-   "ataque": 0.114,
-   "defensa": 0.046,
-   "neto": 0.16,
+   "ataque": 0.115,
+   "defensa": 0.051,
+   "neto": 0.166,
    "peso": 5.8,
    "fiable": false
   },
   {
    "equipo": "RC Celta de Vigo",
-   "ataque": 0.074,
-   "defensa": 0.058,
-   "neto": 0.132,
+   "ataque": 0.073,
+   "defensa": 0.059,
+   "neto": 0.131,
    "peso": 47.4,
    "fiable": true
   },
   {
    "equipo": "Real Sociedad de Fútbol",
-   "ataque": 0.081,
-   "defensa": -0.024,
-   "neto": 0.057,
-   "peso": 47.5,
+   "ataque": 0.079,
+   "defensa": -0.023,
+   "neto": 0.056,
+   "peso": 47.4,
    "fiable": true
   },
   {
    "equipo": "Deportivo Alavés",
-   "ataque": -0.04,
-   "defensa": 0.063,
-   "neto": 0.023,
+   "ataque": -0.041,
+   "defensa": 0.064,
+   "neto": 0.022,
    "peso": 47.4,
    "fiable": true
   },
   {
    "equipo": "Girona FC",
-   "ataque": 0.011,
+   "ataque": 0.01,
    "defensa": 0.009,
-   "neto": 0.02,
-   "peso": 41.7,
+   "neto": 0.019,
+   "peso": 41.6,
    "fiable": true
   },
   {
    "equipo": "Rayo Vallecano de Madrid",
-   "ataque": -0.092,
-   "defensa": 0.099,
-   "neto": 0.008,
-   "peso": 47.5,
-   "fiable": true
-  },
-  {
-   "equipo": "RCD Espanyol de Barcelona",
-   "ataque": -0.052,
-   "defensa": 0.044,
-   "neto": -0.008,
-   "peso": 41.6,
-   "fiable": true
-  },
-  {
-   "equipo": "Sevilla FC",
-   "ataque": -0.0,
-   "defensa": -0.011,
-   "neto": -0.011,
-   "peso": 47.5,
-   "fiable": true
-  },
-  {
-   "equipo": "RCD Mallorca",
-   "ataque": -0.097,
-   "defensa": 0.064,
-   "neto": -0.032,
-   "peso": 41.6,
-   "fiable": true
-  },
-  {
-   "equipo": "Levante UD",
-   "ataque": 0.064,
-   "defensa": -0.104,
-   "neto": -0.039,
-   "peso": 28.8,
-   "fiable": true
-  },
-  {
-   "equipo": "CA Osasuna",
-   "ataque": -0.043,
-   "defensa": -0.01,
-   "neto": -0.053,
+   "ataque": -0.093,
+   "defensa": 0.1,
+   "neto": 0.006,
    "peso": 47.5,
    "fiable": true
   },
   {
    "equipo": "Elche CF",
-   "ataque": 0.075,
-   "defensa": -0.138,
-   "neto": -0.062,
-   "peso": 29.7,
+   "ataque": 0.116,
+   "defensa": -0.127,
+   "neto": -0.011,
+   "peso": 30.6,
+   "fiable": true
+  },
+  {
+   "equipo": "Sevilla FC",
+   "ataque": -0.002,
+   "defensa": -0.011,
+   "neto": -0.013,
+   "peso": 47.4,
+   "fiable": true
+  },
+  {
+   "equipo": "RCD Mallorca",
+   "ataque": -0.098,
+   "defensa": 0.065,
+   "neto": -0.033,
+   "peso": 41.6,
+   "fiable": true
+  },
+  {
+   "equipo": "Levante UD",
+   "ataque": 0.062,
+   "defensa": -0.103,
+   "neto": -0.041,
+   "peso": 28.7,
+   "fiable": true
+  },
+  {
+   "equipo": "RCD Espanyol de Barcelona",
+   "ataque": -0.064,
+   "defensa": 0.016,
+   "neto": -0.048,
+   "peso": 42.6,
+   "fiable": true
+  },
+  {
+   "equipo": "CA Osasuna",
+   "ataque": -0.045,
+   "defensa": -0.01,
+   "neto": -0.054,
+   "peso": 47.4,
    "fiable": true
   },
   {
    "equipo": "Valencia CF",
-   "ataque": -0.095,
+   "ataque": -0.096,
    "defensa": 0.03,
-   "neto": -0.065,
+   "neto": -0.066,
    "peso": 47.5,
    "fiable": true
   },
   {
    "equipo": "Getafe CF",
-   "ataque": -0.368,
-   "defensa": 0.284,
+   "ataque": -0.369,
+   "defensa": 0.285,
    "neto": -0.084,
-   "peso": 47.5,
+   "peso": 47.4,
    "fiable": true
   },
   {
    "equipo": "Real Racing Club de Santander",
-   "ataque": 0.336,
-   "defensa": -0.447,
-   "neto": -0.111,
+   "ataque": 0.337,
+   "defensa": -0.443,
+   "neto": -0.106,
    "peso": 5.8,
    "fiable": false
   },
   {
    "equipo": "CD Leganés",
-   "ataque": -0.124,
+   "ataque": -0.126,
    "defensa": -0.026,
-   "neto": -0.15,
+   "neto": -0.153,
    "peso": 11.9,
    "fiable": true
   },
   {
    "equipo": "UD Las Palmas",
-   "ataque": -0.21,
+   "ataque": -0.211,
    "defensa": -0.04,
-   "neto": -0.25,
+   "neto": -0.252,
    "peso": 17.8,
    "fiable": true
   },
   {
    "equipo": "UD Almería",
    "ataque": -0.025,
-   "defensa": -0.237,
-   "neto": -0.262,
+   "defensa": -0.238,
+   "neto": -0.263,
    "peso": 5.9,
    "fiable": false
   },
@@ -212,9 +212,9 @@
   },
   {
    "equipo": "Real Oviedo",
-   "ataque": -0.466,
-   "defensa": -0.064,
-   "neto": -0.531,
+   "ataque": -0.467,
+   "defensa": -0.063,
+   "neto": -0.53,
    "peso": 23.9,
    "fiable": true
   },
@@ -222,15 +222,15 @@
    "equipo": "Málaga CF",
    "ataque": -0.486,
    "defensa": -0.052,
-   "neto": -0.538,
+   "neto": -0.539,
    "peso": 5.8,
    "fiable": false
   },
   {
    "equipo": "Real Valladolid CF",
-   "ataque": -0.416,
-   "defensa": -0.469,
-   "neto": -0.885,
+   "ataque": -0.417,
+   "defensa": -0.47,
+   "neto": -0.887,
    "peso": 11.9,
    "fiable": true
   }
