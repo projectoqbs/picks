@@ -4,193 +4,193 @@
  "equipos": [
   {
    "equipo": "Paris Saint-Germain FC",
-   "ataque": 0.514,
-   "defensa": 0.37,
-   "neto": 0.884,
+   "ataque": 0.516,
+   "defensa": 0.372,
+   "neto": 0.888,
    "peso": 40.8,
    "fiable": true
   },
   {
    "equipo": "Lille OSC",
-   "ataque": 0.115,
-   "defensa": 0.372,
-   "neto": 0.487,
-   "peso": 40.8,
+   "ataque": 0.116,
+   "defensa": 0.373,
+   "neto": 0.489,
+   "peso": 40.7,
    "fiable": true
   },
   {
    "equipo": "Racing Club de Lens",
-   "ataque": 0.218,
-   "defensa": 0.219,
-   "neto": 0.437,
-   "peso": 41.8,
+   "ataque": 0.222,
+   "defensa": 0.221,
+   "neto": 0.443,
+   "peso": 41.7,
+   "fiable": true
+  },
+  {
+   "equipo": "Olympique Lyonnais",
+   "ataque": 0.243,
+   "defensa": 0.18,
+   "neto": 0.423,
+   "peso": 41.7,
    "fiable": true
   },
   {
    "equipo": "AS Monaco FC",
-   "ataque": 0.307,
-   "defensa": 0.108,
-   "neto": 0.416,
+   "ataque": 0.31,
+   "defensa": 0.111,
+   "neto": 0.421,
    "peso": 41.7,
    "fiable": true
   },
   {
    "equipo": "Olympique de Marseille",
-   "ataque": 0.307,
-   "defensa": 0.078,
-   "neto": 0.386,
-   "peso": 40.8,
-   "fiable": true
-  },
-  {
-   "equipo": "Olympique Lyonnais",
-   "ataque": 0.213,
-   "defensa": 0.153,
-   "neto": 0.367,
-   "peso": 40.8,
-   "fiable": true
-  },
-  {
-   "equipo": "Stade Rennais FC 1901",
-   "ataque": 0.239,
-   "defensa": 0.026,
-   "neto": 0.265,
-   "peso": 40.8,
+   "ataque": 0.309,
+   "defensa": 0.08,
+   "neto": 0.389,
+   "peso": 40.7,
    "fiable": true
   },
   {
    "equipo": "RC Strasbourg Alsace",
-   "ataque": 0.227,
-   "defensa": 0.028,
-   "neto": 0.254,
-   "peso": 40.8,
+   "ataque": 0.224,
+   "defensa": 0.021,
+   "neto": 0.245,
+   "peso": 41.8,
    "fiable": true
   },
   {
    "equipo": "Paris FC",
-   "ataque": 0.069,
-   "defensa": 0.15,
-   "neto": 0.219,
-   "peso": 24.9,
+   "ataque": 0.08,
+   "defensa": 0.158,
+   "neto": 0.238,
+   "peso": 25.9,
+   "fiable": true
+  },
+  {
+   "equipo": "Stade Rennais FC 1901",
+   "ataque": 0.227,
+   "defensa": -0.004,
+   "neto": 0.222,
+   "peso": 41.7,
    "fiable": true
   },
   {
    "equipo": "Toulouse FC",
-   "ataque": 0.012,
-   "defensa": 0.06,
-   "neto": 0.072,
-   "peso": 40.0,
+   "ataque": 0.041,
+   "defensa": 0.043,
+   "neto": 0.084,
+   "peso": 40.9,
    "fiable": true
   },
   {
    "equipo": "Le Mans FC",
-   "ataque": 0.202,
-   "defensa": -0.184,
-   "neto": 0.018,
-   "peso": 3.9,
+   "ataque": 0.215,
+   "defensa": -0.142,
+   "neto": 0.073,
+   "peso": 4.9,
    "fiable": false
   },
   {
-   "equipo": "FC Lorient",
-   "ataque": 0.015,
-   "defensa": 0.002,
-   "neto": 0.017,
-   "peso": 30.2,
+   "equipo": "Stade Brestois 29",
+   "ataque": 0.054,
+   "defensa": -0.043,
+   "neto": 0.012,
+   "peso": 40.7,
    "fiable": true
   },
   {
-   "equipo": "Stade Brestois 29",
-   "ataque": 0.051,
-   "defensa": -0.046,
-   "neto": 0.006,
-   "peso": 40.8,
+   "equipo": "FC Lorient",
+   "ataque": 0.004,
+   "defensa": -0.0,
+   "neto": 0.004,
+   "peso": 31.1,
    "fiable": true
   },
   {
    "equipo": "OGC Nice",
-   "ataque": -0.075,
-   "defensa": 0.024,
-   "neto": -0.051,
-   "peso": 40.8,
+   "ataque": -0.071,
+   "defensa": 0.026,
+   "neto": -0.045,
+   "peso": 40.7,
    "fiable": true
   },
   {
    "equipo": "AJ Auxerre",
-   "ataque": -0.093,
-   "defensa": 0.002,
-   "neto": -0.091,
-   "peso": 35.5,
+   "ataque": -0.089,
+   "defensa": 0.006,
+   "neto": -0.084,
+   "peso": 35.4,
    "fiable": true
   },
   {
    "equipo": "Stade de Reims",
-   "ataque": -0.252,
-   "defensa": 0.067,
-   "neto": -0.185,
+   "ataque": -0.25,
+   "defensa": 0.069,
+   "neto": -0.181,
    "peso": 15.8,
    "fiable": true
   },
   {
    "equipo": "Le Havre AC",
-   "ataque": -0.275,
-   "defensa": 0.013,
-   "neto": -0.263,
-   "peso": 40.8,
-   "fiable": true
-  },
-  {
-   "equipo": "FC Nantes",
-   "ataque": -0.304,
-   "defensa": -0.026,
-   "neto": -0.329,
-   "peso": 36.1,
+   "ataque": -0.246,
+   "defensa": -0.008,
+   "neto": -0.254,
+   "peso": 41.7,
    "fiable": true
   },
   {
    "equipo": "Angers SCO",
-   "ataque": -0.364,
-   "defensa": 0.032,
-   "neto": -0.331,
-   "peso": 35.5,
+   "ataque": -0.349,
+   "defensa": 0.051,
+   "neto": -0.298,
+   "peso": 36.5,
    "fiable": true
   },
   {
-   "equipo": "ES Troyes AC",
-   "ataque": -0.105,
-   "defensa": -0.3,
-   "neto": -0.405,
-   "peso": 3.9,
-   "fiable": false
-  },
-  {
-   "equipo": "Clermont Foot 63",
-   "ataque": -0.338,
-   "defensa": -0.147,
-   "neto": -0.485,
-   "peso": 5.3,
-   "fiable": false
+   "equipo": "FC Nantes",
+   "ataque": -0.301,
+   "defensa": -0.024,
+   "neto": -0.324,
+   "peso": 36.1,
+   "fiable": true
   },
   {
    "equipo": "AS Saint-Étienne",
-   "ataque": -0.084,
-   "defensa": -0.401,
-   "neto": -0.485,
+   "ataque": -0.082,
+   "defensa": -0.398,
+   "neto": -0.481,
    "peso": 10.2,
    "fiable": true
   },
   {
+   "equipo": "Clermont Foot 63",
+   "ataque": -0.337,
+   "defensa": -0.146,
+   "neto": -0.483,
+   "peso": 5.3,
+   "fiable": false
+  },
+  {
    "equipo": "FC Metz",
-   "ataque": -0.258,
-   "defensa": -0.329,
-   "neto": -0.588,
+   "ataque": -0.256,
+   "defensa": -0.328,
+   "neto": -0.584,
    "peso": 26.3,
    "fiable": true
   },
   {
+   "equipo": "ES Troyes AC",
+   "ataque": -0.242,
+   "defensa": -0.346,
+   "neto": -0.588,
+   "peso": 4.9,
+   "fiable": false
+  },
+  {
    "equipo": "Montpellier HSC",
-   "ataque": -0.341,
-   "defensa": -0.273,
-   "neto": -0.614,
+   "ataque": -0.338,
+   "defensa": -0.27,
+   "neto": -0.609,
    "peso": 15.5,
    "fiable": true
   }
