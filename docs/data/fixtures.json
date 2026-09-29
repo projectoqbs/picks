@@ -1,4 +1,35 @@
 {
- "actualizado": "2026-09-28T20:21:12+00:00",
- "fixtures": []
+ "actualizado": "2026-09-29T11:53:31+00:00",
+ "fixtures": [
+  {
+   "id": 565820,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-10-09T18:30:00Z",
+   "estado": "TIMED",
+   "jornada": 5,
+   "local": "Borussia Dortmund",
+   "visitante": "SV Werder Bremen"
+  },
+  {
+   "id": 559669,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-10-09T18:45:00Z",
+   "estado": "TIMED",
+   "jornada": 6,
+   "local": "Racing Club de Lens",
+   "visitante": "Olympique Lyonnais"
+  },
+  {
+   "id": 564706,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-10-09T19:00:00Z",
+   "estado": "TIMED",
+   "jornada": 8,
+   "local": "Málaga CF",
+   "visitante": "RCD Espanyol de Barcelona"
+  }
+ ]
 }
