@@ -1,6 +1,16 @@
 {
- "actualizado": "2026-09-30T11:40:03+00:00",
+ "actualizado": "2026-09-30T18:45:30+00:00",
  "fixtures": [
+  {
+   "id": 565820,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-10-09T18:30:00Z",
+   "estado": "TIMED",
+   "jornada": 5,
+   "local": "Borussia Dortmund",
+   "visitante": "SV Werder Bremen"
+  },
   {
    "id": 559669,
    "competicion_codigo": "FL1",
@@ -50,6 +60,56 @@
    "jornada": 6,
    "local": "Genoa CFC",
    "visitante": "ACF Fiorentina"
+  },
+  {
+   "id": 565812,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-10-10T13:30:00Z",
+   "estado": "TIMED",
+   "jornada": 5,
+   "local": "1. FSV Mainz 05",
+   "visitante": "Bayer 04 Leverkusen"
+  },
+  {
+   "id": 565813,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-10-10T13:30:00Z",
+   "estado": "TIMED",
+   "jornada": 5,
+   "local": "SC Paderborn 07",
+   "visitante": "VfB Stuttgart"
+  },
+  {
+   "id": 565817,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-10-10T13:30:00Z",
+   "estado": "TIMED",
+   "jornada": 5,
+   "local": "1. FC Union Berlin",
+   "visitante": "SV 07 Elversberg"
+  },
+  {
+   "id": 565818,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-10-10T13:30:00Z",
+   "estado": "TIMED",
+   "jornada": 5,
+   "local": "TSG 1899 Hoffenheim",
+   "visitante": "Hamburger SV"
+  },
+  {
+   "id": 565819,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-10-10T13:30:00Z",
+   "estado": "TIMED",
+   "jornada": 5,
+   "local": "FC Augsburg",
+   "visitante": "FC Bayern München"
   },
   {
    "id": 560592,
@@ -140,6 +200,16 @@
    "jornada": 8,
    "local": "FC Barcelona",
    "visitante": "Getafe CF"
+  },
+  {
+   "id": 565815,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-10-10T16:30:00Z",
+   "estado": "TIMED",
+   "jornada": 5,
+   "local": "RB Leipzig",
+   "visitante": "Eintracht Frankfurt"
   },
   {
    "id": 558586,

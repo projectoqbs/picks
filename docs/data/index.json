@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-09-30T11:40:06+00:00",
+ "actualizado": "2026-09-30T18:45:33+00:00",
  "dias": [
   "2026-10-09",
   "2026-10-10"
@@ -32,6 +32,11 @@
  ],
  "tablas": [
   {
+   "codigo": "BL1",
+   "nombre": "Bundesliga",
+   "archivo": "tabla_BL1.json"
+  },
+  {
    "codigo": "FL1",
    "nombre": "Ligue 1",
    "archivo": "tabla_FL1.json"
@@ -52,5 +57,5 @@
    "archivo": "tabla_SA.json"
   }
  ],
- "total_partidos": 20
+ "total_partidos": 27
 }
