@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-10",
- "actualizado": "2026-10-01T12:09:08+00:00",
+ "actualizado": "2026-10-01T19:11:54+00:00",
  "partidos": [
   {
    "id": 560593,
@@ -137,7 +137,7 @@
     "marcadores": [
      [
       "1-1",
-      0.136
+      0.1361
      ],
      [
       "1-0",
@@ -161,7 +161,7 @@
      "ataque": -0.091,
      "defensa": 0.104,
      "neto": 0.014,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -296,7 +296,7 @@
      "ataque": -0.112,
      "defensa": -0.029,
      "neto": -0.141,
-     "peso": 45.5,
+     "peso": 45.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -438,7 +438,7 @@
      "ataque": 0.347,
      "defensa": 0.235,
      "neto": 0.582,
-     "peso": 40.3,
+     "peso": 40.2,
      "fiable": true
     },
     "forma_local": {
@@ -760,7 +760,7 @@
     "fuerza_local": {
      "ataque": 0.172,
      "defensa": -0.118,
-     "neto": 0.055,
+     "neto": 0.054,
      "peso": 40.2,
      "fiable": true
     },
@@ -817,11 +817,11 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "TSG 1899 Hoffenheim es más fuerte de fondo (neto +0.06 vs -0.36): ataca ~19% más que el promedio. TSG 1899 Hoffenheim juega en casa (~+23% de ventaja, ya contada). Goles esperados: 2.16 – 1.16; el modelo ve marcando más a TSG 1899 Hoffenheim. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "TSG 1899 Hoffenheim es más fuerte de fondo (neto +0.05 vs -0.36): ataca ~19% más que el promedio. TSG 1899 Hoffenheim juega en casa (~+23% de ventaja, ya contada). Goles esperados: 2.16 – 1.16; el modelo ve marcando más a TSG 1899 Hoffenheim. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.594,
-     "por_que": "TSG 1899 Hoffenheim es favorito en casa: marca más (2.16 vs 1.16) y es más fuerte de fondo (neto +0.06 vs -0.36). Probabilidad: 59%.",
+     "por_que": "TSG 1899 Hoffenheim es favorito en casa: marca más (2.16 vs 1.16) y es más fuerte de fondo (neto +0.05 vs -0.36). Probabilidad: 59%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.851
@@ -844,14 +844,14 @@
     "prob_2": 0.741,
     "goles_esperados": [
      1.083,
-     2.901
+     2.9
     ],
     "prob_over_2_5": 0.759,
     "prob_btts": 0.629,
     "marcadores": [
      [
       "1-2",
-      0.0848
+      0.0849
      ],
      [
       "1-3",
@@ -1017,7 +1017,7 @@
      "ataque": 0.235,
      "defensa": 0.101,
      "neto": 0.336,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "forma_local": {
@@ -1128,7 +1128,7 @@
      "ataque": 0.132,
      "defensa": 0.074,
      "neto": 0.205,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "forma_local": {
@@ -1255,7 +1255,7 @@
     "fuerza_local": {
      "ataque": -0.16,
      "defensa": -0.364,
-     "neto": -0.525,
+     "neto": -0.524,
      "peso": 16.3,
      "fiable": true
     },
@@ -1312,7 +1312,7 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Fulham FC es más fuerte de fondo (neto +0.04 vs -0.53): es más completo en general. Ipswich Town FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.17 – 1.75; el modelo ve marcando más a Fulham FC. Pero ojo: en forma reciente Ipswich Town FC llega mejor que Fulham FC, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Fulham FC es más fuerte de fondo (neto +0.04 vs -0.52): es más completo en general. Ipswich Town FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.17 – 1.75; el modelo ve marcando más a Fulham FC. Pero ojo: en forma reciente Ipswich Town FC llega mejor que Fulham FC, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.756,
@@ -1346,7 +1346,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1232
+      0.1231
      ],
      [
       "2-1",
@@ -1377,7 +1377,7 @@
      "ataque": 0.189,
      "defensa": 0.07,
      "neto": 0.259,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "forma_local": {
@@ -2003,10 +2003,10 @@
     "prob_X": 0.154,
     "prob_2": 0.07,
     "goles_esperados": [
-     2.364,
+     2.363,
      0.565
     ],
-    "prob_over_2_5": 0.561,
+    "prob_over_2_5": 0.56,
     "prob_btts": 0.392,
     "marcadores": [
      [
@@ -2634,7 +2634,7 @@
     "cuotas_justas": [
      1.79,
      4.42,
-     4.67
+     4.66
     ],
     "resumen": "Gana AS Monaco FC (claro favorito, 56%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -2651,7 +2651,7 @@
      "ataque": 0.039,
      "defensa": 0.043,
      "neto": 0.082,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "forma_local": {
@@ -2855,7 +2855,7 @@
    "visitante": "Villarreal CF",
    "prediccion": {
     "prob_1": 0.66,
-    "prob_X": 0.179,
+    "prob_X": 0.18,
     "prob_2": 0.16,
     "goles_esperados": [
      2.47,
@@ -2897,7 +2897,7 @@
      "ataque": 0.409,
      "defensa": 0.023,
      "neto": 0.432,
-     "peso": 47.5,
+     "peso": 47.4,
      "fiable": true
     },
     "forma_local": {
