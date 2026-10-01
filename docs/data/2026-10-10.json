@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-10",
- "actualizado": "2026-09-30T18:45:33+00:00",
+ "actualizado": "2026-10-01T12:09:08+00:00",
  "partidos": [
   {
    "id": 560593,
@@ -47,7 +47,7 @@
      "ataque": 0.338,
      "defensa": 0.602,
      "neto": 0.94,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -137,7 +137,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1361
+      0.136
      ],
      [
       "1-0",
@@ -168,7 +168,7 @@
      "ataque": 0.033,
      "defensa": 0.183,
      "neto": 0.216,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {
@@ -303,7 +303,7 @@
      "ataque": 0.097,
      "defensa": -0.025,
      "neto": 0.072,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "forma_local": {
@@ -400,7 +400,7 @@
     "prob_2": 0.465,
     "goles_esperados": [
      1.286,
-     1.708
+     1.707
     ],
     "prob_over_2_5": 0.575,
     "prob_btts": 0.601,
@@ -431,7 +431,7 @@
      "ataque": -0.0,
      "defensa": 0.09,
      "neto": 0.09,
-     "peso": 40.3,
+     "peso": 40.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -538,7 +538,7 @@
      1.478
     ],
     "prob_over_2_5": 0.468,
-    "prob_btts": 0.516,
+    "prob_btts": 0.517,
     "marcadores": [
      [
       "1-1",
@@ -546,7 +546,7 @@
      ],
      [
       "0-1",
-      0.106
+      0.1059
      ],
      [
       "1-2",
@@ -564,9 +564,9 @@
    "nota": "pocos datos: 'SC Paderborn 07' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.331,
+     "ataque": -0.33,
      "defensa": 0.191,
-     "neto": -0.14,
+     "neto": -0.139,
      "peso": 3.8,
      "fiable": false
     },
@@ -574,7 +574,7 @@
      "ataque": 0.303,
      "defensa": 0.089,
      "neto": 0.393,
-     "peso": 40.3,
+     "peso": 40.2,
      "fiable": true
     },
     "forma_local": {
@@ -631,7 +631,7 @@
     "prob_2": 0.563,
     "goles_esperados": [
      1.287,
-     2.144
+     2.143
     ],
     "prob_over_2_5": 0.666,
     "prob_btts": 0.646,
@@ -663,13 +663,13 @@
      "ataque": -0.193,
      "defensa": -0.116,
      "neto": -0.308,
-     "peso": 40.0,
+     "peso": 39.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.369,
+     "ataque": 0.368,
      "defensa": 0.042,
-     "neto": 0.411,
+     "neto": 0.41,
      "peso": 3.8,
      "fiable": false
     },
@@ -703,7 +703,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "SV 07 Elversberg es más fuerte de fondo (neto +0.41 vs -0.31): ataca ~45% más que el promedio. 1. FC Union Berlin juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.29 – 2.14; el modelo ve marcando más a SV 07 Elversberg. Y la forma reciente lo confirma: SV 07 Elversberg llega mejor (2G-1E-1P vs 1G-1E-3P). El modelo tiene pocos datos de SV 07 Elversberg: tomalo con pinzas.",
+    "explicacion": "SV 07 Elversberg es más fuerte de fondo (neto +0.41 vs -0.31): ataca ~44% más que el promedio. 1. FC Union Berlin juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.29 – 2.14; el modelo ve marcando más a SV 07 Elversberg. Y la forma reciente lo confirma: SV 07 Elversberg llega mejor (2G-1E-1P vs 1G-1E-3P). El modelo tiene pocos datos de SV 07 Elversberg: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.783,
@@ -760,8 +760,8 @@
     "fuerza_local": {
      "ataque": 0.172,
      "defensa": -0.118,
-     "neto": 0.054,
-     "peso": 40.3,
+     "neto": 0.055,
+     "peso": 40.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -817,11 +817,11 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "TSG 1899 Hoffenheim es más fuerte de fondo (neto +0.05 vs -0.36): ataca ~19% más que el promedio. TSG 1899 Hoffenheim juega en casa (~+23% de ventaja, ya contada). Goles esperados: 2.16 – 1.16; el modelo ve marcando más a TSG 1899 Hoffenheim. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "TSG 1899 Hoffenheim es más fuerte de fondo (neto +0.06 vs -0.36): ataca ~19% más que el promedio. TSG 1899 Hoffenheim juega en casa (~+23% de ventaja, ya contada). Goles esperados: 2.16 – 1.16; el modelo ve marcando más a TSG 1899 Hoffenheim. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.594,
-     "por_que": "TSG 1899 Hoffenheim es favorito en casa: marca más (2.16 vs 1.16) y es más fuerte de fondo (neto +0.05 vs -0.36). Probabilidad: 59%.",
+     "por_que": "TSG 1899 Hoffenheim es favorito en casa: marca más (2.16 vs 1.16) y es más fuerte de fondo (neto +0.06 vs -0.36). Probabilidad: 59%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.851
@@ -875,14 +875,14 @@
      "ataque": -0.046,
      "defensa": -0.023,
      "neto": -0.068,
-     "peso": 40.3,
+     "peso": 40.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.764,
      "defensa": 0.362,
      "neto": 1.126,
-     "peso": 40.3,
+     "peso": 40.2,
      "fiable": true
     },
     "forma_local": {
@@ -990,7 +990,7 @@
      ],
      [
       "0-1",
-      0.0895
+      0.0894
      ],
      [
       "1-2",
@@ -1121,13 +1121,13 @@
      "ataque": 0.248,
      "defensa": 0.017,
      "neto": 0.265,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.132,
      "defensa": 0.074,
-     "neto": 0.206,
+     "neto": 0.205,
      "peso": 45.2,
      "fiable": true
     },
@@ -1198,7 +1198,7 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.27 vs +0.21). Chelsea FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.74 – 1.39; el modelo ve marcando más a Chelsea FC. En forma reciente pinta algo mejor Chelsea FC (2G-1E-2P vs 0G-3E-2P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.27 vs +0.20). Chelsea FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.74 – 1.39; el modelo ve marcando más a Chelsea FC. En forma reciente pinta algo mejor Chelsea FC (2G-1E-2P vs 0G-3E-2P en 5).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.63,
@@ -1222,7 +1222,7 @@
    "prediccion": {
     "prob_1": 0.244,
     "prob_X": 0.258,
-    "prob_2": 0.498,
+    "prob_2": 0.497,
     "goles_esperados": [
      1.169,
      1.745
@@ -1244,7 +1244,7 @@
      ]
     ],
     "cuotas_justas": [
-     4.1,
+     4.09,
      3.87,
      2.01
     ],
@@ -1253,17 +1253,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.161,
-     "defensa": -0.365,
+     "ataque": -0.16,
+     "defensa": -0.364,
      "neto": -0.525,
-     "peso": 16.4,
+     "peso": 16.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.023,
      "defensa": 0.064,
      "neto": 0.04,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "forma_local": {
@@ -1346,7 +1346,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1231
+      0.1232
      ],
      [
       "2-1",
@@ -1370,7 +1370,7 @@
      "ataque": 0.151,
      "defensa": 0.062,
      "neto": 0.213,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1474,7 +1474,7 @@
     "prob_2": 0.457,
     "goles_esperados": [
      1.075,
-     1.456
+     1.457
     ],
     "prob_over_2_5": 0.464,
     "prob_btts": 0.507,
@@ -1505,14 +1505,14 @@
      "ataque": -0.054,
      "defensa": 0.087,
      "neto": 0.032,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.362,
      "defensa": 0.264,
      "neto": 0.626,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "forma_local": {
@@ -1637,14 +1637,14 @@
      "ataque": 0.11,
      "defensa": 0.351,
      "neto": 0.461,
-     "peso": 40.9,
+     "peso": 40.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.247,
      "defensa": -0.008,
      "neto": -0.255,
-     "peso": 40.9,
+     "peso": 40.8,
      "fiable": true
     },
     "forma_local": {
@@ -1748,7 +1748,7 @@
     "marcadores": [
      [
       "2-0",
-      0.1323
+      0.1322
      ],
      [
       "1-0",
@@ -1772,7 +1772,7 @@
      "ataque": 0.663,
      "defensa": 0.26,
      "neto": 0.923,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1868,7 +1868,7 @@
     "prob_X": 0.212,
     "prob_2": 0.226,
     "goles_esperados": [
-     2.262,
+     2.263,
      1.403
     ],
     "prob_over_2_5": 0.709,
@@ -1898,16 +1898,16 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.236,
-     "defensa": 0.141,
+     "defensa": 0.142,
      "neto": 0.378,
-     "peso": 40.3,
+     "peso": 40.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.202,
      "defensa": -0.093,
      "neto": 0.109,
-     "peso": 40.3,
+     "peso": 40.2,
      "fiable": true
     },
     "forma_local": {
@@ -1999,14 +1999,14 @@
    "local": "FC Barcelona",
    "visitante": "Getafe CF",
    "prediccion": {
-    "prob_1": 0.776,
+    "prob_1": 0.775,
     "prob_X": 0.154,
     "prob_2": 0.07,
     "goles_esperados": [
-     2.363,
+     2.364,
      0.565
     ],
-    "prob_over_2_5": 0.56,
+    "prob_over_2_5": 0.561,
     "prob_btts": 0.392,
     "marcadores": [
      [
@@ -2035,14 +2035,14 @@
      "ataque": 0.764,
      "defensa": 0.304,
      "neto": 1.068,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.368,
      "defensa": 0.294,
      "neto": -0.074,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "forma_local": {
@@ -2115,7 +2115,7 @@
     "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.07 vs -0.07): ataca ~115% más que el promedio, encaja ~26% menos. FC Barcelona juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.36 – 0.56; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (5G-0E-0P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.776,
+     "prob": 0.775,
      "por_que": "FC Barcelona es favorito en casa: marca más (2.36 vs 0.56) y es más fuerte de fondo (neto +1.07 vs -0.07). Probabilidad: 78%.",
      "alternativa": {
       "mercado": "1X",
@@ -2154,7 +2154,7 @@
      ],
      [
       "2-0",
-      0.0821
+      0.082
      ]
     ],
     "cuotas_justas": [
@@ -2170,14 +2170,14 @@
      "ataque": 0.2,
      "defensa": 0.067,
      "neto": 0.266,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.027,
      "defensa": -0.071,
      "neto": -0.044,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "forma_local": {
@@ -2440,7 +2440,7 @@
      "ataque": 0.08,
      "defensa": 0.158,
      "neto": 0.237,
-     "peso": 25.4,
+     "peso": 25.3,
      "fiable": true
     },
     "forma_local": {
@@ -2545,7 +2545,7 @@
      "ataque": 0.515,
      "defensa": 0.381,
      "neto": 0.896,
-     "peso": 41.0,
+     "peso": 40.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2644,7 +2644,7 @@
      "ataque": 0.309,
      "defensa": 0.111,
      "neto": 0.42,
-     "peso": 40.9,
+     "peso": 40.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2748,9 +2748,9 @@
     "prob_2": 0.223,
     "goles_esperados": [
      1.659,
-     0.985
+     0.986
     ],
-    "prob_over_2_5": 0.492,
+    "prob_over_2_5": 0.493,
     "prob_btts": 0.509,
     "marcadores": [
      [
@@ -2759,11 +2759,11 @@
      ],
      [
       "1-0",
-      0.1164
+      0.1163
      ],
      [
       "2-0",
-      0.0978
+      0.0977
      ]
     ],
     "cuotas_justas": [
@@ -2835,7 +2835,7 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "SSC Napoli es más fuerte de fondo (neto +0.54 vs +0.12): ataca ~27% más que el promedio, encaja ~26% menos. SSC Napoli juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.66 – 0.98; el modelo ve marcando más a SSC Napoli. Pero ojo: en forma reciente Frosinone Calcio llega mejor que SSC Napoli, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "SSC Napoli es más fuerte de fondo (neto +0.54 vs +0.12): ataca ~27% más que el promedio, encaja ~26% menos. SSC Napoli juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.66 – 0.99; el modelo ve marcando más a SSC Napoli. Pero ojo: en forma reciente Frosinone Calcio llega mejor que SSC Napoli, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.777,
@@ -2858,7 +2858,7 @@
     "prob_X": 0.179,
     "prob_2": 0.16,
     "goles_esperados": [
-     2.471,
+     2.47,
      1.157
     ],
     "prob_over_2_5": 0.702,
@@ -2890,7 +2890,7 @@
      "ataque": 0.537,
      "defensa": 0.364,
      "neto": 0.901,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "fuerza_visitante": {
