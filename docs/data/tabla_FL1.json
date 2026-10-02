@@ -7,7 +7,7 @@
    "ataque": 0.515,
    "defensa": 0.381,
    "neto": 0.896,
-   "peso": 40.9,
+   "peso": 40.8,
    "fiable": true
   },
   {
@@ -39,7 +39,7 @@
    "ataque": 0.309,
    "defensa": 0.111,
    "neto": 0.42,
-   "peso": 40.8,
+   "peso": 40.7,
    "fiable": true
   },
   {
@@ -55,7 +55,7 @@
    "ataque": 0.223,
    "defensa": 0.021,
    "neto": 0.244,
-   "peso": 40.9,
+   "peso": 40.8,
    "fiable": true
   },
   {
@@ -95,7 +95,7 @@
    "ataque": 0.004,
    "defensa": 0.001,
    "neto": 0.005,
-   "peso": 30.5,
+   "peso": 30.4,
    "fiable": true
   },
   {
@@ -103,7 +103,7 @@
    "ataque": 0.049,
    "defensa": -0.05,
    "neto": -0.001,
-   "peso": 40.9,
+   "peso": 40.8,
    "fiable": true
   },
   {
@@ -119,7 +119,7 @@
    "ataque": -0.079,
    "defensa": 0.011,
    "neto": -0.067,
-   "peso": 35.7,
+   "peso": 35.6,
    "fiable": true
   },
   {
@@ -143,7 +143,7 @@
    "ataque": -0.35,
    "defensa": 0.052,
    "neto": -0.298,
-   "peso": 35.7,
+   "peso": 35.6,
    "fiable": true
   },
   {
@@ -155,6 +155,14 @@
    "fiable": true
   },
   {
+   "equipo": "Clermont Foot 63",
+   "ataque": -0.335,
+   "defensa": -0.145,
+   "neto": -0.48,
+   "peso": 5.1,
+   "fiable": false
+  },
+  {
    "equipo": "AS Saint-Étienne",
    "ataque": -0.083,
    "defensa": -0.397,
@@ -163,16 +171,8 @@
    "fiable": true
   },
   {
-   "equipo": "Clermont Foot 63",
-   "ataque": -0.335,
-   "defensa": -0.145,
-   "neto": -0.48,
-   "peso": 5.2,
-   "fiable": false
-  },
-  {
    "equipo": "FC Metz",
-   "ataque": -0.257,
+   "ataque": -0.256,
    "defensa": -0.327,
    "neto": -0.583,
    "peso": 25.7,
@@ -182,7 +182,7 @@
    "equipo": "ES Troyes AC",
    "ataque": -0.242,
    "defensa": -0.345,
-   "neto": -0.588,
+   "neto": -0.587,
    "peso": 4.8,
    "fiable": false
   },
@@ -191,7 +191,7 @@
    "ataque": -0.338,
    "defensa": -0.269,
    "neto": -0.608,
-   "peso": 15.2,
+   "peso": 15.1,
    "fiable": true
   }
  ]

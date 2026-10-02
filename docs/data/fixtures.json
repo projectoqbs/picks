@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-01T19:11:51+00:00",
+ "actualizado": "2026-10-02T11:39:41+00:00",
  "fixtures": [
   {
    "id": 565820,
@@ -440,6 +440,46 @@
    "jornada": 8,
    "local": "Real Racing Club de Santander",
    "visitante": "Valencia CF"
+  },
+  {
+   "id": 558579,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-10-12T16:30:00Z",
+   "estado": "TIMED",
+   "jornada": 6,
+   "local": "Atalanta BC",
+   "visitante": "Venezia FC"
+  },
+  {
+   "id": 558587,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-10-12T18:45:00Z",
+   "estado": "TIMED",
+   "jornada": 6,
+   "local": "Torino FC",
+   "visitante": "Udinese Calcio"
+  },
+  {
+   "id": 560597,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-10-12T19:00:00Z",
+   "estado": "TIMED",
+   "jornada": 6,
+   "local": "Coventry City FC",
+   "visitante": "Newcastle United FC"
+  },
+  {
+   "id": 564704,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-10-12T19:00:00Z",
+   "estado": "TIMED",
+   "jornada": 8,
+   "local": "Levante UD",
+   "visitante": "Sevilla FC"
   }
  ]
 }
