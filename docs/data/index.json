@@ -1,10 +1,11 @@
 {
- "actualizado": "2026-10-02T18:51:37+00:00",
+ "actualizado": "2026-10-03T10:53:23+00:00",
  "dias": [
   "2026-10-09",
   "2026-10-10",
   "2026-10-11",
-  "2026-10-12"
+  "2026-10-12",
+  "2026-10-13"
  ],
  "competiciones": [
   {
@@ -57,7 +58,12 @@
    "codigo": "SA",
    "nombre": "Serie A",
    "archivo": "tabla_SA.json"
+  },
+  {
+   "codigo": "CL",
+   "nombre": "Champions League",
+   "archivo": "tabla_CL.json"
   }
  ],
- "total_partidos": 48
+ "total_partidos": 57
 }

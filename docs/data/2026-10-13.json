@@ -1,0 +1,893 @@
+{
+ "fecha": "2026-10-13",
+ "actualizado": "2026-10-03T10:53:23+00:00",
+ "partidos": [
+  {
+   "id": 575341,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-10-13T16:45:00Z",
+   "jornada": 2,
+   "local": "Racing Club de Lens",
+   "visitante": "Sporting Clube de Portugal",
+   "prediccion": {
+    "prob_1": 0.34,
+    "prob_X": 0.223,
+    "prob_2": 0.437,
+    "goles_esperados": [
+     1.526,
+     1.756
+    ],
+    "prob_over_2_5": 0.637,
+    "prob_btts": 0.644,
+    "marcadores": [
+     [
+      "1-1",
+      0.0976
+     ],
+     [
+      "1-2",
+      0.0883
+     ],
+     [
+      "2-1",
+      0.0768
+     ]
+    ],
+    "cuotas_justas": [
+     2.94,
+     4.48,
+     2.29
+    ],
+    "resumen": "Gana Sporting Clube de Portugal (ligero favorito, 44%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Racing Club de Lens' solo tiene 1.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.163,
+     "defensa": -0.12,
+     "neto": 0.042,
+     "peso": 1.7,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": 0.174,
+     "defensa": 0.298,
+     "neto": 0.472,
+     "peso": 11.0,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 6,
+     "gc": 11,
+     "racha": [
+      "E",
+      "P",
+      "P",
+      "G",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 8,
+     "gc": 5,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "E",
+      "G"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Sporting Clube de Portugal es más fuerte de fondo (neto +0.47 vs +0.04): ataca ~19% más que el promedio, encaja ~26% menos. Racing Club de Lens juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.53 – 1.76; el modelo ve marcando más a Sporting Clube de Portugal. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Racing Club de Lens: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "Ambos marcan: Sí",
+     "prob": 0.644,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.53 y 1.76. Probabilidad: 64%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.836
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
+   "id": 575342,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-10-13T16:45:00Z",
+   "jornada": 2,
+   "local": "Sabah FK",
+   "visitante": "SK Slavia Praha",
+   "prediccion": {
+    "prob_1": 0.489,
+    "prob_X": 0.227,
+    "prob_2": 0.284,
+    "goles_esperados": [
+     1.759,
+     1.285
+    ],
+    "prob_over_2_5": 0.587,
+    "prob_btts": 0.596,
+    "marcadores": [
+     [
+      "1-1",
+      0.1044
+     ],
+     [
+      "2-1",
+      0.0947
+     ],
+     [
+      "1-0",
+      0.0871
+     ]
+    ],
+    "cuotas_justas": [
+     2.04,
+     4.4,
+     3.53
+    ],
+    "resumen": "Gana Sabah FK (ligero favorito, 49%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Sabah FK' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.301,
+     "defensa": -0.301,
+     "neto": -0.602,
+     "peso": 1.0,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": -0.319,
+     "defensa": -0.308,
+     "neto": -0.627,
+     "peso": 5.4,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 1,
+     "g": 0,
+     "e": 0,
+     "p": 1,
+     "gf": 0,
+     "gc": 4,
+     "racha": [
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 0,
+     "e": 1,
+     "p": 4,
+     "gf": 5,
+     "gc": 14,
+     "racha": [
+      "E",
+      "P",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "En fuerza de temporada están parejos (neto -0.60 vs -0.63). Sabah FK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.76 – 1.28; el modelo ve marcando más a Sabah FK. También parejos en forma (0G-0E-1P vs 0G-1E-4P en 5). El modelo tiene pocos datos de Sabah FK: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "Ambos marcan: Sí",
+     "prob": 0.596,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.76 y 1.28. Probabilidad: 60%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.804
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
+   "id": 575343,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-10-13T19:00:00Z",
+   "jornada": 2,
+   "local": "FC Internazionale Milano",
+   "visitante": "Club Brugge KV",
+   "prediccion": {
+    "prob_1": 0.612,
+    "prob_X": 0.196,
+    "prob_2": 0.192,
+    "goles_esperados": [
+     2.154,
+     1.122
+    ],
+    "prob_over_2_5": 0.636,
+    "prob_btts": 0.593,
+    "marcadores": [
+     [
+      "2-1",
+      0.0983
+     ],
+     [
+      "1-1",
+      0.0886
+     ],
+     [
+      "2-0",
+      0.0877
+     ]
+    ],
+    "cuotas_justas": [
+     1.63,
+     5.1,
+     5.2
+    ],
+    "resumen": "Gana FC Internazionale Milano (claro favorito, 61%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.074,
+     "defensa": 0.327,
+     "neto": 0.401,
+     "peso": 12.5,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.173,
+     "defensa": -0.135,
+     "neto": 0.038,
+     "peso": 10.2,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 6,
+     "gc": 10,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 13,
+     "gc": 11,
+     "racha": [
+      "G",
+      "G",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.40 vs +0.04): encaja ~28% menos. FC Internazionale Milano juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.15 – 1.12; el modelo ve marcando más a FC Internazionale Milano. Pero ojo: en forma reciente Club Brugge KV llega mejor que FC Internazionale Milano, así que puede estar más cerca de lo que dice el neto.",
+    "recomendacion": {
+     "mercado": "1",
+     "prob": 0.612,
+     "por_que": "FC Internazionale Milano es favorito en casa: marca más (2.15 vs 1.12) y es más fuerte de fondo (neto +0.40 vs +0.04). Probabilidad: 61%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.836
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 575344,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-10-13T19:00:00Z",
+   "jornada": 2,
+   "local": "Galatasaray SK",
+   "visitante": "FC Barcelona",
+   "prediccion": {
+    "prob_1": 0.257,
+    "prob_X": 0.186,
+    "prob_2": 0.556,
+    "goles_esperados": [
+     1.66,
+     2.463
+    ],
+    "prob_over_2_5": 0.779,
+    "prob_btts": 0.739,
+    "marcadores": [
+     [
+      "1-2",
+      0.0815
+     ],
+     [
+      "2-2",
+      0.0677
+     ],
+     [
+      "1-3",
+      0.0669
+     ]
+    ],
+    "cuotas_justas": [
+     3.89,
+     5.37,
+     1.8
+    ],
+    "resumen": "Gana FC Barcelona (claro favorito, 56%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.019,
+     "defensa": -0.053,
+     "neto": -0.034,
+     "peso": 8.8,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.579,
+     "defensa": 0.07,
+     "neto": 0.649,
+     "peso": 14.0,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 0,
+     "p": 3,
+     "gf": 9,
+     "gc": 12,
+     "racha": [
+      "G",
+      "P",
+      "G",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 15,
+     "gc": 7,
+     "racha": [
+      "E",
+      "G",
+      "P",
+      "G",
+      "G"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "FC Barcelona es más fuerte de fondo (neto +0.65 vs -0.03): ataca ~78% más que el promedio. Galatasaray SK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.66 – 2.46; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (3G-1E-1P vs 2G-0E-3P).",
+    "recomendacion": {
+     "mercado": "Más de 2.5 goles",
+     "prob": 0.779,
+     "por_que": "Bastantes goles esperados (1.66 + 2.46 = 4.12); al menos una defensa floja. Probabilidad al over: 78%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.915
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 575345,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-10-13T19:00:00Z",
+   "jornada": 2,
+   "local": "Club Atlético de Madrid",
+   "visitante": "Manchester United FC",
+   "prediccion": {
+    "prob_1": 0.565,
+    "prob_X": 0.188,
+    "prob_2": 0.246,
+    "goles_esperados": [
+     2.404,
+     1.561
+    ],
+    "prob_over_2_5": 0.757,
+    "prob_btts": 0.717,
+    "marcadores": [
+     [
+      "2-1",
+      0.0856
+     ],
+     [
+      "1-1",
+      0.069
+     ],
+     [
+      "3-1",
+      0.0686
+     ]
+    ],
+    "cuotas_justas": [
+     1.77,
+     5.32,
+     4.06
+    ],
+    "resumen": "Gana Club Atlético de Madrid (claro favorito, 57%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Manchester United FC' solo tiene 1.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.419,
+     "defensa": 0.103,
+     "neto": 0.522,
+     "peso": 15.3,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.28,
+     "defensa": 0.1,
+     "neto": 0.38,
+     "peso": 1.7,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 5,
+     "gc": 6,
+     "racha": [
+      "G",
+      "P",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 11,
+     "gc": 8,
+     "racha": [
+      "G",
+      "P",
+      "E",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Club Atlético de Madrid es más fuerte de fondo (neto +0.52 vs +0.38): ataca ~52% más que el promedio, encaja ~10% menos. Club Atlético de Madrid juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.40 – 1.56; el modelo ve marcando más a Club Atlético de Madrid. Pero ojo: en forma reciente Manchester United FC llega mejor que Club Atlético de Madrid, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de Manchester United FC: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "Más de 2.5 goles",
+     "prob": 0.757,
+     "por_que": "Bastantes goles esperados (2.40 + 1.56 = 3.96). Probabilidad al over: 76%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.904
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
+   "id": 575346,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-10-13T19:00:00Z",
+   "jornada": 2,
+   "local": "Arsenal FC",
+   "visitante": "Lille OSC",
+   "prediccion": {
+    "prob_1": 0.759,
+    "prob_X": 0.149,
+    "prob_2": 0.092,
+    "goles_esperados": [
+     2.498,
+     0.745
+    ],
+    "prob_over_2_5": 0.629,
+    "prob_btts": 0.48,
+    "marcadores": [
+     [
+      "2-0",
+      0.1219
+     ],
+     [
+      "3-0",
+      0.1015
+     ],
+     [
+      "1-0",
+      0.0998
+     ]
+    ],
+    "cuotas_justas": [
+     1.32,
+     6.71,
+     10.81
+    ],
+    "resumen": "Gana Arsenal FC (claro favorito, 76%). se esperan goles (+2.5).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Lille OSC' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.396,
+     "defensa": 0.757,
+     "neto": 1.153,
+     "peso": 16.3,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.194,
+     "defensa": 0.038,
+     "neto": 0.232,
+     "peso": 3.8,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 2,
+     "p": 1,
+     "gf": 7,
+     "gc": 6,
+     "racha": [
+      "E",
+      "E",
+      "G",
+      "P",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 11,
+     "gc": 9,
+     "racha": [
+      "P",
+      "G",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Arsenal FC es más fuerte de fondo (neto +1.15 vs +0.23): ataca ~49% más que el promedio, encaja ~53% menos. Arsenal FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.50 – 0.74; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (2G-2E-1P vs 1G-1E-3P). El modelo tiene pocos datos de Lille OSC: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "1",
+     "prob": 0.759,
+     "por_que": "Arsenal FC es favorito en casa: marca más (2.50 vs 0.74) y es más fuerte de fondo (neto +1.15 vs +0.23). Probabilidad: 76%.",
+     "alternativa": {
+      "mercado": "1X",
+      "prob": 0.908
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
+   "id": 575347,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-10-13T19:00:00Z",
+   "jornada": 2,
+   "local": "Viking FK",
+   "visitante": "FC Bayern München",
+   "prediccion": {
+    "prob_1": 0.098,
+    "prob_X": 0.124,
+    "prob_2": 0.778,
+    "goles_esperados": [
+     1.081,
+     3.126
+    ],
+    "prob_over_2_5": 0.791,
+    "prob_btts": 0.63,
+    "marcadores": [
+     [
+      "1-3",
+      0.082
+     ],
+     [
+      "1-2",
+      0.0787
+     ],
+     [
+      "0-3",
+      0.0759
+     ]
+    ],
+    "cuotas_justas": [
+     10.22,
+     8.03,
+     1.29
+    ],
+    "resumen": "Gana FC Bayern München (claro favorito, 78%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Viking FK' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.102,
+     "defensa": -0.228,
+     "neto": -0.33,
+     "peso": 1.0,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": 0.643,
+     "defensa": 0.378,
+     "neto": 1.021,
+     "peso": 15.7,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 1,
+     "g": 0,
+     "e": 0,
+     "p": 1,
+     "gf": 1,
+     "gc": 3,
+     "racha": [
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 16,
+     "gc": 10,
+     "racha": [
+      "G",
+      "G",
+      "P",
+      "E",
+      "G"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.02 vs -0.33): ataca ~90% más que el promedio, encaja ~31% menos. Viking FK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.08 – 3.13; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (3G-1E-1P vs 0G-0E-1P). El modelo tiene pocos datos de Viking FK: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "2",
+     "prob": 0.778,
+     "por_que": "El modelo ve a FC Bayern München marcando más que Viking FK pese a la localía (3.13 vs 1.08), y lo respalda una diferencia de fuerza clara (neto +1.02 vs -0.33). Probabilidad del modelo: 78%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.921
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
+   "id": 575348,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-10-13T19:00:00Z",
+   "jornada": 2,
+   "local": "RB Leipzig",
+   "visitante": "PSV",
+   "prediccion": {
+    "prob_1": 0.354,
+    "prob_X": 0.214,
+    "prob_2": 0.432,
+    "goles_esperados": [
+     1.691,
+     1.884
+    ],
+    "prob_over_2_5": 0.693,
+    "prob_btts": 0.689,
+    "marcadores": [
+     [
+      "1-1",
+      0.0866
+     ],
+     [
+      "1-2",
+      0.0841
+     ],
+     [
+      "2-1",
+      0.0755
+     ]
+    ],
+    "cuotas_justas": [
+     2.83,
+     4.68,
+     2.31
+    ],
+    "resumen": "Gana PSV (ligero favorito, 43%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'RB Leipzig' solo tiene 4.3 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.102,
+     "defensa": -0.117,
+     "neto": -0.219,
+     "peso": 4.3,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": 0.248,
+     "defensa": -0.069,
+     "neto": 0.179,
+     "peso": 10.0,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 5,
+     "gc": 10,
+     "racha": [
+      "P",
+      "P",
+      "G",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 8,
+     "gc": 10,
+     "racha": [
+      "G",
+      "P",
+      "P",
+      "P",
+      "E"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "PSV es más fuerte de fondo (neto +0.18 vs -0.22): ataca ~28% más que el promedio. RB Leipzig juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.69 – 1.88; el modelo ve marcando más a PSV. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de RB Leipzig: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "Más de 2.5 goles",
+     "prob": 0.693,
+     "por_que": "Bastantes goles esperados (1.69 + 1.88 = 3.58); al menos una defensa floja. Probabilidad al over: 69%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.869
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
+   "id": 575349,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-10-13T19:00:00Z",
+   "jornada": 2,
+   "local": "Villarreal CF",
+   "visitante": "SSC Napoli",
+   "prediccion": {
+    "prob_1": 0.341,
+    "prob_X": 0.263,
+    "prob_2": 0.396,
+    "goles_esperados": [
+     1.183,
+     1.297
+    ],
+    "prob_over_2_5": 0.451,
+    "prob_btts": 0.5,
+    "marcadores": [
+     [
+      "1-1",
+      0.1246
+     ],
+     [
+      "0-1",
+      0.1125
+     ],
+     [
+      "1-0",
+      0.1029
+     ]
+    ],
+    "cuotas_justas": [
+     2.93,
+     3.8,
+     2.53
+    ],
+    "resumen": "Partido parejo.",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Villarreal CF' solo tiene 5.4 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.368,
+     "defensa": -0.288,
+     "neto": -0.656,
+     "peso": 5.4,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": -0.296,
+     "defensa": 0.022,
+     "neto": -0.274,
+     "peso": 6.5,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 0,
+     "e": 0,
+     "p": 5,
+     "gf": 5,
+     "gc": 15,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 5,
+     "gc": 7,
+     "racha": [
+      "G",
+      "P",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "SSC Napoli es más fuerte de fondo (neto -0.27 vs -0.66): es más completo en general. Villarreal CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.18 – 1.30; el modelo ve marcando más a SSC Napoli. Y la forma reciente lo confirma: SSC Napoli llega mejor (1G-1E-3P vs 0G-0E-5P). El modelo tiene pocos datos de Villarreal CF: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.659,
+     "por_que": "Doble oportunidad: cubre que Villarreal CF no gane. El escenario que queda afuera (gane Villarreal CF) es el menos probable (34%), así que el mercado se cumple ~66% de las veces.",
+     "alternativa": null,
+     "confianza": "baja"
+    }
+   }
+  }
+ ]
+}
