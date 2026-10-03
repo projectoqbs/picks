@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-13",
- "actualizado": "2026-10-03T10:53:23+00:00",
+ "actualizado": "2026-10-03T17:43:24+00:00",
  "partidos": [
   {
    "id": 575341,
@@ -15,7 +15,7 @@
     "prob_X": 0.223,
     "prob_2": 0.437,
     "goles_esperados": [
-     1.526,
+     1.527,
      1.756
     ],
     "prob_over_2_5": 0.637,
@@ -113,9 +113,9 @@
    "prediccion": {
     "prob_1": 0.489,
     "prob_X": 0.227,
-    "prob_2": 0.284,
+    "prob_2": 0.283,
     "goles_esperados": [
-     1.759,
+     1.761,
      1.285
     ],
     "prob_over_2_5": 0.587,
@@ -131,7 +131,7 @@
      ],
      [
       "1-0",
-      0.0871
+      0.087
      ]
     ],
     "cuotas_justas": [
@@ -145,9 +145,9 @@
    "nota": "pocos datos: 'Sabah FK' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.301,
+     "ataque": -0.3,
      "defensa": -0.301,
-     "neto": -0.602,
+     "neto": -0.601,
      "peso": 1.0,
      "fiable": false
     },
@@ -306,12 +306,12 @@
    "local": "Galatasaray SK",
    "visitante": "FC Barcelona",
    "prediccion": {
-    "prob_1": 0.257,
+    "prob_1": 0.258,
     "prob_X": 0.186,
     "prob_2": 0.556,
     "goles_esperados": [
-     1.66,
-     2.463
+     1.661,
+     2.462
     ],
     "prob_over_2_5": 0.779,
     "prob_btts": 0.739,
@@ -330,7 +330,7 @@
      ]
     ],
     "cuotas_justas": [
-     3.89,
+     3.88,
      5.37,
      1.8
     ],
@@ -509,7 +509,7 @@
     "prob_X": 0.149,
     "prob_2": 0.092,
     "goles_esperados": [
-     2.498,
+     2.499,
      0.745
     ],
     "prob_over_2_5": 0.629,
@@ -525,13 +525,13 @@
      ],
      [
       "1-0",
-      0.0998
+      0.0997
      ]
     ],
     "cuotas_justas": [
      1.32,
-     6.71,
-     10.81
+     6.72,
+     10.82
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 76%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -542,7 +542,7 @@
      "ataque": 0.396,
      "defensa": 0.757,
      "neto": 1.153,
-     "peso": 16.3,
+     "peso": 16.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -625,7 +625,7 @@
      ],
      [
       "0-3",
-      0.0759
+      0.0758
      ]
     ],
     "cuotas_justas": [
@@ -817,7 +817,7 @@
      ],
      [
       "0-1",
-      0.1125
+      0.1124
      ],
      [
       "1-0",
@@ -832,13 +832,13 @@
     "resumen": "Partido parejo.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Villarreal CF' solo tiene 5.4 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Villarreal CF' solo tiene 5.3 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.368,
      "defensa": -0.288,
      "neto": -0.656,
-     "peso": 5.4,
+     "peso": 5.3,
      "fiable": false
     },
     "fuerza_visitante": {

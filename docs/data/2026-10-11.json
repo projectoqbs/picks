@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-11",
- "actualizado": "2026-10-03T10:53:23+00:00",
+ "actualizado": "2026-10-03T17:43:24+00:00",
  "partidos": [
   {
    "id": 558585,
@@ -53,7 +53,7 @@
     "fuerza_visitante": {
      "ataque": 0.364,
      "defensa": 0.37,
-     "neto": 0.734,
+     "neto": 0.733,
      "peso": 45.3,
      "fiable": true
     },
@@ -162,7 +162,7 @@
     "cuotas_justas": [
      2.47,
      4.03,
-     2.88
+     2.87
     ],
     "resumen": "Partido parejo. ambos marcan.",
     "confianza": "alta"
@@ -390,22 +390,22 @@
     "prob_2": 0.237,
     "goles_esperados": [
      1.13,
-     0.773
+     0.774
     ],
     "prob_over_2_5": 0.297,
     "prob_btts": 0.378,
     "marcadores": [
      [
       "0-0",
-      0.1623
+      0.1622
      ],
      [
       "1-0",
-      0.1553
+      0.1552
      ],
      [
       "1-1",
-      0.1434
+      0.1435
      ]
     ],
     "cuotas_justas": [
@@ -421,7 +421,7 @@
     "fuerza_local": {
      "ataque": -0.049,
      "defensa": 0.367,
-     "neto": 0.319,
+     "neto": 0.318,
      "peso": 4.7,
      "fiable": false
     },
@@ -485,12 +485,12 @@
    "local": "Crystal Palace FC",
    "visitante": "Nottingham Forest FC",
    "prediccion": {
-    "prob_1": 0.355,
+    "prob_1": 0.356,
     "prob_X": 0.297,
     "prob_2": 0.347,
     "goles_esperados": [
      1.251,
-     1.233
+     1.234
     ],
     "prob_over_2_5": 0.452,
     "prob_btts": 0.519,
@@ -518,7 +518,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.036,
+     "ataque": -0.035,
      "defensa": 0.008,
      "neto": -0.027,
      "peso": 45.1,
@@ -756,7 +756,7 @@
     "prob_X": 0.22,
     "prob_2": 0.156,
     "goles_esperados": [
-     1.895,
+     1.896,
      0.827
     ],
     "prob_over_2_5": 0.512,
@@ -785,7 +785,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.083,
+     "ataque": 0.082,
      "defensa": 0.179,
      "neto": 0.262,
      "peso": 45.3,
@@ -793,7 +793,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.146,
-     "defensa": -0.32,
+     "defensa": -0.321,
      "neto": -0.467,
      "peso": 22.1,
      "fiable": true
@@ -1043,7 +1043,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.113,
-     "defensa": -0.028,
+     "defensa": -0.029,
      "neto": 0.085,
      "peso": 47.1,
      "fiable": true
@@ -1109,7 +1109,7 @@
     "prob_X": 0.235,
     "prob_2": 0.227,
     "goles_esperados": [
-     1.88,
+     1.879,
      1.154
     ],
     "prob_over_2_5": 0.584,
@@ -1125,7 +1125,7 @@
      ],
      [
       "1-0",
-      0.0856
+      0.0855
      ]
     ],
     "cuotas_justas": [
@@ -1147,8 +1147,8 @@
     "fuerza_visitante": {
      "ataque": -0.079,
      "defensa": 0.011,
-     "neto": -0.068,
-     "peso": 35.6,
+     "neto": -0.067,
+     "peso": 35.5,
      "fiable": true
     },
     "forma_local": {
@@ -1249,11 +1249,11 @@
      ],
      [
       "1-0",
-      0.1278
+      0.1277
      ],
      [
       "0-0",
-      0.1249
+      0.1248
      ]
     ],
     "cuotas_justas": [
@@ -1270,12 +1270,12 @@
      "ataque": 0.076,
      "defensa": 0.022,
      "neto": 0.098,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.298,
-     "defensa": 0.374,
+     "defensa": 0.373,
      "neto": 0.076,
      "peso": 3.8,
      "fiable": false
@@ -1336,8 +1336,8 @@
     "prob_X": 0.261,
     "prob_2": 0.421,
     "goles_esperados": [
-     1.409,
-     1.646
+     1.408,
+     1.647
     ],
     "prob_over_2_5": 0.589,
     "prob_btts": 0.621,
@@ -1372,7 +1372,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.456,
+     "ataque": 0.457,
      "defensa": 0.375,
      "neto": 0.832,
      "peso": 45.1,
@@ -1474,7 +1474,7 @@
      1.134,
      1.725
     ],
-    "prob_over_2_5": 0.545,
+    "prob_over_2_5": 0.544,
     "prob_btts": 0.559,
     "marcadores": [
      [
@@ -1599,7 +1599,7 @@
     "prob_X": 0.231,
     "prob_2": 0.187,
     "goles_esperados": [
-     1.807,
+     1.808,
      0.918
     ],
     "prob_over_2_5": 0.513,
@@ -1638,7 +1638,7 @@
      "ataque": -0.042,
      "defensa": -0.006,
      "neto": -0.048,
-     "peso": 47.2,
+     "peso": 47.1,
      "fiable": true
     },
     "forma_local": {
@@ -1755,7 +1755,7 @@
     ],
     "cuotas_justas": [
      6.38,
-     5.25,
+     5.26,
      1.53
     ],
     "resumen": "Gana Olympique de Marseille (claro favorito, 65%). se esperan goles (+2.5). ambos marcan.",

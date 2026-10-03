@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-09",
- "actualizado": "2026-10-03T10:53:23+00:00",
+ "actualizado": "2026-10-03T17:43:24+00:00",
  "partidos": [
   {
    "id": 565820,
@@ -31,7 +31,7 @@
      ],
      [
       "1-0",
-      0.0899
+      0.0898
      ]
     ],
     "cuotas_justas": [
@@ -54,7 +54,7 @@
      "ataque": -0.102,
      "defensa": -0.049,
      "neto": -0.151,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "forma_local": {
@@ -289,11 +289,11 @@
      1.093
     ],
     "prob_over_2_5": 0.306,
-    "prob_btts": 0.38,
+    "prob_btts": 0.381,
     "marcadores": [
      [
       "0-1",
-      0.156
+      0.1559
      ],
      [
       "0-0",
@@ -305,7 +305,7 @@
      ]
     ],
     "cuotas_justas": [
-     3.62,
+     3.61,
      3.18,
      2.45
     ],
@@ -366,7 +366,7 @@
      "por_que": "Pocos goles esperados en total (0.84 + 1.09 = 1.94). El modelo ve el partido cerrado (69% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
-      "prob": 0.869
+      "prob": 0.868
      },
      "confianza": "baja"
     }

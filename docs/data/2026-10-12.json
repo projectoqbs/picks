@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-12",
- "actualizado": "2026-10-03T10:53:23+00:00",
+ "actualizado": "2026-10-03T17:43:24+00:00",
  "partidos": [
   {
    "id": 558579,
@@ -11,11 +11,11 @@
    "local": "Atalanta BC",
    "visitante": "Venezia FC",
    "prediccion": {
-    "prob_1": 0.722,
+    "prob_1": 0.721,
     "prob_X": 0.178,
     "prob_2": 0.1,
     "goles_esperados": [
-     2.222,
+     2.221,
      0.694
     ],
     "prob_over_2_5": 0.558,
@@ -37,7 +37,7 @@
     "cuotas_justas": [
      1.39,
      5.61,
-     9.97
+     9.96
     ],
     "resumen": "Gana Atalanta BC (claro favorito, 72%).",
     "confianza": "alta"
@@ -106,7 +106,7 @@
     "explicacion": "Atalanta BC es más fuerte de fondo (neto +0.50 vs -0.56): ataca ~31% más que el promedio, encaja ~21% menos. Atalanta BC juega en casa (~+11% de ventaja, ya contada). Goles esperados: 2.22 – 0.69; el modelo ve marcando más a Atalanta BC. Y la forma reciente lo confirma: Atalanta BC llega mejor (2G-0E-3P vs 0G-0E-5P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.722,
+     "prob": 0.721,
      "por_que": "Atalanta BC es favorito en casa: marca más (2.22 vs 0.69) y es más fuerte de fondo (neto +0.50 vs -0.56). Probabilidad: 72%.",
      "alternativa": {
       "mercado": "1X",
@@ -159,7 +159,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.055,
-     "defensa": -0.074,
+     "defensa": -0.075,
      "neto": -0.13,
      "peso": 45.3,
      "fiable": true
@@ -300,7 +300,7 @@
      "ataque": 0.004,
      "defensa": -0.016,
      "neto": -0.012,
-     "peso": 47.2,
+     "peso": 47.1,
      "fiable": true
     },
     "forma_local": {
@@ -372,7 +372,7 @@
     "prob_X": 0.253,
     "prob_2": 0.593,
     "goles_esperados": [
-     0.788,
+     0.787,
      1.755
     ],
     "prob_over_2_5": 0.467,
@@ -402,14 +402,14 @@
    "nota": "pocos datos: 'Coventry City FC' solo tiene 4.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.609,
-     "defensa": -0.102,
+     "ataque": -0.61,
+     "defensa": -0.101,
      "neto": -0.711,
      "peso": 4.7,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.246,
+     "ataque": 0.245,
      "defensa": 0.01,
      "neto": 0.255,
      "peso": 45.0,
