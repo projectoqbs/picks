@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-11",
- "actualizado": "2026-10-04T11:35:31+00:00",
+ "actualizado": "2026-10-04T17:57:35+00:00",
  "partidos": [
   {
    "id": 558585,
@@ -47,7 +47,7 @@
      "ataque": 0.312,
      "defensa": 0.25,
      "neto": 0.562,
-     "peso": 39.5,
+     "peso": 39.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -140,7 +140,7 @@
     "prob_X": 0.248,
     "prob_2": 0.348,
     "goles_esperados": [
-     1.535,
+     1.536,
      1.408
     ],
     "prob_over_2_5": 0.564,
@@ -172,7 +172,7 @@
      "ataque": 0.118,
      "defensa": -0.13,
      "neto": -0.012,
-     "peso": 29.8,
+     "peso": 29.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -228,11 +228,11 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "RC Celta de Vigo es más fuerte de fondo (neto +0.19 vs -0.01): ataca ~12% más que el promedio. Elche CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.53 – 1.41; el modelo ve marcando más a Elche CF. Y la forma reciente lo confirma: RC Celta de Vigo llega mejor (1G-3E-1P vs 1G-1E-3P).",
+    "explicacion": "RC Celta de Vigo es más fuerte de fondo (neto +0.19 vs -0.01): ataca ~12% más que el promedio. Elche CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.54 – 1.41; el modelo ve marcando más a Elche CF. Y la forma reciente lo confirma: RC Celta de Vigo llega mejor (1G-3E-1P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.594,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.53 y 1.41. Probabilidad: 59%.",
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.54 y 1.41. Probabilidad: 59%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.794
@@ -293,7 +293,7 @@
      "ataque": 0.223,
      "defensa": 0.021,
      "neto": 0.244,
-     "peso": 40.7,
+     "peso": 40.6,
      "fiable": true
     },
     "forma_local": {
@@ -397,7 +397,7 @@
     "marcadores": [
      [
       "0-0",
-      0.1622
+      0.1621
      ],
      [
       "1-0",
@@ -793,7 +793,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.146,
-     "defensa": -0.321,
+     "defensa": -0.32,
      "neto": -0.467,
      "peso": 22.0,
      "fiable": true
@@ -923,7 +923,7 @@
      "ataque": -0.024,
      "defensa": -0.125,
      "neto": -0.149,
-     "peso": 40.0,
+     "peso": 39.9,
      "fiable": true
     },
     "forma_local": {
@@ -1050,7 +1050,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.078,
-     "defensa": 0.073,
+     "defensa": 0.074,
      "neto": 0.152,
      "peso": 6.6,
      "fiable": false
@@ -1109,7 +1109,7 @@
     "prob_X": 0.235,
     "prob_2": 0.227,
     "goles_esperados": [
-     1.879,
+     1.88,
      1.154
     ],
     "prob_over_2_5": 0.584,
@@ -1147,7 +1147,7 @@
     "fuerza_visitante": {
      "ataque": -0.079,
      "defensa": 0.011,
-     "neto": -0.067,
+     "neto": -0.068,
      "peso": 35.5,
      "fiable": true
     },
@@ -1249,7 +1249,7 @@
      ],
      [
       "1-0",
-      0.1277
+      0.1276
      ],
      [
       "0-0",
@@ -1276,7 +1276,7 @@
     "fuerza_visitante": {
      "ataque": -0.297,
      "defensa": 0.373,
-     "neto": 0.075,
+     "neto": 0.076,
      "peso": 3.8,
      "fiable": false
     },
@@ -1310,7 +1310,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.10 vs +0.07). SC Freiburg juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.21 – 0.96; el modelo ve marcando más a SC Freiburg. En forma reciente pinta algo mejor SC Freiburg (4G-1E-0P vs 1G-2E-1P en 5). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.10 vs +0.08). SC Freiburg juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.21 – 0.96; el modelo ve marcando más a SC Freiburg. En forma reciente pinta algo mejor SC Freiburg (4G-1E-0P vs 1G-2E-1P en 5). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.631,
@@ -1474,7 +1474,7 @@
      1.134,
      1.725
     ],
-    "prob_over_2_5": 0.544,
+    "prob_over_2_5": 0.545,
     "prob_btts": 0.559,
     "marcadores": [
      [
@@ -1503,7 +1503,7 @@
      "ataque": 0.089,
      "defensa": -0.132,
      "neto": -0.043,
-     "peso": 33.7,
+     "peso": 33.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1631,7 +1631,7 @@
      "ataque": 0.195,
      "defensa": 0.145,
      "neto": 0.34,
-     "peso": 47.1,
+     "peso": 47.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1735,7 +1735,7 @@
     "prob_2": 0.653,
     "goles_esperados": [
      1.1,
-     2.378
+     2.377
     ],
     "prob_over_2_5": 0.675,
     "prob_btts": 0.609,
@@ -1755,7 +1755,7 @@
     ],
     "cuotas_justas": [
      6.38,
-     5.26,
+     5.25,
      1.53
     ],
     "resumen": "Gana Olympique de Marseille (claro favorito, 65%). se esperan goles (+2.5). ambos marcan.",
@@ -1846,7 +1846,7 @@
      ],
      [
       "1-1",
-      0.1216
+      0.1215
      ],
      [
       "0-2",

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-13",
- "actualizado": "2026-10-04T11:35:31+00:00",
+ "actualizado": "2026-10-04T17:57:35+00:00",
  "partidos": [
   {
    "id": 575341,
@@ -16,7 +16,7 @@
     "prob_2": 0.437,
     "goles_esperados": [
      1.527,
-     1.756
+     1.755
     ],
     "prob_over_2_5": 0.637,
     "prob_btts": 0.644,
@@ -89,11 +89,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Sporting Clube de Portugal es más fuerte de fondo (neto +0.47 vs +0.04): ataca ~19% más que el promedio, encaja ~26% menos. Racing Club de Lens juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.53 – 1.76; el modelo ve marcando más a Sporting Clube de Portugal. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Racing Club de Lens: tomalo con pinzas.",
+    "explicacion": "Sporting Clube de Portugal es más fuerte de fondo (neto +0.47 vs +0.04): ataca ~19% más que el promedio, encaja ~26% menos. Racing Club de Lens juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.53 – 1.75; el modelo ve marcando más a Sporting Clube de Portugal. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Racing Club de Lens: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.644,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.53 y 1.76. Probabilidad: 64%.",
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.53 y 1.75. Probabilidad: 64%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.836
@@ -111,11 +111,11 @@
    "local": "Sabah FK",
    "visitante": "SK Slavia Praha",
    "prediccion": {
-    "prob_1": 0.489,
+    "prob_1": 0.49,
     "prob_X": 0.227,
     "prob_2": 0.283,
     "goles_esperados": [
-     1.76,
+     1.761,
      1.285
     ],
     "prob_over_2_5": 0.587,
@@ -127,7 +127,7 @@
      ],
      [
       "2-1",
-      0.0947
+      0.0948
      ],
      [
       "1-0",
@@ -145,9 +145,9 @@
    "nota": "pocos datos: 'Sabah FK' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.301,
+     "ataque": -0.3,
      "defensa": -0.301,
-     "neto": -0.602,
+     "neto": -0.601,
      "peso": 1.0,
      "fiable": false
     },
@@ -242,7 +242,7 @@
     "fuerza_local": {
      "ataque": 0.074,
      "defensa": 0.327,
-     "neto": 0.401,
+     "neto": 0.4,
      "peso": 12.5,
      "fiable": true
     },
@@ -306,11 +306,11 @@
    "local": "Galatasaray SK",
    "visitante": "FC Barcelona",
    "prediccion": {
-    "prob_1": 0.257,
+    "prob_1": 0.258,
     "prob_X": 0.186,
     "prob_2": 0.556,
     "goles_esperados": [
-     1.66,
+     1.661,
      2.462
     ],
     "prob_over_2_5": 0.779,
@@ -349,7 +349,7 @@
      "ataque": 0.579,
      "defensa": 0.07,
      "neto": 0.649,
-     "peso": 14.0,
+     "peso": 13.9,
      "fiable": true
     },
     "forma_local": {
@@ -405,7 +405,7 @@
    "local": "Club Atlético de Madrid",
    "visitante": "Manchester United FC",
    "prediccion": {
-    "prob_1": 0.566,
+    "prob_1": 0.565,
     "prob_X": 0.188,
     "prob_2": 0.246,
     "goles_esperados": [
@@ -505,11 +505,11 @@
    "local": "Arsenal FC",
    "visitante": "Lille OSC",
    "prediccion": {
-    "prob_1": 0.758,
+    "prob_1": 0.759,
     "prob_X": 0.149,
     "prob_2": 0.092,
     "goles_esperados": [
-     2.498,
+     2.499,
      0.745
     ],
     "prob_over_2_5": 0.629,
@@ -525,13 +525,13 @@
      ],
      [
       "1-0",
-      0.0998
+      0.0997
      ]
     ],
     "cuotas_justas": [
      1.32,
-     6.71,
-     10.81
+     6.72,
+     10.82
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 76%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -586,11 +586,11 @@
     "explicacion": "Arsenal FC es más fuerte de fondo (neto +1.15 vs +0.23): ataca ~49% más que el promedio, encaja ~53% menos. Arsenal FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.50 – 0.74; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (2G-2E-1P vs 1G-1E-3P). El modelo tiene pocos datos de Lille OSC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.758,
+     "prob": 0.759,
      "por_que": "Arsenal FC es favorito en casa: marca más (2.50 vs 0.74) y es más fuerte de fondo (neto +1.15 vs +0.23). Probabilidad: 76%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.907
+      "prob": 0.908
      },
      "confianza": "baja"
     }
@@ -610,7 +610,7 @@
     "prob_2": 0.777,
     "goles_esperados": [
      1.081,
-     3.126
+     3.125
     ],
     "prob_over_2_5": 0.791,
     "prob_btts": 0.63,
@@ -630,7 +630,7 @@
     ],
     "cuotas_justas": [
      10.21,
-     8.03,
+     8.02,
      1.29
     ],
     "resumen": "Gana FC Bayern München (claro favorito, 78%). se esperan goles (+2.5). ambos marcan.",
@@ -679,11 +679,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.02 vs -0.33): ataca ~90% más que el promedio, encaja ~31% menos. Viking FK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.08 – 3.13; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (3G-1E-1P vs 0G-0E-1P). El modelo tiene pocos datos de Viking FK: tomalo con pinzas.",
+    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.02 vs -0.33): ataca ~90% más que el promedio, encaja ~31% menos. Viking FK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.08 – 3.12; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (3G-1E-1P vs 0G-0E-1P). El modelo tiene pocos datos de Viking FK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "2",
      "prob": 0.777,
-     "por_que": "El modelo ve a FC Bayern München marcando más que Viking FK pese a la localía (3.13 vs 1.08), y lo respalda una diferencia de fuerza clara (neto +1.02 vs -0.33). Probabilidad del modelo: 78%.",
+     "por_que": "El modelo ve a FC Bayern München marcando más que Viking FK pese a la localía (3.12 vs 1.08), y lo respalda una diferencia de fuerza clara (neto +1.02 vs -0.33). Probabilidad del modelo: 78%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.921
@@ -835,7 +835,7 @@
    "nota": "pocos datos: 'Villarreal CF' solo tiene 5.3 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.368,
+     "ataque": -0.367,
      "defensa": -0.288,
      "neto": -0.655,
      "peso": 5.3,
