@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-13",
- "actualizado": "2026-10-03T17:43:24+00:00",
+ "actualizado": "2026-10-04T11:35:31+00:00",
  "partidos": [
   {
    "id": 575341,
@@ -115,7 +115,7 @@
     "prob_X": 0.227,
     "prob_2": 0.283,
     "goles_esperados": [
-     1.761,
+     1.76,
      1.285
     ],
     "prob_over_2_5": 0.587,
@@ -145,9 +145,9 @@
    "nota": "pocos datos: 'Sabah FK' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.3,
+     "ataque": -0.301,
      "defensa": -0.301,
-     "neto": -0.601,
+     "neto": -0.602,
      "peso": 1.0,
      "fiable": false
     },
@@ -155,7 +155,7 @@
      "ataque": -0.319,
      "defensa": -0.308,
      "neto": -0.627,
-     "peso": 5.4,
+     "peso": 5.3,
      "fiable": false
     },
     "forma_local": {
@@ -306,11 +306,11 @@
    "local": "Galatasaray SK",
    "visitante": "FC Barcelona",
    "prediccion": {
-    "prob_1": 0.258,
+    "prob_1": 0.257,
     "prob_X": 0.186,
     "prob_2": 0.556,
     "goles_esperados": [
-     1.661,
+     1.66,
      2.462
     ],
     "prob_over_2_5": 0.779,
@@ -405,7 +405,7 @@
    "local": "Club Atlético de Madrid",
    "visitante": "Manchester United FC",
    "prediccion": {
-    "prob_1": 0.565,
+    "prob_1": 0.566,
     "prob_X": 0.188,
     "prob_2": 0.246,
     "goles_esperados": [
@@ -505,11 +505,11 @@
    "local": "Arsenal FC",
    "visitante": "Lille OSC",
    "prediccion": {
-    "prob_1": 0.759,
+    "prob_1": 0.758,
     "prob_X": 0.149,
     "prob_2": 0.092,
     "goles_esperados": [
-     2.499,
+     2.498,
      0.745
     ],
     "prob_over_2_5": 0.629,
@@ -525,13 +525,13 @@
      ],
      [
       "1-0",
-      0.0997
+      0.0998
      ]
     ],
     "cuotas_justas": [
      1.32,
-     6.72,
-     10.82
+     6.71,
+     10.81
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 76%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -586,11 +586,11 @@
     "explicacion": "Arsenal FC es más fuerte de fondo (neto +1.15 vs +0.23): ataca ~49% más que el promedio, encaja ~53% menos. Arsenal FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.50 – 0.74; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (2G-2E-1P vs 1G-1E-3P). El modelo tiene pocos datos de Lille OSC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.759,
+     "prob": 0.758,
      "por_que": "Arsenal FC es favorito en casa: marca más (2.50 vs 0.74) y es más fuerte de fondo (neto +1.15 vs +0.23). Probabilidad: 76%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.908
+      "prob": 0.907
      },
      "confianza": "baja"
     }
@@ -606,8 +606,8 @@
    "visitante": "FC Bayern München",
    "prediccion": {
     "prob_1": 0.098,
-    "prob_X": 0.124,
-    "prob_2": 0.778,
+    "prob_X": 0.125,
+    "prob_2": 0.777,
     "goles_esperados": [
      1.081,
      3.126
@@ -629,7 +629,7 @@
      ]
     ],
     "cuotas_justas": [
-     10.22,
+     10.21,
      8.03,
      1.29
     ],
@@ -682,7 +682,7 @@
     "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.02 vs -0.33): ataca ~90% más que el promedio, encaja ~31% menos. Viking FK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.08 – 3.13; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (3G-1E-1P vs 0G-0E-1P). El modelo tiene pocos datos de Viking FK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "2",
-     "prob": 0.778,
+     "prob": 0.777,
      "por_que": "El modelo ve a FC Bayern München marcando más que Viking FK pese a la localía (3.13 vs 1.08), y lo respalda una diferencia de fuerza clara (neto +1.02 vs -0.33). Probabilidad del modelo: 78%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -742,7 +742,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.248,
+     "ataque": 0.247,
      "defensa": -0.069,
      "neto": 0.179,
      "peso": 10.0,
@@ -805,7 +805,7 @@
     "prob_X": 0.263,
     "prob_2": 0.396,
     "goles_esperados": [
-     1.183,
+     1.184,
      1.297
     ],
     "prob_over_2_5": 0.451,
@@ -837,7 +837,7 @@
     "fuerza_local": {
      "ataque": -0.368,
      "defensa": -0.288,
-     "neto": -0.656,
+     "neto": -0.655,
      "peso": 5.3,
      "fiable": false
     },

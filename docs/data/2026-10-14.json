@@ -1,0 +1,904 @@
+{
+ "fecha": "2026-10-14",
+ "actualizado": "2026-10-04T11:35:31+00:00",
+ "partidos": [
+  {
+   "id": 575350,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-10-14T16:45:00Z",
+   "jornada": 2,
+   "local": "LASK Linz",
+   "visitante": "Liverpool FC",
+   "prediccion": {
+    "prob_1": 0.218,
+    "prob_X": 0.262,
+    "prob_2": 0.52,
+    "goles_esperados": [
+     0.823,
+     1.44
+    ],
+    "prob_over_2_5": 0.394,
+    "prob_btts": 0.424,
+    "marcadores": [
+     [
+      "0-1",
+      0.1536
+     ],
+     [
+      "1-1",
+      0.1196
+     ],
+     [
+      "0-2",
+      0.1079
+     ]
+    ],
+    "cuotas_justas": [
+     4.58,
+     3.82,
+     1.92
+    ],
+    "resumen": "Gana Liverpool FC (ligero favorito, 52%). pocos goles (-2.5).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'LASK Linz' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.259,
+     "defensa": 0.124,
+     "neto": -0.135,
+     "peso": 1.0,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": 0.22,
+     "defensa": 0.494,
+     "neto": 0.714,
+     "peso": 11.0,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 1,
+     "g": 0,
+     "e": 0,
+     "p": 1,
+     "gf": 0,
+     "gc": 1,
+     "racha": [
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 0,
+     "p": 3,
+     "gf": 6,
+     "gc": 6,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.71 vs -0.14): ataca ~25% más que el promedio, encaja ~39% menos. LASK Linz juega en casa (~+34% de ventaja, ya contada). Goles esperados: 0.82 – 1.44; el modelo ve marcando más a Liverpool FC. Y la forma reciente lo confirma: Liverpool FC llega mejor (2G-0E-3P vs 0G-0E-1P). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.782,
+     "por_que": "Doble oportunidad: cubre que LASK Linz no gane. El escenario que queda afuera (gane LASK Linz) es el menos probable (22%), así que el mercado se cumple ~78% de las veces.",
+     "alternativa": {
+      "mercado": "Menos de 2.5 goles",
+      "prob": 0.606
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
+   "id": 575351,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-10-14T16:45:00Z",
+   "jornada": 2,
+   "local": "Feyenoord Rotterdam",
+   "visitante": "Como 1907",
+   "prediccion": {
+    "prob_1": 0.284,
+    "prob_X": 0.185,
+    "prob_2": 0.53,
+    "goles_esperados": [
+     1.837,
+     2.508
+    ],
+    "prob_over_2_5": 0.808,
+    "prob_btts": 0.77,
+    "marcadores": [
+     [
+      "1-2",
+      0.075
+     ],
+     [
+      "2-2",
+      0.0688
+     ],
+     [
+      "1-3",
+      0.0627
+     ]
+    ],
+    "cuotas_justas": [
+     3.52,
+     5.39,
+     1.89
+    ],
+    "resumen": "Gana Como 1907 (ligero favorito, 53%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Como 1907' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.095,
+     "defensa": -0.267,
+     "neto": -0.172,
+     "peso": 5.3,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": 0.384,
+     "defensa": 0.045,
+     "neto": 0.429,
+     "peso": 1.0,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 4,
+     "gc": 10,
+     "racha": [
+      "G",
+      "E",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 1,
+     "g": 1,
+     "e": 0,
+     "p": 0,
+     "gf": 4,
+     "gc": 1,
+     "racha": [
+      "G"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.43 vs -0.17): ataca ~47% más que el promedio. Feyenoord Rotterdam juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.84 – 2.51; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (1G-0E-0P vs 1G-1E-3P). El modelo tiene pocos datos de Feyenoord Rotterdam: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "Más de 2.5 goles",
+     "prob": 0.808,
+     "por_que": "Bastantes goles esperados (1.84 + 2.51 = 4.34); al menos una defensa floja. Probabilidad al over: 81%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.929
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
+   "id": 575352,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-10-14T19:00:00Z",
+   "jornada": 2,
+   "local": "AS Roma",
+   "visitante": "Real Madrid CF",
+   "prediccion": {
+    "prob_1": 0.286,
+    "prob_X": 0.214,
+    "prob_2": 0.5,
+    "goles_esperados": [
+     1.433,
+     1.951
+    ],
+    "prob_over_2_5": 0.657,
+    "prob_btts": 0.65,
+    "marcadores": [
+     [
+      "1-2",
+      0.0925
+     ],
+     [
+      "1-1",
+      0.092
+     ],
+     [
+      "0-1",
+      0.0691
+     ]
+    ],
+    "cuotas_justas": [
+     3.49,
+     4.68,
+     2.0
+    ],
+    "resumen": "Gana Real Madrid CF (ligero favorito, 50%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'AS Roma' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.057,
+     "defensa": 0.125,
+     "neto": 0.067,
+     "peso": 1.0,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": 0.524,
+     "defensa": 0.141,
+     "neto": 0.666,
+     "peso": 15.7,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 1,
+     "g": 0,
+     "e": 1,
+     "p": 0,
+     "gf": 1,
+     "gc": 1,
+     "racha": [
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 11,
+     "gc": 8,
+     "racha": [
+      "G",
+      "G",
+      "P",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.67 vs +0.07): ataca ~69% más que el promedio, encaja ~13% menos. AS Roma juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.43 – 1.95; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (3G-0E-2P vs 0G-1E-0P). El modelo tiene pocos datos de AS Roma: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.714,
+     "por_que": "Doble oportunidad: cubre que AS Roma no gane. El escenario que queda afuera (gane AS Roma) es el menos probable (29%), así que el mercado se cumple ~71% de las veces.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.848
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
+   "id": 575353,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-10-14T19:00:00Z",
+   "jornada": 2,
+   "local": "Manchester City FC",
+   "visitante": "Paris Saint-Germain FC",
+   "prediccion": {
+    "prob_1": 0.253,
+    "prob_X": 0.192,
+    "prob_2": 0.555,
+    "goles_esperados": [
+     1.537,
+     2.323
+    ],
+    "prob_over_2_5": 0.741,
+    "prob_btts": 0.706,
+    "marcadores": [
+     [
+      "1-2",
+      0.0874
+     ],
+     [
+      "1-1",
+      0.0729
+     ],
+     [
+      "1-3",
+      0.0677
+     ]
+    ],
+    "cuotas_justas": [
+     3.96,
+     5.2,
+     1.8
+    ],
+    "resumen": "Gana Paris Saint-Germain FC (claro favorito, 55%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.199,
+     "defensa": 0.16,
+     "neto": 0.359,
+     "peso": 11.0,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.735,
+     "defensa": 0.327,
+     "neto": 1.062,
+     "peso": 18.9,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 0,
+     "p": 3,
+     "gf": 6,
+     "gc": 8,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "P",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 4,
+     "e": 1,
+     "p": 0,
+     "gf": 19,
+     "gc": 10,
+     "racha": [
+      "G",
+      "G",
+      "E",
+      "G",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2025-01-22",
+      "local": "Paris Saint-Germain FC",
+      "visitante": "Manchester City FC",
+      "goles_local": 4,
+      "goles_visitante": 2
+     }
+    ],
+    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +1.06 vs +0.36): ataca ~109% más que el promedio, encaja ~28% menos. Manchester City FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.54 – 2.32; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-1E-0P vs 2G-0E-3P).",
+    "recomendacion": {
+     "mercado": "Más de 2.5 goles",
+     "prob": 0.741,
+     "por_que": "Bastantes goles esperados (1.54 + 2.32 = 3.86). Probabilidad al over: 74%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.895
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 575354,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-10-14T19:00:00Z",
+   "jornada": 2,
+   "local": "FK Bodø/Glimt",
+   "visitante": "Borussia Dortmund",
+   "prediccion": {
+    "prob_1": 0.419,
+    "prob_X": 0.205,
+    "prob_2": 0.377,
+    "goles_esperados": [
+     2.009,
+     1.901
+    ],
+    "prob_over_2_5": 0.748,
+    "prob_btts": 0.734,
+    "marcadores": [
+     [
+      "2-1",
+      0.0769
+     ],
+     [
+      "1-1",
+      0.0742
+     ],
+     [
+      "2-2",
+      0.0731
+     ]
+    ],
+    "cuotas_justas": [
+     2.39,
+     4.89,
+     2.66
+    ],
+    "resumen": "Partido parejo. se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.205,
+     "defensa": -0.106,
+     "neto": 0.099,
+     "peso": 8.0,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.268,
+     "defensa": 0.065,
+     "neto": 0.333,
+     "peso": 12.9,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 8,
+     "gc": 12,
+     "racha": [
+      "G",
+      "G",
+      "G",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 0,
+     "p": 3,
+     "gf": 6,
+     "gc": 10,
+     "racha": [
+      "P",
+      "P",
+      "G",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2025-12-10",
+      "local": "Borussia Dortmund",
+      "visitante": "FK Bodø/Glimt",
+      "goles_local": 2,
+      "goles_visitante": 2
+     }
+    ],
+    "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.33 vs +0.10): ataca ~31% más que el promedio. FK Bodø/Glimt juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.01 – 1.90; el modelo ve marcando más a FK Bodø/Glimt. Pero ojo: en forma reciente FK Bodø/Glimt llega mejor que Borussia Dortmund, así que puede estar más cerca de lo que dice el neto.",
+    "recomendacion": {
+     "mercado": "Más de 2.5 goles",
+     "prob": 0.748,
+     "por_que": "Bastantes goles esperados (2.01 + 1.90 = 3.91); al menos una defensa floja. Probabilidad al over: 75%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.899
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 575355,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-10-14T19:00:00Z",
+   "jornada": 2,
+   "local": "Aston Villa FC",
+   "visitante": "Fenerbahçe SK",
+   "prediccion": {
+    "prob_1": 0.689,
+    "prob_X": 0.178,
+    "prob_2": 0.132,
+    "goles_esperados": [
+     2.24,
+     0.859
+    ],
+    "prob_over_2_5": 0.599,
+    "prob_btts": 0.512,
+    "marcadores": [
+     [
+      "2-0",
+      0.1131
+     ],
+     [
+      "1-0",
+      0.1036
+     ],
+     [
+      "2-1",
+      0.0972
+     ]
+    ],
+    "cuotas_justas": [
+     1.45,
+     5.6,
+     7.56
+    ],
+    "resumen": "Gana Aston Villa FC (claro favorito, 69%). se esperan goles (+2.5).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Fenerbahçe SK' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.306,
+     "defensa": 0.296,
+     "neto": 0.602,
+     "peso": 4.5,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": -0.124,
+     "defensa": 0.057,
+     "neto": -0.067,
+     "peso": 1.0,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 4,
+     "e": 0,
+     "p": 1,
+     "gf": 13,
+     "gc": 8,
+     "racha": [
+      "G",
+      "G",
+      "P",
+      "G",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 1,
+     "g": 0,
+     "e": 1,
+     "p": 0,
+     "gf": 1,
+     "gc": 1,
+     "racha": [
+      "E"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Aston Villa FC es más fuerte de fondo (neto +0.60 vs -0.07): ataca ~36% más que el promedio, encaja ~26% menos. Aston Villa FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.24 – 0.86; el modelo ve marcando más a Aston Villa FC. Y la forma reciente lo confirma: Aston Villa FC llega mejor (4G-0E-1P vs 0G-1E-0P). El modelo tiene pocos datos de Aston Villa FC: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "1",
+     "prob": 0.689,
+     "por_que": "Aston Villa FC es favorito en casa: marca más (2.24 vs 0.86) y es más fuerte de fondo (neto +0.60 vs -0.07). Probabilidad: 69%.",
+     "alternativa": {
+      "mercado": "1X",
+      "prob": 0.868
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
+   "id": 575356,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-10-14T19:00:00Z",
+   "jornada": 2,
+   "local": "Real Betis Balompié",
+   "visitante": "FC Porto",
+   "prediccion": {
+    "prob_1": 0.684,
+    "prob_X": 0.163,
+    "prob_2": 0.153,
+    "goles_esperados": [
+     2.636,
+     1.191
+    ],
+    "prob_over_2_5": 0.736,
+    "prob_btts": 0.644,
+    "marcadores": [
+     [
+      "2-1",
+      0.0901
+     ],
+     [
+      "3-1",
+      0.0792
+     ],
+     [
+      "2-0",
+      0.0756
+     ]
+    ],
+    "cuotas_justas": [
+     1.46,
+     6.15,
+     6.54
+    ],
+    "resumen": "Gana Real Betis Balompié (claro favorito, 68%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Real Betis Balompié' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.391,
+     "defensa": 0.024,
+     "neto": 0.415,
+     "peso": 1.0,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": -0.069,
+     "defensa": -0.02,
+     "neto": -0.09,
+     "peso": 2.1,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 1,
+     "g": 1,
+     "e": 0,
+     "p": 0,
+     "gf": 3,
+     "gc": 2,
+     "racha": [
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 0,
+     "p": 3,
+     "gf": 9,
+     "gc": 12,
+     "racha": [
+      "P",
+      "G",
+      "G",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.41 vs -0.09): ataca ~48% más que el promedio. Real Betis Balompié juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.64 – 1.19; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (1G-0E-0P vs 2G-0E-3P). El modelo tiene pocos datos de Real Betis Balompié: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "1",
+     "prob": 0.684,
+     "por_que": "Real Betis Balompié es favorito en casa: marca más (2.64 vs 1.19) y es más fuerte de fondo (neto +0.41 vs -0.09). Probabilidad: 68%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.893
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
+   "id": 575357,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-10-14T19:00:00Z",
+   "jornada": 2,
+   "local": "FK Shakhtar Donetsk",
+   "visitante": "PAE AEK",
+   "prediccion": {
+    "prob_1": 0.376,
+    "prob_X": 0.278,
+    "prob_2": 0.345,
+    "goles_esperados": [
+     1.163,
+     1.1
+    ],
+    "prob_over_2_5": 0.394,
+    "prob_btts": 0.455,
+    "marcadores": [
+     [
+      "1-1",
+      0.1291
+     ],
+     [
+      "1-0",
+      0.125
+     ],
+     [
+      "0-1",
+      0.1185
+     ]
+    ],
+    "cuotas_justas": [
+     2.66,
+     3.59,
+     2.9
+    ],
+    "resumen": "Partido parejo. pocos goles (-2.5).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'PAE AEK' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.148,
+     "defensa": 0.049,
+     "neto": -0.099,
+     "peso": 3.9,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": -0.124,
+     "defensa": 0.26,
+     "neto": 0.135,
+     "peso": 1.0,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 7,
+     "gc": 12,
+     "racha": [
+      "P",
+      "P",
+      "G",
+      "P",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 1,
+     "g": 1,
+     "e": 0,
+     "p": 0,
+     "gf": 1,
+     "gc": 0,
+     "racha": [
+      "G"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "PAE AEK es más fuerte de fondo (neto +0.14 vs -0.10): encaja ~23% menos. FK Shakhtar Donetsk juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.16 – 1.10; el modelo ve marcando más a FK Shakhtar Donetsk. Y la forma reciente lo confirma: PAE AEK llega mejor (1G-0E-0P vs 1G-1E-3P). El modelo tiene pocos datos de FK Shakhtar Donetsk: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "Menos de 2.5 goles",
+     "prob": 0.606,
+     "por_que": "Pocos goles esperados en total (1.16 + 1.10 = 2.26); la defensa de PAE AEK aprieta. El modelo ve el partido cerrado (61% al under).",
+     "alternativa": {
+      "mercado": "X2",
+      "prob": 0.624
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
+   "id": 575358,
+   "competicion": "Champions League",
+   "competicion_codigo": "CL",
+   "fecha_utc": "2026-10-14T19:00:00Z",
+   "jornada": 2,
+   "local": "ŠK Slovan Bratislava",
+   "visitante": "VfB Stuttgart",
+   "prediccion": {
+    "prob_1": 0.285,
+    "prob_X": 0.2,
+    "prob_2": 0.515,
+    "goles_esperados": [
+     1.612,
+     2.202
+    ],
+    "prob_over_2_5": 0.733,
+    "prob_btts": 0.71,
+    "marcadores": [
+     [
+      "1-2",
+      0.0862
+     ],
+     [
+      "1-1",
+      0.0759
+     ],
+     [
+      "2-2",
+      0.0695
+     ]
+    ],
+    "cuotas_justas": [
+     3.5,
+     5.01,
+     1.94
+    ],
+    "resumen": "Gana VfB Stuttgart (ligero favorito, 52%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'ŠK Slovan Bratislava' solo tiene 3.2 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.174,
+     "defensa": -0.458,
+     "neto": -0.632,
+     "peso": 3.2,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": 0.062,
+     "defensa": -0.093,
+     "neto": -0.031,
+     "peso": 3.2,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 0,
+     "e": 0,
+     "p": 5,
+     "gf": 6,
+     "gc": 18,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 13,
+     "gc": 12,
+     "racha": [
+      "P",
+      "G",
+      "G",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2025-01-21",
+      "local": "ŠK Slovan Bratislava",
+      "visitante": "VfB Stuttgart",
+      "goles_local": 1,
+      "goles_visitante": 3
+     }
+    ],
+    "explicacion": "VfB Stuttgart es más fuerte de fondo (neto -0.03 vs -0.63): es más completo en general. ŠK Slovan Bratislava juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.61 – 2.20; el modelo ve marcando más a VfB Stuttgart. Y la forma reciente lo confirma: VfB Stuttgart llega mejor (3G-0E-2P vs 0G-0E-5P). El modelo tiene pocos datos de ŠK Slovan Bratislava: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "Más de 2.5 goles",
+     "prob": 0.733,
+     "por_que": "Bastantes goles esperados (1.61 + 2.20 = 3.81); al menos una defensa floja. Probabilidad al over: 73%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.891
+     },
+     "confianza": "baja"
+    }
+   }
+  }
+ ]
+}

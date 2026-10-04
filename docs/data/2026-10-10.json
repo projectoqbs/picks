@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-10",
- "actualizado": "2026-10-03T17:43:24+00:00",
+ "actualizado": "2026-10-04T11:35:31+00:00",
  "partidos": [
   {
    "id": 560593,
@@ -54,7 +54,7 @@
      "ataque": 0.034,
      "defensa": 0.146,
      "neto": 0.18,
-     "peso": 27.7,
+     "peso": 27.6,
      "fiable": true
     },
     "forma_local": {
@@ -161,14 +161,14 @@
      "ataque": -0.091,
      "defensa": 0.104,
      "neto": 0.014,
-     "peso": 47.2,
+     "peso": 47.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.033,
      "defensa": 0.183,
      "neto": 0.215,
-     "peso": 46.1,
+     "peso": 46.0,
      "fiable": true
     },
     "forma_local": {
@@ -296,7 +296,7 @@
      "ataque": -0.112,
      "defensa": -0.029,
      "neto": -0.141,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -415,7 +415,7 @@
      ],
      [
       "0-1",
-      0.0769
+      0.0768
      ]
     ],
     "cuotas_justas": [
@@ -438,7 +438,7 @@
      "ataque": 0.347,
      "defensa": 0.235,
      "neto": 0.582,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "forma_local": {
@@ -537,7 +537,7 @@
      1.07,
      1.478
     ],
-    "prob_over_2_5": 0.468,
+    "prob_over_2_5": 0.469,
     "prob_btts": 0.517,
     "marcadores": [
      [
@@ -546,7 +546,7 @@
      ],
      [
       "0-1",
-      0.1059
+      0.1058
      ],
      [
       "1-2",
@@ -626,19 +626,19 @@
    "local": "1. FC Union Berlin",
    "visitante": "SV 07 Elversberg",
    "prediccion": {
-    "prob_1": 0.217,
+    "prob_1": 0.218,
     "prob_X": 0.22,
-    "prob_2": 0.563,
+    "prob_2": 0.562,
     "goles_esperados": [
      1.287,
-     2.142
+     2.141
     ],
     "prob_over_2_5": 0.666,
     "prob_btts": 0.646,
     "marcadores": [
      [
       "1-1",
-      0.0964
+      0.0965
      ],
      [
       "1-2",
@@ -651,7 +651,7 @@
     ],
     "cuotas_justas": [
      4.6,
-     4.55,
+     4.54,
      1.78
     ],
     "resumen": "Gana SV 07 Elversberg (claro favorito, 56%). se esperan goles (+2.5). ambos marcan.",
@@ -660,14 +660,14 @@
    "nota": "pocos datos: 'SV 07 Elversberg' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.192,
+     "ataque": -0.193,
      "defensa": -0.116,
      "neto": -0.308,
-     "peso": 39.8,
+     "peso": 39.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.368,
+     "ataque": 0.367,
      "defensa": 0.042,
      "neto": 0.41,
      "peso": 3.8,
@@ -706,11 +706,11 @@
     "explicacion": "SV 07 Elversberg es más fuerte de fondo (neto +0.41 vs -0.31): ataca ~44% más que el promedio. 1. FC Union Berlin juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.29 – 2.14; el modelo ve marcando más a SV 07 Elversberg. Y la forma reciente lo confirma: SV 07 Elversberg llega mejor (2G-1E-1P vs 1G-1E-3P). El modelo tiene pocos datos de SV 07 Elversberg: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.783,
+     "prob": 0.782,
      "por_que": "Doble oportunidad: cubre que 1. FC Union Berlin no gane. El escenario que queda afuera (gane 1. FC Union Berlin) es el menos probable (22%), así que el mercado se cumple ~78% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.864
+      "prob": 0.863
      },
      "confianza": "baja"
     }
@@ -745,7 +745,7 @@
      ],
      [
       "2-0",
-      0.0842
+      0.0843
      ]
     ],
     "cuotas_justas": [
@@ -768,7 +768,7 @@
      "ataque": -0.247,
      "defensa": -0.111,
      "neto": -0.358,
-     "peso": 24.6,
+     "peso": 24.5,
      "fiable": true
     },
     "forma_local": {
@@ -847,7 +847,7 @@
      2.9
     ],
     "prob_over_2_5": 0.759,
-    "prob_btts": 0.629,
+    "prob_btts": 0.63,
     "marcadores": [
      [
       "1-2",
@@ -874,14 +874,14 @@
     "fuerza_local": {
      "ataque": -0.046,
      "defensa": -0.023,
-     "neto": -0.069,
+     "neto": -0.068,
      "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.764,
      "defensa": 0.362,
-     "neto": 1.126,
+     "neto": 1.125,
      "peso": 40.0,
      "fiable": true
     },
@@ -952,11 +952,11 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.13 vs -0.07): ataca ~115% más que el promedio, encaja ~30% menos. FC Augsburg juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.08 – 2.90; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (4G-1E-0P vs 2G-1E-2P).",
+    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.12 vs -0.07): ataca ~115% más que el promedio, encaja ~30% menos. FC Augsburg juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.08 – 2.90; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (4G-1E-0P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "2",
      "prob": 0.741,
-     "por_que": "El modelo ve a FC Bayern München marcando más que FC Augsburg pese a la localía (2.90 vs 1.08), y lo respalda una diferencia de fuerza clara (neto +1.13 vs -0.07). Probabilidad del modelo: 74%.",
+     "por_que": "El modelo ve a FC Bayern München marcando más que FC Augsburg pese a la localía (2.90 vs 1.08), y lo respalda una diferencia de fuerza clara (neto +1.12 vs -0.07). Probabilidad del modelo: 74%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.912
@@ -1010,14 +1010,14 @@
      "ataque": -0.091,
      "defensa": 0.082,
      "neto": -0.009,
-     "peso": 27.7,
+     "peso": 27.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.235,
      "defensa": 0.101,
      "neto": 0.336,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "forma_local": {
@@ -1121,14 +1121,14 @@
      "ataque": 0.248,
      "defensa": 0.017,
      "neto": 0.265,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.132,
      "defensa": 0.074,
      "neto": 0.205,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "forma_local": {
@@ -1255,7 +1255,7 @@
     "fuerza_local": {
      "ataque": -0.16,
      "defensa": -0.364,
-     "neto": -0.525,
+     "neto": -0.524,
      "peso": 16.3,
      "fiable": true
     },
@@ -1263,7 +1263,7 @@
      "ataque": -0.023,
      "defensa": 0.063,
      "neto": 0.04,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "forma_local": {
@@ -1312,7 +1312,7 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Fulham FC es más fuerte de fondo (neto +0.04 vs -0.53): es más completo en general. Ipswich Town FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.17 – 1.74; el modelo ve marcando más a Fulham FC. Pero ojo: en forma reciente Ipswich Town FC llega mejor que Fulham FC, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Fulham FC es más fuerte de fondo (neto +0.04 vs -0.52): es más completo en general. Ipswich Town FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.17 – 1.74; el modelo ve marcando más a Fulham FC. Pero ojo: en forma reciente Ipswich Town FC llega mejor que Fulham FC, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.756,
@@ -1377,7 +1377,7 @@
      "ataque": 0.189,
      "defensa": 0.07,
      "neto": 0.259,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "forma_local": {
@@ -1474,18 +1474,18 @@
     "prob_2": 0.457,
     "goles_esperados": [
      1.075,
-     1.457
+     1.456
     ],
     "prob_over_2_5": 0.464,
     "prob_btts": 0.507,
     "marcadores": [
      [
       "1-1",
-      0.1261
+      0.1262
      ],
      [
       "0-1",
-      0.1142
+      0.1143
      ],
      [
       "1-2",
@@ -1493,7 +1493,7 @@
      ]
     ],
     "cuotas_justas": [
-     3.61,
+     3.6,
      3.77,
      2.19
     ],
@@ -1505,14 +1505,14 @@
      "ataque": -0.054,
      "defensa": 0.087,
      "neto": 0.032,
-     "peso": 47.1,
+     "peso": 47.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.362,
      "defensa": 0.264,
      "neto": 0.626,
-     "peso": 47.1,
+     "peso": 47.0,
      "fiable": true
     },
     "forma_local": {
@@ -1627,7 +1627,7 @@
     "cuotas_justas": [
      1.63,
      4.1,
-     7.11
+     7.1
     ],
     "resumen": "Gana Lille OSC (claro favorito, 62%).",
     "confianza": "alta"
@@ -1637,14 +1637,14 @@
      "ataque": 0.11,
      "defensa": 0.351,
      "neto": 0.461,
-     "peso": 40.7,
+     "peso": 40.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.247,
      "defensa": -0.008,
      "neto": -0.255,
-     "peso": 40.7,
+     "peso": 40.6,
      "fiable": true
     },
     "forma_local": {
@@ -1771,7 +1771,7 @@
     "fuerza_local": {
      "ataque": 0.663,
      "defensa": 0.26,
-     "neto": 0.923,
+     "neto": 0.922,
      "peso": 45.3,
      "fiable": true
     },
@@ -1849,7 +1849,7 @@
      "por_que": "FC Internazionale Milano es favorito en casa: marca más (2.44 vs 0.67) y es más fuerte de fondo (neto +0.92 vs -0.26). Probabilidad: 76%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.917
+      "prob": 0.918
      },
      "confianza": "alta"
     }
@@ -2003,7 +2003,7 @@
     "prob_X": 0.154,
     "prob_2": 0.07,
     "goles_esperados": [
-     2.364,
+     2.363,
      0.565
     ],
     "prob_over_2_5": 0.561,
@@ -2035,7 +2035,7 @@
      "ataque": 0.764,
      "defensa": 0.304,
      "neto": 1.068,
-     "peso": 47.1,
+     "peso": 47.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2170,14 +2170,14 @@
      "ataque": 0.199,
      "defensa": 0.067,
      "neto": 0.266,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.027,
      "defensa": -0.071,
      "neto": -0.044,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "forma_local": {
@@ -2305,7 +2305,7 @@
      "ataque": 0.049,
      "defensa": -0.05,
      "neto": -0.001,
-     "peso": 40.7,
+     "peso": 40.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2433,11 +2433,11 @@
      "ataque": 0.004,
      "defensa": 0.001,
      "neto": 0.005,
-     "peso": 30.4,
+     "peso": 30.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.08,
+     "ataque": 0.079,
      "defensa": 0.158,
      "neto": 0.237,
      "peso": 25.2,
@@ -2512,10 +2512,10 @@
     "prob_X": 0.145,
     "prob_2": 0.103,
     "goles_esperados": [
-     2.919,
-     1.051
+     2.92,
+     1.052
     ],
-    "prob_over_2_5": 0.757,
+    "prob_over_2_5": 0.758,
     "prob_btts": 0.618,
     "marcadores": [
      [
@@ -2651,7 +2651,7 @@
      "ataque": 0.039,
      "defensa": 0.043,
      "neto": 0.082,
-     "peso": 39.9,
+     "peso": 39.8,
      "fiable": true
     },
     "forma_local": {
@@ -2779,7 +2779,7 @@
      "ataque": 0.237,
      "defensa": 0.301,
      "neto": 0.538,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2855,10 +2855,10 @@
    "visitante": "Villarreal CF",
    "prediccion": {
     "prob_1": 0.66,
-    "prob_X": 0.18,
+    "prob_X": 0.179,
     "prob_2": 0.16,
     "goles_esperados": [
-     2.47,
+     2.471,
      1.157
     ],
     "prob_over_2_5": 0.702,
@@ -2890,14 +2890,14 @@
      "ataque": 0.537,
      "defensa": 0.364,
      "neto": 0.9,
-     "peso": 47.1,
+     "peso": 47.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.409,
      "defensa": 0.023,
      "neto": 0.431,
-     "peso": 47.3,
+     "peso": 47.2,
      "fiable": true
     },
     "forma_local": {
