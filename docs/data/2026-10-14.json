@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-14",
- "actualizado": "2026-10-05T13:10:49+00:00",
+ "actualizado": "2026-10-05T21:19:57+00:00",
  "partidos": [
   {
    "id": 575350,
@@ -15,7 +15,7 @@
     "prob_X": 0.262,
     "prob_2": 0.52,
     "goles_esperados": [
-     0.823,
+     0.824,
      1.44
     ],
     "prob_over_2_5": 0.394,
@@ -23,7 +23,7 @@
     "marcadores": [
      [
       "0-1",
-      0.1535
+      0.1534
      ],
      [
       "1-1",
@@ -42,13 +42,13 @@
     "resumen": "Gana Liverpool FC (ligero favorito, 52%). pocos goles (-2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'LASK Linz' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'LASK Linz' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.259,
      "defensa": 0.124,
      "neto": -0.135,
-     "peso": 1.0,
+     "peso": 0.9,
      "fiable": false
     },
     "fuerza_visitante": {
@@ -107,7 +107,7 @@
    "local": "Feyenoord Rotterdam",
    "visitante": "Como 1907",
    "prediccion": {
-    "prob_1": 0.284,
+    "prob_1": 0.285,
     "prob_X": 0.185,
     "prob_2": 0.53,
     "goles_esperados": [
@@ -144,7 +144,7 @@
      "ataque": 0.094,
      "defensa": -0.267,
      "neto": -0.172,
-     "peso": 5.3,
+     "peso": 5.2,
      "fiable": false
     },
     "fuerza_visitante": {
@@ -228,7 +228,7 @@
     ],
     "cuotas_justas": [
      3.49,
-     4.68,
+     4.67,
      2.0
     ],
     "resumen": "Gana Real Madrid CF (ligero favorito, 50%). se esperan goles (+2.5). ambos marcan.",
@@ -315,7 +315,7 @@
      ],
      [
       "1-1",
-      0.073
+      0.0729
      ],
      [
       "1-3",
@@ -442,7 +442,7 @@
     "fuerza_local": {
      "ataque": 0.204,
      "defensa": -0.106,
-     "neto": 0.099,
+     "neto": 0.098,
      "peso": 8.0,
      "fiable": false
     },
@@ -548,7 +548,7 @@
    "nota": "pocos datos: 'Fenerbahçe SK' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.306,
+     "ataque": 0.305,
      "defensa": 0.296,
      "neto": 0.601,
      "peso": 4.5,
@@ -630,7 +630,7 @@
      ],
      [
       "2-0",
-      0.0757
+      0.0756
      ]
     ],
     "cuotas_justas": [
@@ -641,13 +641,13 @@
     "resumen": "Gana Real Betis Balompié (claro favorito, 68%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Real Betis Balompié' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Real Betis Balompié' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.39,
      "defensa": 0.024,
      "neto": 0.414,
-     "peso": 1.0,
+     "peso": 0.9,
      "fiable": false
     },
     "fuerza_visitante": {
@@ -722,7 +722,7 @@
      ],
      [
       "1-0",
-      0.125
+      0.1249
      ],
      [
       "0-1",
@@ -737,7 +737,7 @@
     "resumen": "Partido parejo. pocos goles (-2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'PAE AEK' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'PAE AEK' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.148,
@@ -750,7 +750,7 @@
      "ataque": -0.124,
      "defensa": 0.259,
      "neto": 0.135,
-     "peso": 1.0,
+     "peso": 0.9,
      "fiable": false
     },
     "forma_local": {
@@ -787,7 +787,7 @@
      "por_que": "Pocos goles esperados en total (1.16 + 1.10 = 2.26); la defensa de PAE AEK aprieta. El modelo ve el partido cerrado (61% al under).",
      "alternativa": {
       "mercado": "X2",
-      "prob": 0.624
+      "prob": 0.623
      },
      "confianza": "baja"
     }
@@ -802,12 +802,12 @@
    "local": "ŠK Slovan Bratislava",
    "visitante": "VfB Stuttgart",
    "prediccion": {
-    "prob_1": 0.285,
+    "prob_1": 0.286,
     "prob_X": 0.2,
     "prob_2": 0.515,
     "goles_esperados": [
      1.613,
-     2.201
+     2.2
     ],
     "prob_over_2_5": 0.733,
     "prob_btts": 0.71,
@@ -837,7 +837,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.173,
-     "defensa": -0.458,
+     "defensa": -0.457,
      "neto": -0.631,
      "peso": 3.1,
      "fiable": false

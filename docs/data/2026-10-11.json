@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-11",
- "actualizado": "2026-10-05T13:10:49+00:00",
+ "actualizado": "2026-10-05T21:19:57+00:00",
  "partidos": [
   {
    "id": 558585,
@@ -293,7 +293,7 @@
      "ataque": 0.223,
      "defensa": 0.021,
      "neto": 0.244,
-     "peso": 40.6,
+     "peso": 40.5,
      "fiable": true
     },
     "forma_local": {
@@ -527,7 +527,7 @@
     "fuerza_visitante": {
      "ataque": 0.003,
      "defensa": 0.121,
-     "neto": 0.124,
+     "neto": 0.123,
      "peso": 44.8,
      "fiable": true
     },
@@ -916,7 +916,7 @@
      "ataque": -0.098,
      "defensa": -0.155,
      "neto": -0.253,
-     "peso": 29.6,
+     "peso": 29.5,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1008,7 +1008,7 @@
    "local": "Real Sociedad de Fútbol",
    "visitante": "RC Deportivo La Coruña",
    "prediccion": {
-    "prob_1": 0.443,
+    "prob_1": 0.442,
     "prob_X": 0.254,
     "prob_2": 0.303,
     "goles_esperados": [
@@ -1109,7 +1109,7 @@
     "prob_X": 0.235,
     "prob_2": 0.227,
     "goles_esperados": [
-     1.879,
+     1.88,
      1.154
     ],
     "prob_over_2_5": 0.584,
@@ -1140,7 +1140,7 @@
     "fuerza_local": {
      "ataque": 0.226,
      "defensa": -0.004,
-     "neto": 0.221,
+     "neto": 0.222,
      "peso": 40.5,
      "fiable": true
     },
@@ -1249,11 +1249,11 @@
      ],
      [
       "1-0",
-      0.1276
+      0.1277
      ],
      [
       "0-0",
-      0.1246
+      0.1247
      ]
     ],
     "cuotas_justas": [
@@ -1275,7 +1275,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.297,
-     "defensa": 0.372,
+     "defensa": 0.373,
      "neto": 0.075,
      "peso": 3.8,
      "fiable": false
@@ -1474,7 +1474,7 @@
      1.134,
      1.725
     ],
-    "prob_over_2_5": 0.545,
+    "prob_over_2_5": 0.544,
     "prob_btts": 0.559,
     "marcadores": [
      [
@@ -1509,7 +1509,7 @@
     "fuerza_visitante": {
      "ataque": 0.277,
      "defensa": 0.2,
-     "neto": 0.478,
+     "neto": 0.477,
      "peso": 45.2,
      "fiable": true
     },
@@ -1631,7 +1631,7 @@
      "ataque": 0.195,
      "defensa": 0.145,
      "neto": 0.34,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1734,7 +1734,7 @@
     "prob_X": 0.19,
     "prob_2": 0.653,
     "goles_esperados": [
-     1.101,
+     1.1,
      2.376
     ],
     "prob_over_2_5": 0.675,
@@ -1746,11 +1746,11 @@
      ],
      [
       "0-2",
-      0.0872
+      0.0873
      ],
      [
       "1-1",
-      0.0846
+      0.0847
      ]
     ],
     "cuotas_justas": [
@@ -1764,7 +1764,7 @@
    "nota": "pocos datos: 'ES Troyes AC' solo tiene 4.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.241,
+     "ataque": -0.242,
      "defensa": -0.345,
      "neto": -0.586,
      "peso": 4.7,
@@ -1815,7 +1815,7 @@
      "por_que": "Doble oportunidad: cubre que ES Troyes AC no gane. El escenario que queda afuera (gane ES Troyes AC) es el menos probable (16%), así que el mercado se cumple ~84% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.866
+      "prob": 0.865
      },
      "confianza": "baja"
     }
@@ -2006,7 +2006,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": -0.076,
+     "ataque": -0.077,
      "defensa": 0.007,
      "neto": -0.069,
      "peso": 47.0,

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-10",
- "actualizado": "2026-10-05T13:10:49+00:00",
+ "actualizado": "2026-10-05T21:19:57+00:00",
  "partidos": [
   {
    "id": 560593,
@@ -137,7 +137,7 @@
     "marcadores": [
      [
       "1-1",
-      0.136
+      0.1361
      ],
      [
       "1-0",
@@ -150,7 +150,7 @@
     ],
     "cuotas_justas": [
      2.67,
-     3.36,
+     3.35,
      3.06
     ],
     "resumen": "Partido parejo. pocos goles (-2.5).",
@@ -415,7 +415,7 @@
      ],
      [
       "0-1",
-      0.0769
+      0.0768
      ]
     ],
     "cuotas_justas": [
@@ -534,7 +534,7 @@
     "prob_X": 0.28,
     "prob_2": 0.456,
     "goles_esperados": [
-     1.071,
+     1.07,
      1.478
     ],
     "prob_over_2_5": 0.469,
@@ -564,7 +564,7 @@
    "nota": "pocos datos: 'SC Paderborn 07' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.329,
+     "ataque": -0.33,
      "defensa": 0.191,
      "neto": -0.139,
      "peso": 3.8,
@@ -633,7 +633,7 @@
      1.287,
      2.141
     ],
-    "prob_over_2_5": 0.665,
+    "prob_over_2_5": 0.666,
     "prob_btts": 0.646,
     "marcadores": [
      [
@@ -669,7 +669,7 @@
     "fuerza_visitante": {
      "ataque": 0.367,
      "defensa": 0.042,
-     "neto": 0.409,
+     "neto": 0.41,
      "peso": 3.8,
      "fiable": false
     },
@@ -745,7 +745,7 @@
      ],
      [
       "2-0",
-      0.0842
+      0.0843
      ]
     ],
     "cuotas_justas": [
@@ -1224,7 +1224,7 @@
     "prob_X": 0.258,
     "prob_2": 0.497,
     "goles_esperados": [
-     1.169,
+     1.17,
      1.744
     ],
     "prob_over_2_5": 0.557,
@@ -1485,7 +1485,7 @@
      ],
      [
       "0-1",
-      0.1143
+      0.1142
      ],
      [
       "1-2",
@@ -1493,7 +1493,7 @@
      ]
     ],
     "cuotas_justas": [
-     3.6,
+     3.61,
      3.77,
      2.19
     ],
@@ -1621,7 +1621,7 @@
      ],
      [
       "1-1",
-      0.112
+      0.1119
      ]
     ],
     "cuotas_justas": [
@@ -1738,7 +1738,7 @@
    "prediccion": {
     "prob_1": 0.762,
     "prob_X": 0.156,
-    "prob_2": 0.082,
+    "prob_2": 0.083,
     "goles_esperados": [
      2.438,
      0.675
@@ -1779,7 +1779,7 @@
      "ataque": -0.27,
      "defensa": 0.008,
      "neto": -0.262,
-     "peso": 39.4,
+     "peso": 39.3,
      "fiable": true
     },
     "forma_local": {
@@ -1898,7 +1898,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.236,
-     "defensa": 0.142,
+     "defensa": 0.141,
      "neto": 0.378,
      "peso": 39.9,
      "fiable": true
@@ -2041,8 +2041,8 @@
     "fuerza_visitante": {
      "ataque": -0.368,
      "defensa": 0.294,
-     "neto": -0.074,
-     "peso": 47.0,
+     "neto": -0.073,
+     "peso": 46.9,
      "fiable": true
     },
     "forma_local": {
@@ -2160,7 +2160,7 @@
     "cuotas_justas": [
      1.88,
      4.12,
-     4.44
+     4.45
     ],
     "resumen": "Gana Manchester United FC (ligero favorito, 53%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -2274,7 +2274,7 @@
     "prob_2": 0.224,
     "goles_esperados": [
      1.513,
-     0.922
+     0.921
     ],
     "prob_over_2_5": 0.439,
     "prob_btts": 0.475,
@@ -2285,7 +2285,7 @@
      ],
      [
       "1-0",
-      0.1268
+      0.1269
      ],
      [
       "2-0",
@@ -2305,7 +2305,7 @@
      "ataque": 0.049,
      "defensa": -0.05,
      "neto": -0.001,
-     "peso": 40.6,
+     "peso": 40.5,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2402,7 +2402,7 @@
     "prob_2": 0.374,
     "goles_esperados": [
      1.301,
-     1.346
+     1.345
     ],
     "prob_over_2_5": 0.493,
     "prob_btts": 0.544,
@@ -2433,7 +2433,7 @@
      "ataque": 0.004,
      "defensa": 0.001,
      "neto": 0.005,
-     "peso": 30.3,
+     "peso": 30.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2489,7 +2489,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Paris FC es más fuerte de fondo (neto +0.24 vs +0.01): encaja ~15% menos. FC Lorient juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.30 – 1.35; el modelo ve marcando más a Paris FC. Y la forma reciente lo confirma: Paris FC llega mejor (3G-2E-0P vs 1G-2E-2P).",
+    "explicacion": "Paris FC es más fuerte de fondo (neto +0.24 vs +0.01): encaja ~15% menos. FC Lorient juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.30 – 1.34; el modelo ve marcando más a Paris FC. Y la forma reciente lo confirma: Paris FC llega mejor (3G-2E-0P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.647,
@@ -2520,7 +2520,7 @@
     "marcadores": [
      [
       "2-1",
-      0.0846
+      0.0845
      ],
      [
       "3-1",
@@ -2534,7 +2534,7 @@
     "cuotas_justas": [
      1.33,
      6.89,
-     9.65
+     9.66
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 75%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -2612,7 +2612,7 @@
     "prob_X": 0.226,
     "prob_2": 0.214,
     "goles_esperados": [
-     1.978,
+     1.979,
      1.158
     ],
     "prob_over_2_5": 0.607,
@@ -2624,11 +2624,11 @@
      ],
      [
       "2-1",
-      0.0985
+      0.0984
      ],
      [
       "2-0",
-      0.0851
+      0.085
      ]
     ],
     "cuotas_justas": [
@@ -2763,7 +2763,7 @@
      ],
      [
       "2-0",
-      0.0978
+      0.0977
      ]
     ],
     "cuotas_justas": [
@@ -2878,7 +2878,7 @@
      ]
     ],
     "cuotas_justas": [
-     1.52,
+     1.51,
      5.57,
      6.24
     ],
@@ -2887,7 +2887,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.536,
+     "ataque": 0.537,
      "defensa": 0.364,
      "neto": 0.9,
      "peso": 46.9,

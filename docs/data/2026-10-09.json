@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-09",
- "actualizado": "2026-10-05T13:10:49+00:00",
+ "actualizado": "2026-10-05T21:19:57+00:00",
  "partidos": [
   {
    "id": 565820,
@@ -31,7 +31,7 @@
      ],
      [
       "1-0",
-      0.0899
+      0.0898
      ]
     ],
     "cuotas_justas": [
@@ -285,7 +285,7 @@
     "prob_X": 0.315,
     "prob_2": 0.408,
     "goles_esperados": [
-     0.844,
+     0.845,
      1.093
     ],
     "prob_over_2_5": 0.306,
@@ -293,7 +293,7 @@
     "marcadores": [
      [
       "0-1",
-      0.1558
+      0.1557
      ],
      [
       "0-0",
@@ -315,9 +315,9 @@
    "nota": "pocos datos: 'Málaga CF' solo tiene 6.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.541,
+     "ataque": -0.54,
      "defensa": -0.045,
-     "neto": -0.586,
+     "neto": -0.585,
      "peso": 6.6,
      "fiable": false
     },
@@ -325,7 +325,7 @@
      "ataque": -0.057,
      "defensa": 0.019,
      "neto": -0.038,
-     "peso": 41.3,
+     "peso": 41.2,
      "fiable": true
     },
     "forma_local": {
@@ -359,7 +359,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "RCD Espanyol de Barcelona es más fuerte de fondo (neto -0.04 vs -0.59): es más completo en general. Málaga CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 0.84 – 1.09; el modelo ve marcando más a RCD Espanyol de Barcelona. Y la forma reciente lo confirma: RCD Espanyol de Barcelona llega mejor (1G-1E-3P vs 0G-2E-3P). El modelo tiene pocos datos de Málaga CF: tomalo con pinzas.",
+    "explicacion": "RCD Espanyol de Barcelona es más fuerte de fondo (neto -0.04 vs -0.58): es más completo en general. Málaga CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 0.84 – 1.09; el modelo ve marcando más a RCD Espanyol de Barcelona. Y la forma reciente lo confirma: RCD Espanyol de Barcelona llega mejor (1G-1E-3P vs 0G-2E-3P). El modelo tiene pocos datos de Málaga CF: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.694,
