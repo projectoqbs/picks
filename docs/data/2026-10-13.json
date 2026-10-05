@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-13",
- "actualizado": "2026-10-04T17:57:35+00:00",
+ "actualizado": "2026-10-05T13:10:49+00:00",
  "partidos": [
   {
    "id": 575341,
@@ -13,7 +13,7 @@
    "prediccion": {
     "prob_1": 0.34,
     "prob_X": 0.223,
-    "prob_2": 0.437,
+    "prob_2": 0.436,
     "goles_esperados": [
      1.527,
      1.755
@@ -45,7 +45,7 @@
    "nota": "pocos datos: 'Racing Club de Lens' solo tiene 1.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.163,
+     "ataque": 0.162,
      "defensa": -0.12,
      "neto": 0.042,
      "peso": 1.7,
@@ -54,7 +54,7 @@
     "fuerza_visitante": {
      "ataque": 0.174,
      "defensa": 0.298,
-     "neto": 0.472,
+     "neto": 0.471,
      "peso": 11.0,
      "fiable": true
     },
@@ -123,7 +123,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1044
+      0.1043
      ],
      [
       "2-1",
@@ -233,7 +233,7 @@
     "cuotas_justas": [
      1.63,
      5.1,
-     5.2
+     5.21
     ],
     "resumen": "Gana FC Internazionale Milano (claro favorito, 61%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -249,8 +249,8 @@
     "fuerza_visitante": {
      "ataque": 0.173,
      "defensa": -0.135,
-     "neto": 0.038,
-     "peso": 10.2,
+     "neto": 0.037,
+     "peso": 10.1,
      "fiable": true
     },
     "forma_local": {
@@ -341,7 +341,7 @@
     "fuerza_local": {
      "ataque": 0.019,
      "defensa": -0.053,
-     "neto": -0.034,
+     "neto": -0.035,
      "peso": 8.8,
      "fiable": true
     },
@@ -383,7 +383,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "FC Barcelona es más fuerte de fondo (neto +0.65 vs -0.03): ataca ~78% más que el promedio. Galatasaray SK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.66 – 2.46; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (3G-1E-1P vs 2G-0E-3P).",
+    "explicacion": "FC Barcelona es más fuerte de fondo (neto +0.65 vs -0.04): ataca ~78% más que el promedio. Galatasaray SK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.66 – 2.46; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (3G-1E-1P vs 2G-0E-3P).",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.779,
@@ -409,7 +409,7 @@
     "prob_X": 0.188,
     "prob_2": 0.246,
     "goles_esperados": [
-     2.404,
+     2.403,
      1.561
     ],
     "prob_over_2_5": 0.757,
@@ -421,7 +421,7 @@
      ],
      [
       "1-1",
-      0.069
+      0.0691
      ],
      [
       "3-1",
@@ -439,9 +439,9 @@
    "nota": "pocos datos: 'Manchester United FC' solo tiene 1.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.419,
+     "ataque": 0.418,
      "defensa": 0.103,
-     "neto": 0.522,
+     "neto": 0.521,
      "peso": 15.3,
      "fiable": true
     },
@@ -517,7 +517,7 @@
     "marcadores": [
      [
       "2-0",
-      0.1219
+      0.1218
      ],
      [
       "3-0",
@@ -530,8 +530,8 @@
     ],
     "cuotas_justas": [
      1.32,
-     6.72,
-     10.82
+     6.71,
+     10.81
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 76%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -539,9 +539,9 @@
    "nota": "pocos datos: 'Lille OSC' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.396,
+     "ataque": 0.395,
      "defensa": 0.757,
-     "neto": 1.153,
+     "neto": 1.152,
      "peso": 16.2,
      "fiable": true
     },
@@ -583,7 +583,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Arsenal FC es más fuerte de fondo (neto +1.15 vs +0.23): ataca ~49% más que el promedio, encaja ~53% menos. Arsenal FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.50 – 0.74; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (2G-2E-1P vs 1G-1E-3P). El modelo tiene pocos datos de Lille OSC: tomalo con pinzas.",
+    "explicacion": "Arsenal FC es más fuerte de fondo (neto +1.15 vs +0.23): ataca ~48% más que el promedio, encaja ~53% menos. Arsenal FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.50 – 0.74; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (2G-2E-1P vs 1G-1E-3P). El modelo tiene pocos datos de Lille OSC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.759,
@@ -609,10 +609,10 @@
     "prob_X": 0.125,
     "prob_2": 0.777,
     "goles_esperados": [
-     1.081,
-     3.125
+     1.082,
+     3.124
     ],
-    "prob_over_2_5": 0.791,
+    "prob_over_2_5": 0.79,
     "prob_btts": 0.63,
     "marcadores": [
      [
@@ -629,7 +629,7 @@
      ]
     ],
     "cuotas_justas": [
-     10.21,
+     10.2,
      8.02,
      1.29
     ],
@@ -725,7 +725,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.83,
+     2.82,
      4.68,
      2.31
     ],

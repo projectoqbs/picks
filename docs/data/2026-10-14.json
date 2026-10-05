@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-14",
- "actualizado": "2026-10-04T17:57:35+00:00",
+ "actualizado": "2026-10-05T13:10:49+00:00",
  "partidos": [
   {
    "id": 575350,
@@ -23,7 +23,7 @@
     "marcadores": [
      [
       "0-1",
-      0.1536
+      0.1535
      ],
      [
       "1-1",
@@ -31,7 +31,7 @@
      ],
      [
       "0-2",
-      0.1079
+      0.1078
      ]
     ],
     "cuotas_justas": [
@@ -112,7 +112,7 @@
     "prob_2": 0.53,
     "goles_esperados": [
      1.837,
-     2.508
+     2.507
     ],
     "prob_over_2_5": 0.808,
     "prob_btts": 0.77,
@@ -123,15 +123,15 @@
      ],
      [
       "2-2",
-      0.0688
+      0.0689
      ],
      [
       "1-3",
-      0.0627
+      0.0626
      ]
     ],
     "cuotas_justas": [
-     3.52,
+     3.51,
      5.39,
      1.89
     ],
@@ -141,7 +141,7 @@
    "nota": "pocos datos: 'Como 1907' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.095,
+     "ataque": 0.094,
      "defensa": -0.267,
      "neto": -0.172,
      "peso": 5.3,
@@ -150,7 +150,7 @@
     "fuerza_visitante": {
      "ataque": 0.384,
      "defensa": 0.045,
-     "neto": 0.429,
+     "neto": 0.428,
      "peso": 1.0,
      "fiable": false
     },
@@ -223,7 +223,7 @@
      ],
      [
       "0-1",
-      0.0691
+      0.069
      ]
     ],
     "cuotas_justas": [
@@ -246,7 +246,7 @@
     "fuerza_visitante": {
      "ataque": 0.524,
      "defensa": 0.141,
-     "neto": 0.666,
+     "neto": 0.665,
      "peso": 15.7,
      "fiable": true
     },
@@ -339,7 +339,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.735,
+     "ataque": 0.734,
      "defensa": 0.327,
      "neto": 1.062,
      "peso": 18.9,
@@ -384,7 +384,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +1.06 vs +0.36): ataca ~109% más que el promedio, encaja ~28% menos. Manchester City FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.54 – 2.32; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-1E-0P vs 2G-0E-3P).",
+    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +1.06 vs +0.36): ataca ~108% más que el promedio, encaja ~28% menos. Manchester City FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.54 – 2.32; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-1E-0P vs 2G-0E-3P).",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.741,
@@ -413,7 +413,7 @@
      2.009,
      1.901
     ],
-    "prob_over_2_5": 0.748,
+    "prob_over_2_5": 0.749,
     "prob_btts": 0.734,
     "marcadores": [
      [
@@ -435,15 +435,16 @@
      2.66
     ],
     "resumen": "Partido parejo. se esperan goles (+2.5). ambos marcan.",
-    "confianza": "alta"
+    "confianza": "baja"
    },
+   "nota": "pocos datos: 'FK Bodø/Glimt' solo tiene 8.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.205,
+     "ataque": 0.204,
      "defensa": -0.106,
      "neto": 0.099,
      "peso": 8.0,
-     "fiable": true
+     "fiable": false
     },
     "fuerza_visitante": {
      "ataque": 0.268,
@@ -491,16 +492,16 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.33 vs +0.10): ataca ~31% más que el promedio. FK Bodø/Glimt juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.01 – 1.90; el modelo ve marcando más a FK Bodø/Glimt. Pero ojo: en forma reciente FK Bodø/Glimt llega mejor que Borussia Dortmund, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.33 vs +0.10): ataca ~31% más que el promedio. FK Bodø/Glimt juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.01 – 1.90; el modelo ve marcando más a FK Bodø/Glimt. Pero ojo: en forma reciente FK Bodø/Glimt llega mejor que Borussia Dortmund, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de FK Bodø/Glimt: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.748,
+     "prob": 0.749,
      "por_que": "Bastantes goles esperados (2.01 + 1.90 = 3.91); al menos una defensa floja. Probabilidad al over: 75%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.899
      },
-     "confianza": "alta"
+     "confianza": "baja"
     }
    }
   },
@@ -518,10 +519,10 @@
     "prob_2": 0.132,
     "goles_esperados": [
      2.24,
-     0.859
+     0.86
     ],
     "prob_over_2_5": 0.599,
-    "prob_btts": 0.512,
+    "prob_btts": 0.513,
     "marcadores": [
      [
       "2-0",
@@ -549,7 +550,7 @@
     "fuerza_local": {
      "ataque": 0.306,
      "defensa": 0.296,
-     "neto": 0.602,
+     "neto": 0.601,
      "peso": 4.5,
      "fiable": false
     },
@@ -613,7 +614,7 @@
     "prob_X": 0.163,
     "prob_2": 0.153,
     "goles_esperados": [
-     2.636,
+     2.635,
      1.191
     ],
     "prob_over_2_5": 0.735,
@@ -643,9 +644,9 @@
    "nota": "pocos datos: 'Real Betis Balompié' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.391,
+     "ataque": 0.39,
      "defensa": 0.024,
-     "neto": 0.415,
+     "neto": 0.414,
      "peso": 1.0,
      "fiable": false
     },
@@ -683,11 +684,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.41 vs -0.09): ataca ~48% más que el promedio. Real Betis Balompié juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.64 – 1.19; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (1G-0E-0P vs 2G-0E-3P). El modelo tiene pocos datos de Real Betis Balompié: tomalo con pinzas.",
+    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.41 vs -0.09): ataca ~48% más que el promedio. Real Betis Balompié juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.63 – 1.19; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (1G-0E-0P vs 2G-0E-3P). El modelo tiene pocos datos de Real Betis Balompié: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.684,
-     "por_que": "Real Betis Balompié es favorito en casa: marca más (2.64 vs 1.19) y es más fuerte de fondo (neto +0.41 vs -0.09). Probabilidad: 68%.",
+     "por_que": "Real Betis Balompié es favorito en casa: marca más (2.63 vs 1.19) y es más fuerte de fondo (neto +0.41 vs -0.09). Probabilidad: 68%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.893
@@ -705,12 +706,12 @@
    "local": "FK Shakhtar Donetsk",
    "visitante": "PAE AEK",
    "prediccion": {
-    "prob_1": 0.376,
+    "prob_1": 0.377,
     "prob_X": 0.278,
     "prob_2": 0.345,
     "goles_esperados": [
      1.163,
-     1.1
+     1.101
     ],
     "prob_over_2_5": 0.394,
     "prob_btts": 0.455,
@@ -725,7 +726,7 @@
      ],
      [
       "0-1",
-      0.1185
+      0.1184
      ]
     ],
     "cuotas_justas": [
@@ -805,7 +806,7 @@
     "prob_X": 0.2,
     "prob_2": 0.515,
     "goles_esperados": [
-     1.612,
+     1.613,
      2.201
     ],
     "prob_over_2_5": 0.733,
@@ -844,8 +845,8 @@
     "fuerza_visitante": {
      "ataque": 0.062,
      "defensa": -0.093,
-     "neto": -0.031,
-     "peso": 3.2,
+     "neto": -0.03,
+     "peso": 3.1,
      "fiable": false
     },
     "forma_local": {
