@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-14",
- "actualizado": "2026-10-05T21:19:57+00:00",
+ "actualizado": "2026-10-06T12:30:54+00:00",
  "partidos": [
   {
    "id": 575350,
@@ -11,15 +11,15 @@
    "local": "LASK Linz",
    "visitante": "Liverpool FC",
    "prediccion": {
-    "prob_1": 0.218,
+    "prob_1": 0.219,
     "prob_X": 0.262,
     "prob_2": 0.52,
     "goles_esperados": [
      0.824,
      1.44
     ],
-    "prob_over_2_5": 0.394,
-    "prob_btts": 0.424,
+    "prob_over_2_5": 0.395,
+    "prob_btts": 0.425,
     "marcadores": [
      [
       "0-1",
@@ -35,7 +35,7 @@
      ]
     ],
     "cuotas_justas": [
-     4.58,
+     4.57,
      3.82,
      1.92
     ],
@@ -45,9 +45,9 @@
    "nota": "pocos datos: 'LASK Linz' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.259,
+     "ataque": -0.258,
      "defensa": 0.124,
-     "neto": -0.135,
+     "neto": -0.134,
      "peso": 0.9,
      "fiable": false
     },
@@ -85,10 +85,10 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.71 vs -0.14): ataca ~25% más que el promedio, encaja ~39% menos. LASK Linz juega en casa (~+34% de ventaja, ya contada). Goles esperados: 0.82 – 1.44; el modelo ve marcando más a Liverpool FC. Y la forma reciente lo confirma: Liverpool FC llega mejor (2G-0E-3P vs 0G-0E-1P). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
+    "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.71 vs -0.13): ataca ~25% más que el promedio, encaja ~39% menos. LASK Linz juega en casa (~+34% de ventaja, ya contada). Goles esperados: 0.82 – 1.44; el modelo ve marcando más a Liverpool FC. Y la forma reciente lo confirma: Liverpool FC llega mejor (2G-0E-3P vs 0G-0E-1P). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.782,
+     "prob": 0.781,
      "por_que": "Doble oportunidad: cubre que LASK Linz no gane. El escenario que queda afuera (gane LASK Linz) es el menos probable (22%), así que el mercado se cumple ~78% de las veces.",
      "alternativa": {
       "mercado": "Menos de 2.5 goles",
@@ -108,11 +108,11 @@
    "visitante": "Como 1907",
    "prediccion": {
     "prob_1": 0.285,
-    "prob_X": 0.185,
-    "prob_2": 0.53,
+    "prob_X": 0.186,
+    "prob_2": 0.529,
     "goles_esperados": [
      1.837,
-     2.507
+     2.505
     ],
     "prob_over_2_5": 0.808,
     "prob_btts": 0.77,
@@ -148,7 +148,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.384,
+     "ataque": 0.383,
      "defensa": 0.045,
      "neto": 0.428,
      "peso": 1.0,
@@ -181,11 +181,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.43 vs -0.17): ataca ~47% más que el promedio. Feyenoord Rotterdam juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.84 – 2.51; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (1G-0E-0P vs 1G-1E-3P). El modelo tiene pocos datos de Feyenoord Rotterdam: tomalo con pinzas.",
+    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.43 vs -0.17): ataca ~47% más que el promedio. Feyenoord Rotterdam juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.84 – 2.50; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (1G-0E-0P vs 1G-1E-3P). El modelo tiene pocos datos de Feyenoord Rotterdam: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.808,
-     "por_que": "Bastantes goles esperados (1.84 + 2.51 = 4.34); al menos una defensa floja. Probabilidad al over: 81%.",
+     "por_que": "Bastantes goles esperados (1.84 + 2.50 = 4.34); al menos una defensa floja. Probabilidad al over: 81%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.929
@@ -219,7 +219,7 @@
      ],
      [
       "1-1",
-      0.092
+      0.0919
      ],
      [
       "0-1",
@@ -228,7 +228,7 @@
     ],
     "cuotas_justas": [
      3.49,
-     4.67,
+     4.68,
      2.0
     ],
     "resumen": "Gana Real Madrid CF (ligero favorito, 50%). se esperan goles (+2.5). ambos marcan.",
@@ -238,7 +238,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.057,
-     "defensa": 0.125,
+     "defensa": 0.124,
      "neto": 0.067,
      "peso": 1.0,
      "fiable": false
@@ -284,7 +284,7 @@
      "por_que": "Doble oportunidad: cubre que AS Roma no gane. El escenario que queda afuera (gane AS Roma) es el menos probable (29%), así que el mercado se cumple ~71% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.848
+      "prob": 0.849
      },
      "confianza": "baja"
     }
@@ -332,7 +332,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.199,
+     "ataque": 0.198,
      "defensa": 0.16,
      "neto": 0.359,
      "peso": 11.0,
@@ -341,7 +341,7 @@
     "fuerza_visitante": {
      "ataque": 0.734,
      "defensa": 0.327,
-     "neto": 1.062,
+     "neto": 1.061,
      "peso": 18.9,
      "fiable": true
     },
@@ -413,7 +413,7 @@
      2.009,
      1.901
     ],
-    "prob_over_2_5": 0.749,
+    "prob_over_2_5": 0.748,
     "prob_btts": 0.734,
     "marcadores": [
      [
@@ -495,7 +495,7 @@
     "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.33 vs +0.10): ataca ~31% más que el promedio. FK Bodø/Glimt juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.01 – 1.90; el modelo ve marcando más a FK Bodø/Glimt. Pero ojo: en forma reciente FK Bodø/Glimt llega mejor que Borussia Dortmund, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de FK Bodø/Glimt: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.749,
+     "prob": 0.748,
      "por_que": "Bastantes goles esperados (2.01 + 1.90 = 3.91); al menos una defensa floja. Probabilidad al over: 75%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -526,7 +526,7 @@
     "marcadores": [
      [
       "2-0",
-      0.1131
+      0.113
      ],
      [
       "1-0",
@@ -540,7 +540,7 @@
     "cuotas_justas": [
      1.45,
      5.6,
-     7.56
+     7.55
     ],
     "resumen": "Gana Aston Villa FC (claro favorito, 69%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -614,29 +614,29 @@
     "prob_X": 0.163,
     "prob_2": 0.153,
     "goles_esperados": [
-     2.635,
-     1.191
+     2.632,
+     1.192
     ],
     "prob_over_2_5": 0.735,
     "prob_btts": 0.644,
     "marcadores": [
      [
       "2-1",
-      0.0901
+      0.0902
      ],
      [
       "3-1",
-      0.0792
+      0.0791
      ],
      [
       "2-0",
-      0.0756
+      0.0757
      ]
     ],
     "cuotas_justas": [
      1.46,
-     6.15,
-     6.53
+     6.14,
+     6.52
     ],
     "resumen": "Gana Real Betis Balompié (claro favorito, 68%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -644,9 +644,9 @@
    "nota": "pocos datos: 'Real Betis Balompié' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.39,
+     "ataque": 0.389,
      "defensa": 0.024,
-     "neto": 0.414,
+     "neto": 0.413,
      "peso": 0.9,
      "fiable": false
     },
@@ -710,15 +710,15 @@
     "prob_X": 0.278,
     "prob_2": 0.345,
     "goles_esperados": [
-     1.163,
+     1.164,
      1.101
     ],
-    "prob_over_2_5": 0.394,
+    "prob_over_2_5": 0.395,
     "prob_btts": 0.455,
     "marcadores": [
      [
       "1-1",
-      0.1291
+      0.129
      ],
      [
       "1-0",
@@ -726,12 +726,12 @@
      ],
      [
       "0-1",
-      0.1184
+      0.1183
      ]
     ],
     "cuotas_justas": [
-     2.66,
-     3.59,
+     2.65,
+     3.6,
      2.9
     ],
     "resumen": "Partido parejo. pocos goles (-2.5).",
@@ -783,7 +783,7 @@
     "explicacion": "PAE AEK es más fuerte de fondo (neto +0.14 vs -0.10): encaja ~23% menos. FK Shakhtar Donetsk juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.16 – 1.10; el modelo ve marcando más a FK Shakhtar Donetsk. Y la forma reciente lo confirma: PAE AEK llega mejor (1G-0E-0P vs 1G-1E-3P). El modelo tiene pocos datos de FK Shakhtar Donetsk: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.606,
+     "prob": 0.605,
      "por_que": "Pocos goles esperados en total (1.16 + 1.10 = 2.26); la defensa de PAE AEK aprieta. El modelo ve el partido cerrado (61% al under).",
      "alternativa": {
       "mercado": "X2",
@@ -807,7 +807,7 @@
     "prob_2": 0.515,
     "goles_esperados": [
      1.613,
-     2.2
+     2.201
     ],
     "prob_over_2_5": 0.733,
     "prob_btts": 0.71,
@@ -838,12 +838,12 @@
     "fuerza_local": {
      "ataque": -0.173,
      "defensa": -0.457,
-     "neto": -0.631,
+     "neto": -0.63,
      "peso": 3.1,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.062,
+     "ataque": 0.063,
      "defensa": -0.093,
      "neto": -0.03,
      "peso": 3.1,

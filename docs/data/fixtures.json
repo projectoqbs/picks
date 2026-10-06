@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-05T21:19:53+00:00",
+ "actualizado": "2026-10-06T12:30:50+00:00",
  "fixtures": [
   {
    "id": 565820,
@@ -660,6 +660,46 @@
    "jornada": 2,
    "local": "ŠK Slovan Bratislava",
    "visitante": "VfB Stuttgart"
+  },
+  {
+   "id": 565828,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-10-16T18:30:00Z",
+   "estado": "TIMED",
+   "jornada": 6,
+   "local": "Eintracht Frankfurt",
+   "visitante": "1. FC Köln"
+  },
+  {
+   "id": 558573,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-10-16T18:45:00Z",
+   "estado": "TIMED",
+   "jornada": 7,
+   "local": "Frosinone Calcio",
+   "visitante": "US Sassuolo Calcio"
+  },
+  {
+   "id": 559661,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-10-16T18:45:00Z",
+   "estado": "TIMED",
+   "jornada": 7,
+   "local": "Le Mans FC",
+   "visitante": "Toulouse FC"
+  },
+  {
+   "id": 564716,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-10-16T19:00:00Z",
+   "estado": "TIMED",
+   "jornada": 9,
+   "local": "RC Deportivo La Coruña",
+   "visitante": "Levante UD"
   }
  ]
 }

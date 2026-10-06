@@ -1,0 +1,448 @@
+{
+ "fecha": "2026-10-16",
+ "actualizado": "2026-10-06T12:30:54+00:00",
+ "partidos": [
+  {
+   "id": 565828,
+   "competicion": "Bundesliga",
+   "competicion_codigo": "BL1",
+   "fecha_utc": "2026-10-16T18:30:00Z",
+   "jornada": 6,
+   "local": "Eintracht Frankfurt",
+   "visitante": "1. FC Köln",
+   "prediccion": {
+    "prob_1": 0.594,
+    "prob_X": 0.206,
+    "prob_2": 0.2,
+    "goles_esperados": [
+     2.324,
+     1.314
+    ],
+    "prob_over_2_5": 0.704,
+    "prob_btts": 0.666,
+    "marcadores": [
+     [
+      "2-1",
+      0.0933
+     ],
+     [
+      "1-1",
+      0.0867
+     ],
+     [
+      "3-1",
+      0.0723
+     ]
+    ],
+    "cuotas_justas": [
+     1.68,
+     4.85,
+     4.99
+    ],
+    "resumen": "Gana Eintracht Frankfurt (claro favorito, 59%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.202,
+     "defensa": -0.093,
+     "neto": 0.108,
+     "peso": 39.8,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.099,
+     "defensa": -0.155,
+     "neto": -0.253,
+     "peso": 29.5,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 3,
+     "p": 1,
+     "gf": 11,
+     "gc": 12,
+     "racha": [
+      "E",
+      "E",
+      "P",
+      "G",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 7,
+     "gc": 14,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "E",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-04-05",
+      "local": "Eintracht Frankfurt",
+      "visitante": "1. FC Köln",
+      "goles_local": 2,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-11-22",
+      "local": "1. FC Köln",
+      "visitante": "Eintracht Frankfurt",
+      "goles_local": 3,
+      "goles_visitante": 4
+     },
+     {
+      "fecha": "2024-02-03",
+      "local": "1. FC Köln",
+      "visitante": "Eintracht Frankfurt",
+      "goles_local": 2,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2023-09-03",
+      "local": "Eintracht Frankfurt",
+      "visitante": "1. FC Köln",
+      "goles_local": 1,
+      "goles_visitante": 1
+     }
+    ],
+    "explicacion": "Eintracht Frankfurt es más fuerte de fondo (neto +0.11 vs -0.25): ataca ~22% más que el promedio. Eintracht Frankfurt juega en casa (~+23% de ventaja, ya contada). Goles esperados: 2.32 – 1.31; el modelo ve marcando más a Eintracht Frankfurt. Y la forma reciente lo confirma: Eintracht Frankfurt llega mejor (1G-3E-1P vs 1G-1E-3P).",
+    "recomendacion": {
+     "mercado": "Más de 2.5 goles",
+     "prob": 0.704,
+     "por_que": "Bastantes goles esperados (2.32 + 1.31 = 3.64); al menos una defensa floja. Probabilidad al over: 70%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.884
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 559661,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-10-16T18:45:00Z",
+   "jornada": 7,
+   "local": "Le Mans FC",
+   "visitante": "Toulouse FC",
+   "prediccion": {
+    "prob_1": 0.447,
+    "prob_X": 0.237,
+    "prob_2": 0.316,
+    "goles_esperados": [
+     1.797,
+     1.487
+    ],
+    "prob_over_2_5": 0.637,
+    "prob_btts": 0.65,
+    "marcadores": [
+     [
+      "1-1",
+      0.1049
+     ],
+     [
+      "2-1",
+      0.09
+     ],
+     [
+      "1-2",
+      0.0745
+     ]
+    ],
+    "cuotas_justas": [
+     2.24,
+     4.21,
+     3.16
+    ],
+    "resumen": "Gana Le Mans FC (ligero favorito, 45%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Le Mans FC' solo tiene 4.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.212,
+     "defensa": -0.14,
+     "neto": 0.073,
+     "peso": 4.7,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": 0.039,
+     "defensa": 0.043,
+     "neto": 0.082,
+     "peso": 39.7,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 3,
+     "p": 1,
+     "gf": 9,
+     "gc": 9,
+     "racha": [
+      "E",
+      "P",
+      "E",
+      "E",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 7,
+     "gc": 9,
+     "racha": [
+      "P",
+      "E",
+      "P",
+      "E",
+      "G"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "En fuerza de temporada están parejos (neto +0.07 vs +0.08). Le Mans FC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.80 – 1.49; el modelo ve marcando más a Le Mans FC. También parejos en forma (1G-3E-1P vs 1G-2E-2P en 5). El modelo tiene pocos datos de Le Mans FC: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "Ambos marcan: Sí",
+     "prob": 0.65,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.80 y 1.49. Probabilidad: 65%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.844
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
+   "id": 558573,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-10-16T18:45:00Z",
+   "jornada": 7,
+   "local": "Frosinone Calcio",
+   "visitante": "US Sassuolo Calcio",
+   "prediccion": {
+    "prob_1": 0.464,
+    "prob_X": 0.242,
+    "prob_2": 0.294,
+    "goles_esperados": [
+     1.681,
+     1.294
+    ],
+    "prob_over_2_5": 0.571,
+    "prob_btts": 0.592,
+    "marcadores": [
+     [
+      "1-1",
+      0.1125
+     ],
+     [
+      "2-1",
+      0.0933
+     ],
+     [
+      "1-0",
+      0.0844
+     ]
+    ],
+    "cuotas_justas": [
+     2.16,
+     4.13,
+     3.4
+    ],
+    "resumen": "Gana Frosinone Calcio (ligero favorito, 46%). ambos marcan.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.151,
+     "defensa": -0.032,
+     "neto": 0.119,
+     "peso": 10.5,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.089,
+     "defensa": -0.132,
+     "neto": -0.043,
+     "peso": 33.5,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 9,
+     "gc": 4,
+     "racha": [
+      "P",
+      "G",
+      "G",
+      "E",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 9,
+     "gc": 9,
+     "racha": [
+      "P",
+      "G",
+      "E",
+      "G",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2024-03-09",
+      "local": "US Sassuolo Calcio",
+      "visitante": "Frosinone Calcio",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2023-09-17",
+      "local": "Frosinone Calcio",
+      "visitante": "US Sassuolo Calcio",
+      "goles_local": 4,
+      "goles_visitante": 2
+     }
+    ],
+    "explicacion": "Frosinone Calcio es más fuerte de fondo (neto +0.12 vs -0.04): ataca ~16% más que el promedio. Frosinone Calcio juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.68 – 1.29; el modelo ve marcando más a Frosinone Calcio. Y la forma reciente lo confirma: Frosinone Calcio llega mejor (3G-1E-1P vs 2G-1E-2P).",
+    "recomendacion": {
+     "mercado": "Ambos marcan: Sí",
+     "prob": 0.592,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.68 y 1.29. Probabilidad: 59%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.798
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 564716,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-10-16T19:00:00Z",
+   "jornada": 9,
+   "local": "RC Deportivo La Coruña",
+   "visitante": "Levante UD",
+   "prediccion": {
+    "prob_1": 0.534,
+    "prob_X": 0.235,
+    "prob_2": 0.231,
+    "goles_esperados": [
+     1.789,
+     1.099
+    ],
+    "prob_over_2_5": 0.551,
+    "prob_btts": 0.557,
+    "marcadores": [
+     [
+      "1-1",
+      0.1109
+     ],
+     [
+      "1-0",
+      0.0982
+     ],
+     [
+      "2-1",
+      0.0979
+     ]
+    ],
+    "cuotas_justas": [
+     1.87,
+     4.25,
+     4.33
+    ],
+    "resumen": "Gana RC Deportivo La Coruña (ligero favorito, 53%).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'RC Deportivo La Coruña' solo tiene 6.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.078,
+     "defensa": 0.073,
+     "neto": 0.152,
+     "peso": 6.6,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": 0.067,
+     "defensa": -0.113,
+     "neto": -0.046,
+     "peso": 28.8,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 2,
+     "p": 1,
+     "gf": 8,
+     "gc": 6,
+     "racha": [
+      "G",
+      "G",
+      "E",
+      "P",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 8,
+     "gc": 9,
+     "racha": [
+      "E",
+      "G",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "RC Deportivo La Coruña es más fuerte de fondo (neto +0.15 vs -0.05): es más completo en general. RC Deportivo La Coruña juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.79 – 1.10; el modelo ve marcando más a RC Deportivo La Coruña. Y la forma reciente lo confirma: RC Deportivo La Coruña llega mejor (2G-2E-1P vs 1G-2E-2P). El modelo tiene pocos datos de RC Deportivo La Coruña: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.769,
+     "por_que": "Doble oportunidad: cubre que RC Deportivo La Coruña no pierda. El escenario que queda afuera (gane Levante UD) es el menos probable (23%), así que el mercado se cumple ~77% de las veces.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.785
+     },
+     "confianza": "baja"
+    }
+   }
+  }
+ ]
+}

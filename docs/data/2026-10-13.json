@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-13",
- "actualizado": "2026-10-05T21:19:57+00:00",
+ "actualizado": "2026-10-06T12:30:54+00:00",
  "partidos": [
   {
    "id": 575341,
@@ -145,7 +145,7 @@
    "nota": "pocos datos: 'Sabah FK' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.3,
+     "ataque": -0.299,
      "defensa": -0.301,
      "neto": -0.6,
      "peso": 1.0,
@@ -154,7 +154,7 @@
     "fuerza_visitante": {
      "ataque": -0.319,
      "defensa": -0.308,
-     "neto": -0.627,
+     "neto": -0.626,
      "peso": 5.3,
      "fiable": false
     },
@@ -212,7 +212,7 @@
     "prob_2": 0.192,
     "goles_esperados": [
      2.154,
-     1.121
+     1.122
     ],
     "prob_over_2_5": 0.636,
     "prob_btts": 0.593,
@@ -233,7 +233,7 @@
     "cuotas_justas": [
      1.63,
      5.1,
-     5.21
+     5.2
     ],
     "resumen": "Gana FC Internazionale Milano (claro favorito, 61%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -241,13 +241,13 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.074,
-     "defensa": 0.327,
+     "defensa": 0.326,
      "neto": 0.4,
-     "peso": 12.5,
+     "peso": 12.4,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.173,
+     "ataque": 0.172,
      "defensa": -0.135,
      "neto": 0.037,
      "peso": 10.1,
@@ -430,7 +430,7 @@
     ],
     "cuotas_justas": [
      1.77,
-     5.31,
+     5.32,
      4.06
     ],
     "resumen": "Gana Club Atlético de Madrid (claro favorito, 57%). se esperan goles (+2.5). ambos marcan.",
@@ -448,7 +448,7 @@
     "fuerza_visitante": {
      "ataque": 0.28,
      "defensa": 0.1,
-     "neto": 0.38,
+     "neto": 0.379,
      "peso": 1.7,
      "fiable": false
     },
@@ -530,7 +530,7 @@
     ],
     "cuotas_justas": [
      1.32,
-     6.71,
+     6.72,
      10.81
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 76%). se esperan goles (+2.5).",
@@ -546,9 +546,9 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.194,
+     "ataque": 0.193,
      "defensa": 0.038,
-     "neto": 0.232,
+     "neto": 0.231,
      "peso": 3.8,
      "fiable": false
     },
@@ -610,7 +610,7 @@
     "prob_2": 0.777,
     "goles_esperados": [
      1.082,
-     3.124
+     3.122
     ],
     "prob_over_2_5": 0.79,
     "prob_btts": 0.63,
@@ -621,7 +621,7 @@
      ],
      [
       "1-2",
-      0.0787
+      0.0788
      ],
      [
       "0-3",
@@ -629,8 +629,8 @@
      ]
     ],
     "cuotas_justas": [
-     10.19,
-     8.02,
+     10.18,
+     8.01,
      1.29
     ],
     "resumen": "Gana FC Bayern München (claro favorito, 78%). se esperan goles (+2.5). ambos marcan.",
@@ -639,16 +639,16 @@
    "nota": "pocos datos: 'Viking FK' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.102,
-     "defensa": -0.228,
-     "neto": -0.33,
+     "ataque": -0.101,
+     "defensa": -0.227,
+     "neto": -0.329,
      "peso": 1.0,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.643,
+     "ataque": 0.642,
      "defensa": 0.378,
-     "neto": 1.021,
+     "neto": 1.02,
      "peso": 15.7,
      "fiable": true
     },
@@ -706,7 +706,7 @@
     "prob_2": 0.432,
     "goles_esperados": [
      1.691,
-     1.883
+     1.884
     ],
     "prob_over_2_5": 0.693,
     "prob_btts": 0.689,
@@ -745,7 +745,7 @@
      "ataque": 0.247,
      "defensa": -0.069,
      "neto": 0.179,
-     "peso": 10.0,
+     "peso": 9.9,
      "fiable": true
     },
     "forma_local": {
@@ -783,7 +783,7 @@
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.693,
-     "por_que": "Bastantes goles esperados (1.69 + 1.88 = 3.57); al menos una defensa floja. Probabilidad al over: 69%.",
+     "por_que": "Bastantes goles esperados (1.69 + 1.88 = 3.58); al menos una defensa floja. Probabilidad al over: 69%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.869
@@ -809,7 +809,7 @@
      1.298
     ],
     "prob_over_2_5": 0.452,
-    "prob_btts": 0.5,
+    "prob_btts": 0.501,
     "marcadores": [
      [
       "1-1",

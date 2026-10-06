@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-11",
- "actualizado": "2026-10-05T21:19:57+00:00",
+ "actualizado": "2026-10-06T12:30:54+00:00",
  "partidos": [
   {
    "id": 558585,
@@ -35,7 +35,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.93,
+     2.92,
      3.64,
      2.61
     ],
@@ -47,7 +47,7 @@
      "ataque": 0.312,
      "defensa": 0.25,
      "neto": 0.562,
-     "peso": 39.4,
+     "peso": 39.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -172,14 +172,14 @@
      "ataque": 0.118,
      "defensa": -0.13,
      "neto": -0.012,
-     "peso": 29.7,
+     "peso": 29.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.111,
      "defensa": 0.08,
      "neto": 0.191,
-     "peso": 46.9,
+     "peso": 46.8,
      "fiable": true
     },
     "forma_local": {
@@ -286,7 +286,7 @@
      "ataque": -0.053,
      "defensa": 0.031,
      "neto": -0.022,
-     "peso": 40.5,
+     "peso": 40.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -390,18 +390,18 @@
     "prob_2": 0.237,
     "goles_esperados": [
      1.13,
-     0.774
+     0.775
     ],
-    "prob_over_2_5": 0.297,
+    "prob_over_2_5": 0.298,
     "prob_btts": 0.378,
     "marcadores": [
      [
       "0-0",
-      0.1621
+      0.162
      ],
      [
       "1-0",
-      0.1551
+      0.155
      ],
      [
       "1-1",
@@ -421,7 +421,7 @@
     "fuerza_local": {
      "ataque": -0.049,
      "defensa": 0.366,
-     "neto": 0.318,
+     "neto": 0.317,
      "peso": 4.7,
      "fiable": false
     },
@@ -463,11 +463,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Hull City AFC es más fuerte de fondo (neto +0.32 vs +0.10): encaja ~31% menos. Hull City AFC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.13 – 0.77; el modelo ve marcando más a Hull City AFC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Hull City AFC: tomalo con pinzas.",
+    "explicacion": "Hull City AFC es más fuerte de fondo (neto +0.32 vs +0.10): encaja ~31% menos. Hull City AFC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.13 – 0.78; el modelo ve marcando más a Hull City AFC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Hull City AFC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.703,
-     "por_que": "Pocos goles esperados en total (1.13 + 0.77 = 1.90); la defensa de Hull City AFC aprieta. El modelo ve el partido cerrado (70% al under).",
+     "prob": 0.702,
+     "por_que": "Pocos goles esperados en total (1.13 + 0.78 = 1.90); la defensa de Hull City AFC aprieta. El modelo ve el partido cerrado (70% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
       "prob": 0.874
@@ -518,17 +518,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.035,
+     "ataque": -0.036,
      "defensa": 0.008,
      "neto": -0.027,
-     "peso": 44.9,
+     "peso": 44.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.003,
      "defensa": 0.121,
      "neto": 0.123,
-     "peso": 44.8,
+     "peso": 44.7,
      "fiable": true
     },
     "forma_local": {
@@ -653,14 +653,14 @@
      "ataque": -0.378,
      "defensa": -0.08,
      "neto": -0.458,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.092,
      "defensa": 0.099,
      "neto": 0.191,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "forma_local": {
@@ -788,13 +788,13 @@
      "ataque": 0.082,
      "defensa": 0.179,
      "neto": 0.262,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.146,
      "defensa": -0.32,
-     "neto": -0.467,
+     "neto": -0.466,
      "peso": 22.0,
      "fiable": true
     },
@@ -913,7 +913,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.098,
+     "ataque": -0.099,
      "defensa": -0.155,
      "neto": -0.253,
      "peso": 29.5,
@@ -923,7 +923,7 @@
      "ataque": -0.024,
      "defensa": -0.125,
      "neto": -0.149,
-     "peso": 39.9,
+     "peso": 39.8,
      "fiable": true
     },
     "forma_local": {
@@ -1008,11 +1008,11 @@
    "local": "Real Sociedad de Fútbol",
    "visitante": "RC Deportivo La Coruña",
    "prediccion": {
-    "prob_1": 0.442,
+    "prob_1": 0.443,
     "prob_X": 0.254,
     "prob_2": 0.303,
     "goles_esperados": [
-     1.537,
+     1.538,
      1.231
     ],
     "prob_over_2_5": 0.523,
@@ -1033,7 +1033,7 @@
     ],
     "cuotas_justas": [
      2.26,
-     3.93,
+     3.94,
      3.3
     ],
     "resumen": "Gana Real Sociedad de Fútbol (ligero favorito, 44%).",
@@ -1043,14 +1043,14 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.113,
-     "defensa": -0.029,
+     "defensa": -0.028,
      "neto": 0.085,
-     "peso": 46.9,
+     "peso": 46.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.078,
-     "defensa": 0.074,
+     "defensa": 0.073,
      "neto": 0.152,
      "peso": 6.6,
      "fiable": false
@@ -1109,7 +1109,7 @@
     "prob_X": 0.235,
     "prob_2": 0.227,
     "goles_esperados": [
-     1.88,
+     1.879,
      1.154
     ],
     "prob_over_2_5": 0.584,
@@ -1140,15 +1140,15 @@
     "fuerza_local": {
      "ataque": 0.226,
      "defensa": -0.004,
-     "neto": 0.222,
-     "peso": 40.5,
+     "neto": 0.221,
+     "peso": 40.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.079,
      "defensa": 0.011,
      "neto": -0.068,
-     "peso": 35.4,
+     "peso": 35.3,
      "fiable": true
     },
     "forma_local": {
@@ -1249,11 +1249,11 @@
      ],
      [
       "1-0",
-      0.1277
+      0.1276
      ],
      [
       "0-0",
-      0.1247
+      0.1246
      ]
     ],
     "cuotas_justas": [
@@ -1270,7 +1270,7 @@
      "ataque": 0.076,
      "defensa": 0.022,
      "neto": 0.098,
-     "peso": 39.9,
+     "peso": 39.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1336,7 +1336,7 @@
     "prob_X": 0.261,
     "prob_2": 0.421,
     "goles_esperados": [
-     1.408,
+     1.409,
      1.646
     ],
     "prob_over_2_5": 0.589,
@@ -1374,8 +1374,8 @@
     "fuerza_visitante": {
      "ataque": 0.456,
      "defensa": 0.375,
-     "neto": 0.832,
-     "peso": 44.9,
+     "neto": 0.831,
+     "peso": 44.8,
      "fiable": true
     },
     "forma_local": {
@@ -1503,14 +1503,14 @@
      "ataque": 0.089,
      "defensa": -0.132,
      "neto": -0.043,
-     "peso": 33.6,
+     "peso": 33.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.277,
      "defensa": 0.2,
      "neto": 0.477,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "forma_local": {
@@ -1599,7 +1599,7 @@
     "prob_X": 0.231,
     "prob_2": 0.187,
     "goles_esperados": [
-     1.807,
+     1.808,
      0.918
     ],
     "prob_over_2_5": 0.513,
@@ -1638,7 +1638,7 @@
      "ataque": -0.042,
      "defensa": -0.006,
      "neto": -0.048,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "forma_local": {
@@ -1734,7 +1734,7 @@
     "prob_X": 0.19,
     "prob_2": 0.653,
     "goles_esperados": [
-     1.1,
+     1.101,
      2.376
     ],
     "prob_over_2_5": 0.675,
@@ -1846,7 +1846,7 @@
      ],
      [
       "1-1",
-      0.1215
+      0.1216
      ],
      [
       "0-2",
@@ -1866,14 +1866,14 @@
      "ataque": -0.082,
      "defensa": -0.026,
      "neto": -0.108,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.26,
      "defensa": 0.347,
      "neto": 0.607,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "forma_local": {
@@ -1969,7 +1969,7 @@
     "prob_X": 0.22,
     "prob_2": 0.377,
     "goles_esperados": [
-     1.855,
+     1.854,
      1.791
     ],
     "prob_over_2_5": 0.705,
@@ -1985,7 +1985,7 @@
      ],
      [
       "1-2",
-      0.0776
+      0.0777
      ]
     ],
     "cuotas_justas": [
@@ -1999,7 +1999,7 @@
    "nota": "pocos datos: 'Real Racing Club de Santander' solo tiene 6.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.235,
+     "ataque": 0.234,
      "defensa": -0.558,
      "neto": -0.324,
      "peso": 6.6,
@@ -2009,7 +2009,7 @@
      "ataque": -0.077,
      "defensa": 0.007,
      "neto": -0.069,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "forma_local": {

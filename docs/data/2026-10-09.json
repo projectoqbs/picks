@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-09",
- "actualizado": "2026-10-05T21:19:57+00:00",
+ "actualizado": "2026-10-06T12:30:54+00:00",
  "partidos": [
   {
    "id": 565820,
@@ -44,17 +44,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.318,
+     "ataque": 0.317,
      "defensa": 0.344,
      "neto": 0.662,
-     "peso": 39.9,
+     "peso": 39.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.102,
      "defensa": -0.049,
      "neto": -0.151,
-     "peso": 39.9,
+     "peso": 39.8,
      "fiable": true
     },
     "forma_local": {
@@ -283,9 +283,9 @@
    "prediccion": {
     "prob_1": 0.277,
     "prob_X": 0.315,
-    "prob_2": 0.408,
+    "prob_2": 0.409,
     "goles_esperados": [
-     0.845,
+     0.844,
      1.093
     ],
     "prob_over_2_5": 0.306,
@@ -293,7 +293,7 @@
     "marcadores": [
      [
       "0-1",
-      0.1557
+      0.1558
      ],
      [
       "0-0",
@@ -315,9 +315,9 @@
    "nota": "pocos datos: 'Málaga CF' solo tiene 6.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.54,
+     "ataque": -0.541,
      "defensa": -0.045,
-     "neto": -0.585,
+     "neto": -0.586,
      "peso": 6.6,
      "fiable": false
     },
@@ -359,7 +359,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "RCD Espanyol de Barcelona es más fuerte de fondo (neto -0.04 vs -0.58): es más completo en general. Málaga CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 0.84 – 1.09; el modelo ve marcando más a RCD Espanyol de Barcelona. Y la forma reciente lo confirma: RCD Espanyol de Barcelona llega mejor (1G-1E-3P vs 0G-2E-3P). El modelo tiene pocos datos de Málaga CF: tomalo con pinzas.",
+    "explicacion": "RCD Espanyol de Barcelona es más fuerte de fondo (neto -0.04 vs -0.59): es más completo en general. Málaga CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 0.84 – 1.09; el modelo ve marcando más a RCD Espanyol de Barcelona. Y la forma reciente lo confirma: RCD Espanyol de Barcelona llega mejor (1G-1E-3P vs 0G-2E-3P). El modelo tiene pocos datos de Málaga CF: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.694,
