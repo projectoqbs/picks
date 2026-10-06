@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-16",
- "actualizado": "2026-10-06T12:30:54+00:00",
+ "actualizado": "2026-10-06T19:16:45+00:00",
  "partidos": [
   {
    "id": 565828,
@@ -13,7 +13,7 @@
    "prediccion": {
     "prob_1": 0.594,
     "prob_X": 0.206,
-    "prob_2": 0.2,
+    "prob_2": 0.201,
     "goles_esperados": [
      2.324,
      1.314
@@ -51,7 +51,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.099,
+     "ataque": -0.098,
      "defensa": -0.155,
      "neto": -0.253,
      "peso": 29.5,
@@ -139,7 +139,7 @@
    "local": "Le Mans FC",
    "visitante": "Toulouse FC",
    "prediccion": {
-    "prob_1": 0.447,
+    "prob_1": 0.446,
     "prob_X": 0.237,
     "prob_2": 0.316,
     "goles_esperados": [
@@ -389,7 +389,7 @@
     "fuerza_local": {
      "ataque": 0.078,
      "defensa": 0.073,
-     "neto": 0.152,
+     "neto": 0.151,
      "peso": 6.6,
      "fiable": false
     },

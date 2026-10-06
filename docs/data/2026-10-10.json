@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-10",
- "actualizado": "2026-10-06T12:30:54+00:00",
+ "actualizado": "2026-10-06T19:16:45+00:00",
  "partidos": [
   {
    "id": 560593,
@@ -23,7 +23,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1386
+      0.1385
      ],
      [
       "2-0",
@@ -44,8 +44,8 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.337,
-     "defensa": 0.602,
+     "ataque": 0.338,
+     "defensa": 0.601,
      "neto": 0.939,
      "peso": 44.7,
      "fiable": true
@@ -168,7 +168,7 @@
      "ataque": 0.033,
      "defensa": 0.183,
      "neto": 0.215,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "forma_local": {
@@ -376,7 +376,7 @@
     "explicacion": "ACF Fiorentina es más fuerte de fondo (neto +0.07 vs -0.14): es más completo en general. Genoa CFC juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.16 – 1.30; el modelo ve marcando más a ACF Fiorentina. Y la forma reciente lo confirma: ACF Fiorentina llega mejor (1G-1E-3P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.671,
+     "prob": 0.67,
      "por_que": "Doble oportunidad: cubre que Genoa CFC no gane. El escenario que queda afuera (gane Genoa CFC) es el menos probable (33%), así que el mercado se cumple ~67% de las veces.",
      "alternativa": {
       "mercado": "Menos de 2.5 goles",
@@ -535,7 +535,7 @@
     "prob_2": 0.456,
     "goles_esperados": [
      1.071,
-     1.479
+     1.478
     ],
     "prob_over_2_5": 0.469,
     "prob_btts": 0.517,
@@ -546,11 +546,11 @@
      ],
      [
       "0-1",
-      0.1057
+      0.1058
      ],
      [
       "1-2",
-      0.0915
+      0.0914
      ]
     ],
     "cuotas_justas": [
@@ -565,7 +565,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.329,
-     "defensa": 0.19,
+     "defensa": 0.191,
      "neto": -0.139,
      "peso": 3.8,
      "fiable": false
@@ -631,9 +631,9 @@
     "prob_2": 0.562,
     "goles_esperados": [
      1.287,
-     2.141
+     2.14
     ],
-    "prob_over_2_5": 0.666,
+    "prob_over_2_5": 0.665,
     "prob_btts": 0.646,
     "marcadores": [
      [
@@ -745,7 +745,7 @@
      ],
      [
       "2-0",
-      0.0843
+      0.0842
      ]
     ],
     "cuotas_justas": [
@@ -1121,7 +1121,7 @@
      "ataque": 0.248,
      "defensa": 0.017,
      "neto": 0.264,
-     "peso": 44.8,
+     "peso": 44.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1225,7 +1225,7 @@
     "prob_2": 0.497,
     "goles_esperados": [
      1.169,
-     1.745
+     1.744
     ],
     "prob_over_2_5": 0.557,
     "prob_btts": 0.58,
@@ -1253,9 +1253,9 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.161,
+     "ataque": -0.16,
      "defensa": -0.364,
-     "neto": -0.525,
+     "neto": -0.524,
      "peso": 16.2,
      "fiable": true
     },
@@ -1312,7 +1312,7 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Fulham FC es más fuerte de fondo (neto +0.04 vs -0.53): es más completo en general. Ipswich Town FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.17 – 1.75; el modelo ve marcando más a Fulham FC. Pero ojo: en forma reciente Ipswich Town FC llega mejor que Fulham FC, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Fulham FC es más fuerte de fondo (neto +0.04 vs -0.52): es más completo en general. Ipswich Town FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.17 – 1.74; el modelo ve marcando más a Fulham FC. Pero ojo: en forma reciente Ipswich Town FC llega mejor que Fulham FC, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.756,
@@ -1346,7 +1346,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1231
+      0.1232
      ],
      [
       "2-1",
@@ -1481,7 +1481,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1261
+      0.1262
      ],
      [
       "0-1",
@@ -1502,17 +1502,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.054,
+     "ataque": -0.055,
      "defensa": 0.087,
      "neto": 0.032,
      "peso": 46.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.362,
+     "ataque": 0.361,
      "defensa": 0.264,
      "neto": 0.625,
-     "peso": 46.9,
+     "peso": 46.8,
      "fiable": true
     },
     "forma_local": {
@@ -1582,7 +1582,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Club Atlético de Madrid es más fuerte de fondo (neto +0.62 vs +0.03): ataca ~44% más que el promedio, encaja ~23% menos. Deportivo Alavés juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.07 – 1.46; el modelo ve marcando más a Club Atlético de Madrid. Y la forma reciente lo confirma: Club Atlético de Madrid llega mejor (4G-0E-1P vs 2G-1E-2P).",
+    "explicacion": "Club Atlético de Madrid es más fuerte de fondo (neto +0.62 vs +0.03): ataca ~43% más que el promedio, encaja ~23% menos. Deportivo Alavés juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.07 – 1.46; el modelo ve marcando más a Club Atlético de Madrid. Y la forma reciente lo confirma: Club Atlético de Madrid llega mejor (4G-0E-1P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.723,
@@ -1644,7 +1644,7 @@
      "ataque": -0.247,
      "defensa": -0.008,
      "neto": -0.255,
-     "peso": 40.5,
+     "peso": 40.4,
      "fiable": true
     },
     "forma_local": {
@@ -1738,7 +1738,7 @@
    "prediccion": {
     "prob_1": 0.762,
     "prob_X": 0.156,
-    "prob_2": 0.082,
+    "prob_2": 0.083,
     "goles_esperados": [
      2.438,
      0.675
@@ -2003,7 +2003,7 @@
     "prob_X": 0.154,
     "prob_2": 0.07,
     "goles_esperados": [
-     2.363,
+     2.364,
      0.565
     ],
     "prob_over_2_5": 0.561,
@@ -2160,7 +2160,7 @@
     "cuotas_justas": [
      1.88,
      4.12,
-     4.44
+     4.45
     ],
     "resumen": "Gana Manchester United FC (ligero favorito, 53%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -2170,14 +2170,14 @@
      "ataque": 0.199,
      "defensa": 0.067,
      "neto": 0.266,
-     "peso": 44.8,
+     "peso": 44.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.027,
      "defensa": -0.071,
      "neto": -0.044,
-     "peso": 44.8,
+     "peso": 44.7,
      "fiable": true
     },
     "forma_local": {
@@ -2312,7 +2312,7 @@
      "ataque": -0.35,
      "defensa": 0.052,
      "neto": -0.298,
-     "peso": 35.4,
+     "peso": 35.3,
      "fiable": true
     },
     "forma_local": {
@@ -2759,7 +2759,7 @@
      ],
      [
       "1-0",
-      0.1163
+      0.1164
      ],
      [
       "2-0",
@@ -2855,7 +2855,7 @@
    "visitante": "Villarreal CF",
    "prediccion": {
     "prob_1": 0.66,
-    "prob_X": 0.179,
+    "prob_X": 0.18,
     "prob_2": 0.16,
     "goles_esperados": [
      2.47,

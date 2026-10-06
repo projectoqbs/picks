@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-11",
- "actualizado": "2026-10-06T12:30:54+00:00",
+ "actualizado": "2026-10-06T19:16:45+00:00",
  "partidos": [
   {
    "id": 558585,
@@ -35,7 +35,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.92,
+     2.93,
      3.64,
      2.61
     ],
@@ -54,7 +54,7 @@
      "ataque": 0.364,
      "defensa": 0.37,
      "neto": 0.733,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "forma_local": {
@@ -162,7 +162,7 @@
     "cuotas_justas": [
      2.47,
      4.03,
-     2.87
+     2.88
     ],
     "resumen": "Partido parejo. ambos marcan.",
     "confianza": "alta"
@@ -283,7 +283,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.053,
+     "ataque": -0.054,
      "defensa": 0.031,
      "neto": -0.022,
      "peso": 40.4,
@@ -390,18 +390,18 @@
     "prob_2": 0.237,
     "goles_esperados": [
      1.13,
-     0.775
+     0.774
     ],
-    "prob_over_2_5": 0.298,
+    "prob_over_2_5": 0.297,
     "prob_btts": 0.378,
     "marcadores": [
      [
       "0-0",
-      0.162
+      0.1621
      ],
      [
       "1-0",
-      0.155
+      0.1551
      ],
      [
       "1-1",
@@ -421,7 +421,7 @@
     "fuerza_local": {
      "ataque": -0.049,
      "defensa": 0.366,
-     "neto": 0.317,
+     "neto": 0.318,
      "peso": 4.7,
      "fiable": false
     },
@@ -429,7 +429,7 @@
      "ataque": -0.105,
      "defensa": 0.209,
      "neto": 0.104,
-     "peso": 44.8,
+     "peso": 44.7,
      "fiable": true
     },
     "forma_local": {
@@ -463,11 +463,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Hull City AFC es más fuerte de fondo (neto +0.32 vs +0.10): encaja ~31% menos. Hull City AFC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.13 – 0.78; el modelo ve marcando más a Hull City AFC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Hull City AFC: tomalo con pinzas.",
+    "explicacion": "Hull City AFC es más fuerte de fondo (neto +0.32 vs +0.10): encaja ~31% menos. Hull City AFC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.13 – 0.77; el modelo ve marcando más a Hull City AFC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Hull City AFC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.702,
-     "por_que": "Pocos goles esperados en total (1.13 + 0.78 = 1.90); la defensa de Hull City AFC aprieta. El modelo ve el partido cerrado (70% al under).",
+     "prob": 0.703,
+     "por_que": "Pocos goles esperados en total (1.13 + 0.77 = 1.90); la defensa de Hull City AFC aprieta. El modelo ve el partido cerrado (70% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
       "prob": 0.874
@@ -633,7 +633,7 @@
      ],
      [
       "1-1",
-      0.1267
+      0.1266
      ],
      [
       "0-0",
@@ -757,7 +757,7 @@
     "prob_2": 0.156,
     "goles_esperados": [
      1.895,
-     0.827
+     0.828
     ],
     "prob_over_2_5": 0.512,
     "prob_btts": 0.48,
@@ -794,8 +794,8 @@
     "fuerza_visitante": {
      "ataque": -0.146,
      "defensa": -0.32,
-     "neto": -0.466,
-     "peso": 22.0,
+     "neto": -0.467,
+     "peso": 21.9,
      "fiable": true
     },
     "forma_local": {
@@ -913,7 +913,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.099,
+     "ataque": -0.098,
      "defensa": -0.155,
      "neto": -0.253,
      "peso": 29.5,
@@ -1051,7 +1051,7 @@
     "fuerza_visitante": {
      "ataque": 0.078,
      "defensa": 0.073,
-     "neto": 0.152,
+     "neto": 0.151,
      "peso": 6.6,
      "fiable": false
     },
@@ -1138,7 +1138,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.226,
+     "ataque": 0.225,
      "defensa": -0.004,
      "neto": 0.221,
      "peso": 40.4,
@@ -1275,7 +1275,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.297,
-     "defensa": 0.373,
+     "defensa": 0.372,
      "neto": 0.075,
      "peso": 3.8,
      "fiable": false
@@ -1337,7 +1337,7 @@
     "prob_2": 0.421,
     "goles_esperados": [
      1.409,
-     1.646
+     1.647
     ],
     "prob_over_2_5": 0.589,
     "prob_btts": 0.621,
@@ -1368,13 +1368,13 @@
      "ataque": 0.338,
      "defensa": 0.173,
      "neto": 0.511,
-     "peso": 44.8,
+     "peso": 44.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.456,
      "defensa": 0.375,
-     "neto": 0.831,
+     "neto": 0.832,
      "peso": 44.8,
      "fiable": true
     },
@@ -1631,7 +1631,7 @@
      "ataque": 0.195,
      "defensa": 0.145,
      "neto": 0.34,
-     "peso": 46.9,
+     "peso": 46.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1746,11 +1746,11 @@
      ],
      [
       "0-2",
-      0.0873
+      0.0872
      ],
      [
       "1-1",
-      0.0847
+      0.0846
      ]
     ],
     "cuotas_justas": [
@@ -1764,7 +1764,7 @@
    "nota": "pocos datos: 'ES Troyes AC' solo tiene 4.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.242,
+     "ataque": -0.241,
      "defensa": -0.345,
      "neto": -0.586,
      "peso": 4.7,
@@ -1774,7 +1774,7 @@
      "ataque": 0.303,
      "defensa": 0.079,
      "neto": 0.382,
-     "peso": 40.5,
+     "peso": 40.4,
      "fiable": true
     },
     "forma_local": {
@@ -1815,7 +1815,7 @@
      "por_que": "Doble oportunidad: cubre que ES Troyes AC no gane. El escenario que queda afuera (gane ES Troyes AC) es el menos probable (16%), así que el mercado se cumple ~84% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.865
+      "prob": 0.866
      },
      "confianza": "baja"
     }
@@ -1846,7 +1846,7 @@
      ],
      [
       "1-1",
-      0.1216
+      0.1215
      ],
      [
       "0-2",
@@ -1854,7 +1854,7 @@
      ]
     ],
     "cuotas_justas": [
-     4.97,
+     4.96,
      3.82,
      1.86
     ],
@@ -1977,7 +1977,7 @@
     "marcadores": [
      [
       "1-1",
-      0.0878
+      0.0879
      ],
      [
       "2-1",

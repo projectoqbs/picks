@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-14",
- "actualizado": "2026-10-06T12:30:54+00:00",
+ "actualizado": "2026-10-06T19:16:45+00:00",
  "partidos": [
   {
    "id": 575350,
@@ -45,7 +45,7 @@
    "nota": "pocos datos: 'LASK Linz' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.258,
+     "ataque": -0.259,
      "defensa": 0.124,
      "neto": -0.134,
      "peso": 0.9,
@@ -109,7 +109,7 @@
    "prediccion": {
     "prob_1": 0.285,
     "prob_X": 0.186,
-    "prob_2": 0.529,
+    "prob_2": 0.53,
     "goles_esperados": [
      1.837,
      2.505
@@ -247,7 +247,7 @@
      "ataque": 0.524,
      "defensa": 0.141,
      "neto": 0.665,
-     "peso": 15.7,
+     "peso": 15.6,
      "fiable": true
     },
     "forma_local": {
@@ -315,7 +315,7 @@
      ],
      [
       "1-1",
-      0.0729
+      0.073
      ],
      [
       "1-3",
@@ -530,7 +530,7 @@
      ],
      [
       "1-0",
-      0.1036
+      0.1035
      ],
      [
       "2-1",
@@ -614,7 +614,7 @@
     "prob_X": 0.163,
     "prob_2": 0.153,
     "goles_esperados": [
-     2.632,
+     2.634,
      1.192
     ],
     "prob_over_2_5": 0.735,
@@ -644,14 +644,14 @@
    "nota": "pocos datos: 'Real Betis Balompié' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.389,
+     "ataque": 0.39,
      "defensa": 0.024,
-     "neto": 0.413,
+     "neto": 0.414,
      "peso": 0.9,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": -0.069,
+     "ataque": -0.07,
      "defensa": -0.02,
      "neto": -0.09,
      "peso": 2.1,
@@ -726,11 +726,11 @@
      ],
      [
       "0-1",
-      0.1183
+      0.1184
      ]
     ],
     "cuotas_justas": [
-     2.65,
+     2.66,
      3.6,
      2.9
     ],
@@ -838,12 +838,12 @@
     "fuerza_local": {
      "ataque": -0.173,
      "defensa": -0.457,
-     "neto": -0.63,
+     "neto": -0.631,
      "peso": 3.1,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.063,
+     "ataque": 0.062,
      "defensa": -0.093,
      "neto": -0.03,
      "peso": 3.1,
