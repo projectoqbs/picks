@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-11",
- "actualizado": "2026-10-07T12:24:14+00:00",
+ "actualizado": "2026-10-07T19:41:14+00:00",
  "partidos": [
   {
    "id": 558585,
@@ -35,7 +35,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.92,
+     2.93,
      3.64,
      2.61
     ],
@@ -54,7 +54,7 @@
      "ataque": 0.364,
      "defensa": 0.37,
      "neto": 0.733,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "forma_local": {
@@ -266,7 +266,7 @@
      ],
      [
       "1-2",
-      0.0867
+      0.0866
      ],
      [
       "2-1",
@@ -283,10 +283,10 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.053,
+     "ataque": -0.054,
      "defensa": 0.031,
      "neto": -0.022,
-     "peso": 40.4,
+     "peso": 40.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -525,7 +525,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.003,
+     "ataque": 0.002,
      "defensa": 0.121,
      "neto": 0.123,
      "peso": 44.6,
@@ -653,14 +653,14 @@
      "ataque": -0.378,
      "defensa": -0.08,
      "neto": -0.458,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.092,
      "defensa": 0.099,
      "neto": 0.191,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "forma_local": {
@@ -764,7 +764,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1232
+      0.1231
      ],
      [
       "2-0",
@@ -788,7 +788,7 @@
      "ataque": 0.082,
      "defensa": 0.179,
      "neto": 0.261,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -913,8 +913,8 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.098,
-     "defensa": -0.155,
+     "ataque": -0.099,
+     "defensa": -0.154,
      "neto": -0.253,
      "peso": 29.4,
      "fiable": true
@@ -1045,7 +1045,7 @@
      "ataque": 0.113,
      "defensa": -0.028,
      "neto": 0.085,
-     "peso": 46.8,
+     "peso": 46.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1141,7 +1141,7 @@
      "ataque": 0.225,
      "defensa": -0.004,
      "neto": 0.221,
-     "peso": 40.4,
+     "peso": 40.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1237,7 +1237,7 @@
     "prob_X": 0.311,
     "prob_2": 0.281,
     "goles_esperados": [
-     1.21,
+     1.211,
      0.961
     ],
     "prob_over_2_5": 0.37,
@@ -1249,7 +1249,7 @@
      ],
      [
       "1-0",
-      0.1276
+      0.1275
      ],
      [
       "0-0",
@@ -1270,11 +1270,11 @@
      "ataque": 0.076,
      "defensa": 0.022,
      "neto": 0.098,
-     "peso": 39.8,
+     "peso": 39.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.297,
+     "ataque": -0.296,
      "defensa": 0.372,
      "neto": 0.075,
      "peso": 3.8,
@@ -1365,10 +1365,10 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.338,
+     "ataque": 0.337,
      "defensa": 0.173,
      "neto": 0.511,
-     "peso": 44.7,
+     "peso": 44.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1731,18 +1731,18 @@
    "visitante": "Olympique de Marseille",
    "prediccion": {
     "prob_1": 0.157,
-    "prob_X": 0.19,
+    "prob_X": 0.191,
     "prob_2": 0.652,
     "goles_esperados": [
      1.101,
-     2.376
+     2.375
     ],
     "prob_over_2_5": 0.675,
     "prob_btts": 0.609,
     "marcadores": [
      [
       "1-2",
-      0.096
+      0.0961
      ],
      [
       "0-2",
@@ -1754,7 +1754,7 @@
      ]
     ],
     "cuotas_justas": [
-     6.37,
+     6.36,
      5.25,
      1.53
     ],
@@ -1765,7 +1765,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.241,
-     "defensa": -0.345,
+     "defensa": -0.344,
      "neto": -0.586,
      "peso": 4.7,
      "fiable": false
@@ -1946,7 +1946,7 @@
     "explicacion": "Juventus FC es más fuerte de fondo (neto +0.61 vs -0.11): ataca ~30% más que el promedio, encaja ~29% menos. Cagliari Calcio juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.82 – 1.52; el modelo ve marcando más a Juventus FC. Pero ojo: en forma reciente Cagliari Calcio llega mejor que Juventus FC, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.799,
+     "prob": 0.798,
      "por_que": "Doble oportunidad: cubre que Cagliari Calcio no gane. El escenario que queda afuera (gane Cagliari Calcio) es el menos probable (20%), así que el mercado se cumple ~80% de las veces.",
      "alternativa": {
       "mercado": "Menos de 2.5 goles",

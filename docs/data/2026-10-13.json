@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-13",
- "actualizado": "2026-10-07T12:24:14+00:00",
+ "actualizado": "2026-10-07T19:41:14+00:00",
  "partidos": [
   {
    "id": 575341,
@@ -16,7 +16,7 @@
     "prob_2": 0.436,
     "goles_esperados": [
      1.527,
-     1.755
+     1.754
     ],
     "prob_over_2_5": 0.637,
     "prob_btts": 0.644,
@@ -52,7 +52,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.174,
+     "ataque": 0.173,
      "defensa": 0.297,
      "neto": 0.471,
      "peso": 10.9,
@@ -115,7 +115,7 @@
     "prob_X": 0.227,
     "prob_2": 0.283,
     "goles_esperados": [
-     1.762,
+     1.763,
      1.285
     ],
     "prob_over_2_5": 0.587,
@@ -142,13 +142,13 @@
     "resumen": "Gana Sabah FK (ligero favorito, 49%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Sabah FK' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Sabah FK' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.299,
      "defensa": -0.3,
-     "neto": -0.6,
-     "peso": 1.0,
+     "neto": -0.599,
+     "peso": 0.9,
      "fiable": false
     },
     "fuerza_visitante": {
@@ -192,7 +192,7 @@
      "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.76 y 1.28. Probabilidad: 60%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.804
+      "prob": 0.805
      },
      "confianza": "baja"
     }
@@ -318,7 +318,7 @@
     "marcadores": [
      [
       "1-2",
-      0.0815
+      0.0816
      ],
      [
       "2-2",
@@ -405,11 +405,11 @@
    "local": "Club Atlético de Madrid",
    "visitante": "Manchester United FC",
    "prediccion": {
-    "prob_1": 0.565,
+    "prob_1": 0.566,
     "prob_X": 0.188,
     "prob_2": 0.246,
     "goles_esperados": [
-     2.403,
+     2.404,
      1.561
     ],
     "prob_over_2_5": 0.757,
@@ -505,7 +505,7 @@
    "local": "Arsenal FC",
    "visitante": "Lille OSC",
    "prediccion": {
-    "prob_1": 0.758,
+    "prob_1": 0.759,
     "prob_X": 0.149,
     "prob_2": 0.092,
     "goles_esperados": [
@@ -541,7 +541,7 @@
     "fuerza_local": {
      "ataque": 0.395,
      "defensa": 0.756,
-     "neto": 1.151,
+     "neto": 1.152,
      "peso": 16.1,
      "fiable": true
     },
@@ -586,11 +586,11 @@
     "explicacion": "Arsenal FC es más fuerte de fondo (neto +1.15 vs +0.23): ataca ~48% más que el promedio, encaja ~53% menos. Arsenal FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.50 – 0.74; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (2G-2E-1P vs 1G-1E-3P). El modelo tiene pocos datos de Lille OSC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.758,
+     "prob": 0.759,
      "por_que": "Arsenal FC es favorito en casa: marca más (2.50 vs 0.74) y es más fuerte de fondo (neto +1.15 vs +0.23). Probabilidad: 76%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.907
+      "prob": 0.908
      },
      "confianza": "baja"
     }
@@ -625,7 +625,7 @@
      ],
      [
       "0-3",
-      0.0758
+      0.0757
      ]
     ],
     "cuotas_justas": [
@@ -727,7 +727,7 @@
     "cuotas_justas": [
      2.82,
      4.68,
-     2.32
+     2.31
     ],
     "resumen": "Gana PSV (ligero favorito, 43%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"

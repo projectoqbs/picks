@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-14",
- "actualizado": "2026-10-07T12:24:14+00:00",
+ "actualizado": "2026-10-07T19:41:14+00:00",
  "partidos": [
   {
    "id": 575350,
@@ -138,7 +138,7 @@
     "resumen": "Gana Como 1907 (ligero favorito, 53%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Como 1907' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Como 1907' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.094,
@@ -151,7 +151,7 @@
      "ataque": 0.383,
      "defensa": 0.045,
      "neto": 0.427,
-     "peso": 1.0,
+     "peso": 0.9,
      "fiable": false
     },
     "forma_local": {
@@ -234,13 +234,13 @@
     "resumen": "Gana Real Madrid CF (ligero favorito, 50%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'AS Roma' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'AS Roma' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.057,
      "defensa": 0.124,
      "neto": 0.067,
-     "peso": 1.0,
+     "peso": 0.9,
      "fiable": false
     },
     "fuerza_visitante": {
@@ -450,7 +450,7 @@
      "ataque": 0.268,
      "defensa": 0.065,
      "neto": 0.333,
-     "peso": 12.9,
+     "peso": 12.8,
      "fiable": true
     },
     "forma_local": {
@@ -545,7 +545,7 @@
     "resumen": "Gana Aston Villa FC (claro favorito, 69%). se esperan goles (+2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Fenerbahçe SK' solo tiene 1.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Fenerbahçe SK' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.305,
@@ -558,7 +558,7 @@
      "ataque": -0.124,
      "defensa": 0.057,
      "neto": -0.067,
-     "peso": 1.0,
+     "peso": 0.9,
      "fiable": false
     },
     "forma_local": {
@@ -804,9 +804,9 @@
    "prediccion": {
     "prob_1": 0.286,
     "prob_X": 0.2,
-    "prob_2": 0.515,
+    "prob_2": 0.514,
     "goles_esperados": [
-     1.613,
+     1.614,
      2.2
     ],
     "prob_over_2_5": 0.733,
