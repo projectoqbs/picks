@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-13",
- "actualizado": "2026-10-06T19:16:45+00:00",
+ "actualizado": "2026-10-07T12:24:14+00:00",
  "partidos": [
   {
    "id": 575341,
@@ -31,7 +31,7 @@
      ],
      [
       "2-1",
-      0.0768
+      0.0769
      ]
     ],
     "cuotas_justas": [
@@ -53,7 +53,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.174,
-     "defensa": 0.298,
+     "defensa": 0.297,
      "neto": 0.471,
      "peso": 10.9,
      "fiable": true
@@ -146,7 +146,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.299,
-     "defensa": -0.301,
+     "defensa": -0.3,
      "neto": -0.6,
      "peso": 1.0,
      "fiable": false
@@ -223,7 +223,7 @@
      ],
      [
       "1-1",
-      0.0885
+      0.0886
      ],
      [
       "2-0",
@@ -233,7 +233,7 @@
     "cuotas_justas": [
      1.63,
      5.1,
-     5.2
+     5.21
     ],
     "resumen": "Gana FC Internazionale Milano (claro favorito, 61%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -342,7 +342,7 @@
      "ataque": 0.019,
      "defensa": -0.053,
      "neto": -0.035,
-     "peso": 8.8,
+     "peso": 8.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -405,11 +405,11 @@
    "local": "Club Atlético de Madrid",
    "visitante": "Manchester United FC",
    "prediccion": {
-    "prob_1": 0.566,
+    "prob_1": 0.565,
     "prob_X": 0.188,
     "prob_2": 0.246,
     "goles_esperados": [
-     2.404,
+     2.403,
      1.561
     ],
     "prob_over_2_5": 0.757,
@@ -421,7 +421,7 @@
      ],
      [
       "1-1",
-      0.069
+      0.0691
      ],
      [
       "3-1",
@@ -446,7 +446,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.28,
+     "ataque": 0.279,
      "defensa": 0.1,
      "neto": 0.379,
      "peso": 1.7,
@@ -505,7 +505,7 @@
    "local": "Arsenal FC",
    "visitante": "Lille OSC",
    "prediccion": {
-    "prob_1": 0.759,
+    "prob_1": 0.758,
     "prob_X": 0.149,
     "prob_2": 0.092,
     "goles_esperados": [
@@ -540,9 +540,9 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.395,
-     "defensa": 0.757,
-     "neto": 1.152,
-     "peso": 16.2,
+     "defensa": 0.756,
+     "neto": 1.151,
+     "peso": 16.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -586,11 +586,11 @@
     "explicacion": "Arsenal FC es más fuerte de fondo (neto +1.15 vs +0.23): ataca ~48% más que el promedio, encaja ~53% menos. Arsenal FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.50 – 0.74; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (2G-2E-1P vs 1G-1E-3P). El modelo tiene pocos datos de Lille OSC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.759,
+     "prob": 0.758,
      "por_que": "Arsenal FC es favorito en casa: marca más (2.50 vs 0.74) y es más fuerte de fondo (neto +1.15 vs +0.23). Probabilidad: 76%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.908
+      "prob": 0.907
      },
      "confianza": "baja"
     }
@@ -610,7 +610,7 @@
     "prob_2": 0.777,
     "goles_esperados": [
      1.082,
-     3.123
+     3.122
     ],
     "prob_over_2_5": 0.79,
     "prob_btts": 0.63,
@@ -629,7 +629,7 @@
      ]
     ],
     "cuotas_justas": [
-     10.18,
+     10.17,
      8.01,
      1.29
     ],
@@ -639,8 +639,8 @@
    "nota": "pocos datos: 'Viking FK' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.102,
-     "defensa": -0.228,
+     "ataque": -0.101,
+     "defensa": -0.227,
      "neto": -0.329,
      "peso": 0.9,
      "fiable": false
@@ -706,7 +706,7 @@
     "prob_2": 0.432,
     "goles_esperados": [
      1.691,
-     1.884
+     1.883
     ],
     "prob_over_2_5": 0.693,
     "prob_btts": 0.689,
@@ -727,24 +727,24 @@
     "cuotas_justas": [
      2.82,
      4.68,
-     2.31
+     2.32
     ],
     "resumen": "Gana PSV (ligero favorito, 43%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'RB Leipzig' solo tiene 4.3 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'RB Leipzig' solo tiene 4.2 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.102,
      "defensa": -0.117,
      "neto": -0.219,
-     "peso": 4.3,
+     "peso": 4.2,
      "fiable": false
     },
     "fuerza_visitante": {
      "ataque": 0.247,
      "defensa": -0.069,
-     "neto": 0.179,
+     "neto": 0.178,
      "peso": 9.9,
      "fiable": true
     },
@@ -783,7 +783,7 @@
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.693,
-     "por_que": "Bastantes goles esperados (1.69 + 1.88 = 3.58); al menos una defensa floja. Probabilidad al over: 69%.",
+     "por_que": "Bastantes goles esperados (1.69 + 1.88 = 3.57); al menos una defensa floja. Probabilidad al over: 69%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.869
@@ -805,7 +805,7 @@
     "prob_X": 0.263,
     "prob_2": 0.396,
     "goles_esperados": [
-     1.184,
+     1.185,
      1.298
     ],
     "prob_over_2_5": 0.452,
@@ -813,7 +813,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1246
+      0.1245
      ],
      [
       "0-1",
@@ -821,7 +821,7 @@
      ],
      [
       "1-0",
-      0.1029
+      0.1028
      ]
     ],
     "cuotas_justas": [
@@ -836,8 +836,8 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.367,
-     "defensa": -0.288,
-     "neto": -0.655,
+     "defensa": -0.287,
+     "neto": -0.654,
      "peso": 5.3,
      "fiable": false
     },
@@ -879,10 +879,10 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "SSC Napoli es más fuerte de fondo (neto -0.27 vs -0.66): es más completo en general. Villarreal CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.18 – 1.30; el modelo ve marcando más a SSC Napoli. Y la forma reciente lo confirma: SSC Napoli llega mejor (1G-1E-3P vs 0G-0E-5P). El modelo tiene pocos datos de Villarreal CF: tomalo con pinzas.",
+    "explicacion": "SSC Napoli es más fuerte de fondo (neto -0.27 vs -0.65): es más completo en general. Villarreal CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.19 – 1.30; el modelo ve marcando más a SSC Napoli. Y la forma reciente lo confirma: SSC Napoli llega mejor (1G-1E-3P vs 0G-0E-5P). El modelo tiene pocos datos de Villarreal CF: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.659,
+     "prob": 0.658,
      "por_que": "Doble oportunidad: cubre que Villarreal CF no gane. El escenario que queda afuera (gane Villarreal CF) es el menos probable (34%), así que el mercado se cumple ~66% de las veces.",
      "alternativa": null,
      "confianza": "baja"

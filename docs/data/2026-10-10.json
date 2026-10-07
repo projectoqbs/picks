@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-10",
- "actualizado": "2026-10-06T19:16:45+00:00",
+ "actualizado": "2026-10-07T12:24:14+00:00",
  "partidos": [
   {
    "id": 560593,
@@ -47,7 +47,7 @@
      "ataque": 0.338,
      "defensa": 0.601,
      "neto": 0.939,
-     "peso": 44.7,
+     "peso": 44.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -137,7 +137,7 @@
     "marcadores": [
      [
       "1-1",
-      0.136
+      0.1361
      ],
      [
       "1-0",
@@ -161,7 +161,7 @@
      "ataque": -0.091,
      "defensa": 0.104,
      "neto": 0.013,
-     "peso": 46.9,
+     "peso": 46.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -296,14 +296,14 @@
      "ataque": -0.112,
      "defensa": -0.029,
      "neto": -0.141,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.097,
      "defensa": -0.025,
      "neto": 0.072,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "forma_local": {
@@ -376,7 +376,7 @@
     "explicacion": "ACF Fiorentina es más fuerte de fondo (neto +0.07 vs -0.14): es más completo en general. Genoa CFC juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.16 – 1.30; el modelo ve marcando más a ACF Fiorentina. Y la forma reciente lo confirma: ACF Fiorentina llega mejor (1G-1E-3P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.67,
+     "prob": 0.671,
      "por_que": "Doble oportunidad: cubre que Genoa CFC no gane. El escenario que queda afuera (gane Genoa CFC) es el menos probable (33%), así que el mercado se cumple ~67% de las veces.",
      "alternativa": {
       "mercado": "Menos de 2.5 goles",
@@ -438,7 +438,7 @@
      "ataque": 0.347,
      "defensa": 0.235,
      "neto": 0.582,
-     "peso": 39.9,
+     "peso": 39.8,
      "fiable": true
     },
     "forma_local": {
@@ -530,12 +530,12 @@
    "local": "SC Paderborn 07",
    "visitante": "VfB Stuttgart",
    "prediccion": {
-    "prob_1": 0.264,
+    "prob_1": 0.265,
     "prob_X": 0.28,
     "prob_2": 0.456,
     "goles_esperados": [
      1.071,
-     1.478
+     1.479
     ],
     "prob_over_2_5": 0.469,
     "prob_btts": 0.517,
@@ -546,7 +546,7 @@
      ],
      [
       "0-1",
-      0.1058
+      0.1057
      ],
      [
       "1-2",
@@ -565,7 +565,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.329,
-     "defensa": 0.191,
+     "defensa": 0.19,
      "neto": -0.139,
      "peso": 3.8,
      "fiable": false
@@ -574,7 +574,7 @@
      "ataque": 0.303,
      "defensa": 0.089,
      "neto": 0.392,
-     "peso": 39.8,
+     "peso": 39.7,
      "fiable": true
     },
     "forma_local": {
@@ -638,7 +638,7 @@
     "marcadores": [
      [
       "1-1",
-      0.0965
+      0.0966
      ],
      [
       "1-2",
@@ -875,14 +875,14 @@
      "ataque": -0.046,
      "defensa": -0.023,
      "neto": -0.068,
-     "peso": 39.8,
+     "peso": 39.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.764,
      "defensa": 0.362,
      "neto": 1.125,
-     "peso": 39.8,
+     "peso": 39.7,
      "fiable": true
     },
     "forma_local": {
@@ -1017,7 +1017,7 @@
      "ataque": 0.235,
      "defensa": 0.101,
      "neto": 0.336,
-     "peso": 44.7,
+     "peso": 44.6,
      "fiable": true
     },
     "forma_local": {
@@ -1263,7 +1263,7 @@
      "ataque": -0.023,
      "defensa": 0.063,
      "neto": 0.04,
-     "peso": 44.7,
+     "peso": 44.6,
      "fiable": true
     },
     "forma_local": {
@@ -1346,7 +1346,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1232
+      0.1231
      ],
      [
       "2-1",
@@ -1370,7 +1370,7 @@
      "ataque": 0.151,
      "defensa": 0.062,
      "neto": 0.213,
-     "peso": 44.7,
+     "peso": 44.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1509,7 +1509,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.361,
+     "ataque": 0.362,
      "defensa": 0.264,
      "neto": 0.625,
      "peso": 46.8,
@@ -1582,7 +1582,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Club Atlético de Madrid es más fuerte de fondo (neto +0.62 vs +0.03): ataca ~43% más que el promedio, encaja ~23% menos. Deportivo Alavés juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.07 – 1.46; el modelo ve marcando más a Club Atlético de Madrid. Y la forma reciente lo confirma: Club Atlético de Madrid llega mejor (4G-0E-1P vs 2G-1E-2P).",
+    "explicacion": "Club Atlético de Madrid es más fuerte de fondo (neto +0.62 vs +0.03): ataca ~44% más que el promedio, encaja ~23% menos. Deportivo Alavés juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.07 – 1.46; el modelo ve marcando más a Club Atlético de Madrid. Y la forma reciente lo confirma: Club Atlético de Madrid llega mejor (4G-0E-1P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.723,
@@ -1772,14 +1772,14 @@
      "ataque": 0.663,
      "defensa": 0.259,
      "neto": 0.922,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.27,
      "defensa": 0.008,
      "neto": -0.262,
-     "peso": 39.3,
+     "peso": 39.2,
      "fiable": true
     },
     "forma_local": {
@@ -1907,7 +1907,7 @@
      "ataque": 0.202,
      "defensa": -0.093,
      "neto": 0.108,
-     "peso": 39.8,
+     "peso": 39.7,
      "fiable": true
     },
     "forma_local": {
@@ -2003,7 +2003,7 @@
     "prob_X": 0.154,
     "prob_2": 0.07,
     "goles_esperados": [
-     2.364,
+     2.363,
      0.565
     ],
     "prob_over_2_5": 0.561,
@@ -2042,7 +2042,7 @@
      "ataque": -0.368,
      "defensa": 0.294,
      "neto": -0.074,
-     "peso": 46.9,
+     "peso": 46.8,
      "fiable": true
     },
     "forma_local": {
@@ -2160,7 +2160,7 @@
     "cuotas_justas": [
      1.88,
      4.12,
-     4.45
+     4.44
     ],
     "resumen": "Gana Manchester United FC (ligero favorito, 53%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -2273,7 +2273,7 @@
     "prob_X": 0.271,
     "prob_2": 0.224,
     "goles_esperados": [
-     1.512,
+     1.513,
      0.921
     ],
     "prob_over_2_5": 0.439,
@@ -2305,7 +2305,7 @@
      "ataque": 0.049,
      "defensa": -0.05,
      "neto": -0.001,
-     "peso": 40.5,
+     "peso": 40.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2433,7 +2433,7 @@
      "ataque": 0.004,
      "defensa": 0.001,
      "neto": 0.005,
-     "peso": 30.2,
+     "peso": 30.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2512,7 +2512,7 @@
     "prob_X": 0.145,
     "prob_2": 0.103,
     "goles_esperados": [
-     2.919,
+     2.918,
      1.051
     ],
     "prob_over_2_5": 0.757,
@@ -2545,12 +2545,12 @@
      "ataque": 0.515,
      "defensa": 0.38,
      "neto": 0.895,
-     "peso": 40.5,
+     "peso": 40.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.212,
-     "defensa": -0.14,
+     "defensa": -0.139,
      "neto": 0.073,
      "peso": 4.7,
      "fiable": false
@@ -2643,15 +2643,15 @@
     "fuerza_local": {
      "ataque": 0.309,
      "defensa": 0.111,
-     "neto": 0.42,
-     "peso": 40.4,
+     "neto": 0.419,
+     "peso": 40.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.039,
      "defensa": 0.043,
      "neto": 0.082,
-     "peso": 39.7,
+     "peso": 39.6,
      "fiable": true
     },
     "forma_local": {
@@ -2759,7 +2759,7 @@
      ],
      [
       "1-0",
-      0.1164
+      0.1163
      ],
      [
       "2-0",
@@ -2786,7 +2786,7 @@
      "ataque": 0.151,
      "defensa": -0.032,
      "neto": 0.119,
-     "peso": 10.5,
+     "peso": 10.4,
      "fiable": true
     },
     "forma_local": {
@@ -2887,7 +2887,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.537,
+     "ataque": 0.536,
      "defensa": 0.364,
      "neto": 0.9,
      "peso": 46.8,
@@ -2897,7 +2897,7 @@
      "ataque": 0.408,
      "defensa": 0.023,
      "neto": 0.431,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "forma_local": {

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-09",
- "actualizado": "2026-10-06T19:16:45+00:00",
+ "actualizado": "2026-10-07T12:24:14+00:00",
  "partidos": [
   {
    "id": 565820,
@@ -46,8 +46,8 @@
     "fuerza_local": {
      "ataque": 0.317,
      "defensa": 0.344,
-     "neto": 0.662,
-     "peso": 39.8,
+     "neto": 0.661,
+     "peso": 39.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -131,7 +131,7 @@
      "por_que": "Borussia Dortmund es favorito en casa: marca más (2.35 vs 0.85) y es más fuerte de fondo (neto +0.66 vs -0.15). Probabilidad: 70%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.889
+      "prob": 0.888
      },
      "confianza": "alta"
     }
@@ -283,9 +283,9 @@
    "prediccion": {
     "prob_1": 0.277,
     "prob_X": 0.315,
-    "prob_2": 0.409,
+    "prob_2": 0.408,
     "goles_esperados": [
-     0.844,
+     0.845,
      1.093
     ],
     "prob_over_2_5": 0.306,
@@ -293,7 +293,7 @@
     "marcadores": [
      [
       "0-1",
-      0.1558
+      0.1557
      ],
      [
       "0-0",
@@ -325,7 +325,7 @@
      "ataque": -0.057,
      "defensa": 0.019,
      "neto": -0.038,
-     "peso": 41.2,
+     "peso": 41.1,
      "fiable": true
     },
     "forma_local": {

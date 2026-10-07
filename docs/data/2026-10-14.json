@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-14",
- "actualizado": "2026-10-06T19:16:45+00:00",
+ "actualizado": "2026-10-07T12:24:14+00:00",
  "partidos": [
   {
    "id": 575350,
@@ -23,7 +23,7 @@
     "marcadores": [
      [
       "0-1",
-      0.1534
+      0.1533
      ],
      [
       "1-1",
@@ -31,7 +31,7 @@
      ],
      [
       "0-2",
-      0.1078
+      0.1077
      ]
     ],
     "cuotas_justas": [
@@ -45,7 +45,7 @@
    "nota": "pocos datos: 'LASK Linz' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.259,
+     "ataque": -0.258,
      "defensa": 0.124,
      "neto": -0.134,
      "peso": 0.9,
@@ -53,9 +53,9 @@
     },
     "fuerza_visitante": {
      "ataque": 0.22,
-     "defensa": 0.494,
-     "neto": 0.714,
-     "peso": 11.0,
+     "defensa": 0.493,
+     "neto": 0.713,
+     "peso": 10.9,
      "fiable": true
     },
     "forma_local": {
@@ -92,7 +92,7 @@
      "por_que": "Doble oportunidad: cubre que LASK Linz no gane. El escenario que queda afuera (gane LASK Linz) es el menos probable (22%), así que el mercado se cumple ~78% de las veces.",
      "alternativa": {
       "mercado": "Menos de 2.5 goles",
-      "prob": 0.606
+      "prob": 0.605
      },
      "confianza": "baja"
     }
@@ -109,7 +109,7 @@
    "prediccion": {
     "prob_1": 0.285,
     "prob_X": 0.186,
-    "prob_2": 0.53,
+    "prob_2": 0.529,
     "goles_esperados": [
      1.837,
      2.505
@@ -142,7 +142,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.094,
-     "defensa": -0.267,
+     "defensa": -0.266,
      "neto": -0.172,
      "peso": 5.2,
      "fiable": false
@@ -150,7 +150,7 @@
     "fuerza_visitante": {
      "ataque": 0.383,
      "defensa": 0.045,
-     "neto": 0.428,
+     "neto": 0.427,
      "peso": 1.0,
      "fiable": false
     },
@@ -207,7 +207,7 @@
     "prob_X": 0.214,
     "prob_2": 0.5,
     "goles_esperados": [
-     1.433,
+     1.434,
      1.951
     ],
     "prob_over_2_5": 0.657,
@@ -334,7 +334,7 @@
     "fuerza_local": {
      "ataque": 0.198,
      "defensa": 0.16,
-     "neto": 0.359,
+     "neto": 0.358,
      "peso": 11.0,
      "fiable": true
     },
@@ -342,7 +342,7 @@
      "ataque": 0.734,
      "defensa": 0.327,
      "neto": 1.061,
-     "peso": 18.9,
+     "peso": 18.8,
      "fiable": true
     },
     "forma_local": {
@@ -431,7 +431,7 @@
     ],
     "cuotas_justas": [
      2.39,
-     4.89,
+     4.88,
      2.66
     ],
     "resumen": "Partido parejo. se esperan goles (+2.5). ambos marcan.",
@@ -516,7 +516,7 @@
    "prediccion": {
     "prob_1": 0.689,
     "prob_X": 0.178,
-    "prob_2": 0.132,
+    "prob_2": 0.133,
     "goles_esperados": [
      2.24,
      0.86
@@ -549,8 +549,8 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.305,
-     "defensa": 0.296,
-     "neto": 0.601,
+     "defensa": 0.295,
+     "neto": 0.6,
      "peso": 4.5,
      "fiable": false
     },
@@ -595,7 +595,7 @@
      "por_que": "Aston Villa FC es favorito en casa: marca más (2.24 vs 0.86) y es más fuerte de fondo (neto +0.60 vs -0.07). Probabilidad: 69%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.868
+      "prob": 0.867
      },
      "confianza": "baja"
     }
@@ -614,7 +614,7 @@
     "prob_X": 0.163,
     "prob_2": 0.153,
     "goles_esperados": [
-     2.634,
+     2.633,
      1.192
     ],
     "prob_over_2_5": 0.735,
@@ -644,14 +644,14 @@
    "nota": "pocos datos: 'Real Betis Balompié' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.39,
+     "ataque": 0.389,
      "defensa": 0.024,
-     "neto": 0.414,
+     "neto": 0.413,
      "peso": 0.9,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": -0.07,
+     "ataque": -0.069,
      "defensa": -0.02,
      "neto": -0.09,
      "peso": 2.1,
@@ -726,11 +726,11 @@
      ],
      [
       "0-1",
-      0.1184
+      0.1183
      ]
     ],
     "cuotas_justas": [
-     2.66,
+     2.65,
      3.6,
      2.9
     ],
@@ -807,7 +807,7 @@
     "prob_2": 0.515,
     "goles_esperados": [
      1.613,
-     2.201
+     2.2
     ],
     "prob_over_2_5": 0.733,
     "prob_btts": 0.71,
@@ -838,7 +838,7 @@
     "fuerza_local": {
      "ataque": -0.173,
      "defensa": -0.457,
-     "neto": -0.631,
+     "neto": -0.63,
      "peso": 3.1,
      "fiable": false
     },
