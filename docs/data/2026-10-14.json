@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-14",
- "actualizado": "2026-10-08T12:33:23+00:00",
+ "actualizado": "2026-10-08T19:36:34+00:00",
  "partidos": [
   {
    "id": 575350,
@@ -23,7 +23,7 @@
     "marcadores": [
      [
       "0-1",
-      0.1533
+      0.1532
      ],
      [
       "1-1",
@@ -112,7 +112,7 @@
     "prob_2": 0.529,
     "goles_esperados": [
      1.837,
-     2.504
+     2.503
     ],
     "prob_over_2_5": 0.808,
     "prob_btts": 0.77,
@@ -148,7 +148,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.383,
+     "ataque": 0.382,
      "defensa": 0.045,
      "neto": 0.427,
      "peso": 0.9,
@@ -188,7 +188,7 @@
      "por_que": "Bastantes goles esperados (1.84 + 2.50 = 4.34); al menos una defensa floja. Probabilidad al over: 81%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.929
+      "prob": 0.928
      },
      "confianza": "baja"
     }
@@ -315,7 +315,7 @@
      ],
      [
       "1-1",
-      0.073
+      0.0729
      ],
      [
       "1-3",
@@ -447,9 +447,9 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.268,
+     "ataque": 0.267,
      "defensa": 0.065,
-     "neto": 0.333,
+     "neto": 0.332,
      "peso": 12.8,
      "fiable": true
     },
@@ -515,7 +515,7 @@
    "visitante": "Fenerbahçe SK",
    "prediccion": {
     "prob_1": 0.689,
-    "prob_X": 0.179,
+    "prob_X": 0.178,
     "prob_2": 0.133,
     "goles_esperados": [
      2.24,
@@ -526,7 +526,7 @@
     "marcadores": [
      [
       "2-0",
-      0.113
+      0.1129
      ],
      [
       "1-0",
@@ -610,11 +610,11 @@
    "local": "Real Betis Balompié",
    "visitante": "FC Porto",
    "prediccion": {
-    "prob_1": 0.684,
+    "prob_1": 0.683,
     "prob_X": 0.163,
-    "prob_2": 0.153,
+    "prob_2": 0.154,
     "goles_esperados": [
-     2.632,
+     2.631,
      1.192
     ],
     "prob_over_2_5": 0.735,
@@ -644,14 +644,14 @@
    "nota": "pocos datos: 'Real Betis Balompié' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.389,
+     "ataque": 0.388,
      "defensa": 0.024,
-     "neto": 0.413,
+     "neto": 0.412,
      "peso": 0.9,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": -0.069,
+     "ataque": -0.07,
      "defensa": -0.02,
      "neto": -0.09,
      "peso": 2.1,
@@ -684,10 +684,10 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.41 vs -0.09): ataca ~48% más que el promedio. Real Betis Balompié juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.63 – 1.19; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (1G-0E-0P vs 2G-0E-3P). El modelo tiene pocos datos de Real Betis Balompié: tomalo con pinzas.",
+    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.41 vs -0.09): ataca ~47% más que el promedio. Real Betis Balompié juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.63 – 1.19; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (1G-0E-0P vs 2G-0E-3P). El modelo tiene pocos datos de Real Betis Balompié: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.684,
+     "prob": 0.683,
      "por_que": "Real Betis Balompié es favorito en casa: marca más (2.63 vs 1.19) y es más fuerte de fondo (neto +0.41 vs -0.09). Probabilidad: 68%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -726,7 +726,7 @@
      ],
      [
       "0-1",
-      0.1183
+      0.1182
      ]
     ],
     "cuotas_justas": [
@@ -784,7 +784,7 @@
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.605,
-     "por_que": "Pocos goles esperados en total (1.17 + 1.10 = 2.27); la defensa de PAE AEK aprieta. El modelo ve el partido cerrado (61% al under).",
+     "por_que": "Pocos goles esperados en total (1.17 + 1.10 = 2.27); la defensa de PAE AEK aprieta. El modelo ve el partido cerrado (60% al under).",
      "alternativa": {
       "mercado": "X2",
       "prob": 0.623
@@ -806,15 +806,15 @@
     "prob_X": 0.2,
     "prob_2": 0.515,
     "goles_esperados": [
-     1.614,
-     2.201
+     1.615,
+     2.202
     ],
     "prob_over_2_5": 0.734,
     "prob_btts": 0.71,
     "marcadores": [
      [
       "1-2",
-      0.0862
+      0.0861
      ],
      [
       "1-1",
@@ -836,14 +836,14 @@
    "nota": "pocos datos: 'ŠK Slovan Bratislava' solo tiene 3.1 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.173,
+     "ataque": -0.172,
      "defensa": -0.458,
      "neto": -0.63,
      "peso": 3.1,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.062,
+     "ataque": 0.063,
      "defensa": -0.093,
      "neto": -0.03,
      "peso": 3.1,
@@ -895,7 +895,7 @@
      "por_que": "Bastantes goles esperados (1.61 + 2.20 = 3.82); al menos una defensa floja. Probabilidad al over: 73%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.891
+      "prob": 0.892
      },
      "confianza": "baja"
     }
