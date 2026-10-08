@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-09",
- "actualizado": "2026-10-07T19:41:14+00:00",
+ "actualizado": "2026-10-08T12:33:23+00:00",
  "partidos": [
   {
    "id": 565820,
@@ -46,7 +46,7 @@
     "fuerza_local": {
      "ataque": 0.317,
      "defensa": 0.344,
-     "neto": 0.662,
+     "neto": 0.661,
      "peso": 39.7,
      "fiable": true
     },
@@ -182,14 +182,14 @@
      "ataque": 0.221,
      "defensa": 0.221,
      "neto": 0.442,
-     "peso": 40.4,
+     "peso": 40.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.242,
      "defensa": 0.18,
      "neto": 0.422,
-     "peso": 40.4,
+     "peso": 40.3,
      "fiable": true
     },
     "forma_local": {
@@ -288,16 +288,16 @@
      0.845,
      1.093
     ],
-    "prob_over_2_5": 0.306,
+    "prob_over_2_5": 0.307,
     "prob_btts": 0.381,
     "marcadores": [
      [
       "0-1",
-      0.1557
+      0.1556
      ],
      [
       "0-0",
-      0.1458
+      0.1457
      ],
      [
       "1-1",
@@ -315,17 +315,17 @@
    "nota": "pocos datos: 'Málaga CF' solo tiene 6.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.541,
+     "ataque": -0.54,
      "defensa": -0.045,
-     "neto": -0.586,
+     "neto": -0.585,
      "peso": 6.6,
      "fiable": false
     },
     "fuerza_visitante": {
      "ataque": -0.057,
      "defensa": 0.019,
-     "neto": -0.038,
-     "peso": 41.1,
+     "neto": -0.039,
+     "peso": 41.0,
      "fiable": true
     },
     "forma_local": {
@@ -359,10 +359,10 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "RCD Espanyol de Barcelona es más fuerte de fondo (neto -0.04 vs -0.59): es más completo en general. Málaga CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 0.84 – 1.09; el modelo ve marcando más a RCD Espanyol de Barcelona. Y la forma reciente lo confirma: RCD Espanyol de Barcelona llega mejor (1G-1E-3P vs 0G-2E-3P). El modelo tiene pocos datos de Málaga CF: tomalo con pinzas.",
+    "explicacion": "RCD Espanyol de Barcelona es más fuerte de fondo (neto -0.04 vs -0.58): es más completo en general. Málaga CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 0.84 – 1.09; el modelo ve marcando más a RCD Espanyol de Barcelona. Y la forma reciente lo confirma: RCD Espanyol de Barcelona llega mejor (1G-1E-3P vs 0G-2E-3P). El modelo tiene pocos datos de Málaga CF: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.694,
+     "prob": 0.693,
      "por_que": "Pocos goles esperados en total (0.84 + 1.09 = 1.94). El modelo ve el partido cerrado (69% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
