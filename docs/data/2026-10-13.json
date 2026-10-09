@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-13",
- "actualizado": "2026-10-08T19:36:34+00:00",
+ "actualizado": "2026-10-09T12:21:47+00:00",
  "partidos": [
   {
    "id": 575341,
@@ -54,7 +54,7 @@
     "fuerza_visitante": {
      "ataque": 0.173,
      "defensa": 0.297,
-     "neto": 0.471,
+     "neto": 0.47,
      "peso": 10.9,
      "fiable": true
     },
@@ -145,9 +145,9 @@
    "nota": "pocos datos: 'Sabah FK' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.299,
+     "ataque": -0.298,
      "defensa": -0.3,
-     "neto": -0.599,
+     "neto": -0.598,
      "peso": 0.9,
      "fiable": false
     },
@@ -318,7 +318,7 @@
     "marcadores": [
      [
       "1-2",
-      0.0815
+      0.0816
      ],
      [
       "2-2",
@@ -405,11 +405,11 @@
    "local": "Club Atlético de Madrid",
    "visitante": "Manchester United FC",
    "prediccion": {
-    "prob_1": 0.566,
+    "prob_1": 0.565,
     "prob_X": 0.188,
     "prob_2": 0.246,
     "goles_esperados": [
-     2.404,
+     2.403,
      1.561
     ],
     "prob_over_2_5": 0.757,
@@ -421,7 +421,7 @@
      ],
      [
       "1-1",
-      0.069
+      0.0691
      ],
      [
       "3-1",
@@ -442,7 +442,7 @@
      "ataque": 0.418,
      "defensa": 0.103,
      "neto": 0.521,
-     "peso": 15.2,
+     "peso": 15.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -521,7 +521,7 @@
      ],
      [
       "3-0",
-      0.1015
+      0.1014
      ],
      [
       "1-0",
@@ -530,7 +530,7 @@
     ],
     "cuotas_justas": [
      1.32,
-     6.72,
+     6.71,
      10.81
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 76%). se esperan goles (+2.5).",
@@ -548,7 +548,7 @@
     "fuerza_visitante": {
      "ataque": 0.193,
      "defensa": 0.038,
-     "neto": 0.231,
+     "neto": 0.23,
      "peso": 3.8,
      "fiable": false
     },
@@ -610,7 +610,7 @@
     "prob_2": 0.776,
     "goles_esperados": [
      1.083,
-     3.12
+     3.119
     ],
     "prob_over_2_5": 0.79,
     "prob_btts": 0.631,
@@ -621,7 +621,7 @@
      ],
      [
       "1-2",
-      0.0788
+      0.0789
      ],
      [
       "0-3",
@@ -629,8 +629,8 @@
      ]
     ],
     "cuotas_justas": [
-     10.15,
-     8.0,
+     10.14,
+     7.99,
      1.29
     ],
     "resumen": "Gana FC Bayern München (claro favorito, 78%). se esperan goles (+2.5). ambos marcan.",
@@ -705,7 +705,7 @@
     "prob_X": 0.214,
     "prob_2": 0.432,
     "goles_esperados": [
-     1.691,
+     1.692,
      1.883
     ],
     "prob_over_2_5": 0.693,
@@ -717,7 +717,7 @@
      ],
      [
       "1-2",
-      0.0841
+      0.084
      ],
      [
       "2-1",
@@ -727,7 +727,7 @@
     "cuotas_justas": [
      2.82,
      4.68,
-     2.31
+     2.32
     ],
     "resumen": "Gana PSV (ligero favorito, 43%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -783,7 +783,7 @@
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.693,
-     "por_que": "Bastantes goles esperados (1.69 + 1.88 = 3.57); al menos una defensa floja. Probabilidad al over: 69%.",
+     "por_que": "Bastantes goles esperados (1.69 + 1.88 = 3.58); al menos una defensa floja. Probabilidad al over: 69%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.869
@@ -803,9 +803,9 @@
    "prediccion": {
     "prob_1": 0.342,
     "prob_X": 0.263,
-    "prob_2": 0.396,
+    "prob_2": 0.395,
     "goles_esperados": [
-     1.185,
+     1.186,
      1.298
     ],
     "prob_over_2_5": 0.452,
@@ -821,7 +821,7 @@
      ],
      [
       "1-0",
-      0.1029
+      0.1028
      ]
     ],
     "cuotas_justas": [
@@ -842,9 +842,9 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": -0.296,
+     "ataque": -0.295,
      "defensa": 0.022,
-     "neto": -0.274,
+     "neto": -0.273,
      "peso": 6.4,
      "fiable": false
     },
