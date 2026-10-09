@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-17",
- "actualizado": "2026-10-09T12:21:47+00:00",
+ "actualizado": "2026-10-09T19:11:16+00:00",
  "partidos": [
   {
    "id": 560603,
@@ -27,7 +27,7 @@
      ],
      [
       "0-0",
-      0.0882
+      0.0881
      ],
      [
       "1-0",
@@ -178,8 +178,8 @@
     "fuerza_local": {
      "ataque": -0.057,
      "defensa": 0.019,
-     "neto": -0.038,
-     "peso": 41.0,
+     "neto": -0.039,
+     "peso": 40.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -398,7 +398,7 @@
      ],
      [
       "0-2",
-      0.1044
+      0.1045
      ],
      [
       "1-2",
@@ -647,7 +647,7 @@
      ],
      [
       "1-0",
-      0.1222
+      0.1223
      ],
      [
       "0-0",
@@ -674,7 +674,7 @@
     "fuerza_visitante": {
      "ataque": -0.329,
      "defensa": 0.19,
-     "neto": -0.138,
+     "neto": -0.139,
      "peso": 3.8,
      "fiable": false
     },
@@ -734,8 +734,8 @@
     "prob_X": 0.197,
     "prob_2": 0.172,
     "goles_esperados": [
-     2.401,
-     1.209
+     2.402,
+     1.21
     ],
     "prob_over_2_5": 0.699,
     "prob_btts": 0.644,
@@ -863,7 +863,7 @@
    "nota": "pocos datos: 'FC Schalke 04' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.296,
+     "ataque": -0.297,
      "defensa": 0.372,
      "neto": 0.075,
      "peso": 3.8,
@@ -948,7 +948,7 @@
      ],
      [
       "0-1",
-      0.1222
+      0.1221
      ]
     ],
     "cuotas_justas": [
@@ -965,12 +965,12 @@
      "ataque": -0.023,
      "defensa": 0.063,
      "neto": 0.04,
-     "peso": 44.5,
+     "peso": 44.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.049,
-     "defensa": 0.366,
+     "defensa": 0.365,
      "neto": 0.317,
      "peso": 4.7,
      "fiable": false
@@ -1064,7 +1064,7 @@
      "ataque": 0.456,
      "defensa": 0.375,
      "neto": 0.831,
-     "peso": 44.6,
+     "peso": 44.5,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1395,7 +1395,7 @@
     "prob_X": 0.223,
     "prob_2": 0.541,
     "goles_esperados": [
-     1.296,
+     1.295,
      2.038
     ],
     "prob_over_2_5": 0.647,
@@ -1415,7 +1415,7 @@
      ]
     ],
     "cuotas_justas": [
-     4.23,
+     4.24,
      4.49,
      1.85
     ],
@@ -1426,8 +1426,8 @@
     "fuerza_local": {
      "ataque": 0.223,
      "defensa": 0.021,
-     "neto": 0.244,
-     "peso": 40.3,
+     "neto": 0.243,
+     "peso": 40.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1504,7 +1504,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.90 vs +0.24): ataca ~67% más que el promedio, encaja ~32% menos. RC Strasbourg Alsace juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.30 – 2.04; el modelo ve marcando más a Paris Saint-Germain FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.90 vs +0.24): ataca ~67% más que el promedio, encaja ~32% menos. RC Strasbourg Alsace juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.29 – 2.04; el modelo ve marcando más a Paris Saint-Germain FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.764,
@@ -1665,7 +1665,7 @@
     "prob_X": 0.147,
     "prob_2": 0.11,
     "goles_esperados": [
-     3.033,
+     3.032,
      1.165
     ],
     "prob_over_2_5": 0.789,
@@ -1694,7 +1694,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.764,
+     "ataque": 0.763,
      "defensa": 0.362,
      "neto": 1.125,
      "peso": 39.6,
@@ -1702,7 +1702,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.236,
-     "defensa": 0.142,
+     "defensa": 0.141,
      "neto": 0.377,
      "peso": 39.6,
      "fiable": true
@@ -1774,7 +1774,7 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.12 vs +0.38): ataca ~115% más que el promedio, encaja ~30% menos. FC Bayern München juega en casa (~+23% de ventaja, ya contada). Goles esperados: 3.03 – 1.17; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (4G-1E-0P vs 2G-0E-3P).",
+    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.12 vs +0.38): ataca ~114% más que el promedio, encaja ~30% menos. FC Bayern München juega en casa (~+23% de ventaja, ya contada). Goles esperados: 3.03 – 1.17; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (4G-1E-0P vs 2G-0E-3P).",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.744,
@@ -1798,7 +1798,7 @@
    "prediccion": {
     "prob_1": 0.243,
     "prob_X": 0.215,
-    "prob_2": 0.542,
+    "prob_2": 0.541,
     "goles_esperados": [
      1.325,
      2.054
@@ -1912,7 +1912,7 @@
     "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.07 vs +0.34): ataca ~115% más que el promedio, encaja ~26% menos. Real Betis Balompié juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.32 – 2.05; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (5G-0E-0P vs 3G-1E-1P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.757,
+     "prob": 0.756,
      "por_que": "Doble oportunidad: cubre que Real Betis Balompié no gane. El escenario que queda afuera (gane Real Betis Balompié) es el menos probable (24%), así que el mercado se cumple ~76% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -2070,10 +2070,10 @@
     "prob_X": 0.201,
     "prob_2": 0.65,
     "goles_esperados": [
-     0.955,
+     0.956,
      2.189
     ],
-    "prob_over_2_5": 0.608,
+    "prob_over_2_5": 0.609,
     "prob_btts": 0.551,
     "marcadores": [
      [
@@ -2101,7 +2101,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.241,
-     "defensa": -0.344,
+     "defensa": -0.345,
      "neto": -0.585,
      "peso": 4.7,
      "fiable": false
@@ -2144,7 +2144,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Racing Club de Lens es más fuerte de fondo (neto +0.44 vs -0.58): ataca ~25% más que el promedio, encaja ~20% menos. ES Troyes AC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 0.95 – 2.19; el modelo ve marcando más a Racing Club de Lens. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de ES Troyes AC: tomalo con pinzas.",
+    "explicacion": "Racing Club de Lens es más fuerte de fondo (neto +0.44 vs -0.58): ataca ~25% más que el promedio, encaja ~20% menos. ES Troyes AC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 0.96 – 2.19; el modelo ve marcando más a Racing Club de Lens. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de ES Troyes AC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.852,
@@ -2171,7 +2171,7 @@
     "prob_2": 0.187,
     "goles_esperados": [
      1.78,
-     0.919
+     0.92
     ],
     "prob_over_2_5": 0.506,
     "prob_btts": 0.505,
@@ -2209,7 +2209,7 @@
      "ataque": 0.049,
      "defensa": -0.05,
      "neto": -0.001,
-     "peso": 40.3,
+     "peso": 40.2,
      "fiable": true
     },
     "forma_local": {
@@ -2313,7 +2313,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1404
+      0.1403
      ],
      [
       "2-0",
@@ -2335,7 +2335,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.364,
-     "defensa": 0.37,
+     "defensa": 0.369,
      "neto": 0.733,
      "peso": 44.8,
      "fiable": true
@@ -2344,7 +2344,7 @@
      "ataque": -0.112,
      "defensa": -0.029,
      "neto": -0.141,
-     "peso": 44.8,
+     "peso": 44.7,
      "fiable": true
     },
     "forma_local": {
@@ -2472,11 +2472,11 @@
      "ataque": -0.077,
      "defensa": 0.007,
      "neto": -0.069,
-     "peso": 46.7,
+     "peso": 46.6,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.033,
+     "ataque": 0.032,
      "defensa": 0.183,
      "neto": 0.215,
      "peso": 45.6,

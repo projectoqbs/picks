@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-10-09T12:21:45+00:00",
+ "actualizado": "2026-10-09T19:11:12+00:00",
  "fixtures": [
   {
    "id": 565820,
    "competicion_codigo": "BL1",
    "competicion": "Bundesliga",
    "fecha_utc": "2026-10-09T18:30:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 5,
    "local": "Borussia Dortmund",
    "visitante": "SV Werder Bremen"
@@ -16,7 +16,7 @@
    "competicion_codigo": "FL1",
    "competicion": "Ligue 1",
    "fecha_utc": "2026-10-09T18:45:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 6,
    "local": "Racing Club de Lens",
    "visitante": "Olympique Lyonnais"
@@ -26,7 +26,7 @@
    "competicion_codigo": "PD",
    "competicion": "La Liga",
    "fecha_utc": "2026-10-09T19:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 8,
    "local": "Málaga CF",
    "visitante": "RCD Espanyol de Barcelona"

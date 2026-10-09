@@ -4,7 +4,7 @@
  "equipos": [
   {
    "equipo": "FC Bayern München",
-   "ataque": 0.764,
+   "ataque": 0.763,
    "defensa": 0.362,
    "neto": 1.125,
    "peso": 39.6,
@@ -45,7 +45,7 @@
   {
    "equipo": "RB Leipzig",
    "ataque": 0.236,
-   "defensa": 0.142,
+   "defensa": 0.141,
    "neto": 0.377,
    "peso": 39.6,
    "fiable": true
@@ -62,7 +62,7 @@
    "equipo": "SC Freiburg",
    "ataque": 0.076,
    "defensa": 0.022,
-   "neto": 0.097,
+   "neto": 0.098,
    "peso": 39.6,
    "fiable": true
   },
@@ -76,7 +76,7 @@
   },
   {
    "equipo": "FC Schalke 04",
-   "ataque": -0.296,
+   "ataque": -0.297,
    "defensa": 0.372,
    "neto": 0.075,
    "peso": 3.8,
@@ -102,7 +102,7 @@
    "equipo": "SC Paderborn 07",
    "ataque": -0.329,
    "defensa": 0.19,
-   "neto": -0.138,
+   "neto": -0.139,
    "peso": 3.8,
    "fiable": false
   },
@@ -132,8 +132,8 @@
   },
   {
    "equipo": "1. FC Köln",
-   "ataque": -0.099,
-   "defensa": -0.154,
+   "ataque": -0.098,
+   "defensa": -0.155,
    "neto": -0.253,
    "peso": 29.3,
    "fiable": true
@@ -151,7 +151,7 @@
    "ataque": -0.005,
    "defensa": -0.311,
    "neto": -0.316,
-   "peso": 10.3,
+   "peso": 10.2,
    "fiable": true
   },
   {
@@ -190,7 +190,7 @@
    "equipo": "SV Darmstadt 98",
    "ataque": -0.373,
    "defensa": -0.351,
-   "neto": -0.724,
+   "neto": -0.723,
    "peso": 5.1,
    "fiable": false
   }
