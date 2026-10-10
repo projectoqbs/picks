@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-12",
- "actualizado": "2026-10-09T19:11:16+00:00",
+ "actualizado": "2026-10-10T11:40:15+00:00",
  "partidos": [
   {
    "id": 558579,
@@ -47,7 +47,7 @@
      "ataque": 0.273,
      "defensa": 0.231,
      "neto": 0.503,
-     "peso": 44.8,
+     "peso": 44.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -168,7 +168,7 @@
      "ataque": 0.009,
      "defensa": -0.059,
      "neto": -0.05,
-     "peso": 44.8,
+     "peso": 44.7,
      "fiable": true
     },
     "forma_local": {
@@ -249,6 +249,106 @@
    }
   },
   {
+   "id": 560597,
+   "competicion": "Premier League",
+   "competicion_codigo": "PL",
+   "fecha_utc": "2026-10-12T19:00:00Z",
+   "jornada": 6,
+   "local": "Coventry City FC",
+   "visitante": "Newcastle United FC",
+   "prediccion": {
+    "prob_1": 0.154,
+    "prob_X": 0.253,
+    "prob_2": 0.592,
+    "goles_esperados": [
+     0.79,
+     1.754
+    ],
+    "prob_over_2_5": 0.468,
+    "prob_btts": 0.463,
+    "marcadores": [
+     [
+      "0-1",
+      0.1267
+     ],
+     [
+      "0-2",
+      0.1208
+     ],
+     [
+      "1-1",
+      0.1198
+     ]
+    ],
+    "cuotas_justas": [
+     6.48,
+     3.95,
+     1.69
+    ],
+    "resumen": "Gana Newcastle United FC (claro favorito, 59%).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Coventry City FC' solo tiene 4.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.606,
+     "defensa": -0.101,
+     "neto": -0.707,
+     "peso": 4.7,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": 0.245,
+     "defensa": 0.01,
+     "neto": 0.255,
+     "peso": 44.4,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 1,
+     "gc": 10,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "P",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 2,
+     "p": 1,
+     "gf": 9,
+     "gc": 9,
+     "racha": [
+      "E",
+      "G",
+      "E",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Newcastle United FC es más fuerte de fondo (neto +0.26 vs -0.71): ataca ~28% más que el promedio. Coventry City FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 0.79 – 1.75; el modelo ve marcando más a Newcastle United FC. Y la forma reciente lo confirma: Newcastle United FC llega mejor (2G-2E-1P vs 1G-0E-4P). El modelo tiene pocos datos de Coventry City FC: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.846,
+     "por_que": "Doble oportunidad: cubre que Coventry City FC no gane. El escenario que queda afuera (gane Coventry City FC) es el menos probable (15%), así que el mercado se cumple ~85% de las veces.",
+     "alternativa": {
+      "mercado": "2",
+      "prob": 0.592
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
    "id": 564704,
    "competicion": "La Liga",
    "competicion_codigo": "PD",
@@ -258,18 +358,18 @@
    "visitante": "Sevilla FC",
    "prediccion": {
     "prob_1": 0.457,
-    "prob_X": 0.249,
+    "prob_X": 0.25,
     "prob_2": 0.294,
     "goles_esperados": [
-     1.605,
-     1.243
+     1.606,
+     1.242
     ],
     "prob_over_2_5": 0.542,
-    "prob_btts": 0.57,
+    "prob_btts": 0.571,
     "marcadores": [
      [
       "1-1",
-      0.1171
+      0.1176
      ],
      [
       "2-1",
@@ -277,12 +377,12 @@
      ],
      [
       "1-0",
-      0.0916
+      0.0911
      ]
     ],
     "cuotas_justas": [
      2.19,
-     4.02,
+     4.01,
      3.4
     ],
     "resumen": "Gana Levante UD (ligero favorito, 46%).",
@@ -293,14 +393,14 @@
      "ataque": 0.067,
      "defensa": -0.113,
      "neto": -0.046,
-     "peso": 28.6,
+     "peso": 28.5,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.003,
+     "ataque": 0.002,
      "defensa": -0.016,
-     "neto": -0.012,
-     "peso": 46.6,
+     "neto": -0.013,
+     "peso": 46.5,
      "fiable": true
     },
     "forma_local": {
@@ -349,113 +449,13 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto -0.05 vs -0.01). Levante UD juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.60 – 1.24; el modelo ve marcando más a Levante UD. También parejos en forma (1G-2E-2P vs 2G-1E-2P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto -0.05 vs -0.01). Levante UD juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.61 – 1.24; el modelo ve marcando más a Levante UD. También parejos en forma (1G-2E-2P vs 2G-1E-2P en 5).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
-     "prob": 0.57,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.60 y 1.24. Probabilidad: 57%.",
+     "prob": 0.571,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.61 y 1.24. Probabilidad: 57%.",
      "alternativa": null,
      "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 560597,
-   "competicion": "Premier League",
-   "competicion_codigo": "PL",
-   "fecha_utc": "2026-10-12T19:00:00Z",
-   "jornada": 6,
-   "local": "Coventry City FC",
-   "visitante": "Newcastle United FC",
-   "prediccion": {
-    "prob_1": 0.154,
-    "prob_X": 0.253,
-    "prob_2": 0.593,
-    "goles_esperados": [
-     0.79,
-     1.754
-    ],
-    "prob_over_2_5": 0.468,
-    "prob_btts": 0.463,
-    "marcadores": [
-     [
-      "0-1",
-      0.1267
-     ],
-     [
-      "0-2",
-      0.1208
-     ],
-     [
-      "1-1",
-      0.1198
-     ]
-    ],
-    "cuotas_justas": [
-     6.49,
-     3.95,
-     1.69
-    ],
-    "resumen": "Gana Newcastle United FC (claro favorito, 59%).",
-    "confianza": "baja"
-   },
-   "nota": "pocos datos: 'Coventry City FC' solo tiene 4.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.606,
-     "defensa": -0.101,
-     "neto": -0.708,
-     "peso": 4.7,
-     "fiable": false
-    },
-    "fuerza_visitante": {
-     "ataque": 0.245,
-     "defensa": 0.01,
-     "neto": 0.255,
-     "peso": 44.5,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 1,
-     "e": 0,
-     "p": 4,
-     "gf": 1,
-     "gc": 10,
-     "racha": [
-      "P",
-      "P",
-      "P",
-      "P",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 2,
-     "e": 2,
-     "p": 1,
-     "gf": 9,
-     "gc": 9,
-     "racha": [
-      "E",
-      "G",
-      "E",
-      "P",
-      "G"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "Newcastle United FC es más fuerte de fondo (neto +0.26 vs -0.71): ataca ~28% más que el promedio. Coventry City FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 0.79 – 1.75; el modelo ve marcando más a Newcastle United FC. Y la forma reciente lo confirma: Newcastle United FC llega mejor (2G-2E-1P vs 1G-0E-4P). El modelo tiene pocos datos de Coventry City FC: tomalo con pinzas.",
-    "recomendacion": {
-     "mercado": "X2",
-     "prob": 0.846,
-     "por_que": "Doble oportunidad: cubre que Coventry City FC no gane. El escenario que queda afuera (gane Coventry City FC) es el menos probable (15%), así que el mercado se cumple ~85% de las veces.",
-     "alternativa": {
-      "mercado": "2",
-      "prob": 0.593
-     },
-     "confianza": "baja"
     }
    }
   }

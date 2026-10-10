@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-11",
- "actualizado": "2026-10-09T19:11:16+00:00",
+ "actualizado": "2026-10-10T11:40:15+00:00",
  "partidos": [
   {
    "id": 558585,
@@ -35,7 +35,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.92,
+     2.93,
      3.64,
      2.61
     ],
@@ -47,14 +47,14 @@
      "ataque": 0.312,
      "defensa": 0.25,
      "neto": 0.562,
-     "peso": 39.1,
+     "peso": 39.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.364,
+     "ataque": 0.363,
      "defensa": 0.369,
      "neto": 0.733,
-     "peso": 44.8,
+     "peso": 44.7,
      "fiable": true
     },
     "forma_local": {
@@ -137,18 +137,18 @@
    "visitante": "RC Celta de Vigo",
    "prediccion": {
     "prob_1": 0.404,
-    "prob_X": 0.248,
-    "prob_2": 0.348,
+    "prob_X": 0.249,
+    "prob_2": 0.347,
     "goles_esperados": [
      1.535,
      1.408
     ],
     "prob_over_2_5": 0.564,
-    "prob_btts": 0.594,
+    "prob_btts": 0.595,
     "marcadores": [
      [
       "1-1",
-      0.1154
+      0.1158
      ],
      [
       "2-1",
@@ -160,19 +160,19 @@
      ]
     ],
     "cuotas_justas": [
-     2.47,
-     4.03,
-     2.87
+     2.48,
+     4.02,
+     2.88
     ],
     "resumen": "Partido parejo. ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.118,
-     "defensa": -0.13,
-     "neto": -0.012,
-     "peso": 29.5,
+     "ataque": 0.117,
+     "defensa": -0.131,
+     "neto": -0.013,
+     "peso": 29.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -231,146 +231,11 @@
     "explicacion": "RC Celta de Vigo es más fuerte de fondo (neto +0.19 vs -0.01): ataca ~12% más que el promedio. Elche CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.53 – 1.41; el modelo ve marcando más a Elche CF. Y la forma reciente lo confirma: RC Celta de Vigo llega mejor (1G-3E-1P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
-     "prob": 0.594,
+     "prob": 0.595,
      "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.53 y 1.41. Probabilidad: 59%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.794
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 559670,
-   "competicion": "Ligue 1",
-   "competicion_codigo": "FL1",
-   "fecha_utc": "2026-10-11T13:00:00Z",
-   "jornada": 6,
-   "local": "OGC Nice",
-   "visitante": "RC Strasbourg Alsace",
-   "prediccion": {
-    "prob_1": 0.349,
-    "prob_X": 0.258,
-    "prob_2": 0.393,
-    "goles_esperados": [
-     1.408,
-     1.506
-    ],
-    "prob_over_2_5": 0.557,
-    "prob_btts": 0.593,
-    "marcadores": [
-     [
-      "1-1",
-      0.1205
-     ],
-     [
-      "1-2",
-      0.0866
-     ],
-     [
-      "2-1",
-      0.081
-     ]
-    ],
-    "cuotas_justas": [
-     2.86,
-     3.88,
-     2.54
-    ],
-    "resumen": "Partido parejo. ambos marcan.",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.053,
-     "defensa": 0.031,
-     "neto": -0.022,
-     "peso": 40.2,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.223,
-     "defensa": 0.021,
-     "neto": 0.243,
-     "peso": 40.2,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 1,
-     "e": 2,
-     "p": 2,
-     "gf": 3,
-     "gc": 6,
-     "racha": [
-      "E",
-      "P",
-      "E",
-      "P",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 2,
-     "e": 1,
-     "p": 2,
-     "gf": 10,
-     "gc": 10,
-     "racha": [
-      "P",
-      "G",
-      "G",
-      "E",
-      "P"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-04-04",
-      "local": "RC Strasbourg Alsace",
-      "visitante": "OGC Nice",
-      "goles_local": 3,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2026-01-03",
-      "local": "OGC Nice",
-      "visitante": "RC Strasbourg Alsace",
-      "goles_local": 1,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2025-04-12",
-      "local": "RC Strasbourg Alsace",
-      "visitante": "OGC Nice",
-      "goles_local": 2,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2024-11-24",
-      "local": "OGC Nice",
-      "visitante": "RC Strasbourg Alsace",
-      "goles_local": 2,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2024-04-28",
-      "local": "RC Strasbourg Alsace",
-      "visitante": "OGC Nice",
-      "goles_local": 1,
-      "goles_visitante": 3
-     }
-    ],
-    "explicacion": "RC Strasbourg Alsace es más fuerte de fondo (neto +0.24 vs -0.02): ataca ~25% más que el promedio. OGC Nice juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.41 – 1.51; el modelo ve marcando más a RC Strasbourg Alsace. Y la forma reciente lo confirma: RC Strasbourg Alsace llega mejor (2G-1E-2P vs 1G-2E-2P).",
-    "recomendacion": {
-     "mercado": "X2",
-     "prob": 0.651,
-     "por_que": "Doble oportunidad: cubre que OGC Nice no gane. El escenario que queda afuera (gane OGC Nice) es el menos probable (35%), así que el mercado se cumple ~65% de las veces.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.793
      },
      "confianza": "alta"
     }
@@ -389,7 +254,7 @@
     "prob_X": 0.337,
     "prob_2": 0.237,
     "goles_esperados": [
-     1.13,
+     1.131,
      0.775
     ],
     "prob_over_2_5": 0.298,
@@ -411,7 +276,7 @@
     "cuotas_justas": [
      2.35,
      2.97,
-     4.22
+     4.21
     ],
     "resumen": "Gana Hull City AFC (ligero favorito, 43%). pocos goles (-2.5).",
     "confianza": "baja"
@@ -429,7 +294,7 @@
      "ataque": -0.105,
      "defensa": 0.209,
      "neto": 0.104,
-     "peso": 44.5,
+     "peso": 44.4,
      "fiable": true
     },
     "forma_local": {
@@ -467,7 +332,7 @@
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.702,
-     "por_que": "Pocos goles esperados en total (1.13 + 0.78 = 1.90); la defensa de Hull City AFC aprieta. El modelo ve el partido cerrado (70% al under).",
+     "por_que": "Pocos goles esperados en total (1.13 + 0.78 = 1.91); la defensa de Hull City AFC aprieta. El modelo ve el partido cerrado (70% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
       "prob": 0.874
@@ -521,7 +386,7 @@
      "ataque": -0.036,
      "defensa": 0.008,
      "neto": -0.027,
-     "peso": 44.6,
+     "peso": 44.5,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -653,14 +518,14 @@
      "ataque": -0.378,
      "defensa": -0.08,
      "neto": -0.458,
-     "peso": 44.8,
+     "peso": 44.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.092,
      "defensa": 0.099,
      "neto": 0.191,
-     "peso": 44.9,
+     "peso": 44.8,
      "fiable": true
     },
     "forma_local": {
@@ -788,7 +653,7 @@
      "ataque": 0.082,
      "defensa": 0.179,
      "neto": 0.261,
-     "peso": 44.8,
+     "peso": 44.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -872,6 +737,141 @@
    }
   },
   {
+   "id": 559670,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-10-11T13:00:00Z",
+   "jornada": 6,
+   "local": "OGC Nice",
+   "visitante": "RC Strasbourg Alsace",
+   "prediccion": {
+    "prob_1": 0.35,
+    "prob_X": 0.258,
+    "prob_2": 0.393,
+    "goles_esperados": [
+     1.409,
+     1.505
+    ],
+    "prob_over_2_5": 0.557,
+    "prob_btts": 0.593,
+    "marcadores": [
+     [
+      "1-1",
+      0.1205
+     ],
+     [
+      "1-2",
+      0.0866
+     ],
+     [
+      "2-1",
+      0.081
+     ]
+    ],
+    "cuotas_justas": [
+     2.86,
+     3.88,
+     2.55
+    ],
+    "resumen": "Partido parejo. ambos marcan.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.054,
+     "defensa": 0.031,
+     "neto": -0.022,
+     "peso": 40.1,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.223,
+     "defensa": 0.021,
+     "neto": 0.244,
+     "peso": 40.2,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 3,
+     "gc": 6,
+     "racha": [
+      "E",
+      "P",
+      "E",
+      "P",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 10,
+     "gc": 10,
+     "racha": [
+      "P",
+      "G",
+      "G",
+      "E",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-04-04",
+      "local": "RC Strasbourg Alsace",
+      "visitante": "OGC Nice",
+      "goles_local": 3,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2026-01-03",
+      "local": "OGC Nice",
+      "visitante": "RC Strasbourg Alsace",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-04-12",
+      "local": "RC Strasbourg Alsace",
+      "visitante": "OGC Nice",
+      "goles_local": 2,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-11-24",
+      "local": "OGC Nice",
+      "visitante": "RC Strasbourg Alsace",
+      "goles_local": 2,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-04-28",
+      "local": "RC Strasbourg Alsace",
+      "visitante": "OGC Nice",
+      "goles_local": 1,
+      "goles_visitante": 3
+     }
+    ],
+    "explicacion": "RC Strasbourg Alsace es más fuerte de fondo (neto +0.24 vs -0.02): ataca ~25% más que el promedio. OGC Nice juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.41 – 1.50; el modelo ve marcando más a RC Strasbourg Alsace. Y la forma reciente lo confirma: RC Strasbourg Alsace llega mejor (2G-1E-2P vs 1G-2E-2P).",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.65,
+     "por_que": "Doble oportunidad: cubre que OGC Nice no gane. El escenario que queda afuera (gane OGC Nice) es el menos probable (35%), así que el mercado se cumple ~65% de las veces.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.793
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
    "id": 565814,
    "competicion": "Bundesliga",
    "competicion_codigo": "BL1",
@@ -880,11 +880,11 @@
    "local": "1. FC Köln",
    "visitante": "Borussia Mönchengladbach",
    "prediccion": {
-    "prob_1": 0.41,
+    "prob_1": 0.409,
     "prob_X": 0.251,
-    "prob_2": 0.339,
+    "prob_2": 0.34,
     "goles_esperados": [
-     1.671,
+     1.669,
      1.505
     ],
     "prob_over_2_5": 0.615,
@@ -892,7 +892,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1133
+      0.1134
      ],
      [
       "2-1",
@@ -900,7 +900,7 @@
      ],
      [
       "1-2",
-      0.079
+      0.0791
      ]
     ],
     "cuotas_justas": [
@@ -913,17 +913,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.098,
-     "defensa": -0.155,
-     "neto": -0.253,
+     "ataque": -0.099,
+     "defensa": -0.153,
+     "neto": -0.252,
      "peso": 29.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.024,
-     "defensa": -0.125,
+     "ataque": -0.025,
+     "defensa": -0.124,
      "neto": -0.149,
-     "peso": 39.6,
+     "peso": 39.5,
      "fiable": true
     },
     "forma_local": {
@@ -1008,23 +1008,23 @@
    "local": "Real Sociedad de Fútbol",
    "visitante": "RC Deportivo La Coruña",
    "prediccion": {
-    "prob_1": 0.443,
-    "prob_X": 0.254,
+    "prob_1": 0.442,
+    "prob_X": 0.255,
     "prob_2": 0.303,
     "goles_esperados": [
-     1.538,
+     1.536,
      1.231
     ],
-    "prob_over_2_5": 0.523,
+    "prob_over_2_5": 0.522,
     "prob_btts": 0.557,
     "marcadores": [
      [
       "1-1",
-      0.1203
+      0.1209
      ],
      [
       "1-0",
-      0.095
+      0.0945
      ],
      [
       "2-1",
@@ -1033,26 +1033,26 @@
     ],
     "cuotas_justas": [
      2.26,
-     3.94,
+     3.92,
      3.3
     ],
     "resumen": "Gana Real Sociedad de Fútbol (ligero favorito, 44%).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'RC Deportivo La Coruña' solo tiene 6.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'RC Deportivo La Coruña' solo tiene 6.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.113,
-     "defensa": -0.028,
-     "neto": 0.085,
-     "peso": 46.6,
+     "ataque": 0.112,
+     "defensa": -0.029,
+     "neto": 0.083,
+     "peso": 46.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.078,
-     "defensa": 0.073,
-     "neto": 0.151,
-     "peso": 6.6,
+     "defensa": 0.075,
+     "neto": 0.152,
+     "peso": 6.5,
      "fiable": false
     },
     "forma_local": {
@@ -1086,7 +1086,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.09 vs +0.15). Real Sociedad de Fútbol juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.54 – 1.23; el modelo ve marcando más a Real Sociedad de Fútbol. También parejos en forma (3G-1E-1P vs 2G-2E-1P en 5). El modelo tiene pocos datos de RC Deportivo La Coruña: tomalo con pinzas.",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.08 vs +0.15). Real Sociedad de Fútbol juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.54 – 1.23; el modelo ve marcando más a Real Sociedad de Fútbol. También parejos en forma (3G-1E-1P vs 2G-2E-1P en 5). El modelo tiene pocos datos de RC Deportivo La Coruña: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.557,
@@ -1109,15 +1109,15 @@
     "prob_X": 0.235,
     "prob_2": 0.227,
     "goles_esperados": [
-     1.879,
-     1.154
+     1.88,
+     1.153
     ],
     "prob_over_2_5": 0.584,
     "prob_btts": 0.585,
     "marcadores": [
      [
       "1-1",
-      0.1094
+      0.1093
      ],
      [
       "2-1",
@@ -1131,7 +1131,7 @@
     "cuotas_justas": [
      1.86,
      4.26,
-     4.4
+     4.41
     ],
     "resumen": "Gana Stade Rennais FC 1901 (ligero favorito, 54%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -1141,7 +1141,7 @@
      "ataque": 0.225,
      "defensa": -0.004,
      "neto": 0.221,
-     "peso": 40.2,
+     "peso": 40.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1225,105 +1225,6 @@
    }
   },
   {
-   "id": 565816,
-   "competicion": "Bundesliga",
-   "competicion_codigo": "BL1",
-   "fecha_utc": "2026-10-11T15:30:00Z",
-   "jornada": 5,
-   "local": "SC Freiburg",
-   "visitante": "FC Schalke 04",
-   "prediccion": {
-    "prob_1": 0.407,
-    "prob_X": 0.311,
-    "prob_2": 0.281,
-    "goles_esperados": [
-     1.211,
-     0.961
-    ],
-    "prob_over_2_5": 0.37,
-    "prob_btts": 0.444,
-    "marcadores": [
-     [
-      "1-1",
-      0.1431
-     ],
-     [
-      "1-0",
-      0.1275
-     ],
-     [
-      "0-0",
-      0.1244
-     ]
-    ],
-    "cuotas_justas": [
-     2.46,
-     3.21,
-     3.56
-    ],
-    "resumen": "Partido parejo. pocos goles (-2.5).",
-    "confianza": "baja"
-   },
-   "nota": "pocos datos: 'FC Schalke 04' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.076,
-     "defensa": 0.022,
-     "neto": 0.098,
-     "peso": 39.6,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.297,
-     "defensa": 0.372,
-     "neto": 0.075,
-     "peso": 3.8,
-     "fiable": false
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 4,
-     "e": 1,
-     "p": 0,
-     "gf": 16,
-     "gc": 4,
-     "racha": [
-      "G",
-      "G",
-      "G",
-      "G",
-      "E"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 4,
-     "g": 1,
-     "e": 2,
-     "p": 1,
-     "gf": 3,
-     "gc": 4,
-     "racha": [
-      "P",
-      "E",
-      "G",
-      "E"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.10 vs +0.07). SC Freiburg juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.21 – 0.96; el modelo ve marcando más a SC Freiburg. En forma reciente pinta algo mejor SC Freiburg (4G-1E-0P vs 1G-2E-1P en 5). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
-    "recomendacion": {
-     "mercado": "Menos de 2.5 goles",
-     "prob": 0.63,
-     "por_que": "Pocos goles esperados en total (1.21 + 0.96 = 2.17); la defensa de FC Schalke 04 aprieta. El modelo ve el partido cerrado (63% al under).",
-     "alternativa": {
-      "mercado": "Menos de 3.5 goles",
-      "prob": 0.825
-     },
-     "confianza": "baja"
-    }
-   }
-  },
-  {
    "id": 560598,
    "competicion": "Premier League",
    "competicion_codigo": "PL",
@@ -1368,7 +1269,7 @@
      "ataque": 0.337,
      "defensa": 0.173,
      "neto": 0.511,
-     "peso": 44.5,
+     "peso": 44.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1459,6 +1360,105 @@
    }
   },
   {
+   "id": 565816,
+   "competicion": "Bundesliga",
+   "competicion_codigo": "BL1",
+   "fecha_utc": "2026-10-11T15:30:00Z",
+   "jornada": 5,
+   "local": "SC Freiburg",
+   "visitante": "FC Schalke 04",
+   "prediccion": {
+    "prob_1": 0.407,
+    "prob_X": 0.311,
+    "prob_2": 0.282,
+    "goles_esperados": [
+     1.21,
+     0.962
+    ],
+    "prob_over_2_5": 0.37,
+    "prob_btts": 0.444,
+    "marcadores": [
+     [
+      "1-1",
+      0.1431
+     ],
+     [
+      "1-0",
+      0.1274
+     ],
+     [
+      "0-0",
+      0.1244
+     ]
+    ],
+    "cuotas_justas": [
+     2.46,
+     3.21,
+     3.55
+    ],
+    "resumen": "Partido parejo. pocos goles (-2.5).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'FC Schalke 04' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.075,
+     "defensa": 0.023,
+     "neto": 0.098,
+     "peso": 39.5,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.296,
+     "defensa": 0.372,
+     "neto": 0.076,
+     "peso": 3.8,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 4,
+     "e": 1,
+     "p": 0,
+     "gf": 16,
+     "gc": 4,
+     "racha": [
+      "G",
+      "G",
+      "G",
+      "G",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 4,
+     "g": 1,
+     "e": 2,
+     "p": 1,
+     "gf": 3,
+     "gc": 4,
+     "racha": [
+      "P",
+      "E",
+      "G",
+      "E"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "En fuerza de temporada están parejos (neto +0.10 vs +0.08). SC Freiburg juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.21 – 0.96; el modelo ve marcando más a SC Freiburg. En forma reciente pinta algo mejor SC Freiburg (4G-1E-0P vs 1G-2E-1P en 5). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "Menos de 2.5 goles",
+     "prob": 0.63,
+     "por_que": "Pocos goles esperados en total (1.21 + 0.96 = 2.17); la defensa de FC Schalke 04 aprieta. El modelo ve el partido cerrado (63% al under).",
+     "alternativa": {
+      "mercado": "Menos de 3.5 goles",
+      "prob": 0.825
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
    "id": 558580,
    "competicion": "Serie A",
    "competicion_codigo": "SA",
@@ -1510,7 +1510,7 @@
      "ataque": 0.277,
      "defensa": 0.2,
      "neto": 0.477,
-     "peso": 44.9,
+     "peso": 44.8,
      "fiable": true
     },
     "forma_local": {
@@ -1596,8 +1596,8 @@
    "visitante": "CA Osasuna",
    "prediccion": {
     "prob_1": 0.582,
-    "prob_X": 0.231,
-    "prob_2": 0.187,
+    "prob_X": 0.232,
+    "prob_2": 0.186,
     "goles_esperados": [
      1.808,
      0.918
@@ -1607,38 +1607,38 @@
     "marcadores": [
      [
       "1-0",
-      0.117
+      0.1166
      ],
      [
       "1-1",
-      0.1101
+      0.1105
      ],
      [
       "2-0",
-      0.107
+      0.1071
      ]
     ],
     "cuotas_justas": [
      1.72,
-     4.32,
-     5.35
+     4.31,
+     5.37
     ],
     "resumen": "Gana Real Betis Balompié (claro favorito, 58%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.195,
+     "ataque": 0.194,
      "defensa": 0.145,
-     "neto": 0.34,
-     "peso": 46.6,
+     "neto": 0.339,
+     "peso": 46.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.042,
-     "defensa": -0.006,
-     "neto": -0.048,
-     "peso": 46.6,
+     "defensa": -0.007,
+     "neto": -0.049,
+     "peso": 46.5,
      "fiable": true
     },
     "forma_local": {
@@ -1708,116 +1708,16 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.34 vs -0.05): ataca ~22% más que el promedio, encaja ~13% menos. Real Betis Balompié juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.81 – 0.92; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (3G-1E-1P vs 1G-1E-3P).",
+    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.34 vs -0.05): ataca ~21% más que el promedio, encaja ~13% menos. Real Betis Balompié juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.81 – 0.92; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (3G-1E-1P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.813,
+     "prob": 0.814,
      "por_que": "Doble oportunidad: cubre que Real Betis Balompié no pierda. El escenario que queda afuera (gane CA Osasuna) es el menos probable (19%), así que el mercado se cumple ~81% de las veces.",
      "alternativa": {
       "mercado": "1",
       "prob": 0.582
      },
      "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 559671,
-   "competicion": "Ligue 1",
-   "competicion_codigo": "FL1",
-   "fecha_utc": "2026-10-11T18:45:00Z",
-   "jornada": 6,
-   "local": "ES Troyes AC",
-   "visitante": "Olympique de Marseille",
-   "prediccion": {
-    "prob_1": 0.157,
-    "prob_X": 0.19,
-    "prob_2": 0.652,
-    "goles_esperados": [
-     1.102,
-     2.376
-    ],
-    "prob_over_2_5": 0.675,
-    "prob_btts": 0.609,
-    "marcadores": [
-     [
-      "1-2",
-      0.096
-     ],
-     [
-      "0-2",
-      0.0872
-     ],
-     [
-      "1-1",
-      0.0847
-     ]
-    ],
-    "cuotas_justas": [
-     6.36,
-     5.25,
-     1.53
-    ],
-    "resumen": "Gana Olympique de Marseille (claro favorito, 65%). se esperan goles (+2.5). ambos marcan.",
-    "confianza": "baja"
-   },
-   "nota": "pocos datos: 'ES Troyes AC' solo tiene 4.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.241,
-     "defensa": -0.345,
-     "neto": -0.585,
-     "peso": 4.7,
-     "fiable": false
-    },
-    "fuerza_visitante": {
-     "ataque": 0.302,
-     "defensa": 0.079,
-     "neto": 0.382,
-     "peso": 40.2,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 1,
-     "e": 1,
-     "p": 3,
-     "gf": 4,
-     "gc": 11,
-     "racha": [
-      "E",
-      "G",
-      "P",
-      "P",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 1,
-     "e": 0,
-     "p": 4,
-     "gf": 7,
-     "gc": 8,
-     "racha": [
-      "G",
-      "P",
-      "P",
-      "P",
-      "P"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "Olympique de Marseille es más fuerte de fondo (neto +0.38 vs -0.58): ataca ~35% más que el promedio. ES Troyes AC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.10 – 2.38; el modelo ve marcando más a Olympique de Marseille. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de ES Troyes AC: tomalo con pinzas.",
-    "recomendacion": {
-     "mercado": "X2",
-     "prob": 0.843,
-     "por_que": "Doble oportunidad: cubre que ES Troyes AC no gane. El escenario que queda afuera (gane ES Troyes AC) es el menos probable (16%), así que el mercado se cumple ~84% de las veces.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.866
-     },
-     "confianza": "baja"
     }
    }
   },
@@ -1957,6 +1857,106 @@
    }
   },
   {
+   "id": 559671,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-10-11T18:45:00Z",
+   "jornada": 6,
+   "local": "ES Troyes AC",
+   "visitante": "Olympique de Marseille",
+   "prediccion": {
+    "prob_1": 0.158,
+    "prob_X": 0.191,
+    "prob_2": 0.652,
+    "goles_esperados": [
+     1.102,
+     2.373
+    ],
+    "prob_over_2_5": 0.674,
+    "prob_btts": 0.609,
+    "marcadores": [
+     [
+      "1-2",
+      0.0961
+     ],
+     [
+      "0-2",
+      0.0872
+     ],
+     [
+      "1-1",
+      0.0848
+     ]
+    ],
+    "cuotas_justas": [
+     6.35,
+     5.24,
+     1.53
+    ],
+    "resumen": "Gana Olympique de Marseille (claro favorito, 65%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'ES Troyes AC' solo tiene 4.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.241,
+     "defensa": -0.344,
+     "neto": -0.585,
+     "peso": 4.7,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": 0.302,
+     "defensa": 0.079,
+     "neto": 0.382,
+     "peso": 40.1,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 4,
+     "gc": 11,
+     "racha": [
+      "E",
+      "G",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 7,
+     "gc": 8,
+     "racha": [
+      "G",
+      "P",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Olympique de Marseille es más fuerte de fondo (neto +0.38 vs -0.58): ataca ~35% más que el promedio. ES Troyes AC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.10 – 2.37; el modelo ve marcando más a Olympique de Marseille. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de ES Troyes AC: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.842,
+     "por_que": "Doble oportunidad: cubre que ES Troyes AC no gane. El escenario que queda afuera (gane ES Troyes AC) es el menos probable (16%), así que el mercado se cumple ~84% de las veces.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.865
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
    "id": 564705,
    "competicion": "La Liga",
    "competicion_codigo": "PD",
@@ -1966,32 +1966,32 @@
    "visitante": "Valencia CF",
    "prediccion": {
     "prob_1": 0.403,
-    "prob_X": 0.22,
+    "prob_X": 0.221,
     "prob_2": 0.377,
     "goles_esperados": [
-     1.853,
-     1.79
+     1.854,
+     1.789
     ],
     "prob_over_2_5": 0.705,
     "prob_btts": 0.704,
     "marcadores": [
      [
       "1-1",
-      0.0879
+      0.0883
      ],
      [
       "2-1",
-      0.0804
+      0.0805
      ],
      [
       "1-2",
-      0.0777
+      0.0776
      ]
     ],
     "cuotas_justas": [
      2.48,
-     4.55,
-     2.65
+     4.53,
+     2.66
     ],
     "resumen": "Partido parejo. se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -1999,7 +1999,7 @@
    "nota": "pocos datos: 'Real Racing Club de Santander' solo tiene 6.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.234,
+     "ataque": 0.233,
      "defensa": -0.558,
      "neto": -0.324,
      "peso": 6.5,
@@ -2008,7 +2008,7 @@
     "fuerza_visitante": {
      "ataque": -0.077,
      "defensa": 0.007,
-     "neto": -0.069,
+     "neto": -0.07,
      "peso": 46.6,
      "fiable": true
     },
