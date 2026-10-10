@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-20",
- "actualizado": "2026-10-10T11:40:15+00:00",
+ "actualizado": "2026-10-10T18:09:25+00:00",
  "partidos": [
   {
    "id": 575359,
@@ -11,9 +11,9 @@
    "local": "Sabah FK",
    "visitante": "Borussia Dortmund",
    "prediccion": {
-    "prob_1": 0.192,
+    "prob_1": 0.193,
     "prob_X": 0.187,
-    "prob_2": 0.621,
+    "prob_2": 0.62,
     "goles_esperados": [
      1.216,
      2.307
@@ -35,7 +35,7 @@
      ]
     ],
     "cuotas_justas": [
-     5.2,
+     5.19,
      5.35,
      1.61
     ],
@@ -88,7 +88,7 @@
     "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.33 vs -0.60): ataca ~31% más que el promedio. Sabah FK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.22 – 2.31; el modelo ve marcando más a Borussia Dortmund. Y la forma reciente lo confirma: Borussia Dortmund llega mejor (2G-0E-3P vs 0G-0E-1P). El modelo tiene pocos datos de Sabah FK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.808,
+     "prob": 0.807,
      "por_que": "Doble oportunidad: cubre que Sabah FK no gane. El escenario que queda afuera (gane Sabah FK) es el menos probable (19%), así que el mercado se cumple ~81% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -205,9 +205,9 @@
    "prediccion": {
     "prob_1": 0.532,
     "prob_X": 0.238,
-    "prob_2": 0.23,
+    "prob_2": 0.229,
     "goles_esperados": [
-     1.647,
+     1.648,
      0.986
     ],
     "prob_over_2_5": 0.49,
@@ -219,7 +219,7 @@
      ],
      [
       "1-1",
-      0.1132
+      0.1131
      ],
      [
       "2-0",
@@ -245,7 +245,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.124,
-     "defensa": 0.258,
+     "defensa": 0.257,
      "neto": 0.134,
      "peso": 0.9,
      "fiable": false
@@ -280,7 +280,7 @@
     "explicacion": "Manchester City FC es más fuerte de fondo (neto +0.36 vs +0.13): ataca ~22% más que el promedio, encaja ~15% menos. Manchester City FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.65 – 0.99; el modelo ve marcando más a Manchester City FC. Pero ojo: en forma reciente PAE AEK llega mejor que Manchester City FC, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de PAE AEK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.77,
+     "prob": 0.771,
      "por_que": "Doble oportunidad: cubre que Manchester City FC no pierda. El escenario que queda afuera (gane PAE AEK) es el menos probable (23%), así que el mercado se cumple ~77% de las veces.",
      "alternativa": null,
      "confianza": "baja"
@@ -296,14 +296,14 @@
    "local": "VfB Stuttgart",
    "visitante": "Club Atlético de Madrid",
    "prediccion": {
-    "prob_1": 0.302,
+    "prob_1": 0.303,
     "prob_X": 0.201,
     "prob_2": 0.497,
     "goles_esperados": [
      1.68,
      2.179
     ],
-    "prob_over_2_5": 0.741,
+    "prob_over_2_5": 0.74,
     "prob_btts": 0.719,
     "marcadores": [
      [
@@ -316,7 +316,7 @@
      ],
      [
       "2-2",
-      0.0706
+      0.0707
      ]
     ],
     "cuotas_justas": [
@@ -377,7 +377,7 @@
     "explicacion": "Club Atlético de Madrid es más fuerte de fondo (neto +0.52 vs -0.03): ataca ~52% más que el promedio, encaja ~10% menos. VfB Stuttgart juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.68 – 2.18; el modelo ve marcando más a Club Atlético de Madrid. Pero ojo: en forma reciente VfB Stuttgart llega mejor que Club Atlético de Madrid, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de VfB Stuttgart: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.741,
+     "prob": 0.74,
      "por_que": "Bastantes goles esperados (1.68 + 2.18 = 3.86); al menos una defensa floja. Probabilidad al over: 74%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -500,7 +500,7 @@
     "prob_X": 0.154,
     "prob_2": 0.12,
     "goles_esperados": [
-     2.609,
+     2.608,
      0.973
     ],
     "prob_over_2_5": 0.694,
@@ -512,17 +512,17 @@
      ],
      [
       "2-1",
-      0.0921
+      0.0922
      ],
      [
       "3-0",
-      0.0824
+      0.0823
      ]
     ],
     "cuotas_justas": [
      1.38,
      6.5,
-     8.34
+     8.33
     ],
     "resumen": "Gana AS Roma (claro favorito, 73%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -539,7 +539,7 @@
     "fuerza_visitante": {
      "ataque": -0.173,
      "defensa": -0.457,
-     "neto": -0.63,
+     "neto": -0.629,
      "peso": 3.1,
      "fiable": false
     },

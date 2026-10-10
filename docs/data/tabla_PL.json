@@ -4,217 +4,217 @@
  "equipos": [
   {
    "equipo": "Arsenal FC",
-   "ataque": 0.337,
-   "defensa": 0.601,
-   "neto": 0.939,
-   "peso": 44.4,
+   "ataque": 0.338,
+   "defensa": 0.596,
+   "neto": 0.933,
+   "peso": 45.3,
    "fiable": true
   },
   {
    "equipo": "Manchester City FC",
-   "ataque": 0.456,
-   "defensa": 0.375,
-   "neto": 0.831,
+   "ataque": 0.452,
+   "defensa": 0.376,
+   "neto": 0.829,
    "peso": 44.5,
    "fiable": true
   },
   {
    "equipo": "Liverpool FC",
-   "ataque": 0.337,
-   "defensa": 0.173,
-   "neto": 0.511,
+   "ataque": 0.334,
+   "defensa": 0.175,
+   "neto": 0.51,
    "peso": 44.4,
    "fiable": true
   },
   {
    "equipo": "Brighton & Hove Albion FC",
-   "ataque": 0.235,
-   "defensa": 0.101,
-   "neto": 0.336,
-   "peso": 44.4,
+   "ataque": 0.238,
+   "defensa": 0.122,
+   "neto": 0.36,
+   "peso": 45.4,
    "fiable": true
   },
   {
    "equipo": "Hull City AFC",
    "ataque": -0.049,
-   "defensa": 0.365,
-   "neto": 0.317,
+   "defensa": 0.373,
+   "neto": 0.324,
    "peso": 4.7,
    "fiable": false
   },
   {
+   "equipo": "Chelsea FC",
+   "ataque": 0.286,
+   "defensa": 0.022,
+   "neto": 0.307,
+   "peso": 45.4,
+   "fiable": true
+  },
+  {
    "equipo": "Manchester United FC",
-   "ataque": 0.199,
-   "defensa": 0.067,
+   "ataque": 0.197,
+   "defensa": 0.069,
    "neto": 0.266,
    "peso": 44.4,
    "fiable": true
   },
   {
-   "equipo": "Chelsea FC",
-   "ataque": 0.248,
-   "defensa": 0.017,
-   "neto": 0.264,
-   "peso": 44.4,
-   "fiable": true
-  },
-  {
    "equipo": "Brentford FC",
-   "ataque": 0.189,
-   "defensa": 0.07,
+   "ataque": 0.193,
+   "defensa": 0.065,
    "neto": 0.259,
-   "peso": 44.4,
+   "peso": 45.4,
    "fiable": true
   },
   {
    "equipo": "Newcastle United FC",
-   "ataque": 0.245,
-   "defensa": 0.01,
-   "neto": 0.255,
+   "ataque": 0.242,
+   "defensa": 0.011,
+   "neto": 0.253,
    "peso": 44.4,
    "fiable": true
   },
   {
    "equipo": "Aston Villa FC",
-   "ataque": 0.151,
-   "defensa": 0.062,
-   "neto": 0.213,
-   "peso": 44.4,
-   "fiable": true
-  },
-  {
-   "equipo": "AFC Bournemouth",
-   "ataque": 0.131,
-   "defensa": 0.074,
-   "neto": 0.205,
-   "peso": 44.4,
+   "ataque": 0.155,
+   "defensa": 0.055,
+   "neto": 0.21,
+   "peso": 45.3,
    "fiable": true
   },
   {
    "equipo": "Leeds United FC",
-   "ataque": 0.034,
-   "defensa": 0.146,
+   "ataque": 0.039,
+   "defensa": 0.141,
    "neto": 0.18,
-   "peso": 27.3,
+   "peso": 28.3,
+   "fiable": true
+  },
+  {
+   "equipo": "AFC Bournemouth",
+   "ataque": 0.126,
+   "defensa": 0.029,
+   "neto": 0.154,
+   "peso": 45.4,
    "fiable": true
   },
   {
    "equipo": "Nottingham Forest FC",
-   "ataque": 0.002,
-   "defensa": 0.121,
+   "ataque": -0.0,
+   "defensa": 0.123,
    "neto": 0.123,
    "peso": 44.4,
    "fiable": true
   },
   {
    "equipo": "Everton FC",
-   "ataque": -0.105,
-   "defensa": 0.209,
-   "neto": 0.104,
+   "ataque": -0.108,
+   "defensa": 0.211,
+   "neto": 0.103,
    "peso": 44.4,
    "fiable": true
   },
   {
    "equipo": "Fulham FC",
-   "ataque": -0.023,
-   "defensa": 0.063,
-   "neto": 0.04,
-   "peso": 44.4,
-   "fiable": true
-  },
-  {
-   "equipo": "Sunderland AFC",
-   "ataque": -0.091,
-   "defensa": 0.082,
-   "neto": -0.01,
-   "peso": 27.3,
+   "ataque": -0.037,
+   "defensa": 0.054,
+   "neto": 0.017,
+   "peso": 45.4,
    "fiable": true
   },
   {
    "equipo": "Crystal Palace FC",
-   "ataque": -0.036,
-   "defensa": 0.008,
-   "neto": -0.027,
+   "ataque": -0.038,
+   "defensa": 0.01,
+   "neto": -0.028,
    "peso": 44.5,
    "fiable": true
   },
   {
    "equipo": "Tottenham Hotspur FC",
-   "ataque": 0.026,
-   "defensa": -0.071,
-   "neto": -0.044,
+   "ataque": 0.024,
+   "defensa": -0.069,
+   "neto": -0.045,
    "peso": 44.4,
    "fiable": true
   },
   {
+   "equipo": "Sunderland AFC",
+   "ataque": -0.128,
+   "defensa": 0.072,
+   "neto": -0.055,
+   "peso": 28.3,
+   "fiable": true
+  },
+  {
    "equipo": "West Ham United FC",
-   "ataque": -0.014,
-   "defensa": -0.111,
+   "ataque": -0.017,
+   "defensa": -0.109,
    "neto": -0.126,
    "peso": 39.7,
    "fiable": true
   },
   {
    "equipo": "Luton Town FC",
-   "ataque": 0.034,
-   "defensa": -0.338,
-   "neto": -0.304,
+   "ataque": 0.032,
+   "defensa": -0.337,
+   "neto": -0.305,
    "peso": 5.7,
    "fiable": false
   },
   {
    "equipo": "Wolverhampton Wanderers FC",
-   "ataque": -0.245,
-   "defensa": -0.138,
-   "neto": -0.383,
-   "peso": 39.7,
+   "ataque": -0.248,
+   "defensa": -0.136,
+   "neto": -0.384,
+   "peso": 39.6,
    "fiable": true
   },
   {
    "equipo": "Burnley FC",
-   "ataque": -0.207,
-   "defensa": -0.252,
-   "neto": -0.459,
+   "ataque": -0.21,
+   "defensa": -0.251,
+   "neto": -0.461,
    "peso": 28.3,
    "fiable": true
   },
   {
    "equipo": "Ipswich Town FC",
-   "ataque": -0.16,
-   "defensa": -0.364,
-   "neto": -0.524,
-   "peso": 16.1,
+   "ataque": -0.125,
+   "defensa": -0.345,
+   "neto": -0.47,
+   "peso": 17.1,
    "fiable": true
   },
   {
    "equipo": "Leicester City FC",
-   "ataque": -0.365,
-   "defensa": -0.294,
-   "neto": -0.659,
+   "ataque": -0.366,
+   "defensa": -0.29,
+   "neto": -0.656,
    "peso": 11.4,
    "fiable": true
   },
   {
    "equipo": "Coventry City FC",
-   "ataque": -0.606,
-   "defensa": -0.101,
-   "neto": -0.707,
+   "ataque": -0.603,
+   "defensa": -0.1,
+   "neto": -0.704,
    "peso": 4.7,
    "fiable": false
   },
   {
    "equipo": "Sheffield United FC",
-   "ataque": -0.23,
-   "defensa": -0.502,
+   "ataque": -0.232,
+   "defensa": -0.5,
    "neto": -0.732,
    "peso": 5.7,
    "fiable": false
   },
   {
    "equipo": "Southampton FC",
-   "ataque": -0.492,
-   "defensa": -0.372,
-   "neto": -0.864,
+   "ataque": -0.493,
+   "defensa": -0.369,
+   "neto": -0.862,
    "peso": 11.4,
    "fiable": true
   }

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-14",
- "actualizado": "2026-10-10T11:40:15+00:00",
+ "actualizado": "2026-10-10T18:09:25+00:00",
  "partidos": [
   {
    "id": 575350,
@@ -16,7 +16,7 @@
     "prob_2": 0.519,
     "goles_esperados": [
      0.826,
-     1.44
+     1.441
     ],
     "prob_over_2_5": 0.395,
     "prob_btts": 0.425,
@@ -119,7 +119,7 @@
     "marcadores": [
      [
       "1-2",
-      0.075
+      0.0751
      ],
      [
       "2-2",
@@ -148,7 +148,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.382,
+     "ataque": 0.381,
      "defensa": 0.045,
      "neto": 0.426,
      "peso": 0.9,
@@ -181,7 +181,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.43 vs -0.17): ataca ~47% más que el promedio. Feyenoord Rotterdam juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.84 – 2.50; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (1G-0E-0P vs 1G-1E-3P). El modelo tiene pocos datos de Feyenoord Rotterdam: tomalo con pinzas.",
+    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.43 vs -0.17): ataca ~46% más que el promedio. Feyenoord Rotterdam juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.84 – 2.50; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (1G-0E-0P vs 1G-1E-3P). El modelo tiene pocos datos de Feyenoord Rotterdam: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.807,
@@ -211,7 +211,7 @@
      1.951
     ],
     "prob_over_2_5": 0.657,
-    "prob_btts": 0.65,
+    "prob_btts": 0.651,
     "marcadores": [
      [
       "1-2",
@@ -223,7 +223,7 @@
      ],
      [
       "0-1",
-      0.069
+      0.0689
      ]
     ],
     "cuotas_justas": [
@@ -614,15 +614,15 @@
     "prob_X": 0.163,
     "prob_2": 0.154,
     "goles_esperados": [
-     2.629,
+     2.628,
      1.192
     ],
-    "prob_over_2_5": 0.735,
+    "prob_over_2_5": 0.734,
     "prob_btts": 0.644,
     "marcadores": [
      [
       "2-1",
-      0.0902
+      0.0903
      ],
      [
       "3-1",
@@ -644,9 +644,9 @@
    "nota": "pocos datos: 'Real Betis Balompié' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.388,
+     "ataque": 0.387,
      "defensa": 0.024,
-     "neto": 0.412,
+     "neto": 0.411,
      "peso": 0.9,
      "fiable": false
     },
@@ -748,7 +748,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.124,
-     "defensa": 0.258,
+     "defensa": 0.257,
      "neto": 0.134,
      "peso": 0.9,
      "fiable": false
@@ -838,7 +838,7 @@
     "fuerza_local": {
      "ataque": -0.173,
      "defensa": -0.457,
-     "neto": -0.63,
+     "neto": -0.629,
      "peso": 3.1,
      "fiable": false
     },

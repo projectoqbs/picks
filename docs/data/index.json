@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-10T11:40:15+00:00",
+ "actualizado": "2026-10-10T18:09:25+00:00",
  "dias": [
   "2026-10-10",
   "2026-10-11",
@@ -50,14 +50,14 @@
    "archivo": "tabla_PD.json"
   },
   {
-   "codigo": "SA",
-   "nombre": "Serie A",
-   "archivo": "tabla_SA.json"
-  },
-  {
    "codigo": "BL1",
    "nombre": "Bundesliga",
    "archivo": "tabla_BL1.json"
+  },
+  {
+   "codigo": "SA",
+   "nombre": "Serie A",
+   "archivo": "tabla_SA.json"
   },
   {
    "codigo": "FL1",
@@ -70,5 +70,5 @@
    "archivo": "tabla_CL.json"
   }
  ],
- "total_partidos": 120
+ "total_partidos": 105
 }

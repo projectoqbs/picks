@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-19",
- "actualizado": "2026-10-10T11:40:15+00:00",
+ "actualizado": "2026-10-10T18:09:25+00:00",
  "partidos": [
   {
    "id": 558576,
@@ -11,35 +11,35 @@
    "local": "AC Monza",
    "visitante": "Cagliari Calcio",
    "prediccion": {
-    "prob_1": 0.291,
-    "prob_X": 0.264,
-    "prob_2": 0.445,
+    "prob_1": 0.292,
+    "prob_X": 0.265,
+    "prob_2": 0.444,
     "goles_esperados": [
-     1.124,
-     1.454
+     1.126,
+     1.451
     ],
     "prob_over_2_5": 0.476,
     "prob_btts": 0.519,
     "marcadores": [
      [
       "1-1",
-      0.1257
+      0.1258
      ],
      [
       "0-1",
-      0.1088
+      0.1087
      ],
      [
       "1-2",
-      0.0902
+      0.0901
      ]
     ],
     "cuotas_justas": [
-     3.44,
-     3.79,
+     3.43,
+     3.78,
      2.25
     ],
-    "resumen": "Gana Cagliari Calcio (ligero favorito, 45%).",
+    "resumen": "Gana Cagliari Calcio (ligero favorito, 44%).",
     "confianza": "alta"
    },
    "analisis": {
@@ -117,10 +117,10 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Cagliari Calcio es más fuerte de fondo (neto -0.11 vs -0.47): es más completo en general. AC Monza juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.12 – 1.45; el modelo ve marcando más a Cagliari Calcio. Y la forma reciente lo confirma: Cagliari Calcio llega mejor (4G-0E-1P vs 1G-1E-3P).",
+    "explicacion": "Cagliari Calcio es más fuerte de fondo (neto -0.11 vs -0.47): es más completo en general. AC Monza juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.13 – 1.45; el modelo ve marcando más a Cagliari Calcio. Y la forma reciente lo confirma: Cagliari Calcio llega mejor (4G-0E-1P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.709,
+     "prob": 0.708,
      "por_que": "Doble oportunidad: cubre que AC Monza no gane. El escenario que queda afuera (gane AC Monza) es el menos probable (29%), así que el mercado se cumple ~71% de las veces.",
      "alternativa": null,
      "confianza": "alta"
@@ -136,43 +136,43 @@
    "local": "Parma Calcio 1913",
    "visitante": "Torino FC",
    "prediccion": {
-    "prob_1": 0.341,
+    "prob_1": 0.335,
     "prob_X": 0.302,
-    "prob_2": 0.358,
+    "prob_2": 0.363,
     "goles_esperados": [
-     1.042,
-     1.075
+     1.026,
+     1.082
     ],
-    "prob_over_2_5": 0.355,
-    "prob_btts": 0.428,
+    "prob_over_2_5": 0.352,
+    "prob_btts": 0.426,
     "marcadores": [
      [
       "1-1",
-      0.1366
+      0.1367
      ],
      [
       "0-1",
-      0.1276
+      0.1296
      ],
      [
-      "1-0",
-      0.1237
+      "0-0",
+      0.1233
      ]
     ],
     "cuotas_justas": [
-     2.93,
-     3.32,
-     2.8
+     2.99,
+     3.31,
+     2.75
     ],
     "resumen": "Partido parejo. pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.27,
-     "defensa": 0.008,
-     "neto": -0.262,
-     "peso": 39.0,
+     "ataque": -0.287,
+     "defensa": -0.001,
+     "neto": -0.288,
+     "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -188,13 +188,13 @@
      "e": 1,
      "p": 3,
      "gf": 4,
-     "gc": 7,
+     "gc": 9,
      "racha": [
-      "P",
       "P",
       "E",
       "P",
-      "G"
+      "G",
+      "P"
      ]
     },
     "forma_visitante": {
@@ -242,14 +242,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Torino FC es más fuerte de fondo (neto -0.13 vs -0.26): es más completo en general. Parma Calcio 1913 juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.04 – 1.07; el modelo ve marcando más a Torino FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Torino FC es más fuerte de fondo (neto -0.13 vs -0.29): es más completo en general. Parma Calcio 1913 juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.03 – 1.08; el modelo ve marcando más a Torino FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.645,
-     "por_que": "Pocos goles esperados en total (1.04 + 1.07 = 2.12). El modelo ve el partido cerrado (64% al under).",
+     "prob": 0.647,
+     "por_que": "Pocos goles esperados en total (1.03 + 1.08 = 2.11). El modelo ve el partido cerrado (65% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
-      "prob": 0.835
+      "prob": 0.837
      },
      "confianza": "alta"
     }
@@ -284,7 +284,7 @@
      ],
      [
       "1-1",
-      0.122
+      0.1219
      ]
     ],
     "cuotas_justas": [
@@ -298,16 +298,16 @@
    "nota": "pocos datos: 'Coventry City FC' solo tiene 4.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.026,
-     "defensa": -0.071,
-     "neto": -0.044,
+     "ataque": 0.024,
+     "defensa": -0.069,
+     "neto": -0.045,
      "peso": 44.4,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.606,
-     "defensa": -0.101,
-     "neto": -0.707,
+     "ataque": -0.603,
+     "defensa": -0.1,
+     "neto": -0.704,
      "peso": 4.7,
      "fiable": false
     },
@@ -342,7 +342,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Tottenham Hotspur FC es más fuerte de fondo (neto -0.04 vs -0.71): es más completo en general. Tottenham Hotspur FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.66 – 0.73; el modelo ve marcando más a Tottenham Hotspur FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Coventry City FC: tomalo con pinzas.",
+    "explicacion": "Tottenham Hotspur FC es más fuerte de fondo (neto -0.04 vs -0.70): es más completo en general. Tottenham Hotspur FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.66 – 0.73; el modelo ve marcando más a Tottenham Hotspur FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Coventry City FC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.85,
@@ -366,17 +366,17 @@
    "prediccion": {
     "prob_1": 0.374,
     "prob_X": 0.346,
-    "prob_2": 0.279,
+    "prob_2": 0.28,
     "goles_esperados": [
-     0.922,
+     0.921,
      0.752
     ],
     "prob_over_2_5": 0.236,
-    "prob_btts": 0.321,
+    "prob_btts": 0.32,
     "marcadores": [
      [
       "0-0",
-      0.1897
+      0.1898
      ],
      [
       "1-0",
@@ -384,7 +384,7 @@
      ],
      [
       "0-1",
-      0.1388
+      0.139
      ]
     ],
     "cuotas_justas": [
@@ -407,7 +407,7 @@
      "ataque": -0.092,
      "defensa": 0.104,
      "neto": 0.012,
-     "peso": 46.6,
+     "peso": 46.5,
      "fiable": true
     },
     "forma_local": {

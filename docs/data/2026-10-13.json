@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-13",
- "actualizado": "2026-10-10T11:40:15+00:00",
+ "actualizado": "2026-10-10T18:09:25+00:00",
  "partidos": [
   {
    "id": 575341,
@@ -12,7 +12,7 @@
    "visitante": "Sporting Clube de Portugal",
    "prediccion": {
     "prob_1": 0.341,
-    "prob_X": 0.223,
+    "prob_X": 0.224,
     "prob_2": 0.436,
     "goles_esperados": [
      1.527,
@@ -45,7 +45,7 @@
    "nota": "pocos datos: 'Racing Club de Lens' solo tiene 1.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.162,
+     "ataque": 0.161,
      "defensa": -0.119,
      "neto": 0.042,
      "peso": 1.7,
@@ -55,7 +55,7 @@
      "ataque": 0.173,
      "defensa": 0.297,
      "neto": 0.47,
-     "peso": 10.9,
+     "peso": 10.8,
      "fiable": true
     },
     "forma_local": {
@@ -115,7 +115,7 @@
     "prob_X": 0.227,
     "prob_2": 0.283,
     "goles_esperados": [
-     1.764,
+     1.765,
      1.285
     ],
     "prob_over_2_5": 0.588,
@@ -243,7 +243,7 @@
      "ataque": 0.073,
      "defensa": 0.326,
      "neto": 0.399,
-     "peso": 12.4,
+     "peso": 12.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -311,7 +311,7 @@
     "prob_2": 0.556,
     "goles_esperados": [
      1.661,
-     2.462
+     2.461
     ],
     "prob_over_2_5": 0.779,
     "prob_btts": 0.739,
@@ -547,7 +547,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.193,
-     "defensa": 0.038,
+     "defensa": 0.037,
      "neto": 0.23,
      "peso": 3.8,
      "fiable": false
@@ -609,8 +609,8 @@
     "prob_X": 0.125,
     "prob_2": 0.776,
     "goles_esperados": [
-     1.083,
-     3.118
+     1.084,
+     3.117
     ],
     "prob_over_2_5": 0.79,
     "prob_btts": 0.631,
@@ -629,8 +629,8 @@
      ]
     ],
     "cuotas_justas": [
-     10.13,
-     7.99,
+     10.12,
+     7.98,
      1.29
     ],
     "resumen": "Gana FC Bayern München (claro favorito, 78%). se esperan goles (+2.5). ambos marcan.",
@@ -641,7 +641,7 @@
     "fuerza_local": {
      "ataque": -0.101,
      "defensa": -0.226,
-     "neto": -0.328,
+     "neto": -0.327,
      "peso": 0.9,
      "fiable": false
     },
@@ -686,7 +686,7 @@
      "por_que": "El modelo ve a FC Bayern München marcando más que Viking FK pese a la localía (3.12 vs 1.08), y lo respalda una diferencia de fuerza clara (neto +1.02 vs -0.33). Probabilidad del modelo: 78%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.921
+      "prob": 0.92
      },
      "confianza": "baja"
     }
@@ -817,7 +817,7 @@
      ],
      [
       "0-1",
-      0.1122
+      0.1121
      ],
      [
       "1-0",
