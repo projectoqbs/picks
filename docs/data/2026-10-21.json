@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-21",
- "actualizado": "2026-10-11T11:53:23+00:00",
+ "actualizado": "2026-10-11T18:33:56+00:00",
  "partidos": [
   {
    "id": 575368,
@@ -46,15 +46,15 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.381,
-     "defensa": 0.045,
+     "defensa": 0.044,
      "neto": 0.426,
      "peso": 0.9,
      "fiable": false
     },
     "fuerza_visitante": {
      "ataque": 0.279,
-     "defensa": 0.1,
-     "neto": 0.379,
+     "defensa": 0.099,
+     "neto": 0.378,
      "peso": 1.7,
      "fiable": false
     },
@@ -208,48 +208,48 @@
    "visitante": "Athletic Club",
    "prediccion": {
     "prob_1": 0.376,
-    "prob_X": 0.267,
-    "prob_2": 0.357,
+    "prob_X": 0.268,
+    "prob_2": 0.356,
     "goles_esperados": [
-     1.32,
-     1.281
+     1.326,
+     1.285
     ],
-    "prob_over_2_5": 0.482,
-    "prob_btts": 0.531,
+    "prob_over_2_5": 0.484,
+    "prob_btts": 0.534,
     "marcadores": [
      [
       "1-1",
-      0.1271
+      0.1277
      ],
      [
       "1-0",
-      0.0964
+      0.0949
      ],
      [
       "0-1",
-      0.0934
+      0.0919
      ]
     ],
     "cuotas_justas": [
      2.66,
-     3.74,
-     2.8
+     3.73,
+     2.81
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.068,
-     "defensa": -0.115,
-     "neto": -0.046,
+     "ataque": 0.069,
+     "defensa": -0.113,
+     "neto": -0.044,
      "peso": 28.5,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.033,
-     "defensa": 0.181,
-     "neto": 0.214,
+     "ataque": 0.034,
+     "defensa": 0.183,
+     "neto": 0.217,
      "peso": 45.4,
      "fiable": true
     },
@@ -299,10 +299,10 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Athletic Club es más fuerte de fondo (neto +0.21 vs -0.05): encaja ~17% menos. Levante UD juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.32 – 1.28; el modelo ve marcando más a Levante UD. Y la forma reciente lo confirma: Athletic Club llega mejor (2G-2E-1P vs 1G-2E-2P).",
+    "explicacion": "Athletic Club es más fuerte de fondo (neto +0.22 vs -0.04): encaja ~17% menos. Levante UD juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.33 – 1.28; el modelo ve marcando más a Levante UD. Y la forma reciente lo confirma: Athletic Club llega mejor (2G-2E-1P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.624,
+     "prob": 0.625,
      "por_que": "Doble oportunidad: cubre que Levante UD no gane. El escenario que queda afuera (gane Levante UD) es el menos probable (38%), así que el mercado se cumple ~62% de las veces.",
      "alternativa": null,
      "confianza": "alta"
@@ -334,7 +334,7 @@
      ],
      [
       "3-0",
-      0.0791
+      0.079
      ],
      [
       "2-1",
@@ -440,7 +440,7 @@
      1.793,
      0.815
     ],
-    "prob_over_2_5": 0.484,
+    "prob_over_2_5": 0.483,
     "prob_btts": 0.461,
     "marcadores": [
      [
@@ -537,7 +537,7 @@
     "prob_X": 0.239,
     "prob_2": 0.329,
     "goles_esperados": [
-     1.561,
+     1.56,
      1.332
     ],
     "prob_over_2_5": 0.552,
@@ -545,7 +545,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1117
+      0.1118
      ],
      [
       "1-0",
@@ -566,14 +566,14 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.642,
+     "ataque": 0.641,
      "defensa": 0.377,
      "neto": 1.019,
      "peso": 15.5,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.395,
+     "ataque": 0.394,
      "defensa": 0.755,
      "neto": 1.15,
      "peso": 16.0,
@@ -654,7 +654,7 @@
    "local": "Club Brugge KV",
    "visitante": "Racing Club de Lens",
    "prediccion": {
-    "prob_1": 0.513,
+    "prob_1": 0.512,
     "prob_X": 0.193,
     "prob_2": 0.294,
     "goles_esperados": [
@@ -688,7 +688,7 @@
    "nota": "pocos datos: 'Racing Club de Lens' solo tiene 1.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.172,
+     "ataque": 0.171,
      "defensa": -0.135,
      "neto": 0.036,
      "peso": 10.0,
@@ -758,7 +758,7 @@
     "prob_X": 0.122,
     "prob_2": 0.082,
     "goles_esperados": [
-     2.973,
+     2.972,
      0.881
     ],
     "prob_over_2_5": 0.74,
@@ -779,8 +779,8 @@
     ],
     "cuotas_justas": [
      1.26,
-     8.18,
-     12.2
+     8.17,
+     12.19
     ],
     "resumen": "Gana Aston Villa FC (claro favorito, 80%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -789,7 +789,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.304,
-     "defensa": 0.294,
+     "defensa": 0.295,
      "neto": 0.599,
      "peso": 4.5,
      "fiable": false
@@ -828,7 +828,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Aston Villa FC es más fuerte de fondo (neto +0.60 vs -0.33): ataca ~36% más que el promedio, encaja ~25% menos. Aston Villa FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.97 – 0.88; el modelo ve marcando más a Aston Villa FC. Y la forma reciente lo confirma: Aston Villa FC llega mejor (4G-0E-1P vs 0G-0E-1P). El modelo tiene pocos datos de Aston Villa FC: tomalo con pinzas.",
+    "explicacion": "Aston Villa FC es más fuerte de fondo (neto +0.60 vs -0.33): ataca ~36% más que el promedio, encaja ~26% menos. Aston Villa FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.97 – 0.88; el modelo ve marcando más a Aston Villa FC. Y la forma reciente lo confirma: Aston Villa FC llega mejor (4G-0E-1P vs 0G-0E-1P). El modelo tiene pocos datos de Aston Villa FC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.796,
@@ -893,7 +893,7 @@
     "fuerza_visitante": {
      "ataque": -0.257,
      "defensa": 0.124,
-     "neto": -0.134,
+     "neto": -0.133,
      "peso": 0.9,
      "fiable": false
     },
@@ -950,7 +950,7 @@
     "prob_X": 0.128,
     "prob_2": 0.123,
     "goles_esperados": [
-     3.361,
+     3.36,
      1.404
     ],
     "prob_over_2_5": 0.854,
@@ -962,7 +962,7 @@
      ],
      [
       "2-1",
-      0.0676
+      0.0677
      ],
      [
       "4-1",
@@ -971,8 +971,8 @@
     ],
     "cuotas_justas": [
      1.33,
-     7.84,
-     8.13
+     7.83,
+     8.12
     ],
     "resumen": "Gana Real Betis Balompié (claro favorito, 75%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -1024,7 +1024,7 @@
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.854,
-     "por_que": "Bastantes goles esperados (3.36 + 1.40 = 4.77); al menos una defensa floja. Probabilidad al over: 85%.",
+     "por_que": "Bastantes goles esperados (3.36 + 1.40 = 4.76); al menos una defensa floja. Probabilidad al over: 85%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.95

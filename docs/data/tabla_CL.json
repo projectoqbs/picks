@@ -4,7 +4,7 @@
  "equipos": [
   {
    "equipo": "Arsenal FC",
-   "ataque": 0.395,
+   "ataque": 0.394,
    "defensa": 0.755,
    "neto": 1.15,
    "peso": 16.0,
@@ -20,7 +20,7 @@
   },
   {
    "equipo": "FC Bayern München",
-   "ataque": 0.642,
+   "ataque": 0.641,
    "defensa": 0.377,
    "neto": 1.019,
    "peso": 15.5,
@@ -28,8 +28,8 @@
   },
   {
    "equipo": "Liverpool FC",
-   "ataque": 0.219,
-   "defensa": 0.492,
+   "ataque": 0.22,
+   "defensa": 0.493,
    "neto": 0.712,
    "peso": 10.9,
    "fiable": true
@@ -53,14 +53,14 @@
   {
    "equipo": "Aston Villa FC",
    "ataque": 0.304,
-   "defensa": 0.294,
+   "defensa": 0.295,
    "neto": 0.599,
    "peso": 4.5,
    "fiable": false
   },
   {
    "equipo": "Club Atlético de Madrid",
-   "ataque": 0.418,
+   "ataque": 0.417,
    "defensa": 0.103,
    "neto": 0.52,
    "peso": 15.1,
@@ -85,7 +85,7 @@
   {
    "equipo": "Como 1907",
    "ataque": 0.381,
-   "defensa": 0.045,
+   "defensa": 0.044,
    "neto": 0.426,
    "peso": 0.9,
    "fiable": false
@@ -117,8 +117,8 @@
   {
    "equipo": "Manchester United FC",
    "ataque": 0.279,
-   "defensa": 0.1,
-   "neto": 0.379,
+   "defensa": 0.099,
+   "neto": 0.378,
    "peso": 1.7,
    "fiable": false
   },
@@ -165,7 +165,7 @@
   {
    "equipo": "PSV",
    "ataque": 0.246,
-   "defensa": -0.068,
+   "defensa": -0.069,
    "neto": 0.178,
    "peso": 9.8,
    "fiable": true
@@ -173,15 +173,15 @@
   {
    "equipo": "Juventus FC",
    "ataque": 0.073,
-   "defensa": 0.104,
+   "defensa": 0.103,
    "neto": 0.177,
    "peso": 8.4,
    "fiable": true
   },
   {
    "equipo": "Real Sociedad de Fútbol",
-   "ataque": -0.121,
-   "defensa": 0.26,
+   "ataque": -0.12,
+   "defensa": 0.259,
    "neto": 0.139,
    "peso": 1.1,
    "fiable": false
@@ -189,7 +189,7 @@
   {
    "equipo": "PAE AEK",
    "ataque": -0.124,
-   "defensa": 0.258,
+   "defensa": 0.257,
    "neto": 0.134,
    "peso": 0.9,
    "fiable": false
@@ -229,7 +229,7 @@
   {
    "equipo": "SS Lazio",
    "ataque": -0.128,
-   "defensa": 0.188,
+   "defensa": 0.187,
    "neto": 0.059,
    "peso": 1.1,
    "fiable": false
@@ -252,7 +252,7 @@
   },
   {
    "equipo": "Club Brugge KV",
-   "ataque": 0.172,
+   "ataque": 0.171,
    "defensa": -0.135,
    "neto": 0.036,
    "peso": 10.0,
@@ -310,7 +310,7 @@
    "equipo": "1. FC Union Berlin",
    "ataque": -0.09,
    "defensa": 0.004,
-   "neto": -0.085,
+   "neto": -0.086,
    "peso": 0.8,
    "fiable": false
   },
@@ -332,8 +332,8 @@
   },
   {
    "equipo": "Bologna FC 1909",
-   "ataque": -0.321,
-   "defensa": 0.223,
+   "ataque": -0.32,
+   "defensa": 0.222,
    "neto": -0.098,
    "peso": 2.2,
    "fiable": false
@@ -358,7 +358,7 @@
    "equipo": "LASK Linz",
    "ataque": -0.257,
    "defensa": 0.124,
-   "neto": -0.134,
+   "neto": -0.133,
    "peso": 0.9,
    "fiable": false
   },
@@ -389,7 +389,7 @@
   {
    "equipo": "GNK Dinamo Zagreb",
    "ataque": -0.011,
-   "defensa": -0.174,
+   "defensa": -0.173,
    "neto": -0.185,
    "peso": 2.2,
    "fiable": false
@@ -486,14 +486,14 @@
    "equipo": "Eintracht Frankfurt",
    "ataque": -0.165,
    "defensa": -0.269,
-   "neto": -0.434,
+   "neto": -0.433,
    "peso": 4.3,
    "fiable": false
   },
   {
    "equipo": "AC Sparta Praha",
    "ataque": -0.271,
-   "defensa": -0.32,
+   "defensa": -0.319,
    "neto": -0.59,
    "peso": 2.2,
    "fiable": false
@@ -508,7 +508,7 @@
   },
   {
    "equipo": "Sabah FK",
-   "ataque": -0.297,
+   "ataque": -0.298,
    "defensa": -0.299,
    "neto": -0.597,
    "peso": 0.9,
@@ -532,8 +532,8 @@
   },
   {
    "equipo": "ŠK Slovan Bratislava",
-   "ataque": -0.171,
-   "defensa": -0.457,
+   "ataque": -0.172,
+   "defensa": -0.456,
    "neto": -0.628,
    "peso": 3.1,
    "fiable": false
@@ -548,9 +548,9 @@
   },
   {
    "equipo": "FC Red Bull Salzburg",
-   "ataque": -0.374,
+   "ataque": -0.373,
    "defensa": -0.352,
-   "neto": -0.726,
+   "neto": -0.725,
    "peso": 2.9,
    "fiable": false
   },
@@ -564,7 +564,7 @@
   },
   {
    "equipo": "BSC Young Boys",
-   "ataque": -0.446,
+   "ataque": -0.445,
    "defensa": -0.356,
    "neto": -0.801,
    "peso": 2.9,

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-13",
- "actualizado": "2026-10-11T11:53:23+00:00",
+ "actualizado": "2026-10-11T18:33:56+00:00",
  "partidos": [
   {
    "id": 575341,
@@ -12,7 +12,7 @@
    "visitante": "Sporting Clube de Portugal",
    "prediccion": {
     "prob_1": 0.341,
-    "prob_X": 0.223,
+    "prob_X": 0.224,
     "prob_2": 0.436,
     "goles_esperados": [
      1.527,
@@ -111,19 +111,19 @@
    "local": "Sabah FK",
    "visitante": "SK Slavia Praha",
    "prediccion": {
-    "prob_1": 0.491,
+    "prob_1": 0.49,
     "prob_X": 0.227,
-    "prob_2": 0.282,
+    "prob_2": 0.283,
     "goles_esperados": [
-     1.766,
-     1.284
+     1.765,
+     1.285
     ],
     "prob_over_2_5": 0.588,
     "prob_btts": 0.596,
     "marcadores": [
      [
       "1-1",
-      0.1041
+      0.1042
      ],
      [
       "2-1",
@@ -145,7 +145,7 @@
    "nota": "pocos datos: 'Sabah FK' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.297,
+     "ataque": -0.298,
      "defensa": -0.299,
      "neto": -0.597,
      "peso": 0.9,
@@ -185,11 +185,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "En fuerza de temporada están parejos (neto -0.60 vs -0.62). Sabah FK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.77 – 1.28; el modelo ve marcando más a Sabah FK. También parejos en forma (0G-0E-1P vs 0G-1E-4P en 5). El modelo tiene pocos datos de Sabah FK: tomalo con pinzas.",
+    "explicacion": "En fuerza de temporada están parejos (neto -0.60 vs -0.62). Sabah FK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.76 – 1.28; el modelo ve marcando más a Sabah FK. También parejos en forma (0G-0E-1P vs 0G-1E-4P en 5). El modelo tiene pocos datos de Sabah FK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.596,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.77 y 1.28. Probabilidad: 60%.",
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.76 y 1.28. Probabilidad: 60%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.805
@@ -247,7 +247,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.172,
+     "ataque": 0.171,
      "defensa": -0.135,
      "neto": 0.036,
      "peso": 10.0,
@@ -412,7 +412,7 @@
      2.403,
      1.561
     ],
-    "prob_over_2_5": 0.756,
+    "prob_over_2_5": 0.757,
     "prob_btts": 0.716,
     "marcadores": [
      [
@@ -425,7 +425,7 @@
      ],
      [
       "3-1",
-      0.0685
+      0.0686
      ]
     ],
     "cuotas_justas": [
@@ -439,7 +439,7 @@
    "nota": "pocos datos: 'Manchester United FC' solo tiene 1.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.418,
+     "ataque": 0.417,
      "defensa": 0.103,
      "neto": 0.52,
      "peso": 15.1,
@@ -447,8 +447,8 @@
     },
     "fuerza_visitante": {
      "ataque": 0.279,
-     "defensa": 0.1,
-     "neto": 0.379,
+     "defensa": 0.099,
+     "neto": 0.378,
      "peso": 1.7,
      "fiable": false
     },
@@ -486,7 +486,7 @@
     "explicacion": "Club Atlético de Madrid es más fuerte de fondo (neto +0.52 vs +0.38): ataca ~52% más que el promedio, encaja ~10% menos. Club Atlético de Madrid juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.40 – 1.56; el modelo ve marcando más a Club Atlético de Madrid. Pero ojo: en forma reciente Manchester United FC llega mejor que Club Atlético de Madrid, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de Manchester United FC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.756,
+     "prob": 0.757,
      "por_que": "Bastantes goles esperados (2.40 + 1.56 = 3.96). Probabilidad al over: 76%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -505,11 +505,11 @@
    "local": "Arsenal FC",
    "visitante": "Lille OSC",
    "prediccion": {
-    "prob_1": 0.759,
+    "prob_1": 0.758,
     "prob_X": 0.149,
     "prob_2": 0.092,
     "goles_esperados": [
-     2.5,
+     2.499,
      0.745
     ],
     "prob_over_2_5": 0.629,
@@ -530,7 +530,7 @@
     ],
     "cuotas_justas": [
      1.32,
-     6.72,
+     6.71,
      10.81
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 76%). se esperan goles (+2.5).",
@@ -539,7 +539,7 @@
    "nota": "pocos datos: 'Lille OSC' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.395,
+     "ataque": 0.394,
      "defensa": 0.755,
      "neto": 1.15,
      "peso": 16.0,
@@ -586,11 +586,11 @@
     "explicacion": "Arsenal FC es más fuerte de fondo (neto +1.15 vs +0.23): ataca ~48% más que el promedio, encaja ~53% menos. Arsenal FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.50 – 0.74; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (2G-2E-1P vs 1G-1E-3P). El modelo tiene pocos datos de Lille OSC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.759,
+     "prob": 0.758,
      "por_que": "Arsenal FC es favorito en casa: marca más (2.50 vs 0.74) y es más fuerte de fondo (neto +1.15 vs +0.23). Probabilidad: 76%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.908
+      "prob": 0.907
      },
      "confianza": "baja"
     }
@@ -629,7 +629,7 @@
      ]
     ],
     "cuotas_justas": [
-     10.12,
+     10.11,
      7.98,
      1.29
     ],
@@ -646,7 +646,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.642,
+     "ataque": 0.641,
      "defensa": 0.377,
      "neto": 1.019,
      "peso": 15.5,
@@ -686,7 +686,7 @@
      "por_que": "El modelo ve a FC Bayern München marcando más que Viking FK pese a la localía (3.12 vs 1.08), y lo respalda una diferencia de fuerza clara (neto +1.02 vs -0.33). Probabilidad del modelo: 78%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.921
+      "prob": 0.92
      },
      "confianza": "baja"
     }
@@ -706,7 +706,7 @@
     "prob_2": 0.432,
     "goles_esperados": [
      1.692,
-     1.883
+     1.882
     ],
     "prob_over_2_5": 0.693,
     "prob_btts": 0.689,
@@ -743,7 +743,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.246,
-     "defensa": -0.068,
+     "defensa": -0.069,
      "neto": 0.178,
      "peso": 9.8,
      "fiable": true
@@ -783,7 +783,7 @@
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.693,
-     "por_que": "Bastantes goles esperados (1.69 + 1.88 = 3.58); al menos una defensa floja. Probabilidad al over: 69%.",
+     "por_que": "Bastantes goles esperados (1.69 + 1.88 = 3.57); al menos una defensa floja. Probabilidad al over: 69%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.869

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-14",
- "actualizado": "2026-10-11T11:53:23+00:00",
+ "actualizado": "2026-10-11T18:33:56+00:00",
  "partidos": [
   {
    "id": 575350,
@@ -16,7 +16,7 @@
     "prob_2": 0.519,
     "goles_esperados": [
      0.826,
-     1.44
+     1.441
     ],
     "prob_over_2_5": 0.395,
     "prob_btts": 0.425,
@@ -47,13 +47,13 @@
     "fuerza_local": {
      "ataque": -0.257,
      "defensa": 0.124,
-     "neto": -0.134,
+     "neto": -0.133,
      "peso": 0.9,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.219,
-     "defensa": 0.492,
+     "ataque": 0.22,
+     "defensa": 0.493,
      "neto": 0.712,
      "peso": 10.9,
      "fiable": true
@@ -85,7 +85,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.71 vs -0.13): ataca ~24% más que el promedio, encaja ~39% menos. LASK Linz juega en casa (~+34% de ventaja, ya contada). Goles esperados: 0.83 – 1.44; el modelo ve marcando más a Liverpool FC. Y la forma reciente lo confirma: Liverpool FC llega mejor (2G-0E-3P vs 0G-0E-1P). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
+    "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.71 vs -0.13): ataca ~25% más que el promedio, encaja ~39% menos. LASK Linz juega en casa (~+34% de ventaja, ya contada). Goles esperados: 0.83 – 1.44; el modelo ve marcando más a Liverpool FC. Y la forma reciente lo confirma: Liverpool FC llega mejor (2G-0E-3P vs 0G-0E-1P). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.781,
@@ -112,7 +112,7 @@
     "prob_2": 0.529,
     "goles_esperados": [
      1.837,
-     2.501
+     2.5
     ],
     "prob_over_2_5": 0.807,
     "prob_btts": 0.77,
@@ -149,7 +149,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.381,
-     "defensa": 0.045,
+     "defensa": 0.044,
      "neto": 0.426,
      "peso": 0.9,
      "fiable": false
@@ -208,10 +208,10 @@
     "prob_2": 0.499,
     "goles_esperados": [
      1.434,
-     1.95
+     1.951
     ],
     "prob_over_2_5": 0.657,
-    "prob_btts": 0.65,
+    "prob_btts": 0.651,
     "marcadores": [
      [
       "1-2",
@@ -223,7 +223,7 @@
      ],
      [
       "0-1",
-      0.069
+      0.0689
      ]
     ],
     "cuotas_justas": [
@@ -301,7 +301,7 @@
    "prediccion": {
     "prob_1": 0.253,
     "prob_X": 0.193,
-    "prob_2": 0.554,
+    "prob_2": 0.555,
     "goles_esperados": [
      1.538,
      2.322
@@ -549,7 +549,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.304,
-     "defensa": 0.294,
+     "defensa": 0.295,
      "neto": 0.599,
      "peso": 4.5,
      "fiable": false
@@ -588,7 +588,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Aston Villa FC es más fuerte de fondo (neto +0.60 vs -0.07): ataca ~36% más que el promedio, encaja ~25% menos. Aston Villa FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.24 – 0.86; el modelo ve marcando más a Aston Villa FC. Y la forma reciente lo confirma: Aston Villa FC llega mejor (4G-0E-1P vs 0G-1E-0P). El modelo tiene pocos datos de Aston Villa FC: tomalo con pinzas.",
+    "explicacion": "Aston Villa FC es más fuerte de fondo (neto +0.60 vs -0.07): ataca ~36% más que el promedio, encaja ~26% menos. Aston Villa FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.24 – 0.86; el modelo ve marcando más a Aston Villa FC. Y la forma reciente lo confirma: Aston Villa FC llega mejor (4G-0E-1P vs 0G-1E-0P). El modelo tiene pocos datos de Aston Villa FC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.689,
@@ -614,15 +614,15 @@
     "prob_X": 0.163,
     "prob_2": 0.154,
     "goles_esperados": [
-     2.629,
+     2.628,
      1.193
     ],
-    "prob_over_2_5": 0.735,
+    "prob_over_2_5": 0.734,
     "prob_btts": 0.644,
     "marcadores": [
      [
       "2-1",
-      0.0902
+      0.0903
      ],
      [
       "3-1",
@@ -636,7 +636,7 @@
     "cuotas_justas": [
      1.46,
      6.13,
-     6.5
+     6.49
     ],
     "resumen": "Gana Real Betis Balompié (claro favorito, 68%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -710,7 +710,7 @@
     "prob_X": 0.278,
     "prob_2": 0.345,
     "goles_esperados": [
-     1.166,
+     1.167,
      1.102
     ],
     "prob_over_2_5": 0.396,
@@ -726,7 +726,7 @@
      ],
      [
       "0-1",
-      0.1181
+      0.118
      ]
     ],
     "cuotas_justas": [
@@ -748,7 +748,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.124,
-     "defensa": 0.258,
+     "defensa": 0.257,
      "neto": 0.134,
      "peso": 0.9,
      "fiable": false
@@ -783,7 +783,7 @@
     "explicacion": "PAE AEK es más fuerte de fondo (neto +0.13 vs -0.10): encaja ~23% menos. FK Shakhtar Donetsk juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.17 – 1.10; el modelo ve marcando más a FK Shakhtar Donetsk. Y la forma reciente lo confirma: PAE AEK llega mejor (1G-0E-0P vs 1G-1E-3P). El modelo tiene pocos datos de FK Shakhtar Donetsk: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.605,
+     "prob": 0.604,
      "por_que": "Pocos goles esperados en total (1.17 + 1.10 = 2.27); la defensa de PAE AEK aprieta. El modelo ve el partido cerrado (60% al under).",
      "alternativa": {
       "mercado": "X2",
@@ -806,29 +806,29 @@
     "prob_X": 0.2,
     "prob_2": 0.514,
     "goles_esperados": [
-     1.616,
-     2.201
+     1.614,
+     2.199
     ],
-    "prob_over_2_5": 0.734,
+    "prob_over_2_5": 0.733,
     "prob_btts": 0.71,
     "marcadores": [
      [
       "1-2",
-      0.0861
+      0.0862
      ],
      [
       "1-1",
-      0.0759
+      0.076
      ],
      [
       "2-2",
-      0.0696
+      0.0695
      ]
     ],
     "cuotas_justas": [
      3.49,
      5.01,
-     1.94
+     1.95
     ],
     "resumen": "Gana VfB Stuttgart (ligero favorito, 51%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -836,8 +836,8 @@
    "nota": "pocos datos: 'ŠK Slovan Bratislava' solo tiene 3.1 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.171,
-     "defensa": -0.457,
+     "ataque": -0.172,
+     "defensa": -0.456,
      "neto": -0.628,
      "peso": 3.1,
      "fiable": false
@@ -888,14 +888,14 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "VfB Stuttgart es más fuerte de fondo (neto -0.03 vs -0.63): es más completo en general. ŠK Slovan Bratislava juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.62 – 2.20; el modelo ve marcando más a VfB Stuttgart. Y la forma reciente lo confirma: VfB Stuttgart llega mejor (3G-0E-2P vs 0G-0E-5P). El modelo tiene pocos datos de ŠK Slovan Bratislava: tomalo con pinzas.",
+    "explicacion": "VfB Stuttgart es más fuerte de fondo (neto -0.03 vs -0.63): es más completo en general. ŠK Slovan Bratislava juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.61 – 2.20; el modelo ve marcando más a VfB Stuttgart. Y la forma reciente lo confirma: VfB Stuttgart llega mejor (3G-0E-2P vs 0G-0E-5P). El modelo tiene pocos datos de ŠK Slovan Bratislava: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.734,
-     "por_que": "Bastantes goles esperados (1.62 + 2.20 = 3.82); al menos una defensa floja. Probabilidad al over: 73%.",
+     "prob": 0.733,
+     "por_que": "Bastantes goles esperados (1.61 + 2.20 = 3.81); al menos una defensa floja. Probabilidad al over: 73%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.892
+      "prob": 0.891
      },
      "confianza": "baja"
     }

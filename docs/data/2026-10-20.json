@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-20",
- "actualizado": "2026-10-11T11:53:23+00:00",
+ "actualizado": "2026-10-11T18:33:56+00:00",
  "partidos": [
   {
    "id": 575359,
@@ -15,10 +15,10 @@
     "prob_X": 0.187,
     "prob_2": 0.62,
     "goles_esperados": [
-     1.218,
+     1.217,
      2.307
     ],
-    "prob_over_2_5": 0.684,
+    "prob_over_2_5": 0.683,
     "prob_btts": 0.631,
     "marcadores": [
      [
@@ -31,7 +31,7 @@
      ],
      [
       "0-2",
-      0.0784
+      0.0785
      ]
     ],
     "cuotas_justas": [
@@ -45,7 +45,7 @@
    "nota": "pocos datos: 'Sabah FK' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.297,
+     "ataque": -0.298,
      "defensa": -0.299,
      "neto": -0.597,
      "peso": 0.9,
@@ -119,11 +119,11 @@
     "marcadores": [
      [
       "2-0",
-      0.1099
+      0.1098
      ],
      [
       "1-0",
-      0.1075
+      0.1074
      ],
      [
       "2-1",
@@ -205,7 +205,7 @@
    "prediccion": {
     "prob_1": 0.532,
     "prob_X": 0.238,
-    "prob_2": 0.23,
+    "prob_2": 0.229,
     "goles_esperados": [
      1.648,
      0.986
@@ -215,7 +215,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1219
+      0.1218
      ],
      [
       "1-1",
@@ -245,7 +245,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.124,
-     "defensa": 0.258,
+     "defensa": 0.257,
      "neto": 0.134,
      "peso": 0.9,
      "fiable": false
@@ -296,14 +296,14 @@
    "local": "VfB Stuttgart",
    "visitante": "Club Atlético de Madrid",
    "prediccion": {
-    "prob_1": 0.302,
+    "prob_1": 0.303,
     "prob_X": 0.201,
     "prob_2": 0.497,
     "goles_esperados": [
      1.68,
-     2.18
+     2.179
     ],
-    "prob_over_2_5": 0.741,
+    "prob_over_2_5": 0.74,
     "prob_btts": 0.719,
     "marcadores": [
      [
@@ -312,15 +312,15 @@
      ],
      [
       "1-1",
-      0.0748
+      0.0749
      ],
      [
       "2-2",
-      0.0706
+      0.0707
      ]
     ],
     "cuotas_justas": [
-     3.31,
+     3.3,
      4.98,
      2.01
     ],
@@ -337,7 +337,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.418,
+     "ataque": 0.417,
      "defensa": 0.103,
      "neto": 0.52,
      "peso": 15.1,
@@ -377,7 +377,7 @@
     "explicacion": "Club Atlético de Madrid es más fuerte de fondo (neto +0.52 vs -0.03): ataca ~52% más que el promedio, encaja ~10% menos. VfB Stuttgart juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.68 – 2.18; el modelo ve marcando más a Club Atlético de Madrid. Pero ojo: en forma reciente VfB Stuttgart llega mejor que Club Atlético de Madrid, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de VfB Stuttgart: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.741,
+     "prob": 0.74,
      "por_que": "Bastantes goles esperados (1.68 + 2.18 = 3.86); al menos una defensa floja. Probabilidad al over: 74%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -430,8 +430,8 @@
    "nota": "pocos datos: 'Villarreal CF' solo tiene 5.3 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.219,
-     "defensa": 0.492,
+     "ataque": 0.22,
+     "defensa": 0.493,
      "neto": 0.712,
      "peso": 10.9,
      "fiable": true
@@ -474,7 +474,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.71 vs -0.65): ataca ~24% más que el promedio, encaja ~39% menos. Liverpool FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.90 – 0.56; el modelo ve marcando más a Liverpool FC. Y la forma reciente lo confirma: Liverpool FC llega mejor (2G-0E-3P vs 0G-0E-5P). El modelo tiene pocos datos de Villarreal CF: tomalo con pinzas.",
+    "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.71 vs -0.65): ataca ~25% más que el promedio, encaja ~39% menos. Liverpool FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.90 – 0.56; el modelo ve marcando más a Liverpool FC. Y la forma reciente lo confirma: Liverpool FC llega mejor (2G-0E-3P vs 0G-0E-5P). El modelo tiene pocos datos de Villarreal CF: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.849,
@@ -500,19 +500,19 @@
     "prob_X": 0.154,
     "prob_2": 0.12,
     "goles_esperados": [
-     2.609,
-     0.974
+     2.607,
+     0.973
     ],
     "prob_over_2_5": 0.694,
-    "prob_btts": 0.575,
+    "prob_btts": 0.574,
     "marcadores": [
      [
       "2-0",
-      0.0946
+      0.0947
      ],
      [
       "2-1",
-      0.0921
+      0.0922
      ],
      [
       "3-0",
@@ -521,7 +521,7 @@
     ],
     "cuotas_justas": [
      1.38,
-     6.5,
+     6.49,
      8.32
     ],
     "resumen": "Gana AS Roma (claro favorito, 73%). se esperan goles (+2.5).",
@@ -537,8 +537,8 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": -0.171,
-     "defensa": -0.457,
+     "ataque": -0.172,
+     "defensa": -0.456,
      "neto": -0.628,
      "peso": 3.1,
      "fiable": false
@@ -597,7 +597,7 @@
     "prob_2": 0.383,
     "goles_esperados": [
      1.747,
-     1.709
+     1.708
     ],
     "prob_over_2_5": 0.671,
     "prob_btts": 0.673,
@@ -634,7 +634,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.246,
-     "defensa": -0.068,
+     "defensa": -0.069,
      "neto": 0.178,
      "peso": 9.8,
      "fiable": true
@@ -792,11 +792,11 @@
    "local": "Paris Saint-Germain FC",
    "visitante": "FC Barcelona",
    "prediccion": {
-    "prob_1": 0.704,
+    "prob_1": 0.705,
     "prob_X": 0.138,
     "prob_2": 0.158,
     "goles_esperados": [
-     3.394,
+     3.395,
      1.683
     ],
     "prob_over_2_5": 0.882,
@@ -891,11 +891,11 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +1.06 vs +0.65): ataca ~108% más que el promedio, encaja ~28% menos. Paris Saint-Germain FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 3.39 – 1.68; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-1E-0P vs 3G-1E-1P).",
+    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +1.06 vs +0.65): ataca ~108% más que el promedio, encaja ~28% menos. Paris Saint-Germain FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 3.40 – 1.68; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-1E-0P vs 3G-1E-1P).",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.882,
-     "por_que": "Bastantes goles esperados (3.39 + 1.68 = 5.08). Probabilidad al over: 88%.",
+     "por_que": "Bastantes goles esperados (3.40 + 1.68 = 5.08). Probabilidad al over: 88%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.961
