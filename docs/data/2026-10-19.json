@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-19",
- "actualizado": "2026-10-10T18:09:25+00:00",
+ "actualizado": "2026-10-11T11:53:23+00:00",
  "partidos": [
   {
    "id": 558576,
@@ -13,48 +13,48 @@
    "prediccion": {
     "prob_1": 0.292,
     "prob_X": 0.265,
-    "prob_2": 0.444,
+    "prob_2": 0.443,
     "goles_esperados": [
-     1.126,
-     1.451
+     1.127,
+     1.448
     ],
-    "prob_over_2_5": 0.476,
+    "prob_over_2_5": 0.475,
     "prob_btts": 0.519,
     "marcadores": [
      [
       "1-1",
-      0.1258
+      0.126
      ],
      [
       "0-1",
-      0.1087
+      0.1085
      ],
      [
       "1-2",
-      0.0901
+      0.09
      ]
     ],
     "cuotas_justas": [
-     3.43,
+     3.42,
      3.78,
-     2.25
+     2.26
     ],
     "resumen": "Gana Cagliari Calcio (ligero favorito, 44%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.146,
-     "defensa": -0.32,
-     "neto": -0.466,
-     "peso": 21.8,
+     "ataque": -0.145,
+     "defensa": -0.318,
+     "neto": -0.463,
+     "peso": 21.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.082,
-     "defensa": -0.026,
-     "neto": -0.108,
-     "peso": 44.7,
+     "ataque": -0.08,
+     "defensa": -0.024,
+     "neto": -0.103,
+     "peso": 44.6,
      "fiable": true
     },
     "forma_local": {
@@ -117,7 +117,7 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Cagliari Calcio es más fuerte de fondo (neto -0.11 vs -0.47): es más completo en general. AC Monza juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.13 – 1.45; el modelo ve marcando más a Cagliari Calcio. Y la forma reciente lo confirma: Cagliari Calcio llega mejor (4G-0E-1P vs 1G-1E-3P).",
+    "explicacion": "Cagliari Calcio es más fuerte de fondo (neto -0.10 vs -0.46): es más completo en general. AC Monza juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.13 – 1.45; el modelo ve marcando más a Cagliari Calcio. Y la forma reciente lo confirma: Cagliari Calcio llega mejor (4G-0E-1P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.708,
@@ -136,50 +136,50 @@
    "local": "Parma Calcio 1913",
    "visitante": "Torino FC",
    "prediccion": {
-    "prob_1": 0.335,
-    "prob_X": 0.302,
-    "prob_2": 0.363,
+    "prob_1": 0.336,
+    "prob_X": 0.303,
+    "prob_2": 0.362,
     "goles_esperados": [
-     1.026,
-     1.082
+     1.028,
+     1.079
     ],
     "prob_over_2_5": 0.352,
     "prob_btts": 0.426,
     "marcadores": [
      [
       "1-1",
-      0.1367
+      0.1368
      ],
      [
       "0-1",
-      0.1296
+      0.1293
      ],
      [
       "0-0",
-      0.1233
+      0.1234
      ]
     ],
     "cuotas_justas": [
-     2.99,
-     3.31,
-     2.75
+     2.98,
+     3.3,
+     2.76
     ],
     "resumen": "Partido parejo. pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.287,
-     "defensa": -0.001,
-     "neto": -0.288,
-     "peso": 40.0,
+     "ataque": -0.285,
+     "defensa": 0.002,
+     "neto": -0.282,
+     "peso": 39.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.055,
-     "defensa": -0.074,
-     "neto": -0.13,
-     "peso": 44.7,
+     "ataque": -0.053,
+     "defensa": -0.072,
+     "neto": -0.125,
+     "peso": 44.6,
      "fiable": true
     },
     "forma_local": {
@@ -242,116 +242,16 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Torino FC es más fuerte de fondo (neto -0.13 vs -0.29): es más completo en general. Parma Calcio 1913 juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.03 – 1.08; el modelo ve marcando más a Torino FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Torino FC es más fuerte de fondo (neto -0.12 vs -0.28): es más completo en general. Parma Calcio 1913 juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.03 – 1.08; el modelo ve marcando más a Torino FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.647,
+     "prob": 0.648,
      "por_que": "Pocos goles esperados en total (1.03 + 1.08 = 2.11). El modelo ve el partido cerrado (65% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
       "prob": 0.837
      },
      "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 560606,
-   "competicion": "Premier League",
-   "competicion_codigo": "PL",
-   "fecha_utc": "2026-10-19T19:00:00Z",
-   "jornada": 7,
-   "local": "Tottenham Hotspur FC",
-   "visitante": "Coventry City FC",
-   "prediccion": {
-    "prob_1": 0.587,
-    "prob_X": 0.263,
-    "prob_2": 0.15,
-    "goles_esperados": [
-     1.662,
-     0.726
-    ],
-    "prob_over_2_5": 0.427,
-    "prob_btts": 0.429,
-    "marcadores": [
-     [
-      "1-0",
-      0.1414
-     ],
-     [
-      "2-0",
-      0.1268
-     ],
-     [
-      "1-1",
-      0.1219
-     ]
-    ],
-    "cuotas_justas": [
-     1.7,
-     3.8,
-     6.68
-    ],
-    "resumen": "Gana Tottenham Hotspur FC (claro favorito, 59%).",
-    "confianza": "baja"
-   },
-   "nota": "pocos datos: 'Coventry City FC' solo tiene 4.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.024,
-     "defensa": -0.069,
-     "neto": -0.045,
-     "peso": 44.4,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.603,
-     "defensa": -0.1,
-     "neto": -0.704,
-     "peso": 4.7,
-     "fiable": false
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 0,
-     "e": 2,
-     "p": 3,
-     "gf": 2,
-     "gc": 8,
-     "racha": [
-      "P",
-      "P",
-      "E",
-      "E",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 1,
-     "e": 0,
-     "p": 4,
-     "gf": 1,
-     "gc": 10,
-     "racha": [
-      "P",
-      "P",
-      "P",
-      "P",
-      "G"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "Tottenham Hotspur FC es más fuerte de fondo (neto -0.04 vs -0.70): es más completo en general. Tottenham Hotspur FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.66 – 0.73; el modelo ve marcando más a Tottenham Hotspur FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Coventry City FC: tomalo con pinzas.",
-    "recomendacion": {
-     "mercado": "1X",
-     "prob": 0.85,
-     "por_que": "Doble oportunidad: cubre que Tottenham Hotspur FC no pierda. El escenario que queda afuera (gane Coventry City FC) es el menos probable (15%), así que el mercado se cumple ~85% de las veces.",
-     "alternativa": {
-      "mercado": "1",
-      "prob": 0.587
-     },
-     "confianza": "baja"
     }
    }
   },
@@ -364,48 +264,48 @@
    "local": "Getafe CF",
    "visitante": "Rayo Vallecano de Madrid",
    "prediccion": {
-    "prob_1": 0.374,
+    "prob_1": 0.37,
     "prob_X": 0.346,
-    "prob_2": 0.28,
+    "prob_2": 0.285,
     "goles_esperados": [
-     0.921,
-     0.752
+     0.912,
+     0.761
     ],
     "prob_over_2_5": 0.236,
-    "prob_btts": 0.32,
+    "prob_btts": 0.321,
     "marcadores": [
      [
       "0-0",
-      0.1898
+      0.1892
      ],
      [
       "1-0",
-      0.1706
+      0.1694
      ],
      [
       "0-1",
-      0.139
+      0.1411
      ]
     ],
     "cuotas_justas": [
-     2.67,
+     2.71,
      2.89,
-     3.58
+     3.51
     ],
     "resumen": "Partido parejo. pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.369,
-     "defensa": 0.294,
-     "neto": -0.075,
-     "peso": 46.5,
+     "ataque": -0.38,
+     "defensa": 0.282,
+     "neto": -0.098,
+     "peso": 47.4,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.092,
-     "defensa": 0.104,
+     "ataque": -0.091,
+     "defensa": 0.103,
      "neto": 0.012,
      "peso": 46.5,
      "fiable": true
@@ -416,13 +316,13 @@
      "e": 2,
      "p": 2,
      "gf": 3,
-     "gc": 4,
+     "gc": 6,
      "racha": [
-      "P",
       "E",
       "E",
       "P",
-      "G"
+      "G",
+      "P"
      ]
     },
     "forma_visitante": {
@@ -477,16 +377,116 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto -0.07 vs +0.01). Getafe CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 0.92 – 0.75; el modelo ve marcando más a Getafe CF. También parejos en forma (1G-2E-2P vs 2G-1E-2P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto -0.10 vs +0.01). Getafe CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 0.91 – 0.76; el modelo ve marcando más a Getafe CF. También parejos en forma (1G-2E-2P vs 2G-1E-2P en 5).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.764,
-     "por_que": "Pocos goles esperados en total (0.92 + 0.75 = 1.67); la defensa de Getafe CF aprieta. El modelo ve el partido cerrado (76% al under).",
+     "por_que": "Pocos goles esperados en total (0.91 + 0.76 = 1.67); la defensa de Getafe CF aprieta. El modelo ve el partido cerrado (76% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
       "prob": 0.911
      },
      "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 560606,
+   "competicion": "Premier League",
+   "competicion_codigo": "PL",
+   "fecha_utc": "2026-10-19T19:00:00Z",
+   "jornada": 7,
+   "local": "Tottenham Hotspur FC",
+   "visitante": "Coventry City FC",
+   "prediccion": {
+    "prob_1": 0.587,
+    "prob_X": 0.265,
+    "prob_2": 0.148,
+    "goles_esperados": [
+     1.654,
+     0.718
+    ],
+    "prob_over_2_5": 0.423,
+    "prob_btts": 0.426,
+    "marcadores": [
+     [
+      "1-0",
+      0.1427
+     ],
+     [
+      "2-0",
+      0.1276
+     ],
+     [
+      "1-1",
+      0.1224
+     ]
+    ],
+    "cuotas_justas": [
+     1.7,
+     3.78,
+     6.74
+    ],
+    "resumen": "Gana Tottenham Hotspur FC (claro favorito, 59%).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Coventry City FC' solo tiene 4.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.021,
+     "defensa": -0.057,
+     "neto": -0.037,
+     "peso": 45.3,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.603,
+     "defensa": -0.099,
+     "neto": -0.703,
+     "peso": 4.7,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 0,
+     "e": 3,
+     "p": 2,
+     "gf": 3,
+     "gc": 6,
+     "racha": [
+      "P",
+      "E",
+      "E",
+      "P",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 1,
+     "gc": 10,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Tottenham Hotspur FC es más fuerte de fondo (neto -0.04 vs -0.70): es más completo en general. Tottenham Hotspur FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.65 – 0.72; el modelo ve marcando más a Tottenham Hotspur FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Coventry City FC: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.852,
+     "por_que": "Doble oportunidad: cubre que Tottenham Hotspur FC no pierda. El escenario que queda afuera (gane Coventry City FC) es el menos probable (15%), así que el mercado se cumple ~85% de las veces.",
+     "alternativa": {
+      "mercado": "1",
+      "prob": 0.587
+     },
+     "confianza": "baja"
     }
    }
   }
