@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-21",
- "actualizado": "2026-10-11T18:33:56+00:00",
+ "actualizado": "2026-10-12T14:01:01+00:00",
  "partidos": [
   {
    "id": 575368,
@@ -15,8 +15,8 @@
     "prob_X": 0.194,
     "prob_2": 0.277,
     "goles_esperados": [
-     2.318,
-     1.655
+     2.317,
+     1.654
     ],
     "prob_over_2_5": 0.758,
     "prob_btts": 0.727,
@@ -47,7 +47,7 @@
     "fuerza_local": {
      "ataque": 0.381,
      "defensa": 0.044,
-     "neto": 0.426,
+     "neto": 0.425,
      "peso": 0.9,
      "fiable": false
     },
@@ -85,11 +85,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.43 vs +0.38). Como 1907 juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.32 – 1.66; el modelo ve marcando más a Como 1907. En forma reciente pinta algo mejor Como 1907 (1G-0E-0P vs 2G-1E-2P en 5). El modelo tiene pocos datos de Como 1907: tomalo con pinzas.",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.42 vs +0.38). Como 1907 juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.32 – 1.65; el modelo ve marcando más a Como 1907. En forma reciente pinta algo mejor Como 1907 (1G-0E-0P vs 2G-1E-2P en 5). El modelo tiene pocos datos de Como 1907: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.758,
-     "por_que": "Bastantes goles esperados (2.32 + 1.66 = 3.97). Probabilidad al over: 76%.",
+     "por_que": "Bastantes goles esperados (2.32 + 1.65 = 3.97). Probabilidad al over: 76%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.904
@@ -208,49 +208,49 @@
    "visitante": "Athletic Club",
    "prediccion": {
     "prob_1": 0.376,
-    "prob_X": 0.268,
-    "prob_2": 0.356,
+    "prob_X": 0.269,
+    "prob_2": 0.355,
     "goles_esperados": [
-     1.326,
-     1.285
+     1.322,
+     1.278
     ],
-    "prob_over_2_5": 0.484,
-    "prob_btts": 0.534,
+    "prob_over_2_5": 0.482,
+    "prob_btts": 0.532,
     "marcadores": [
      [
       "1-1",
-      0.1277
+      0.1281
      ],
      [
       "1-0",
-      0.0949
+      0.0956
      ],
      [
       "0-1",
-      0.0919
+      0.0923
      ]
     ],
     "cuotas_justas": [
      2.66,
-     3.73,
-     2.81
+     3.72,
+     2.82
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.069,
-     "defensa": -0.113,
+     "ataque": 0.065,
+     "defensa": -0.109,
      "neto": -0.044,
-     "peso": 28.5,
+     "peso": 28.4,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.034,
-     "defensa": 0.183,
-     "neto": 0.217,
-     "peso": 45.4,
+     "ataque": 0.031,
+     "defensa": 0.185,
+     "neto": 0.216,
+     "peso": 45.3,
      "fiable": true
     },
     "forma_local": {
@@ -299,10 +299,10 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Athletic Club es más fuerte de fondo (neto +0.22 vs -0.04): encaja ~17% menos. Levante UD juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.33 – 1.28; el modelo ve marcando más a Levante UD. Y la forma reciente lo confirma: Athletic Club llega mejor (2G-2E-1P vs 1G-2E-2P).",
+    "explicacion": "Athletic Club es más fuerte de fondo (neto +0.22 vs -0.04): encaja ~17% menos. Levante UD juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.32 – 1.28; el modelo ve marcando más a Levante UD. Y la forma reciente lo confirma: Athletic Club llega mejor (2G-2E-1P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.625,
+     "prob": 0.624,
      "por_que": "Doble oportunidad: cubre que Levante UD no gane. El escenario que queda afuera (gane Levante UD) es el menos probable (38%), así que el mercado se cumple ~62% de las veces.",
      "alternativa": null,
      "confianza": "alta"
@@ -322,7 +322,7 @@
     "prob_X": 0.11,
     "prob_2": 0.08,
     "goles_esperados": [
-     3.317,
+     3.316,
      1.027
     ],
     "prob_over_2_5": 0.808,
@@ -440,12 +440,12 @@
      1.793,
      0.815
     ],
-    "prob_over_2_5": 0.483,
+    "prob_over_2_5": 0.484,
     "prob_btts": 0.461,
     "marcadores": [
      [
       "1-0",
-      0.1354
+      0.1353
      ],
      [
       "2-0",
@@ -537,8 +537,8 @@
     "prob_X": 0.239,
     "prob_2": 0.329,
     "goles_esperados": [
-     1.56,
-     1.332
+     1.561,
+     1.331
     ],
     "prob_over_2_5": 0.552,
     "prob_btts": 0.578,
@@ -575,7 +575,7 @@
     "fuerza_visitante": {
      "ataque": 0.394,
      "defensa": 0.755,
-     "neto": 1.15,
+     "neto": 1.149,
      "peso": 16.0,
      "fiable": true
     },
@@ -658,7 +658,7 @@
     "prob_X": 0.193,
     "prob_2": 0.294,
     "goles_esperados": [
-     2.339,
+     2.338,
      1.761
     ],
     "prob_over_2_5": 0.776,
@@ -666,7 +666,7 @@
     "marcadores": [
      [
       "2-1",
-      0.0798
+      0.0799
      ],
      [
       "2-2",
@@ -754,14 +754,14 @@
    "local": "Aston Villa FC",
    "visitante": "Viking FK",
    "prediccion": {
-    "prob_1": 0.796,
+    "prob_1": 0.795,
     "prob_X": 0.122,
     "prob_2": 0.082,
     "goles_esperados": [
-     2.972,
-     0.881
+     2.971,
+     0.882
     ],
-    "prob_over_2_5": 0.74,
+    "prob_over_2_5": 0.739,
     "prob_btts": 0.554,
     "marcadores": [
      [
@@ -780,7 +780,7 @@
     "cuotas_justas": [
      1.26,
      8.17,
-     12.19
+     12.18
     ],
     "resumen": "Gana Aston Villa FC (claro favorito, 80%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -789,8 +789,8 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.304,
-     "defensa": 0.295,
-     "neto": 0.599,
+     "defensa": 0.294,
+     "neto": 0.598,
      "peso": 4.5,
      "fiable": false
     },
@@ -828,10 +828,10 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Aston Villa FC es más fuerte de fondo (neto +0.60 vs -0.33): ataca ~36% más que el promedio, encaja ~26% menos. Aston Villa FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.97 – 0.88; el modelo ve marcando más a Aston Villa FC. Y la forma reciente lo confirma: Aston Villa FC llega mejor (4G-0E-1P vs 0G-0E-1P). El modelo tiene pocos datos de Aston Villa FC: tomalo con pinzas.",
+    "explicacion": "Aston Villa FC es más fuerte de fondo (neto +0.60 vs -0.33): ataca ~36% más que el promedio, encaja ~25% menos. Aston Villa FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.97 – 0.88; el modelo ve marcando más a Aston Villa FC. Y la forma reciente lo confirma: Aston Villa FC llega mejor (4G-0E-1P vs 0G-0E-1P). El modelo tiene pocos datos de Aston Villa FC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.796,
+     "prob": 0.795,
      "por_que": "Aston Villa FC es favorito en casa: marca más (2.97 vs 0.88) y es más fuerte de fondo (neto +0.60 vs -0.33). Probabilidad: 80%.",
      "alternativa": {
       "mercado": "1X",
@@ -852,7 +852,7 @@
    "prediccion": {
     "prob_1": 0.635,
     "prob_X": 0.214,
-    "prob_2": 0.15,
+    "prob_2": 0.151,
     "goles_esperados": [
      1.837,
      0.752
@@ -862,7 +862,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1411
+      0.141
      ],
      [
       "2-0",
@@ -927,7 +927,7 @@
     "explicacion": "Sporting Clube de Portugal es más fuerte de fondo (neto +0.47 vs -0.13): ataca ~19% más que el promedio, encaja ~26% menos. Sporting Clube de Portugal juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.84 – 0.75; el modelo ve marcando más a Sporting Clube de Portugal. Y la forma reciente lo confirma: Sporting Clube de Portugal llega mejor (2G-1E-2P vs 0G-0E-1P). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.85,
+     "prob": 0.849,
      "por_que": "Doble oportunidad: cubre que Sporting Clube de Portugal no pierda. El escenario que queda afuera (gane LASK Linz) es el menos probable (15%), así que el mercado se cumple ~85% de las veces.",
      "alternativa": {
       "mercado": "12",
@@ -950,7 +950,7 @@
     "prob_X": 0.128,
     "prob_2": 0.123,
     "goles_esperados": [
-     3.36,
+     3.359,
      1.404
     ],
     "prob_over_2_5": 0.854,

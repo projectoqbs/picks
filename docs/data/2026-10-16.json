@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-16",
- "actualizado": "2026-10-11T18:33:56+00:00",
+ "actualizado": "2026-10-12T14:01:01+00:00",
  "partidos": [
   {
    "id": 565828,
@@ -140,10 +140,10 @@
    "visitante": "US Sassuolo Calcio",
    "prediccion": {
     "prob_1": 0.42,
-    "prob_X": 0.25,
+    "prob_X": 0.251,
     "prob_2": 0.33,
     "goles_esperados": [
-     1.577,
+     1.578,
      1.374
     ],
     "prob_over_2_5": 0.566,
@@ -151,38 +151,38 @@
     "marcadores": [
      [
       "1-1",
-      0.1162
+      0.1167
      ],
      [
       "2-1",
-      0.0893
+      0.0894
      ],
      [
       "1-0",
-      0.0795
+      0.079
      ]
     ],
     "cuotas_justas": [
      2.38,
-     4.0,
+     3.99,
      3.03
     ],
-    "resumen": "Gana Frosinone Calcio (ligero favorito, 42%). ambos marcan.",
+    "resumen": "Partido parejo. ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.098,
-     "defensa": -0.101,
-     "neto": -0.004,
-     "peso": 11.4,
+     "ataque": 0.097,
+     "defensa": -0.102,
+     "neto": -0.005,
+     "peso": 11.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.087,
+     "ataque": 0.086,
      "defensa": -0.117,
      "neto": -0.031,
-     "peso": 34.2,
+     "peso": 34.1,
      "fiable": true
     },
     "forma_local": {
@@ -231,14 +231,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto -0.00 vs -0.03). Frosinone Calcio juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.58 – 1.37; el modelo ve marcando más a Frosinone Calcio. También parejos en forma (3G-1E-1P vs 2G-2E-1P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto -0.01 vs -0.03). Frosinone Calcio juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.58 – 1.37; el modelo ve marcando más a Frosinone Calcio. También parejos en forma (3G-1E-1P vs 2G-2E-1P en 5).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.596,
      "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.58 y 1.37. Probabilidad: 60%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.796
+      "prob": 0.797
      },
      "confianza": "alta"
     }
@@ -253,11 +253,11 @@
    "local": "Le Mans FC",
    "visitante": "Toulouse FC",
    "prediccion": {
-    "prob_1": 0.45,
-    "prob_X": 0.234,
-    "prob_2": 0.316,
+    "prob_1": 0.449,
+    "prob_X": 0.235,
+    "prob_2": 0.317,
     "goles_esperados": [
-     1.809,
+     1.805,
      1.49
     ],
     "prob_over_2_5": 0.64,
@@ -265,7 +265,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1031
+      0.1032
      ],
      [
       "2-1",
@@ -273,13 +273,13 @@
      ],
      [
       "1-2",
-      0.0741
+      0.0743
      ]
     ],
     "cuotas_justas": [
-     2.22,
+     2.23,
      4.26,
-     3.17
+     3.16
     ],
     "resumen": "Gana Le Mans FC (ligero favorito, 45%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -287,17 +287,17 @@
    "nota": "pocos datos: 'Le Mans FC' solo tiene 5.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.213,
-     "defensa": -0.134,
-     "neto": 0.079,
+     "ataque": 0.218,
+     "defensa": -0.135,
+     "neto": 0.083,
      "peso": 5.7,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.054,
-     "defensa": 0.044,
-     "neto": 0.098,
-     "peso": 40.3,
+     "ataque": 0.06,
+     "defensa": 0.043,
+     "neto": 0.103,
+     "peso": 40.2,
      "fiable": true
     },
     "forma_local": {
@@ -331,14 +331,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.08 vs +0.10). Le Mans FC juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.81 – 1.49; el modelo ve marcando más a Le Mans FC. También parejos en forma (1G-2E-2P vs 1G-3E-1P en 5). El modelo tiene pocos datos de Le Mans FC: tomalo con pinzas.",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.08 vs +0.10). Le Mans FC juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.80 – 1.49; el modelo ve marcando más a Le Mans FC. También parejos en forma (1G-2E-2P vs 1G-3E-1P en 5). El modelo tiene pocos datos de Le Mans FC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.651,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.81 y 1.49. Probabilidad: 65%.",
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.80 y 1.49. Probabilidad: 65%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.845
+      "prob": 0.844
      },
      "confianza": "baja"
     }
@@ -353,33 +353,33 @@
    "local": "RC Deportivo La Coruña",
    "visitante": "Levante UD",
    "prediccion": {
-    "prob_1": 0.527,
-    "prob_X": 0.227,
-    "prob_2": 0.246,
+    "prob_1": 0.528,
+    "prob_X": 0.228,
+    "prob_2": 0.244,
     "goles_esperados": [
-     1.908,
-     1.243
+     1.902,
+     1.234
     ],
-    "prob_over_2_5": 0.61,
-    "prob_btts": 0.608,
+    "prob_over_2_5": 0.607,
+    "prob_btts": 0.605,
     "marcadores": [
      [
       "1-1",
-      0.1035
+      0.1041
      ],
      [
       "2-1",
-      0.0969
+      0.097
      ],
      [
       "1-0",
-      0.0796
+      0.0806
      ]
     ],
     "cuotas_justas": [
-     1.9,
-     4.4,
-     4.07
+     1.89,
+     4.39,
+     4.09
     ],
     "resumen": "Gana RC Deportivo La Coruña (ligero favorito, 53%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -387,17 +387,17 @@
    "nota": "pocos datos: 'RC Deportivo La Coruña' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.137,
-     "defensa": -0.045,
-     "neto": 0.092,
+     "ataque": 0.135,
+     "defensa": -0.04,
+     "neto": 0.095,
      "peso": 7.5,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.069,
-     "defensa": -0.113,
+     "ataque": 0.065,
+     "defensa": -0.109,
      "neto": -0.044,
-     "peso": 28.5,
+     "peso": 28.4,
      "fiable": true
     },
     "forma_local": {
@@ -431,14 +431,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "RC Deportivo La Coruña es más fuerte de fondo (neto +0.09 vs -0.04): ataca ~15% más que el promedio. RC Deportivo La Coruña juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.91 – 1.24; el modelo ve marcando más a RC Deportivo La Coruña. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de RC Deportivo La Coruña: tomalo con pinzas.",
+    "explicacion": "RC Deportivo La Coruña es más fuerte de fondo (neto +0.10 vs -0.04): ataca ~14% más que el promedio. RC Deportivo La Coruña juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.90 – 1.23; el modelo ve marcando más a RC Deportivo La Coruña. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de RC Deportivo La Coruña: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 1.5 goles",
-     "prob": 0.824,
-     "por_que": "Bastantes goles esperados (1.91 + 1.24 = 3.15); al menos una defensa floja. Probabilidad al over: 82%.",
+     "prob": 0.822,
+     "por_que": "Bastantes goles esperados (1.90 + 1.23 = 3.14); al menos una defensa floja. Probabilidad al over: 82%.",
      "alternativa": {
       "mercado": "12",
-      "prob": 0.773
+      "prob": 0.772
      },
      "confianza": "baja"
     }

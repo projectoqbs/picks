@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-13",
- "actualizado": "2026-10-11T18:33:56+00:00",
+ "actualizado": "2026-10-12T14:01:01+00:00",
  "partidos": [
   {
    "id": 575341,
@@ -18,7 +18,7 @@
      1.527,
      1.753
     ],
-    "prob_over_2_5": 0.637,
+    "prob_over_2_5": 0.636,
     "prob_btts": 0.644,
     "marcadores": [
      [
@@ -35,8 +35,8 @@
      ]
     ],
     "cuotas_justas": [
-     2.94,
-     4.48,
+     2.93,
+     4.47,
      2.29
     ],
     "resumen": "Gana Sporting Clube de Portugal (ligero favorito, 44%). se esperan goles (+2.5). ambos marcan.",
@@ -111,11 +111,11 @@
    "local": "Sabah FK",
    "visitante": "SK Slavia Praha",
    "prediccion": {
-    "prob_1": 0.49,
+    "prob_1": 0.491,
     "prob_X": 0.227,
-    "prob_2": 0.283,
+    "prob_2": 0.282,
     "goles_esperados": [
-     1.765,
+     1.766,
      1.285
     ],
     "prob_over_2_5": 0.588,
@@ -131,7 +131,7 @@
      ],
      [
       "1-0",
-      0.0869
+      0.0868
      ]
     ],
     "cuotas_justas": [
@@ -145,7 +145,7 @@
    "nota": "pocos datos: 'Sabah FK' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.298,
+     "ataque": -0.297,
      "defensa": -0.299,
      "neto": -0.597,
      "peso": 0.9,
@@ -185,11 +185,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "En fuerza de temporada están parejos (neto -0.60 vs -0.62). Sabah FK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.76 – 1.28; el modelo ve marcando más a Sabah FK. También parejos en forma (0G-0E-1P vs 0G-1E-4P en 5). El modelo tiene pocos datos de Sabah FK: tomalo con pinzas.",
+    "explicacion": "En fuerza de temporada están parejos (neto -0.60 vs -0.62). Sabah FK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.77 – 1.28; el modelo ve marcando más a Sabah FK. También parejos en forma (0G-0E-1P vs 0G-1E-4P en 5). El modelo tiene pocos datos de Sabah FK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.596,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.76 y 1.28. Probabilidad: 60%.",
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.77 y 1.28. Probabilidad: 60%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.805
@@ -349,7 +349,7 @@
      "ataque": 0.578,
      "defensa": 0.07,
      "neto": 0.648,
-     "peso": 13.8,
+     "peso": 13.7,
      "fiable": true
     },
     "forma_local": {
@@ -412,7 +412,7 @@
      2.403,
      1.561
     ],
-    "prob_over_2_5": 0.757,
+    "prob_over_2_5": 0.756,
     "prob_btts": 0.716,
     "marcadores": [
      [
@@ -442,7 +442,7 @@
      "ataque": 0.417,
      "defensa": 0.103,
      "neto": 0.52,
-     "peso": 15.1,
+     "peso": 15.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -486,7 +486,7 @@
     "explicacion": "Club Atlético de Madrid es más fuerte de fondo (neto +0.52 vs +0.38): ataca ~52% más que el promedio, encaja ~10% menos. Club Atlético de Madrid juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.40 – 1.56; el modelo ve marcando más a Club Atlético de Madrid. Pero ojo: en forma reciente Manchester United FC llega mejor que Club Atlético de Madrid, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de Manchester United FC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.757,
+     "prob": 0.756,
      "por_que": "Bastantes goles esperados (2.40 + 1.56 = 3.96). Probabilidad al over: 76%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -507,10 +507,10 @@
    "prediccion": {
     "prob_1": 0.758,
     "prob_X": 0.149,
-    "prob_2": 0.092,
+    "prob_2": 0.093,
     "goles_esperados": [
      2.499,
-     0.745
+     0.746
     ],
     "prob_over_2_5": 0.629,
     "prob_btts": 0.48,
@@ -531,7 +531,7 @@
     "cuotas_justas": [
      1.32,
      6.71,
-     10.81
+     10.8
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 76%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -541,7 +541,7 @@
     "fuerza_local": {
      "ataque": 0.394,
      "defensa": 0.755,
-     "neto": 1.15,
+     "neto": 1.149,
      "peso": 16.0,
      "fiable": true
     },
@@ -583,11 +583,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Arsenal FC es más fuerte de fondo (neto +1.15 vs +0.23): ataca ~48% más que el promedio, encaja ~53% menos. Arsenal FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.50 – 0.74; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (2G-2E-1P vs 1G-1E-3P). El modelo tiene pocos datos de Lille OSC: tomalo con pinzas.",
+    "explicacion": "Arsenal FC es más fuerte de fondo (neto +1.15 vs +0.23): ataca ~48% más que el promedio, encaja ~53% menos. Arsenal FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.50 – 0.75; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (2G-2E-1P vs 1G-1E-3P). El modelo tiene pocos datos de Lille OSC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.758,
-     "por_que": "Arsenal FC es favorito en casa: marca más (2.50 vs 0.74) y es más fuerte de fondo (neto +1.15 vs +0.23). Probabilidad: 76%.",
+     "por_que": "Arsenal FC es favorito en casa: marca más (2.50 vs 0.75) y es más fuerte de fondo (neto +1.15 vs +0.23). Probabilidad: 76%.",
      "alternativa": {
       "mercado": "1X",
       "prob": 0.907
@@ -610,7 +610,7 @@
     "prob_2": 0.776,
     "goles_esperados": [
      1.084,
-     3.117
+     3.116
     ],
     "prob_over_2_5": 0.79,
     "prob_btts": 0.631,
@@ -743,8 +743,8 @@
     },
     "fuerza_visitante": {
      "ataque": 0.246,
-     "defensa": -0.069,
-     "neto": 0.178,
+     "defensa": -0.068,
+     "neto": 0.177,
      "peso": 9.8,
      "fiable": true
     },
@@ -805,7 +805,7 @@
     "prob_X": 0.263,
     "prob_2": 0.395,
     "goles_esperados": [
-     1.186,
+     1.187,
      1.298
     ],
     "prob_over_2_5": 0.452,
