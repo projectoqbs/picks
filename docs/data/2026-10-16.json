@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-16",
- "actualizado": "2026-10-12T14:01:01+00:00",
+ "actualizado": "2026-10-12T22:01:58+00:00",
  "partidos": [
   {
    "id": 565828,
@@ -47,14 +47,14 @@
      "ataque": 0.195,
      "defensa": -0.128,
      "neto": 0.068,
-     "peso": 40.4,
+     "peso": 40.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.082,
      "defensa": -0.134,
      "neto": -0.216,
-     "peso": 30.2,
+     "peso": 30.1,
      "fiable": true
     },
     "forma_local": {
@@ -139,49 +139,49 @@
    "local": "Frosinone Calcio",
    "visitante": "US Sassuolo Calcio",
    "prediccion": {
-    "prob_1": 0.42,
+    "prob_1": 0.419,
     "prob_X": 0.251,
     "prob_2": 0.33,
     "goles_esperados": [
-     1.578,
-     1.374
+     1.575,
+     1.372
     ],
-    "prob_over_2_5": 0.566,
-    "prob_btts": 0.596,
+    "prob_over_2_5": 0.565,
+    "prob_btts": 0.595,
     "marcadores": [
      [
       "1-1",
-      0.1167
+      0.1169
      ],
      [
       "2-1",
-      0.0894
+      0.0893
      ],
      [
       "1-0",
-      0.079
+      0.0792
      ]
     ],
     "cuotas_justas": [
      2.38,
-     3.99,
-     3.03
+     3.98,
+     3.04
     ],
     "resumen": "Partido parejo. ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.097,
-     "defensa": -0.102,
-     "neto": -0.005,
+     "ataque": 0.095,
+     "defensa": -0.101,
+     "neto": -0.006,
      "peso": 11.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.086,
-     "defensa": -0.117,
-     "neto": -0.031,
+     "defensa": -0.116,
+     "neto": -0.03,
      "peso": 34.1,
      "fiable": true
     },
@@ -231,14 +231,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto -0.01 vs -0.03). Frosinone Calcio juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.58 – 1.37; el modelo ve marcando más a Frosinone Calcio. También parejos en forma (3G-1E-1P vs 2G-2E-1P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto -0.01 vs -0.03). Frosinone Calcio juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.57 – 1.37; el modelo ve marcando más a Frosinone Calcio. También parejos en forma (3G-1E-1P vs 2G-2E-1P en 5).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
-     "prob": 0.596,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.58 y 1.37. Probabilidad: 60%.",
+     "prob": 0.595,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.57 y 1.37. Probabilidad: 60%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.797
+      "prob": 0.796
      },
      "confianza": "alta"
     }
@@ -257,10 +257,10 @@
     "prob_X": 0.235,
     "prob_2": 0.317,
     "goles_esperados": [
-     1.805,
+     1.804,
      1.49
     ],
-    "prob_over_2_5": 0.64,
+    "prob_over_2_5": 0.639,
     "prob_btts": 0.651,
     "marcadores": [
      [
@@ -287,9 +287,9 @@
    "nota": "pocos datos: 'Le Mans FC' solo tiene 5.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.218,
+     "ataque": 0.217,
      "defensa": -0.135,
-     "neto": 0.083,
+     "neto": 0.082,
      "peso": 5.7,
      "fiable": false
     },
@@ -353,32 +353,32 @@
    "local": "RC Deportivo La Coruña",
    "visitante": "Levante UD",
    "prediccion": {
-    "prob_1": 0.528,
-    "prob_X": 0.228,
-    "prob_2": 0.244,
+    "prob_1": 0.532,
+    "prob_X": 0.223,
+    "prob_2": 0.245,
     "goles_esperados": [
-     1.902,
-     1.234
+     1.964,
+     1.275
     ],
-    "prob_over_2_5": 0.607,
-    "prob_btts": 0.605,
+    "prob_over_2_5": 0.628,
+    "prob_btts": 0.622,
     "marcadores": [
      [
       "1-1",
-      0.1041
+      0.1002
      ],
      [
       "2-1",
-      0.097
+      0.0964
      ],
      [
-      "1-0",
-      0.0806
+      "2-0",
+      0.0756
      ]
     ],
     "cuotas_justas": [
-     1.89,
-     4.39,
+     1.88,
+     4.48,
      4.09
     ],
     "resumen": "Gana RC Deportivo La Coruña (ligero favorito, 53%). se esperan goles (+2.5). ambos marcan.",
@@ -387,17 +387,17 @@
    "nota": "pocos datos: 'RC Deportivo La Coruña' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.135,
-     "defensa": -0.04,
-     "neto": 0.095,
+     "ataque": 0.133,
+     "defensa": -0.038,
+     "neto": 0.094,
      "peso": 7.5,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.065,
-     "defensa": -0.109,
-     "neto": -0.044,
-     "peso": 28.4,
+     "ataque": 0.097,
+     "defensa": -0.142,
+     "neto": -0.045,
+     "peso": 29.4,
      "fiable": true
     },
     "forma_local": {
@@ -420,25 +420,25 @@
      "g": 1,
      "e": 2,
      "p": 2,
-     "gf": 8,
-     "gc": 9,
+     "gf": 11,
+     "gc": 12,
      "racha": [
-      "E",
       "G",
       "E",
       "P",
-      "P"
+      "P",
+      "E"
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "RC Deportivo La Coruña es más fuerte de fondo (neto +0.10 vs -0.04): ataca ~14% más que el promedio. RC Deportivo La Coruña juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.90 – 1.23; el modelo ve marcando más a RC Deportivo La Coruña. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de RC Deportivo La Coruña: tomalo con pinzas.",
+    "explicacion": "RC Deportivo La Coruña es más fuerte de fondo (neto +0.09 vs -0.04): ataca ~14% más que el promedio. RC Deportivo La Coruña juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.96 – 1.27; el modelo ve marcando más a RC Deportivo La Coruña. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de RC Deportivo La Coruña: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 1.5 goles",
-     "prob": 0.822,
-     "por_que": "Bastantes goles esperados (1.90 + 1.23 = 3.14); al menos una defensa floja. Probabilidad al over: 82%.",
+     "prob": 0.836,
+     "por_que": "Bastantes goles esperados (1.96 + 1.27 = 3.24); al menos una defensa floja. Probabilidad al over: 84%.",
      "alternativa": {
       "mercado": "12",
-      "prob": 0.772
+      "prob": 0.777
      },
      "confianza": "baja"
     }

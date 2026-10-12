@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-20",
- "actualizado": "2026-10-12T14:01:01+00:00",
+ "actualizado": "2026-10-12T22:01:58+00:00",
  "partidos": [
   {
    "id": 575359,
@@ -15,7 +15,7 @@
     "prob_X": 0.187,
     "prob_2": 0.62,
     "goles_esperados": [
-     1.217,
+     1.218,
      2.306
     ],
     "prob_over_2_5": 0.683,
@@ -35,7 +35,7 @@
      ]
     ],
     "cuotas_justas": [
-     5.19,
+     5.18,
      5.34,
      1.61
     ],
@@ -47,7 +47,7 @@
     "fuerza_local": {
      "ataque": -0.297,
      "defensa": -0.299,
-     "neto": -0.597,
+     "neto": -0.596,
      "peso": 0.9,
      "fiable": false
     },
@@ -111,7 +111,7 @@
     "prob_X": 0.193,
     "prob_2": 0.154,
     "goles_esperados": [
-     2.1,
+     2.101,
      0.9
     ],
     "prob_over_2_5": 0.577,
@@ -207,7 +207,7 @@
     "prob_X": 0.238,
     "prob_2": 0.229,
     "goles_esperados": [
-     1.648,
+     1.649,
      0.986
     ],
     "prob_over_2_5": 0.49,
@@ -240,13 +240,13 @@
      "ataque": 0.198,
      "defensa": 0.16,
      "neto": 0.358,
-     "peso": 10.9,
+     "peso": 10.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.123,
      "defensa": 0.257,
-     "neto": 0.134,
+     "neto": 0.133,
      "peso": 0.9,
      "fiable": false
     },
@@ -280,7 +280,7 @@
     "explicacion": "Manchester City FC es más fuerte de fondo (neto +0.36 vs +0.13): ataca ~22% más que el promedio, encaja ~15% menos. Manchester City FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.65 – 0.99; el modelo ve marcando más a Manchester City FC. Pero ojo: en forma reciente PAE AEK llega mejor que Manchester City FC, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de PAE AEK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.77,
+     "prob": 0.771,
      "por_que": "Doble oportunidad: cubre que Manchester City FC no pierda. El escenario que queda afuera (gane PAE AEK) es el menos probable (23%), así que el mercado se cumple ~77% de las veces.",
      "alternativa": null,
      "confianza": "baja"
@@ -298,7 +298,7 @@
    "prediccion": {
     "prob_1": 0.303,
     "prob_X": 0.201,
-    "prob_2": 0.497,
+    "prob_2": 0.496,
     "goles_esperados": [
      1.68,
      2.178
@@ -500,7 +500,7 @@
     "prob_X": 0.154,
     "prob_2": 0.12,
     "goles_esperados": [
-     2.608,
+     2.609,
      0.973
     ],
     "prob_over_2_5": 0.694,
@@ -512,7 +512,7 @@
      ],
      [
       "2-1",
-      0.0922
+      0.0921
      ],
      [
       "3-0",
@@ -521,7 +521,7 @@
     ],
     "cuotas_justas": [
      1.38,
-     6.49,
+     6.5,
      8.33
     ],
     "resumen": "Gana AS Roma (claro favorito, 73%). se esperan goles (+2.5).",
@@ -538,7 +538,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.173,
-     "defensa": -0.456,
+     "defensa": -0.457,
      "neto": -0.629,
      "peso": 3.1,
      "fiable": false
@@ -827,8 +827,8 @@
     "fuerza_local": {
      "ataque": 0.733,
      "defensa": 0.327,
-     "neto": 1.06,
-     "peso": 18.7,
+     "neto": 1.059,
+     "peso": 18.6,
      "fiable": true
     },
     "fuerza_visitante": {
