@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-16",
- "actualizado": "2026-10-12T22:01:58+00:00",
+ "actualizado": "2026-10-13T13:16:22+00:00",
  "partidos": [
   {
    "id": 565828,
@@ -159,13 +159,13 @@
      ],
      [
       "1-0",
-      0.0792
+      0.0793
      ]
     ],
     "cuotas_justas": [
      2.38,
      3.98,
-     3.04
+     3.03
     ],
     "resumen": "Partido parejo. ambos marcan.",
     "confianza": "alta"
@@ -257,7 +257,7 @@
     "prob_X": 0.235,
     "prob_2": 0.317,
     "goles_esperados": [
-     1.804,
+     1.805,
      1.49
     ],
     "prob_over_2_5": 0.639,
@@ -289,15 +289,15 @@
     "fuerza_local": {
      "ataque": 0.217,
      "defensa": -0.135,
-     "neto": 0.082,
+     "neto": 0.083,
      "peso": 5.7,
      "fiable": false
     },
     "fuerza_visitante": {
      "ataque": 0.06,
      "defensa": 0.043,
-     "neto": 0.103,
-     "peso": 40.2,
+     "neto": 0.102,
+     "peso": 40.1,
      "fiable": true
     },
     "forma_local": {
@@ -387,7 +387,7 @@
    "nota": "pocos datos: 'RC Deportivo La Coruña' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.133,
+     "ataque": 0.132,
      "defensa": -0.038,
      "neto": 0.094,
      "peso": 7.5,

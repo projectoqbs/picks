@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-12T22:01:54+00:00",
+ "actualizado": "2026-10-13T13:16:18+00:00",
  "fixtures": [
   {
    "id": 575341,
@@ -850,6 +850,56 @@
    "jornada": 3,
    "local": "Real Betis Balompié",
    "visitante": "Feyenoord Rotterdam"
+  },
+  {
+   "id": 565833,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-10-23T18:30:00Z",
+   "estado": "TIMED",
+   "jornada": 7,
+   "local": "VfB Stuttgart",
+   "visitante": "Borussia Mönchengladbach"
+  },
+  {
+   "id": 558567,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-10-23T18:45:00Z",
+   "estado": "TIMED",
+   "jornada": 8,
+   "local": "Torino FC",
+   "visitante": "AC Monza"
+  },
+  {
+   "id": 559654,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-10-23T18:45:00Z",
+   "estado": "TIMED",
+   "jornada": 8,
+   "local": "Stade Brestois 29",
+   "visitante": "OGC Nice"
+  },
+  {
+   "id": 560620,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-10-23T19:00:00Z",
+   "estado": "TIMED",
+   "jornada": 8,
+   "local": "Ipswich Town FC",
+   "visitante": "Nottingham Forest FC"
+  },
+  {
+   "id": 564719,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-10-23T19:00:00Z",
+   "estado": "TIMED",
+   "jornada": 10,
+   "local": "Deportivo Alavés",
+   "visitante": "Málaga CF"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-20",
- "actualizado": "2026-10-12T22:01:58+00:00",
+ "actualizado": "2026-10-13T13:16:22+00:00",
  "partidos": [
   {
    "id": 575359,
@@ -16,7 +16,7 @@
     "prob_2": 0.62,
     "goles_esperados": [
      1.218,
-     2.306
+     2.305
     ],
     "prob_over_2_5": 0.683,
     "prob_btts": 0.631,
@@ -215,7 +215,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1218
+      0.1217
      ],
      [
       "1-1",
@@ -332,7 +332,7 @@
     "fuerza_local": {
      "ataque": 0.063,
      "defensa": -0.092,
-     "neto": -0.03,
+     "neto": -0.029,
      "peso": 3.1,
      "fiable": false
     },
@@ -400,7 +400,7 @@
     "prob_X": 0.104,
     "prob_2": 0.047,
     "goles_esperados": [
-     2.902,
+     2.901,
      0.555
     ],
     "prob_over_2_5": 0.671,
@@ -416,23 +416,23 @@
      ],
      [
       "4-0",
-      0.0932
+      0.0931
      ]
     ],
     "cuotas_justas": [
      1.18,
-     9.64,
-     21.26
+     9.63,
+     21.25
     ],
     "resumen": "Gana Liverpool FC (claro favorito, 85%). se esperan goles (+2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Villarreal CF' solo tiene 5.3 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Villarreal CF' solo tiene 5.2 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.219,
      "defensa": 0.492,
-     "neto": 0.712,
+     "neto": 0.711,
      "peso": 10.8,
      "fiable": true
     },
@@ -440,7 +440,7 @@
      "ataque": -0.366,
      "defensa": -0.287,
      "neto": -0.653,
-     "peso": 5.3,
+     "peso": 5.2,
      "fiable": false
     },
     "forma_local": {
@@ -501,14 +501,14 @@
     "prob_2": 0.12,
     "goles_esperados": [
      2.609,
-     0.973
+     0.974
     ],
     "prob_over_2_5": 0.694,
     "prob_btts": 0.574,
     "marcadores": [
      [
       "2-0",
-      0.0947
+      0.0946
      ],
      [
       "2-1",
@@ -537,8 +537,8 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": -0.173,
-     "defensa": -0.457,
+     "ataque": -0.172,
+     "defensa": -0.456,
      "neto": -0.629,
      "peso": 3.1,
      "fiable": false
@@ -596,7 +596,7 @@
     "prob_X": 0.219,
     "prob_2": 0.383,
     "goles_esperados": [
-     1.747,
+     1.748,
      1.708
     ],
     "prob_over_2_5": 0.671,
@@ -708,7 +708,7 @@
      ],
      [
       "1-2",
-      0.0873
+      0.0872
      ],
      [
       "2-1",
@@ -826,7 +826,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.733,
-     "defensa": 0.327,
+     "defensa": 0.326,
      "neto": 1.059,
      "peso": 18.6,
      "fiable": true

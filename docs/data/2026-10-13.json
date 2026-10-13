@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-13",
- "actualizado": "2026-10-12T22:01:58+00:00",
+ "actualizado": "2026-10-13T13:16:22+00:00",
  "partidos": [
   {
    "id": 575341,
@@ -37,7 +37,7 @@
     "cuotas_justas": [
      2.93,
      4.47,
-     2.29
+     2.3
     ],
     "resumen": "Gana Sporting Clube de Portugal (ligero favorito, 44%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -54,7 +54,7 @@
     "fuerza_visitante": {
      "ataque": 0.173,
      "defensa": 0.297,
-     "neto": 0.47,
+     "neto": 0.469,
      "peso": 10.8,
      "fiable": true
     },
@@ -115,7 +115,7 @@
     "prob_X": 0.227,
     "prob_2": 0.282,
     "goles_esperados": [
-     1.766,
+     1.767,
      1.285
     ],
     "prob_over_2_5": 0.588,
@@ -342,7 +342,7 @@
      "ataque": 0.018,
      "defensa": -0.053,
      "neto": -0.035,
-     "peso": 8.7,
+     "peso": 8.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -425,12 +425,12 @@
      ],
      [
       "3-1",
-      0.0686
+      0.0685
      ]
     ],
     "cuotas_justas": [
      1.77,
-     5.32,
+     5.31,
      4.06
     ],
     "resumen": "Gana Club Atlético de Madrid (claro favorito, 57%). se esperan goles (+2.5). ambos marcan.",
@@ -507,7 +507,7 @@
    "prediccion": {
     "prob_1": 0.758,
     "prob_X": 0.149,
-    "prob_2": 0.092,
+    "prob_2": 0.093,
     "goles_esperados": [
      2.499,
      0.746
@@ -530,8 +530,8 @@
     ],
     "cuotas_justas": [
      1.32,
-     6.72,
-     10.81
+     6.71,
+     10.8
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 76%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -542,7 +542,7 @@
      "ataque": 0.394,
      "defensa": 0.755,
      "neto": 1.149,
-     "peso": 16.0,
+     "peso": 15.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -606,13 +606,13 @@
    "visitante": "FC Bayern München",
    "prediccion": {
     "prob_1": 0.099,
-    "prob_X": 0.125,
-    "prob_2": 0.776,
+    "prob_X": 0.126,
+    "prob_2": 0.775,
     "goles_esperados": [
-     1.084,
-     3.115
+     1.085,
+     3.114
     ],
-    "prob_over_2_5": 0.79,
+    "prob_over_2_5": 0.789,
     "prob_btts": 0.631,
     "marcadores": [
      [
@@ -629,7 +629,7 @@
      ]
     ],
     "cuotas_justas": [
-     10.1,
+     10.09,
      7.97,
      1.29
     ],
@@ -640,7 +640,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.101,
-     "defensa": -0.226,
+     "defensa": -0.225,
      "neto": -0.326,
      "peso": 0.9,
      "fiable": false
@@ -648,8 +648,8 @@
     "fuerza_visitante": {
      "ataque": 0.641,
      "defensa": 0.377,
-     "neto": 1.019,
-     "peso": 15.5,
+     "neto": 1.018,
+     "peso": 15.4,
      "fiable": true
     },
     "forma_local": {
@@ -679,11 +679,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.02 vs -0.33): ataca ~90% más que el promedio, encaja ~31% menos. Viking FK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.08 – 3.12; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (3G-1E-1P vs 0G-0E-1P). El modelo tiene pocos datos de Viking FK: tomalo con pinzas.",
+    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.02 vs -0.33): ataca ~90% más que el promedio, encaja ~31% menos. Viking FK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.08 – 3.11; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (3G-1E-1P vs 0G-0E-1P). El modelo tiene pocos datos de Viking FK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "2",
-     "prob": 0.776,
-     "por_que": "El modelo ve a FC Bayern München marcando más que Viking FK pese a la localía (3.12 vs 1.08), y lo respalda una diferencia de fuerza clara (neto +1.02 vs -0.33). Probabilidad del modelo: 78%.",
+     "prob": 0.775,
+     "por_que": "El modelo ve a FC Bayern München marcando más que Viking FK pese a la localía (3.11 vs 1.08), y lo respalda una diferencia de fuerza clara (neto +1.02 vs -0.33). Probabilidad del modelo: 78%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.92
@@ -817,7 +817,7 @@
      ],
      [
       "0-1",
-      0.1121
+      0.112
      ],
      [
       "1-0",
@@ -832,13 +832,13 @@
     "resumen": "Partido parejo.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Villarreal CF' solo tiene 5.3 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Villarreal CF' solo tiene 5.2 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.366,
      "defensa": -0.287,
      "neto": -0.653,
-     "peso": 5.3,
+     "peso": 5.2,
      "fiable": false
     },
     "fuerza_visitante": {

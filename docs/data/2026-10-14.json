@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-14",
- "actualizado": "2026-10-12T22:01:58+00:00",
+ "actualizado": "2026-10-13T13:16:22+00:00",
  "partidos": [
   {
    "id": 575350,
@@ -11,7 +11,7 @@
    "local": "LASK Linz",
    "visitante": "Liverpool FC",
    "prediccion": {
-    "prob_1": 0.219,
+    "prob_1": 0.22,
     "prob_X": 0.262,
     "prob_2": 0.519,
     "goles_esperados": [
@@ -27,11 +27,11 @@
      ],
      [
       "1-1",
-      0.1196
+      0.1197
      ],
      [
       "0-2",
-      0.1075
+      0.1074
      ]
     ],
     "cuotas_justas": [
@@ -46,7 +46,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.257,
-     "defensa": 0.124,
+     "defensa": 0.123,
      "neto": -0.133,
      "peso": 0.9,
      "fiable": false
@@ -54,7 +54,7 @@
     "fuerza_visitante": {
      "ataque": 0.219,
      "defensa": 0.492,
-     "neto": 0.712,
+     "neto": 0.711,
      "peso": 10.8,
      "fiable": true
     },
@@ -112,7 +112,7 @@
     "prob_2": 0.528,
     "goles_esperados": [
      1.837,
-     2.499
+     2.498
     ],
     "prob_over_2_5": 0.807,
     "prob_btts": 0.77,
@@ -148,7 +148,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.381,
+     "ataque": 0.38,
      "defensa": 0.044,
      "neto": 0.425,
      "peso": 0.9,
@@ -185,7 +185,7 @@
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.807,
-     "por_que": "Bastantes goles esperados (1.84 + 2.50 = 4.34); al menos una defensa floja. Probabilidad al over: 81%.",
+     "por_que": "Bastantes goles esperados (1.84 + 2.50 = 4.33); al menos una defensa floja. Probabilidad al over: 81%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.928
@@ -208,7 +208,7 @@
     "prob_2": 0.499,
     "goles_esperados": [
      1.435,
-     1.951
+     1.95
     ],
     "prob_over_2_5": 0.657,
     "prob_btts": 0.651,
@@ -244,7 +244,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.523,
+     "ataque": 0.522,
      "defensa": 0.141,
      "neto": 0.664,
      "peso": 15.5,
@@ -324,7 +324,7 @@
     ],
     "cuotas_justas": [
      3.95,
-     5.2,
+     5.19,
      1.8
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 55%). se esperan goles (+2.5). ambos marcan.",
@@ -340,7 +340,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.733,
-     "defensa": 0.327,
+     "defensa": 0.326,
      "neto": 1.059,
      "peso": 18.6,
      "fiable": true
@@ -432,7 +432,7 @@
     "cuotas_justas": [
      2.39,
      4.88,
-     2.65
+     2.66
     ],
     "resumen": "Partido parejo. se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -540,7 +540,7 @@
     "cuotas_justas": [
      1.45,
      5.6,
-     7.53
+     7.52
     ],
     "resumen": "Gana Aston Villa FC (claro favorito, 69%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -614,7 +614,7 @@
     "prob_X": 0.163,
     "prob_2": 0.154,
     "goles_esperados": [
-     2.627,
+     2.626,
      1.193
     ],
     "prob_over_2_5": 0.734,
@@ -636,7 +636,7 @@
     "cuotas_justas": [
      1.47,
      6.12,
-     6.49
+     6.48
     ],
     "resumen": "Gana Real Betis Balompié (claro favorito, 68%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -710,7 +710,7 @@
     "prob_X": 0.278,
     "prob_2": 0.345,
     "goles_esperados": [
-     1.167,
+     1.168,
      1.102
     ],
     "prob_over_2_5": 0.396,
@@ -726,7 +726,7 @@
      ],
      [
       "0-1",
-      0.118
+      0.1179
      ]
     ],
     "cuotas_justas": [
@@ -836,8 +836,8 @@
    "nota": "pocos datos: 'ŠK Slovan Bratislava' solo tiene 3.1 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.173,
-     "defensa": -0.457,
+     "ataque": -0.172,
+     "defensa": -0.456,
      "neto": -0.629,
      "peso": 3.1,
      "fiable": false
@@ -845,7 +845,7 @@
     "fuerza_visitante": {
      "ataque": 0.063,
      "defensa": -0.092,
-     "neto": -0.03,
+     "neto": -0.029,
      "peso": 3.1,
      "fiable": false
     },

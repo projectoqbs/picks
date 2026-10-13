@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-17",
- "actualizado": "2026-10-12T22:01:58+00:00",
+ "actualizado": "2026-10-13T13:16:22+00:00",
  "partidos": [
   {
    "id": 560603,
@@ -148,7 +148,7 @@
    "prediccion": {
     "prob_1": 0.257,
     "prob_X": 0.258,
-    "prob_2": 0.486,
+    "prob_2": 0.485,
     "goles_esperados": [
      1.067,
      1.563
@@ -166,7 +166,7 @@
      ],
      [
       "1-2",
-      0.094
+      0.0939
      ]
     ],
     "cuotas_justas": [
@@ -182,14 +182,14 @@
      "ataque": -0.065,
      "defensa": 0.023,
      "neto": -0.042,
-     "peso": 41.7,
+     "peso": 41.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.362,
      "defensa": 0.271,
      "neto": 0.633,
-     "peso": 47.3,
+     "peso": 47.2,
      "fiable": true
     },
     "forma_local": {
@@ -283,11 +283,11 @@
     "marcadores": [
      [
       "0-2",
-      0.1324
+      0.1325
      ],
      [
       "0-1",
-      0.129
+      0.1291
      ],
      [
       "1-1",
@@ -304,7 +304,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.256,
+     "ataque": -0.257,
      "defensa": -0.312,
      "neto": -0.569,
      "peso": 17.0,
@@ -314,7 +314,7 @@
      "ataque": 0.255,
      "defensa": 0.323,
      "neto": 0.578,
-     "peso": 45.5,
+     "peso": 45.4,
      "fiable": true
     },
     "forma_local": {
@@ -421,7 +421,7 @@
      "ataque": -0.194,
      "defensa": -0.08,
      "neto": -0.274,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -532,7 +532,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1057
+      0.1058
      ],
      [
       "1-2",
@@ -561,7 +561,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.316,
-     "defensa": 0.114,
+     "defensa": 0.115,
      "neto": 0.431,
      "peso": 40.3,
      "fiable": true
@@ -642,7 +642,7 @@
      0.845
     ],
     "prob_over_2_5": 0.365,
-    "prob_btts": 0.425,
+    "prob_btts": 0.426,
     "marcadores": [
      [
       "1-0",
@@ -746,7 +746,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1116
+      0.1117
      ],
      [
       "2-1",
@@ -754,7 +754,7 @@
      ],
      [
       "2-0",
-      0.0826
+      0.0825
      ]
     ],
     "cuotas_justas": [
@@ -765,13 +765,13 @@
     "resumen": "Gana SV 07 Elversberg (ligero favorito, 53%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'SV 07 Elversberg' solo tiene 4.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'SV 07 Elversberg' solo tiene 4.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.142,
      "defensa": 0.076,
      "neto": 0.219,
-     "peso": 4.8,
+     "peso": 4.7,
      "fiable": false
     },
     "fuerza_visitante": {
@@ -850,11 +850,11 @@
      ],
      [
       "0-0",
-      0.1201
+      0.12
      ],
      [
       "1-0",
-      0.1185
+      0.1184
      ]
     ],
     "cuotas_justas": [
@@ -865,13 +865,13 @@
     "resumen": "Partido parejo. pocos goles (-2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'FC Schalke 04' solo tiene 4.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'FC Schalke 04' solo tiene 4.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.279,
+     "ataque": -0.278,
      "defensa": 0.26,
      "neto": -0.018,
-     "peso": 4.8,
+     "peso": 4.7,
      "fiable": false
     },
     "fuerza_visitante": {
@@ -965,20 +965,20 @@
     "resumen": "Partido parejo. pocos goles (-2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Hull City AFC' solo tiene 5.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Hull City AFC' solo tiene 5.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.059,
      "defensa": 0.056,
      "neto": -0.003,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.027,
-     "defensa": 0.27,
+     "defensa": 0.269,
      "neto": 0.297,
-     "peso": 5.7,
+     "peso": 5.6,
      "fiable": false
     },
     "forma_local": {
@@ -1038,7 +1038,7 @@
     "prob_X": 0.103,
     "prob_2": 0.044,
     "goles_esperados": [
-     3.303,
+     3.302,
      0.725
     ],
     "prob_over_2_5": 0.766,
@@ -1046,7 +1046,7 @@
     "marcadores": [
      [
       "3-0",
-      0.1071
+      0.107
      ],
      [
       "2-0",
@@ -1060,7 +1060,7 @@
     "cuotas_justas": [
      1.17,
      9.73,
-     22.91
+     22.89
     ],
     "resumen": "Gana Manchester City FC (claro favorito, 85%). se esperan goles (+2.5).",
     "confianza": "alta"
@@ -1070,7 +1070,7 @@
      "ataque": 0.445,
      "defensa": 0.413,
      "neto": 0.857,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1150,10 +1150,10 @@
    "prediccion": {
     "prob_1": 0.356,
     "prob_X": 0.26,
-    "prob_2": 0.384,
+    "prob_2": 0.385,
     "goles_esperados": [
      1.529,
-     1.594
+     1.595
     ],
     "prob_over_2_5": 0.604,
     "prob_btts": 0.635,
@@ -1184,7 +1184,7 @@
      "ataque": 0.172,
      "defensa": 0.068,
      "neto": 0.24,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1326,7 +1326,7 @@
      "ataque": 0.076,
      "defensa": -0.097,
      "neto": -0.021,
-     "peso": 30.3,
+     "peso": 30.2,
      "fiable": true
     },
     "forma_local": {
@@ -1568,14 +1568,14 @@
      "ataque": 0.104,
      "defensa": 0.099,
      "neto": 0.202,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.667,
      "defensa": 0.277,
      "neto": 0.945,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "forma_local": {
@@ -1826,7 +1826,7 @@
      ]
     ],
     "cuotas_justas": [
-     4.07,
+     4.06,
      4.67,
      1.85
     ],
@@ -1838,14 +1838,14 @@
      "ataque": 0.231,
      "defensa": 0.133,
      "neto": 0.364,
-     "peso": 47.3,
+     "peso": 47.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.762,
      "defensa": 0.321,
      "neto": 1.083,
-     "peso": 47.3,
+     "peso": 47.2,
      "fiable": true
     },
     "forma_local": {
@@ -1980,7 +1980,7 @@
      "ataque": 0.132,
      "defensa": 0.059,
      "neto": 0.191,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "forma_local": {
@@ -2108,14 +2108,14 @@
      "ataque": 0.347,
      "defensa": 0.401,
      "neto": 0.748,
-     "peso": 45.5,
+     "peso": 45.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.095,
      "defensa": -0.025,
      "neto": -0.12,
-     "peso": 45.5,
+     "peso": 45.4,
      "fiable": true
     },
     "forma_local": {
@@ -2243,7 +2243,7 @@
     "fuerza_local": {
      "ataque": -0.38,
      "defensa": -0.326,
-     "neto": -0.706,
+     "neto": -0.705,
      "peso": 5.7,
      "fiable": false
     },
@@ -2251,7 +2251,7 @@
      "ataque": 0.231,
      "defensa": 0.226,
      "neto": 0.457,
-     "peso": 41.0,
+     "peso": 40.9,
      "fiable": true
     },
     "forma_local": {
@@ -2285,7 +2285,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Racing Club de Lens es más fuerte de fondo (neto +0.46 vs -0.71): ataca ~26% más que el promedio, encaja ~20% menos. ES Troyes AC juega en casa (~+24% de ventaja, ya contada). Goles esperados: 0.83 – 2.14; el modelo ve marcando más a Racing Club de Lens. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de ES Troyes AC: tomalo con pinzas.",
+    "explicacion": "Racing Club de Lens es más fuerte de fondo (neto +0.46 vs -0.70): ataca ~26% más que el promedio, encaja ~20% menos. ES Troyes AC juega en casa (~+24% de ventaja, ya contada). Goles esperados: 0.83 – 2.14; el modelo ve marcando más a Racing Club de Lens. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de ES Troyes AC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.871,
@@ -2314,7 +2314,7 @@
      1.772,
      0.949
     ],
-    "prob_over_2_5": 0.512,
+    "prob_over_2_5": 0.511,
     "prob_btts": 0.513,
     "marcadores": [
      [
@@ -2343,14 +2343,14 @@
      "ataque": 0.103,
      "defensa": 0.365,
      "neto": 0.468,
-     "peso": 41.0,
+     "peso": 40.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.108,
      "defensa": -0.053,
      "neto": 0.055,
-     "peso": 41.0,
+     "peso": 40.9,
      "fiable": true
     },
     "forma_local": {
@@ -2478,14 +2478,14 @@
      "ataque": -0.08,
      "defensa": 0.014,
      "neto": -0.067,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.029,
      "defensa": 0.187,
      "neto": 0.216,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "forma_local": {
