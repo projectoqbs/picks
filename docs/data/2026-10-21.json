@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-21",
- "actualizado": "2026-10-13T13:16:22+00:00",
+ "actualizado": "2026-10-13T20:01:44+00:00",
  "partidos": [
   {
    "id": 575368,
@@ -11,50 +11,50 @@
    "local": "Como 1907",
    "visitante": "Manchester United FC",
    "prediccion": {
-    "prob_1": 0.529,
+    "prob_1": 0.5,
     "prob_X": 0.194,
-    "prob_2": 0.277,
+    "prob_2": 0.306,
     "goles_esperados": [
-     2.316,
-     1.654
+     2.296,
+     1.784
     ],
-    "prob_over_2_5": 0.758,
-    "prob_btts": 0.727,
+    "prob_over_2_5": 0.773,
+    "prob_btts": 0.746,
     "marcadores": [
      [
       "2-1",
-      0.0837
-     ],
-     [
-      "1-1",
-      0.0701
+      0.0795
      ],
      [
       "2-2",
-      0.0692
+      0.0709
+     ],
+     [
+      "1-1",
+      0.0669
      ]
     ],
     "cuotas_justas": [
-     1.89,
-     5.16,
-     3.61
+     2.0,
+     5.14,
+     3.27
     ],
-    "resumen": "Gana Como 1907 (ligero favorito, 53%). se esperan goles (+2.5). ambos marcan.",
+    "resumen": "Gana Como 1907 (ligero favorito, 50%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
    "nota": "pocos datos: 'Como 1907' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.38,
+     "ataque": 0.382,
      "defensa": 0.044,
-     "neto": 0.425,
+     "neto": 0.427,
      "peso": 0.9,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.279,
-     "defensa": 0.099,
-     "neto": 0.378,
+     "ataque": 0.361,
+     "defensa": 0.103,
+     "neto": 0.464,
      "peso": 1.7,
      "fiable": false
     },
@@ -85,14 +85,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.42 vs +0.38). Como 1907 juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.32 – 1.65; el modelo ve marcando más a Como 1907. En forma reciente pinta algo mejor Como 1907 (1G-0E-0P vs 2G-1E-2P en 5). El modelo tiene pocos datos de Como 1907: tomalo con pinzas.",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.43 vs +0.46). Como 1907 juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.30 – 1.78; el modelo ve marcando más a Como 1907. En forma reciente pinta algo mejor Como 1907 (1G-0E-0P vs 2G-1E-2P en 5). El modelo tiene pocos datos de Como 1907: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.758,
-     "por_que": "Bastantes goles esperados (2.32 + 1.65 = 3.97). Probabilidad al over: 76%.",
+     "prob": 0.773,
+     "por_que": "Bastantes goles esperados (2.30 + 1.78 = 4.08). Probabilidad al over: 77%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.904
+      "prob": 0.912
      },
      "confianza": "baja"
     }
@@ -107,33 +107,33 @@
    "local": "Lille OSC",
    "visitante": "Galatasaray SK",
    "prediccion": {
-    "prob_1": 0.592,
+    "prob_1": 0.59,
     "prob_X": 0.194,
-    "prob_2": 0.214,
+    "prob_2": 0.216,
     "goles_esperados": [
-     2.236,
-     1.284
+     2.232,
+     1.29
     ],
     "prob_over_2_5": 0.683,
-    "prob_btts": 0.643,
+    "prob_btts": 0.644,
     "marcadores": [
      [
       "2-1",
-      0.095
+      0.0949
      ],
      [
       "1-1",
-      0.0824
+      0.0822
      ],
      [
       "2-0",
-      0.074
+      0.0736
      ]
     ],
     "cuotas_justas": [
      1.69,
      5.16,
-     4.66
+     4.62
     ],
     "resumen": "Gana Lille OSC (claro favorito, 59%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -141,16 +141,16 @@
    "nota": "pocos datos: 'Lille OSC' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.192,
-     "defensa": 0.037,
-     "neto": 0.229,
+     "ataque": 0.198,
+     "defensa": 0.035,
+     "neto": 0.233,
      "peso": 3.8,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.018,
+     "ataque": 0.027,
      "defensa": -0.053,
-     "neto": -0.035,
+     "neto": -0.026,
      "peso": 8.6,
      "fiable": true
     },
@@ -185,14 +185,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Lille OSC es más fuerte de fondo (neto +0.23 vs -0.04): ataca ~21% más que el promedio. Lille OSC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.24 – 1.28; el modelo ve marcando más a Lille OSC. Pero ojo: en forma reciente Galatasaray SK llega mejor que Lille OSC, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de Lille OSC: tomalo con pinzas.",
+    "explicacion": "Lille OSC es más fuerte de fondo (neto +0.23 vs -0.03): ataca ~22% más que el promedio. Lille OSC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.23 – 1.29; el modelo ve marcando más a Lille OSC. Pero ojo: en forma reciente Galatasaray SK llega mejor que Lille OSC, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de Lille OSC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.683,
-     "por_que": "Bastantes goles esperados (2.24 + 1.28 = 3.52); al menos una defensa floja. Probabilidad al over: 68%.",
+     "por_que": "Bastantes goles esperados (2.23 + 1.29 = 3.52); al menos una defensa floja. Probabilidad al over: 68%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.864
+      "prob": 0.863
      },
      "confianza": "baja"
     }
@@ -227,13 +227,13 @@
      ],
      [
       "0-1",
-      0.0874
+      0.0875
      ]
     ],
     "cuotas_justas": [
      2.64,
      3.79,
-     2.8
+     2.79
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
@@ -320,13 +320,13 @@
    "prediccion": {
     "prob_1": 0.81,
     "prob_X": 0.11,
-    "prob_2": 0.08,
+    "prob_2": 0.081,
     "goles_esperados": [
      3.316,
-     1.027
+     1.029
     ],
     "prob_over_2_5": 0.808,
-    "prob_btts": 0.617,
+    "prob_btts": 0.618,
     "marcadores": [
      [
       "3-1",
@@ -334,7 +334,7 @@
      ],
      [
       "3-0",
-      0.079
+      0.0788
      ],
      [
       "2-1",
@@ -342,9 +342,9 @@
      ]
     ],
     "cuotas_justas": [
-     1.23,
-     9.09,
-     12.48
+     1.24,
+     9.1,
+     12.42
     ],
     "resumen": "Gana Real Madrid CF (claro favorito, 81%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -352,16 +352,16 @@
    "nota": "pocos datos: 'RB Leipzig' solo tiene 4.2 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.522,
-     "defensa": 0.141,
-     "neto": 0.664,
-     "peso": 15.5,
+     "ataque": 0.527,
+     "defensa": 0.139,
+     "neto": 0.666,
+     "peso": 15.4,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.102,
-     "defensa": -0.117,
-     "neto": -0.219,
+     "ataque": -0.095,
+     "defensa": -0.12,
+     "neto": -0.214,
      "peso": 4.2,
      "fiable": false
     },
@@ -411,11 +411,11 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.66 vs -0.22): ataca ~69% más que el promedio, encaja ~13% menos. Real Madrid CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 3.32 – 1.03; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (3G-0E-2P vs 1G-0E-4P). El modelo tiene pocos datos de RB Leipzig: tomalo con pinzas.",
+    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.67 vs -0.21): ataca ~69% más que el promedio, encaja ~13% menos. Real Madrid CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 3.32 – 1.03; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (3G-0E-2P vs 1G-0E-4P). El modelo tiene pocos datos de RB Leipzig: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.81,
-     "por_que": "Real Madrid CF es favorito en casa: marca más (3.32 vs 1.03) y es más fuerte de fondo (neto +0.66 vs -0.22). Probabilidad: 81%.",
+     "por_que": "Real Madrid CF es favorito en casa: marca más (3.32 vs 1.03) y es más fuerte de fondo (neto +0.67 vs -0.21). Probabilidad: 81%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.929
@@ -433,19 +433,19 @@
    "local": "FC Internazionale Milano",
    "visitante": "FK Shakhtar Donetsk",
    "prediccion": {
-    "prob_1": 0.609,
+    "prob_1": 0.608,
     "prob_X": 0.221,
-    "prob_2": 0.17,
+    "prob_2": 0.171,
     "goles_esperados": [
-     1.793,
+     1.787,
      0.815
     ],
-    "prob_over_2_5": 0.484,
-    "prob_btts": 0.462,
+    "prob_over_2_5": 0.482,
+    "prob_btts": 0.46,
     "marcadores": [
      [
       "1-0",
-      0.1353
+      0.1362
      ],
      [
       "2-0",
@@ -453,13 +453,13 @@
      ],
      [
       "1-1",
-      0.1044
+      0.1043
      ]
     ],
     "cuotas_justas": [
      1.64,
      4.52,
-     5.89
+     5.86
     ],
     "resumen": "Gana FC Internazionale Milano (claro favorito, 61%).",
     "confianza": "baja"
@@ -467,16 +467,16 @@
    "nota": "pocos datos: 'FK Shakhtar Donetsk' solo tiene 3.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.073,
-     "defensa": 0.326,
-     "neto": 0.399,
+     "ataque": 0.075,
+     "defensa": 0.322,
+     "neto": 0.396,
      "peso": 12.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.148,
-     "defensa": 0.049,
-     "neto": -0.099,
+     "ataque": -0.146,
+     "defensa": 0.046,
+     "neto": -0.1,
      "peso": 3.9,
      "fiable": false
     },
@@ -514,7 +514,7 @@
     "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.40 vs -0.10): encaja ~28% menos. FC Internazionale Milano juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.79 – 0.81; el modelo ve marcando más a FC Internazionale Milano. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de FK Shakhtar Donetsk: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.83,
+     "prob": 0.829,
      "por_que": "Doble oportunidad: cubre que FC Internazionale Milano no pierda. El escenario que queda afuera (gane FK Shakhtar Donetsk) es el menos probable (17%), así que el mercado se cumple ~83% de las veces.",
      "alternativa": {
       "mercado": "12",
@@ -533,48 +533,48 @@
    "local": "FC Bayern München",
    "visitante": "Arsenal FC",
    "prediccion": {
-    "prob_1": 0.431,
-    "prob_X": 0.239,
-    "prob_2": 0.329,
+    "prob_1": 0.434,
+    "prob_X": 0.238,
+    "prob_2": 0.328,
     "goles_esperados": [
-     1.561,
-     1.331
+     1.57,
+     1.332
     ],
-    "prob_over_2_5": 0.552,
-    "prob_btts": 0.578,
+    "prob_over_2_5": 0.555,
+    "prob_btts": 0.579,
     "marcadores": [
      [
       "1-1",
-      0.1117
-     ],
-     [
-      "1-0",
-      0.09
+      0.1109
      ],
      [
       "2-1",
-      0.0899
+      0.0901
+     ],
+     [
+      "1-0",
+      0.0901
      ]
     ],
     "cuotas_justas": [
-     2.32,
-     4.18,
-     3.04
+     2.3,
+     4.2,
+     3.05
     ],
     "resumen": "Gana FC Bayern München (ligero favorito, 43%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.641,
-     "defensa": 0.377,
-     "neto": 1.018,
+     "ataque": 0.647,
+     "defensa": 0.376,
+     "neto": 1.023,
      "peso": 15.4,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.394,
-     "defensa": 0.755,
+     "ataque": 0.401,
+     "defensa": 0.748,
      "neto": 1.149,
      "peso": 15.9,
      "fiable": true
@@ -632,14 +632,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Arsenal FC es más fuerte de fondo (neto +1.15 vs +1.02): ataca ~48% más que el promedio, encaja ~53% menos. FC Bayern München juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.56 – 1.33; el modelo ve marcando más a FC Bayern München. Pero ojo: en forma reciente FC Bayern München llega mejor que Arsenal FC, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Arsenal FC es más fuerte de fondo (neto +1.15 vs +1.02): ataca ~49% más que el promedio, encaja ~53% menos. FC Bayern München juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.57 – 1.33; el modelo ve marcando más a FC Bayern München. Pero ojo: en forma reciente FC Bayern München llega mejor que Arsenal FC, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
-     "prob": 0.578,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.56 y 1.33. Probabilidad: 58%.",
+     "prob": 0.579,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.57 y 1.33. Probabilidad: 58%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.781
+      "prob": 0.782
      },
      "confianza": "alta"
     }
@@ -654,51 +654,51 @@
    "local": "Club Brugge KV",
    "visitante": "Racing Club de Lens",
    "prediccion": {
-    "prob_1": 0.512,
-    "prob_X": 0.193,
-    "prob_2": 0.294,
+    "prob_1": 0.609,
+    "prob_X": 0.181,
+    "prob_2": 0.21,
     "goles_esperados": [
-     2.338,
-     1.76
+     2.471,
+     1.415
     ],
-    "prob_over_2_5": 0.776,
-    "prob_btts": 0.746,
+    "prob_over_2_5": 0.745,
+    "prob_btts": 0.691,
     "marcadores": [
      [
       "2-1",
-      0.0799
+      0.0887
      ],
      [
-      "2-2",
-      0.0703
+      "3-1",
+      0.0731
      ],
      [
       "1-1",
-      0.0663
+      0.0693
      ]
     ],
     "cuotas_justas": [
-     1.95,
-     5.18,
-     3.4
+     1.64,
+     5.53,
+     4.75
     ],
-    "resumen": "Gana Club Brugge KV (ligero favorito, 51%). se esperan goles (+2.5). ambos marcan.",
+    "resumen": "Gana Club Brugge KV (claro favorito, 61%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Racing Club de Lens' solo tiene 1.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Racing Club de Lens' solo tiene 2.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.171,
-     "defensa": -0.135,
-     "neto": 0.036,
+     "ataque": 0.179,
+     "defensa": -0.137,
+     "neto": 0.041,
      "peso": 10.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.161,
-     "defensa": -0.119,
-     "neto": 0.042,
-     "peso": 1.7,
+     "ataque": -0.053,
+     "defensa": -0.174,
+     "neto": -0.227,
+     "peso": 2.7,
      "fiable": false
     },
     "forma_local": {
@@ -719,27 +719,27 @@
     "forma_visitante": {
      "pj": 5,
      "g": 2,
-     "e": 1,
-     "p": 2,
-     "gf": 6,
-     "gc": 11,
+     "e": 0,
+     "p": 3,
+     "gf": 5,
+     "gc": 12,
      "racha": [
-      "E",
       "P",
       "P",
       "G",
-      "G"
+      "G",
+      "P"
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.04 vs +0.04). Club Brugge KV juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.34 – 1.76; el modelo ve marcando más a Club Brugge KV. También parejos en forma (2G-1E-2P vs 2G-1E-2P en 5). El modelo tiene pocos datos de Racing Club de Lens: tomalo con pinzas.",
+    "explicacion": "Club Brugge KV es más fuerte de fondo (neto +0.04 vs -0.23): ataca ~20% más que el promedio. Club Brugge KV juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.47 – 1.42; el modelo ve marcando más a Club Brugge KV. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Racing Club de Lens: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.776,
-     "por_que": "Bastantes goles esperados (2.34 + 1.76 = 4.10); al menos una defensa floja. Probabilidad al over: 78%.",
+     "prob": 0.745,
+     "por_que": "Bastantes goles esperados (2.47 + 1.42 = 3.89); al menos una defensa floja. Probabilidad al over: 74%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.913
+      "prob": 0.897
      },
      "confianza": "baja"
     }
@@ -754,32 +754,32 @@
    "local": "Aston Villa FC",
    "visitante": "Viking FK",
    "prediccion": {
-    "prob_1": 0.795,
+    "prob_1": 0.796,
     "prob_X": 0.122,
     "prob_2": 0.082,
     "goles_esperados": [
-     2.97,
-     0.882
+     2.964,
+     0.878
     ],
-    "prob_over_2_5": 0.739,
-    "prob_btts": 0.554,
+    "prob_over_2_5": 0.738,
+    "prob_btts": 0.552,
     "marcadores": [
      [
       "2-0",
-      0.0937
+      0.0942
      ],
      [
       "3-0",
-      0.0927
+      0.0931
      ],
      [
       "2-1",
-      0.0826
+      0.0827
      ]
     ],
     "cuotas_justas": [
      1.26,
-     8.16,
+     8.18,
      12.16
     ],
     "resumen": "Gana Aston Villa FC (claro favorito, 80%). se esperan goles (+2.5).",
@@ -788,15 +788,15 @@
    "nota": "pocos datos: 'Viking FK' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.304,
+     "ataque": 0.308,
      "defensa": 0.294,
-     "neto": 0.598,
+     "neto": 0.601,
      "peso": 4.5,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": -0.101,
-     "defensa": -0.225,
+     "ataque": -0.099,
+     "defensa": -0.227,
      "neto": -0.326,
      "peso": 0.9,
      "fiable": false
@@ -828,11 +828,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Aston Villa FC es más fuerte de fondo (neto +0.60 vs -0.33): ataca ~36% más que el promedio, encaja ~25% menos. Aston Villa FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.97 – 0.88; el modelo ve marcando más a Aston Villa FC. Y la forma reciente lo confirma: Aston Villa FC llega mejor (4G-0E-1P vs 0G-0E-1P). El modelo tiene pocos datos de Aston Villa FC: tomalo con pinzas.",
+    "explicacion": "Aston Villa FC es más fuerte de fondo (neto +0.60 vs -0.33): ataca ~36% más que el promedio, encaja ~25% menos. Aston Villa FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.96 – 0.88; el modelo ve marcando más a Aston Villa FC. Y la forma reciente lo confirma: Aston Villa FC llega mejor (4G-0E-1P vs 0G-0E-1P). El modelo tiene pocos datos de Aston Villa FC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.795,
-     "por_que": "Aston Villa FC es favorito en casa: marca más (2.97 vs 0.88) y es más fuerte de fondo (neto +0.60 vs -0.33). Probabilidad: 80%.",
+     "prob": 0.796,
+     "por_que": "Aston Villa FC es favorito en casa: marca más (2.96 vs 0.88) y es más fuerte de fondo (neto +0.60 vs -0.33). Probabilidad: 80%.",
      "alternativa": {
       "mercado": "1X",
       "prob": 0.918
@@ -850,65 +850,65 @@
    "local": "Sporting Clube de Portugal",
    "visitante": "LASK Linz",
    "prediccion": {
-    "prob_1": 0.635,
-    "prob_X": 0.214,
-    "prob_2": 0.151,
+    "prob_1": 0.651,
+    "prob_X": 0.211,
+    "prob_2": 0.139,
     "goles_esperados": [
-     1.837,
-     0.753
+     1.846,
+     0.7
     ],
-    "prob_over_2_5": 0.479,
-    "prob_btts": 0.442,
+    "prob_over_2_5": 0.468,
+    "prob_btts": 0.421,
     "marcadores": [
      [
       "1-0",
-      0.1409
+      0.1481
      ],
      [
       "2-0",
-      0.1266
+      0.1335
      ],
      [
       "1-1",
-      0.1006
+      0.0979
      ]
     ],
     "cuotas_justas": [
-     1.57,
-     4.66,
-     6.64
+     1.54,
+     4.75,
+     7.22
     ],
-    "resumen": "Gana Sporting Clube de Portugal (claro favorito, 63%).",
+    "resumen": "Gana Sporting Clube de Portugal (claro favorito, 65%).",
     "confianza": "baja"
    },
    "nota": "pocos datos: 'LASK Linz' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.173,
-     "defensa": 0.297,
-     "neto": 0.469,
-     "peso": 10.8,
+     "ataque": 0.183,
+     "defensa": 0.364,
+     "neto": 0.547,
+     "peso": 11.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.257,
-     "defensa": 0.123,
+     "ataque": -0.255,
+     "defensa": 0.122,
      "neto": -0.133,
      "peso": 0.9,
      "fiable": false
     },
     "forma_local": {
      "pj": 5,
-     "g": 2,
+     "g": 3,
      "e": 1,
-     "p": 2,
-     "gf": 8,
-     "gc": 5,
+     "p": 1,
+     "gf": 10,
+     "gc": 2,
      "racha": [
-      "P",
       "G",
       "P",
       "E",
+      "G",
       "G"
      ]
     },
@@ -924,14 +924,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Sporting Clube de Portugal es más fuerte de fondo (neto +0.47 vs -0.13): ataca ~19% más que el promedio, encaja ~26% menos. Sporting Clube de Portugal juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.84 – 0.75; el modelo ve marcando más a Sporting Clube de Portugal. Y la forma reciente lo confirma: Sporting Clube de Portugal llega mejor (2G-1E-2P vs 0G-0E-1P). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
+    "explicacion": "Sporting Clube de Portugal es más fuerte de fondo (neto +0.55 vs -0.13): ataca ~20% más que el promedio, encaja ~31% menos. Sporting Clube de Portugal juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.85 – 0.70; el modelo ve marcando más a Sporting Clube de Portugal. Y la forma reciente lo confirma: Sporting Clube de Portugal llega mejor (3G-1E-1P vs 0G-0E-1P). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.849,
-     "por_que": "Doble oportunidad: cubre que Sporting Clube de Portugal no pierda. El escenario que queda afuera (gane LASK Linz) es el menos probable (15%), así que el mercado se cumple ~85% de las veces.",
+     "prob": 0.861,
+     "por_que": "Doble oportunidad: cubre que Sporting Clube de Portugal no pierda. El escenario que queda afuera (gane LASK Linz) es el menos probable (14%), así que el mercado se cumple ~86% de las veces.",
      "alternativa": {
       "mercado": "12",
-      "prob": 0.786
+      "prob": 0.789
      },
      "confianza": "baja"
     }
@@ -950,19 +950,19 @@
     "prob_X": 0.128,
     "prob_2": 0.123,
     "goles_esperados": [
-     3.357,
-     1.404
+     3.349,
+     1.399
     ],
-    "prob_over_2_5": 0.854,
-    "prob_btts": 0.727,
+    "prob_over_2_5": 0.852,
+    "prob_btts": 0.725,
     "marcadores": [
      [
       "3-1",
-      0.0758
+      0.076
      ],
      [
       "2-1",
-      0.0678
+      0.0681
      ],
      [
       "4-1",
@@ -971,8 +971,8 @@
     ],
     "cuotas_justas": [
      1.34,
-     7.82,
-     8.11
+     7.83,
+     8.1
     ],
     "resumen": "Gana Real Betis Balompié (claro favorito, 75%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -980,16 +980,16 @@
    "nota": "pocos datos: 'Real Betis Balompié' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.386,
-     "defensa": 0.024,
-     "neto": 0.41,
+     "ataque": 0.388,
+     "defensa": 0.023,
+     "neto": 0.411,
      "peso": 0.9,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.093,
-     "defensa": -0.266,
-     "neto": -0.172,
+     "ataque": 0.096,
+     "defensa": -0.269,
+     "neto": -0.173,
      "peso": 5.2,
      "fiable": false
     },
@@ -1020,11 +1020,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.41 vs -0.17): ataca ~47% más que el promedio. Real Betis Balompié juega en casa (~+34% de ventaja, ya contada). Goles esperados: 3.36 – 1.40; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (1G-0E-0P vs 1G-1E-3P). El modelo tiene pocos datos de Real Betis Balompié: tomalo con pinzas.",
+    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.41 vs -0.17): ataca ~47% más que el promedio. Real Betis Balompié juega en casa (~+34% de ventaja, ya contada). Goles esperados: 3.35 – 1.40; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (1G-0E-0P vs 1G-1E-3P). El modelo tiene pocos datos de Real Betis Balompié: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.854,
-     "por_que": "Bastantes goles esperados (3.36 + 1.40 = 4.76); al menos una defensa floja. Probabilidad al over: 85%.",
+     "prob": 0.852,
+     "por_que": "Bastantes goles esperados (3.35 + 1.40 = 4.75); al menos una defensa floja. Probabilidad al over: 85%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.949
