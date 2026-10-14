@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-21",
- "actualizado": "2026-10-14T10:56:30+00:00",
+ "actualizado": "2026-10-14T18:15:50+00:00",
  "partidos": [
   {
    "id": 575368,
@@ -15,7 +15,7 @@
     "prob_X": 0.186,
     "prob_2": 0.232,
     "goles_esperados": [
-     2.355,
+     2.354,
      1.442
     ],
     "prob_over_2_5": 0.731,
@@ -45,7 +45,7 @@
    "nota": "pocos datos: 'Como 1907' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.448,
+     "ataque": 0.447,
      "defensa": 0.024,
      "neto": 0.472,
      "peso": 0.9,
@@ -85,14 +85,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.47 vs +0.28): ataca ~57% más que el promedio. Como 1907 juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.35 – 1.44; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (1G-0E-0P vs 1G-1E-3P). El modelo tiene pocos datos de Como 1907: tomalo con pinzas.",
+    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.47 vs +0.28): ataca ~56% más que el promedio. Como 1907 juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.35 – 1.44; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (1G-0E-0P vs 1G-1E-3P). El modelo tiene pocos datos de Como 1907: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.731,
      "por_que": "Bastantes goles esperados (2.35 + 1.44 = 3.80). Probabilidad al over: 73%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.889
+      "prob": 0.888
      },
      "confianza": "baja"
     }
@@ -227,7 +227,7 @@
      ],
      [
       "0-1",
-      0.0875
+      0.0874
      ]
     ],
     "cuotas_justas": [
@@ -250,7 +250,7 @@
      "ataque": 0.029,
      "defensa": 0.187,
      "neto": 0.216,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "forma_local": {
@@ -343,7 +343,7 @@
     ],
     "cuotas_justas": [
      1.3,
-     7.59,
+     7.6,
      10.04
     ],
     "resumen": "Gana Real Madrid CF (claro favorito, 77%). se esperan goles (+2.5).",
@@ -688,7 +688,7 @@
    "nota": "pocos datos: 'Racing Club de Lens' solo tiene 2.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.321,
+     "ataque": 0.32,
      "defensa": -0.167,
      "neto": 0.154,
      "peso": 11.0,
@@ -795,7 +795,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.248,
+     "ataque": 0.247,
      "defensa": -0.214,
      "neto": 0.034,
      "peso": 1.9,
@@ -863,7 +863,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1506
+      0.1505
      ],
      [
       "2-0",
@@ -892,9 +892,9 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.252,
+     "ataque": -0.251,
      "defensa": 0.124,
-     "neto": -0.128,
+     "neto": -0.127,
      "peso": 0.9,
      "fiable": false
     },
@@ -949,9 +949,9 @@
    "prediccion": {
     "prob_1": 0.738,
     "prob_X": 0.131,
-    "prob_2": 0.131,
+    "prob_2": 0.132,
     "goles_esperados": [
-     3.297,
+     3.295,
      1.424
     ],
     "prob_over_2_5": 0.85,
@@ -971,9 +971,9 @@
      ]
     ],
     "cuotas_justas": [
-     1.35,
+     1.36,
      7.66,
-     7.61
+     7.6
     ],
     "resumen": "Gana Real Betis Balompié (claro favorito, 74%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -981,7 +981,7 @@
    "nota": "pocos datos: 'Real Betis Balompié' solo tiene 0.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.371,
+     "ataque": 0.37,
      "defensa": -0.005,
      "neto": 0.365,
      "peso": 0.9,
@@ -1021,11 +1021,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.36 vs -0.17): ataca ~45% más que el promedio. Real Betis Balompié juega en casa (~+35% de ventaja, ya contada). Goles esperados: 3.30 – 1.42; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (1G-0E-0P vs 1G-1E-3P). El modelo tiene pocos datos de Real Betis Balompié: tomalo con pinzas.",
+    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.36 vs -0.17): ataca ~45% más que el promedio. Real Betis Balompié juega en casa (~+35% de ventaja, ya contada). Goles esperados: 3.29 – 1.42; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (1G-0E-0P vs 1G-1E-3P). El modelo tiene pocos datos de Real Betis Balompié: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.85,
-     "por_que": "Bastantes goles esperados (3.30 + 1.42 = 4.72); al menos una defensa floja. Probabilidad al over: 85%.",
+     "por_que": "Bastantes goles esperados (3.29 + 1.42 = 4.72); al menos una defensa floja. Probabilidad al over: 85%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.947
