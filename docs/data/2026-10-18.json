@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-18",
- "actualizado": "2026-10-13T20:01:44+00:00",
+ "actualizado": "2026-10-14T10:56:30+00:00",
  "partidos": [
   {
    "id": 558574,
@@ -147,13 +147,13 @@
    "visitante": "Real Racing Club de Santander",
    "prediccion": {
     "prob_1": 0.608,
-    "prob_X": 0.183,
+    "prob_X": 0.184,
     "prob_2": 0.209,
     "goles_esperados": [
-     2.575,
+     2.574,
      1.493
     ],
-    "prob_over_2_5": 0.772,
+    "prob_over_2_5": 0.771,
     "prob_btts": 0.718,
     "marcadores": [
      [
@@ -224,11 +224,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "CA Osasuna es más fuerte de fondo (neto -0.07 vs -0.32): es más completo en general. CA Osasuna juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.58 – 1.49; el modelo ve marcando más a CA Osasuna. Pero ojo: en forma reciente Real Racing Club de Santander llega mejor que CA Osasuna, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de Real Racing Club de Santander: tomalo con pinzas.",
+    "explicacion": "CA Osasuna es más fuerte de fondo (neto -0.07 vs -0.32): es más completo en general. CA Osasuna juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.57 – 1.49; el modelo ve marcando más a CA Osasuna. Pero ojo: en forma reciente Real Racing Club de Santander llega mejor que CA Osasuna, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de Real Racing Club de Santander: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.772,
-     "por_que": "Bastantes goles esperados (2.58 + 1.49 = 4.07); al menos una defensa floja. Probabilidad al over: 77%.",
+     "prob": 0.771,
+     "por_que": "Bastantes goles esperados (2.57 + 1.49 = 4.07); al menos una defensa floja. Probabilidad al over: 77%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.915
@@ -262,7 +262,7 @@
      ],
      [
       "0-1",
-      0.1089
+      0.109
      ],
      [
       "1-2",
@@ -282,14 +282,14 @@
      "ataque": 0.093,
      "defensa": -0.036,
      "neto": 0.057,
-     "peso": 45.5,
+     "peso": 45.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.295,
      "defensa": 0.28,
      "neto": 0.575,
-     "peso": 39.8,
+     "peso": 39.7,
      "fiable": true
     },
     "forma_local": {
@@ -391,7 +391,7 @@
      ],
      [
       "0-2",
-      0.0987
+      0.0986
      ]
     ],
     "cuotas_justas": [
@@ -407,14 +407,14 @@
      "ataque": -0.34,
      "defensa": -0.012,
      "neto": -0.352,
-     "peso": 35.9,
+     "peso": 35.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.303,
      "defensa": 0.095,
      "neto": 0.398,
-     "peso": 40.9,
+     "peso": 40.8,
      "fiable": true
     },
     "forma_local": {
@@ -539,7 +539,7 @@
      "ataque": -0.147,
      "defensa": 0.075,
      "neto": -0.072,
-     "peso": 28.2,
+     "peso": 28.1,
      "fiable": true
     },
     "forma_local": {
@@ -643,7 +643,7 @@
      "ataque": 0.017,
      "defensa": 0.144,
      "neto": 0.161,
-     "peso": 28.2,
+     "peso": 28.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -722,7 +722,7 @@
    "visitante": "Crystal Palace FC",
    "prediccion": {
     "prob_1": 0.541,
-    "prob_X": 0.25,
+    "prob_X": 0.249,
     "prob_2": 0.209,
     "goles_esperados": [
      1.842,
@@ -837,7 +837,7 @@
     "explicacion": "Brighton & Hove Albion FC es más fuerte de fondo (neto +0.35 vs -0.01): ataca ~24% más que el promedio, encaja ~12% menos. Brighton & Hove Albion FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.84 – 1.08; el modelo ve marcando más a Brighton & Hove Albion FC. Y la forma reciente lo confirma: Brighton & Hove Albion FC llega mejor (3G-1E-1P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.791,
+     "prob": 0.79,
      "por_que": "Doble oportunidad: cubre que Brighton & Hove Albion FC no pierda. El escenario que queda afuera (gane Crystal Palace FC) es el menos probable (21%), así que el mercado se cumple ~79% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -891,7 +891,7 @@
     "fuerza_local": {
      "ataque": 0.385,
      "defensa": 0.209,
-     "neto": 0.594,
+     "neto": 0.593,
      "peso": 40.3,
      "fiable": true
     },
@@ -899,7 +899,7 @@
      "ataque": 0.092,
      "defensa": 0.03,
      "neto": 0.122,
-     "peso": 40.3,
+     "peso": 40.2,
      "fiable": true
     },
     "forma_local": {
@@ -1027,14 +1027,14 @@
      "ataque": 0.084,
      "defensa": 0.11,
      "neto": 0.194,
-     "peso": 47.2,
+     "peso": 47.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.062,
      "defensa": 0.084,
      "neto": 0.023,
-     "peso": 47.2,
+     "peso": 47.1,
      "fiable": true
     },
     "forma_local": {
@@ -1146,7 +1146,7 @@
      ],
      [
       "0-1",
-      0.0763
+      0.0764
      ]
     ],
     "cuotas_justas": [
@@ -1162,7 +1162,7 @@
      "ataque": 0.002,
      "defensa": 0.027,
      "neto": 0.03,
-     "peso": 30.8,
+     "peso": 30.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1290,14 +1290,14 @@
      "ataque": 0.049,
      "defensa": 0.165,
      "neto": 0.214,
-     "peso": 25.8,
+     "peso": 25.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.257,
      "defensa": -0.004,
      "neto": 0.254,
-     "peso": 40.9,
+     "peso": 40.8,
      "fiable": true
     },
     "forma_local": {
@@ -1404,14 +1404,14 @@
      "ataque": -0.261,
      "defensa": 0.006,
      "neto": -0.254,
-     "peso": 40.9,
+     "peso": 40.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.079,
      "defensa": -0.022,
      "neto": -0.101,
-     "peso": 35.9,
+     "peso": 35.8,
      "fiable": true
     },
     "forma_local": {
@@ -1532,14 +1532,14 @@
      "ataque": -0.023,
      "defensa": -0.121,
      "neto": -0.144,
-     "peso": 40.3,
+     "peso": 40.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.181,
      "defensa": -0.131,
      "neto": 0.049,
-     "peso": 40.3,
+     "peso": 40.2,
      "fiable": true
     },
     "forma_local": {
@@ -1667,14 +1667,14 @@
      "ataque": -0.023,
      "defensa": 0.103,
      "neto": 0.08,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.317,
      "defensa": 0.603,
      "neto": 0.921,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "forma_local": {
@@ -1791,7 +1791,7 @@
     ],
     "cuotas_justas": [
      2.58,
-     3.65,
+     3.66,
      2.95
     ],
     "resumen": "Partido parejo.",
@@ -1802,7 +1802,7 @@
      "ataque": 0.268,
      "defensa": 0.208,
      "neto": 0.476,
-     "peso": 45.5,
+     "peso": 45.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1900,7 +1900,7 @@
    "prediccion": {
     "prob_1": 0.255,
     "prob_X": 0.287,
-    "prob_2": 0.458,
+    "prob_2": 0.457,
     "goles_esperados": [
      0.907,
      1.313
@@ -1939,10 +1939,10 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.129,
+     "ataque": 0.128,
      "defensa": -0.034,
-     "neto": 0.095,
-     "peso": 47.2,
+     "neto": 0.094,
+     "peso": 47.1,
      "fiable": true
     },
     "forma_local": {
@@ -1976,7 +1976,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Real Sociedad de Fútbol es más fuerte de fondo (neto +0.10 vs -0.57): ataca ~14% más que el promedio. Málaga CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 0.91 – 1.31; el modelo ve marcando más a Real Sociedad de Fútbol. Y la forma reciente lo confirma: Real Sociedad de Fútbol llega mejor (3G-1E-1P vs 0G-3E-2P). El modelo tiene pocos datos de Málaga CF: tomalo con pinzas.",
+    "explicacion": "Real Sociedad de Fútbol es más fuerte de fondo (neto +0.09 vs -0.57): ataca ~14% más que el promedio. Málaga CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 0.91 – 1.31; el modelo ve marcando más a Real Sociedad de Fútbol. Y la forma reciente lo confirma: Real Sociedad de Fútbol llega mejor (3G-1E-1P vs 0G-3E-2P). El modelo tiene pocos datos de Málaga CF: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.745,
@@ -2034,7 +2034,7 @@
      "ataque": 0.253,
      "defensa": 0.345,
      "neto": 0.598,
-     "peso": 45.4,
+     "peso": 45.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2149,7 +2149,7 @@
      ],
      [
       "1-0",
-      0.1036
+      0.1037
      ],
      [
       "2-0",
@@ -2169,14 +2169,14 @@
      "ataque": 0.242,
      "defensa": 0.173,
      "neto": 0.415,
-     "peso": 40.9,
+     "peso": 40.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.039,
      "defensa": 0.038,
      "neto": -0.001,
-     "peso": 40.9,
+     "peso": 40.8,
      "fiable": true
     },
     "forma_local": {
@@ -2304,7 +2304,7 @@
      "ataque": 0.517,
      "defensa": 0.394,
      "neto": 0.911,
-     "peso": 47.2,
+     "peso": 47.1,
      "fiable": true
     },
     "fuerza_visitante": {
