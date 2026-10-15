@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-25",
- "actualizado": "2026-10-15T10:38:26+00:00",
+ "actualizado": "2026-10-15T17:58:19+00:00",
  "partidos": [
   {
    "id": 558563,
@@ -150,7 +150,7 @@
     "prob_X": 0.32,
     "prob_2": 0.198,
     "goles_esperados": [
-     1.148,
+     1.149,
      0.626
     ],
     "prob_over_2_5": 0.263,
@@ -158,11 +158,11 @@
     "marcadores": [
      [
       "1-0",
-      0.1923
+      0.1922
      ],
      [
       "0-0",
-      0.1722
+      0.1721
      ],
      [
       "1-1",
@@ -431,7 +431,7 @@
      "ataque": -0.095,
      "defensa": -0.025,
      "neto": -0.12,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -549,7 +549,7 @@
      "ataque": 0.103,
      "defensa": 0.365,
      "neto": 0.468,
-     "peso": 40.8,
+     "peso": 40.7,
      "fiable": true
     },
     "forma_local": {
@@ -675,7 +675,7 @@
      "ataque": 0.218,
      "defensa": 0.13,
      "neto": 0.348,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "forma_local": {
@@ -803,7 +803,7 @@
      "ataque": -0.03,
      "defensa": 0.015,
      "neto": -0.015,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1073,7 +1073,7 @@
     "fuerza_local": {
      "ataque": 0.027,
      "defensa": 0.269,
-     "neto": 0.297,
+     "neto": 0.296,
      "peso": 5.6,
      "fiable": false
     },
@@ -1164,7 +1164,7 @@
      "ataque": 0.181,
      "defensa": -0.131,
      "neto": 0.049,
-     "peso": 40.2,
+     "peso": 40.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1279,7 +1279,7 @@
      ],
      [
       "1-0",
-      0.0951
+      0.095
      ],
      [
       "2-1",
@@ -1400,7 +1400,7 @@
     "prob_2": 0.146,
     "goles_esperados": [
      2.039,
-     0.86
+     0.859
     ],
     "prob_over_2_5": 0.554,
     "prob_btts": 0.505,
@@ -1431,14 +1431,14 @@
      "ataque": 0.303,
      "defensa": 0.095,
      "neto": 0.398,
-     "peso": 40.8,
+     "peso": 40.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.261,
      "defensa": 0.006,
      "neto": -0.254,
-     "peso": 40.8,
+     "peso": 40.7,
      "fiable": true
     },
     "forma_local": {
@@ -1535,7 +1535,7 @@
     "prob_2": 0.305,
     "goles_esperados": [
      1.94,
-     1.537
+     1.536
     ],
     "prob_over_2_5": 0.675,
     "prob_btts": 0.675,
@@ -1566,7 +1566,7 @@
      "ataque": 0.257,
      "defensa": -0.004,
      "neto": 0.254,
-     "peso": 40.8,
+     "peso": 40.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1670,7 +1670,7 @@
     "prob_2": 0.402,
     "goles_esperados": [
      1.05,
-     1.245
+     1.244
     ],
     "prob_over_2_5": 0.402,
     "prob_btts": 0.467,
@@ -1701,7 +1701,7 @@
      "ataque": -0.34,
      "defensa": -0.012,
      "neto": -0.352,
-     "peso": 35.8,
+     "peso": 35.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1757,7 +1757,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "FC Lorient es más fuerte de fondo (neto +0.03 vs -0.35): es más completo en general. Angers SCO juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.05 – 1.25; el modelo ve marcando más a FC Lorient. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "FC Lorient es más fuerte de fondo (neto +0.03 vs -0.35): es más completo en general. Angers SCO juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.05 – 1.24; el modelo ve marcando más a FC Lorient. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.694,
@@ -1783,15 +1783,15 @@
     "prob_X": 0.243,
     "prob_2": 0.369,
     "goles_esperados": [
-     1.604,
-     1.558
+     1.603,
+     1.559
     ],
     "prob_over_2_5": 0.612,
     "prob_btts": 0.634,
     "marcadores": [
      [
       "1-1",
-      0.1096
+      0.1095
      ],
      [
       "2-1",
@@ -1799,7 +1799,7 @@
      ],
      [
       "1-2",
-      0.0824
+      0.0825
      ]
     ],
     "cuotas_justas": [
@@ -1915,7 +1915,7 @@
      "ataque": 0.092,
      "defensa": 0.03,
      "neto": 0.122,
-     "peso": 40.2,
+     "peso": 40.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2050,14 +2050,14 @@
      "ataque": -0.147,
      "defensa": 0.075,
      "neto": -0.072,
-     "peso": 28.1,
+     "peso": 28.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.017,
      "defensa": 0.144,
      "neto": 0.161,
-     "peso": 28.1,
+     "peso": 28.0,
      "fiable": true
     },
     "forma_local": {
@@ -2164,14 +2164,14 @@
      "ataque": -0.372,
      "defensa": -0.087,
      "neto": -0.459,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.253,
      "defensa": 0.345,
      "neto": 0.598,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "forma_local": {
@@ -2299,7 +2299,7 @@
      "ataque": 0.128,
      "defensa": -0.034,
      "neto": 0.094,
-     "peso": 47.1,
+     "peso": 47.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2413,14 +2413,14 @@
      "ataque": 0.005,
      "defensa": -0.066,
      "neto": -0.061,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.268,
      "defensa": 0.208,
      "neto": 0.476,
-     "peso": 45.4,
+     "peso": 45.3,
      "fiable": true
     },
     "forma_local": {
@@ -2513,7 +2513,7 @@
     "prob_X": 0.207,
     "prob_2": 0.176,
     "goles_esperados": [
-     2.146,
+     2.147,
      1.066
     ],
     "prob_over_2_5": 0.623,
@@ -2544,7 +2544,7 @@
     "fuerza_local": {
      "ataque": 0.521,
      "defensa": 0.383,
-     "neto": 0.903,
+     "neto": 0.904,
      "peso": 40.8,
      "fiable": true
     },
@@ -2552,7 +2552,7 @@
      "ataque": 0.242,
      "defensa": 0.173,
      "neto": 0.415,
-     "peso": 40.8,
+     "peso": 40.7,
      "fiable": true
     },
     "forma_local": {
@@ -2687,7 +2687,7 @@
      "ataque": 0.517,
      "defensa": 0.394,
      "neto": 0.911,
-     "peso": 47.1,
+     "peso": 47.0,
      "fiable": true
     },
     "forma_local": {

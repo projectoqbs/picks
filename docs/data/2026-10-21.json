@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-21",
- "actualizado": "2026-10-15T10:38:26+00:00",
+ "actualizado": "2026-10-15T17:58:19+00:00",
  "partidos": [
   {
    "id": 575368,
@@ -142,9 +142,9 @@
    "nota": "pocos datos: 'Lille OSC' solo tiene 4.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.088,
+     "ataque": 0.087,
      "defensa": 0.026,
-     "neto": 0.114,
+     "neto": 0.113,
      "peso": 4.7,
      "fiable": false
     },
@@ -659,7 +659,7 @@
     "prob_X": 0.147,
     "prob_2": 0.162,
     "goles_esperados": [
-     2.955,
+     2.954,
      1.422
     ],
     "prob_over_2_5": 0.812,
@@ -675,12 +675,12 @@
      ],
      [
       "4-1",
-      0.0568
+      0.0567
      ]
     ],
     "cuotas_justas": [
      1.45,
-     6.8,
+     6.79,
      6.17
     ],
     "resumen": "Gana Club Brugge KV (claro favorito, 69%). se esperan goles (+2.5). ambos marcan.",
@@ -692,7 +692,7 @@
      "ataque": 0.322,
      "defensa": -0.11,
      "neto": 0.212,
-     "peso": 11.0,
+     "peso": 10.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -733,14 +733,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Club Brugge KV es más fuerte de fondo (neto +0.21 vs -0.22): ataca ~38% más que el promedio. Club Brugge KV juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.96 – 1.42; el modelo ve marcando más a Club Brugge KV. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Racing Club de Lens: tomalo con pinzas.",
+    "explicacion": "Club Brugge KV es más fuerte de fondo (neto +0.21 vs -0.22): ataca ~38% más que el promedio. Club Brugge KV juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.95 – 1.42; el modelo ve marcando más a Club Brugge KV. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Racing Club de Lens: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.812,
-     "por_que": "Bastantes goles esperados (2.96 + 1.42 = 4.38); al menos una defensa floja. Probabilidad al over: 81%.",
+     "por_que": "Bastantes goles esperados (2.95 + 1.42 = 4.38); al menos una defensa floja. Probabilidad al over: 81%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.929
+      "prob": 0.928
      },
      "confianza": "baja"
     }
@@ -853,10 +853,10 @@
    "visitante": "LASK Linz",
    "prediccion": {
     "prob_1": 0.86,
-    "prob_X": 0.081,
+    "prob_X": 0.082,
     "prob_2": 0.058,
     "goles_esperados": [
-     3.825,
+     3.824,
      1.03
     ],
     "prob_over_2_5": 0.862,
@@ -877,8 +877,8 @@
     ],
     "cuotas_justas": [
      1.16,
-     12.28,
-     17.17
+     12.27,
+     17.16
     ],
     "resumen": "Gana Sporting Clube de Portugal (claro favorito, 86%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -894,7 +894,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.121,
-     "defensa": -0.567,
+     "defensa": -0.566,
      "neto": -0.446,
      "peso": 1.9,
      "fiable": false
@@ -927,11 +927,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Sporting Clube de Portugal es más fuerte de fondo (neto +0.56 vs -0.45): ataca ~19% más que el promedio, encaja ~32% menos. Sporting Clube de Portugal juega en casa (~+35% de ventaja, ya contada). Goles esperados: 3.83 – 1.03; el modelo ve marcando más a Sporting Clube de Portugal. Y la forma reciente lo confirma: Sporting Clube de Portugal llega mejor (3G-1E-1P vs 0G-0E-2P). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
+    "explicacion": "Sporting Clube de Portugal es más fuerte de fondo (neto +0.56 vs -0.45): ataca ~19% más que el promedio, encaja ~32% menos. Sporting Clube de Portugal juega en casa (~+35% de ventaja, ya contada). Goles esperados: 3.82 – 1.03; el modelo ve marcando más a Sporting Clube de Portugal. Y la forma reciente lo confirma: Sporting Clube de Portugal llega mejor (3G-1E-1P vs 0G-0E-2P). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.86,
-     "por_que": "Sporting Clube de Portugal es favorito en casa: marca más (3.83 vs 1.03) y es más fuerte de fondo (neto +0.56 vs -0.45). Probabilidad: 86%.",
+     "por_que": "Sporting Clube de Portugal es favorito en casa: marca más (3.82 vs 1.03) y es más fuerte de fondo (neto +0.56 vs -0.45). Probabilidad: 86%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.952
@@ -953,7 +953,7 @@
     "prob_X": 0.136,
     "prob_2": 0.165,
     "goles_esperados": [
-     3.389,
+     3.388,
      1.719
     ],
     "prob_over_2_5": 0.884,
@@ -965,7 +965,7 @@
      ],
      [
       "2-1",
-      0.0597
+      0.0598
      ],
      [
       "3-2",
@@ -993,7 +993,7 @@
      "ataque": 0.137,
      "defensa": -0.209,
      "neto": -0.072,
-     "peso": 6.2,
+     "peso": 6.1,
      "fiable": false
     },
     "forma_local": {
@@ -1031,7 +1031,7 @@
      "por_que": "Bastantes goles esperados (3.39 + 1.72 = 5.11); al menos una defensa floja. Probabilidad al over: 88%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.961
+      "prob": 0.96
      },
      "confianza": "baja"
     }
