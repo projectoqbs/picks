@@ -1,7 +1,6 @@
 {
- "actualizado": "2026-10-14T18:15:50+00:00",
+ "actualizado": "2026-10-15T10:38:26+00:00",
  "dias": [
-  "2026-10-14",
   "2026-10-16",
   "2026-10-17",
   "2026-10-18",
@@ -9,7 +8,8 @@
   "2026-10-20",
   "2026-10-21",
   "2026-10-23",
-  "2026-10-24"
+  "2026-10-24",
+  "2026-10-25"
  ],
  "competiciones": [
   {
@@ -39,11 +39,6 @@
  ],
  "tablas": [
   {
-   "codigo": "CL",
-   "nombre": "Champions League",
-   "archivo": "tabla_CL.json"
-  },
-  {
    "codigo": "BL1",
    "nombre": "Bundesliga",
    "archivo": "tabla_BL1.json"
@@ -67,7 +62,12 @@
    "codigo": "PL",
    "nombre": "Premier League",
    "archivo": "tabla_PL.json"
+  },
+  {
+   "codigo": "CL",
+   "nombre": "Champions League",
+   "archivo": "tabla_CL.json"
   }
  ],
- "total_partidos": 101
+ "total_partidos": 114
 }

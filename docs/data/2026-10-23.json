@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-23",
- "actualizado": "2026-10-14T18:15:50+00:00",
+ "actualizado": "2026-10-15T10:38:26+00:00",
  "partidos": [
   {
    "id": 565833,
@@ -15,7 +15,7 @@
     "prob_X": 0.184,
     "prob_2": 0.149,
     "goles_esperados": [
-     2.517,
+     2.516,
      1.143
     ],
     "prob_over_2_5": 0.708,
@@ -31,7 +31,7 @@
      ],
      [
       "1-1",
-      0.0792
+      0.0793
      ]
     ],
     "cuotas_justas": [
@@ -47,14 +47,14 @@
      "ataque": 0.316,
      "defensa": 0.115,
      "neto": 0.431,
-     "peso": 40.2,
+     "peso": 40.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.023,
      "defensa": -0.121,
-     "neto": -0.143,
-     "peso": 40.2,
+     "neto": -0.144,
+     "peso": 40.1,
      "fiable": true
     },
     "forma_local": {
@@ -276,7 +276,7 @@
     "prob_2": 0.289,
     "goles_esperados": [
      1.625,
-     1.245
+     1.244
     ],
     "prob_over_2_5": 0.547,
     "prob_btts": 0.576,
@@ -307,7 +307,7 @@
      "ataque": 0.108,
      "defensa": -0.053,
      "neto": 0.055,
-     "peso": 40.9,
+     "peso": 40.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -384,14 +384,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.06 vs -0.00). Stade Brestois 29 juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.62 – 1.25; el modelo ve marcando más a Stade Brestois 29. También parejos en forma (2G-1E-2P vs 2G-1E-2P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.06 vs -0.00). Stade Brestois 29 juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.62 – 1.24; el modelo ve marcando más a Stade Brestois 29. También parejos en forma (2G-1E-2P vs 2G-1E-2P en 5).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.576,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.62 y 1.25. Probabilidad: 58%.",
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.62 y 1.24. Probabilidad: 58%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.785
+      "prob": 0.784
      },
      "confianza": "alta"
     }
@@ -418,11 +418,11 @@
     "marcadores": [
      [
       "1-0",
-      0.1838
+      0.1837
      ],
      [
       "2-0",
-      0.1355
+      0.1354
      ],
      [
       "0-0",
@@ -432,7 +432,7 @@
     "cuotas_justas": [
      1.73,
      3.68,
-     6.64
+     6.63
     ],
     "resumen": "Gana Deportivo Alavés (claro favorito, 58%). pocos goles (-2.5).",
     "confianza": "baja"
@@ -440,16 +440,16 @@
    "nota": "pocos datos: 'Málaga CF' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.061,
+     "ataque": -0.062,
      "defensa": 0.084,
      "neto": 0.023,
-     "peso": 47.1,
+     "peso": 47.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.532,
      "defensa": -0.036,
-     "neto": -0.569,
+     "neto": -0.568,
      "peso": 7.5,
      "fiable": false
     },

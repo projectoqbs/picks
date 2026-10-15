@@ -4,570 +4,570 @@
  "equipos": [
   {
    "equipo": "Arsenal FC",
-   "ataque": 0.403,
-   "defensa": 0.787,
-   "neto": 1.19,
+   "ataque": 0.396,
+   "defensa": 0.818,
+   "neto": 1.214,
    "peso": 16.9,
    "fiable": true
   },
   {
    "equipo": "Paris Saint-Germain FC",
-   "ataque": 0.733,
-   "defensa": 0.326,
-   "neto": 1.058,
-   "peso": 18.6,
+   "ataque": 0.747,
+   "defensa": 0.354,
+   "neto": 1.101,
+   "peso": 19.6,
    "fiable": true
   },
   {
    "equipo": "FC Bayern München",
-   "ataque": 0.638,
-   "defensa": 0.318,
-   "neto": 0.956,
+   "ataque": 0.633,
+   "defensa": 0.357,
+   "neto": 0.99,
    "peso": 16.4,
    "fiable": true
   },
   {
+   "equipo": "Aston Villa FC",
+   "ataque": 0.464,
+   "defensa": 0.431,
+   "neto": 0.894,
+   "peso": 5.4,
+   "fiable": false
+  },
+  {
+   "equipo": "Liverpool FC",
+   "ataque": 0.326,
+   "defensa": 0.403,
+   "neto": 0.73,
+   "peso": 11.8,
+   "fiable": true
+  },
+  {
    "equipo": "FC Barcelona",
-   "ataque": 0.606,
-   "defensa": 0.093,
-   "neto": 0.699,
+   "ataque": 0.605,
+   "defensa": 0.124,
+   "neto": 0.729,
    "peso": 14.7,
    "fiable": true
   },
   {
-   "equipo": "Liverpool FC",
-   "ataque": 0.215,
-   "defensa": 0.476,
-   "neto": 0.691,
-   "peso": 10.8,
-   "fiable": true
-  },
-  {
    "equipo": "Real Madrid CF",
-   "ataque": 0.519,
-   "defensa": 0.134,
-   "neto": 0.654,
-   "peso": 15.4,
+   "ataque": 0.533,
+   "defensa": 0.123,
+   "neto": 0.656,
+   "peso": 16.4,
    "fiable": true
-  },
-  {
-   "equipo": "Aston Villa FC",
-   "ataque": 0.3,
-   "defensa": 0.337,
-   "neto": 0.638,
-   "peso": 4.5,
-   "fiable": false
   },
   {
    "equipo": "Club Atlético de Madrid",
-   "ataque": 0.404,
-   "defensa": 0.157,
-   "neto": 0.561,
+   "ataque": 0.397,
+   "defensa": 0.195,
+   "neto": 0.592,
    "peso": 16.0,
    "fiable": true
   },
   {
    "equipo": "Sporting Clube de Portugal",
-   "ataque": 0.17,
-   "defensa": 0.368,
-   "neto": 0.538,
-   "peso": 11.8,
+   "ataque": 0.175,
+   "defensa": 0.389,
+   "neto": 0.564,
+   "peso": 11.7,
    "fiable": true
   },
   {
    "equipo": "Newcastle United FC",
-   "ataque": 0.305,
-   "defensa": 0.202,
-   "neto": 0.507,
+   "ataque": 0.304,
+   "defensa": 0.23,
+   "neto": 0.534,
    "peso": 7.7,
    "fiable": false
   },
   {
-   "equipo": "Como 1907",
-   "ataque": 0.447,
-   "defensa": 0.024,
-   "neto": 0.472,
-   "peso": 0.9,
-   "fiable": false
-  },
-  {
    "equipo": "Tottenham Hotspur FC",
-   "ataque": 0.248,
-   "defensa": 0.171,
-   "neto": 0.419,
+   "ataque": 0.246,
+   "defensa": 0.191,
+   "neto": 0.437,
    "peso": 5.6,
    "fiable": false
-  },
-  {
-   "equipo": "Real Betis Balompié",
-   "ataque": 0.37,
-   "defensa": -0.005,
-   "neto": 0.365,
-   "peso": 0.9,
-   "fiable": false
-  },
-  {
-   "equipo": "Manchester City FC",
-   "ataque": 0.19,
-   "defensa": 0.164,
-   "neto": 0.354,
-   "peso": 10.8,
-   "fiable": true
-  },
-  {
-   "equipo": "Borussia Dortmund",
-   "ataque": 0.268,
-   "defensa": 0.072,
-   "neto": 0.341,
-   "peso": 12.7,
-   "fiable": true
   },
   {
    "equipo": "FC Internazionale Milano",
    "ataque": 0.111,
-   "defensa": 0.2,
-   "neto": 0.311,
-   "peso": 13.3,
+   "defensa": 0.23,
+   "neto": 0.341,
+   "peso": 13.2,
    "fiable": true
   },
   {
+   "equipo": "Borussia Dortmund",
+   "ataque": 0.2,
+   "defensa": 0.139,
+   "neto": 0.339,
+   "peso": 13.7,
+   "fiable": true
+  },
+  {
+   "equipo": "Manchester City FC",
+   "ataque": 0.198,
+   "defensa": 0.125,
+   "neto": 0.323,
+   "peso": 11.8,
+   "fiable": true
+  },
+  {
+   "equipo": "Real Betis Balompié",
+   "ataque": 0.412,
+   "defensa": -0.107,
+   "neto": 0.305,
+   "peso": 1.9,
+   "fiable": false
+  },
+  {
    "equipo": "Manchester United FC",
-   "ataque": 0.129,
-   "defensa": 0.152,
-   "neto": 0.281,
+   "ataque": 0.123,
+   "defensa": 0.17,
+   "neto": 0.293,
    "peso": 2.7,
    "fiable": false
   },
   {
-   "equipo": "Bayer 04 Leverkusen",
-   "ataque": -0.029,
-   "defensa": 0.237,
-   "neto": 0.208,
-   "peso": 9.7,
-   "fiable": true
+   "equipo": "VfB Stuttgart",
+   "ataque": 0.124,
+   "defensa": 0.129,
+   "neto": 0.253,
+   "peso": 4.1,
+   "fiable": false
   },
   {
    "equipo": "Chelsea FC",
-   "ataque": 0.152,
-   "defensa": 0.055,
-   "neto": 0.208,
+   "ataque": 0.147,
+   "defensa": 0.085,
+   "neto": 0.232,
    "peso": 5.6,
    "fiable": false
   },
   {
-   "equipo": "Juventus FC",
-   "ataque": 0.07,
-   "defensa": 0.102,
-   "neto": 0.172,
-   "peso": 8.4,
+   "equipo": "Como 1907",
+   "ataque": 0.364,
+   "defensa": -0.132,
+   "neto": 0.232,
+   "peso": 1.9,
+   "fiable": false
+  },
+  {
+   "equipo": "Bayer 04 Leverkusen",
+   "ataque": -0.041,
+   "defensa": 0.269,
+   "neto": 0.229,
+   "peso": 9.7,
    "fiable": true
   },
   {
    "equipo": "Club Brugge KV",
-   "ataque": 0.32,
-   "defensa": -0.167,
-   "neto": 0.154,
+   "ataque": 0.322,
+   "defensa": -0.11,
+   "neto": 0.212,
    "peso": 11.0,
    "fiable": true
   },
   {
-   "equipo": "Real Sociedad de Fútbol",
-   "ataque": -0.13,
-   "defensa": 0.262,
-   "neto": 0.132,
-   "peso": 1.1,
-   "fiable": false
-  },
-  {
-   "equipo": "PAE AEK",
-   "ataque": -0.124,
-   "defensa": 0.252,
-   "neto": 0.128,
-   "peso": 0.9,
-   "fiable": false
+   "equipo": "Juventus FC",
+   "ataque": 0.07,
+   "defensa": 0.136,
+   "neto": 0.206,
+   "peso": 8.4,
+   "fiable": true
   },
   {
    "equipo": "Atalanta BC",
-   "ataque": 0.049,
-   "defensa": 0.068,
-   "neto": 0.117,
+   "ataque": 0.05,
+   "defensa": 0.097,
+   "neto": 0.147,
    "peso": 9.7,
    "fiable": true
   },
   {
    "equipo": "PSV",
-   "ataque": 0.161,
-   "defensa": -0.048,
-   "neto": 0.112,
+   "ataque": 0.149,
+   "defensa": -0.002,
+   "neto": 0.147,
    "peso": 10.8,
    "fiable": true
   },
   {
-   "equipo": "Lille OSC",
-   "ataque": 0.119,
-   "defensa": -0.008,
-   "neto": 0.111,
-   "peso": 4.7,
-   "fiable": false
-  },
-  {
-   "equipo": "AC Milan",
-   "ataque": -0.127,
-   "defensa": 0.224,
-   "neto": 0.097,
-   "peso": 3.6,
-   "fiable": false
-  },
-  {
-   "equipo": "FK Bodø/Glimt",
-   "ataque": 0.193,
-   "defensa": -0.111,
-   "neto": 0.082,
-   "peso": 7.9,
-   "fiable": false
-  },
-  {
-   "equipo": "AS Roma",
-   "ataque": -0.055,
-   "defensa": 0.124,
-   "neto": 0.069,
-   "peso": 0.9,
-   "fiable": false
-  },
-  {
-   "equipo": "SS Lazio",
-   "ataque": -0.126,
-   "defensa": 0.182,
-   "neto": 0.056,
+   "equipo": "Real Sociedad de Fútbol",
+   "ataque": -0.135,
+   "defensa": 0.279,
+   "neto": 0.145,
    "peso": 1.1,
    "fiable": false
   },
   {
-   "equipo": "Sport Lisboa e Benfica",
-   "ataque": -0.107,
-   "defensa": 0.156,
-   "neto": 0.049,
-   "peso": 9.8,
+   "equipo": "FK Bodø/Glimt",
+   "ataque": 0.131,
+   "defensa": -0.004,
+   "neto": 0.127,
+   "peso": 8.8,
    "fiable": true
   },
   {
-   "equipo": "Viking FK",
-   "ataque": 0.247,
-   "defensa": -0.214,
-   "neto": 0.034,
-   "peso": 1.9,
-   "fiable": false
-  },
-  {
-   "equipo": "VfB Stuttgart",
-   "ataque": 0.066,
-   "defensa": -0.035,
-   "neto": 0.031,
-   "peso": 3.1,
-   "fiable": false
-  },
-  {
-   "equipo": "AS Monaco FC",
-   "ataque": -0.043,
-   "defensa": 0.058,
-   "neto": 0.015,
-   "peso": 8.4,
-   "fiable": true
-  },
-  {
-   "equipo": "Olympique de Marseille",
-   "ataque": -0.067,
-   "defensa": 0.004,
-   "neto": -0.063,
-   "peso": 4.3,
-   "fiable": false
-  },
-  {
-   "equipo": "Fenerbahçe SK",
-   "ataque": -0.124,
-   "defensa": 0.055,
-   "neto": -0.069,
-   "peso": 0.9,
-   "fiable": false
-  },
-  {
-   "equipo": "Sevilla FC",
-   "ataque": -0.042,
-   "defensa": -0.032,
-   "neto": -0.075,
-   "peso": 0.8,
-   "fiable": false
-  },
-  {
-   "equipo": "FC Porto",
-   "ataque": -0.066,
-   "defensa": -0.02,
-   "neto": -0.086,
-   "peso": 2.0,
-   "fiable": false
-  },
-  {
-   "equipo": "Athletic Club",
-   "ataque": -0.16,
-   "defensa": 0.069,
-   "neto": -0.091,
-   "peso": 4.3,
-   "fiable": false
-  },
-  {
-   "equipo": "1. FC Union Berlin",
-   "ataque": -0.098,
-   "defensa": 0.001,
-   "neto": -0.097,
-   "peso": 0.8,
-   "fiable": false
-  },
-  {
-   "equipo": "Bologna FC 1909",
-   "ataque": -0.319,
-   "defensa": 0.218,
-   "neto": -0.102,
-   "peso": 2.2,
-   "fiable": false
-  },
-  {
-   "equipo": "Celtic FC",
-   "ataque": -0.123,
-   "defensa": 0.02,
-   "neto": -0.103,
+   "equipo": "AC Milan",
+   "ataque": -0.134,
+   "defensa": 0.25,
+   "neto": 0.117,
    "peso": 3.6,
    "fiable": false
   },
   {
-   "equipo": "FK Shakhtar Donetsk",
-   "ataque": -0.142,
-   "defensa": 0.029,
-   "neto": -0.113,
-   "peso": 3.9,
+   "equipo": "Lille OSC",
+   "ataque": 0.088,
+   "defensa": 0.026,
+   "neto": 0.114,
+   "peso": 4.7,
    "fiable": false
   },
   {
-   "equipo": "LASK Linz",
-   "ataque": -0.251,
-   "defensa": 0.124,
-   "neto": -0.127,
-   "peso": 0.9,
+   "equipo": "Viking FK",
+   "ataque": 0.281,
+   "defensa": -0.175,
+   "neto": 0.105,
+   "peso": 1.9,
    "fiable": false
   },
   {
-   "equipo": "Galatasaray SK",
-   "ataque": -0.011,
-   "defensa": -0.132,
-   "neto": -0.143,
-   "peso": 9.6,
+   "equipo": "Sport Lisboa e Benfica",
+   "ataque": -0.113,
+   "defensa": 0.189,
+   "neto": 0.075,
+   "peso": 9.8,
    "fiable": true
   },
   {
-   "equipo": "RB Leipzig",
-   "ataque": -0.169,
-   "defensa": 0.025,
-   "neto": -0.144,
-   "peso": 5.2,
+   "equipo": "SS Lazio",
+   "ataque": -0.125,
+   "defensa": 0.197,
+   "neto": 0.072,
+   "peso": 1.1,
    "fiable": false
   },
   {
-   "equipo": "Sporting Clube de Braga",
-   "ataque": -0.107,
-   "defensa": -0.057,
-   "neto": -0.164,
+   "equipo": "FK Shakhtar Donetsk",
+   "ataque": 0.01,
+   "defensa": 0.039,
+   "neto": 0.048,
+   "peso": 4.9,
+   "fiable": false
+  },
+  {
+   "equipo": "AS Monaco FC",
+   "ataque": -0.052,
+   "defensa": 0.095,
+   "neto": 0.043,
+   "peso": 8.4,
+   "fiable": true
+  },
+  {
+   "equipo": "FC Porto",
+   "ataque": 0.002,
+   "defensa": -0.021,
+   "neto": -0.018,
+   "peso": 3.0,
+   "fiable": false
+  },
+  {
+   "equipo": "Olympique de Marseille",
+   "ataque": -0.08,
+   "defensa": 0.044,
+   "neto": -0.035,
+   "peso": 4.3,
+   "fiable": false
+  },
+  {
+   "equipo": "Bologna FC 1909",
+   "ataque": -0.324,
+   "defensa": 0.263,
+   "neto": -0.061,
+   "peso": 2.2,
+   "fiable": false
+  },
+  {
+   "equipo": "Sevilla FC",
+   "ataque": -0.044,
+   "defensa": -0.022,
+   "neto": -0.066,
    "peso": 0.8,
    "fiable": false
   },
   {
-   "equipo": "PAE Olympiakos SFP",
-   "ataque": -0.253,
-   "defensa": 0.085,
-   "neto": -0.168,
-   "peso": 5.6,
+   "equipo": "Feyenoord Rotterdam",
+   "ataque": 0.137,
+   "defensa": -0.209,
+   "neto": -0.072,
+   "peso": 6.2,
    "fiable": false
   },
   {
-   "equipo": "Feyenoord Rotterdam",
-   "ataque": 0.086,
-   "defensa": -0.261,
-   "neto": -0.175,
+   "equipo": "Athletic Club",
+   "ataque": -0.172,
+   "defensa": 0.098,
+   "neto": -0.074,
+   "peso": 4.3,
+   "fiable": false
+  },
+  {
+   "equipo": "Celtic FC",
+   "ataque": -0.128,
+   "defensa": 0.054,
+   "neto": -0.074,
+   "peso": 3.6,
+   "fiable": false
+  },
+  {
+   "equipo": "1. FC Union Berlin",
+   "ataque": -0.103,
+   "defensa": 0.014,
+   "neto": -0.09,
+   "peso": 0.8,
+   "fiable": false
+  },
+  {
+   "equipo": "Galatasaray SK",
+   "ataque": -0.025,
+   "defensa": -0.086,
+   "neto": -0.111,
+   "peso": 9.6,
+   "fiable": true
+  },
+  {
+   "equipo": "AS Roma",
+   "ataque": 0.088,
+   "defensa": -0.225,
+   "neto": -0.136,
+   "peso": 1.9,
+   "fiable": false
+  },
+  {
+   "equipo": "RB Leipzig",
+   "ataque": -0.195,
+   "defensa": 0.045,
+   "neto": -0.15,
    "peso": 5.2,
    "fiable": false
   },
   {
+   "equipo": "PAE Olympiakos SFP",
+   "ataque": -0.264,
+   "defensa": 0.111,
+   "neto": -0.153,
+   "peso": 5.6,
+   "fiable": false
+  },
+  {
+   "equipo": "Sporting Clube de Braga",
+   "ataque": -0.114,
+   "defensa": -0.043,
+   "neto": -0.157,
+   "peso": 0.8,
+   "fiable": false
+  },
+  {
    "equipo": "GNK Dinamo Zagreb",
-   "ataque": -0.012,
-   "defensa": -0.171,
-   "neto": -0.183,
+   "ataque": -0.019,
+   "defensa": -0.165,
+   "neto": -0.184,
    "peso": 2.2,
    "fiable": false
   },
   {
    "equipo": "Paphos FC",
-   "ataque": -0.292,
-   "defensa": 0.082,
-   "neto": -0.21,
+   "ataque": -0.302,
+   "defensa": 0.107,
+   "neto": -0.195,
    "peso": 4.3,
    "fiable": false
   },
   {
    "equipo": "Racing Club de Lens",
-   "ataque": -0.049,
-   "defensa": -0.184,
-   "neto": -0.232,
+   "ataque": -0.054,
+   "defensa": -0.162,
+   "neto": -0.217,
    "peso": 2.7,
    "fiable": false
   },
   {
    "equipo": "Royal Antwerp FC",
-   "ataque": -0.089,
-   "defensa": -0.166,
-   "neto": -0.255,
+   "ataque": -0.095,
+   "defensa": -0.13,
+   "neto": -0.225,
    "peso": 0.8,
    "fiable": false
   },
   {
    "equipo": "Girona FC",
-   "ataque": -0.32,
-   "defensa": 0.062,
-   "neto": -0.258,
+   "ataque": -0.326,
+   "defensa": 0.086,
+   "neto": -0.24,
    "peso": 2.2,
    "fiable": false
   },
   {
    "equipo": "Royale Union Saint-Gilloise",
    "ataque": -0.219,
-   "defensa": -0.051,
-   "neto": -0.271,
+   "defensa": -0.031,
+   "neto": -0.25,
    "peso": 4.3,
    "fiable": false
   },
   {
    "equipo": "Stade Brestois 29",
-   "ataque": -0.248,
-   "defensa": -0.077,
-   "neto": -0.325,
+   "ataque": -0.255,
+   "defensa": -0.039,
+   "neto": -0.295,
    "peso": 2.8,
    "fiable": false
   },
   {
+   "equipo": "PAE AEK",
+   "ataque": -0.37,
+   "defensa": 0.028,
+   "neto": -0.343,
+   "peso": 1.9,
+   "fiable": false
+  },
+  {
    "equipo": "FC København",
-   "ataque": -0.094,
-   "defensa": -0.269,
-   "neto": -0.363,
+   "ataque": -0.101,
+   "defensa": -0.246,
+   "neto": -0.347,
    "peso": 5.4,
    "fiable": false
   },
   {
+   "equipo": "FK Crvena Zvezda",
+   "ataque": -0.004,
+   "defensa": -0.366,
+   "neto": -0.371,
+   "peso": 2.9,
+   "fiable": false
+  },
+  {
    "equipo": "SK Sturm Graz",
-   "ataque": -0.322,
-   "defensa": -0.065,
-   "neto": -0.387,
+   "ataque": -0.32,
+   "defensa": -0.057,
+   "neto": -0.377,
    "peso": 2.2,
    "fiable": false
   },
   {
    "equipo": "SSC Napoli",
-   "ataque": -0.314,
-   "defensa": -0.087,
-   "neto": -0.4,
+   "ataque": -0.325,
+   "defensa": -0.057,
+   "neto": -0.382,
    "peso": 7.3,
    "fiable": false
   },
   {
-   "equipo": "FK Crvena Zvezda",
-   "ataque": -0.009,
-   "defensa": -0.392,
-   "neto": -0.401,
-   "peso": 2.9,
-   "fiable": false
-  },
-  {
-   "equipo": "Sabah FK",
-   "ataque": -0.254,
-   "defensa": -0.185,
-   "neto": -0.439,
-   "peso": 1.9,
-   "fiable": false
-  },
-  {
    "equipo": "Eintracht Frankfurt",
-   "ataque": -0.177,
-   "defensa": -0.268,
-   "neto": -0.445,
+   "ataque": -0.188,
+   "defensa": -0.231,
+   "neto": -0.419,
    "peso": 4.3,
    "fiable": false
   },
   {
+   "equipo": "Sabah FK",
+   "ataque": -0.26,
+   "defensa": -0.169,
+   "neto": -0.429,
+   "peso": 1.9,
+   "fiable": false
+  },
+  {
+   "equipo": "LASK Linz",
+   "ataque": 0.121,
+   "defensa": -0.567,
+   "neto": -0.446,
+   "peso": 1.9,
+   "fiable": false
+  },
+  {
    "equipo": "Villarreal CF",
-   "ataque": -0.196,
-   "defensa": -0.271,
-   "neto": -0.468,
+   "ataque": -0.201,
+   "defensa": -0.262,
+   "neto": -0.463,
    "peso": 6.2,
    "fiable": false
   },
   {
    "equipo": "AC Sparta Praha",
-   "ataque": -0.269,
-   "defensa": -0.319,
-   "neto": -0.588,
+   "ataque": -0.265,
+   "defensa": -0.287,
+   "neto": -0.552,
    "peso": 2.2,
    "fiable": false
   },
   {
    "equipo": "Qarabağ Ağdam FK",
-   "ataque": -0.008,
-   "defensa": -0.592,
-   "neto": -0.6,
+   "ataque": -0.019,
+   "defensa": -0.549,
+   "neto": -0.568,
    "peso": 5.6,
    "fiable": false
   },
   {
    "equipo": "FK Kairat",
-   "ataque": -0.259,
-   "defensa": -0.343,
-   "neto": -0.601,
+   "ataque": -0.266,
+   "defensa": -0.312,
+   "neto": -0.578,
    "peso": 4.3,
    "fiable": false
   },
   {
-   "equipo": "ŠK Slovan Bratislava",
-   "ataque": -0.166,
-   "defensa": -0.458,
-   "neto": -0.623,
-   "peso": 3.1,
-   "fiable": false
-  },
-  {
    "equipo": "FC Red Bull Salzburg",
-   "ataque": -0.373,
-   "defensa": -0.353,
-   "neto": -0.726,
+   "ataque": -0.379,
+   "defensa": -0.321,
+   "neto": -0.699,
    "peso": 2.9,
    "fiable": false
   },
   {
    "equipo": "AFC Ajax",
-   "ataque": -0.285,
-   "defensa": -0.444,
-   "neto": -0.729,
+   "ataque": -0.288,
+   "defensa": -0.421,
+   "neto": -0.709,
    "peso": 4.3,
    "fiable": false
   },
   {
+   "equipo": "Fenerbahçe SK",
+   "ataque": -0.393,
+   "defensa": -0.339,
+   "neto": -0.732,
+   "peso": 1.9,
+   "fiable": false
+  },
+  {
    "equipo": "BSC Young Boys",
-   "ataque": -0.434,
-   "defensa": -0.354,
-   "neto": -0.788,
+   "ataque": -0.431,
+   "defensa": -0.303,
+   "neto": -0.734,
    "peso": 2.9,
    "fiable": false
   },
   {
    "equipo": "SK Slavia Praha",
-   "ataque": -0.459,
-   "defensa": -0.332,
-   "neto": -0.791,
+   "ataque": -0.469,
+   "defensa": -0.305,
+   "neto": -0.773,
    "peso": 6.2,
+   "fiable": false
+  },
+  {
+   "equipo": "ŠK Slovan Bratislava",
+   "ataque": -0.358,
+   "defensa": -0.461,
+   "neto": -0.818,
+   "peso": 4.1,
    "fiable": false
   }
  ]
