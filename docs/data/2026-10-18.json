@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-18",
- "actualizado": "2026-10-16T10:24:54+00:00",
+ "actualizado": "2026-10-16T17:46:30+00:00",
  "partidos": [
   {
    "id": 558574,
@@ -15,7 +15,7 @@
     "prob_X": 0.281,
     "prob_2": 0.221,
     "goles_esperados": [
-     1.4,
+     1.399,
      0.839
     ],
     "prob_over_2_5": 0.388,
@@ -166,7 +166,7 @@
      ],
      [
       "1-1",
-      0.0673
+      0.0672
      ]
     ],
     "cuotas_justas": [
@@ -187,7 +187,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.249,
+     "ataque": 0.248,
      "defensa": -0.571,
      "neto": -0.323,
      "peso": 7.5,
@@ -282,14 +282,14 @@
      "ataque": 0.093,
      "defensa": -0.036,
      "neto": 0.057,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.295,
      "defensa": 0.28,
      "neto": 0.575,
-     "peso": 39.6,
+     "peso": 39.5,
      "fiable": true
     },
     "forma_local": {
@@ -512,7 +512,7 @@
      ],
      [
       "1-0",
-      0.1015
+      0.1016
      ],
      [
       "2-1",
@@ -531,7 +531,7 @@
     "fuerza_local": {
      "ataque": 0.103,
      "defensa": 0.031,
-     "neto": 0.134,
+     "neto": 0.135,
      "peso": 44.9,
      "fiable": true
     },
@@ -588,7 +588,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "AFC Bournemouth es más fuerte de fondo (neto +0.13 vs -0.07): ataca ~11% más que el promedio. AFC Bournemouth juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.55 – 1.06; el modelo ve marcando más a AFC Bournemouth. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "AFC Bournemouth es más fuerte de fondo (neto +0.14 vs -0.07): ataca ~11% más que el promedio. AFC Bournemouth juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.55 – 1.06; el modelo ve marcando más a AFC Bournemouth. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.752,
@@ -747,7 +747,7 @@
     "cuotas_justas": [
      1.85,
      4.01,
-     4.77
+     4.78
     ],
     "resumen": "Gana Brighton & Hove Albion FC (ligero favorito, 54%).",
     "confianza": "alta"
@@ -1027,14 +1027,14 @@
      "ataque": 0.084,
      "defensa": 0.11,
      "neto": 0.194,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.062,
      "defensa": 0.084,
-     "neto": 0.023,
-     "peso": 47.0,
+     "neto": 0.022,
+     "peso": 46.9,
      "fiable": true
     },
     "forma_local": {
@@ -1403,7 +1403,7 @@
     "fuerza_local": {
      "ataque": -0.261,
      "defensa": 0.006,
-     "neto": -0.255,
+     "neto": -0.254,
      "peso": 40.7,
      "fiable": true
     },
@@ -1474,7 +1474,7 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "AJ Auxerre es más fuerte de fondo (neto -0.10 vs -0.26): es más completo en general. Le Havre AC juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.19 – 1.13; el modelo ve marcando más a Le Havre AC. Y la forma reciente lo confirma: AJ Auxerre llega mejor (2G-0E-3P vs 0G-2E-3P).",
+    "explicacion": "AJ Auxerre es más fuerte de fondo (neto -0.10 vs -0.25): es más completo en general. Le Havre AC juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.19 – 1.13; el modelo ve marcando más a Le Havre AC. Y la forma reciente lo confirma: AJ Auxerre llega mejor (2G-0E-3P vs 0G-2E-3P).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.59,
@@ -1532,7 +1532,7 @@
      "ataque": -0.023,
      "defensa": -0.121,
      "neto": -0.144,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1643,7 +1643,7 @@
     "marcadores": [
      [
       "0-1",
-      0.1339
+      0.134
      ],
      [
       "1-1",
@@ -1674,7 +1674,7 @@
      "ataque": 0.317,
      "defensa": 0.603,
      "neto": 0.92,
-     "peso": 44.9,
+     "peso": 44.8,
      "fiable": true
     },
     "forma_local": {
@@ -1918,7 +1918,7 @@
      ],
      [
       "0-0",
-      0.1113
+      0.1112
      ]
     ],
     "cuotas_justas": [
@@ -1942,7 +1942,7 @@
      "ataque": 0.128,
      "defensa": -0.034,
      "neto": 0.094,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "forma_local": {
@@ -2118,7 +2118,7 @@
      "por_que": "Pocos goles esperados en total (1.38 + 0.89 = 2.27); la defensa de Juventus FC aprieta. El modelo ve el partido cerrado (60% al under).",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.76
+      "prob": 0.761
      },
      "confianza": "alta"
     }
@@ -2149,7 +2149,7 @@
      ],
      [
       "1-0",
-      0.1036
+      0.1037
      ],
      [
       "2-0",
@@ -2304,7 +2304,7 @@
      "ataque": 0.517,
      "defensa": 0.394,
      "neto": 0.911,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "fuerza_visitante": {

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-21",
- "actualizado": "2026-10-16T10:24:54+00:00",
+ "actualizado": "2026-10-16T17:46:30+00:00",
  "partidos": [
   {
    "id": 575368,
@@ -16,7 +16,7 @@
     "prob_2": 0.312,
     "goles_esperados": [
      2.21,
-     1.737
+     1.736
     ],
     "prob_over_2_5": 0.754,
     "prob_btts": 0.728,
@@ -47,14 +47,14 @@
     "fuerza_local": {
      "ataque": 0.364,
      "defensa": -0.132,
-     "neto": 0.232,
+     "neto": 0.231,
      "peso": 1.9,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.123,
+     "ataque": 0.122,
      "defensa": 0.17,
-     "neto": 0.293,
+     "neto": 0.292,
      "peso": 2.7,
      "fiable": false
     },
@@ -323,7 +323,7 @@
     "prob_X": 0.124,
     "prob_2": 0.098,
     "goles_esperados": [
-     2.966,
+     2.965,
      0.98
     ],
     "prob_over_2_5": 0.754,
@@ -353,7 +353,7 @@
    "nota": "pocos datos: 'RB Leipzig' solo tiene 5.2 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.533,
+     "ataque": 0.532,
      "defensa": 0.123,
      "neto": 0.655,
      "peso": 16.4,
@@ -412,11 +412,11 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.66 vs -0.15): ataca ~70% más que el promedio, encaja ~12% menos. Real Madrid CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.97 – 0.98; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (3G-0E-2P vs 2G-0E-3P). El modelo tiene pocos datos de RB Leipzig: tomalo con pinzas.",
+    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.66 vs -0.15): ataca ~70% más que el promedio, encaja ~12% menos. Real Madrid CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.96 – 0.98; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (3G-0E-2P vs 2G-0E-3P). El modelo tiene pocos datos de RB Leipzig: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.778,
-     "por_que": "Real Madrid CF es favorito en casa: marca más (2.97 vs 0.98) y es más fuerte de fondo (neto +0.66 vs -0.15). Probabilidad: 78%.",
+     "por_que": "Real Madrid CF es favorito en casa: marca más (2.96 vs 0.98) y es más fuerte de fondo (neto +0.66 vs -0.15). Probabilidad: 78%.",
      "alternativa": {
       "mercado": "1X",
       "prob": 0.902
@@ -435,7 +435,7 @@
    "visitante": "FK Shakhtar Donetsk",
    "prediccion": {
     "prob_1": 0.585,
-    "prob_X": 0.202,
+    "prob_X": 0.203,
     "prob_2": 0.212,
     "goles_esperados": [
      1.958,
@@ -534,11 +534,11 @@
    "local": "FC Bayern München",
    "visitante": "Arsenal FC",
    "prediccion": {
-    "prob_1": 0.41,
+    "prob_1": 0.411,
     "prob_X": 0.23,
-    "prob_2": 0.36,
+    "prob_2": 0.359,
     "goles_esperados": [
-     1.513,
+     1.514,
      1.399
     ],
     "prob_over_2_5": 0.557,
@@ -570,14 +570,14 @@
      "ataque": 0.633,
      "defensa": 0.357,
      "neto": 0.99,
-     "peso": 16.4,
+     "peso": 16.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.396,
+     "ataque": 0.395,
      "defensa": 0.818,
-     "neto": 1.214,
-     "peso": 16.9,
+     "neto": 1.213,
+     "peso": 16.8,
      "fiable": true
     },
     "forma_local": {
@@ -633,7 +633,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Arsenal FC es más fuerte de fondo (neto +1.21 vs +0.99): ataca ~49% más que el promedio, encaja ~56% menos. FC Bayern München juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.51 – 1.40; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: Arsenal FC llega mejor (3G-1E-1P vs 2G-2E-1P).",
+    "explicacion": "Arsenal FC es más fuerte de fondo (neto +1.21 vs +0.99): ataca ~48% más que el promedio, encaja ~56% menos. FC Bayern München juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.51 – 1.40; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: Arsenal FC llega mejor (3G-1E-1P vs 2G-2E-1P).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.579,
@@ -659,7 +659,7 @@
     "prob_X": 0.147,
     "prob_2": 0.162,
     "goles_esperados": [
-     2.954,
+     2.953,
      1.422
     ],
     "prob_over_2_5": 0.812,
@@ -667,7 +667,7 @@
     "marcadores": [
      [
       "2-1",
-      0.078
+      0.0781
      ],
      [
       "3-1",
@@ -681,7 +681,7 @@
     "cuotas_justas": [
      1.45,
      6.79,
-     6.17
+     6.16
     ],
     "resumen": "Gana Club Brugge KV (claro favorito, 69%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -689,16 +689,16 @@
    "nota": "pocos datos: 'Racing Club de Lens' solo tiene 2.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.322,
+     "ataque": 0.321,
      "defensa": -0.11,
      "neto": 0.212,
      "peso": 10.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.054,
+     "ataque": -0.055,
      "defensa": -0.162,
-     "neto": -0.217,
+     "neto": -0.216,
      "peso": 2.7,
      "fiable": false
     },
@@ -791,7 +791,7 @@
     "fuerza_local": {
      "ataque": 0.463,
      "defensa": 0.43,
-     "neto": 0.894,
+     "neto": 0.893,
      "peso": 5.4,
      "fiable": false
     },
@@ -856,11 +856,11 @@
     "prob_X": 0.082,
     "prob_2": 0.058,
     "goles_esperados": [
-     3.822,
+     3.821,
      1.03
     ],
     "prob_over_2_5": 0.862,
-    "prob_btts": 0.627,
+    "prob_btts": 0.626,
     "marcadores": [
      [
       "3-1",
@@ -877,8 +877,8 @@
     ],
     "cuotas_justas": [
      1.16,
-     12.26,
-     17.14
+     12.25,
+     17.13
     ],
     "resumen": "Gana Sporting Clube de Portugal (claro favorito, 86%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"

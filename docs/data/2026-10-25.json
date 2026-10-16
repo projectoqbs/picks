@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-25",
- "actualizado": "2026-10-16T10:24:54+00:00",
+ "actualizado": "2026-10-16T17:46:30+00:00",
  "partidos": [
   {
    "id": 558563,
@@ -54,7 +54,7 @@
      "ataque": 0.093,
      "defensa": -0.036,
      "neto": 0.057,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "forma_local": {
@@ -186,7 +186,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.389,
+     "ataque": -0.39,
      "defensa": 0.291,
      "neto": -0.099,
      "peso": 47.0,
@@ -262,7 +262,7 @@
     "explicacion": "Athletic Club es más fuerte de fondo (neto +0.21 vs -0.10): encaja ~17% menos. Athletic Club juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.15 – 0.63; el modelo ve marcando más a Athletic Club. Y la forma reciente lo confirma: Athletic Club llega mejor (2G-2E-1P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.737,
+     "prob": 0.738,
      "por_que": "Pocos goles esperados en total (1.15 + 0.63 = 1.77); la defensa de Getafe CF aprieta. El modelo ve el partido cerrado (74% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
@@ -322,7 +322,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.094,
-     "defensa": -0.1,
+     "defensa": -0.101,
      "neto": -0.006,
      "peso": 11.3,
      "fiable": true
@@ -399,8 +399,8 @@
     "prob_X": 0.259,
     "prob_2": 0.211,
     "goles_esperados": [
-     1.585,
-     0.904
+     1.586,
+     0.903
     ],
     "prob_over_2_5": 0.453,
     "prob_btts": 0.477,
@@ -431,13 +431,13 @@
      "ataque": -0.095,
      "defensa": -0.025,
      "neto": -0.12,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.256,
      "defensa": -0.312,
-     "neto": -0.568,
+     "neto": -0.569,
      "peso": 16.9,
      "fiable": true
     },
@@ -487,7 +487,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Genoa CFC es más fuerte de fondo (neto -0.12 vs -0.57): es más completo en general. Genoa CFC juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.58 – 0.90; el modelo ve marcando más a Genoa CFC. Y la forma reciente lo confirma: Genoa CFC llega mejor (1G-1E-3P vs 0G-0E-5P).",
+    "explicacion": "Genoa CFC es más fuerte de fondo (neto -0.12 vs -0.57): es más completo en general. Genoa CFC juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.59 – 0.90; el modelo ve marcando más a Genoa CFC. Y la forma reciente lo confirma: Genoa CFC llega mejor (1G-1E-3P vs 0G-0E-5P).",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.789,
@@ -511,7 +511,7 @@
     "prob_2": 0.319,
     "goles_esperados": [
      1.442,
-     1.234
+     1.235
     ],
     "prob_over_2_5": 0.501,
     "prob_btts": 0.546,
@@ -619,7 +619,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.41 vs +0.47). AS Monaco FC juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.44 – 1.23; el modelo ve marcando más a AS Monaco FC. También parejos en forma (3G-2E-0P vs 3G-1E-1P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.41 vs +0.47). AS Monaco FC juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.44 – 1.24; el modelo ve marcando más a AS Monaco FC. También parejos en forma (3G-2E-0P vs 3G-1E-1P en 5).",
     "recomendacion": null
    }
   },
@@ -944,7 +944,7 @@
     "fuerza_visitante": {
      "ataque": 0.103,
      "defensa": 0.031,
-     "neto": 0.134,
+     "neto": 0.135,
      "peso": 44.9,
      "fiable": true
     },
@@ -1015,7 +1015,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.24 vs +0.13). Manchester United FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.71 – 1.30; el modelo ve marcando más a Manchester United FC. En forma reciente pinta algo mejor Manchester United FC (1G-3E-1P vs 0G-3E-2P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.24 vs +0.14). Manchester United FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.71 – 1.30; el modelo ve marcando más a Manchester United FC. En forma reciente pinta algo mejor Manchester United FC (1G-3E-1P vs 0G-3E-2P en 5).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.608,
@@ -1037,7 +1037,7 @@
    "local": "Hull City AFC",
    "visitante": "Brentford FC",
    "prediccion": {
-    "prob_1": 0.426,
+    "prob_1": 0.425,
     "prob_X": 0.286,
     "prob_2": 0.288,
     "goles_esperados": [
@@ -1264,7 +1264,7 @@
    "visitante": "Real Betis Balompié",
    "prediccion": {
     "prob_1": 0.406,
-    "prob_X": 0.264,
+    "prob_X": 0.263,
     "prob_2": 0.33,
     "goles_esperados": [
      1.422,
@@ -1279,7 +1279,7 @@
      ],
      [
       "1-0",
-      0.0951
+      0.095
      ],
      [
       "2-1",
@@ -1299,13 +1299,13 @@
      "ataque": 0.084,
      "defensa": 0.11,
      "neto": 0.194,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.231,
      "defensa": 0.133,
-     "neto": 0.363,
+     "neto": 0.364,
      "peso": 47.0,
      "fiable": true
     },
@@ -1407,7 +1407,7 @@
     "marcadores": [
      [
       "2-0",
-      0.1146
+      0.1145
      ],
      [
       "1-0",
@@ -1421,7 +1421,7 @@
     "cuotas_justas": [
      1.55,
      4.76,
-     6.87
+     6.86
     ],
     "resumen": "Gana Olympique de Marseille (claro favorito, 64%).",
     "confianza": "alta"
@@ -1437,7 +1437,7 @@
     "fuerza_visitante": {
      "ataque": -0.261,
      "defensa": 0.006,
-     "neto": -0.255,
+     "neto": -0.254,
      "peso": 40.7,
      "fiable": true
     },
@@ -1508,7 +1508,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Olympique de Marseille es más fuerte de fondo (neto +0.40 vs -0.26): ataca ~35% más que el promedio. Olympique de Marseille juega en casa (~+24% de ventaja, ya contada). Goles esperados: 2.04 – 0.86; el modelo ve marcando más a Olympique de Marseille. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Olympique de Marseille es más fuerte de fondo (neto +0.40 vs -0.25): ataca ~35% más que el promedio. Olympique de Marseille juega en casa (~+24% de ventaja, ya contada). Goles esperados: 2.04 – 0.86; el modelo ve marcando más a Olympique de Marseille. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.854,
@@ -1535,7 +1535,7 @@
     "prob_2": 0.305,
     "goles_esperados": [
      1.94,
-     1.536
+     1.537
     ],
     "prob_over_2_5": 0.675,
     "prob_btts": 0.675,
@@ -1670,9 +1670,9 @@
     "prob_2": 0.402,
     "goles_esperados": [
      1.05,
-     1.244
+     1.245
     ],
-    "prob_over_2_5": 0.402,
+    "prob_over_2_5": 0.403,
     "prob_btts": 0.467,
     "marcadores": [
      [
@@ -1757,7 +1757,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "FC Lorient es más fuerte de fondo (neto +0.03 vs -0.35): es más completo en general. Angers SCO juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.05 – 1.24; el modelo ve marcando más a FC Lorient. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "FC Lorient es más fuerte de fondo (neto +0.03 vs -0.35): es más completo en general. Angers SCO juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.05 – 1.25; el modelo ve marcando más a FC Lorient. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.694,
@@ -1784,14 +1784,14 @@
     "prob_2": 0.369,
     "goles_esperados": [
      1.603,
-     1.559
+     1.558
     ],
     "prob_over_2_5": 0.612,
     "prob_btts": 0.634,
     "marcadores": [
      [
       "1-1",
-      0.1095
+      0.1096
      ],
      [
       "2-1",
@@ -1922,7 +1922,7 @@
      "ataque": 0.767,
      "defensa": 0.347,
      "neto": 1.114,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "forma_local": {
@@ -2136,7 +2136,7 @@
      1.6
     ],
     "prob_over_2_5": 0.384,
-    "prob_btts": 0.373,
+    "prob_btts": 0.374,
     "marcadores": [
      [
       "0-1",
@@ -2299,7 +2299,7 @@
      "ataque": 0.128,
      "defensa": -0.034,
      "neto": 0.094,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2393,7 +2393,7 @@
      ],
      [
       "0-1",
-      0.1108
+      0.1107
      ],
      [
       "1-2",
@@ -2544,8 +2544,8 @@
     "fuerza_local": {
      "ataque": 0.521,
      "defensa": 0.383,
-     "neto": 0.904,
-     "peso": 40.8,
+     "neto": 0.903,
+     "peso": 40.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2680,14 +2680,14 @@
      "ataque": 0.762,
      "defensa": 0.321,
      "neto": 1.083,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.517,
      "defensa": 0.394,
      "neto": 0.911,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "forma_local": {

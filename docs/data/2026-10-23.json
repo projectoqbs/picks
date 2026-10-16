@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-23",
- "actualizado": "2026-10-16T10:24:54+00:00",
+ "actualizado": "2026-10-16T17:46:30+00:00",
  "partidos": [
   {
    "id": 565833,
@@ -45,16 +45,16 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.316,
-     "defensa": 0.114,
+     "defensa": 0.115,
      "neto": 0.43,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.023,
      "defensa": -0.121,
      "neto": -0.144,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "forma_local": {
@@ -182,7 +182,7 @@
      "ataque": -0.039,
      "defensa": -0.07,
      "neto": -0.109,
-     "peso": 45.2,
+     "peso": 45.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -442,8 +442,8 @@
     "fuerza_local": {
      "ataque": -0.062,
      "defensa": 0.084,
-     "neto": 0.023,
-     "peso": 47.0,
+     "neto": 0.022,
+     "peso": 46.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -511,7 +511,7 @@
     "prob_2": 0.496,
     "goles_esperados": [
      1.173,
-     1.744
+     1.743
     ],
     "prob_over_2_5": 0.558,
     "prob_btts": 0.581,

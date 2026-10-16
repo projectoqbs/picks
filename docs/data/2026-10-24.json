@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-24",
- "actualizado": "2026-10-16T10:24:54+00:00",
+ "actualizado": "2026-10-16T17:46:30+00:00",
  "partidos": [
   {
    "id": 560614,
@@ -47,7 +47,7 @@
      "ataque": 0.132,
      "defensa": 0.059,
      "neto": 0.191,
-     "peso": 44.9,
+     "peso": 44.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -182,7 +182,7 @@
      "ataque": -0.097,
      "defensa": 0.11,
      "neto": 0.013,
-     "peso": 46.1,
+     "peso": 46.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -286,8 +286,8 @@
     "fuerza_local": {
      "ataque": -0.078,
      "defensa": -0.015,
-     "neto": -0.094,
-     "peso": 45.2,
+     "neto": -0.093,
+     "peso": 45.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -368,7 +368,7 @@
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.695,
-     "por_que": "Doble oportunidad: cubre que Cagliari Calcio no gane. El escenario que queda afuera (gane Cagliari Calcio) es el menos probable (30%), así que el mercado se cumple ~70% de las veces.",
+     "por_que": "Doble oportunidad: cubre que Cagliari Calcio no gane. El escenario que queda afuera (gane Cagliari Calcio) es el menos probable (31%), así que el mercado se cumple ~69% de las veces.",
      "alternativa": {
       "mercado": "Menos de 2.5 goles",
       "prob": 0.582
@@ -390,7 +390,7 @@
     "prob_X": 0.224,
     "prob_2": 0.175,
     "goles_esperados": [
-     1.925,
+     1.924,
      0.938
     ],
     "prob_over_2_5": 0.545,
@@ -422,7 +422,7 @@
      "ataque": 0.295,
      "defensa": 0.28,
      "neto": 0.575,
-     "peso": 39.6,
+     "peso": 39.5,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -478,7 +478,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.57 vs -0.03): ataca ~34% más que el promedio, encaja ~24% menos. Como 1907 juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.93 – 0.94; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (3G-1E-1P vs 2G-2E-1P).",
+    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.57 vs -0.03): ataca ~34% más que el promedio, encaja ~24% menos. Como 1907 juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.92 – 0.94; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (3G-1E-1P vs 2G-2E-1P).",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.825,
@@ -505,7 +505,7 @@
     "prob_2": 0.243,
     "goles_esperados": [
      1.74,
-     1.145
+     1.146
     ],
     "prob_over_2_5": 0.551,
     "prob_btts": 0.57,
@@ -536,7 +536,7 @@
      "ataque": 0.035,
      "defensa": 0.064,
      "neto": 0.098,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -639,10 +639,10 @@
     "prob_X": 0.303,
     "prob_2": 0.343,
     "goles_esperados": [
-     1.155,
+     1.156,
      1.135
     ],
-    "prob_over_2_5": 0.401,
+    "prob_over_2_5": 0.402,
     "prob_btts": 0.474,
     "marcadores": [
      [
@@ -655,7 +655,7 @@
      ],
      [
       "1-0",
-      0.1077
+      0.1076
      ]
     ],
     "cuotas_justas": [
@@ -716,7 +716,7 @@
     "explicacion": "FC Schalke 04 es más fuerte de fondo (neto -0.02 vs -0.22): encaja ~23% menos. 1. FC Köln juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.16 – 1.14; el modelo ve marcando más a 1. FC Köln. Pero ojo: en forma reciente 1. FC Köln llega mejor que FC Schalke 04, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.599,
+     "prob": 0.598,
      "por_que": "Pocos goles esperados en total (1.16 + 1.14 = 2.29); la defensa de FC Schalke 04 aprieta. El modelo ve el partido cerrado (60% al under).",
      "alternativa": {
       "mercado": "X2",
@@ -840,7 +840,7 @@
     "prob_2": 0.296,
     "goles_esperados": [
      1.116,
-     0.945
+     0.946
     ],
     "prob_over_2_5": 0.34,
     "prob_btts": 0.421,
@@ -913,11 +913,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "En fuerza de temporada están parejos (neto -0.33 vs -0.28). SC Paderborn 07 juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.12 – 0.94; el modelo ve marcando más a SC Paderborn 07. También parejos en forma (1G-1E-3P vs 2G-0E-3P en 5). El modelo tiene pocos datos de SC Paderborn 07: tomalo con pinzas.",
+    "explicacion": "En fuerza de temporada están parejos (neto -0.33 vs -0.28). SC Paderborn 07 juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.12 – 0.95; el modelo ve marcando más a SC Paderborn 07. También parejos en forma (1G-1E-3P vs 2G-0E-3P en 5). El modelo tiene pocos datos de SC Paderborn 07: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.66,
-     "por_que": "Pocos goles esperados en total (1.12 + 0.94 = 2.06). El modelo ve el partido cerrado (66% al under).",
+     "por_que": "Pocos goles esperados en total (1.12 + 0.95 = 2.06). El modelo ve el partido cerrado (66% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
       "prob": 0.846
@@ -939,7 +939,7 @@
     "prob_X": 0.255,
     "prob_2": 0.23,
     "goles_esperados": [
-     1.716,
+     1.717,
      1.079
     ],
     "prob_over_2_5": 0.529,
@@ -971,7 +971,7 @@
      "ataque": -0.026,
      "defensa": 0.001,
      "neto": -0.025,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1103,7 +1103,7 @@
      "ataque": 0.317,
      "defensa": 0.603,
      "neto": 0.92,
-     "peso": 44.9,
+     "peso": 44.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1237,7 +1237,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.183,
-     "defensa": -0.031,
+     "defensa": -0.032,
      "neto": -0.215,
      "peso": 5.6,
      "fiable": false
@@ -1246,7 +1246,7 @@
      "ataque": -0.059,
      "defensa": 0.056,
      "neto": -0.003,
-     "peso": 44.9,
+     "peso": 44.8,
      "fiable": true
     },
     "forma_local": {
@@ -1336,7 +1336,7 @@
    "nota": "pocos datos: 'Real Racing Club de Santander' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.249,
+     "ataque": 0.248,
      "defensa": -0.571,
      "neto": -0.323,
      "peso": 7.5,
@@ -1418,16 +1418,16 @@
      ],
      [
       "1-0",
-      0.1044
+      0.1043
      ],
      [
       "2-1",
-      0.0962
+      0.0963
      ]
     ],
     "cuotas_justas": [
      1.44,
-     5.32,
+     5.31,
      8.49
     ],
     "resumen": "Gana Toulouse FC (claro favorito, 69%). se esperan goles (+2.5).",
@@ -1436,7 +1436,7 @@
    "nota": "pocos datos: 'ES Troyes AC' solo tiene 5.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.059,
+     "ataque": 0.06,
      "defensa": 0.043,
      "neto": 0.102,
      "peso": 39.9,
@@ -1514,11 +1514,11 @@
     "marcadores": [
      [
       "1-1",
-      0.137
+      0.1371
      ],
      [
       "0-1",
-      0.1166
+      0.1165
      ],
      [
       "1-0",
@@ -1673,14 +1673,14 @@
      "ataque": 0.322,
      "defensa": 0.331,
      "neto": 0.653,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.195,
      "defensa": -0.128,
      "neto": 0.067,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "forma_local": {
@@ -1772,7 +1772,7 @@
    "local": "Valencia CF",
    "visitante": "Villarreal CF",
    "prediccion": {
-    "prob_1": 0.307,
+    "prob_1": 0.308,
     "prob_X": 0.248,
     "prob_2": 0.444,
     "goles_esperados": [
@@ -1808,7 +1808,7 @@
      "ataque": -0.081,
      "defensa": 0.014,
      "neto": -0.067,
-     "peso": 47.1,
+     "peso": 47.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1933,7 +1933,7 @@
     "cuotas_justas": [
      1.8,
      4.34,
-     4.68
+     4.67
     ],
     "resumen": "Gana Chelsea FC (claro favorito, 56%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -2085,7 +2085,7 @@
      "ataque": -0.285,
      "defensa": 0.002,
      "neto": -0.283,
-     "peso": 39.6,
+     "peso": 39.5,
      "fiable": true
     },
     "forma_local": {
@@ -2293,7 +2293,7 @@
     "marcadores": [
      [
       "2-0",
-      0.1014
+      0.1015
      ],
      [
       "2-1",
@@ -2301,7 +2301,7 @@
      ],
      [
       "1-1",
-      0.0901
+      0.0902
      ]
     ],
     "cuotas_justas": [
@@ -2318,7 +2318,7 @@
      "ataque": 0.362,
      "defensa": 0.271,
      "neto": 0.633,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2366,7 +2366,7 @@
      "por_que": "Club Atlético de Madrid es favorito en casa: marca más (2.23 vs 0.97) y es más fuerte de fondo (neto +0.63 vs +0.09). Probabilidad: 66%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.851
+      "prob": 0.85
      },
      "confianza": "baja"
     }
