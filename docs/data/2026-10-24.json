@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-24",
- "actualizado": "2026-10-15T17:58:19+00:00",
+ "actualizado": "2026-10-16T10:24:54+00:00",
  "partidos": [
   {
    "id": 560614,
@@ -286,7 +286,7 @@
     "fuerza_local": {
      "ataque": -0.078,
      "defensa": -0.015,
-     "neto": -0.093,
+     "neto": -0.094,
      "peso": 45.2,
      "fiable": true
     },
@@ -294,7 +294,7 @@
      "ataque": 0.104,
      "defensa": 0.099,
      "neto": 0.202,
-     "peso": 45.4,
+     "peso": 45.3,
      "fiable": true
     },
     "forma_local": {
@@ -368,7 +368,7 @@
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.695,
-     "por_que": "Doble oportunidad: cubre que Cagliari Calcio no gane. El escenario que queda afuera (gane Cagliari Calcio) es el menos probable (31%), así que el mercado se cumple ~69% de las veces.",
+     "por_que": "Doble oportunidad: cubre que Cagliari Calcio no gane. El escenario que queda afuera (gane Cagliari Calcio) es el menos probable (30%), así que el mercado se cumple ~70% de las veces.",
      "alternativa": {
       "mercado": "Menos de 2.5 goles",
       "prob": 0.582
@@ -426,7 +426,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.086,
+     "ataque": 0.085,
      "defensa": -0.116,
      "neto": -0.03,
      "peso": 33.9,
@@ -507,7 +507,7 @@
      1.74,
      1.145
     ],
-    "prob_over_2_5": 0.55,
+    "prob_over_2_5": 0.551,
     "prob_btts": 0.57,
     "marcadores": [
      [
@@ -672,7 +672,7 @@
      "ataque": -0.082,
      "defensa": -0.134,
      "neto": -0.216,
-     "peso": 30.0,
+     "peso": 29.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -851,7 +851,7 @@
      ],
      [
       "0-0",
-      0.1367
+      0.1366
      ],
      [
       "1-0",
@@ -940,7 +940,7 @@
     "prob_2": 0.23,
     "goles_esperados": [
      1.716,
-     1.078
+     1.079
     ],
     "prob_over_2_5": 0.529,
     "prob_btts": 0.549,
@@ -978,7 +978,7 @@
      "ataque": -0.194,
      "defensa": -0.08,
      "neto": -0.274,
-     "peso": 39.9,
+     "peso": 39.8,
      "fiable": true
     },
     "forma_local": {
@@ -1110,7 +1110,7 @@
      "ataque": -0.108,
      "defensa": 0.2,
      "neto": 0.092,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "forma_local": {
@@ -1237,8 +1237,8 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.183,
-     "defensa": -0.032,
-     "neto": -0.214,
+     "defensa": -0.031,
+     "neto": -0.215,
      "peso": 5.6,
      "fiable": false
     },
@@ -1307,7 +1307,7 @@
     "prob_2": 0.386,
     "goles_esperados": [
      1.871,
-     1.849
+     1.848
     ],
     "prob_over_2_5": 0.718,
     "prob_btts": 0.715,
@@ -1318,7 +1318,7 @@
      ],
      [
       "2-1",
-      0.0784
+      0.0785
      ],
      [
       "1-2",
@@ -1337,7 +1337,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.249,
-     "defensa": -0.572,
+     "defensa": -0.571,
      "neto": -0.323,
      "peso": 7.5,
      "fiable": false
@@ -1346,7 +1346,7 @@
      "ataque": -0.065,
      "defensa": 0.023,
      "neto": -0.042,
-     "peso": 41.5,
+     "peso": 41.4,
      "fiable": true
     },
     "forma_local": {
@@ -1406,7 +1406,7 @@
     "prob_X": 0.188,
     "prob_2": 0.118,
     "goles_esperados": [
-     2.228,
+     2.227,
      0.805
     ],
     "prob_over_2_5": 0.584,
@@ -1418,7 +1418,7 @@
      ],
      [
       "1-0",
-      0.1043
+      0.1044
      ],
      [
       "2-1",
@@ -1428,7 +1428,7 @@
     "cuotas_justas": [
      1.44,
      5.32,
-     8.5
+     8.49
     ],
     "resumen": "Gana Toulouse FC (claro favorito, 69%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -1439,13 +1439,13 @@
      "ataque": 0.059,
      "defensa": 0.043,
      "neto": 0.102,
-     "peso": 40.0,
+     "peso": 39.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.379,
-     "defensa": -0.326,
-     "neto": -0.705,
+     "defensa": -0.325,
+     "neto": -0.704,
      "peso": 5.6,
      "fiable": false
     },
@@ -1514,7 +1514,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1371
+      0.137
      ],
      [
       "0-1",
@@ -1538,14 +1538,14 @@
      "ataque": 0.255,
      "defensa": 0.323,
      "neto": 0.578,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.347,
      "defensa": 0.401,
      "neto": 0.748,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "forma_local": {
@@ -1679,7 +1679,7 @@
     "fuerza_visitante": {
      "ataque": 0.195,
      "defensa": -0.128,
-     "neto": 0.068,
+     "neto": 0.067,
      "peso": 40.1,
      "fiable": true
     },
@@ -1772,7 +1772,7 @@
    "local": "Valencia CF",
    "visitante": "Villarreal CF",
    "prediccion": {
-    "prob_1": 0.308,
+    "prob_1": 0.307,
     "prob_X": 0.248,
     "prob_2": 0.444,
     "goles_esperados": [
@@ -1815,7 +1815,7 @@
      "ataque": 0.385,
      "defensa": 0.053,
      "neto": 0.438,
-     "peso": 47.2,
+     "peso": 47.1,
      "fiable": true
     },
     "forma_local": {
@@ -1933,7 +1933,7 @@
     "cuotas_justas": [
      1.8,
      4.34,
-     4.67
+     4.68
     ],
     "resumen": "Gana Chelsea FC (claro favorito, 56%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -1943,14 +1943,14 @@
      "ataque": 0.262,
      "defensa": 0.026,
      "neto": 0.288,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.003,
      "defensa": -0.054,
      "neto": -0.057,
-     "peso": 45.0,
+     "peso": 44.9,
      "fiable": true
     },
     "forma_local": {
@@ -2078,7 +2078,7 @@
      "ataque": 0.1,
      "defensa": 0.178,
      "neto": 0.278,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2205,7 +2205,7 @@
     "fuerza_local": {
      "ataque": 0.231,
      "defensa": 0.226,
-     "neto": 0.457,
+     "neto": 0.456,
      "peso": 40.7,
      "fiable": true
     },
@@ -2213,7 +2213,7 @@
      "ataque": 0.048,
      "defensa": 0.165,
      "neto": 0.213,
-     "peso": 25.7,
+     "peso": 25.6,
      "fiable": true
     },
     "forma_local": {
@@ -2366,7 +2366,7 @@
      "por_que": "Club Atlético de Madrid es favorito en casa: marca más (2.23 vs 0.97) y es más fuerte de fondo (neto +0.63 vs +0.09). Probabilidad: 66%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.85
+      "prob": 0.851
      },
      "confianza": "baja"
     }

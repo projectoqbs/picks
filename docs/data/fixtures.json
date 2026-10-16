@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-15T17:58:17+00:00",
+ "actualizado": "2026-10-16T10:24:52+00:00",
  "fixtures": [
   {
    "id": 565828,
@@ -1140,6 +1140,16 @@
    "jornada": 10,
    "local": "FC Barcelona",
    "visitante": "Real Madrid CF"
+  },
+  {
+   "id": 564721,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-10-26T20:00:00Z",
+   "estado": "TIMED",
+   "jornada": 10,
+   "local": "Sevilla FC",
+   "visitante": "CA Osasuna"
   }
  ]
 }

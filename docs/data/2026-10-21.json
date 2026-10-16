@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-21",
- "actualizado": "2026-10-15T17:58:19+00:00",
+ "actualizado": "2026-10-16T10:24:54+00:00",
  "partidos": [
   {
    "id": 575368,
@@ -244,14 +244,14 @@
      "ataque": 0.097,
      "defensa": -0.142,
      "neto": -0.045,
-     "peso": 29.3,
+     "peso": 29.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.029,
      "defensa": 0.187,
-     "neto": 0.216,
-     "peso": 45.1,
+     "neto": 0.215,
+     "peso": 45.0,
      "fiable": true
     },
     "forma_local": {
@@ -300,7 +300,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Athletic Club es más fuerte de fondo (neto +0.22 vs -0.04): encaja ~17% menos. Levante UD juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.36 – 1.32; el modelo ve marcando más a Levante UD. Y la forma reciente lo confirma: Athletic Club llega mejor (2G-2E-1P vs 1G-2E-2P).",
+    "explicacion": "Athletic Club es más fuerte de fondo (neto +0.21 vs -0.04): encaja ~17% menos. Levante UD juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.36 – 1.32; el modelo ve marcando más a Levante UD. Y la forma reciente lo confirma: Athletic Club llega mejor (2G-2E-1P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.622,
@@ -345,7 +345,7 @@
     "cuotas_justas": [
      1.28,
      8.06,
-     10.26
+     10.25
     ],
     "resumen": "Gana Real Madrid CF (claro favorito, 78%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -355,7 +355,7 @@
     "fuerza_local": {
      "ataque": 0.533,
      "defensa": 0.123,
-     "neto": 0.656,
+     "neto": 0.655,
      "peso": 16.4,
      "fiable": true
     },
@@ -546,7 +546,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1067
+      0.1066
      ],
      [
       "1-0",
@@ -759,7 +759,7 @@
     "prob_X": 0.107,
     "prob_2": 0.089,
     "goles_esperados": [
-     3.45,
+     3.449,
      1.159
     ],
     "prob_over_2_5": 0.838,
@@ -780,8 +780,8 @@
     ],
     "cuotas_justas": [
      1.24,
-     9.37,
-     11.21
+     9.36,
+     11.2
     ],
     "resumen": "Gana Aston Villa FC (claro favorito, 80%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -789,14 +789,14 @@
    "nota": "pocos datos: 'Viking FK' solo tiene 1.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.464,
-     "defensa": 0.431,
+     "ataque": 0.463,
+     "defensa": 0.43,
      "neto": 0.894,
      "peso": 5.4,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.281,
+     "ataque": 0.28,
      "defensa": -0.175,
      "neto": 0.105,
      "peso": 1.9,
@@ -856,7 +856,7 @@
     "prob_X": 0.082,
     "prob_2": 0.058,
     "goles_esperados": [
-     3.824,
+     3.822,
      1.03
     ],
     "prob_over_2_5": 0.862,
@@ -868,7 +868,7 @@
      ],
      [
       "3-0",
-      0.0728
+      0.0729
      ],
      [
       "4-1",
@@ -877,8 +877,8 @@
     ],
     "cuotas_justas": [
      1.16,
-     12.27,
-     17.16
+     12.26,
+     17.14
     ],
     "resumen": "Gana Sporting Clube de Portugal (claro favorito, 86%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -895,7 +895,7 @@
     "fuerza_visitante": {
      "ataque": 0.121,
      "defensa": -0.566,
-     "neto": -0.446,
+     "neto": -0.445,
      "peso": 1.9,
      "fiable": false
     },
@@ -985,7 +985,7 @@
     "fuerza_local": {
      "ataque": 0.412,
      "defensa": -0.107,
-     "neto": 0.305,
+     "neto": 0.304,
      "peso": 1.9,
      "fiable": false
     },
