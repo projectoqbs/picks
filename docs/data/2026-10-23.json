@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-23",
- "actualizado": "2026-10-17T09:57:35+00:00",
+ "actualizado": "2026-10-17T16:46:53+00:00",
  "partidos": [
   {
    "id": 565833,
@@ -11,49 +11,49 @@
    "local": "VfB Stuttgart",
    "visitante": "Borussia Mönchengladbach",
    "prediccion": {
-    "prob_1": 0.669,
-    "prob_X": 0.182,
-    "prob_2": 0.149,
+    "prob_1": 0.661,
+    "prob_X": 0.186,
+    "prob_2": 0.154,
     "goles_esperados": [
-     2.526,
-     1.145
+     2.464,
+     1.134
     ],
-    "prob_over_2_5": 0.71,
-    "prob_btts": 0.632,
+    "prob_over_2_5": 0.697,
+    "prob_btts": 0.625,
     "marcadores": [
      [
       "2-1",
-      0.093
+      0.0943
      ],
      [
       "2-0",
-      0.0812
+      0.0831
      ],
      [
       "1-1",
-      0.0783
+      0.0807
      ]
     ],
     "cuotas_justas": [
-     1.5,
-     5.49,
-     6.71
+     1.51,
+     5.39,
+     6.51
     ],
-    "resumen": "Gana VfB Stuttgart (claro favorito, 67%). se esperan goles (+2.5). ambos marcan.",
+    "resumen": "Gana VfB Stuttgart (claro favorito, 66%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.319,
-     "defensa": 0.112,
-     "neto": 0.431,
-     "peso": 40.0,
+     "ataque": 0.29,
+     "defensa": 0.123,
+     "neto": 0.413,
+     "peso": 41.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.021,
-     "defensa": -0.123,
-     "neto": -0.144,
+     "ataque": -0.03,
+     "defensa": -0.113,
+     "neto": -0.143,
      "peso": 40.0,
      "fiable": true
     },
@@ -62,14 +62,14 @@
      "g": 2,
      "e": 0,
      "p": 3,
-     "gf": 8,
-     "gc": 9,
+     "gf": 7,
+     "gc": 5,
      "racha": [
-      "P",
       "G",
       "P",
       "P",
-      "G"
+      "G",
+      "P"
      ]
     },
     "forma_visitante": {
@@ -124,140 +124,15 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "VfB Stuttgart es más fuerte de fondo (neto +0.43 vs -0.14): ataca ~38% más que el promedio, encaja ~11% menos. VfB Stuttgart juega en casa (~+24% de ventaja, ya contada). Goles esperados: 2.53 – 1.15; el modelo ve marcando más a VfB Stuttgart. Y la forma reciente lo confirma: VfB Stuttgart llega mejor (2G-0E-3P vs 0G-0E-5P).",
+    "explicacion": "VfB Stuttgart es más fuerte de fondo (neto +0.41 vs -0.14): ataca ~34% más que el promedio, encaja ~12% menos. VfB Stuttgart juega en casa (~+25% de ventaja, ya contada). Goles esperados: 2.46 – 1.13; el modelo ve marcando más a VfB Stuttgart. Y la forma reciente lo confirma: VfB Stuttgart llega mejor (2G-0E-3P vs 0G-0E-5P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.669,
-     "por_que": "VfB Stuttgart es favorito en casa: marca más (2.53 vs 1.15) y es más fuerte de fondo (neto +0.43 vs -0.14). Probabilidad: 67%.",
+     "prob": 0.661,
+     "por_que": "VfB Stuttgart es favorito en casa: marca más (2.46 vs 1.13) y es más fuerte de fondo (neto +0.41 vs -0.14). Probabilidad: 66%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.886
+      "prob": 0.878
      },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 558567,
-   "competicion": "Serie A",
-   "competicion_codigo": "SA",
-   "fecha_utc": "2026-10-23T18:45:00Z",
-   "jornada": 8,
-   "local": "Torino FC",
-   "visitante": "AC Monza",
-   "prediccion": {
-    "prob_1": 0.526,
-    "prob_X": 0.245,
-    "prob_2": 0.229,
-    "goles_esperados": [
-     1.725,
-     1.059
-    ],
-    "prob_over_2_5": 0.527,
-    "prob_btts": 0.54,
-    "marcadores": [
-     [
-      "1-1",
-      0.1163
-     ],
-     [
-      "1-0",
-      0.1032
-     ],
-     [
-      "2-1",
-      0.0974
-     ]
-    ],
-    "cuotas_justas": [
-     1.9,
-     4.09,
-     4.37
-    ],
-    "resumen": "Gana Torino FC (ligero favorito, 53%).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.045,
-     "defensa": -0.068,
-     "neto": -0.113,
-     "peso": 45.1,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.145,
-     "defensa": -0.339,
-     "neto": -0.484,
-     "peso": 22.5,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 2,
-     "e": 1,
-     "p": 2,
-     "gf": 6,
-     "gc": 7,
-     "racha": [
-      "P",
-      "G",
-      "P",
-      "E",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 1,
-     "e": 1,
-     "p": 3,
-     "gf": 8,
-     "gc": 11,
-     "racha": [
-      "P",
-      "E",
-      "P",
-      "G",
-      "P"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2025-03-02",
-      "local": "AC Monza",
-      "visitante": "Torino FC",
-      "goles_local": 0,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2024-11-24",
-      "local": "Torino FC",
-      "visitante": "AC Monza",
-      "goles_local": 1,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2024-03-30",
-      "local": "Torino FC",
-      "visitante": "AC Monza",
-      "goles_local": 1,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2023-11-11",
-      "local": "AC Monza",
-      "visitante": "Torino FC",
-      "goles_local": 1,
-      "goles_visitante": 1
-     }
-    ],
-    "explicacion": "Torino FC es más fuerte de fondo (neto -0.11 vs -0.48): es más completo en general. Torino FC juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.73 – 1.06; el modelo ve marcando más a Torino FC. Y la forma reciente lo confirma: Torino FC llega mejor (2G-1E-2P vs 1G-1E-3P).",
-    "recomendacion": {
-     "mercado": "1X",
-     "prob": 0.771,
-     "por_que": "Doble oportunidad: cubre que Torino FC no pierda. El escenario que queda afuera (gane AC Monza) es el menos probable (23%), así que el mercado se cumple ~77% de las veces.",
-     "alternativa": null,
      "confianza": "alta"
     }
    }
@@ -307,7 +182,7 @@
      "ataque": 0.112,
      "defensa": -0.052,
      "neto": 0.06,
-     "peso": 40.7,
+     "peso": 40.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -398,6 +273,131 @@
    }
   },
   {
+   "id": 558567,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-10-23T18:45:00Z",
+   "jornada": 8,
+   "local": "Torino FC",
+   "visitante": "AC Monza",
+   "prediccion": {
+    "prob_1": 0.528,
+    "prob_X": 0.242,
+    "prob_2": 0.23,
+    "goles_esperados": [
+     1.727,
+     1.059
+    ],
+    "prob_over_2_5": 0.527,
+    "prob_btts": 0.539,
+    "marcadores": [
+     [
+      "1-1",
+      0.1151
+     ],
+     [
+      "1-0",
+      0.1041
+     ],
+     [
+      "2-1",
+      0.0974
+     ]
+    ],
+    "cuotas_justas": [
+     1.89,
+     4.12,
+     4.35
+    ],
+    "resumen": "Gana Torino FC (ligero favorito, 53%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.046,
+     "defensa": -0.07,
+     "neto": -0.115,
+     "peso": 45.1,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.144,
+     "defensa": -0.34,
+     "neto": -0.484,
+     "peso": 22.5,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 6,
+     "gc": 7,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "E",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 8,
+     "gc": 11,
+     "racha": [
+      "P",
+      "E",
+      "P",
+      "G",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2025-03-02",
+      "local": "AC Monza",
+      "visitante": "Torino FC",
+      "goles_local": 0,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-11-24",
+      "local": "Torino FC",
+      "visitante": "AC Monza",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-03-30",
+      "local": "Torino FC",
+      "visitante": "AC Monza",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2023-11-11",
+      "local": "AC Monza",
+      "visitante": "Torino FC",
+      "goles_local": 1,
+      "goles_visitante": 1
+     }
+    ],
+    "explicacion": "Torino FC es más fuerte de fondo (neto -0.12 vs -0.48): es más completo en general. Torino FC juega en casa (~+13% de ventaja, ya contada). Goles esperados: 1.73 – 1.06; el modelo ve marcando más a Torino FC. Y la forma reciente lo confirma: Torino FC llega mejor (2G-1E-2P vs 1G-1E-3P).",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.77,
+     "por_que": "Doble oportunidad: cubre que Torino FC no pierda. El escenario que queda afuera (gane AC Monza) es el menos probable (23%), así que el mercado se cumple ~77% de las veces.",
+     "alternativa": null,
+     "confianza": "alta"
+    }
+   }
+  },
+  {
    "id": 560620,
    "competicion": "Premier League",
    "competicion_codigo": "PL",
@@ -406,49 +406,49 @@
    "local": "Ipswich Town FC",
    "visitante": "Nottingham Forest FC",
    "prediccion": {
-    "prob_1": 0.245,
-    "prob_X": 0.259,
-    "prob_2": 0.496,
+    "prob_1": 0.262,
+    "prob_X": 0.257,
+    "prob_2": 0.481,
     "goles_esperados": [
-     1.173,
-     1.743
+     1.236,
+     1.738
     ],
-    "prob_over_2_5": 0.558,
-    "prob_btts": 0.581,
+    "prob_over_2_5": 0.571,
+    "prob_btts": 0.595,
     "marcadores": [
      [
       "1-1",
-      0.1221
+      0.1204
      ],
      [
       "1-2",
-      0.0965
+      0.0954
      ],
      [
       "0-1",
-      0.083
+      0.0782
      ]
     ],
     "cuotas_justas": [
-     4.08,
-     3.86,
-     2.02
+     3.82,
+     3.89,
+     2.08
     ],
-    "resumen": "Gana Nottingham Forest FC (ligero favorito, 50%). ambos marcan.",
+    "resumen": "Gana Nottingham Forest FC (ligero favorito, 48%). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.146,
-     "defensa": -0.341,
-     "neto": -0.488,
-     "peso": 16.8,
+     "ataque": -0.088,
+     "defensa": -0.335,
+     "neto": -0.424,
+     "peso": 17.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.023,
+     "ataque": -0.019,
      "defensa": 0.103,
-     "neto": 0.08,
+     "neto": 0.084,
      "peso": 44.8,
      "fiable": true
     },
@@ -458,13 +458,13 @@
      "e": 0,
      "p": 3,
      "gf": 7,
-     "gc": 11,
+     "gc": 9,
      "racha": [
-      "P",
       "P",
       "G",
       "P",
-      "G"
+      "G",
+      "P"
      ]
     },
     "forma_visitante": {
@@ -498,14 +498,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Nottingham Forest FC es más fuerte de fondo (neto +0.08 vs -0.49): encaja ~10% menos. Ipswich Town FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.17 – 1.74; el modelo ve marcando más a Nottingham Forest FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Nottingham Forest FC es más fuerte de fondo (neto +0.08 vs -0.42): encaja ~10% menos. Ipswich Town FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.24 – 1.74; el modelo ve marcando más a Nottingham Forest FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.755,
-     "por_que": "Doble oportunidad: cubre que Ipswich Town FC no gane. El escenario que queda afuera (gane Ipswich Town FC) es el menos probable (25%), así que el mercado se cumple ~75% de las veces.",
+     "prob": 0.738,
+     "por_que": "Doble oportunidad: cubre que Ipswich Town FC no gane. El escenario que queda afuera (gane Ipswich Town FC) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.799
+      "prob": 0.808
      },
      "confianza": "alta"
     }
@@ -524,29 +524,29 @@
     "prob_X": 0.271,
     "prob_2": 0.15,
     "goles_esperados": [
-     1.463,
-     0.604
+     1.47,
+     0.607
     ],
-    "prob_over_2_5": 0.342,
-    "prob_btts": 0.351,
+    "prob_over_2_5": 0.344,
+    "prob_btts": 0.354,
     "marcadores": [
      [
       "1-0",
-      0.1823
+      0.1808
      ],
      [
       "2-0",
-      0.1354
+      0.1353
      ],
      [
       "0-0",
-      0.1293
+      0.1286
      ]
     ],
     "cuotas_justas": [
      1.73,
      3.69,
-     6.66
+     6.68
     ],
     "resumen": "Gana Deportivo Alavés (claro favorito, 58%). pocos goles (-2.5).",
     "confianza": "baja"
@@ -554,16 +554,16 @@
    "nota": "pocos datos: 'Málaga CF' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.06,
-     "defensa": 0.084,
+     "ataque": -0.057,
+     "defensa": 0.081,
      "neto": 0.024,
-     "peso": 46.9,
+     "peso": 46.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.525,
-     "defensa": -0.043,
-     "neto": -0.568,
+     "ataque": -0.521,
+     "defensa": -0.048,
+     "neto": -0.569,
      "peso": 7.5,
      "fiable": false
     },
@@ -598,14 +598,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Deportivo Alavés es más fuerte de fondo (neto +0.02 vs -0.57): es más completo en general. Deportivo Alavés juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.46 – 0.60; el modelo ve marcando más a Deportivo Alavés. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Málaga CF: tomalo con pinzas.",
+    "explicacion": "Deportivo Alavés es más fuerte de fondo (neto +0.02 vs -0.57): es más completo en general. Deportivo Alavés juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.47 – 0.61; el modelo ve marcando más a Deportivo Alavés. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Málaga CF: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.85,
      "por_que": "Doble oportunidad: cubre que Deportivo Alavés no pierda. El escenario que queda afuera (gane Málaga CF) es el menos probable (15%), así que el mercado se cumple ~85% de las veces.",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
-      "prob": 0.845
+      "prob": 0.843
      },
      "confianza": "baja"
     }
