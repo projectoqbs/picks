@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-21",
- "actualizado": "2026-10-16T17:46:30+00:00",
+ "actualizado": "2026-10-17T09:57:35+00:00",
  "partidos": [
   {
    "id": 575368,
@@ -45,7 +45,7 @@
    "nota": "pocos datos: 'Como 1907' solo tiene 1.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.364,
+     "ataque": 0.363,
      "defensa": -0.132,
      "neto": 0.231,
      "peso": 1.9,
@@ -208,64 +208,64 @@
    "local": "Levante UD",
    "visitante": "Athletic Club",
    "prediccion": {
-    "prob_1": 0.378,
-    "prob_X": 0.264,
-    "prob_2": 0.358,
+    "prob_1": 0.38,
+    "prob_X": 0.267,
+    "prob_2": 0.354,
     "goles_esperados": [
-     1.365,
-     1.321
+     1.356,
+     1.301
     ],
-    "prob_over_2_5": 0.503,
-    "prob_btts": 0.548,
+    "prob_over_2_5": 0.496,
+    "prob_btts": 0.543,
     "marcadores": [
      [
       "1-1",
-      0.1255
+      0.1268
      ],
      [
       "1-0",
-      0.0905
+      0.0921
      ],
      [
       "0-1",
-      0.0875
+      0.0882
      ]
     ],
     "cuotas_justas": [
-     2.64,
-     3.79,
-     2.8
+     2.63,
+     3.75,
+     2.83
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.097,
-     "defensa": -0.142,
-     "neto": -0.045,
-     "peso": 29.2,
+     "ataque": 0.093,
+     "defensa": -0.127,
+     "neto": -0.034,
+     "peso": 30.2,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.029,
-     "defensa": 0.187,
-     "neto": 0.215,
-     "peso": 45.0,
+     "ataque": 0.031,
+     "defensa": 0.186,
+     "neto": 0.217,
+     "peso": 44.9,
      "fiable": true
     },
     "forma_local": {
      "pj": 5,
-     "g": 1,
-     "e": 2,
+     "g": 0,
+     "e": 3,
      "p": 2,
-     "gf": 11,
-     "gc": 12,
+     "gf": 7,
+     "gc": 11,
      "racha": [
-      "G",
       "E",
       "P",
       "P",
+      "E",
       "E"
      ]
     },
@@ -300,10 +300,10 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Athletic Club es más fuerte de fondo (neto +0.21 vs -0.04): encaja ~17% menos. Levante UD juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.36 – 1.32; el modelo ve marcando más a Levante UD. Y la forma reciente lo confirma: Athletic Club llega mejor (2G-2E-1P vs 1G-2E-2P).",
+    "explicacion": "Athletic Club es más fuerte de fondo (neto +0.22 vs -0.03): encaja ~17% menos. Levante UD juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.36 – 1.30; el modelo ve marcando más a Levante UD. Y la forma reciente lo confirma: Athletic Club llega mejor (2G-2E-1P vs 0G-3E-2P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.622,
+     "prob": 0.621,
      "por_que": "Doble oportunidad: cubre que Levante UD no gane. El escenario que queda afuera (gane Levante UD) es el menos probable (38%), así que el mercado se cumple ~62% de las veces.",
      "alternativa": null,
      "confianza": "alta"
@@ -323,7 +323,7 @@
     "prob_X": 0.124,
     "prob_2": 0.098,
     "goles_esperados": [
-     2.965,
+     2.966,
      0.98
     ],
     "prob_over_2_5": 0.754,
@@ -356,7 +356,7 @@
      "ataque": 0.532,
      "defensa": 0.123,
      "neto": 0.655,
-     "peso": 16.4,
+     "peso": 16.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -412,11 +412,11 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.66 vs -0.15): ataca ~70% más que el promedio, encaja ~12% menos. Real Madrid CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.96 – 0.98; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (3G-0E-2P vs 2G-0E-3P). El modelo tiene pocos datos de RB Leipzig: tomalo con pinzas.",
+    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.66 vs -0.15): ataca ~70% más que el promedio, encaja ~12% menos. Real Madrid CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.97 – 0.98; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (3G-0E-2P vs 2G-0E-3P). El modelo tiene pocos datos de RB Leipzig: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.778,
-     "por_que": "Real Madrid CF es favorito en casa: marca más (2.96 vs 0.98) y es más fuerte de fondo (neto +0.66 vs -0.15). Probabilidad: 78%.",
+     "por_que": "Real Madrid CF es favorito en casa: marca más (2.97 vs 0.98) y es más fuerte de fondo (neto +0.66 vs -0.15). Probabilidad: 78%.",
      "alternativa": {
       "mercado": "1X",
       "prob": 0.902
@@ -465,7 +465,7 @@
     "resumen": "Gana FC Internazionale Milano (claro favorito, 59%). se esperan goles (+2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'FK Shakhtar Donetsk' solo tiene 4.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'FK Shakhtar Donetsk' solo tiene 4.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.111,
@@ -478,7 +478,7 @@
      "ataque": 0.01,
      "defensa": 0.039,
      "neto": 0.048,
-     "peso": 4.9,
+     "peso": 4.8,
      "fiable": false
     },
     "forma_local": {
@@ -550,7 +550,7 @@
      ],
      [
       "1-0",
-      0.0907
+      0.0906
      ],
      [
       "2-1",
@@ -659,7 +659,7 @@
     "prob_X": 0.147,
     "prob_2": 0.162,
     "goles_esperados": [
-     2.953,
+     2.952,
      1.422
     ],
     "prob_over_2_5": 0.812,
@@ -737,7 +737,7 @@
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.812,
-     "por_que": "Bastantes goles esperados (2.95 + 1.42 = 4.38); al menos una defensa floja. Probabilidad al over: 81%.",
+     "por_que": "Bastantes goles esperados (2.95 + 1.42 = 4.37); al menos una defensa floja. Probabilidad al over: 81%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.928
@@ -856,7 +856,7 @@
     "prob_X": 0.082,
     "prob_2": 0.058,
     "goles_esperados": [
-     3.821,
+     3.82,
      1.03
     ],
     "prob_over_2_5": 0.862,
@@ -864,7 +864,7 @@
     "marcadores": [
      [
       "3-1",
-      0.075
+      0.0751
      ],
      [
       "3-0",
@@ -877,8 +877,8 @@
     ],
     "cuotas_justas": [
      1.16,
-     12.25,
-     17.13
+     12.24,
+     17.11
     ],
     "resumen": "Gana Sporting Clube de Portugal (claro favorito, 86%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -887,14 +887,14 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.175,
-     "defensa": 0.389,
+     "defensa": 0.388,
      "neto": 0.564,
      "peso": 11.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.121,
-     "defensa": -0.566,
+     "ataque": 0.12,
+     "defensa": -0.565,
      "neto": -0.445,
      "peso": 1.9,
      "fiable": false
@@ -953,7 +953,7 @@
     "prob_X": 0.136,
     "prob_2": 0.165,
     "goles_esperados": [
-     3.388,
+     3.387,
      1.719
     ],
     "prob_over_2_5": 0.884,
@@ -983,7 +983,7 @@
    "nota": "pocos datos: 'Real Betis Balompié' solo tiene 1.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.412,
+     "ataque": 0.411,
      "defensa": -0.107,
      "neto": 0.304,
      "peso": 1.9,

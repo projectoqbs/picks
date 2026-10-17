@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-20",
- "actualizado": "2026-10-16T17:46:30+00:00",
+ "actualizado": "2026-10-17T09:57:35+00:00",
  "partidos": [
   {
    "id": 575359,
@@ -13,12 +13,12 @@
    "prediccion": {
     "prob_1": 0.245,
     "prob_X": 0.205,
-    "prob_2": 0.55,
+    "prob_2": 0.549,
     "goles_esperados": [
-     1.222,
+     1.223,
      1.946
     ],
-    "prob_over_2_5": 0.614,
+    "prob_over_2_5": 0.613,
     "prob_btts": 0.597,
     "marcadores": [
      [
@@ -46,15 +46,15 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.26,
-     "defensa": -0.169,
-     "neto": -0.429,
+     "defensa": -0.168,
+     "neto": -0.428,
      "peso": 1.9,
      "fiable": false
     },
     "fuerza_visitante": {
      "ataque": 0.2,
      "defensa": 0.139,
-     "neto": 0.339,
+     "neto": 0.338,
      "peso": 13.6,
      "fiable": true
     },
@@ -112,7 +112,7 @@
     "prob_X": 0.225,
     "prob_2": 0.279,
     "goles_esperados": [
-     1.667,
+     1.668,
      1.182
     ],
     "prob_over_2_5": 0.542,
@@ -142,7 +142,7 @@
    "nota": "pocos datos: 'Fenerbahçe SK' solo tiene 1.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.393,
+     "ataque": -0.392,
      "defensa": -0.338,
      "neto": -0.731,
      "peso": 1.9,
@@ -151,7 +151,7 @@
     "fuerza_visitante": {
      "ataque": -0.468,
      "defensa": -0.304,
-     "neto": -0.773,
+     "neto": -0.772,
      "peso": 6.2,
      "fiable": false
     },
@@ -212,7 +212,7 @@
      2.159,
      0.821
     ],
-    "prob_over_2_5": 0.572,
+    "prob_over_2_5": 0.573,
     "prob_btts": 0.489,
     "marcadores": [
      [
@@ -221,7 +221,7 @@
      ],
      [
       "1-0",
-      0.1163
+      0.1162
      ],
      [
       "2-1",
@@ -242,11 +242,11 @@
      "ataque": 0.198,
      "defensa": 0.125,
      "neto": 0.323,
-     "peso": 11.8,
+     "peso": 11.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.37,
+     "ataque": -0.369,
      "defensa": 0.027,
      "neto": -0.342,
      "peso": 1.9,
@@ -427,8 +427,8 @@
     ],
     "cuotas_justas": [
      1.17,
-     11.15,
-     18.82
+     11.14,
+     18.81
     ],
     "resumen": "Gana Liverpool FC (claro favorito, 86%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -522,7 +522,7 @@
      ],
      [
       "3-0",
-      0.0688
+      0.0687
      ]
     ],
     "cuotas_justas": [
@@ -543,7 +543,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": -0.358,
+     "ataque": -0.357,
      "defensa": -0.46,
      "neto": -0.818,
      "peso": 4.1,
@@ -719,7 +719,7 @@
      ],
      [
       "1-2",
-      0.0917
+      0.0916
      ]
     ],
     "cuotas_justas": [
@@ -800,7 +800,7 @@
    "visitante": "FC Barcelona",
    "prediccion": {
     "prob_1": 0.697,
-    "prob_X": 0.137,
+    "prob_X": 0.136,
     "prob_2": 0.166,
     "goles_esperados": [
      3.393,

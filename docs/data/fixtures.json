@@ -1,46 +1,6 @@
 {
- "actualizado": "2026-10-16T17:46:28+00:00",
+ "actualizado": "2026-10-17T09:57:31+00:00",
  "fixtures": [
-  {
-   "id": 565828,
-   "competicion_codigo": "BL1",
-   "competicion": "Bundesliga",
-   "fecha_utc": "2026-10-16T18:30:00Z",
-   "estado": "TIMED",
-   "jornada": 6,
-   "local": "Eintracht Frankfurt",
-   "visitante": "1. FC Köln"
-  },
-  {
-   "id": 558573,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-10-16T18:45:00Z",
-   "estado": "TIMED",
-   "jornada": 7,
-   "local": "Frosinone Calcio",
-   "visitante": "US Sassuolo Calcio"
-  },
-  {
-   "id": 559661,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-10-16T18:45:00Z",
-   "estado": "TIMED",
-   "jornada": 7,
-   "local": "Le Mans FC",
-   "visitante": "Toulouse FC"
-  },
-  {
-   "id": 564716,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-10-16T19:00:00Z",
-   "estado": "TIMED",
-   "jornada": 9,
-   "local": "RC Deportivo La Coruña",
-   "visitante": "Levante UD"
-  },
   {
    "id": 560603,
    "competicion_codigo": "PL",
@@ -1150,6 +1110,36 @@
    "jornada": 10,
    "local": "Sevilla FC",
    "visitante": "CA Osasuna"
+  },
+  {
+   "id": 558556,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-10-27T17:30:00Z",
+   "estado": "TIMED",
+   "jornada": 9,
+   "local": "US Sassuolo Calcio",
+   "visitante": "SS Lazio"
+  },
+  {
+   "id": 558555,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-10-27T19:45:00Z",
+   "estado": "TIMED",
+   "jornada": 9,
+   "local": "AS Roma",
+   "visitante": "Cagliari Calcio"
+  },
+  {
+   "id": 558557,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-10-27T19:45:00Z",
+   "estado": "TIMED",
+   "jornada": 9,
+   "local": "Torino FC",
+   "visitante": "Como 1907"
   }
  ]
 }

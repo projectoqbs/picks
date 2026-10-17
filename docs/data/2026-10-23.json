@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-23",
- "actualizado": "2026-10-16T17:46:30+00:00",
+ "actualizado": "2026-10-17T09:57:35+00:00",
  "partidos": [
   {
    "id": 565833,
@@ -11,32 +11,32 @@
    "local": "VfB Stuttgart",
    "visitante": "Borussia Mönchengladbach",
    "prediccion": {
-    "prob_1": 0.667,
-    "prob_X": 0.184,
+    "prob_1": 0.669,
+    "prob_X": 0.182,
     "prob_2": 0.149,
     "goles_esperados": [
-     2.517,
-     1.143
+     2.526,
+     1.145
     ],
-    "prob_over_2_5": 0.708,
-    "prob_btts": 0.631,
+    "prob_over_2_5": 0.71,
+    "prob_btts": 0.632,
     "marcadores": [
      [
       "2-1",
-      0.0932
+      0.093
      ],
      [
       "2-0",
-      0.0815
+      0.0812
      ],
      [
       "1-1",
-      0.0792
+      0.0783
      ]
     ],
     "cuotas_justas": [
      1.5,
-     5.44,
+     5.49,
      6.71
     ],
     "resumen": "Gana VfB Stuttgart (claro favorito, 67%). se esperan goles (+2.5). ambos marcan.",
@@ -44,15 +44,15 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.316,
-     "defensa": 0.115,
-     "neto": 0.43,
+     "ataque": 0.319,
+     "defensa": 0.112,
+     "neto": 0.431,
      "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.023,
-     "defensa": -0.121,
+     "ataque": -0.021,
+     "defensa": -0.123,
      "neto": -0.144,
      "peso": 40.0,
      "fiable": true
@@ -124,14 +124,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "VfB Stuttgart es más fuerte de fondo (neto +0.43 vs -0.14): ataca ~37% más que el promedio, encaja ~11% menos. VfB Stuttgart juega en casa (~+24% de ventaja, ya contada). Goles esperados: 2.52 – 1.14; el modelo ve marcando más a VfB Stuttgart. Y la forma reciente lo confirma: VfB Stuttgart llega mejor (2G-0E-3P vs 0G-0E-5P).",
+    "explicacion": "VfB Stuttgart es más fuerte de fondo (neto +0.43 vs -0.14): ataca ~38% más que el promedio, encaja ~11% menos. VfB Stuttgart juega en casa (~+24% de ventaja, ya contada). Goles esperados: 2.53 – 1.15; el modelo ve marcando más a VfB Stuttgart. Y la forma reciente lo confirma: VfB Stuttgart llega mejor (2G-0E-3P vs 0G-0E-5P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.667,
-     "por_que": "VfB Stuttgart es favorito en casa: marca más (2.52 vs 1.14) y es más fuerte de fondo (neto +0.43 vs -0.14). Probabilidad: 67%.",
+     "prob": 0.669,
+     "por_que": "VfB Stuttgart es favorito en casa: marca más (2.53 vs 1.15) y es más fuerte de fondo (neto +0.43 vs -0.14). Probabilidad: 67%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.885
+      "prob": 0.886
      },
      "confianza": "alta"
     }
@@ -147,22 +147,22 @@
    "visitante": "AC Monza",
    "prediccion": {
     "prob_1": 0.526,
-    "prob_X": 0.244,
+    "prob_X": 0.245,
     "prob_2": 0.229,
     "goles_esperados": [
-     1.729,
-     1.062
+     1.725,
+     1.059
     ],
-    "prob_over_2_5": 0.528,
-    "prob_btts": 0.542,
+    "prob_over_2_5": 0.527,
+    "prob_btts": 0.54,
     "marcadores": [
      [
       "1-1",
-      0.1161
+      0.1163
      ],
      [
       "1-0",
-      0.1026
+      0.1032
      ],
      [
       "2-1",
@@ -172,23 +172,23 @@
     "cuotas_justas": [
      1.9,
      4.09,
-     4.36
+     4.37
     ],
     "resumen": "Gana Torino FC (ligero favorito, 53%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.039,
-     "defensa": -0.07,
-     "neto": -0.109,
+     "ataque": -0.045,
+     "defensa": -0.068,
+     "neto": -0.113,
      "peso": 45.1,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.139,
-     "defensa": -0.342,
-     "neto": -0.481,
+     "ataque": -0.145,
+     "defensa": -0.339,
+     "neto": -0.484,
      "peso": 22.5,
      "fiable": true
     },
@@ -271,50 +271,50 @@
    "local": "Stade Brestois 29",
    "visitante": "OGC Nice",
    "prediccion": {
-    "prob_1": 0.459,
+    "prob_1": 0.457,
     "prob_X": 0.252,
-    "prob_2": 0.289,
+    "prob_2": 0.29,
     "goles_esperados": [
-     1.625,
-     1.244
+     1.623,
+     1.248
     ],
     "prob_over_2_5": 0.547,
     "prob_btts": 0.576,
     "marcadores": [
      [
       "1-1",
-      0.1188
+      0.1187
      ],
      [
       "2-1",
-      0.0932
+      0.0931
      ],
      [
       "1-0",
-      0.0881
+      0.0879
      ]
     ],
     "cuotas_justas": [
-     2.18,
+     2.19,
      3.96,
-     3.46
+     3.44
     ],
     "resumen": "Gana Stade Brestois 29 (ligero favorito, 46%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.108,
-     "defensa": -0.053,
-     "neto": 0.055,
+     "ataque": 0.112,
+     "defensa": -0.052,
+     "neto": 0.06,
      "peso": 40.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.039,
-     "defensa": 0.038,
-     "neto": -0.001,
-     "peso": 40.7,
+     "ataque": -0.036,
+     "defensa": 0.04,
+     "neto": 0.004,
+     "peso": 40.6,
      "fiable": true
     },
     "forma_local": {
@@ -384,116 +384,16 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.06 vs -0.00). Stade Brestois 29 juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.62 – 1.24; el modelo ve marcando más a Stade Brestois 29. También parejos en forma (2G-1E-2P vs 2G-1E-2P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.06 vs +0.00). Stade Brestois 29 juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.62 – 1.25; el modelo ve marcando más a Stade Brestois 29. También parejos en forma (2G-1E-2P vs 2G-1E-2P en 5).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.576,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.62 y 1.24. Probabilidad: 58%.",
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.62 y 1.25. Probabilidad: 58%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.784
+      "prob": 0.785
      },
      "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 564719,
-   "competicion": "La Liga",
-   "competicion_codigo": "PD",
-   "fecha_utc": "2026-10-23T19:00:00Z",
-   "jornada": 10,
-   "local": "Deportivo Alavés",
-   "visitante": "Málaga CF",
-   "prediccion": {
-    "prob_1": 0.578,
-    "prob_X": 0.271,
-    "prob_2": 0.151,
-    "goles_esperados": [
-     1.456,
-     0.602
-    ],
-    "prob_over_2_5": 0.339,
-    "prob_btts": 0.349,
-    "marcadores": [
-     [
-      "1-0",
-      0.1837
-     ],
-     [
-      "2-0",
-      0.1354
-     ],
-     [
-      "0-0",
-      0.1301
-     ]
-    ],
-    "cuotas_justas": [
-     1.73,
-     3.68,
-     6.63
-    ],
-    "resumen": "Gana Deportivo Alavés (claro favorito, 58%). pocos goles (-2.5).",
-    "confianza": "baja"
-   },
-   "nota": "pocos datos: 'Málaga CF' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.062,
-     "defensa": 0.084,
-     "neto": 0.022,
-     "peso": 46.9,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.532,
-     "defensa": -0.036,
-     "neto": -0.568,
-     "peso": 7.5,
-     "fiable": false
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 1,
-     "e": 1,
-     "p": 3,
-     "gf": 7,
-     "gc": 7,
-     "racha": [
-      "G",
-      "P",
-      "P",
-      "E",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 0,
-     "e": 3,
-     "p": 2,
-     "gf": 3,
-     "gc": 6,
-     "racha": [
-      "E",
-      "E",
-      "P",
-      "P",
-      "E"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "Deportivo Alavés es más fuerte de fondo (neto +0.02 vs -0.57): es más completo en general. Deportivo Alavés juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.46 – 0.60; el modelo ve marcando más a Deportivo Alavés. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Málaga CF: tomalo con pinzas.",
-    "recomendacion": {
-     "mercado": "1X",
-     "prob": 0.849,
-     "por_que": "Doble oportunidad: cubre que Deportivo Alavés no pierda. El escenario que queda afuera (gane Málaga CF) es el menos probable (15%), así que el mercado se cumple ~85% de las veces.",
-     "alternativa": {
-      "mercado": "Menos de 3.5 goles",
-      "prob": 0.847
-     },
-     "confianza": "baja"
     }
    }
   },
@@ -540,16 +440,16 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.146,
-     "defensa": -0.342,
+     "defensa": -0.341,
      "neto": -0.488,
-     "peso": 16.9,
+     "peso": 16.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.023,
      "defensa": 0.103,
      "neto": 0.08,
-     "peso": 44.9,
+     "peso": 44.8,
      "fiable": true
     },
     "forma_local": {
@@ -608,6 +508,106 @@
       "prob": 0.799
      },
      "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 564719,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-10-23T19:00:00Z",
+   "jornada": 10,
+   "local": "Deportivo Alavés",
+   "visitante": "Málaga CF",
+   "prediccion": {
+    "prob_1": 0.579,
+    "prob_X": 0.271,
+    "prob_2": 0.15,
+    "goles_esperados": [
+     1.463,
+     0.604
+    ],
+    "prob_over_2_5": 0.342,
+    "prob_btts": 0.351,
+    "marcadores": [
+     [
+      "1-0",
+      0.1823
+     ],
+     [
+      "2-0",
+      0.1354
+     ],
+     [
+      "0-0",
+      0.1293
+     ]
+    ],
+    "cuotas_justas": [
+     1.73,
+     3.69,
+     6.66
+    ],
+    "resumen": "Gana Deportivo Alavés (claro favorito, 58%). pocos goles (-2.5).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Málaga CF' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.06,
+     "defensa": 0.084,
+     "neto": 0.024,
+     "peso": 46.9,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.525,
+     "defensa": -0.043,
+     "neto": -0.568,
+     "peso": 7.5,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 7,
+     "gc": 7,
+     "racha": [
+      "G",
+      "P",
+      "P",
+      "E",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 0,
+     "e": 3,
+     "p": 2,
+     "gf": 3,
+     "gc": 6,
+     "racha": [
+      "E",
+      "E",
+      "P",
+      "P",
+      "E"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Deportivo Alavés es más fuerte de fondo (neto +0.02 vs -0.57): es más completo en general. Deportivo Alavés juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.46 – 0.60; el modelo ve marcando más a Deportivo Alavés. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Málaga CF: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.85,
+     "por_que": "Doble oportunidad: cubre que Deportivo Alavés no pierda. El escenario que queda afuera (gane Málaga CF) es el menos probable (15%), así que el mercado se cumple ~85% de las veces.",
+     "alternativa": {
+      "mercado": "Menos de 3.5 goles",
+      "prob": 0.845
+     },
+     "confianza": "baja"
     }
    }
   }
