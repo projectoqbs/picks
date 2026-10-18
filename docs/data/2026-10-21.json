@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-21",
- "actualizado": "2026-10-18T10:10:06+00:00",
+ "actualizado": "2026-10-18T17:02:36+00:00",
  "partidos": [
   {
    "id": 575368,
@@ -116,7 +116,7 @@
      1.279
     ],
     "prob_over_2_5": 0.669,
-    "prob_btts": 0.632,
+    "prob_btts": 0.633,
     "marcadores": [
      [
       "2-1",
@@ -128,7 +128,7 @@
      ],
      [
       "1-0",
-      0.0756
+      0.0755
      ]
     ],
     "cuotas_justas": [
@@ -208,49 +208,49 @@
    "local": "Levante UD",
    "visitante": "Athletic Club",
    "prediccion": {
-    "prob_1": 0.374,
+    "prob_1": 0.375,
     "prob_X": 0.271,
-    "prob_2": 0.354,
+    "prob_2": 0.353,
     "goles_esperados": [
-     1.329,
-     1.287
+     1.331,
+     1.284
     ],
-    "prob_over_2_5": 0.486,
+    "prob_over_2_5": 0.485,
     "prob_btts": 0.536,
     "marcadores": [
      [
       "1-1",
-      0.1292
+      0.1293
      ],
      [
       "1-0",
-      0.0929
+      0.0931
      ],
      [
       "0-1",
-      0.0898
+      0.0897
      ]
     ],
     "cuotas_justas": [
      2.67,
-     3.69,
-     2.82
+     3.68,
+     2.83
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.096,
-     "defensa": -0.131,
-     "neto": -0.035,
+     "ataque": 0.1,
+     "defensa": -0.132,
+     "neto": -0.032,
      "peso": 30.1,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.017,
+     "ataque": 0.02,
      "defensa": 0.203,
-     "neto": 0.22,
+     "neto": 0.223,
      "peso": 45.8,
      "fiable": true
     },
@@ -300,11 +300,11 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Athletic Club es más fuerte de fondo (neto +0.22 vs -0.04): encaja ~18% menos. Levante UD juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.33 – 1.29; el modelo ve marcando más a Levante UD. Y la forma reciente lo confirma: Athletic Club llega mejor (2G-3E-0P vs 0G-3E-2P).",
+    "explicacion": "Athletic Club es más fuerte de fondo (neto +0.22 vs -0.03): encaja ~18% menos. Levante UD juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.33 – 1.28; el modelo ve marcando más a Levante UD. Y la forma reciente lo confirma: Athletic Club llega mejor (2G-3E-0P vs 0G-3E-2P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.626,
-     "por_que": "Doble oportunidad: cubre que Levante UD no gane. El escenario que queda afuera (gane Levante UD) es el menos probable (37%), así que el mercado se cumple ~63% de las veces.",
+     "prob": 0.625,
+     "por_que": "Doble oportunidad: cubre que Levante UD no gane. El escenario que queda afuera (gane Levante UD) es el menos probable (38%), así que el mercado se cumple ~62% de las veces.",
      "alternativa": null,
      "confianza": "alta"
     }
@@ -327,11 +327,11 @@
      0.98
     ],
     "prob_over_2_5": 0.754,
-    "prob_btts": 0.588,
+    "prob_btts": 0.589,
     "marcadores": [
      [
       "2-0",
-      0.0851
+      0.085
      ],
      [
       "3-0",
@@ -350,7 +350,7 @@
     "resumen": "Gana Real Madrid CF (claro favorito, 78%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'RB Leipzig' solo tiene 5.2 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'RB Leipzig' solo tiene 5.1 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.532,
@@ -363,7 +363,7 @@
      "ataque": -0.195,
      "defensa": 0.045,
      "neto": -0.15,
-     "peso": 5.2,
+     "peso": 5.1,
      "fiable": false
     },
     "forma_local": {
@@ -576,7 +576,7 @@
     "fuerza_visitante": {
      "ataque": 0.395,
      "defensa": 0.817,
-     "neto": 1.213,
+     "neto": 1.212,
      "peso": 16.8,
      "fiable": true
     },
@@ -696,7 +696,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.055,
+     "ataque": -0.054,
      "defensa": -0.162,
      "neto": -0.216,
      "peso": 2.7,
@@ -781,7 +781,7 @@
     "cuotas_justas": [
      1.24,
      9.36,
-     11.2
+     11.19
     ],
     "resumen": "Gana Aston Villa FC (claro favorito, 80%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -798,7 +798,7 @@
     "fuerza_visitante": {
      "ataque": 0.28,
      "defensa": -0.175,
-     "neto": 0.105,
+     "neto": 0.104,
      "peso": 1.9,
      "fiable": false
     },
@@ -860,7 +860,7 @@
      1.03
     ],
     "prob_over_2_5": 0.862,
-    "prob_btts": 0.626,
+    "prob_btts": 0.627,
     "marcadores": [
      [
       "3-1",
@@ -877,8 +877,8 @@
     ],
     "cuotas_justas": [
      1.16,
-     12.24,
-     17.1
+     12.23,
+     17.09
     ],
     "resumen": "Gana Sporting Clube de Portugal (claro favorito, 86%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -953,7 +953,7 @@
     "prob_X": 0.136,
     "prob_2": 0.165,
     "goles_esperados": [
-     3.386,
+     3.385,
      1.719
     ],
     "prob_over_2_5": 0.884,
@@ -965,7 +965,7 @@
      ],
      [
       "2-1",
-      0.0598
+      0.0599
      ],
      [
       "3-2",
@@ -1024,11 +1024,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.30 vs -0.07): ataca ~51% más que el promedio. Real Betis Balompié juega en casa (~+35% de ventaja, ya contada). Goles esperados: 3.39 – 1.72; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (2G-0E-0P vs 1G-1E-3P). El modelo tiene pocos datos de Real Betis Balompié: tomalo con pinzas.",
+    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.30 vs -0.07): ataca ~51% más que el promedio. Real Betis Balompié juega en casa (~+35% de ventaja, ya contada). Goles esperados: 3.38 – 1.72; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (2G-0E-0P vs 1G-1E-3P). El modelo tiene pocos datos de Real Betis Balompié: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.884,
-     "por_que": "Bastantes goles esperados (3.39 + 1.72 = 5.11); al menos una defensa floja. Probabilidad al over: 88%.",
+     "por_que": "Bastantes goles esperados (3.38 + 1.72 = 5.10); al menos una defensa floja. Probabilidad al over: 88%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.96
