@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-23",
- "actualizado": "2026-10-17T16:46:53+00:00",
+ "actualizado": "2026-10-18T10:10:06+00:00",
  "partidos": [
   {
    "id": 565833,
@@ -11,15 +11,15 @@
    "local": "VfB Stuttgart",
    "visitante": "Borussia Mönchengladbach",
    "prediccion": {
-    "prob_1": 0.661,
-    "prob_X": 0.186,
-    "prob_2": 0.154,
+    "prob_1": 0.662,
+    "prob_X": 0.185,
+    "prob_2": 0.152,
     "goles_esperados": [
      2.464,
-     1.134
+     1.127
     ],
-    "prob_over_2_5": 0.697,
-    "prob_btts": 0.625,
+    "prob_over_2_5": 0.696,
+    "prob_btts": 0.623,
     "marcadores": [
      [
       "2-1",
@@ -27,34 +27,34 @@
      ],
      [
       "2-0",
-      0.0831
+      0.0837
      ],
      [
       "1-1",
-      0.0807
+      0.0808
      ]
     ],
     "cuotas_justas": [
      1.51,
      5.39,
-     6.51
+     6.56
     ],
     "resumen": "Gana VfB Stuttgart (claro favorito, 66%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.29,
-     "defensa": 0.123,
-     "neto": 0.413,
-     "peso": 41.0,
+     "ataque": 0.289,
+     "defensa": 0.126,
+     "neto": 0.415,
+     "peso": 40.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.03,
-     "defensa": -0.113,
+     "ataque": -0.031,
+     "defensa": -0.111,
      "neto": -0.143,
-     "peso": 40.0,
+     "peso": 39.9,
      "fiable": true
     },
     "forma_local": {
@@ -127,146 +127,11 @@
     "explicacion": "VfB Stuttgart es más fuerte de fondo (neto +0.41 vs -0.14): ataca ~34% más que el promedio, encaja ~12% menos. VfB Stuttgart juega en casa (~+25% de ventaja, ya contada). Goles esperados: 2.46 – 1.13; el modelo ve marcando más a VfB Stuttgart. Y la forma reciente lo confirma: VfB Stuttgart llega mejor (2G-0E-3P vs 0G-0E-5P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.661,
+     "prob": 0.662,
      "por_que": "VfB Stuttgart es favorito en casa: marca más (2.46 vs 1.13) y es más fuerte de fondo (neto +0.41 vs -0.14). Probabilidad: 66%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.878
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 559654,
-   "competicion": "Ligue 1",
-   "competicion_codigo": "FL1",
-   "fecha_utc": "2026-10-23T18:45:00Z",
-   "jornada": 8,
-   "local": "Stade Brestois 29",
-   "visitante": "OGC Nice",
-   "prediccion": {
-    "prob_1": 0.457,
-    "prob_X": 0.252,
-    "prob_2": 0.29,
-    "goles_esperados": [
-     1.623,
-     1.248
-    ],
-    "prob_over_2_5": 0.547,
-    "prob_btts": 0.576,
-    "marcadores": [
-     [
-      "1-1",
-      0.1187
-     ],
-     [
-      "2-1",
-      0.0931
-     ],
-     [
-      "1-0",
-      0.0879
-     ]
-    ],
-    "cuotas_justas": [
-     2.19,
-     3.96,
-     3.44
-    ],
-    "resumen": "Gana Stade Brestois 29 (ligero favorito, 46%).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.112,
-     "defensa": -0.052,
-     "neto": 0.06,
-     "peso": 40.6,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.036,
-     "defensa": 0.04,
-     "neto": 0.004,
-     "peso": 40.6,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 2,
-     "e": 1,
-     "p": 2,
-     "gf": 10,
-     "gc": 7,
-     "racha": [
-      "E",
-      "G",
-      "P",
-      "P",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 2,
-     "e": 1,
-     "p": 2,
-     "gf": 5,
-     "gc": 7,
-     "racha": [
-      "P",
-      "E",
-      "P",
-      "G",
-      "G"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-02-01",
-      "local": "OGC Nice",
-      "visitante": "Stade Brestois 29",
-      "goles_local": 2,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2025-09-20",
-      "local": "Stade Brestois 29",
-      "visitante": "OGC Nice",
-      "goles_local": 4,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2025-05-17",
-      "local": "OGC Nice",
-      "visitante": "Stade Brestois 29",
-      "goles_local": 6,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2024-11-02",
-      "local": "Stade Brestois 29",
-      "visitante": "OGC Nice",
-      "goles_local": 0,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2024-02-04",
-      "local": "Stade Brestois 29",
-      "visitante": "OGC Nice",
-      "goles_local": 0,
-      "goles_visitante": 0
-     }
-    ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.06 vs +0.00). Stade Brestois 29 juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.62 – 1.25; el modelo ve marcando más a Stade Brestois 29. También parejos en forma (2G-1E-2P vs 2G-1E-2P en 5).",
-    "recomendacion": {
-     "mercado": "Ambos marcan: Sí",
-     "prob": 0.576,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.62 y 1.25. Probabilidad: 58%.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.785
      },
      "confianza": "alta"
     }
@@ -281,11 +146,11 @@
    "local": "Torino FC",
    "visitante": "AC Monza",
    "prediccion": {
-    "prob_1": 0.528,
-    "prob_X": 0.242,
+    "prob_1": 0.527,
+    "prob_X": 0.243,
     "prob_2": 0.23,
     "goles_esperados": [
-     1.727,
+     1.725,
      1.059
     ],
     "prob_over_2_5": 0.527,
@@ -293,11 +158,11 @@
     "marcadores": [
      [
       "1-1",
-      0.1151
+      0.1152
      ],
      [
       "1-0",
-      0.1041
+      0.1042
      ],
      [
       "2-1",
@@ -305,7 +170,7 @@
      ]
     ],
     "cuotas_justas": [
-     1.89,
+     1.9,
      4.12,
      4.35
     ],
@@ -317,14 +182,14 @@
      "ataque": -0.046,
      "defensa": -0.07,
      "neto": -0.115,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.144,
+     "ataque": -0.143,
      "defensa": -0.34,
-     "neto": -0.484,
-     "peso": 22.5,
+     "neto": -0.483,
+     "peso": 22.4,
      "fiable": true
     },
     "forma_local": {
@@ -398,6 +263,241 @@
    }
   },
   {
+   "id": 559654,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-10-23T18:45:00Z",
+   "jornada": 8,
+   "local": "Stade Brestois 29",
+   "visitante": "OGC Nice",
+   "prediccion": {
+    "prob_1": 0.459,
+    "prob_X": 0.254,
+    "prob_2": 0.287,
+    "goles_esperados": [
+     1.621,
+     1.238
+    ],
+    "prob_over_2_5": 0.544,
+    "prob_btts": 0.574,
+    "marcadores": [
+     [
+      "1-1",
+      0.1196
+     ],
+     [
+      "2-1",
+      0.0932
+     ],
+     [
+      "1-0",
+      0.0884
+     ]
+    ],
+    "cuotas_justas": [
+     2.18,
+     3.94,
+     3.48
+    ],
+    "resumen": "Gana Stade Brestois 29 (ligero favorito, 46%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.112,
+     "defensa": -0.039,
+     "neto": 0.073,
+     "peso": 41.6,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.037,
+     "defensa": 0.041,
+     "neto": 0.004,
+     "peso": 40.5,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 9,
+     "gc": 6,
+     "racha": [
+      "G",
+      "P",
+      "P",
+      "G",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 5,
+     "gc": 7,
+     "racha": [
+      "P",
+      "E",
+      "P",
+      "G",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-02-01",
+      "local": "OGC Nice",
+      "visitante": "Stade Brestois 29",
+      "goles_local": 2,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-09-20",
+      "local": "Stade Brestois 29",
+      "visitante": "OGC Nice",
+      "goles_local": 4,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-05-17",
+      "local": "OGC Nice",
+      "visitante": "Stade Brestois 29",
+      "goles_local": 6,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-11-02",
+      "local": "Stade Brestois 29",
+      "visitante": "OGC Nice",
+      "goles_local": 0,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-02-04",
+      "local": "Stade Brestois 29",
+      "visitante": "OGC Nice",
+      "goles_local": 0,
+      "goles_visitante": 0
+     }
+    ],
+    "explicacion": "En fuerza de temporada están parejos (neto +0.07 vs +0.00). Stade Brestois 29 juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.62 – 1.24; el modelo ve marcando más a Stade Brestois 29. También parejos en forma (2G-1E-2P vs 2G-1E-2P en 5).",
+    "recomendacion": {
+     "mercado": "Ambos marcan: Sí",
+     "prob": 0.574,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.62 y 1.24. Probabilidad: 57%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.783
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 564719,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-10-23T19:00:00Z",
+   "jornada": 10,
+   "local": "Deportivo Alavés",
+   "visitante": "Málaga CF",
+   "prediccion": {
+    "prob_1": 0.578,
+    "prob_X": 0.272,
+    "prob_2": 0.15,
+    "goles_esperados": [
+     1.47,
+     0.609
+    ],
+    "prob_over_2_5": 0.344,
+    "prob_btts": 0.355,
+    "marcadores": [
+     [
+      "1-0",
+      0.1802
+     ],
+     [
+      "2-0",
+      0.1352
+     ],
+     [
+      "0-0",
+      0.1289
+     ]
+    ],
+    "cuotas_justas": [
+     1.73,
+     3.67,
+     6.68
+    ],
+    "resumen": "Gana Deportivo Alavés (claro favorito, 58%). pocos goles (-2.5).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Málaga CF' solo tiene 7.4 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.056,
+     "defensa": 0.081,
+     "neto": 0.025,
+     "peso": 46.8,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.52,
+     "defensa": -0.049,
+     "neto": -0.569,
+     "peso": 7.4,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 7,
+     "gc": 7,
+     "racha": [
+      "G",
+      "P",
+      "P",
+      "E",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 0,
+     "e": 3,
+     "p": 2,
+     "gf": 3,
+     "gc": 6,
+     "racha": [
+      "E",
+      "E",
+      "P",
+      "P",
+      "E"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Deportivo Alavés es más fuerte de fondo (neto +0.03 vs -0.57): es más completo en general. Deportivo Alavés juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.47 – 0.61; el modelo ve marcando más a Deportivo Alavés. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Málaga CF: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.85,
+     "por_que": "Doble oportunidad: cubre que Deportivo Alavés no pierda. El escenario que queda afuera (gane Málaga CF) es el menos probable (15%), así que el mercado se cumple ~85% de las veces.",
+     "alternativa": {
+      "mercado": "Menos de 3.5 goles",
+      "prob": 0.843
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
    "id": 560620,
    "competicion": "Premier League",
    "competicion_codigo": "PL",
@@ -407,18 +507,18 @@
    "visitante": "Nottingham Forest FC",
    "prediccion": {
     "prob_1": 0.262,
-    "prob_X": 0.257,
-    "prob_2": 0.481,
+    "prob_X": 0.255,
+    "prob_2": 0.483,
     "goles_esperados": [
-     1.236,
-     1.738
+     1.237,
+     1.743
     ],
-    "prob_over_2_5": 0.571,
+    "prob_over_2_5": 0.572,
     "prob_btts": 0.595,
     "marcadores": [
      [
       "1-1",
-      0.1204
+      0.1193
      ],
      [
       "1-2",
@@ -426,30 +526,30 @@
      ],
      [
       "0-1",
-      0.0782
+      0.0787
      ]
     ],
     "cuotas_justas": [
      3.82,
-     3.89,
-     2.08
+     3.92,
+     2.07
     ],
     "resumen": "Gana Nottingham Forest FC (ligero favorito, 48%). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.088,
-     "defensa": -0.335,
-     "neto": -0.424,
+     "ataque": -0.087,
+     "defensa": -0.336,
+     "neto": -0.423,
      "peso": 17.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.019,
-     "defensa": 0.103,
-     "neto": 0.084,
-     "peso": 44.8,
+     "ataque": -0.017,
+     "defensa": 0.102,
+     "neto": 0.085,
+     "peso": 44.7,
      "fiable": true
     },
     "forma_local": {
@@ -498,7 +598,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Nottingham Forest FC es más fuerte de fondo (neto +0.08 vs -0.42): encaja ~10% menos. Ipswich Town FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.24 – 1.74; el modelo ve marcando más a Nottingham Forest FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Nottingham Forest FC es más fuerte de fondo (neto +0.09 vs -0.42): encaja ~10% menos. Ipswich Town FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.24 – 1.74; el modelo ve marcando más a Nottingham Forest FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.738,
@@ -508,106 +608,6 @@
       "prob": 0.808
      },
      "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 564719,
-   "competicion": "La Liga",
-   "competicion_codigo": "PD",
-   "fecha_utc": "2026-10-23T19:00:00Z",
-   "jornada": 10,
-   "local": "Deportivo Alavés",
-   "visitante": "Málaga CF",
-   "prediccion": {
-    "prob_1": 0.579,
-    "prob_X": 0.271,
-    "prob_2": 0.15,
-    "goles_esperados": [
-     1.47,
-     0.607
-    ],
-    "prob_over_2_5": 0.344,
-    "prob_btts": 0.354,
-    "marcadores": [
-     [
-      "1-0",
-      0.1808
-     ],
-     [
-      "2-0",
-      0.1353
-     ],
-     [
-      "0-0",
-      0.1286
-     ]
-    ],
-    "cuotas_justas": [
-     1.73,
-     3.69,
-     6.68
-    ],
-    "resumen": "Gana Deportivo Alavés (claro favorito, 58%). pocos goles (-2.5).",
-    "confianza": "baja"
-   },
-   "nota": "pocos datos: 'Málaga CF' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.057,
-     "defensa": 0.081,
-     "neto": 0.024,
-     "peso": 46.8,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.521,
-     "defensa": -0.048,
-     "neto": -0.569,
-     "peso": 7.5,
-     "fiable": false
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 1,
-     "e": 1,
-     "p": 3,
-     "gf": 7,
-     "gc": 7,
-     "racha": [
-      "G",
-      "P",
-      "P",
-      "E",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 0,
-     "e": 3,
-     "p": 2,
-     "gf": 3,
-     "gc": 6,
-     "racha": [
-      "E",
-      "E",
-      "P",
-      "P",
-      "E"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "Deportivo Alavés es más fuerte de fondo (neto +0.02 vs -0.57): es más completo en general. Deportivo Alavés juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.47 – 0.61; el modelo ve marcando más a Deportivo Alavés. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Málaga CF: tomalo con pinzas.",
-    "recomendacion": {
-     "mercado": "1X",
-     "prob": 0.85,
-     "por_que": "Doble oportunidad: cubre que Deportivo Alavés no pierda. El escenario que queda afuera (gane Málaga CF) es el menos probable (15%), así que el mercado se cumple ~85% de las veces.",
-     "alternativa": {
-      "mercado": "Menos de 3.5 goles",
-      "prob": 0.843
-     },
-     "confianza": "baja"
     }
    }
   }

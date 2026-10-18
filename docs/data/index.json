@@ -1,7 +1,6 @@
 {
- "actualizado": "2026-10-17T16:46:53+00:00",
+ "actualizado": "2026-10-18T10:10:06+00:00",
  "dias": [
-  "2026-10-17",
   "2026-10-18",
   "2026-10-19",
   "2026-10-20",
@@ -10,7 +9,8 @@
   "2026-10-24",
   "2026-10-25",
   "2026-10-26",
-  "2026-10-27"
+  "2026-10-27",
+  "2026-10-28"
  ],
  "competiciones": [
   {
@@ -40,14 +40,14 @@
  ],
  "tablas": [
   {
-   "codigo": "FL1",
-   "nombre": "Ligue 1",
-   "archivo": "tabla_FL1.json"
-  },
-  {
    "codigo": "SA",
    "nombre": "Serie A",
    "archivo": "tabla_SA.json"
+  },
+  {
+   "codigo": "PD",
+   "nombre": "La Liga",
+   "archivo": "tabla_PD.json"
   },
   {
    "codigo": "PL",
@@ -55,9 +55,9 @@
    "archivo": "tabla_PL.json"
   },
   {
-   "codigo": "PD",
-   "nombre": "La Liga",
-   "archivo": "tabla_PD.json"
+   "codigo": "FL1",
+   "nombre": "Ligue 1",
+   "archivo": "tabla_FL1.json"
   },
   {
    "codigo": "BL1",
@@ -70,5 +70,5 @@
    "archivo": "tabla_CL.json"
   }
  ],
- "total_partidos": 102
+ "total_partidos": 98
 }

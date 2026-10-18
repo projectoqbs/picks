@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-27",
- "actualizado": "2026-10-17T16:46:53+00:00",
+ "actualizado": "2026-10-18T10:10:06+00:00",
  "partidos": [
   {
    "id": 558556,
@@ -11,11 +11,11 @@
    "local": "US Sassuolo Calcio",
    "visitante": "SS Lazio",
    "prediccion": {
-    "prob_1": 0.303,
+    "prob_1": 0.302,
     "prob_X": 0.263,
     "prob_2": 0.434,
     "goles_esperados": [
-     1.183,
+     1.182,
      1.467
     ],
     "prob_over_2_5": 0.494,
@@ -27,7 +27,7 @@
      ],
      [
       "0-1",
-      0.1011
+      0.1012
      ],
      [
       "1-2",
@@ -35,7 +35,7 @@
      ]
     ],
     "cuotas_justas": [
-     3.3,
+     3.31,
      3.8,
      2.3
     ],
@@ -54,7 +54,7 @@
      "ataque": 0.096,
      "defensa": 0.178,
      "neto": 0.274,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "forma_local": {
@@ -120,7 +120,7 @@
     "explicacion": "SS Lazio es más fuerte de fondo (neto +0.27 vs -0.06): encaja ~16% menos. US Sassuolo Calcio juega en casa (~+13% de ventaja, ya contada). Goles esperados: 1.18 – 1.47; el modelo ve marcando más a SS Lazio. Y la forma reciente lo confirma: SS Lazio llega mejor (4G-1E-0P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.697,
+     "prob": 0.698,
      "por_que": "Doble oportunidad: cubre que US Sassuolo Calcio no gane. El escenario que queda afuera (gane US Sassuolo Calcio) es el menos probable (30%), así que el mercado se cumple ~70% de las veces.",
      "alternativa": null,
      "confianza": "alta"
@@ -136,50 +136,50 @@
    "local": "AS Roma",
    "visitante": "Cagliari Calcio",
    "prediccion": {
-    "prob_1": 0.643,
-    "prob_X": 0.223,
-    "prob_2": 0.134,
+    "prob_1": 0.646,
+    "prob_X": 0.222,
+    "prob_2": 0.132,
     "goles_esperados": [
-     1.84,
-     0.704
+     1.841,
+     0.692
     ],
-    "prob_over_2_5": 0.467,
-    "prob_btts": 0.427,
+    "prob_over_2_5": 0.465,
+    "prob_btts": 0.422,
     "marcadores": [
      [
       "1-0",
-      0.1425
+      0.144
      ],
      [
       "2-0",
-      0.133
+      0.1346
      ],
      [
       "1-1",
-      0.1038
+      0.1033
      ]
     ],
     "cuotas_justas": [
      1.55,
-     4.49,
-     7.45
+     4.51,
+     7.59
     ],
-    "resumen": "Gana AS Roma (claro favorito, 64%).",
+    "resumen": "Gana AS Roma (claro favorito, 65%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.342,
-     "defensa": 0.4,
-     "neto": 0.742,
-     "peso": 45.1,
+     "ataque": 0.344,
+     "defensa": 0.416,
+     "neto": 0.76,
+     "peso": 46.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.083,
-     "defensa": -0.016,
-     "neto": -0.099,
-     "peso": 45.1,
+     "defensa": -0.015,
+     "neto": -0.098,
+     "peso": 45.0,
      "fiable": true
     },
     "forma_local": {
@@ -187,14 +187,14 @@
      "g": 3,
      "e": 2,
      "p": 0,
-     "gf": 10,
+     "gf": 8,
      "gc": 3,
      "racha": [
       "G",
       "G",
-      "G",
       "E",
-      "E"
+      "E",
+      "G"
      ]
     },
     "forma_visitante": {
@@ -249,14 +249,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "AS Roma es más fuerte de fondo (neto +0.74 vs -0.10): ataca ~41% más que el promedio, encaja ~33% menos. AS Roma juega en casa (~+13% de ventaja, ya contada). Goles esperados: 1.84 – 0.70; el modelo ve marcando más a AS Roma. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "AS Roma es más fuerte de fondo (neto +0.76 vs -0.10): ataca ~41% más que el promedio, encaja ~34% menos. AS Roma juega en casa (~+13% de ventaja, ya contada). Goles esperados: 1.84 – 0.69; el modelo ve marcando más a AS Roma. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.866,
+     "prob": 0.868,
      "por_que": "Doble oportunidad: cubre que AS Roma no pierda. El escenario que queda afuera (gane Cagliari Calcio) es el menos probable (13%), así que el mercado se cumple ~87% de las veces.",
      "alternativa": {
       "mercado": "12",
-      "prob": 0.777
+      "prob": 0.778
      },
      "confianza": "alta"
     }
@@ -276,14 +276,14 @@
     "prob_2": 0.537,
     "goles_esperados": [
      0.927,
-     1.632
+     1.633
     ],
     "prob_over_2_5": 0.471,
     "prob_btts": 0.488,
     "marcadores": [
      [
       "0-1",
-      0.1238
+      0.1239
      ],
      [
       "1-1",
@@ -295,7 +295,7 @@
      ]
     ],
     "cuotas_justas": [
-     4.73,
+     4.74,
      3.97,
      1.86
     ],
@@ -307,14 +307,14 @@
      "ataque": -0.046,
      "defensa": -0.07,
      "neto": -0.115,
-     "peso": 45.1,
+     "peso": 45.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.289,
      "defensa": 0.282,
      "neto": 0.571,
-     "peso": 39.5,
+     "peso": 39.4,
      "fiable": true
     },
     "forma_local": {

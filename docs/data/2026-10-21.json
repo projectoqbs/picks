@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-21",
- "actualizado": "2026-10-17T16:46:53+00:00",
+ "actualizado": "2026-10-18T10:10:06+00:00",
  "partidos": [
   {
    "id": 575368,
@@ -15,7 +15,7 @@
     "prob_X": 0.193,
     "prob_2": 0.312,
     "goles_esperados": [
-     2.21,
+     2.209,
      1.736
     ],
     "prob_over_2_5": 0.754,
@@ -31,7 +31,7 @@
      ],
      [
       "1-1",
-      0.0687
+      0.0688
      ]
     ],
     "cuotas_justas": [
@@ -39,7 +39,7 @@
      5.19,
      3.2
     ],
-    "resumen": "Gana Como 1907 (ligero favorito, 50%). se esperan goles (+2.5). ambos marcan.",
+    "resumen": "Gana Como 1907 (ligero favorito, 49%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
    "nota": "pocos datos: 'Como 1907' solo tiene 1.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
@@ -208,32 +208,32 @@
    "local": "Levante UD",
    "visitante": "Athletic Club",
    "prediccion": {
-    "prob_1": 0.378,
-    "prob_X": 0.267,
-    "prob_2": 0.355,
+    "prob_1": 0.374,
+    "prob_X": 0.271,
+    "prob_2": 0.354,
     "goles_esperados": [
-     1.362,
-     1.311
+     1.329,
+     1.287
     ],
-    "prob_over_2_5": 0.5,
-    "prob_btts": 0.547,
+    "prob_over_2_5": 0.486,
+    "prob_btts": 0.536,
     "marcadores": [
      [
       "1-1",
-      0.127
+      0.1292
      ],
      [
       "1-0",
-      0.0904
+      0.0929
      ],
      [
       "0-1",
-      0.0869
+      0.0898
      ]
     ],
     "cuotas_justas": [
-     2.64,
-     3.75,
+     2.67,
+     3.69,
      2.82
     ],
     "resumen": "Partido parejo.",
@@ -241,17 +241,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.097,
-     "defensa": -0.132,
+     "ataque": 0.096,
+     "defensa": -0.131,
      "neto": -0.035,
-     "peso": 30.2,
+     "peso": 30.1,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.035,
-     "defensa": 0.182,
-     "neto": 0.218,
-     "peso": 44.9,
+     "ataque": 0.017,
+     "defensa": 0.203,
+     "neto": 0.22,
+     "peso": 45.8,
      "fiable": true
     },
     "forma_local": {
@@ -272,14 +272,14 @@
     "forma_visitante": {
      "pj": 5,
      "g": 2,
-     "e": 2,
-     "p": 1,
+     "e": 3,
+     "p": 0,
      "gf": 6,
-     "gc": 3,
+     "gc": 1,
      "racha": [
-      "P",
       "G",
       "G",
+      "E",
       "E",
       "E"
      ]
@@ -300,11 +300,11 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Athletic Club es más fuerte de fondo (neto +0.22 vs -0.04): encaja ~17% menos. Levante UD juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.36 – 1.31; el modelo ve marcando más a Levante UD. Y la forma reciente lo confirma: Athletic Club llega mejor (2G-2E-1P vs 0G-3E-2P).",
+    "explicacion": "Athletic Club es más fuerte de fondo (neto +0.22 vs -0.04): encaja ~18% menos. Levante UD juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.33 – 1.29; el modelo ve marcando más a Levante UD. Y la forma reciente lo confirma: Athletic Club llega mejor (2G-3E-0P vs 0G-3E-2P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.622,
-     "por_que": "Doble oportunidad: cubre que Levante UD no gane. El escenario que queda afuera (gane Levante UD) es el menos probable (38%), así que el mercado se cumple ~62% de las veces.",
+     "prob": 0.626,
+     "por_que": "Doble oportunidad: cubre que Levante UD no gane. El escenario que queda afuera (gane Levante UD) es el menos probable (37%), así que el mercado se cumple ~63% de las veces.",
      "alternativa": null,
      "confianza": "alta"
     }
@@ -439,7 +439,7 @@
     "prob_2": 0.212,
     "goles_esperados": [
      1.958,
-     1.08
+     1.081
     ],
     "prob_over_2_5": 0.585,
     "prob_btts": 0.56,
@@ -462,14 +462,14 @@
      4.94,
      4.71
     ],
-    "resumen": "Gana FC Internazionale Milano (claro favorito, 59%). se esperan goles (+2.5).",
+    "resumen": "Gana FC Internazionale Milano (claro favorito, 58%). se esperan goles (+2.5).",
     "confianza": "baja"
    },
    "nota": "pocos datos: 'FK Shakhtar Donetsk' solo tiene 4.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.111,
-     "defensa": 0.23,
+     "defensa": 0.229,
      "neto": 0.34,
      "peso": 13.2,
      "fiable": true
@@ -512,11 +512,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.34 vs +0.05): ataca ~12% más que el promedio, encaja ~21% menos. FC Internazionale Milano juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.96 – 1.08; el modelo ve marcando más a FC Internazionale Milano. Pero ojo: en forma reciente FK Shakhtar Donetsk llega mejor que FC Internazionale Milano, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de FK Shakhtar Donetsk: tomalo con pinzas.",
+    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.34 vs +0.05): ataca ~12% más que el promedio, encaja ~20% menos. FC Internazionale Milano juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.96 – 1.08; el modelo ve marcando más a FC Internazionale Milano. Pero ojo: en forma reciente FK Shakhtar Donetsk llega mejor que FC Internazionale Milano, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de FK Shakhtar Donetsk: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.585,
-     "por_que": "FC Internazionale Milano es favorito en casa: marca más (1.96 vs 1.08) y es más fuerte de fondo (neto +0.34 vs +0.05). Probabilidad: 59%.",
+     "por_que": "FC Internazionale Milano es favorito en casa: marca más (1.96 vs 1.08) y es más fuerte de fondo (neto +0.34 vs +0.05). Probabilidad: 58%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.799
@@ -569,13 +569,13 @@
     "fuerza_local": {
      "ataque": 0.633,
      "defensa": 0.357,
-     "neto": 0.99,
+     "neto": 0.989,
      "peso": 16.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.395,
-     "defensa": 0.818,
+     "defensa": 0.817,
      "neto": 1.213,
      "peso": 16.8,
      "fiable": true
@@ -660,7 +660,7 @@
     "prob_2": 0.162,
     "goles_esperados": [
      2.952,
-     1.422
+     1.423
     ],
     "prob_over_2_5": 0.812,
     "prob_btts": 0.715,
@@ -691,7 +691,7 @@
     "fuerza_local": {
      "ataque": 0.321,
      "defensa": -0.11,
-     "neto": 0.212,
+     "neto": 0.211,
      "peso": 10.9,
      "fiable": true
     },
@@ -737,7 +737,7 @@
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.812,
-     "por_que": "Bastantes goles esperados (2.95 + 1.42 = 4.37); al menos una defensa floja. Probabilidad al over: 81%.",
+     "por_que": "Bastantes goles esperados (2.95 + 1.42 = 4.38); al menos una defensa floja. Probabilidad al over: 81%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.928
@@ -856,7 +856,7 @@
     "prob_X": 0.082,
     "prob_2": 0.059,
     "goles_esperados": [
-     3.819,
+     3.818,
      1.03
     ],
     "prob_over_2_5": 0.862,
@@ -878,7 +878,7 @@
     "cuotas_justas": [
      1.16,
      12.24,
-     17.11
+     17.1
     ],
     "resumen": "Gana Sporting Clube de Portugal (claro favorito, 86%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -888,7 +888,7 @@
     "fuerza_local": {
      "ataque": 0.175,
      "defensa": 0.388,
-     "neto": 0.564,
+     "neto": 0.563,
      "peso": 11.7,
      "fiable": true
     },
@@ -949,11 +949,11 @@
    "local": "Real Betis Balompié",
    "visitante": "Feyenoord Rotterdam",
    "prediccion": {
-    "prob_1": 0.699,
+    "prob_1": 0.698,
     "prob_X": 0.136,
     "prob_2": 0.165,
     "goles_esperados": [
-     3.387,
+     3.386,
      1.719
     ],
     "prob_over_2_5": 0.884,
@@ -974,7 +974,7 @@
     ],
     "cuotas_justas": [
      1.43,
-     7.34,
+     7.33,
      6.05
     ],
     "resumen": "Gana Real Betis Balompié (claro favorito, 70%). se esperan goles (+2.5). ambos marcan.",
