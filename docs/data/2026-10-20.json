@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-20",
- "actualizado": "2026-10-18T17:02:36+00:00",
+ "actualizado": "2026-10-19T11:41:28+00:00",
  "partidos": [
   {
    "id": 575359,
@@ -15,10 +15,10 @@
     "prob_X": 0.205,
     "prob_2": 0.549,
     "goles_esperados": [
-     1.223,
+     1.224,
      1.945
     ],
-    "prob_over_2_5": 0.614,
+    "prob_over_2_5": 0.613,
     "prob_btts": 0.598,
     "marcadores": [
      [
@@ -35,7 +35,7 @@
      ]
     ],
     "cuotas_justas": [
-     4.08,
+     4.07,
      4.87,
      1.82
     ],
@@ -47,13 +47,13 @@
     "fuerza_local": {
      "ataque": -0.259,
      "defensa": -0.168,
-     "neto": -0.428,
+     "neto": -0.427,
      "peso": 1.9,
      "fiable": false
     },
     "fuerza_visitante": {
      "ataque": 0.2,
-     "defensa": 0.139,
+     "defensa": 0.138,
      "neto": 0.338,
      "peso": 13.6,
      "fiable": true
@@ -108,15 +108,15 @@
    "local": "Fenerbahçe SK",
    "visitante": "SK Slavia Praha",
    "prediccion": {
-    "prob_1": 0.495,
+    "prob_1": 0.496,
     "prob_X": 0.225,
     "prob_2": 0.279,
     "goles_esperados": [
-     1.668,
+     1.669,
      1.183
     ],
     "prob_over_2_5": 0.543,
-    "prob_btts": 0.554,
+    "prob_btts": 0.555,
     "marcadores": [
      [
       "1-1",
@@ -142,9 +142,9 @@
    "nota": "pocos datos: 'Fenerbahçe SK' solo tiene 1.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.392,
+     "ataque": -0.391,
      "defensa": -0.338,
-     "neto": -0.73,
+     "neto": -0.729,
      "peso": 1.9,
      "fiable": false
     },
@@ -190,7 +190,7 @@
      "por_que": "Doble oportunidad: cubre que no sea empate. El escenario que queda afuera (empate) es el menos probable (23%), así que el mercado se cumple ~77% de las veces.",
      "alternativa": {
       "mercado": "Ambos marcan: Sí",
-      "prob": 0.554
+      "prob": 0.555
      },
      "confianza": "baja"
     }
@@ -217,7 +217,7 @@
     "marcadores": [
      [
       "2-0",
-      0.1183
+      0.1182
      ],
      [
       "1-0",
@@ -246,8 +246,8 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.369,
-     "defensa": 0.028,
+     "ataque": -0.368,
+     "defensa": 0.027,
      "neto": -0.341,
      "peso": 1.9,
      "fiable": false
@@ -346,7 +346,7 @@
      "ataque": 0.396,
      "defensa": 0.195,
      "neto": 0.591,
-     "peso": 15.9,
+     "peso": 15.8,
      "fiable": true
     },
     "forma_local": {
@@ -427,8 +427,8 @@
     ],
     "cuotas_justas": [
      1.17,
-     11.14,
-     18.8
+     11.13,
+     18.79
     ],
     "resumen": "Gana Liverpool FC (claro favorito, 86%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -437,7 +437,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.326,
-     "defensa": 0.403,
+     "defensa": 0.402,
      "neto": 0.729,
      "peso": 11.7,
      "fiable": true
@@ -506,7 +506,7 @@
     "prob_X": 0.124,
     "prob_2": 0.111,
     "goles_esperados": [
-     3.151,
+     3.15,
      1.178
     ],
     "prob_over_2_5": 0.806,
@@ -518,11 +518,11 @@
      ],
      [
       "2-1",
-      0.0771
+      0.0772
      ],
      [
       "3-0",
-      0.0687
+      0.0688
      ]
     ],
     "cuotas_justas": [
@@ -537,7 +537,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.088,
-     "defensa": -0.224,
+     "defensa": -0.223,
      "neto": -0.136,
      "peso": 1.9,
      "fiable": false
@@ -603,7 +603,7 @@
     "prob_X": 0.21,
     "prob_2": 0.346,
     "goles_esperados": [
-     1.83,
+     1.829,
      1.595
     ],
     "prob_over_2_5": 0.665,
@@ -803,11 +803,11 @@
     "prob_X": 0.137,
     "prob_2": 0.166,
     "goles_esperados": [
-     3.393,
-     1.73
+     3.392,
+     1.731
     ],
     "prob_over_2_5": 0.885,
-    "prob_btts": 0.792,
+    "prob_btts": 0.793,
     "marcadores": [
      [
       "3-1",
@@ -842,7 +842,7 @@
      "ataque": 0.605,
      "defensa": 0.124,
      "neto": 0.729,
-     "peso": 14.6,
+     "peso": 14.5,
      "fiable": true
     },
     "forma_local": {

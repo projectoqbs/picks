@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-21",
- "actualizado": "2026-10-18T17:02:36+00:00",
+ "actualizado": "2026-10-19T11:41:28+00:00",
  "partidos": [
   {
    "id": 575368,
@@ -112,11 +112,11 @@
     "prob_X": 0.191,
     "prob_2": 0.226,
     "goles_esperados": [
-     2.166,
+     2.165,
      1.279
     ],
     "prob_over_2_5": 0.669,
-    "prob_btts": 0.633,
+    "prob_btts": 0.632,
     "marcadores": [
      [
       "2-1",
@@ -124,11 +124,11 @@
      ],
      [
       "1-1",
-      0.0819
+      0.082
      ],
      [
       "1-0",
-      0.0755
+      0.0756
      ]
     ],
     "cuotas_justas": [
@@ -152,7 +152,7 @@
      "ataque": -0.025,
      "defensa": -0.086,
      "neto": -0.111,
-     "peso": 9.6,
+     "peso": 9.5,
      "fiable": true
     },
     "forma_local": {
@@ -208,50 +208,50 @@
    "local": "Levante UD",
    "visitante": "Athletic Club",
    "prediccion": {
-    "prob_1": 0.375,
-    "prob_X": 0.271,
-    "prob_2": 0.353,
+    "prob_1": 0.372,
+    "prob_X": 0.272,
+    "prob_2": 0.356,
     "goles_esperados": [
-     1.331,
+     1.319,
      1.284
     ],
-    "prob_over_2_5": 0.485,
-    "prob_btts": 0.536,
+    "prob_over_2_5": 0.482,
+    "prob_btts": 0.534,
     "marcadores": [
      [
       "1-1",
-      0.1293
+      0.1297
      ],
      [
       "1-0",
-      0.0931
+      0.0934
      ],
      [
       "0-1",
-      0.0897
+      0.0909
      ]
     ],
     "cuotas_justas": [
-     2.67,
-     3.68,
-     2.83
+     2.69,
+     3.67,
+     2.81
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.1,
-     "defensa": -0.132,
-     "neto": -0.032,
-     "peso": 30.1,
+     "ataque": 0.089,
+     "defensa": -0.122,
+     "neto": -0.034,
+     "peso": 30.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.02,
-     "defensa": 0.203,
-     "neto": 0.223,
-     "peso": 45.8,
+     "ataque": 0.015,
+     "defensa": 0.211,
+     "neto": 0.226,
+     "peso": 45.7,
      "fiable": true
     },
     "forma_local": {
@@ -300,11 +300,11 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Athletic Club es más fuerte de fondo (neto +0.22 vs -0.03): encaja ~18% menos. Levante UD juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.33 – 1.28; el modelo ve marcando más a Levante UD. Y la forma reciente lo confirma: Athletic Club llega mejor (2G-3E-0P vs 0G-3E-2P).",
+    "explicacion": "Athletic Club es más fuerte de fondo (neto +0.23 vs -0.03): encaja ~19% menos. Levante UD juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.32 – 1.28; el modelo ve marcando más a Levante UD. Y la forma reciente lo confirma: Athletic Club llega mejor (2G-3E-0P vs 0G-3E-2P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.625,
-     "por_que": "Doble oportunidad: cubre que Levante UD no gane. El escenario que queda afuera (gane Levante UD) es el menos probable (38%), así que el mercado se cumple ~62% de las veces.",
+     "prob": 0.628,
+     "por_que": "Doble oportunidad: cubre que Levante UD no gane. El escenario que queda afuera (gane Levante UD) es el menos probable (37%), así que el mercado se cumple ~63% de las veces.",
      "alternativa": null,
      "confianza": "alta"
     }
@@ -323,15 +323,15 @@
     "prob_X": 0.124,
     "prob_2": 0.098,
     "goles_esperados": [
-     2.966,
+     2.965,
      0.98
     ],
     "prob_over_2_5": 0.754,
-    "prob_btts": 0.589,
+    "prob_btts": 0.588,
     "marcadores": [
      [
       "2-0",
-      0.085
+      0.0851
      ],
      [
       "3-0",
@@ -412,11 +412,11 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.66 vs -0.15): ataca ~70% más que el promedio, encaja ~12% menos. Real Madrid CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.97 – 0.98; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (3G-0E-2P vs 2G-0E-3P). El modelo tiene pocos datos de RB Leipzig: tomalo con pinzas.",
+    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.66 vs -0.15): ataca ~70% más que el promedio, encaja ~12% menos. Real Madrid CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.96 – 0.98; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (3G-0E-2P vs 2G-0E-3P). El modelo tiene pocos datos de RB Leipzig: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.778,
-     "por_que": "Real Madrid CF es favorito en casa: marca más (2.97 vs 0.98) y es más fuerte de fondo (neto +0.66 vs -0.15). Probabilidad: 78%.",
+     "por_que": "Real Madrid CF es favorito en casa: marca más (2.96 vs 0.98) y es más fuerte de fondo (neto +0.66 vs -0.15). Probabilidad: 78%.",
      "alternativa": {
       "mercado": "1X",
       "prob": 0.902
@@ -454,7 +454,7 @@
      ],
      [
       "1-1",
-      0.0939
+      0.094
      ]
     ],
     "cuotas_justas": [
@@ -471,11 +471,11 @@
      "ataque": 0.111,
      "defensa": 0.229,
      "neto": 0.34,
-     "peso": 13.2,
+     "peso": 13.1,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.01,
+     "ataque": 0.009,
      "defensa": 0.039,
      "neto": 0.048,
      "peso": 4.8,
@@ -558,7 +558,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.44,
+     2.43,
      4.35,
      2.78
     ],
@@ -657,9 +657,9 @@
    "prediccion": {
     "prob_1": 0.69,
     "prob_X": 0.147,
-    "prob_2": 0.162,
+    "prob_2": 0.163,
     "goles_esperados": [
-     2.952,
+     2.95,
      1.423
     ],
     "prob_over_2_5": 0.812,
@@ -680,8 +680,8 @@
     ],
     "cuotas_justas": [
      1.45,
-     6.79,
-     6.16
+     6.78,
+     6.15
     ],
     "resumen": "Gana Club Brugge KV (claro favorito, 69%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -696,7 +696,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.054,
+     "ataque": -0.055,
      "defensa": -0.162,
      "neto": -0.216,
      "peso": 2.7,
@@ -737,7 +737,7 @@
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.812,
-     "por_que": "Bastantes goles esperados (2.95 + 1.42 = 4.38); al menos una defensa floja. Probabilidad al over: 81%.",
+     "por_que": "Bastantes goles esperados (2.95 + 1.42 = 4.37); al menos una defensa floja. Probabilidad al over: 81%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.928
@@ -759,7 +759,7 @@
     "prob_X": 0.107,
     "prob_2": 0.089,
     "goles_esperados": [
-     3.448,
+     3.447,
      1.159
     ],
     "prob_over_2_5": 0.838,
@@ -771,7 +771,7 @@
      ],
      [
       "2-1",
-      0.0688
+      0.0689
      ],
      [
       "3-0",
@@ -780,7 +780,7 @@
     ],
     "cuotas_justas": [
      1.24,
-     9.36,
+     9.35,
      11.19
     ],
     "resumen": "Gana Aston Villa FC (claro favorito, 80%). se esperan goles (+2.5). ambos marcan.",
@@ -790,13 +790,13 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.463,
-     "defensa": 0.43,
-     "neto": 0.893,
+     "defensa": 0.429,
+     "neto": 0.892,
      "peso": 5.4,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.28,
+     "ataque": 0.279,
      "defensa": -0.175,
      "neto": 0.104,
      "peso": 1.9,
@@ -856,11 +856,11 @@
     "prob_X": 0.082,
     "prob_2": 0.059,
     "goles_esperados": [
-     3.818,
+     3.815,
      1.03
     ],
-    "prob_over_2_5": 0.862,
-    "prob_btts": 0.627,
+    "prob_over_2_5": 0.861,
+    "prob_btts": 0.626,
     "marcadores": [
      [
       "3-1",
@@ -868,7 +868,7 @@
      ],
      [
       "3-0",
-      0.0729
+      0.073
      ],
      [
       "4-1",
@@ -877,8 +877,8 @@
     ],
     "cuotas_justas": [
      1.16,
-     12.23,
-     17.09
+     12.21,
+     17.06
     ],
     "resumen": "Gana Sporting Clube de Portugal (claro favorito, 86%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -894,8 +894,8 @@
     },
     "fuerza_visitante": {
      "ataque": 0.12,
-     "defensa": -0.565,
-     "neto": -0.445,
+     "defensa": -0.564,
+     "neto": -0.444,
      "peso": 1.9,
      "fiable": false
     },
@@ -927,11 +927,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Sporting Clube de Portugal es más fuerte de fondo (neto +0.56 vs -0.45): ataca ~19% más que el promedio, encaja ~32% menos. Sporting Clube de Portugal juega en casa (~+35% de ventaja, ya contada). Goles esperados: 3.82 – 1.03; el modelo ve marcando más a Sporting Clube de Portugal. Y la forma reciente lo confirma: Sporting Clube de Portugal llega mejor (3G-1E-1P vs 0G-0E-2P). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
+    "explicacion": "Sporting Clube de Portugal es más fuerte de fondo (neto +0.56 vs -0.44): ataca ~19% más que el promedio, encaja ~32% menos. Sporting Clube de Portugal juega en casa (~+35% de ventaja, ya contada). Goles esperados: 3.81 – 1.03; el modelo ve marcando más a Sporting Clube de Portugal. Y la forma reciente lo confirma: Sporting Clube de Portugal llega mejor (3G-1E-1P vs 0G-0E-2P). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.86,
-     "por_que": "Sporting Clube de Portugal es favorito en casa: marca más (3.82 vs 1.03) y es más fuerte de fondo (neto +0.56 vs -0.45). Probabilidad: 86%.",
+     "por_que": "Sporting Clube de Portugal es favorito en casa: marca más (3.81 vs 1.03) y es más fuerte de fondo (neto +0.56 vs -0.44). Probabilidad: 86%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.952
@@ -953,15 +953,15 @@
     "prob_X": 0.136,
     "prob_2": 0.165,
     "goles_esperados": [
-     3.385,
-     1.719
+     3.384,
+     1.718
     ],
     "prob_over_2_5": 0.884,
     "prob_btts": 0.79,
     "marcadores": [
      [
       "3-1",
-      0.0675
+      0.0676
      ],
      [
       "2-1",

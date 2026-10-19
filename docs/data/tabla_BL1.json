@@ -5,22 +5,22 @@
   {
    "equipo": "FC Bayern München",
    "ataque": 0.783,
-   "defensa": 0.357,
-   "neto": 1.14,
-   "peso": 40.9,
+   "defensa": 0.356,
+   "neto": 1.139,
+   "peso": 40.8,
    "fiable": true
   },
   {
    "equipo": "Borussia Dortmund",
-   "ataque": 0.297,
+   "ataque": 0.298,
    "defensa": 0.354,
    "neto": 0.652,
-   "peso": 40.9,
+   "peso": 40.8,
    "fiable": true
   },
   {
    "equipo": "Bayer 04 Leverkusen",
-   "ataque": 0.374,
+   "ataque": 0.375,
    "defensa": 0.221,
    "neto": 0.595,
    "peso": 40.9,
@@ -29,24 +29,24 @@
   {
    "equipo": "RB Leipzig",
    "ataque": 0.285,
-   "defensa": 0.132,
+   "defensa": 0.131,
    "neto": 0.416,
-   "peso": 40.9,
+   "peso": 40.8,
    "fiable": true
   },
   {
    "equipo": "VfB Stuttgart",
    "ataque": 0.289,
    "defensa": 0.126,
-   "neto": 0.414,
-   "peso": 40.9,
+   "neto": 0.415,
+   "peso": 40.8,
    "fiable": true
   },
   {
    "equipo": "SV 07 Elversberg",
-   "ataque": 0.314,
-   "defensa": -0.076,
-   "neto": 0.238,
+   "ataque": 0.313,
+   "defensa": -0.078,
+   "neto": 0.236,
    "peso": 5.7,
    "fiable": false
   },
@@ -55,39 +55,39 @@
    "ataque": 0.086,
    "defensa": 0.038,
    "neto": 0.124,
-   "peso": 40.9,
+   "peso": 40.8,
    "fiable": true
   },
   {
    "equipo": "1. FSV Mainz 05",
    "ataque": 0.032,
-   "defensa": 0.086,
+   "defensa": 0.085,
    "neto": 0.118,
-   "peso": 40.9,
+   "peso": 40.8,
    "fiable": true
   },
   {
    "equipo": "Eintracht Frankfurt",
-   "ataque": 0.173,
-   "defensa": -0.104,
+   "ataque": 0.174,
+   "defensa": -0.105,
    "neto": 0.069,
-   "peso": 40.9,
+   "peso": 40.8,
    "fiable": true
   },
   {
    "equipo": "TSG 1899 Hoffenheim",
-   "ataque": 0.178,
-   "defensa": -0.126,
-   "neto": 0.052,
-   "peso": 39.9,
+   "ataque": 0.181,
+   "defensa": -0.117,
+   "neto": 0.065,
+   "peso": 40.8,
    "fiable": true
   },
   {
    "equipo": "FC Augsburg",
-   "ataque": -0.001,
-   "defensa": -0.021,
+   "ataque": -0.0,
+   "defensa": -0.022,
    "neto": -0.022,
-   "peso": 40.9,
+   "peso": 40.8,
    "fiable": true
   },
   {
@@ -95,37 +95,37 @@
    "ataque": -0.064,
    "defensa": -0.044,
    "neto": -0.108,
-   "peso": 40.9,
-   "fiable": true
-  },
-  {
-   "equipo": "Borussia Mönchengladbach",
-   "ataque": -0.031,
-   "defensa": -0.112,
-   "neto": -0.143,
-   "peso": 39.9,
+   "peso": 40.8,
    "fiable": true
   },
   {
    "equipo": "FC Schalke 04",
    "ataque": -0.449,
    "defensa": 0.298,
-   "neto": -0.151,
+   "neto": -0.152,
    "peso": 5.7,
    "fiable": false
+  },
+  {
+   "equipo": "Borussia Mönchengladbach",
+   "ataque": -0.044,
+   "defensa": -0.114,
+   "neto": -0.158,
+   "peso": 40.8,
+   "fiable": true
   },
   {
    "equipo": "VfL Wolfsburg",
    "ataque": -0.067,
    "defensa": -0.095,
    "neto": -0.162,
-   "peso": 35.2,
+   "peso": 35.1,
    "fiable": true
   },
   {
    "equipo": "1. FC Köln",
    "ataque": -0.116,
-   "defensa": -0.109,
+   "defensa": -0.11,
    "neto": -0.225,
    "peso": 30.8,
    "fiable": true
@@ -134,15 +134,15 @@
    "equipo": "Hamburger SV",
    "ataque": -0.192,
    "defensa": -0.049,
-   "neto": -0.242,
-   "peso": 25.9,
+   "neto": -0.241,
+   "peso": 25.8,
    "fiable": true
   },
   {
    "equipo": "SC Paderborn 07",
-   "ataque": -0.331,
+   "ataque": -0.329,
    "defensa": 0.085,
-   "neto": -0.246,
+   "neto": -0.244,
    "peso": 5.7,
    "fiable": false
   },
@@ -157,7 +157,7 @@
   {
    "equipo": "Holstein Kiel",
    "ataque": -0.002,
-   "defensa": -0.296,
+   "defensa": -0.297,
    "neto": -0.299,
    "peso": 10.1,
    "fiable": true
@@ -165,9 +165,9 @@
   {
    "equipo": "1. FC Heidenheim 1846",
    "ataque": -0.16,
-   "defensa": -0.149,
+   "defensa": -0.15,
    "neto": -0.309,
-   "peso": 35.2,
+   "peso": 35.1,
    "fiable": true
   },
   {
@@ -180,7 +180,7 @@
   },
   {
    "equipo": "VfL Bochum 1848",
-   "ataque": -0.297,
+   "ataque": -0.296,
    "defensa": -0.189,
    "neto": -0.485,
    "peso": 14.8,
@@ -188,7 +188,7 @@
   },
   {
    "equipo": "SV Darmstadt 98",
-   "ataque": -0.365,
+   "ataque": -0.364,
    "defensa": -0.336,
    "neto": -0.7,
    "peso": 5.0,
