@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-21",
- "actualizado": "2026-10-19T11:41:28+00:00",
+ "actualizado": "2026-10-19T19:36:38+00:00",
  "partidos": [
   {
    "id": 575368,
@@ -112,11 +112,11 @@
     "prob_X": 0.191,
     "prob_2": 0.226,
     "goles_esperados": [
-     2.165,
+     2.166,
      1.279
     ],
     "prob_over_2_5": 0.669,
-    "prob_btts": 0.632,
+    "prob_btts": 0.633,
     "marcadores": [
      [
       "2-1",
@@ -124,7 +124,7 @@
      ],
      [
       "1-1",
-      0.082
+      0.0819
      ],
      [
       "1-0",
@@ -224,7 +224,7 @@
      ],
      [
       "1-0",
-      0.0934
+      0.0935
      ],
      [
       "0-1",
@@ -327,11 +327,11 @@
      0.98
     ],
     "prob_over_2_5": 0.754,
-    "prob_btts": 0.588,
+    "prob_btts": 0.589,
     "marcadores": [
      [
       "2-0",
-      0.0851
+      0.085
      ],
      [
       "3-0",
@@ -345,7 +345,7 @@
     "cuotas_justas": [
      1.28,
      8.06,
-     10.25
+     10.24
     ],
     "resumen": "Gana Real Madrid CF (claro favorito, 78%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -436,7 +436,7 @@
    "prediccion": {
     "prob_1": 0.585,
     "prob_X": 0.203,
-    "prob_2": 0.212,
+    "prob_2": 0.213,
     "goles_esperados": [
      1.958,
      1.081
@@ -454,13 +454,13 @@
      ],
      [
       "1-1",
-      0.094
+      0.0939
      ]
     ],
     "cuotas_justas": [
      1.71,
      4.94,
-     4.71
+     4.7
     ],
     "resumen": "Gana FC Internazionale Milano (claro favorito, 58%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -567,17 +567,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.633,
+     "ataque": 0.632,
      "defensa": 0.357,
      "neto": 0.989,
-     "peso": 16.3,
+     "peso": 16.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.395,
      "defensa": 0.817,
      "neto": 1.212,
-     "peso": 16.8,
+     "peso": 16.7,
      "fiable": true
     },
     "forma_local": {
@@ -659,7 +659,7 @@
     "prob_X": 0.147,
     "prob_2": 0.163,
     "goles_esperados": [
-     2.95,
+     2.951,
      1.423
     ],
     "prob_over_2_5": 0.812,
@@ -983,9 +983,9 @@
    "nota": "pocos datos: 'Real Betis Balompié' solo tiene 1.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.411,
+     "ataque": 0.41,
      "defensa": -0.107,
-     "neto": 0.304,
+     "neto": 0.303,
      "peso": 1.9,
      "fiable": false
     },

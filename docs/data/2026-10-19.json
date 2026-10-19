@@ -1,132 +1,7 @@
 {
  "fecha": "2026-10-19",
- "actualizado": "2026-10-19T11:41:28+00:00",
+ "actualizado": "2026-10-19T19:36:38+00:00",
  "partidos": [
-  {
-   "id": 558576,
-   "competicion": "Serie A",
-   "competicion_codigo": "SA",
-   "fecha_utc": "2026-10-19T16:30:00Z",
-   "jornada": 7,
-   "local": "AC Monza",
-   "visitante": "Cagliari Calcio",
-   "prediccion": {
-    "prob_1": 0.285,
-    "prob_X": 0.264,
-    "prob_2": 0.451,
-    "goles_esperados": [
-     1.121,
-     1.476
-    ],
-    "prob_over_2_5": 0.481,
-    "prob_btts": 0.522,
-    "marcadores": [
-     [
-      "1-1",
-      0.1258
-     ],
-     [
-      "0-1",
-      0.1075
-     ],
-     [
-      "1-2",
-      0.091
-     ]
-    ],
-    "cuotas_justas": [
-     3.51,
-     3.78,
-     2.22
-    ],
-    "resumen": "Gana Cagliari Calcio (ligero favorito, 45%).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.147,
-     "defensa": -0.335,
-     "neto": -0.482,
-     "peso": 22.4,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.088,
-     "defensa": -0.012,
-     "neto": -0.1,
-     "peso": 44.9,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 1,
-     "e": 1,
-     "p": 3,
-     "gf": 8,
-     "gc": 11,
-     "racha": [
-      "P",
-      "E",
-      "P",
-      "G",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 3,
-     "e": 1,
-     "p": 1,
-     "gf": 5,
-     "gc": 3,
-     "racha": [
-      "P",
-      "G",
-      "G",
-      "G",
-      "E"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2025-03-30",
-      "local": "Cagliari Calcio",
-      "visitante": "AC Monza",
-      "goles_local": 3,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-01-05",
-      "local": "AC Monza",
-      "visitante": "Cagliari Calcio",
-      "goles_local": 1,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2024-03-16",
-      "local": "AC Monza",
-      "visitante": "Cagliari Calcio",
-      "goles_local": 1,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2023-11-26",
-      "local": "Cagliari Calcio",
-      "visitante": "AC Monza",
-      "goles_local": 1,
-      "goles_visitante": 1
-     }
-    ],
-    "explicacion": "Cagliari Calcio es más fuerte de fondo (neto -0.10 vs -0.48): es más completo en general. AC Monza juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.12 – 1.48; el modelo ve marcando más a Cagliari Calcio. Y la forma reciente lo confirma: Cagliari Calcio llega mejor (3G-1E-1P vs 1G-1E-3P).",
-    "recomendacion": {
-     "mercado": "X2",
-     "prob": 0.715,
-     "por_que": "Doble oportunidad: cubre que AC Monza no gane. El escenario que queda afuera (gane AC Monza) es el menos probable (29%), así que el mercado se cumple ~71% de las veces.",
-     "alternativa": null,
-     "confianza": "alta"
-    }
-   }
-  },
   {
    "id": 558578,
    "competicion": "Serie A",
@@ -136,15 +11,15 @@
    "local": "Parma Calcio 1913",
    "visitante": "Torino FC",
    "prediccion": {
-    "prob_1": 0.331,
+    "prob_1": 0.333,
     "prob_X": 0.304,
-    "prob_2": 0.366,
+    "prob_2": 0.363,
     "goles_esperados": [
-     1.022,
-     1.091
+     1.025,
+     1.085
     ],
-    "prob_over_2_5": 0.354,
-    "prob_btts": 0.428,
+    "prob_over_2_5": 0.353,
+    "prob_btts": 0.427,
     "marcadores": [
      [
       "1-1",
@@ -152,33 +27,33 @@
      ],
      [
       "0-1",
-      0.1291
+      0.1289
      ],
      [
       "0-0",
-      0.1236
+      0.124
      ]
     ],
     "cuotas_justas": [
-     3.03,
+     3.01,
      3.29,
-     2.73
+     2.75
     ],
     "resumen": "Partido parejo. pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.293,
-     "defensa": 0.004,
-     "neto": -0.289,
+     "ataque": -0.296,
+     "defensa": 0.005,
+     "neto": -0.291,
      "peso": 39.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.051,
+     "ataque": -0.054,
      "defensa": -0.066,
-     "neto": -0.117,
+     "neto": -0.12,
      "peso": 44.9,
      "fiable": true
     },
@@ -242,14 +117,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Torino FC es más fuerte de fondo (neto -0.12 vs -0.29): es más completo en general. Parma Calcio 1913 juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.02 – 1.09; el modelo ve marcando más a Torino FC. Y la forma reciente lo confirma: Torino FC llega mejor (2G-1E-2P vs 1G-1E-3P).",
+    "explicacion": "Torino FC es más fuerte de fondo (neto -0.12 vs -0.29): es más completo en general. Parma Calcio 1913 juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.02 – 1.08; el modelo ve marcando más a Torino FC. Y la forma reciente lo confirma: Torino FC llega mejor (2G-1E-2P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.646,
-     "por_que": "Pocos goles esperados en total (1.02 + 1.09 = 2.11). El modelo ve el partido cerrado (65% al under).",
+     "prob": 0.647,
+     "por_que": "Pocos goles esperados en total (1.02 + 1.08 = 2.11). El modelo ve el partido cerrado (65% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
-      "prob": 0.836
+      "prob": 0.837
      },
      "confianza": "alta"
     }
@@ -276,7 +151,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1299
+      0.1298
      ],
      [
       "1-0",
@@ -301,7 +176,7 @@
      "ataque": 0.004,
      "defensa": -0.058,
      "neto": -0.054,
-     "peso": 44.7,
+     "peso": 44.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -365,7 +240,7 @@
     "prob_X": 0.353,
     "prob_2": 0.284,
     "goles_esperados": [
-     0.899,
+     0.898,
      0.759
     ],
     "prob_over_2_5": 0.232,
@@ -402,7 +277,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.092,
-     "defensa": 0.113,
+     "defensa": 0.114,
      "neto": 0.022,
      "peso": 45.8,
      "fiable": true

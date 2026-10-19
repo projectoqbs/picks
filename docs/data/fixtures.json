@@ -1,22 +1,12 @@
 {
- "actualizado": "2026-10-19T11:41:25+00:00",
+ "actualizado": "2026-10-19T19:36:34+00:00",
  "fixtures": [
-  {
-   "id": 558576,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-10-19T16:30:00Z",
-   "estado": "TIMED",
-   "jornada": 7,
-   "local": "AC Monza",
-   "visitante": "Cagliari Calcio"
-  },
   {
    "id": 558578,
    "competicion_codigo": "SA",
    "competicion": "Serie A",
    "fecha_utc": "2026-10-19T18:45:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 7,
    "local": "Parma Calcio 1913",
    "visitante": "Torino FC"
@@ -26,7 +16,7 @@
    "competicion_codigo": "PL",
    "competicion": "Premier League",
    "fecha_utc": "2026-10-19T19:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 7,
    "local": "Tottenham Hotspur FC",
    "visitante": "Coventry City FC"
@@ -36,7 +26,7 @@
    "competicion_codigo": "PD",
    "competicion": "La Liga",
    "fecha_utc": "2026-10-19T19:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 9,
    "local": "Getafe CF",
    "visitante": "Rayo Vallecano de Madrid"

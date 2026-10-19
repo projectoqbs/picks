@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-24",
- "actualizado": "2026-10-19T11:41:28+00:00",
+ "actualizado": "2026-10-19T19:36:38+00:00",
  "partidos": [
   {
    "id": 560614,
@@ -148,7 +148,7 @@
    "prediccion": {
     "prob_1": 0.453,
     "prob_X": 0.273,
-    "prob_2": 0.273,
+    "prob_2": 0.274,
     "goles_esperados": [
      1.435,
      1.056
@@ -180,7 +180,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.092,
-     "defensa": 0.113,
+     "defensa": 0.114,
      "neto": 0.022,
      "peso": 45.8,
      "fiable": true
@@ -251,49 +251,49 @@
    "local": "Cagliari Calcio",
    "visitante": "Bologna FC 1909",
    "prediccion": {
-    "prob_1": 0.309,
-    "prob_X": 0.283,
-    "prob_2": 0.408,
+    "prob_1": 0.293,
+    "prob_X": 0.28,
+    "prob_2": 0.427,
     "goles_esperados": [
-     1.077,
-     1.281
+     1.053,
+     1.328
     ],
-    "prob_over_2_5": 0.419,
-    "prob_btts": 0.479,
+    "prob_over_2_5": 0.425,
+    "prob_btts": 0.481,
     "marcadores": [
      [
       "1-1",
-      0.1332
+      0.1318
      ],
      [
       "0-1",
-      0.1185
+      0.1202
      ],
      [
-      "1-0",
-      0.0992
+      "0-0",
+      0.095
      ]
     ],
     "cuotas_justas": [
-     3.24,
-     3.53,
-     2.45
+     3.41,
+     3.57,
+     2.34
     ],
-    "resumen": "Partido parejo. pocos goles (-2.5).",
+    "resumen": "Gana Bologna FC 1909 (ligero favorito, 43%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.088,
-     "defensa": -0.012,
-     "neto": -0.1,
-     "peso": 44.9,
+     "ataque": -0.117,
+     "defensa": -0.053,
+     "neto": -0.17,
+     "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.094,
+     "ataque": 0.091,
      "defensa": 0.086,
-     "neto": 0.18,
+     "neto": 0.177,
      "peso": 46.0,
      "fiable": true
     },
@@ -303,13 +303,13 @@
      "e": 1,
      "p": 1,
      "gf": 5,
-     "gc": 3,
+     "gc": 6,
      "racha": [
-      "P",
       "G",
       "G",
       "G",
-      "E"
+      "E",
+      "P"
      ]
     },
     "forma_visitante": {
@@ -364,14 +364,14 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Bologna FC 1909 es más fuerte de fondo (neto +0.18 vs -0.10): es más completo en general. Cagliari Calcio juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.08 – 1.28; el modelo ve marcando más a Bologna FC 1909. Pero ojo: en forma reciente Cagliari Calcio llega mejor que Bologna FC 1909, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Bologna FC 1909 es más fuerte de fondo (neto +0.18 vs -0.17): es más completo en general. Cagliari Calcio juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.05 – 1.33; el modelo ve marcando más a Bologna FC 1909. Pero ojo: en forma reciente Cagliari Calcio llega mejor que Bologna FC 1909, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.691,
-     "por_que": "Doble oportunidad: cubre que Cagliari Calcio no gane. El escenario que queda afuera (gane Cagliari Calcio) es el menos probable (31%), así que el mercado se cumple ~69% de las veces.",
+     "prob": 0.707,
+     "por_que": "Doble oportunidad: cubre que Cagliari Calcio no gane. El escenario que queda afuera (gane Cagliari Calcio) es el menos probable (29%), así que el mercado se cumple ~71% de las veces.",
      "alternativa": {
       "mercado": "Menos de 2.5 goles",
-      "prob": 0.581
+      "prob": 0.575
      },
      "confianza": "alta"
     }
@@ -386,49 +386,49 @@
    "local": "Como 1907",
    "visitante": "US Sassuolo Calcio",
    "prediccion": {
-    "prob_1": 0.622,
+    "prob_1": 0.624,
     "prob_X": 0.211,
-    "prob_2": 0.166,
+    "prob_2": 0.165,
     "goles_esperados": [
-     2.027,
-     0.946
+     2.03,
+     0.943
     ],
     "prob_over_2_5": 0.571,
-    "prob_btts": 0.533,
+    "prob_btts": 0.532,
     "marcadores": [
      [
       "2-0",
-      0.105
+      0.1054
      ],
      [
       "1-0",
-      0.1016
+      0.1019
      ],
      [
       "1-1",
-      0.1001
+      0.0998
      ]
     ],
     "cuotas_justas": [
-     1.61,
-     4.73,
-     6.02
+     1.6,
+     4.74,
+     6.06
     ],
     "resumen": "Gana Como 1907 (claro favorito, 62%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.306,
+     "ataque": 0.303,
      "defensa": 0.285,
-     "neto": 0.591,
+     "neto": 0.588,
      "peso": 40.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.088,
-     "defensa": -0.152,
-     "neto": -0.064,
+     "ataque": 0.086,
+     "defensa": -0.151,
+     "neto": -0.065,
      "peso": 34.7,
      "fiable": true
     },
@@ -478,14 +478,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.59 vs -0.06): ataca ~36% más que el promedio, encaja ~25% menos. Como 1907 juega en casa (~+11% de ventaja, ya contada). Goles esperados: 2.03 – 0.95; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (3G-1E-1P vs 1G-2E-2P).",
+    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.59 vs -0.07): ataca ~35% más que el promedio, encaja ~25% menos. Como 1907 juega en casa (~+12% de ventaja, ya contada). Goles esperados: 2.03 – 0.94; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (3G-1E-1P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.622,
-     "por_que": "Como 1907 es favorito en casa: marca más (2.03 vs 0.95) y es más fuerte de fondo (neto +0.59 vs -0.06). Probabilidad: 62%.",
+     "prob": 0.624,
+     "por_que": "Como 1907 es favorito en casa: marca más (2.03 vs 0.94) y es más fuerte de fondo (neto +0.59 vs -0.07). Probabilidad: 62%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.834
+      "prob": 0.835
      },
      "confianza": "alta"
     }
@@ -672,7 +672,7 @@
      "ataque": -0.116,
      "defensa": -0.11,
      "neto": -0.225,
-     "peso": 30.8,
+     "peso": 30.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -839,7 +839,7 @@
     "prob_X": 0.299,
     "prob_2": 0.289,
     "goles_esperados": [
-     1.246,
+     1.247,
      1.001
     ],
     "prob_over_2_5": 0.39,
@@ -918,10 +918,7 @@
      "mercado": "Menos de 2.5 goles",
      "prob": 0.61,
      "por_que": "Pocos goles esperados en total (1.25 + 1.00 = 2.25). El modelo ve el partido cerrado (61% al under).",
-     "alternativa": {
-      "mercado": "Menos de 3.5 goles",
-      "prob": 0.81
-     },
+     "alternativa": null,
      "confianza": "baja"
     }
    }
@@ -951,7 +948,7 @@
      ],
      [
       "1-0",
-      0.0974
+      0.0975
      ],
      [
       "2-1",
@@ -978,7 +975,7 @@
      "ataque": -0.219,
      "defensa": -0.049,
      "neto": -0.268,
-     "peso": 40.6,
+     "peso": 40.5,
      "fiable": true
     },
     "forma_local": {
@@ -1113,7 +1110,7 @@
      "ataque": -0.125,
      "defensa": 0.186,
      "neto": 0.061,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "forma_local": {
@@ -1213,7 +1210,7 @@
      1.248
     ],
     "prob_over_2_5": 0.435,
-    "prob_btts": 0.503,
+    "prob_btts": 0.504,
     "marcadores": [
      [
       "1-1",
@@ -1325,7 +1322,7 @@
      ],
      [
       "2-1",
-      0.0792
+      0.0791
      ]
     ],
     "cuotas_justas": [
@@ -1347,8 +1344,8 @@
     "fuerza_visitante": {
      "ataque": -0.086,
      "defensa": 0.039,
-     "neto": -0.047,
-     "peso": 42.2,
+     "neto": -0.046,
+     "peso": 42.1,
      "fiable": true
     },
     "forma_local": {
@@ -1430,7 +1427,7 @@
     "cuotas_justas": [
      1.39,
      5.71,
-     9.33
+     9.32
     ],
     "resumen": "Gana Toulouse FC (claro favorito, 72%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -1504,14 +1501,14 @@
    "local": "SSC Napoli",
    "visitante": "AS Roma",
    "prediccion": {
-    "prob_1": 0.322,
+    "prob_1": 0.324,
     "prob_X": 0.295,
-    "prob_2": 0.384,
+    "prob_2": 0.381,
     "goles_esperados": [
-     1.047,
-     1.17
+     1.05,
+     1.165
     ],
-    "prob_over_2_5": 0.382,
+    "prob_over_2_5": 0.381,
     "prob_btts": 0.45,
     "marcadores": [
      [
@@ -1520,33 +1517,33 @@
      ],
      [
       "0-1",
-      0.1247
+      0.1245
      ],
      [
-      "0-0",
-      0.1116
+      "1-0",
+      0.112
      ]
     ],
     "cuotas_justas": [
-     3.11,
+     3.09,
      3.39,
-     2.61
+     2.62
     ],
     "resumen": "Partido parejo. pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.218,
-     "defensa": 0.324,
-     "neto": 0.543,
+     "ataque": 0.215,
+     "defensa": 0.325,
+     "neto": 0.54,
      "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.34,
+     "ataque": 0.336,
      "defensa": 0.421,
-     "neto": 0.761,
+     "neto": 0.757,
      "peso": 45.9,
      "fiable": true
     },
@@ -1617,11 +1614,11 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "AS Roma es más fuerte de fondo (neto +0.76 vs +0.54): ataca ~40% más que el promedio, encaja ~34% menos. SSC Napoli juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.05 – 1.17; el modelo ve marcando más a AS Roma. Y la forma reciente lo confirma: AS Roma llega mejor (3G-2E-0P vs 2G-1E-2P).",
+    "explicacion": "AS Roma es más fuerte de fondo (neto +0.76 vs +0.54): ataca ~40% más que el promedio, encaja ~34% menos. SSC Napoli juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.05 – 1.17; el modelo ve marcando más a AS Roma. Y la forma reciente lo confirma: AS Roma llega mejor (3G-2E-0P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.618,
-     "por_que": "Pocos goles esperados en total (1.05 + 1.17 = 2.22); la defensa de AS Roma aprieta. El modelo ve el partido cerrado (62% al under).",
+     "prob": 0.619,
+     "por_que": "Pocos goles esperados en total (1.05 + 1.17 = 2.21); la defensa de AS Roma aprieta. El modelo ve el partido cerrado (62% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
       "prob": 0.816
@@ -1675,14 +1672,14 @@
      "ataque": 0.276,
      "defensa": 0.04,
      "neto": 0.316,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.004,
      "defensa": -0.058,
      "neto": -0.054,
-     "peso": 44.7,
+     "peso": 44.6,
      "fiable": true
     },
     "forma_local": {
@@ -1810,7 +1807,7 @@
      "ataque": -0.098,
      "defensa": 0.033,
      "neto": -0.065,
-     "peso": 47.8,
+     "peso": 47.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2044,49 +2041,49 @@
    "local": "SS Lazio",
    "visitante": "Parma Calcio 1913",
    "prediccion": {
-    "prob_1": 0.548,
-    "prob_X": 0.274,
-    "prob_2": 0.178,
+    "prob_1": 0.55,
+    "prob_X": 0.273,
+    "prob_2": 0.177,
     "goles_esperados": [
-     1.445,
-     0.7
+     1.448,
+     0.695
     ],
     "prob_over_2_5": 0.362,
-    "prob_btts": 0.387,
+    "prob_btts": 0.386,
     "marcadores": [
      [
       "1-0",
-      0.1668
+      0.1674
      ],
      [
       "2-0",
-      0.1222
+      0.1229
      ],
      [
       "1-1",
-      0.1208
+      0.1204
      ]
     ],
     "cuotas_justas": [
-     1.83,
-     3.65,
-     5.6
+     1.82,
+     3.66,
+     5.65
     ],
     "resumen": "Gana SS Lazio (ligero favorito, 55%). pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.123,
-     "defensa": 0.206,
-     "neto": 0.329,
+     "ataque": 0.121,
+     "defensa": 0.207,
+     "neto": 0.328,
      "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.293,
-     "defensa": 0.004,
-     "neto": -0.289,
+     "ataque": -0.296,
+     "defensa": 0.005,
+     "neto": -0.291,
      "peso": 39.3,
      "fiable": true
     },
@@ -2150,11 +2147,11 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "SS Lazio es más fuerte de fondo (neto +0.33 vs -0.29): ataca ~13% más que el promedio, encaja ~19% menos. SS Lazio juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.45 – 0.70; el modelo ve marcando más a SS Lazio. Y la forma reciente lo confirma: SS Lazio llega mejor (4G-1E-0P vs 1G-1E-3P).",
+    "explicacion": "SS Lazio es más fuerte de fondo (neto +0.33 vs -0.29): ataca ~13% más que el promedio, encaja ~19% menos. SS Lazio juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.45 – 0.69; el modelo ve marcando más a SS Lazio. Y la forma reciente lo confirma: SS Lazio llega mejor (4G-1E-0P vs 1G-1E-3P).",
     "recomendacion": {
-     "mercado": "Menos de 2.5 goles",
-     "prob": 0.638,
-     "por_que": "Pocos goles esperados en total (1.45 + 0.70 = 2.15); la defensa de SS Lazio aprieta. El modelo ve el partido cerrado (64% al under).",
+     "mercado": "1X",
+     "prob": 0.823,
+     "por_que": "Doble oportunidad: cubre que SS Lazio no pierda. El escenario que queda afuera (gane Parma Calcio 1913) es el menos probable (18%), así que el mercado se cumple ~82% de las veces.",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
       "prob": 0.83
@@ -2174,10 +2171,10 @@
    "prediccion": {
     "prob_1": 0.507,
     "prob_X": 0.248,
-    "prob_2": 0.245,
+    "prob_2": 0.244,
     "goles_esperados": [
      1.688,
-     1.102
+     1.101
     ],
     "prob_over_2_5": 0.528,
     "prob_btts": 0.548,
@@ -2208,7 +2205,7 @@
      "ataque": 0.239,
      "defensa": 0.229,
      "neto": 0.468,
-     "peso": 41.5,
+     "peso": 41.4,
      "fiable": true
     },
     "fuerza_visitante": {

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-20",
- "actualizado": "2026-10-19T11:41:28+00:00",
+ "actualizado": "2026-10-19T19:36:38+00:00",
  "partidos": [
   {
    "id": 575359,
@@ -11,19 +11,19 @@
    "local": "Sabah FK",
    "visitante": "Borussia Dortmund",
    "prediccion": {
-    "prob_1": 0.245,
+    "prob_1": 0.246,
     "prob_X": 0.205,
     "prob_2": 0.549,
     "goles_esperados": [
      1.224,
      1.945
     ],
-    "prob_over_2_5": 0.613,
+    "prob_over_2_5": 0.614,
     "prob_btts": 0.598,
     "marcadores": [
      [
       "1-2",
-      0.0974
+      0.0973
      ],
      [
       "1-1",
@@ -89,7 +89,7 @@
     "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.34 vs -0.43): ataca ~22% más que el promedio, encaja ~13% menos. Sabah FK juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.22 – 1.95; el modelo ve marcando más a Borussia Dortmund. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Sabah FK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.755,
+     "prob": 0.754,
      "por_que": "Doble oportunidad: cubre que Sabah FK no gane. El escenario que queda afuera (gane Sabah FK) es el menos probable (25%), así que el mercado se cumple ~75% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -120,7 +120,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1057
+      0.1056
      ],
      [
       "1-0",
@@ -149,9 +149,9 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": -0.468,
+     "ataque": -0.467,
      "defensa": -0.304,
-     "neto": -0.772,
+     "neto": -0.771,
      "peso": 6.2,
      "fiable": false
     },
@@ -231,7 +231,7 @@
     "cuotas_justas": [
      1.46,
      5.67,
-     7.32
+     7.31
     ],
     "resumen": "Gana Manchester City FC (claro favorito, 69%).",
     "confianza": "baja"
@@ -239,7 +239,7 @@
    "nota": "pocos datos: 'PAE AEK' solo tiene 1.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.198,
+     "ataque": 0.197,
      "defensa": 0.125,
      "neto": 0.322,
      "peso": 11.7,
@@ -337,7 +337,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.124,
-     "defensa": 0.129,
+     "defensa": 0.128,
      "neto": 0.252,
      "peso": 4.1,
      "fiable": false
@@ -407,7 +407,7 @@
     "prob_2": 0.053,
     "goles_esperados": [
      3.279,
-     0.736
+     0.737
     ],
     "prob_over_2_5": 0.764,
     "prob_btts": 0.498,
@@ -427,7 +427,7 @@
     ],
     "cuotas_justas": [
      1.17,
-     11.13,
+     11.14,
      18.79
     ],
     "resumen": "Gana Liverpool FC (claro favorito, 86%). se esperan goles (+2.5).",
@@ -518,17 +518,17 @@
      ],
      [
       "2-1",
-      0.0772
+      0.0771
      ],
      [
       "3-0",
-      0.0688
+      0.0687
      ]
     ],
     "cuotas_justas": [
      1.31,
      8.05,
-     9.01
+     9.02
     ],
     "resumen": "Gana AS Roma (claro favorito, 76%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -603,7 +603,7 @@
     "prob_X": 0.21,
     "prob_2": 0.346,
     "goles_esperados": [
-     1.829,
+     1.83,
      1.595
     ],
     "prob_over_2_5": 0.665,
@@ -733,7 +733,7 @@
    "nota": "pocos datos: 'SSC Napoli' solo tiene 7.3 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.325,
+     "ataque": -0.324,
      "defensa": -0.057,
      "neto": -0.382,
      "peso": 7.3,
@@ -804,14 +804,14 @@
     "prob_2": 0.166,
     "goles_esperados": [
      3.392,
-     1.731
+     1.73
     ],
     "prob_over_2_5": 0.885,
-    "prob_btts": 0.793,
+    "prob_btts": 0.792,
     "marcadores": [
      [
       "3-1",
-      0.0671
+      0.0672
      ],
      [
       "2-1",
@@ -834,12 +834,12 @@
     "fuerza_local": {
      "ataque": 0.746,
      "defensa": 0.354,
-     "neto": 1.1,
+     "neto": 1.099,
      "peso": 19.4,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.605,
+     "ataque": 0.604,
      "defensa": 0.124,
      "neto": 0.729,
      "peso": 14.5,

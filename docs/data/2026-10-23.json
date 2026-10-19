@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-23",
- "actualizado": "2026-10-19T11:41:28+00:00",
+ "actualizado": "2026-10-19T19:36:38+00:00",
  "partidos": [
   {
    "id": 565833,
@@ -13,7 +13,7 @@
    "prediccion": {
     "prob_1": 0.666,
     "prob_X": 0.184,
-    "prob_2": 0.15,
+    "prob_2": 0.149,
     "goles_esperados": [
      2.47,
      1.114
@@ -146,50 +146,50 @@
    "local": "Torino FC",
    "visitante": "AC Monza",
    "prediccion": {
-    "prob_1": 0.522,
-    "prob_X": 0.244,
-    "prob_2": 0.234,
+    "prob_1": 0.485,
+    "prob_X": 0.247,
+    "prob_2": 0.268,
     "goles_esperados": [
-     1.705,
-     1.063
+     1.658,
+     1.172
     ],
-    "prob_over_2_5": 0.523,
-    "prob_btts": 0.538,
+    "prob_over_2_5": 0.538,
+    "prob_btts": 0.561,
     "marcadores": [
      [
       "1-1",
-      0.1161
+      0.1169
      ],
      [
       "1-0",
-      0.1047
+      0.0955
      ],
      [
       "2-1",
-      0.097
+      0.0951
      ]
     ],
     "cuotas_justas": [
-     1.92,
-     4.09,
-     4.28
+     2.06,
+     4.04,
+     3.74
     ],
-    "resumen": "Gana Torino FC (ligero favorito, 52%).",
+    "resumen": "Gana Torino FC (ligero favorito, 48%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.051,
+     "ataque": -0.054,
      "defensa": -0.066,
-     "neto": -0.117,
+     "neto": -0.12,
      "peso": 44.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.147,
-     "defensa": -0.335,
-     "neto": -0.482,
-     "peso": 22.4,
+     "ataque": -0.048,
+     "defensa": -0.305,
+     "neto": -0.353,
+     "peso": 23.4,
      "fiable": true
     },
     "forma_local": {
@@ -209,17 +209,17 @@
     },
     "forma_visitante": {
      "pj": 5,
-     "g": 1,
+     "g": 2,
      "e": 1,
-     "p": 3,
-     "gf": 8,
-     "gc": 11,
+     "p": 2,
+     "gf": 10,
+     "gc": 8,
      "racha": [
-      "P",
       "E",
       "P",
       "G",
-      "P"
+      "P",
+      "G"
      ]
     },
     "cara_a_cara": [
@@ -252,12 +252,15 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Torino FC es más fuerte de fondo (neto -0.12 vs -0.48): es más completo en general. Torino FC juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.71 – 1.06; el modelo ve marcando más a Torino FC. Y la forma reciente lo confirma: Torino FC llega mejor (2G-1E-2P vs 1G-1E-3P).",
+    "explicacion": "Torino FC es más fuerte de fondo (neto -0.12 vs -0.35): es más completo en general. Torino FC juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.66 – 1.17; el modelo ve marcando más a Torino FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.766,
-     "por_que": "Doble oportunidad: cubre que Torino FC no pierda. El escenario que queda afuera (gane AC Monza) es el menos probable (23%), así que el mercado se cumple ~77% de las veces.",
-     "alternativa": null,
+     "prob": 0.732,
+     "por_que": "Doble oportunidad: cubre que Torino FC no pierda. El escenario que queda afuera (gane AC Monza) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
+     "alternativa": {
+      "mercado": "Ambos marcan: Sí",
+      "prob": 0.561
+     },
      "confianza": "alta"
     }
    }
@@ -408,7 +411,7 @@
     "prob_2": 0.477,
     "goles_esperados": [
      1.229,
-     1.712
+     1.713
     ],
     "prob_over_2_5": 0.564,
     "prob_btts": 0.59,
@@ -550,7 +553,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.054,
+     "ataque": -0.055,
      "defensa": 0.078,
      "neto": 0.024,
      "peso": 47.7,
@@ -558,7 +561,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.403,
-     "defensa": -0.251,
+     "defensa": -0.252,
      "neto": -0.654,
      "peso": 8.4,
      "fiable": true
