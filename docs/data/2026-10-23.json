@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-23",
- "actualizado": "2026-10-20T10:44:17+00:00",
+ "actualizado": "2026-10-20T18:14:04+00:00",
  "partidos": [
   {
    "id": 565833,
@@ -13,12 +13,12 @@
    "prediccion": {
     "prob_1": 0.666,
     "prob_X": 0.184,
-    "prob_2": 0.15,
+    "prob_2": 0.149,
     "goles_esperados": [
      2.47,
      1.114
     ],
-    "prob_over_2_5": 0.695,
+    "prob_over_2_5": 0.694,
     "prob_btts": 0.619,
     "marcadores": [
      [
@@ -45,16 +45,16 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.289,
-     "defensa": 0.125,
+     "defensa": 0.126,
      "neto": 0.415,
-     "peso": 40.8,
+     "peso": 40.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.044,
      "defensa": -0.114,
      "neto": -0.158,
-     "peso": 40.8,
+     "peso": 40.7,
      "fiable": true
     },
     "forma_local": {
@@ -189,7 +189,7 @@
      "ataque": -0.049,
      "defensa": -0.305,
      "neto": -0.354,
-     "peso": 23.4,
+     "peso": 23.3,
      "fiable": true
     },
     "forma_local": {
@@ -315,9 +315,9 @@
     },
     "fuerza_visitante": {
      "ataque": -0.043,
-     "defensa": 0.047,
+     "defensa": 0.046,
      "neto": 0.003,
-     "peso": 41.4,
+     "peso": 41.3,
      "fiable": true
     },
     "forma_local": {
@@ -446,7 +446,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.403,
+     "ataque": -0.402,
      "defensa": -0.252,
      "neto": -0.654,
      "peso": 8.4,

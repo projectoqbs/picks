@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-25",
- "actualizado": "2026-10-20T10:44:17+00:00",
+ "actualizado": "2026-10-20T18:14:04+00:00",
  "partidos": [
   {
    "id": 558563,
@@ -172,7 +172,7 @@
     "cuotas_justas": [
      2.1,
      3.05,
-     5.13
+     5.12
     ],
     "resumen": "Gana Athletic Club (ligero favorito, 48%). pocos goles (-2.5).",
     "confianza": "alta"
@@ -182,7 +182,7 @@
      "ataque": 0.015,
      "defensa": 0.211,
      "neto": 0.226,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -317,13 +317,13 @@
      "ataque": 0.283,
      "defensa": 0.197,
      "neto": 0.48,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.21,
      "defensa": -0.129,
-     "neto": 0.081,
+     "neto": 0.08,
      "peso": 12.2,
      "fiable": true
     },
@@ -438,7 +438,7 @@
      "ataque": -0.252,
      "defensa": -0.238,
      "neto": -0.49,
-     "peso": 17.8,
+     "peso": 17.7,
      "fiable": true
     },
     "forma_local": {
@@ -513,7 +513,7 @@
     "prob_X": 0.27,
     "prob_2": 0.322,
     "goles_esperados": [
-     1.391,
+     1.392,
      1.21
     ],
     "prob_over_2_5": 0.482,
@@ -533,7 +533,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.46,
+     2.45,
      3.7,
      3.1
     ],
@@ -552,7 +552,7 @@
      "ataque": 0.087,
      "defensa": 0.376,
      "neto": 0.464,
-     "peso": 41.4,
+     "peso": 41.3,
      "fiable": true
     },
     "forma_local": {
@@ -677,7 +677,7 @@
      "ataque": 0.307,
      "defensa": 0.166,
      "neto": 0.473,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -796,7 +796,7 @@
      ],
      [
       "2-1",
-      0.0811
+      0.0812
      ]
     ],
     "cuotas_justas": [
@@ -819,7 +819,7 @@
      "ataque": 0.191,
      "defensa": -0.016,
      "neto": 0.175,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "forma_local": {
@@ -947,14 +947,14 @@
      "ataque": 0.165,
      "defensa": 0.083,
      "neto": 0.247,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.115,
      "defensa": 0.047,
      "neto": 0.162,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "forma_local": {
@@ -1182,7 +1182,7 @@
      "ataque": 0.181,
      "defensa": -0.117,
      "neto": 0.065,
-     "peso": 40.8,
+     "peso": 40.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1429,7 +1429,7 @@
      ],
      [
       "1-0",
-      0.1014
+      0.1013
      ],
      [
       "2-1",
@@ -1552,7 +1552,7 @@
     "prob_X": 0.222,
     "prob_2": 0.31,
     "goles_esperados": [
-     1.976,
+     1.977,
      1.588
     ],
     "prob_over_2_5": 0.691,
@@ -1584,7 +1584,7 @@
      "ataque": 0.275,
      "defensa": -0.029,
      "neto": 0.246,
-     "peso": 41.4,
+     "peso": 41.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1665,7 +1665,7 @@
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.691,
-     "por_que": "Bastantes goles esperados (1.98 + 1.59 = 3.56); al menos una defensa floja. Probabilidad al over: 69%.",
+     "por_que": "Bastantes goles esperados (1.98 + 1.59 = 3.57); al menos una defensa floja. Probabilidad al over: 69%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.874
@@ -1718,7 +1718,7 @@
     "fuerza_local": {
      "ataque": -0.315,
      "defensa": -0.055,
-     "neto": -0.369,
+     "neto": -0.37,
      "peso": 36.4,
      "fiable": true
     },
@@ -1797,12 +1797,12 @@
    "local": "AJ Auxerre",
    "visitante": "Le Mans FC",
    "prediccion": {
-    "prob_1": 0.476,
+    "prob_1": 0.477,
     "prob_X": 0.236,
     "prob_2": 0.287,
     "goles_esperados": [
      1.807,
-     1.363
+     1.362
     ],
     "prob_over_2_5": 0.614,
     "prob_btts": 0.625,
@@ -1831,7 +1831,7 @@
    "nota": "pocos datos: 'Le Mans FC' solo tiene 6.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.045,
+     "ataque": -0.044,
      "defensa": -0.008,
      "neto": -0.053,
      "peso": 36.4,
@@ -1902,7 +1902,7 @@
     "prob_2": 0.689,
     "goles_esperados": [
      1.259,
-     2.781
+     2.78
     ],
     "prob_over_2_5": 0.768,
     "prob_btts": 0.675,
@@ -1940,7 +1940,7 @@
      "ataque": 0.783,
      "defensa": 0.356,
      "neto": 1.139,
-     "peso": 40.8,
+     "peso": 40.7,
      "fiable": true
     },
     "forma_local": {
@@ -2162,7 +2162,7 @@
      ],
      [
       "0-2",
-      0.1284
+      0.1283
      ],
      [
       "1-1",
