@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-26",
- "actualizado": "2026-10-19T19:36:38+00:00",
+ "actualizado": "2026-10-20T10:44:17+00:00",
  "partidos": [
   {
    "id": 564721,
@@ -11,11 +11,11 @@
    "local": "Sevilla FC",
    "visitante": "CA Osasuna",
    "prediccion": {
-    "prob_1": 0.473,
+    "prob_1": 0.472,
     "prob_X": 0.259,
     "prob_2": 0.269,
     "goles_esperados": [
-     1.577,
+     1.576,
      1.13
     ],
     "prob_over_2_5": 0.508,
@@ -23,35 +23,35 @@
     "marcadores": [
      [
       "1-1",
-      0.123
+      0.1235
      ],
      [
       "1-0",
-      0.1012
+      0.1008
      ],
      [
       "2-1",
-      0.0938
+      0.0937
      ]
     ],
     "cuotas_justas": [
      2.12,
-     3.87,
-     3.72
+     3.85,
+     3.73
     ],
     "resumen": "Gana Sevilla FC (ligero favorito, 47%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.035,
-     "defensa": -0.043,
+     "ataque": 0.034,
+     "defensa": -0.042,
      "neto": -0.008,
      "peso": 47.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.032,
+     "ataque": -0.033,
      "defensa": -0.022,
      "neto": -0.054,
      "peso": 47.7,
@@ -127,7 +127,7 @@
     "explicacion": "En fuerza de temporada están parejos (neto -0.01 vs -0.05). Sevilla FC juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.58 – 1.13; el modelo ve marcando más a Sevilla FC. En forma reciente pinta algo mejor Sevilla FC (2G-1E-2P vs 1G-1E-3P en 5).",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.731,
+     "prob": 0.732,
      "por_que": "Doble oportunidad: cubre que Sevilla FC no pierda. El escenario que queda afuera (gane CA Osasuna) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
      "alternativa": null,
      "confianza": "alta"

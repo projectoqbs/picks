@@ -1,0 +1,501 @@
+{
+ "fecha": "2026-10-30",
+ "actualizado": "2026-10-20T10:44:17+00:00",
+ "partidos": [
+  {
+   "id": 559644,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-10-30T18:00:00Z",
+   "jornada": 9,
+   "local": "Le Havre AC",
+   "visitante": "Paris Saint-Germain FC",
+   "prediccion": {
+    "prob_1": 0.122,
+    "prob_X": 0.196,
+    "prob_2": 0.681,
+    "goles_esperados": [
+     0.783,
+     2.128
+    ],
+    "prob_over_2_5": 0.556,
+    "prob_btts": 0.481,
+    "marcadores": [
+     [
+      "0-2",
+      0.1233
+     ],
+     [
+      "0-1",
+      0.113
+     ],
+     [
+      "1-2",
+      0.0965
+     ]
+    ],
+    "cuotas_justas": [
+     8.16,
+     5.09,
+     1.47
+    ],
+    "resumen": "Gana Paris Saint-Germain FC (claro favorito, 68%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.265,
+     "defensa": -0.01,
+     "neto": -0.275,
+     "peso": 41.4,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.525,
+     "defensa": 0.396,
+     "neto": 0.921,
+     "peso": 41.4,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 0,
+     "e": 1,
+     "p": 4,
+     "gf": 4,
+     "gc": 9,
+     "racha": [
+      "P",
+      "E",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 4,
+     "e": 0,
+     "p": 1,
+     "gf": 10,
+     "gc": 5,
+     "racha": [
+      "P",
+      "G",
+      "G",
+      "G",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-02-28",
+      "local": "Le Havre AC",
+      "visitante": "Paris Saint-Germain FC",
+      "goles_local": 0,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-11-22",
+      "local": "Paris Saint-Germain FC",
+      "visitante": "Le Havre AC",
+      "goles_local": 3,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-04-19",
+      "local": "Paris Saint-Germain FC",
+      "visitante": "Le Havre AC",
+      "goles_local": 2,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-08-16",
+      "local": "Le Havre AC",
+      "visitante": "Paris Saint-Germain FC",
+      "goles_local": 1,
+      "goles_visitante": 4
+     },
+     {
+      "fecha": "2024-04-27",
+      "local": "Paris Saint-Germain FC",
+      "visitante": "Le Havre AC",
+      "goles_local": 3,
+      "goles_visitante": 3
+     }
+    ],
+    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.92 vs -0.28): ataca ~69% más que el promedio, encaja ~33% menos. Le Havre AC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 0.78 – 2.13; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-0E-1P vs 0G-1E-4P).",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.878,
+     "por_que": "Doble oportunidad: cubre que Le Havre AC no gane. El escenario que queda afuera (gane Le Havre AC) es el menos probable (12%), así que el mercado se cumple ~88% de las veces.",
+     "alternativa": {
+      "mercado": "12",
+      "prob": 0.804
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 565846,
+   "competicion": "Bundesliga",
+   "competicion_codigo": "BL1",
+   "fecha_utc": "2026-10-30T19:30:00Z",
+   "jornada": 8,
+   "local": "SV 07 Elversberg",
+   "visitante": "1. FSV Mainz 05",
+   "prediccion": {
+    "prob_1": 0.51,
+    "prob_X": 0.222,
+    "prob_2": 0.269,
+    "goles_esperados": [
+     2.072,
+     1.473
+    ],
+    "prob_over_2_5": 0.687,
+    "prob_btts": 0.679,
+    "marcadores": [
+     [
+      "1-1",
+      0.093
+     ],
+     [
+      "2-1",
+      0.0913
+     ],
+     [
+      "2-2",
+      0.0672
+     ]
+    ],
+    "cuotas_justas": [
+     1.96,
+     4.51,
+     3.72
+    ],
+    "resumen": "Gana SV 07 Elversberg (ligero favorito, 51%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'SV 07 Elversberg' solo tiene 5.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.313,
+     "defensa": -0.078,
+     "neto": 0.236,
+     "peso": 5.7,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": 0.032,
+     "defensa": 0.085,
+     "neto": 0.118,
+     "peso": 40.8,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 9,
+     "gc": 9,
+     "racha": [
+      "G",
+      "P",
+      "E",
+      "P",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 14,
+     "gc": 10,
+     "racha": [
+      "G",
+      "P",
+      "G",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "En fuerza de temporada están parejos (neto +0.24 vs +0.12). SV 07 Elversberg juega en casa (~+25% de ventaja, ya contada). Goles esperados: 2.07 – 1.47; el modelo ve marcando más a SV 07 Elversberg. En forma reciente pinta algo mejor 1. FSV Mainz 05 (2G-1E-2P vs 3G-0E-2P en 5). El modelo tiene pocos datos de SV 07 Elversberg: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "Más de 2.5 goles",
+     "prob": 0.687,
+     "por_que": "Bastantes goles esperados (2.07 + 1.47 = 3.54); al menos una defensa floja. Probabilidad al over: 69%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.874
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
+   "id": 564737,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-10-30T20:00:00Z",
+   "jornada": 11,
+   "local": "Villarreal CF",
+   "visitante": "RCD Espanyol de Barcelona",
+   "prediccion": {
+    "prob_1": 0.623,
+    "prob_X": 0.213,
+    "prob_2": 0.164,
+    "goles_esperados": [
+     2.05,
+     0.954
+    ],
+    "prob_over_2_5": 0.578,
+    "prob_btts": 0.539,
+    "marcadores": [
+     [
+      "2-0",
+      0.1042
+     ],
+     [
+      "1-1",
+      0.1006
+     ],
+     [
+      "2-1",
+      0.0994
+     ]
+    ],
+    "cuotas_justas": [
+     1.6,
+     4.7,
+     6.11
+    ],
+    "resumen": "Gana Villarreal CF (claro favorito, 62%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.359,
+     "defensa": 0.073,
+     "neto": 0.432,
+     "peso": 47.8,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.086,
+     "defensa": 0.04,
+     "neto": -0.046,
+     "peso": 42.1,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 7,
+     "gc": 5,
+     "racha": [
+      "P",
+      "G",
+      "G",
+      "P",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 5,
+     "gc": 7,
+     "racha": [
+      "G",
+      "P",
+      "P",
+      "E",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-02-09",
+      "local": "Villarreal CF",
+      "visitante": "RCD Espanyol de Barcelona",
+      "goles_local": 4,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-11-08",
+      "local": "RCD Espanyol de Barcelona",
+      "visitante": "Villarreal CF",
+      "goles_local": 0,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-04-27",
+      "local": "Villarreal CF",
+      "visitante": "RCD Espanyol de Barcelona",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-09-26",
+      "local": "RCD Espanyol de Barcelona",
+      "visitante": "Villarreal CF",
+      "goles_local": 1,
+      "goles_visitante": 2
+     }
+    ],
+    "explicacion": "Villarreal CF es más fuerte de fondo (neto +0.43 vs -0.05): ataca ~43% más que el promedio. Villarreal CF juega en casa (~+33% de ventaja, ya contada). Goles esperados: 2.05 – 0.95; el modelo ve marcando más a Villarreal CF. Y la forma reciente lo confirma: Villarreal CF llega mejor (2G-1E-2P vs 1G-1E-3P).",
+    "recomendacion": {
+     "mercado": "1",
+     "prob": 0.623,
+     "por_que": "Villarreal CF es favorito en casa: marca más (2.05 vs 0.95) y es más fuerte de fondo (neto +0.43 vs -0.05). Probabilidad: 62%.",
+     "alternativa": {
+      "mercado": "1X",
+      "prob": 0.836
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 559639,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-10-30T20:05:00Z",
+   "jornada": 9,
+   "local": "Lille OSC",
+   "visitante": "Racing Club de Lens",
+   "prediccion": {
+    "prob_1": 0.414,
+    "prob_X": 0.282,
+    "prob_2": 0.303,
+    "goles_esperados": [
+     1.316,
+     1.086
+    ],
+    "prob_over_2_5": 0.431,
+    "prob_btts": 0.489,
+    "marcadores": [
+     [
+      "1-1",
+      0.1334
+     ],
+     [
+      "1-0",
+      0.1151
+     ],
+     [
+      "0-0",
+      0.0945
+     ]
+    ],
+    "cuotas_justas": [
+     2.41,
+     3.54,
+     3.3
+    ],
+    "resumen": "Partido parejo.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.087,
+     "defensa": 0.376,
+     "neto": 0.464,
+     "peso": 41.4,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.239,
+     "defensa": 0.229,
+     "neto": 0.468,
+     "peso": 41.4,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 6,
+     "gc": 3,
+     "racha": [
+      "G",
+      "G",
+      "P",
+      "G",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 8,
+     "gc": 7,
+     "racha": [
+      "P",
+      "E",
+      "P",
+      "G",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-04-04",
+      "local": "Lille OSC",
+      "visitante": "Racing Club de Lens",
+      "goles_local": 3,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-09-20",
+      "local": "Racing Club de Lens",
+      "visitante": "Lille OSC",
+      "goles_local": 3,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-03-30",
+      "local": "Lille OSC",
+      "visitante": "Racing Club de Lens",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-10-26",
+      "local": "Racing Club de Lens",
+      "visitante": "Lille OSC",
+      "goles_local": 0,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-03-29",
+      "local": "Lille OSC",
+      "visitante": "Racing Club de Lens",
+      "goles_local": 2,
+      "goles_visitante": 1
+     }
+    ],
+    "explicacion": "En fuerza de temporada están parejos (neto +0.46 vs +0.47). Lille OSC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.32 – 1.09; el modelo ve marcando más a Lille OSC. En forma reciente pinta algo mejor Lille OSC (3G-1E-1P vs 2G-1E-2P en 5).",
+    "recomendacion": {
+     "mercado": "Menos de 2.5 goles",
+     "prob": 0.569,
+     "por_que": "Pocos goles esperados en total (1.32 + 1.09 = 2.40); la defensa de Lille OSC aprieta. El modelo ve el partido cerrado (57% al under).",
+     "alternativa": null,
+     "confianza": "alta"
+    }
+   }
+  }
+ ]
+}

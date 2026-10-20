@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-27",
- "actualizado": "2026-10-19T19:36:38+00:00",
+ "actualizado": "2026-10-20T10:44:17+00:00",
  "partidos": [
   {
    "id": 558556,
@@ -11,14 +11,14 @@
    "local": "US Sassuolo Calcio",
    "visitante": "SS Lazio",
    "prediccion": {
-    "prob_1": 0.285,
+    "prob_1": 0.284,
     "prob_X": 0.261,
-    "prob_2": 0.455,
+    "prob_2": 0.456,
     "goles_esperados": [
-     1.143,
-     1.51
+     1.14,
+     1.512
     ],
-    "prob_over_2_5": 0.495,
+    "prob_over_2_5": 0.494,
     "prob_btts": 0.533,
     "marcadores": [
      [
@@ -27,32 +27,32 @@
      ],
      [
       "0-1",
-      0.104
+      0.1042
      ],
      [
       "1-2",
-      0.0918
+      0.0919
      ]
     ],
     "cuotas_justas": [
-     3.51,
+     3.52,
      3.84,
-     2.2
+     2.19
     ],
-    "resumen": "Gana SS Lazio (ligero favorito, 45%).",
+    "resumen": "Gana SS Lazio (ligero favorito, 46%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
      "ataque": 0.086,
-     "defensa": -0.151,
-     "neto": -0.065,
-     "peso": 34.7,
+     "defensa": -0.149,
+     "neto": -0.064,
+     "peso": 34.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.121,
-     "defensa": 0.207,
+     "defensa": 0.208,
      "neto": 0.328,
      "peso": 45.9,
      "fiable": true
@@ -117,10 +117,10 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "SS Lazio es más fuerte de fondo (neto +0.33 vs -0.07): ataca ~13% más que el promedio, encaja ~19% menos. US Sassuolo Calcio juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.14 – 1.51; el modelo ve marcando más a SS Lazio. Y la forma reciente lo confirma: SS Lazio llega mejor (4G-1E-0P vs 1G-2E-2P).",
+    "explicacion": "SS Lazio es más fuerte de fondo (neto +0.33 vs -0.06): ataca ~13% más que el promedio, encaja ~19% menos. US Sassuolo Calcio juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.14 – 1.51; el modelo ve marcando más a SS Lazio. Y la forma reciente lo confirma: SS Lazio llega mejor (4G-1E-0P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.715,
+     "prob": 0.716,
      "por_que": "Doble oportunidad: cubre que US Sassuolo Calcio no gane. El escenario que queda afuera (gane US Sassuolo Calcio) es el menos probable (28%), así que el mercado se cumple ~72% de las veces.",
      "alternativa": null,
      "confianza": "alta"
@@ -136,50 +136,50 @@
    "local": "AS Roma",
    "visitante": "Cagliari Calcio",
    "prediccion": {
-    "prob_1": 0.665,
-    "prob_X": 0.213,
+    "prob_1": 0.664,
+    "prob_X": 0.214,
     "prob_2": 0.122,
     "goles_esperados": [
-     1.904,
-     0.672
+     1.899,
+     0.673
     ],
-    "prob_over_2_5": 0.475,
+    "prob_over_2_5": 0.474,
     "prob_btts": 0.418,
     "marcadores": [
      [
       "1-0",
-      0.1429
+      0.1431
      ],
      [
       "2-0",
-      0.1379
+      0.1378
      ],
      [
       "1-1",
-      0.0993
+      0.0996
      ]
     ],
     "cuotas_justas": [
-     1.5,
-     4.69,
-     8.22
+     1.51,
+     4.68,
+     8.18
     ],
-    "resumen": "Gana AS Roma (claro favorito, 67%).",
+    "resumen": "Gana AS Roma (claro favorito, 66%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
      "ataque": 0.336,
-     "defensa": 0.421,
-     "neto": 0.757,
+     "defensa": 0.422,
+     "neto": 0.758,
      "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.117,
-     "defensa": -0.053,
+     "ataque": -0.118,
+     "defensa": -0.052,
      "neto": -0.17,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "forma_local": {
@@ -256,7 +256,7 @@
      "por_que": "Doble oportunidad: cubre que AS Roma no pierda. El escenario que queda afuera (gane Cagliari Calcio) es el menos probable (12%), así que el mercado se cumple ~88% de las veces.",
      "alternativa": {
       "mercado": "12",
-      "prob": 0.787
+      "prob": 0.786
      },
      "confianza": "alta"
     }
@@ -271,64 +271,64 @@
    "local": "Torino FC",
    "visitante": "Como 1907",
    "prediccion": {
-    "prob_1": 0.205,
-    "prob_X": 0.248,
-    "prob_2": 0.547,
+    "prob_1": 0.215,
+    "prob_X": 0.251,
+    "prob_2": 0.534,
     "goles_esperados": [
-     0.919,
-     1.664
+     0.949,
+     1.643
     ],
-    "prob_over_2_5": 0.477,
-    "prob_btts": 0.49,
+    "prob_over_2_5": 0.479,
+    "prob_btts": 0.497,
     "marcadores": [
      [
       "0-1",
-      0.1234
+      0.1207
      ],
      [
       "1-1",
-      0.1178
+      0.1191
      ],
      [
       "0-2",
-      0.1046
+      0.1011
      ]
     ],
     "cuotas_justas": [
-     4.88,
-     4.03,
-     1.83
+     4.65,
+     3.99,
+     1.87
     ],
-    "resumen": "Gana Como 1907 (ligero favorito, 55%).",
+    "resumen": "Gana Como 1907 (ligero favorito, 53%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.054,
-     "defensa": -0.066,
-     "neto": -0.12,
-     "peso": 44.9,
+     "ataque": -0.02,
+     "defensa": -0.052,
+     "neto": -0.072,
+     "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.303,
+     "ataque": 0.301,
      "defensa": 0.285,
-     "neto": 0.588,
+     "neto": 0.586,
      "peso": 40.3,
      "fiable": true
     },
     "forma_local": {
      "pj": 5,
-     "g": 2,
+     "g": 3,
      "e": 1,
-     "p": 2,
-     "gf": 6,
-     "gc": 7,
+     "p": 1,
+     "gf": 8,
+     "gc": 5,
      "racha": [
-      "P",
       "G",
       "P",
       "E",
+      "G",
       "G"
      ]
     },
@@ -377,11 +377,11 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.59 vs -0.12): ataca ~35% más que el promedio, encaja ~25% menos. Torino FC juega en casa (~+12% de ventaja, ya contada). Goles esperados: 0.92 – 1.66; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (3G-1E-1P vs 2G-1E-2P).",
+    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.59 vs -0.07): ataca ~35% más que el promedio, encaja ~25% menos. Torino FC juega en casa (~+12% de ventaja, ya contada). Goles esperados: 0.95 – 1.64; el modelo ve marcando más a Como 1907. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.795,
-     "por_que": "Doble oportunidad: cubre que Torino FC no gane. El escenario que queda afuera (gane Torino FC) es el menos probable (21%), así que el mercado se cumple ~79% de las veces.",
+     "prob": 0.785,
+     "por_que": "Doble oportunidad: cubre que Torino FC no gane. El escenario que queda afuera (gane Torino FC) es el menos probable (22%), así que el mercado se cumple ~78% de las veces.",
      "alternativa": null,
      "confianza": "alta"
     }

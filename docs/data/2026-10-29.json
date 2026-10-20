@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-29",
- "actualizado": "2026-10-19T19:36:38+00:00",
+ "actualizado": "2026-10-20T10:44:17+00:00",
  "partidos": [
   {
    "id": 558558,
@@ -11,42 +11,42 @@
    "local": "Frosinone Calcio",
    "visitante": "US Lecce",
    "prediccion": {
-    "prob_1": 0.548,
+    "prob_1": 0.547,
     "prob_X": 0.245,
     "prob_2": 0.207,
     "goles_esperados": [
-     1.694,
-     0.942
+     1.691,
+     0.944
     ],
     "prob_over_2_5": 0.49,
-    "prob_btts": 0.5,
+    "prob_btts": 0.501,
     "marcadores": [
      [
       "1-0",
-      0.1191
+      0.119
      ],
      [
       "1-1",
-      0.1166
+      0.1168
      ],
      [
       "2-0",
-      0.1028
+      0.1025
      ]
     ],
     "cuotas_justas": [
-     1.82,
-     4.08,
-     4.84
+     1.83,
+     4.07,
+     4.82
     ],
     "resumen": "Gana Frosinone Calcio (ligero favorito, 55%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.209,
-     "defensa": -0.13,
-     "neto": 0.079,
+     "ataque": 0.21,
+     "defensa": -0.129,
+     "neto": 0.081,
      "peso": 12.2,
      "fiable": true
     },
@@ -54,7 +54,7 @@
      "ataque": -0.33,
      "defensa": -0.063,
      "neto": -0.393,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "forma_local": {
@@ -122,12 +122,12 @@
    "local": "ACF Fiorentina",
    "visitante": "Atalanta BC",
    "prediccion": {
-    "prob_1": 0.27,
+    "prob_1": 0.269,
     "prob_X": 0.252,
-    "prob_2": 0.478,
+    "prob_2": 0.479,
     "goles_esperados": [
-     1.151,
-     1.609
+     1.148,
+     1.612
     ],
     "prob_over_2_5": 0.521,
     "prob_btts": 0.549,
@@ -138,15 +138,15 @@
      ],
      [
       "0-1",
-      0.0995
+      0.0996
      ],
      [
       "1-2",
-      0.0943
+      0.0944
      ]
     ],
     "cuotas_justas": [
-     3.7,
+     3.71,
      3.97,
      2.09
     ],
@@ -156,15 +156,15 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.082,
-     "defensa": -0.052,
-     "neto": 0.03,
-     "peso": 46.0,
+     "defensa": -0.051,
+     "neto": 0.031,
+     "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.283,
-     "defensa": 0.196,
-     "neto": 0.479,
+     "defensa": 0.197,
+     "neto": 0.48,
      "peso": 45.9,
      "fiable": true
     },
@@ -238,7 +238,7 @@
     "explicacion": "Atalanta BC es más fuerte de fondo (neto +0.48 vs +0.03): ataca ~33% más que el promedio, encaja ~18% menos. ACF Fiorentina juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.15 – 1.61; el modelo ve marcando más a Atalanta BC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.73,
+     "prob": 0.731,
      "por_que": "Doble oportunidad: cubre que ACF Fiorentina no gane. El escenario que queda afuera (gane ACF Fiorentina) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
      "alternativa": null,
      "confianza": "alta"

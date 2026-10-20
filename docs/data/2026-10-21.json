@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-21",
- "actualizado": "2026-10-19T19:36:38+00:00",
+ "actualizado": "2026-10-20T10:44:17+00:00",
  "partidos": [
   {
    "id": 575368,
@@ -45,7 +45,7 @@
    "nota": "pocos datos: 'Como 1907' solo tiene 1.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.363,
+     "ataque": 0.362,
      "defensa": -0.132,
      "neto": 0.231,
      "peso": 1.9,
@@ -108,15 +108,15 @@
    "local": "Lille OSC",
    "visitante": "Galatasaray SK",
    "prediccion": {
-    "prob_1": 0.583,
+    "prob_1": 0.582,
     "prob_X": 0.191,
     "prob_2": 0.226,
     "goles_esperados": [
-     2.166,
+     2.165,
      1.279
     ],
     "prob_over_2_5": 0.669,
-    "prob_btts": 0.633,
+    "prob_btts": 0.632,
     "marcadores": [
      [
       "2-1",
@@ -209,31 +209,31 @@
    "visitante": "Athletic Club",
    "prediccion": {
     "prob_1": 0.372,
-    "prob_X": 0.272,
-    "prob_2": 0.356,
+    "prob_X": 0.273,
+    "prob_2": 0.355,
     "goles_esperados": [
      1.319,
      1.284
     ],
     "prob_over_2_5": 0.482,
-    "prob_btts": 0.534,
+    "prob_btts": 0.535,
     "marcadores": [
      [
       "1-1",
-      0.1297
+      0.1301
      ],
      [
       "1-0",
-      0.0935
+      0.0929
      ],
      [
       "0-1",
-      0.0909
+      0.0903
      ]
     ],
     "cuotas_justas": [
      2.69,
-     3.67,
+     3.66,
      2.81
     ],
     "resumen": "Partido parejo.",
@@ -242,7 +242,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.089,
-     "defensa": -0.122,
+     "defensa": -0.123,
      "neto": -0.034,
      "peso": 30.0,
      "fiable": true
@@ -356,7 +356,7 @@
      "ataque": 0.532,
      "defensa": 0.123,
      "neto": 0.655,
-     "peso": 16.3,
+     "peso": 16.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -454,7 +454,7 @@
      ],
      [
       "1-1",
-      0.0939
+      0.094
      ]
     ],
     "cuotas_justas": [
@@ -538,7 +538,7 @@
     "prob_X": 0.23,
     "prob_2": 0.359,
     "goles_esperados": [
-     1.514,
+     1.515,
      1.399
     ],
     "prob_over_2_5": 0.557,
@@ -568,7 +568,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.632,
-     "defensa": 0.357,
+     "defensa": 0.356,
      "neto": 0.989,
      "peso": 16.2,
      "fiable": true
@@ -659,7 +659,7 @@
     "prob_X": 0.147,
     "prob_2": 0.163,
     "goles_esperados": [
-     2.951,
+     2.95,
      1.423
     ],
     "prob_over_2_5": 0.812,
@@ -692,12 +692,12 @@
      "ataque": 0.321,
      "defensa": -0.11,
      "neto": 0.211,
-     "peso": 10.9,
+     "peso": 10.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.055,
-     "defensa": -0.162,
+     "defensa": -0.161,
      "neto": -0.216,
      "peso": 2.7,
      "fiable": false
@@ -759,7 +759,7 @@
     "prob_X": 0.107,
     "prob_2": 0.089,
     "goles_esperados": [
-     3.447,
+     3.446,
      1.159
     ],
     "prob_over_2_5": 0.838,
@@ -781,7 +781,7 @@
     "cuotas_justas": [
      1.24,
      9.35,
-     11.19
+     11.18
     ],
     "resumen": "Gana Aston Villa FC (claro favorito, 80%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -852,11 +852,11 @@
    "local": "Sporting Clube de Portugal",
    "visitante": "LASK Linz",
    "prediccion": {
-    "prob_1": 0.86,
+    "prob_1": 0.859,
     "prob_X": 0.082,
     "prob_2": 0.059,
     "goles_esperados": [
-     3.815,
+     3.813,
      1.03
     ],
     "prob_over_2_5": 0.861,
@@ -864,7 +864,7 @@
     "marcadores": [
      [
       "3-1",
-      0.0751
+      0.0752
      ],
      [
       "3-0",
@@ -877,8 +877,8 @@
     ],
     "cuotas_justas": [
      1.16,
-     12.21,
-     17.06
+     12.2,
+     17.04
     ],
     "resumen": "Gana Sporting Clube de Portugal (claro favorito, 86%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -889,7 +889,7 @@
      "ataque": 0.175,
      "defensa": 0.388,
      "neto": 0.563,
-     "peso": 11.7,
+     "peso": 11.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -930,7 +930,7 @@
     "explicacion": "Sporting Clube de Portugal es más fuerte de fondo (neto +0.56 vs -0.44): ataca ~19% más que el promedio, encaja ~32% menos. Sporting Clube de Portugal juega en casa (~+35% de ventaja, ya contada). Goles esperados: 3.81 – 1.03; el modelo ve marcando más a Sporting Clube de Portugal. Y la forma reciente lo confirma: Sporting Clube de Portugal llega mejor (3G-1E-1P vs 0G-0E-2P). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.86,
+     "prob": 0.859,
      "por_que": "Sporting Clube de Portugal es favorito en casa: marca más (3.81 vs 1.03) y es más fuerte de fondo (neto +0.56 vs -0.44). Probabilidad: 86%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -950,13 +950,13 @@
    "visitante": "Feyenoord Rotterdam",
    "prediccion": {
     "prob_1": 0.698,
-    "prob_X": 0.136,
+    "prob_X": 0.137,
     "prob_2": 0.165,
     "goles_esperados": [
-     3.384,
+     3.383,
      1.718
     ],
-    "prob_over_2_5": 0.884,
+    "prob_over_2_5": 0.883,
     "prob_btts": 0.79,
     "marcadores": [
      [
@@ -1027,7 +1027,7 @@
     "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.30 vs -0.07): ataca ~51% más que el promedio. Real Betis Balompié juega en casa (~+35% de ventaja, ya contada). Goles esperados: 3.38 – 1.72; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (2G-0E-0P vs 1G-1E-3P). El modelo tiene pocos datos de Real Betis Balompié: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.884,
+     "prob": 0.883,
      "por_que": "Bastantes goles esperados (3.38 + 1.72 = 5.10); al menos una defensa floja. Probabilidad al over: 88%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",

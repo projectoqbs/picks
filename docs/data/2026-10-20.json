@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-20",
- "actualizado": "2026-10-19T19:36:38+00:00",
+ "actualizado": "2026-10-20T10:44:17+00:00",
  "partidos": [
   {
    "id": 575359,
@@ -16,7 +16,7 @@
     "prob_2": 0.549,
     "goles_esperados": [
      1.224,
-     1.945
+     1.944
     ],
     "prob_over_2_5": 0.614,
     "prob_btts": 0.598,
@@ -55,7 +55,7 @@
      "ataque": 0.2,
      "defensa": 0.138,
      "neto": 0.338,
-     "peso": 13.6,
+     "peso": 13.5,
      "fiable": true
     },
     "forma_local": {
@@ -86,7 +86,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.34 vs -0.43): ataca ~22% más que el promedio, encaja ~13% menos. Sabah FK juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.22 – 1.95; el modelo ve marcando más a Borussia Dortmund. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Sabah FK: tomalo con pinzas.",
+    "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.34 vs -0.43): ataca ~22% más que el promedio, encaja ~13% menos. Sabah FK juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.22 – 1.94; el modelo ve marcando más a Borussia Dortmund. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Sabah FK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.754,
@@ -112,7 +112,7 @@
     "prob_X": 0.225,
     "prob_2": 0.279,
     "goles_esperados": [
-     1.669,
+     1.67,
      1.183
     ],
     "prob_over_2_5": 0.543,
@@ -124,7 +124,7 @@
      ],
      [
       "1-0",
-      0.1047
+      0.1046
      ],
      [
       "2-1",
@@ -210,7 +210,7 @@
     "prob_2": 0.137,
     "goles_esperados": [
      2.159,
-     0.822
+     0.823
     ],
     "prob_over_2_5": 0.573,
     "prob_btts": 0.489,
@@ -221,7 +221,7 @@
      ],
      [
       "1-0",
-      0.1161
+      0.116
      ],
      [
       "2-1",
@@ -306,7 +306,7 @@
     "prob_X": 0.21,
     "prob_2": 0.408,
     "goles_esperados": [
-     1.696,
+     1.697,
      1.76
     ],
     "prob_over_2_5": 0.671,
@@ -333,13 +333,13 @@
     "resumen": "Partido parejo. se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'VfB Stuttgart' solo tiene 4.1 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'VfB Stuttgart' solo tiene 4.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.124,
-     "defensa": 0.128,
+     "defensa": 0.129,
      "neto": 0.252,
-     "peso": 4.1,
+     "peso": 4.0,
      "fiable": false
     },
     "fuerza_visitante": {
@@ -427,8 +427,8 @@
     ],
     "cuotas_justas": [
      1.17,
-     11.14,
-     18.79
+     11.13,
+     18.78
     ],
     "resumen": "Gana Liverpool FC (claro favorito, 86%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -438,7 +438,7 @@
     "fuerza_local": {
      "ataque": 0.326,
      "defensa": 0.402,
-     "neto": 0.729,
+     "neto": 0.728,
      "peso": 11.7,
      "fiable": true
     },
@@ -506,8 +506,8 @@
     "prob_X": 0.124,
     "prob_2": 0.111,
     "goles_esperados": [
-     3.15,
-     1.178
+     3.151,
+     1.179
     ],
     "prob_over_2_5": 0.806,
     "prob_btts": 0.659,
@@ -528,7 +528,7 @@
     "cuotas_justas": [
      1.31,
      8.05,
-     9.02
+     9.01
     ],
     "resumen": "Gana AS Roma (claro favorito, 76%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -546,7 +546,7 @@
      "ataque": -0.357,
      "defensa": -0.46,
      "neto": -0.817,
-     "peso": 4.1,
+     "peso": 4.0,
      "fiable": false
     },
     "forma_local": {
@@ -603,7 +603,7 @@
     "prob_X": 0.21,
     "prob_2": 0.346,
     "goles_esperados": [
-     1.83,
+     1.829,
      1.595
     ],
     "prob_over_2_5": 0.665,
@@ -733,7 +733,7 @@
    "nota": "pocos datos: 'SSC Napoli' solo tiene 7.3 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.324,
+     "ataque": -0.325,
      "defensa": -0.057,
      "neto": -0.382,
      "peso": 7.3,
@@ -804,14 +804,14 @@
     "prob_2": 0.166,
     "goles_esperados": [
      3.392,
-     1.73
+     1.731
     ],
     "prob_over_2_5": 0.885,
-    "prob_btts": 0.792,
+    "prob_btts": 0.793,
     "marcadores": [
      [
       "3-1",
-      0.0672
+      0.0671
      ],
      [
       "2-1",
@@ -824,7 +824,7 @@
     ],
     "cuotas_justas": [
      1.43,
-     7.33,
+     7.32,
      6.01
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 70%). se esperan goles (+2.5). ambos marcan.",
@@ -839,7 +839,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.604,
+     "ataque": 0.605,
      "defensa": 0.124,
      "neto": 0.729,
      "peso": 14.5,

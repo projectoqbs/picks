@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-23",
- "actualizado": "2026-10-19T19:36:38+00:00",
+ "actualizado": "2026-10-20T10:44:17+00:00",
  "partidos": [
   {
    "id": 565833,
@@ -13,12 +13,12 @@
    "prediccion": {
     "prob_1": 0.666,
     "prob_X": 0.184,
-    "prob_2": 0.149,
+    "prob_2": 0.15,
     "goles_esperados": [
      2.47,
      1.114
     ],
-    "prob_over_2_5": 0.694,
+    "prob_over_2_5": 0.695,
     "prob_btts": 0.619,
     "marcadores": [
      [
@@ -45,7 +45,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.289,
-     "defensa": 0.126,
+     "defensa": 0.125,
      "neto": 0.415,
      "peso": 40.8,
      "fiable": true
@@ -146,64 +146,64 @@
    "local": "Torino FC",
    "visitante": "AC Monza",
    "prediccion": {
-    "prob_1": 0.485,
-    "prob_X": 0.247,
-    "prob_2": 0.268,
+    "prob_1": 0.501,
+    "prob_X": 0.243,
+    "prob_2": 0.256,
     "goles_esperados": [
-     1.658,
-     1.172
+     1.712,
+     1.158
     ],
-    "prob_over_2_5": 0.538,
-    "prob_btts": 0.561,
+    "prob_over_2_5": 0.547,
+    "prob_btts": 0.564,
     "marcadores": [
      [
       "1-1",
-      0.1169
-     ],
-     [
-      "1-0",
-      0.0955
+      0.1147
      ],
      [
       "2-1",
-      0.0951
+      0.0962
+     ],
+     [
+      "1-0",
+      0.0949
      ]
     ],
     "cuotas_justas": [
-     2.06,
-     4.04,
-     3.74
+     2.0,
+     4.11,
+     3.91
     ],
-    "resumen": "Gana Torino FC (ligero favorito, 48%).",
+    "resumen": "Gana Torino FC (ligero favorito, 50%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.054,
-     "defensa": -0.066,
-     "neto": -0.12,
-     "peso": 44.9,
+     "ataque": -0.02,
+     "defensa": -0.052,
+     "neto": -0.072,
+     "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.048,
+     "ataque": -0.049,
      "defensa": -0.305,
-     "neto": -0.353,
+     "neto": -0.354,
      "peso": 23.4,
      "fiable": true
     },
     "forma_local": {
      "pj": 5,
-     "g": 2,
+     "g": 3,
      "e": 1,
-     "p": 2,
-     "gf": 6,
-     "gc": 7,
+     "p": 1,
+     "gf": 8,
+     "gc": 5,
      "racha": [
-      "P",
       "G",
       "P",
       "E",
+      "G",
       "G"
      ]
     },
@@ -252,14 +252,14 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Torino FC es más fuerte de fondo (neto -0.12 vs -0.35): es más completo en general. Torino FC juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.66 – 1.17; el modelo ve marcando más a Torino FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Torino FC es más fuerte de fondo (neto -0.07 vs -0.35): es más completo en general. Torino FC juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.71 – 1.16; el modelo ve marcando más a Torino FC. Y la forma reciente lo confirma: Torino FC llega mejor (3G-1E-1P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.732,
-     "por_que": "Doble oportunidad: cubre que Torino FC no pierda. El escenario que queda afuera (gane AC Monza) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
+     "prob": 0.744,
+     "por_que": "Doble oportunidad: cubre que Torino FC no pierda. El escenario que queda afuera (gane AC Monza) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
      "alternativa": {
-      "mercado": "Ambos marcan: Sí",
-      "prob": 0.561
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.783
      },
      "confianza": "alta"
     }
@@ -310,12 +310,12 @@
      "ataque": 0.103,
      "defensa": -0.032,
      "neto": 0.071,
-     "peso": 41.5,
+     "peso": 41.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.043,
-     "defensa": 0.046,
+     "defensa": 0.047,
      "neto": 0.003,
      "peso": 41.4,
      "fiable": true
@@ -398,6 +398,105 @@
    }
   },
   {
+   "id": 564719,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-10-23T19:00:00Z",
+   "jornada": 10,
+   "local": "Deportivo Alavés",
+   "visitante": "Málaga CF",
+   "prediccion": {
+    "prob_1": 0.639,
+    "prob_X": 0.229,
+    "prob_2": 0.133,
+    "goles_esperados": [
+     1.814,
+     0.692
+    ],
+    "prob_over_2_5": 0.458,
+    "prob_btts": 0.422,
+    "marcadores": [
+     [
+      "1-0",
+      0.1442
+     ],
+     [
+      "2-0",
+      0.1343
+     ],
+     [
+      "1-1",
+      0.1063
+     ]
+    ],
+    "cuotas_justas": [
+     1.57,
+     4.37,
+     7.54
+    ],
+    "resumen": "Gana Deportivo Alavés (claro favorito, 64%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.055,
+     "defensa": 0.079,
+     "neto": 0.024,
+     "peso": 47.6,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.403,
+     "defensa": -0.252,
+     "neto": -0.654,
+     "peso": 8.4,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 0,
+     "e": 1,
+     "p": 4,
+     "gf": 3,
+     "gc": 7,
+     "racha": [
+      "P",
+      "P",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 0,
+     "e": 2,
+     "p": 3,
+     "gf": 5,
+     "gc": 11,
+     "racha": [
+      "E",
+      "P",
+      "P",
+      "E",
+      "P"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Deportivo Alavés es más fuerte de fondo (neto +0.02 vs -0.65): es más completo en general. Deportivo Alavés juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.81 – 0.69; el modelo ve marcando más a Deportivo Alavés. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.867,
+     "por_que": "Doble oportunidad: cubre que Deportivo Alavés no pierda. El escenario que queda afuera (gane Málaga CF) es el menos probable (13%), así que el mercado se cumple ~87% de las veces.",
+     "alternativa": {
+      "mercado": "12",
+      "prob": 0.771
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
    "id": 560620,
    "competicion": "Premier League",
    "competicion_codigo": "PL",
@@ -406,50 +505,50 @@
    "local": "Ipswich Town FC",
    "visitante": "Nottingham Forest FC",
    "prediccion": {
-    "prob_1": 0.265,
+    "prob_1": 0.266,
     "prob_X": 0.258,
-    "prob_2": 0.477,
+    "prob_2": 0.476,
     "goles_esperados": [
      1.229,
-     1.713
+     1.707
     ],
-    "prob_over_2_5": 0.564,
-    "prob_btts": 0.59,
+    "prob_over_2_5": 0.562,
+    "prob_btts": 0.589,
     "marcadores": [
      [
       "1-1",
-      0.1211
+      0.1212
      ],
      [
       "1-2",
-      0.0951
+      0.095
      ],
      [
       "0-1",
-      0.0805
+      0.0807
      ]
     ],
     "cuotas_justas": [
-     3.78,
-     3.88,
-     2.09
+     3.76,
+     3.87,
+     2.1
     ],
     "resumen": "Gana Nottingham Forest FC (ligero favorito, 48%). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.088,
-     "defensa": -0.338,
-     "neto": -0.426,
-     "peso": 17.8,
+     "ataque": -0.087,
+     "defensa": -0.335,
+     "neto": -0.422,
+     "peso": 17.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.031,
-     "defensa": 0.11,
-     "neto": 0.079,
-     "peso": 45.6,
+     "ataque": -0.033,
+     "defensa": 0.114,
+     "neto": 0.081,
+     "peso": 45.5,
      "fiable": true
     },
     "forma_local": {
@@ -498,113 +597,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Nottingham Forest FC es más fuerte de fondo (neto +0.08 vs -0.43): encaja ~10% menos. Ipswich Town FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.23 – 1.71; el modelo ve marcando más a Nottingham Forest FC. Pero ojo: en forma reciente Ipswich Town FC llega mejor que Nottingham Forest FC, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Nottingham Forest FC es más fuerte de fondo (neto +0.08 vs -0.42): encaja ~11% menos. Ipswich Town FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.23 – 1.71; el modelo ve marcando más a Nottingham Forest FC. Pero ojo: en forma reciente Ipswich Town FC llega mejor que Nottingham Forest FC, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.735,
-     "por_que": "Doble oportunidad: cubre que Ipswich Town FC no gane. El escenario que queda afuera (gane Ipswich Town FC) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
+     "prob": 0.734,
+     "por_que": "Doble oportunidad: cubre que Ipswich Town FC no gane. El escenario que queda afuera (gane Ipswich Town FC) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.802
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 564719,
-   "competicion": "La Liga",
-   "competicion_codigo": "PD",
-   "fecha_utc": "2026-10-23T19:00:00Z",
-   "jornada": 10,
-   "local": "Deportivo Alavés",
-   "visitante": "Málaga CF",
-   "prediccion": {
-    "prob_1": 0.639,
-    "prob_X": 0.228,
-    "prob_2": 0.133,
-    "goles_esperados": [
-     1.814,
-     0.692
-    ],
-    "prob_over_2_5": 0.458,
-    "prob_btts": 0.421,
-    "marcadores": [
-     [
-      "1-0",
-      0.1446
-     ],
-     [
-      "2-0",
-      0.1343
-     ],
-     [
-      "1-1",
-      0.1059
-     ]
-    ],
-    "cuotas_justas": [
-     1.56,
-     4.39,
-     7.52
-    ],
-    "resumen": "Gana Deportivo Alavés (claro favorito, 64%).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.055,
-     "defensa": 0.078,
-     "neto": 0.024,
-     "peso": 47.7,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.403,
-     "defensa": -0.252,
-     "neto": -0.654,
-     "peso": 8.4,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 0,
-     "e": 1,
-     "p": 4,
-     "gf": 3,
-     "gc": 7,
-     "racha": [
-      "P",
-      "P",
-      "E",
-      "P",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 0,
-     "e": 2,
-     "p": 3,
-     "gf": 5,
-     "gc": 11,
-     "racha": [
-      "E",
-      "P",
-      "P",
-      "E",
-      "P"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "Deportivo Alavés es más fuerte de fondo (neto +0.02 vs -0.65): es más completo en general. Deportivo Alavés juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.81 – 0.69; el modelo ve marcando más a Deportivo Alavés. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
-    "recomendacion": {
-     "mercado": "1X",
-     "prob": 0.867,
-     "por_que": "Doble oportunidad: cubre que Deportivo Alavés no pierda. El escenario que queda afuera (gane Málaga CF) es el menos probable (13%), así que el mercado se cumple ~87% de las veces.",
-     "alternativa": {
-      "mercado": "12",
-      "prob": 0.772
+      "prob": 0.801
      },
      "confianza": "alta"
     }

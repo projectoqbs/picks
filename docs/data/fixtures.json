@@ -1,36 +1,6 @@
 {
- "actualizado": "2026-10-19T19:36:34+00:00",
+ "actualizado": "2026-10-20T10:44:13+00:00",
  "fixtures": [
-  {
-   "id": 558578,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-10-19T18:45:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 7,
-   "local": "Parma Calcio 1913",
-   "visitante": "Torino FC"
-  },
-  {
-   "id": 560606,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-10-19T19:00:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 7,
-   "local": "Tottenham Hotspur FC",
-   "visitante": "Coventry City FC"
-  },
-  {
-   "id": 564717,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-10-19T19:00:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 9,
-   "local": "Getafe CF",
-   "visitante": "Rayo Vallecano de Madrid"
-  },
   {
    "id": 575359,
    "competicion_codigo": "CL",
@@ -800,6 +770,46 @@
    "jornada": 9,
    "local": "ACF Fiorentina",
    "visitante": "Atalanta BC"
+  },
+  {
+   "id": 559644,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-10-30T18:00:00Z",
+   "estado": "TIMED",
+   "jornada": 9,
+   "local": "Le Havre AC",
+   "visitante": "Paris Saint-Germain FC"
+  },
+  {
+   "id": 565846,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-10-30T19:30:00Z",
+   "estado": "TIMED",
+   "jornada": 8,
+   "local": "SV 07 Elversberg",
+   "visitante": "1. FSV Mainz 05"
+  },
+  {
+   "id": 564737,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-10-30T20:00:00Z",
+   "estado": "TIMED",
+   "jornada": 11,
+   "local": "Villarreal CF",
+   "visitante": "RCD Espanyol de Barcelona"
+  },
+  {
+   "id": 559639,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-10-30T20:05:00Z",
+   "estado": "TIMED",
+   "jornada": 9,
+   "local": "Lille OSC",
+   "visitante": "Racing Club de Lens"
   }
  ]
 }
