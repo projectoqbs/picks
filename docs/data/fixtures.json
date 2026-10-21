@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-10-21T10:55:08+00:00",
+ "actualizado": "2026-10-21T18:20:38+00:00",
  "fixtures": [
   {
    "id": 575368,
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-10-21T16:45:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 3,
    "local": "Como 1907",
    "visitante": "Manchester United FC"
@@ -16,7 +16,7 @@
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-10-21T16:45:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 3,
    "local": "Lille OSC",
    "visitante": "Galatasaray SK"
@@ -26,7 +26,7 @@
    "competicion_codigo": "PD",
    "competicion": "La Liga",
    "fecha_utc": "2026-10-21T18:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 6,
    "local": "Levante UD",
    "visitante": "Athletic Club"
@@ -272,16 +272,6 @@
    "visitante": "RCD Espanyol de Barcelona"
   },
   {
-   "id": 559655,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-10-24T15:15:00Z",
-   "estado": "TIMED",
-   "jornada": 8,
-   "local": "Toulouse FC",
-   "visitante": "ES Troyes AC"
-  },
-  {
    "id": 558564,
    "competicion_codigo": "SA",
    "competicion": "Serie A",
@@ -490,6 +480,16 @@
    "jornada": 8,
    "local": "Angers SCO",
    "visitante": "FC Lorient"
+  },
+  {
+   "id": 559655,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-10-25T16:15:00Z",
+   "estado": "TIMED",
+   "jornada": 8,
+   "local": "Toulouse FC",
+   "visitante": "ES Troyes AC"
   },
   {
    "id": 559656,

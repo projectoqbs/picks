@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-25",
- "actualizado": "2026-10-21T10:55:10+00:00",
+ "actualizado": "2026-10-21T18:20:42+00:00",
  "partidos": [
   {
    "id": 558563,
@@ -182,7 +182,7 @@
      "ataque": 0.015,
      "defensa": 0.211,
      "neto": 0.226,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -285,7 +285,7 @@
     "prob_X": 0.224,
     "prob_2": 0.224,
     "goles_esperados": [
-     1.944,
+     1.945,
      1.17
     ],
     "prob_over_2_5": 0.602,
@@ -301,7 +301,7 @@
      ],
      [
       "1-0",
-      0.0844
+      0.0843
      ]
     ],
     "cuotas_justas": [
@@ -321,7 +321,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.209,
+     "ataque": 0.21,
      "defensa": -0.129,
      "neto": 0.08,
      "peso": 12.1,
@@ -373,11 +373,11 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Atalanta BC es más fuerte de fondo (neto +0.48 vs +0.08): ataca ~33% más que el promedio, encaja ~18% menos. Atalanta BC juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.94 – 1.17; el modelo ve marcando más a Atalanta BC. Pero ojo: en forma reciente Frosinone Calcio llega mejor que Atalanta BC, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Atalanta BC es más fuerte de fondo (neto +0.48 vs +0.08): ataca ~33% más que el promedio, encaja ~18% menos. Atalanta BC juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.95 – 1.17; el modelo ve marcando más a Atalanta BC. Pero ojo: en forma reciente Frosinone Calcio llega mejor que Atalanta BC, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.552,
-     "por_que": "Atalanta BC es favorito en casa: marca más (1.94 vs 1.17) y es más fuerte de fondo (neto +0.48 vs +0.08). Probabilidad: 55%.",
+     "por_que": "Atalanta BC es favorito en casa: marca más (1.95 vs 1.17) y es más fuerte de fondo (neto +0.48 vs +0.08). Probabilidad: 55%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.819
@@ -545,7 +545,7 @@
      "ataque": 0.291,
      "defensa": 0.117,
      "neto": 0.408,
-     "peso": 41.3,
+     "peso": 41.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -684,7 +684,7 @@
      "ataque": 0.261,
      "defensa": 0.146,
      "neto": 0.407,
-     "peso": 45.5,
+     "peso": 45.4,
      "fiable": true
     },
     "forma_local": {
@@ -781,7 +781,7 @@
     "prob_2": 0.391,
     "goles_esperados": [
      1.467,
-     1.567
+     1.566
     ],
     "prob_over_2_5": 0.584,
     "prob_btts": 0.619,
@@ -800,7 +800,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.87,
+     2.88,
      3.83,
      2.56
     ],
@@ -809,10 +809,10 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.04,
+     "ataque": -0.041,
      "defensa": -0.024,
      "neto": -0.065,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -954,7 +954,7 @@
      "ataque": 0.115,
      "defensa": 0.047,
      "neto": 0.162,
-     "peso": 45.5,
+     "peso": 45.4,
      "fiable": true
     },
     "forma_local": {
@@ -1090,7 +1090,7 @@
      "ataque": 0.172,
      "defensa": 0.064,
      "neto": 0.236,
-     "peso": 45.5,
+     "peso": 45.4,
      "fiable": true
     },
     "forma_local": {
@@ -1181,7 +1181,7 @@
     "fuerza_local": {
      "ataque": 0.181,
      "defensa": -0.117,
-     "neto": 0.065,
+     "neto": 0.064,
      "peso": 40.7,
      "fiable": true
     },
@@ -1259,7 +1259,7 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Bayer 04 Leverkusen es más fuerte de fondo (neto +0.59 vs +0.07): ataca ~45% más que el promedio, encaja ~20% menos. TSG 1899 Hoffenheim juega en casa (~+25% de ventaja, ya contada). Goles esperados: 1.59 – 2.16; el modelo ve marcando más a Bayer 04 Leverkusen. Y la forma reciente lo confirma: Bayer 04 Leverkusen llega mejor (4G-1E-0P vs 2G-0E-3P).",
+    "explicacion": "Bayer 04 Leverkusen es más fuerte de fondo (neto +0.59 vs +0.06): ataca ~45% más que el promedio, encaja ~20% menos. TSG 1899 Hoffenheim juega en casa (~+25% de ventaja, ya contada). Goles esperados: 1.59 – 2.16; el modelo ve marcando más a Bayer 04 Leverkusen. Y la forma reciente lo confirma: Bayer 04 Leverkusen llega mejor (4G-1E-0P vs 2G-0E-3P).",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.722,
@@ -1789,6 +1789,106 @@
    }
   },
   {
+   "id": 559655,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-10-25T16:15:00Z",
+   "jornada": 8,
+   "local": "Toulouse FC",
+   "visitante": "ES Troyes AC",
+   "prediccion": {
+    "prob_1": 0.718,
+    "prob_X": 0.175,
+    "prob_2": 0.107,
+    "goles_esperados": [
+     2.351,
+     0.801
+    ],
+    "prob_over_2_5": 0.61,
+    "prob_btts": 0.501,
+    "marcadores": [
+     [
+      "2-0",
+      0.1182
+     ],
+     [
+      "1-0",
+      0.0981
+     ],
+     [
+      "2-1",
+      0.0947
+     ]
+    ],
+    "cuotas_justas": [
+     1.39,
+     5.71,
+     9.31
+    ],
+    "resumen": "Gana Toulouse FC (claro favorito, 72%). se esperan goles (+2.5).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'ES Troyes AC' solo tiene 6.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.08,
+     "defensa": 0.077,
+     "neto": 0.157,
+     "peso": 40.5,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.366,
+     "defensa": -0.359,
+     "neto": -0.725,
+     "peso": 6.6,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 2,
+     "p": 1,
+     "gf": 10,
+     "gc": 7,
+     "racha": [
+      "P",
+      "E",
+      "G",
+      "E",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 0,
+     "e": 0,
+     "p": 5,
+     "gf": 3,
+     "gc": 15,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Toulouse FC es más fuerte de fondo (neto +0.16 vs -0.72): es más completo en general. Toulouse FC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 2.35 – 0.80; el modelo ve marcando más a Toulouse FC. Y la forma reciente lo confirma: Toulouse FC llega mejor (2G-2E-1P vs 0G-0E-5P). El modelo tiene pocos datos de ES Troyes AC: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "1",
+     "prob": 0.718,
+     "por_que": "Toulouse FC es favorito en casa: marca más (2.35 vs 0.80) y es más fuerte de fondo (neto +0.16 vs -0.72). Probabilidad: 72%.",
+     "alternativa": {
+      "mercado": "1X",
+      "prob": 0.893
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
    "id": 559656,
    "competicion": "Ligue 1",
    "competicion_codigo": "FL1",
@@ -2182,7 +2282,7 @@
      "ataque": -0.33,
      "defensa": -0.063,
      "neto": -0.393,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2430,8 +2530,8 @@
     "fuerza_local": {
      "ataque": -0.028,
      "defensa": -0.089,
-     "neto": -0.117,
-     "peso": 45.8,
+     "neto": -0.118,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2552,7 +2652,7 @@
     ],
     "cuotas_justas": [
      1.63,
-     4.8,
+     4.81,
      5.6
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 61%). se esperan goles (+2.5). ambos marcan.",
@@ -2563,7 +2663,7 @@
      "ataque": 0.525,
      "defensa": 0.396,
      "neto": 0.921,
-     "peso": 41.4,
+     "peso": 41.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2670,11 +2770,11 @@
      1.394
     ],
     "prob_over_2_5": 0.698,
-    "prob_btts": 0.673,
+    "prob_btts": 0.672,
     "marcadores": [
      [
       "2-1",
-      0.0926
+      0.0927
      ],
      [
       "1-1",
@@ -2682,7 +2782,7 @@
      ],
      [
       "3-1",
-      0.0683
+      0.0682
      ]
     ],
     "cuotas_justas": [

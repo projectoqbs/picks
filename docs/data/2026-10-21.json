@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-21",
- "actualizado": "2026-10-21T10:55:10+00:00",
+ "actualizado": "2026-10-21T18:20:42+00:00",
  "partidos": [
   {
    "id": 575368,
@@ -47,7 +47,7 @@
     "fuerza_local": {
      "ataque": 0.36,
      "defensa": -0.127,
-     "neto": 0.233,
+     "neto": 0.232,
      "peso": 1.9,
      "fiable": false
     },
@@ -251,7 +251,7 @@
      "ataque": 0.015,
      "defensa": 0.211,
      "neto": 0.226,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "forma_local": {
@@ -323,7 +323,7 @@
     "prob_X": 0.121,
     "prob_2": 0.095,
     "goles_esperados": [
-     3.003,
+     3.002,
      0.975
     ],
     "prob_over_2_5": 0.758,
@@ -446,7 +446,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1084
+      0.1083
      ],
      [
       "2-1",
@@ -539,7 +539,7 @@
     "prob_2": 0.363,
     "goles_esperados": [
      1.508,
-     1.406
+     1.407
     ],
     "prob_over_2_5": 0.557,
     "prob_btts": 0.579,
@@ -756,7 +756,7 @@
    "visitante": "Viking FK",
    "prediccion": {
     "prob_1": 0.803,
-    "prob_X": 0.106,
+    "prob_X": 0.107,
     "prob_2": 0.09,
     "goles_esperados": [
      3.459,
@@ -780,8 +780,8 @@
     ],
     "cuotas_justas": [
      1.24,
-     9.39,
-     11.09
+     9.38,
+     11.08
     ],
     "resumen": "Gana Aston Villa FC (claro favorito, 80%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -856,7 +856,7 @@
     "prob_X": 0.08,
     "prob_2": 0.053,
     "goles_esperados": [
-     3.696,
+     3.695,
      0.909
     ],
     "prob_over_2_5": 0.838,
@@ -877,7 +877,7 @@
     ],
     "cuotas_justas": [
      1.15,
-     12.54,
+     12.53,
      18.84
     ],
     "resumen": "Gana Sporting Clube de Portugal (claro favorito, 87%). se esperan goles (+2.5).",
@@ -894,8 +894,8 @@
     },
     "fuerza_visitante": {
      "ataque": 0.005,
-     "defensa": -0.539,
-     "neto": -0.534,
+     "defensa": -0.538,
+     "neto": -0.533,
      "peso": 1.9,
      "fiable": false
     },
@@ -927,11 +927,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Sporting Clube de Portugal es más fuerte de fondo (neto +0.57 vs -0.53): ataca ~17% más que el promedio, encaja ~33% menos. Sporting Clube de Portugal juega en casa (~+35% de ventaja, ya contada). Goles esperados: 3.70 – 0.91; el modelo ve marcando más a Sporting Clube de Portugal. Y la forma reciente lo confirma: Sporting Clube de Portugal llega mejor (3G-1E-1P vs 0G-0E-2P). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
+    "explicacion": "Sporting Clube de Portugal es más fuerte de fondo (neto +0.57 vs -0.53): ataca ~17% más que el promedio, encaja ~33% menos. Sporting Clube de Portugal juega en casa (~+35% de ventaja, ya contada). Goles esperados: 3.69 – 0.91; el modelo ve marcando más a Sporting Clube de Portugal. Y la forma reciente lo confirma: Sporting Clube de Portugal llega mejor (3G-1E-1P vs 0G-0E-2P). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.867,
-     "por_que": "Sporting Clube de Portugal es favorito en casa: marca más (3.70 vs 0.91) y es más fuerte de fondo (neto +0.57 vs -0.53). Probabilidad: 87%.",
+     "por_que": "Sporting Clube de Portugal es favorito en casa: marca más (3.69 vs 0.91) y es más fuerte de fondo (neto +0.57 vs -0.53). Probabilidad: 87%.",
      "alternativa": {
       "mercado": "1X",
       "prob": 0.947
@@ -953,7 +953,7 @@
     "prob_X": 0.135,
     "prob_2": 0.17,
     "goles_esperados": [
-     3.466,
+     3.465,
      1.804
     ],
     "prob_over_2_5": 0.896,
@@ -961,7 +961,7 @@
     "marcadores": [
      [
       "3-1",
-      0.0644
+      0.0645
      ],
      [
       "3-2",
@@ -1024,11 +1024,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.28 vs -0.07): ataca ~54% más que el promedio. Real Betis Balompié juega en casa (~+35% de ventaja, ya contada). Goles esperados: 3.47 – 1.80; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (2G-0E-0P vs 1G-1E-3P). El modelo tiene pocos datos de Real Betis Balompié: tomalo con pinzas.",
+    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.28 vs -0.07): ataca ~54% más que el promedio. Real Betis Balompié juega en casa (~+35% de ventaja, ya contada). Goles esperados: 3.46 – 1.80; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (2G-0E-0P vs 1G-1E-3P). El modelo tiene pocos datos de Real Betis Balompié: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.896,
-     "por_que": "Bastantes goles esperados (3.47 + 1.80 = 5.27); al menos una defensa floja. Probabilidad al over: 90%.",
+     "por_que": "Bastantes goles esperados (3.46 + 1.80 = 5.27); al menos una defensa floja. Probabilidad al over: 90%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.965

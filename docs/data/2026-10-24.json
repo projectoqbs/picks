@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-24",
- "actualizado": "2026-10-21T10:55:10+00:00",
+ "actualizado": "2026-10-21T18:20:42+00:00",
  "partidos": [
   {
    "id": 560614,
@@ -158,7 +158,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1299
+      0.13
      ],
      [
       "1-0",
@@ -294,7 +294,7 @@
      "ataque": 0.091,
      "defensa": 0.087,
      "neto": 0.178,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "forma_local": {
@@ -429,7 +429,7 @@
      "ataque": 0.086,
      "defensa": -0.149,
      "neto": -0.064,
-     "peso": 34.6,
+     "peso": 34.5,
      "fiable": true
     },
     "forma_local": {
@@ -516,7 +516,7 @@
      ],
      [
       "2-1",
-      0.0975
+      0.0974
      ],
      [
       "1-0",
@@ -651,11 +651,11 @@
      ],
      [
       "0-0",
-      0.1386
+      0.1385
      ],
      [
       "1-0",
-      0.1357
+      0.1356
      ]
     ],
     "cuotas_justas": [
@@ -777,7 +777,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.313,
-     "defensa": -0.078,
+     "defensa": -0.077,
      "neto": 0.235,
      "peso": 5.7,
      "fiable": false
@@ -948,7 +948,7 @@
      ],
      [
       "1-0",
-      0.0975
+      0.0974
      ],
      [
       "2-1",
@@ -1204,7 +1204,7 @@
    "prediccion": {
     "prob_1": 0.305,
     "prob_X": 0.289,
-    "prob_2": 0.407,
+    "prob_2": 0.406,
     "goles_esperados": [
      1.157,
      1.372
@@ -1238,7 +1238,7 @@
     "fuerza_local": {
      "ataque": -0.187,
      "defensa": -0.138,
-     "neto": -0.325,
+     "neto": -0.324,
      "peso": 6.6,
      "fiable": false
     },
@@ -1280,7 +1280,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Fulham FC es más fuerte de fondo (neto +0.02 vs -0.33): es más completo en general. Coventry City FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.16 – 1.37; el modelo ve marcando más a Fulham FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Coventry City FC: tomalo con pinzas.",
+    "explicacion": "Fulham FC es más fuerte de fondo (neto +0.02 vs -0.32): es más completo en general. Coventry City FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.16 – 1.37; el modelo ve marcando más a Fulham FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Coventry City FC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.695,
@@ -1325,7 +1325,7 @@
     "cuotas_justas": [
      2.74,
      4.32,
-     2.48
+     2.47
     ],
     "resumen": "Partido parejo. se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -1333,15 +1333,15 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.157,
-     "defensa": -0.545,
-     "neto": -0.388,
+     "defensa": -0.546,
+     "neto": -0.389,
      "peso": 8.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.086,
      "defensa": 0.04,
-     "neto": -0.046,
+     "neto": -0.047,
      "peso": 42.0,
      "fiable": true
     },
@@ -1390,106 +1390,6 @@
    }
   },
   {
-   "id": 559655,
-   "competicion": "Ligue 1",
-   "competicion_codigo": "FL1",
-   "fecha_utc": "2026-10-24T15:15:00Z",
-   "jornada": 8,
-   "local": "Toulouse FC",
-   "visitante": "ES Troyes AC",
-   "prediccion": {
-    "prob_1": 0.718,
-    "prob_X": 0.175,
-    "prob_2": 0.107,
-    "goles_esperados": [
-     2.352,
-     0.8
-    ],
-    "prob_over_2_5": 0.61,
-    "prob_btts": 0.501,
-    "marcadores": [
-     [
-      "2-0",
-      0.1182
-     ],
-     [
-      "1-0",
-      0.0981
-     ],
-     [
-      "2-1",
-      0.0947
-     ]
-    ],
-    "cuotas_justas": [
-     1.39,
-     5.71,
-     9.31
-    ],
-    "resumen": "Gana Toulouse FC (claro favorito, 72%). se esperan goles (+2.5).",
-    "confianza": "baja"
-   },
-   "nota": "pocos datos: 'ES Troyes AC' solo tiene 6.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.08,
-     "defensa": 0.077,
-     "neto": 0.157,
-     "peso": 40.5,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.366,
-     "defensa": -0.359,
-     "neto": -0.725,
-     "peso": 6.6,
-     "fiable": false
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 2,
-     "e": 2,
-     "p": 1,
-     "gf": 10,
-     "gc": 7,
-     "racha": [
-      "P",
-      "E",
-      "G",
-      "E",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 0,
-     "e": 0,
-     "p": 5,
-     "gf": 3,
-     "gc": 15,
-     "racha": [
-      "P",
-      "P",
-      "P",
-      "P",
-      "P"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "Toulouse FC es más fuerte de fondo (neto +0.16 vs -0.72): es más completo en general. Toulouse FC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 2.35 – 0.80; el modelo ve marcando más a Toulouse FC. Y la forma reciente lo confirma: Toulouse FC llega mejor (2G-2E-1P vs 0G-0E-5P). El modelo tiene pocos datos de ES Troyes AC: tomalo con pinzas.",
-    "recomendacion": {
-     "mercado": "1",
-     "prob": 0.718,
-     "por_que": "Toulouse FC es favorito en casa: marca más (2.35 vs 0.80) y es más fuerte de fondo (neto +0.16 vs -0.72). Probabilidad: 72%.",
-     "alternativa": {
-      "mercado": "1X",
-      "prob": 0.893
-     },
-     "confianza": "baja"
-    }
-   }
-  },
-  {
    "id": 558564,
    "competicion": "Serie A",
    "competicion_codigo": "SA",
@@ -1503,7 +1403,7 @@
     "prob_2": 0.383,
     "goles_esperados": [
      1.047,
-     1.168
+     1.167
     ],
     "prob_over_2_5": 0.381,
     "prob_btts": 0.45,
@@ -1514,7 +1414,7 @@
      ],
      [
       "0-1",
-      0.1249
+      0.1248
      ],
      [
       "0-0",
@@ -1534,14 +1434,14 @@
      "ataque": 0.215,
      "defensa": 0.325,
      "neto": 0.54,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.336,
      "defensa": 0.422,
      "neto": 0.758,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "forma_local": {
@@ -1668,7 +1568,7 @@
     "fuerza_local": {
      "ataque": -0.098,
      "defensa": 0.033,
-     "neto": -0.065,
+     "neto": -0.066,
      "peso": 47.6,
      "fiable": true
     },
@@ -1676,7 +1576,7 @@
      "ataque": 0.359,
      "defensa": 0.073,
      "neto": 0.432,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "forma_local": {
@@ -1804,7 +1704,7 @@
      "ataque": 0.298,
      "defensa": 0.354,
      "neto": 0.652,
-     "peso": 40.7,
+     "peso": 40.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2043,7 +1943,7 @@
     "prob_2": 0.167,
     "goles_esperados": [
      1.491,
-     0.68
+     0.679
     ],
     "prob_over_2_5": 0.369,
     "prob_btts": 0.384,
@@ -2074,7 +1974,7 @@
      "ataque": 0.121,
      "defensa": 0.208,
      "neto": 0.328,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2201,7 +2101,7 @@
     "fuerza_local": {
      "ataque": 0.239,
      "defensa": 0.229,
-     "neto": 0.468,
+     "neto": 0.467,
      "peso": 41.3,
      "fiable": true
     },
@@ -2281,7 +2181,7 @@
     "prob_X": 0.201,
     "prob_2": 0.139,
     "goles_esperados": [
-     2.137,
+     2.138,
      0.875
     ],
     "prob_over_2_5": 0.58,
