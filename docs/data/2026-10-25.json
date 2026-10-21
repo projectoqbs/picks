@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-25",
- "actualizado": "2026-10-20T18:14:04+00:00",
+ "actualizado": "2026-10-21T10:55:10+00:00",
  "partidos": [
   {
    "id": 558563,
@@ -47,14 +47,14 @@
      "ataque": 0.663,
      "defensa": 0.281,
      "neto": 0.944,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.082,
      "defensa": -0.051,
      "neto": 0.031,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "forma_local": {
@@ -189,7 +189,7 @@
      "ataque": -0.39,
      "defensa": 0.292,
      "neto": -0.099,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "forma_local": {
@@ -285,7 +285,7 @@
     "prob_X": 0.224,
     "prob_2": 0.224,
     "goles_esperados": [
-     1.945,
+     1.944,
      1.17
     ],
     "prob_over_2_5": 0.602,
@@ -301,7 +301,7 @@
      ],
      [
       "1-0",
-      0.0843
+      0.0844
      ]
     ],
     "cuotas_justas": [
@@ -316,15 +316,15 @@
     "fuerza_local": {
      "ataque": 0.283,
      "defensa": 0.197,
-     "neto": 0.48,
+     "neto": 0.479,
      "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.21,
+     "ataque": 0.209,
      "defensa": -0.129,
      "neto": 0.08,
-     "peso": 12.2,
+     "peso": 12.1,
      "fiable": true
     },
     "forma_local": {
@@ -373,11 +373,11 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Atalanta BC es más fuerte de fondo (neto +0.48 vs +0.08): ataca ~33% más que el promedio, encaja ~18% menos. Atalanta BC juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.95 – 1.17; el modelo ve marcando más a Atalanta BC. Pero ojo: en forma reciente Frosinone Calcio llega mejor que Atalanta BC, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Atalanta BC es más fuerte de fondo (neto +0.48 vs +0.08): ataca ~33% más que el promedio, encaja ~18% menos. Atalanta BC juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.94 – 1.17; el modelo ve marcando más a Atalanta BC. Pero ojo: en forma reciente Frosinone Calcio llega mejor que Atalanta BC, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.552,
-     "por_que": "Atalanta BC es favorito en casa: marca más (1.95 vs 1.17) y es más fuerte de fondo (neto +0.48 vs +0.08). Probabilidad: 55%.",
+     "por_que": "Atalanta BC es favorito en casa: marca más (1.94 vs 1.17) y es más fuerte de fondo (neto +0.48 vs +0.08). Probabilidad: 55%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.819
@@ -431,7 +431,7 @@
      "ataque": -0.123,
      "defensa": -0.019,
      "neto": -0.142,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -533,7 +533,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.45,
+     2.46,
      3.7,
      3.1
     ],
@@ -800,16 +800,16 @@
      ]
     ],
     "cuotas_justas": [
-     2.88,
+     2.87,
      3.83,
-     2.55
+     2.56
     ],
     "resumen": "Partido parejo. se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.041,
+     "ataque": -0.04,
      "defensa": -0.024,
      "neto": -0.065,
      "peso": 45.6,
@@ -944,7 +944,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.165,
+     "ataque": 0.164,
      "defensa": 0.083,
      "neto": 0.247,
      "peso": 45.5,
@@ -1189,7 +1189,7 @@
      "ataque": 0.375,
      "defensa": 0.221,
      "neto": 0.595,
-     "peso": 40.8,
+     "peso": 40.7,
      "fiable": true
     },
     "forma_local": {
@@ -1317,14 +1317,14 @@
      "ataque": 0.093,
      "defensa": 0.112,
      "neto": 0.205,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.246,
      "defensa": 0.092,
      "neto": 0.339,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "forma_local": {
@@ -1449,14 +1449,14 @@
      "ataque": 0.34,
      "defensa": 0.088,
      "neto": 0.428,
-     "peso": 41.4,
+     "peso": 41.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.265,
      "defensa": -0.01,
      "neto": -0.275,
-     "peso": 41.4,
+     "peso": 41.3,
      "fiable": true
     },
     "forma_local": {
@@ -1548,11 +1548,11 @@
    "local": "Stade Rennais FC 1901",
    "visitante": "RC Strasbourg Alsace",
    "prediccion": {
-    "prob_1": 0.467,
+    "prob_1": 0.468,
     "prob_X": 0.222,
     "prob_2": 0.31,
     "goles_esperados": [
-     1.977,
+     1.976,
      1.588
     ],
     "prob_over_2_5": 0.691,
@@ -1591,7 +1591,7 @@
      "ataque": 0.214,
      "defensa": 0.01,
      "neto": 0.224,
-     "peso": 41.4,
+     "peso": 41.3,
      "fiable": true
     },
     "forma_local": {
@@ -1665,7 +1665,7 @@
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.691,
-     "por_que": "Bastantes goles esperados (1.98 + 1.59 = 3.57); al menos una defensa floja. Probabilidad al over: 69%.",
+     "por_que": "Bastantes goles esperados (1.98 + 1.59 = 3.56); al menos una defensa floja. Probabilidad al over: 69%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.874
@@ -1719,14 +1719,14 @@
      "ataque": -0.315,
      "defensa": -0.055,
      "neto": -0.37,
-     "peso": 36.4,
+     "peso": 36.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.014,
      "defensa": 0.071,
      "neto": 0.058,
-     "peso": 31.4,
+     "peso": 31.3,
      "fiable": true
     },
     "forma_local": {
@@ -1802,7 +1802,7 @@
     "prob_2": 0.287,
     "goles_esperados": [
      1.807,
-     1.362
+     1.363
     ],
     "prob_over_2_5": 0.614,
     "prob_btts": 0.625,
@@ -1834,7 +1834,7 @@
      "ataque": -0.044,
      "defensa": -0.008,
      "neto": -0.053,
-     "peso": 36.4,
+     "peso": 36.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1902,7 +1902,7 @@
     "prob_2": 0.689,
     "goles_esperados": [
      1.259,
-     2.78
+     2.781
     ],
     "prob_over_2_5": 0.768,
     "prob_btts": 0.675,
@@ -1933,7 +1933,7 @@
      "ataque": 0.086,
      "defensa": 0.038,
      "neto": 0.124,
-     "peso": 40.8,
+     "peso": 40.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2068,14 +2068,14 @@
      "ataque": -0.17,
      "defensa": 0.068,
      "neto": -0.102,
-     "peso": 28.8,
+     "peso": 28.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.011,
      "defensa": 0.152,
      "neto": 0.162,
-     "peso": 28.8,
+     "peso": 28.7,
      "fiable": true
     },
     "forma_local": {
@@ -2189,7 +2189,7 @@
      "ataque": 0.22,
      "defensa": 0.307,
      "neto": 0.527,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "forma_local": {
@@ -2317,14 +2317,14 @@
      "ataque": 0.181,
      "defensa": -0.047,
      "neto": 0.134,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.089,
      "defensa": -0.123,
      "neto": -0.034,
-     "peso": 30.0,
+     "peso": 29.9,
      "fiable": true
     },
     "forma_local": {
@@ -2430,7 +2430,7 @@
     "fuerza_local": {
      "ataque": -0.028,
      "defensa": -0.089,
-     "neto": -0.118,
+     "neto": -0.117,
      "peso": 45.8,
      "fiable": true
     },
@@ -2438,7 +2438,7 @@
      "ataque": 0.279,
      "defensa": 0.197,
      "neto": 0.476,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "forma_local": {
@@ -2529,7 +2529,7 @@
    "prediccion": {
     "prob_1": 0.613,
     "prob_X": 0.208,
-    "prob_2": 0.179,
+    "prob_2": 0.178,
     "goles_esperados": [
      2.126,
      1.066
@@ -2570,7 +2570,7 @@
      "ataque": 0.24,
      "defensa": 0.187,
      "neto": 0.427,
-     "peso": 41.4,
+     "peso": 41.3,
      "fiable": true
     },
     "forma_local": {
@@ -2670,11 +2670,11 @@
      1.394
     ],
     "prob_over_2_5": 0.698,
-    "prob_btts": 0.672,
+    "prob_btts": 0.673,
     "marcadores": [
      [
       "2-1",
-      0.0927
+      0.0926
      ],
      [
       "1-1",
@@ -2682,7 +2682,7 @@
      ],
      [
       "3-1",
-      0.0682
+      0.0683
      ]
     ],
     "cuotas_justas": [
@@ -2698,14 +2698,14 @@
      "ataque": 0.789,
      "defensa": 0.309,
      "neto": 1.098,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.529,
      "defensa": 0.395,
      "neto": 0.924,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "forma_local": {
