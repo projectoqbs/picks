@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-23",
- "actualizado": "2026-10-21T18:20:42+00:00",
+ "actualizado": "2026-10-22T10:55:51+00:00",
  "partidos": [
   {
    "id": 565833,
@@ -13,7 +13,7 @@
    "prediccion": {
     "prob_1": 0.666,
     "prob_X": 0.184,
-    "prob_2": 0.149,
+    "prob_2": 0.15,
     "goles_esperados": [
      2.47,
      1.114
@@ -47,7 +47,7 @@
      "ataque": 0.289,
      "defensa": 0.126,
      "neto": 0.415,
-     "peso": 40.7,
+     "peso": 40.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -317,7 +317,7 @@
      "ataque": -0.043,
      "defensa": 0.046,
      "neto": 0.003,
-     "peso": 41.3,
+     "peso": 41.2,
      "fiable": true
     },
     "forma_local": {
@@ -398,105 +398,6 @@
    }
   },
   {
-   "id": 564719,
-   "competicion": "La Liga",
-   "competicion_codigo": "PD",
-   "fecha_utc": "2026-10-23T19:00:00Z",
-   "jornada": 10,
-   "local": "Deportivo Alavés",
-   "visitante": "Málaga CF",
-   "prediccion": {
-    "prob_1": 0.638,
-    "prob_X": 0.229,
-    "prob_2": 0.133,
-    "goles_esperados": [
-     1.813,
-     0.692
-    ],
-    "prob_over_2_5": 0.458,
-    "prob_btts": 0.422,
-    "marcadores": [
-     [
-      "1-0",
-      0.1442
-     ],
-     [
-      "2-0",
-      0.1343
-     ],
-     [
-      "1-1",
-      0.1063
-     ]
-    ],
-    "cuotas_justas": [
-     1.57,
-     4.37,
-     7.54
-    ],
-    "resumen": "Gana Deportivo Alavés (claro favorito, 64%).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.055,
-     "defensa": 0.079,
-     "neto": 0.024,
-     "peso": 47.5,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.402,
-     "defensa": -0.252,
-     "neto": -0.654,
-     "peso": 8.4,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 0,
-     "e": 1,
-     "p": 4,
-     "gf": 3,
-     "gc": 7,
-     "racha": [
-      "P",
-      "P",
-      "E",
-      "P",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 0,
-     "e": 2,
-     "p": 3,
-     "gf": 5,
-     "gc": 11,
-     "racha": [
-      "E",
-      "P",
-      "P",
-      "E",
-      "P"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "Deportivo Alavés es más fuerte de fondo (neto +0.02 vs -0.65): es más completo en general. Deportivo Alavés juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.81 – 0.69; el modelo ve marcando más a Deportivo Alavés. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
-    "recomendacion": {
-     "mercado": "1X",
-     "prob": 0.867,
-     "por_que": "Doble oportunidad: cubre que Deportivo Alavés no pierda. El escenario que queda afuera (gane Málaga CF) es el menos probable (13%), así que el mercado se cumple ~87% de las veces.",
-     "alternativa": {
-      "mercado": "12",
-      "prob": 0.771
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
    "id": 560620,
    "competicion": "Premier League",
    "competicion_codigo": "PL",
@@ -509,15 +410,15 @@
     "prob_X": 0.258,
     "prob_2": 0.476,
     "goles_esperados": [
-     1.229,
-     1.706
+     1.23,
+     1.707
     ],
     "prob_over_2_5": 0.562,
     "prob_btts": 0.589,
     "marcadores": [
      [
       "1-1",
-      0.1213
+      0.1212
      ],
      [
       "1-2",
@@ -605,6 +506,105 @@
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.801
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 564719,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-10-23T19:00:00Z",
+   "jornada": 10,
+   "local": "Deportivo Alavés",
+   "visitante": "Málaga CF",
+   "prediccion": {
+    "prob_1": 0.638,
+    "prob_X": 0.229,
+    "prob_2": 0.133,
+    "goles_esperados": [
+     1.81,
+     0.692
+    ],
+    "prob_over_2_5": 0.457,
+    "prob_btts": 0.421,
+    "marcadores": [
+     [
+      "1-0",
+      0.1444
+     ],
+     [
+      "2-0",
+      0.1342
+     ],
+     [
+      "1-1",
+      0.1065
+     ]
+    ],
+    "cuotas_justas": [
+     1.57,
+     4.36,
+     7.52
+    ],
+    "resumen": "Gana Deportivo Alavés (claro favorito, 64%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.057,
+     "defensa": 0.079,
+     "neto": 0.022,
+     "peso": 47.4,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.401,
+     "defensa": -0.249,
+     "neto": -0.65,
+     "peso": 8.4,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 0,
+     "e": 1,
+     "p": 4,
+     "gf": 3,
+     "gc": 7,
+     "racha": [
+      "P",
+      "P",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 0,
+     "e": 2,
+     "p": 3,
+     "gf": 5,
+     "gc": 11,
+     "racha": [
+      "E",
+      "P",
+      "P",
+      "E",
+      "P"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Deportivo Alavés es más fuerte de fondo (neto +0.02 vs -0.65): es más completo en general. Deportivo Alavés juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.81 – 0.69; el modelo ve marcando más a Deportivo Alavés. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.867,
+     "por_que": "Doble oportunidad: cubre que Deportivo Alavés no pierda. El escenario que queda afuera (gane Málaga CF) es el menos probable (13%), así que el mercado se cumple ~87% de las veces.",
+     "alternativa": {
+      "mercado": "12",
+      "prob": 0.771
      },
      "confianza": "alta"
     }

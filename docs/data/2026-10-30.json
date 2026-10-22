@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-30",
- "actualizado": "2026-10-21T18:20:42+00:00",
+ "actualizado": "2026-10-22T10:55:51+00:00",
  "partidos": [
   {
    "id": 559644,
@@ -11,7 +11,7 @@
    "local": "Le Havre AC",
    "visitante": "Paris Saint-Germain FC",
    "prediccion": {
-    "prob_1": 0.122,
+    "prob_1": 0.123,
     "prob_X": 0.196,
     "prob_2": 0.681,
     "goles_esperados": [
@@ -47,7 +47,7 @@
      "ataque": -0.265,
      "defensa": -0.01,
      "neto": -0.275,
-     "peso": 41.3,
+     "peso": 41.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -146,7 +146,7 @@
    "local": "SV 07 Elversberg",
    "visitante": "1. FSV Mainz 05",
    "prediccion": {
-    "prob_1": 0.51,
+    "prob_1": 0.509,
     "prob_X": 0.222,
     "prob_2": 0.269,
     "goles_esperados": [
@@ -181,7 +181,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.313,
-     "defensa": -0.077,
+     "defensa": -0.078,
      "neto": 0.235,
      "peso": 5.7,
      "fiable": false
@@ -190,7 +190,7 @@
      "ataque": 0.032,
      "defensa": 0.085,
      "neto": 0.118,
-     "peso": 40.7,
+     "peso": 40.6,
      "fiable": true
     },
     "forma_local": {
@@ -246,23 +246,23 @@
    "local": "Villarreal CF",
    "visitante": "RCD Espanyol de Barcelona",
    "prediccion": {
-    "prob_1": 0.623,
+    "prob_1": 0.624,
     "prob_X": 0.213,
-    "prob_2": 0.164,
+    "prob_2": 0.163,
     "goles_esperados": [
      2.05,
-     0.954
+     0.952
     ],
-    "prob_over_2_5": 0.578,
-    "prob_btts": 0.539,
+    "prob_over_2_5": 0.577,
+    "prob_btts": 0.538,
     "marcadores": [
      [
       "2-0",
-      0.1042
+      0.1045
      ],
      [
       "1-1",
-      0.1006
+      0.1007
      ],
      [
       "2-1",
@@ -271,25 +271,25 @@
     ],
     "cuotas_justas": [
      1.6,
-     4.7,
-     6.11
+     4.69,
+     6.13
     ],
     "resumen": "Gana Villarreal CF (claro favorito, 62%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.359,
-     "defensa": 0.073,
+     "ataque": 0.358,
+     "defensa": 0.075,
      "neto": 0.432,
      "peso": 47.6,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.086,
-     "defensa": 0.04,
-     "neto": -0.047,
-     "peso": 42.0,
+     "ataque": -0.087,
+     "defensa": 0.041,
+     "neto": -0.046,
+     "peso": 41.9,
      "fiable": true
     },
     "forma_local": {
@@ -352,14 +352,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Villarreal CF es más fuerte de fondo (neto +0.43 vs -0.05): ataca ~43% más que el promedio. Villarreal CF juega en casa (~+33% de ventaja, ya contada). Goles esperados: 2.05 – 0.95; el modelo ve marcando más a Villarreal CF. Y la forma reciente lo confirma: Villarreal CF llega mejor (2G-1E-2P vs 1G-1E-3P).",
+    "explicacion": "Villarreal CF es más fuerte de fondo (neto +0.43 vs -0.05): ataca ~43% más que el promedio. Villarreal CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.05 – 0.95; el modelo ve marcando más a Villarreal CF. Y la forma reciente lo confirma: Villarreal CF llega mejor (2G-1E-2P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.623,
+     "prob": 0.624,
      "por_que": "Villarreal CF es favorito en casa: marca más (2.05 vs 0.95) y es más fuerte de fondo (neto +0.43 vs -0.05). Probabilidad: 62%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.836
+      "prob": 0.837
      },
      "confianza": "alta"
     }
@@ -410,14 +410,14 @@
      "ataque": 0.087,
      "defensa": 0.376,
      "neto": 0.464,
-     "peso": 41.3,
+     "peso": 41.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.239,
      "defensa": 0.229,
-     "neto": 0.467,
-     "peso": 41.3,
+     "neto": 0.468,
+     "peso": 41.2,
      "fiable": true
     },
     "forma_local": {
