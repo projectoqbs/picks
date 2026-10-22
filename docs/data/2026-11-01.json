@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-01",
- "actualizado": "2026-10-22T10:55:51+00:00",
+ "actualizado": "2026-10-22T18:14:35+00:00",
  "partidos": [
   {
    "id": 558543,
@@ -161,14 +161,14 @@
      "ataque": -0.392,
      "defensa": 0.293,
      "neto": -0.099,
-     "peso": 47.5,
+     "peso": 47.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.033,
      "defensa": -0.041,
      "neto": -0.008,
-     "peso": 47.5,
+     "peso": 47.4,
      "fiable": true
     },
     "forma_local": {
@@ -293,7 +293,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.21,
+     "ataque": 0.209,
      "defensa": -0.129,
      "neto": 0.08,
      "peso": 12.1,
@@ -303,7 +303,7 @@
      "ataque": -0.02,
      "defensa": -0.052,
      "neto": -0.072,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "forma_local": {
@@ -407,7 +407,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.121,
+     "ataque": 0.12,
      "defensa": 0.208,
      "neto": 0.328,
      "peso": 45.7,
@@ -545,14 +545,14 @@
      "ataque": 0.214,
      "defensa": 0.01,
      "neto": 0.224,
-     "peso": 41.3,
+     "peso": 41.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.044,
      "defensa": -0.008,
      "neto": -0.053,
-     "peso": 36.3,
+     "peso": 36.2,
      "fiable": true
     },
     "forma_local": {
@@ -766,7 +766,7 @@
     "prob_X": 0.127,
     "prob_2": 0.775,
     "goles_esperados": [
-     1.177,
+     1.176,
      3.271
     ],
     "prob_over_2_5": 0.82,
@@ -995,13 +995,13 @@
      ],
      [
       "2-0",
-      0.0807
+      0.0806
      ]
     ],
     "cuotas_justas": [
      1.77,
      4.52,
-     4.68
+     4.67
     ],
     "resumen": "Gana Eintracht Frankfurt (claro favorito, 56%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -1205,7 +1205,7 @@
     "explicacion": "Arsenal FC es más fuerte de fondo (neto +0.94 vs +0.47): ataca ~37% más que el promedio, encaja ~46% menos. Liverpool FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.09 – 1.47; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (4G-0E-1P vs 3G-1E-1P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.729,
+     "prob": 0.728,
      "por_que": "Doble oportunidad: cubre que Liverpool FC no gane. El escenario que queda afuera (gane Liverpool FC) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
      "alternativa": null,
      "confianza": "alta"
@@ -1257,7 +1257,7 @@
      "ataque": -0.33,
      "defensa": -0.063,
      "neto": -0.393,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1361,7 +1361,7 @@
     "prob_2": 0.261,
     "goles_esperados": [
      1.525,
-     1.068
+     1.069
     ],
     "prob_over_2_5": 0.48,
     "prob_btts": 0.518,
@@ -1503,14 +1503,14 @@
      "ataque": 0.22,
      "defensa": 0.307,
      "neto": 0.527,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.215,
      "defensa": 0.325,
      "neto": 0.54,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "forma_local": {
@@ -1645,7 +1645,7 @@
      "ataque": 0.08,
      "defensa": 0.077,
      "neto": 0.157,
-     "peso": 40.5,
+     "peso": 40.4,
      "fiable": true
     },
     "forma_local": {
@@ -1773,7 +1773,7 @@
      "ataque": 0.01,
      "defensa": 0.184,
      "neto": 0.194,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "fuerza_visitante": {

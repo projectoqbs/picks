@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-30",
- "actualizado": "2026-10-22T10:55:51+00:00",
+ "actualizado": "2026-10-22T18:14:35+00:00",
  "partidos": [
   {
    "id": 559644,
@@ -158,7 +158,7 @@
     "marcadores": [
      [
       "1-1",
-      0.093
+      0.0931
      ],
      [
       "2-1",
@@ -181,7 +181,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.313,
-     "defensa": -0.078,
+     "defensa": -0.077,
      "neto": 0.235,
      "peso": 5.7,
      "fiable": false
@@ -282,7 +282,7 @@
      "ataque": 0.358,
      "defensa": 0.075,
      "neto": 0.432,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -416,7 +416,7 @@
     "fuerza_visitante": {
      "ataque": 0.239,
      "defensa": 0.229,
-     "neto": 0.468,
+     "neto": 0.467,
      "peso": 41.2,
      "fiable": true
     },
