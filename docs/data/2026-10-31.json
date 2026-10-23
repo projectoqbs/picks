@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-31",
- "actualizado": "2026-10-22T18:14:35+00:00",
+ "actualizado": "2026-10-23T10:46:54+00:00",
  "partidos": [
   {
    "id": 560626,
@@ -15,7 +15,7 @@
     "prob_X": 0.245,
     "prob_2": 0.293,
     "goles_esperados": [
-     1.824,
+     1.825,
      1.424
     ],
     "prob_over_2_5": 0.63,
@@ -47,14 +47,14 @@
      "ataque": 0.276,
      "defensa": 0.044,
      "neto": 0.32,
-     "peso": 45.4,
+     "peso": 45.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.164,
      "defensa": 0.083,
      "neto": 0.247,
-     "peso": 45.4,
+     "peso": 45.3,
      "fiable": true
     },
     "forma_local": {
@@ -182,14 +182,14 @@
      "ataque": 0.125,
      "defensa": -0.118,
      "neto": 0.007,
-     "peso": 30.9,
+     "peso": 30.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.351,
      "defensa": 0.299,
      "neto": 0.65,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "forma_local": {
@@ -303,7 +303,7 @@
      "ataque": -0.049,
      "defensa": -0.305,
      "neto": -0.354,
-     "peso": 23.3,
+     "peso": 23.2,
      "fiable": true
     },
     "forma_local": {
@@ -393,7 +393,7 @@
     "prob_2": 0.271,
     "goles_esperados": [
      1.45,
-     1.065
+     1.066
     ],
     "prob_over_2_5": 0.46,
     "prob_btts": 0.509,
@@ -404,7 +404,7 @@
      ],
      [
       "1-0",
-      0.1103
+      0.1102
      ],
      [
       "2-1",
@@ -419,20 +419,20 @@
     "resumen": "Gana Borussia Mönchengladbach (ligero favorito, 45%).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'SC Paderborn 07' solo tiene 5.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'SC Paderborn 07' solo tiene 5.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.044,
      "defensa": -0.114,
      "neto": -0.158,
-     "peso": 40.6,
+     "peso": 40.5,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.329,
+     "ataque": -0.328,
      "defensa": 0.085,
      "neto": -0.244,
-     "peso": 5.7,
+     "peso": 5.6,
      "fiable": false
     },
     "forma_local": {
@@ -466,7 +466,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "En fuerza de temporada están parejos (neto -0.16 vs -0.24). Borussia Mönchengladbach juega en casa (~+25% de ventaja, ya contada). Goles esperados: 1.45 – 1.06; el modelo ve marcando más a Borussia Mönchengladbach. En forma reciente pinta algo mejor SC Paderborn 07 (0G-0E-5P vs 1G-1E-3P en 5). El modelo tiene pocos datos de SC Paderborn 07: tomalo con pinzas.",
+    "explicacion": "En fuerza de temporada están parejos (neto -0.16 vs -0.24). Borussia Mönchengladbach juega en casa (~+25% de ventaja, ya contada). Goles esperados: 1.45 – 1.07; el modelo ve marcando más a Borussia Mönchengladbach. En forma reciente pinta algo mejor SC Paderborn 07 (0G-0E-5P vs 1G-1E-3P en 5). El modelo tiene pocos datos de SC Paderborn 07: tomalo con pinzas.",
     "recomendacion": null
    }
   },
@@ -484,7 +484,7 @@
     "prob_2": 0.446,
     "goles_esperados": [
      0.924,
-     1.304
+     1.305
     ],
     "prob_over_2_5": 0.385,
     "prob_btts": 0.447,
@@ -510,20 +510,20 @@
     "resumen": "Gana RB Leipzig (ligero favorito, 45%). pocos goles (-2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'FC Schalke 04' solo tiene 5.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'FC Schalke 04' solo tiene 5.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.448,
+     "ataque": -0.449,
      "defensa": 0.297,
-     "neto": -0.151,
-     "peso": 5.7,
+     "neto": -0.152,
+     "peso": 5.6,
      "fiable": false
     },
     "fuerza_visitante": {
      "ataque": 0.285,
      "defensa": 0.131,
      "neto": 0.416,
-     "peso": 40.6,
+     "peso": 40.5,
      "fiable": true
     },
     "forma_local": {
@@ -615,14 +615,14 @@
      "ataque": -0.0,
      "defensa": -0.022,
      "neto": -0.022,
-     "peso": 40.6,
+     "peso": 40.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.086,
      "defensa": 0.038,
      "neto": 0.124,
-     "peso": 40.6,
+     "peso": 40.5,
      "fiable": true
     },
     "forma_local": {
@@ -750,14 +750,14 @@
      "ataque": -0.064,
      "defensa": -0.044,
      "neto": -0.108,
-     "peso": 40.6,
+     "peso": 40.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.181,
      "defensa": -0.117,
      "neto": 0.064,
-     "peso": 40.6,
+     "peso": 40.5,
      "fiable": true
     },
     "forma_local": {
@@ -851,10 +851,10 @@
    "prediccion": {
     "prob_1": 0.532,
     "prob_X": 0.219,
-    "prob_2": 0.25,
+    "prob_2": 0.249,
     "goles_esperados": [
      2.116,
-     1.414
+     1.413
     ],
     "prob_over_2_5": 0.685,
     "prob_btts": 0.67,
@@ -892,7 +892,7 @@
      "ataque": 0.289,
      "defensa": 0.126,
      "neto": 0.415,
-     "peso": 40.6,
+     "peso": 40.5,
      "fiable": true
     },
     "forma_local": {
@@ -1119,7 +1119,7 @@
    "local": "AFC Bournemouth",
    "visitante": "Leeds United FC",
    "prediccion": {
-    "prob_1": 0.413,
+    "prob_1": 0.414,
     "prob_X": 0.28,
     "prob_2": 0.307,
     "goles_esperados": [
@@ -1155,14 +1155,14 @@
      "ataque": 0.114,
      "defensa": 0.047,
      "neto": 0.161,
-     "peso": 45.4,
+     "peso": 45.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.011,
+     "ataque": 0.01,
      "defensa": 0.152,
      "neto": 0.162,
-     "peso": 28.7,
+     "peso": 28.6,
      "fiable": true
     },
     "forma_local": {
@@ -1228,7 +1228,7 @@
     "prob_X": 0.301,
     "prob_2": 0.363,
     "goles_esperados": [
-     1.165,
+     1.166,
      1.222
     ],
     "prob_over_2_5": 0.427,
@@ -1268,7 +1268,7 @@
      "ataque": -0.17,
      "defensa": 0.068,
      "neto": -0.102,
-     "peso": 28.7,
+     "peso": 28.6,
      "fiable": true
     },
     "forma_local": {
@@ -1336,7 +1336,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1127
+      0.1128
      ],
      [
       "2-0",
@@ -1344,7 +1344,7 @@
      ],
      [
       "1-0",
-      0.1087
+      0.1086
      ]
     ],
     "cuotas_justas": [
@@ -1368,7 +1368,7 @@
      "ataque": -0.087,
      "defensa": -0.334,
      "neto": -0.422,
-     "peso": 17.7,
+     "peso": 17.6,
      "fiable": true
     },
     "forma_local": {
@@ -1584,7 +1584,7 @@
     ],
     "cuotas_justas": [
      2.6,
-     3.42,
+     3.43,
      3.09
     ],
     "resumen": "Partido parejo. pocos goles (-2.5).",
@@ -1595,14 +1595,14 @@
      "ataque": -0.089,
      "defensa": 0.113,
      "neto": 0.024,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.091,
      "defensa": 0.113,
      "neto": 0.204,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "forma_local": {
@@ -1730,14 +1730,14 @@
      "ataque": -0.043,
      "defensa": 0.046,
      "neto": 0.003,
-     "peso": 41.2,
+     "peso": 41.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.275,
      "defensa": -0.029,
      "neto": 0.246,
-     "peso": 41.2,
+     "peso": 41.1,
      "fiable": true
     },
     "forma_local": {
@@ -1872,7 +1872,7 @@
      "ataque": 0.336,
      "defensa": 0.422,
      "neto": 0.758,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "forma_local": {
@@ -1968,7 +1968,7 @@
     "prob_X": 0.184,
     "prob_2": 0.166,
     "goles_esperados": [
-     2.533,
+     2.534,
      1.245
     ],
     "prob_over_2_5": 0.728,
@@ -2000,14 +2000,14 @@
      "ataque": 0.783,
      "defensa": 0.356,
      "neto": 1.139,
-     "peso": 40.6,
+     "peso": 40.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.298,
      "defensa": 0.354,
      "neto": 0.652,
-     "peso": 40.6,
+     "peso": 40.5,
      "fiable": true
     },
     "forma_local": {
@@ -2135,7 +2135,7 @@
      "ataque": 0.024,
      "defensa": -0.053,
      "neto": -0.029,
-     "peso": 45.4,
+     "peso": 45.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2376,7 +2376,7 @@
      "ataque": 0.663,
      "defensa": 0.281,
      "neto": 0.944,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "forma_local": {
@@ -2504,14 +2504,14 @@
      "ataque": 0.24,
      "defensa": 0.187,
      "neto": 0.427,
-     "peso": 41.2,
+     "peso": 41.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.315,
      "defensa": -0.055,
      "neto": -0.37,
-     "peso": 36.3,
+     "peso": 36.2,
      "fiable": true
     },
     "forma_local": {
@@ -2620,7 +2620,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.32,
+     2.33,
      3.9,
      3.19
     ],
@@ -2638,7 +2638,7 @@
     "fuerza_visitante": {
      "ataque": 0.103,
      "defensa": -0.032,
-     "neto": 0.071,
+     "neto": 0.07,
      "peso": 41.2,
      "fiable": true
     },
@@ -2733,11 +2733,11 @@
     "marcadores": [
      [
       "1-1",
-      0.1018
+      0.1019
      ],
      [
       "1-2",
-      0.0956
+      0.0955
      ],
      [
       "0-2",
@@ -2833,7 +2833,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1293
+      0.1294
      ],
      [
       "1-0",
@@ -2845,7 +2845,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.1,
+     2.09,
      3.69,
      3.97
     ],
@@ -2989,14 +2989,14 @@
      "ataque": 0.787,
      "defensa": 0.311,
      "neto": 1.098,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.057,
      "defensa": 0.079,
      "neto": 0.022,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "forma_local": {

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-22T18:14:34+00:00",
+ "actualizado": "2026-10-23T10:46:53+00:00",
  "fixtures": [
   {
    "id": 565833,
@@ -1020,6 +1020,46 @@
    "jornada": 11,
    "local": "Athletic Club",
    "visitante": "Real Sociedad de Fútbol"
+  },
+  {
+   "id": 558541,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-11-02T17:30:00Z",
+   "estado": "TIMED",
+   "jornada": 10,
+   "local": "US Sassuolo Calcio",
+   "visitante": "ACF Fiorentina"
+  },
+  {
+   "id": 558545,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-11-02T19:45:00Z",
+   "estado": "TIMED",
+   "jornada": 10,
+   "local": "Atalanta BC",
+   "visitante": "Parma Calcio 1913"
+  },
+  {
+   "id": 560622,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-11-02T20:00:00Z",
+   "estado": "TIMED",
+   "jornada": 9,
+   "local": "Newcastle United FC",
+   "visitante": "Everton FC"
+  },
+  {
+   "id": 564731,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-11-02T20:00:00Z",
+   "estado": "TIMED",
+   "jornada": 11,
+   "local": "RC Deportivo La Coruña",
+   "visitante": "CA Osasuna"
   }
  ]
 }

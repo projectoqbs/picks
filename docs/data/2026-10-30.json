@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-30",
- "actualizado": "2026-10-22T18:14:35+00:00",
+ "actualizado": "2026-10-23T10:46:54+00:00",
  "partidos": [
   {
    "id": 559644,
@@ -23,7 +23,7 @@
     "marcadores": [
      [
       "0-2",
-      0.1233
+      0.1232
      ],
      [
       "0-1",
@@ -36,7 +36,7 @@
     ],
     "cuotas_justas": [
      8.16,
-     5.1,
+     5.09,
      1.47
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 68%).",
@@ -47,14 +47,14 @@
      "ataque": -0.265,
      "defensa": -0.01,
      "neto": -0.275,
-     "peso": 41.2,
+     "peso": 41.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.525,
      "defensa": 0.396,
      "neto": 0.921,
-     "peso": 41.3,
+     "peso": 41.2,
      "fiable": true
     },
     "forma_local": {
@@ -127,7 +127,7 @@
     "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.92 vs -0.28): ataca ~69% más que el promedio, encaja ~33% menos. Le Havre AC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 0.78 – 2.13; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-0E-1P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.878,
+     "prob": 0.877,
      "por_que": "Doble oportunidad: cubre que Le Havre AC no gane. El escenario que queda afuera (gane Le Havre AC) es el menos probable (12%), así que el mercado se cumple ~88% de las veces.",
      "alternativa": {
       "mercado": "12",
@@ -150,7 +150,7 @@
     "prob_X": 0.222,
     "prob_2": 0.269,
     "goles_esperados": [
-     2.071,
+     2.07,
      1.473
     ],
     "prob_over_2_5": 0.687,
@@ -177,20 +177,20 @@
     "resumen": "Gana SV 07 Elversberg (ligero favorito, 51%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'SV 07 Elversberg' solo tiene 5.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'SV 07 Elversberg' solo tiene 5.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.313,
      "defensa": -0.077,
      "neto": 0.235,
-     "peso": 5.7,
+     "peso": 5.6,
      "fiable": false
     },
     "fuerza_visitante": {
      "ataque": 0.032,
      "defensa": 0.085,
      "neto": 0.118,
-     "peso": 40.6,
+     "peso": 40.5,
      "fiable": true
     },
     "forma_local": {
@@ -410,14 +410,14 @@
      "ataque": 0.087,
      "defensa": 0.376,
      "neto": 0.464,
-     "peso": 41.2,
+     "peso": 41.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.239,
      "defensa": 0.229,
      "neto": 0.467,
-     "peso": 41.2,
+     "peso": 41.1,
      "fiable": true
     },
     "forma_local": {

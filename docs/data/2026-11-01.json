@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-01",
- "actualizado": "2026-10-22T18:14:35+00:00",
+ "actualizado": "2026-10-23T10:46:54+00:00",
  "partidos": [
   {
    "id": 558543,
@@ -47,7 +47,7 @@
      "ataque": 0.301,
      "defensa": 0.285,
      "neto": 0.586,
-     "peso": 40.1,
+     "peso": 40.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -159,7 +159,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.392,
-     "defensa": 0.293,
+     "defensa": 0.292,
      "neto": -0.099,
      "peso": 47.4,
      "fiable": true
@@ -410,7 +410,7 @@
      "ataque": 0.12,
      "defensa": 0.208,
      "neto": 0.328,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -549,7 +549,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.044,
+     "ataque": -0.045,
      "defensa": -0.008,
      "neto": -0.053,
      "peso": 36.2,
@@ -680,7 +680,7 @@
      "ataque": -0.116,
      "defensa": -0.11,
      "neto": -0.225,
-     "peso": 30.6,
+     "peso": 30.5,
      "fiable": true
     },
     "forma_local": {
@@ -766,7 +766,7 @@
     "prob_X": 0.127,
     "prob_2": 0.775,
     "goles_esperados": [
-     1.176,
+     1.177,
      3.271
     ],
     "prob_over_2_5": 0.82,
@@ -798,14 +798,14 @@
      "ataque": 0.157,
      "defensa": -0.546,
      "neto": -0.389,
-     "peso": 8.4,
+     "peso": 8.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.527,
      "defensa": 0.395,
      "neto": 0.923,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "forma_local": {
@@ -904,7 +904,7 @@
      "ataque": 0.291,
      "defensa": 0.117,
      "neto": 0.408,
-     "peso": 41.2,
+     "peso": 41.1,
      "fiable": true
     },
     "forma_local": {
@@ -1011,14 +1011,14 @@
      "ataque": 0.174,
      "defensa": -0.105,
      "neto": 0.069,
-     "peso": 40.6,
+     "peso": 40.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.192,
      "defensa": -0.049,
      "neto": -0.241,
-     "peso": 25.7,
+     "peso": 25.6,
      "fiable": true
     },
     "forma_local": {
@@ -1089,12 +1089,12 @@
    "local": "Liverpool FC",
    "visitante": "Arsenal FC",
    "prediccion": {
-    "prob_1": 0.271,
+    "prob_1": 0.272,
     "prob_X": 0.283,
     "prob_2": 0.446,
     "goles_esperados": [
      1.094,
-     1.466
+     1.465
     ],
     "prob_over_2_5": 0.471,
     "prob_btts": 0.522,
@@ -1125,14 +1125,14 @@
      "ataque": 0.307,
      "defensa": 0.166,
      "neto": 0.473,
-     "peso": 45.4,
+     "peso": 45.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.315,
      "defensa": 0.625,
      "neto": 0.94,
-     "peso": 45.3,
+     "peso": 45.2,
      "fiable": true
     },
     "forma_local": {
@@ -1205,7 +1205,7 @@
     "explicacion": "Arsenal FC es más fuerte de fondo (neto +0.94 vs +0.47): ataca ~37% más que el promedio, encaja ~46% menos. Liverpool FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.09 – 1.47; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (4G-0E-1P vs 3G-1E-1P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.728,
+     "prob": 0.729,
      "por_que": "Doble oportunidad: cubre que Liverpool FC no gane. El escenario que queda afuera (gane Liverpool FC) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
      "alternativa": null,
      "confianza": "alta"
@@ -1361,7 +1361,7 @@
     "prob_2": 0.261,
     "goles_esperados": [
      1.525,
-     1.069
+     1.068
     ],
     "prob_over_2_5": 0.48,
     "prob_btts": 0.518,
@@ -1399,7 +1399,7 @@
      "ataque": -0.1,
      "defensa": 0.033,
      "neto": -0.067,
-     "peso": 47.5,
+     "peso": 47.4,
      "fiable": true
     },
     "forma_local": {
@@ -1487,7 +1487,7 @@
      ],
      [
       "0-1",
-      0.1126
+      0.1125
      ]
     ],
     "cuotas_justas": [
@@ -1583,7 +1583,7 @@
     "explicacion": "En fuerza de temporada están parejos (neto +0.53 vs +0.54). Juventus FC juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.16 – 1.05; el modelo ve marcando más a Juventus FC. También parejos en forma (1G-2E-2P vs 2G-1E-2P en 5).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.62,
+     "prob": 0.619,
      "por_que": "Pocos goles esperados en total (1.16 + 1.05 = 2.21); la defensa de SSC Napoli aprieta. El modelo ve el partido cerrado (62% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
@@ -1638,7 +1638,7 @@
      "ataque": 0.34,
      "defensa": 0.088,
      "neto": 0.428,
-     "peso": 41.2,
+     "peso": 41.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1780,7 +1780,7 @@
      "ataque": 0.18,
      "defensa": -0.046,
      "neto": 0.134,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "forma_local": {
