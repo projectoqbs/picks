@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-23T10:46:53+00:00",
+ "actualizado": "2026-10-23T18:03:20+00:00",
  "fixtures": [
   {
    "id": 565833,
@@ -452,16 +452,6 @@
    "visitante": "AC Milan"
   },
   {
-   "id": 559648,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-10-25T19:45:00Z",
-   "estado": "TIMED",
-   "jornada": 8,
-   "local": "Paris Saint-Germain FC",
-   "visitante": "Olympique Lyonnais"
-  },
-  {
    "id": 564723,
    "competicion_codigo": "PD",
    "competicion": "La Liga",
@@ -470,6 +460,16 @@
    "jornada": 10,
    "local": "FC Barcelona",
    "visitante": "Real Madrid CF"
+  },
+  {
+   "id": 559648,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-10-26T19:30:00Z",
+   "estado": "TIMED",
+   "jornada": 8,
+   "local": "Paris Saint-Germain FC",
+   "visitante": "Olympique Lyonnais"
   },
   {
    "id": 564721,

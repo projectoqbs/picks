@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-30",
- "actualizado": "2026-10-23T10:46:54+00:00",
+ "actualizado": "2026-10-23T18:03:23+00:00",
  "partidos": [
   {
    "id": 559644,
@@ -127,7 +127,7 @@
     "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.92 vs -0.28): ataca ~69% más que el promedio, encaja ~33% menos. Le Havre AC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 0.78 – 2.13; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-0E-1P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.877,
+     "prob": 0.878,
      "por_que": "Doble oportunidad: cubre que Le Havre AC no gane. El escenario que queda afuera (gane Le Havre AC) es el menos probable (12%), así que el mercado se cumple ~88% de las veces.",
      "alternativa": {
       "mercado": "12",
@@ -180,7 +180,7 @@
    "nota": "pocos datos: 'SV 07 Elversberg' solo tiene 5.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.313,
+     "ataque": 0.312,
      "defensa": -0.077,
      "neto": 0.235,
      "peso": 5.6,
@@ -289,7 +289,7 @@
      "ataque": -0.087,
      "defensa": 0.041,
      "neto": -0.046,
-     "peso": 41.9,
+     "peso": 41.8,
      "fiable": true
     },
     "forma_local": {
@@ -409,13 +409,13 @@
     "fuerza_local": {
      "ataque": 0.087,
      "defensa": 0.376,
-     "neto": 0.464,
+     "neto": 0.463,
      "peso": 41.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.239,
-     "defensa": 0.229,
+     "defensa": 0.228,
      "neto": 0.467,
      "peso": 41.1,
      "fiable": true

@@ -1,7 +1,142 @@
 {
  "fecha": "2026-10-26",
- "actualizado": "2026-10-23T10:46:54+00:00",
+ "actualizado": "2026-10-23T18:03:23+00:00",
  "partidos": [
+  {
+   "id": 559648,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-10-26T19:30:00Z",
+   "jornada": 8,
+   "local": "Paris Saint-Germain FC",
+   "visitante": "Olympique Lyonnais",
+   "prediccion": {
+    "prob_1": 0.613,
+    "prob_X": 0.208,
+    "prob_2": 0.179,
+    "goles_esperados": [
+     2.126,
+     1.066
+    ],
+    "prob_over_2_5": 0.619,
+    "prob_btts": 0.58,
+    "marcadores": [
+     [
+      "2-1",
+      0.099
+     ],
+     [
+      "1-1",
+      0.096
+     ],
+     [
+      "2-0",
+      0.0928
+     ]
+    ],
+    "cuotas_justas": [
+     1.63,
+     4.8,
+     5.6
+    ],
+    "resumen": "Gana Paris Saint-Germain FC (claro favorito, 61%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.525,
+     "defensa": 0.396,
+     "neto": 0.921,
+     "peso": 41.2,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.24,
+     "defensa": 0.187,
+     "neto": 0.427,
+     "peso": 41.1,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 4,
+     "e": 0,
+     "p": 1,
+     "gf": 10,
+     "gc": 5,
+     "racha": [
+      "P",
+      "G",
+      "G",
+      "G",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 1,
+     "p": 1,
+     "gf": 10,
+     "gc": 4,
+     "racha": [
+      "G",
+      "E",
+      "G",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-04-19",
+      "local": "Paris Saint-Germain FC",
+      "visitante": "Olympique Lyonnais",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-11-09",
+      "local": "Olympique Lyonnais",
+      "visitante": "Paris Saint-Germain FC",
+      "goles_local": 2,
+      "goles_visitante": 3
+     },
+     {
+      "fecha": "2025-02-23",
+      "local": "Olympique Lyonnais",
+      "visitante": "Paris Saint-Germain FC",
+      "goles_local": 2,
+      "goles_visitante": 3
+     },
+     {
+      "fecha": "2024-12-15",
+      "local": "Paris Saint-Germain FC",
+      "visitante": "Olympique Lyonnais",
+      "goles_local": 3,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-04-21",
+      "local": "Paris Saint-Germain FC",
+      "visitante": "Olympique Lyonnais",
+      "goles_local": 4,
+      "goles_visitante": 1
+     }
+    ],
+    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.92 vs +0.43): ataca ~69% más que el promedio, encaja ~33% menos. Paris Saint-Germain FC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 2.13 – 1.07; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-0E-1P vs 3G-1E-1P).",
+    "recomendacion": {
+     "mercado": "1",
+     "prob": 0.613,
+     "por_que": "Paris Saint-Germain FC es favorito en casa: marca más (2.13 vs 1.07) y es más fuerte de fondo (neto +0.92 vs +0.43). Probabilidad: 61%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.831
+     },
+     "confianza": "alta"
+    }
+   }
+  },
   {
    "id": 564721,
    "competicion": "La Liga",

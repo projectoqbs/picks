@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-25",
- "actualizado": "2026-10-23T10:46:54+00:00",
+ "actualizado": "2026-10-23T18:03:23+00:00",
  "partidos": [
   {
    "id": 558563,
@@ -162,7 +162,7 @@
      ],
      [
       "0-0",
-      0.1775
+      0.1776
      ],
      [
       "1-1",
@@ -187,9 +187,9 @@
     },
     "fuerza_visitante": {
      "ataque": -0.392,
-     "defensa": 0.292,
+     "defensa": 0.293,
      "neto": -0.099,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "forma_local": {
@@ -301,7 +301,7 @@
      ],
      [
       "1-0",
-      0.0843
+      0.0844
      ]
     ],
     "cuotas_justas": [
@@ -431,14 +431,14 @@
      "ataque": -0.123,
      "defensa": -0.019,
      "neto": -0.142,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.252,
      "defensa": -0.238,
      "neto": -0.49,
-     "peso": 17.7,
+     "peso": 17.6,
      "fiable": true
     },
     "forma_local": {
@@ -533,7 +533,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.45,
+     2.46,
      3.7,
      3.1
     ],
@@ -544,14 +544,14 @@
     "fuerza_local": {
      "ataque": 0.291,
      "defensa": 0.117,
-     "neto": 0.408,
+     "neto": 0.407,
      "peso": 41.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.087,
      "defensa": 0.376,
-     "neto": 0.464,
+     "neto": 0.463,
      "peso": 41.1,
      "fiable": true
     },
@@ -1301,7 +1301,7 @@
      ],
      [
       "1-0",
-      0.0891
+      0.089
      ]
     ],
     "cuotas_justas": [
@@ -1324,7 +1324,7 @@
      "ataque": 0.245,
      "defensa": 0.094,
      "neto": 0.339,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "forma_local": {
@@ -2002,7 +2002,7 @@
     "prob_2": 0.689,
     "goles_esperados": [
      1.259,
-     2.78
+     2.781
     ],
     "prob_over_2_5": 0.768,
     "prob_btts": 0.675,
@@ -2172,7 +2172,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.01,
+     "ataque": 0.011,
      "defensa": 0.152,
      "neto": 0.162,
      "peso": 28.6,
@@ -2289,7 +2289,7 @@
      "ataque": 0.22,
      "defensa": 0.307,
      "neto": 0.527,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "forma_local": {
@@ -2538,7 +2538,7 @@
      "ataque": 0.279,
      "defensa": 0.197,
      "neto": 0.476,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "forma_local": {
@@ -2614,141 +2614,6 @@
      "prob": 0.769,
      "por_que": "Doble oportunidad: cubre que Udinese Calcio no gane. El escenario que queda afuera (gane Udinese Calcio) es el menos probable (23%), así que el mercado se cumple ~77% de las veces.",
      "alternativa": null,
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 559648,
-   "competicion": "Ligue 1",
-   "competicion_codigo": "FL1",
-   "fecha_utc": "2026-10-25T19:45:00Z",
-   "jornada": 8,
-   "local": "Paris Saint-Germain FC",
-   "visitante": "Olympique Lyonnais",
-   "prediccion": {
-    "prob_1": 0.613,
-    "prob_X": 0.208,
-    "prob_2": 0.179,
-    "goles_esperados": [
-     2.126,
-     1.066
-    ],
-    "prob_over_2_5": 0.619,
-    "prob_btts": 0.58,
-    "marcadores": [
-     [
-      "2-1",
-      0.099
-     ],
-     [
-      "1-1",
-      0.096
-     ],
-     [
-      "2-0",
-      0.0928
-     ]
-    ],
-    "cuotas_justas": [
-     1.63,
-     4.8,
-     5.6
-    ],
-    "resumen": "Gana Paris Saint-Germain FC (claro favorito, 61%). se esperan goles (+2.5). ambos marcan.",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.525,
-     "defensa": 0.396,
-     "neto": 0.921,
-     "peso": 41.2,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.24,
-     "defensa": 0.187,
-     "neto": 0.427,
-     "peso": 41.1,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 4,
-     "e": 0,
-     "p": 1,
-     "gf": 10,
-     "gc": 5,
-     "racha": [
-      "P",
-      "G",
-      "G",
-      "G",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 3,
-     "e": 1,
-     "p": 1,
-     "gf": 10,
-     "gc": 4,
-     "racha": [
-      "G",
-      "E",
-      "G",
-      "P",
-      "G"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-04-19",
-      "local": "Paris Saint-Germain FC",
-      "visitante": "Olympique Lyonnais",
-      "goles_local": 1,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2025-11-09",
-      "local": "Olympique Lyonnais",
-      "visitante": "Paris Saint-Germain FC",
-      "goles_local": 2,
-      "goles_visitante": 3
-     },
-     {
-      "fecha": "2025-02-23",
-      "local": "Olympique Lyonnais",
-      "visitante": "Paris Saint-Germain FC",
-      "goles_local": 2,
-      "goles_visitante": 3
-     },
-     {
-      "fecha": "2024-12-15",
-      "local": "Paris Saint-Germain FC",
-      "visitante": "Olympique Lyonnais",
-      "goles_local": 3,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2024-04-21",
-      "local": "Paris Saint-Germain FC",
-      "visitante": "Olympique Lyonnais",
-      "goles_local": 4,
-      "goles_visitante": 1
-     }
-    ],
-    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.92 vs +0.43): ataca ~69% más que el promedio, encaja ~33% menos. Paris Saint-Germain FC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 2.13 – 1.07; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-0E-1P vs 3G-1E-1P).",
-    "recomendacion": {
-     "mercado": "1",
-     "prob": 0.613,
-     "por_que": "Paris Saint-Germain FC es favorito en casa: marca más (2.13 vs 1.07) y es más fuerte de fondo (neto +0.92 vs +0.43). Probabilidad: 61%.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.831
-     },
      "confianza": "alta"
     }
    }
