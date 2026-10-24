@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-25",
- "actualizado": "2026-10-24T10:03:38+00:00",
+ "actualizado": "2026-10-24T17:08:41+00:00",
  "partidos": [
   {
    "id": 558563,
@@ -47,14 +47,14 @@
      "ataque": 0.66,
      "defensa": 0.283,
      "neto": 0.943,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.08,
      "defensa": -0.049,
      "neto": 0.031,
-     "peso": 45.6,
+     "peso": 45.5,
      "fiable": true
     },
     "forma_local": {
@@ -301,7 +301,7 @@
      ],
      [
       "1-2",
-      0.0726
+      0.0725
      ]
     ],
     "cuotas_justas": [
@@ -536,7 +536,7 @@
      "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.47 y 1.57. Probabilidad: 62%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.817
+      "prob": 0.816
      },
      "confianza": "alta"
     }
@@ -706,7 +706,7 @@
      ],
      [
       "0-0",
-      0.1013
+      0.1012
      ]
     ],
     "cuotas_justas": [
@@ -790,7 +790,7 @@
     "prob_X": 0.224,
     "prob_2": 0.224,
     "goles_esperados": [
-     1.944,
+     1.943,
      1.168
     ],
     "prob_over_2_5": 0.601,
@@ -942,7 +942,7 @@
     "fuerza_visitante": {
      "ataque": -0.254,
      "defensa": -0.237,
-     "neto": -0.491,
+     "neto": -0.49,
      "peso": 17.6,
      "fiable": true
     },
@@ -1057,7 +1057,7 @@
      "ataque": 0.087,
      "defensa": 0.376,
      "neto": 0.463,
-     "peso": 41.1,
+     "peso": 41.0,
      "fiable": true
     },
     "forma_local": {
@@ -1130,7 +1130,7 @@
     "explicacion": "En fuerza de temporada están parejos (neto +0.41 vs +0.46). AS Monaco FC juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.39 – 1.21; el modelo ve marcando más a AS Monaco FC. También parejos en forma (2G-2E-1P vs 3G-1E-1P en 5).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.594,
+     "prob": 0.593,
      "por_que": "Doble oportunidad: cubre que AS Monaco FC no gane. El escenario que queda afuera (gane AS Monaco FC) es el menos probable (41%), así que el mercado se cumple ~59% de las veces.",
      "alternativa": null,
      "confianza": "alta"
@@ -1171,7 +1171,7 @@
     ],
     "cuotas_justas": [
      3.59,
-     4.64,
+     4.63,
      1.98
     ],
     "resumen": "Gana Bayer 04 Leverkusen (ligero favorito, 51%). se esperan goles (+2.5). ambos marcan.",
@@ -1182,11 +1182,11 @@
      "ataque": 0.179,
      "defensa": -0.115,
      "neto": 0.064,
-     "peso": 40.5,
+     "peso": 40.4,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.374,
+     "ataque": 0.373,
      "defensa": 0.221,
      "neto": 0.595,
      "peso": 40.5,
@@ -1321,10 +1321,10 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.244,
+     "ataque": 0.245,
      "defensa": 0.093,
      "neto": 0.337,
-     "peso": 47.3,
+     "peso": 47.2,
      "fiable": true
     },
     "forma_local": {
@@ -1413,11 +1413,11 @@
    "local": "Olympique de Marseille",
    "visitante": "Le Havre AC",
    "prediccion": {
-    "prob_1": 0.662,
+    "prob_1": 0.663,
     "prob_X": 0.199,
     "prob_2": 0.139,
     "goles_esperados": [
-     2.149,
+     2.15,
      0.877
     ],
     "prob_over_2_5": 0.583,
@@ -1449,14 +1449,14 @@
      "ataque": 0.34,
      "defensa": 0.088,
      "neto": 0.428,
-     "peso": 41.1,
+     "peso": 41.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.265,
      "defensa": -0.01,
      "neto": -0.275,
-     "peso": 41.1,
+     "peso": 41.0,
      "fiable": true
     },
     "forma_local": {
@@ -1529,7 +1529,7 @@
     "explicacion": "Olympique de Marseille es más fuerte de fondo (neto +0.43 vs -0.28): ataca ~40% más que el promedio. Olympique de Marseille juega en casa (~+21% de ventaja, ya contada). Goles esperados: 2.15 – 0.88; el modelo ve marcando más a Olympique de Marseille. Y la forma reciente lo confirma: Olympique de Marseille llega mejor (2G-0E-3P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.662,
+     "prob": 0.663,
      "por_que": "Olympique de Marseille es favorito en casa: marca más (2.15 vs 0.88) y es más fuerte de fondo (neto +0.43 vs -0.28). Probabilidad: 66%.",
      "alternativa": {
       "mercado": "1X",
@@ -1553,7 +1553,7 @@
     "prob_2": 0.311,
     "goles_esperados": [
      1.973,
-     1.591
+     1.59
     ],
     "prob_over_2_5": 0.691,
     "prob_btts": 0.688,
@@ -1584,7 +1584,7 @@
      "ataque": 0.275,
      "defensa": -0.029,
      "neto": 0.246,
-     "peso": 41.1,
+     "peso": 41.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1668,7 +1668,7 @@
      "por_que": "Bastantes goles esperados (1.97 + 1.59 = 3.56); al menos una defensa floja. Probabilidad al over: 69%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.874
+      "prob": 0.873
      },
      "confianza": "alta"
     }
@@ -1687,7 +1687,7 @@
     "prob_X": 0.286,
     "prob_2": 0.424,
     "goles_esperados": [
-     1.028,
+     1.029,
      1.301
     ],
     "prob_over_2_5": 0.412,
@@ -1723,7 +1723,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.014,
+     "ataque": -0.013,
      "defensa": 0.072,
      "neto": 0.058,
      "peso": 31.1,
@@ -1813,7 +1813,7 @@
      ],
      [
       "1-0",
-      0.0981
+      0.0982
      ],
      [
       "2-1",
@@ -1839,7 +1839,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.365,
-     "defensa": -0.359,
+     "defensa": -0.358,
      "neto": -0.723,
      "peso": 6.5,
      "fiable": false
@@ -1917,7 +1917,7 @@
      ],
      [
       "1-0",
-      0.0727
+      0.0728
      ]
     ],
     "cuotas_justas": [
@@ -2116,7 +2116,7 @@
     "prob_2": 0.689,
     "goles_esperados": [
      1.256,
-     2.782
+     2.781
     ],
     "prob_over_2_5": 0.767,
     "prob_btts": 0.674,
@@ -2147,14 +2147,14 @@
      "ataque": 0.085,
      "defensa": 0.039,
      "neto": 0.124,
-     "peso": 40.5,
+     "peso": 40.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.781,
      "defensa": 0.357,
      "neto": 1.138,
-     "peso": 40.5,
+     "peso": 40.4,
      "fiable": true
     },
     "forma_local": {
@@ -2262,7 +2262,7 @@
      ],
      [
       "0-2",
-      0.1284
+      0.1283
      ],
      [
       "1-1",
@@ -2424,7 +2424,7 @@
      "ataque": 0.126,
      "defensa": -0.119,
      "neto": 0.007,
-     "peso": 30.8,
+     "peso": 30.7,
      "fiable": true
     },
     "forma_local": {
@@ -2631,7 +2631,7 @@
     "prob_X": 0.21,
     "prob_2": 0.234,
     "goles_esperados": [
-     2.208,
+     2.207,
      1.392
     ],
     "prob_over_2_5": 0.697,
