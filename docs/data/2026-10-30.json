@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-30",
- "actualizado": "2026-10-23T18:03:23+00:00",
+ "actualizado": "2026-10-24T10:03:38+00:00",
  "partidos": [
   {
    "id": 559644,
@@ -11,19 +11,19 @@
    "local": "Le Havre AC",
    "visitante": "Paris Saint-Germain FC",
    "prediccion": {
-    "prob_1": 0.123,
+    "prob_1": 0.122,
     "prob_X": 0.196,
-    "prob_2": 0.681,
+    "prob_2": 0.682,
     "goles_esperados": [
-     0.783,
-     2.128
+     0.782,
+     2.13
     ],
-    "prob_over_2_5": 0.556,
+    "prob_over_2_5": 0.557,
     "prob_btts": 0.481,
     "marcadores": [
      [
       "0-2",
-      0.1232
+      0.1233
      ],
      [
       "0-1",
@@ -31,12 +31,12 @@
      ],
      [
       "1-2",
-      0.0965
+      0.0964
      ]
     ],
     "cuotas_justas": [
-     8.16,
-     5.09,
+     8.18,
+     5.1,
      1.47
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 68%).",
@@ -51,10 +51,10 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.525,
+     "ataque": 0.524,
      "defensa": 0.396,
-     "neto": 0.921,
-     "peso": 41.2,
+     "neto": 0.92,
+     "peso": 41.1,
      "fiable": true
     },
     "forma_local": {
@@ -124,7 +124,7 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.92 vs -0.28): ataca ~69% más que el promedio, encaja ~33% menos. Le Havre AC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 0.78 – 2.13; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-0E-1P vs 0G-1E-4P).",
+    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.92 vs -0.28): ataca ~69% más que el promedio, encaja ~33% menos. Le Havre AC juega en casa (~+21% de ventaja, ya contada). Goles esperados: 0.78 – 2.13; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-0E-1P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.878,
@@ -150,19 +150,19 @@
     "prob_X": 0.222,
     "prob_2": 0.269,
     "goles_esperados": [
-     2.07,
-     1.473
+     2.065,
+     1.47
     ],
-    "prob_over_2_5": 0.687,
-    "prob_btts": 0.678,
+    "prob_over_2_5": 0.686,
+    "prob_btts": 0.677,
     "marcadores": [
      [
       "1-1",
-      0.0931
+      0.0934
      ],
      [
       "2-1",
-      0.0913
+      0.0914
      ],
      [
       "2-2",
@@ -170,8 +170,8 @@
      ]
     ],
     "cuotas_justas": [
-     1.96,
-     4.51,
+     1.97,
+     4.5,
      3.72
     ],
     "resumen": "Gana SV 07 Elversberg (ligero favorito, 51%). se esperan goles (+2.5). ambos marcan.",
@@ -180,15 +180,15 @@
    "nota": "pocos datos: 'SV 07 Elversberg' solo tiene 5.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.312,
-     "defensa": -0.077,
-     "neto": 0.235,
+     "ataque": 0.313,
+     "defensa": -0.073,
+     "neto": 0.239,
      "peso": 5.6,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.032,
-     "defensa": 0.085,
+     "ataque": 0.031,
+     "defensa": 0.087,
      "neto": 0.118,
      "peso": 40.5,
      "fiable": true
@@ -224,14 +224,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.23 vs +0.12). SV 07 Elversberg juega en casa (~+25% de ventaja, ya contada). Goles esperados: 2.07 – 1.47; el modelo ve marcando más a SV 07 Elversberg. En forma reciente pinta algo mejor 1. FSV Mainz 05 (2G-1E-2P vs 3G-0E-2P en 5). El modelo tiene pocos datos de SV 07 Elversberg: tomalo con pinzas.",
+    "explicacion": "SV 07 Elversberg es más fuerte de fondo (neto +0.24 vs +0.12): ataca ~37% más que el promedio. SV 07 Elversberg juega en casa (~+24% de ventaja, ya contada). Goles esperados: 2.06 – 1.47; el modelo ve marcando más a SV 07 Elversberg. Pero ojo: en forma reciente 1. FSV Mainz 05 llega mejor que SV 07 Elversberg, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de SV 07 Elversberg: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.687,
-     "por_que": "Bastantes goles esperados (2.07 + 1.47 = 3.54); al menos una defensa floja. Probabilidad al over: 69%.",
+     "prob": 0.686,
+     "por_que": "Bastantes goles esperados (2.06 + 1.47 = 3.54); al menos una defensa floja. Probabilidad al over: 69%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.874
+      "prob": 0.873
      },
      "confianza": "baja"
     }
@@ -246,23 +246,23 @@
    "local": "Villarreal CF",
    "visitante": "RCD Espanyol de Barcelona",
    "prediccion": {
-    "prob_1": 0.624,
-    "prob_X": 0.213,
+    "prob_1": 0.623,
+    "prob_X": 0.214,
     "prob_2": 0.163,
     "goles_esperados": [
-     2.05,
-     0.952
+     2.049,
+     0.953
     ],
     "prob_over_2_5": 0.577,
-    "prob_btts": 0.538,
+    "prob_btts": 0.539,
     "marcadores": [
      [
       "2-0",
-      0.1045
+      0.1043
      ],
      [
       "1-1",
-      0.1007
+      0.1011
      ],
      [
       "2-1",
@@ -270,8 +270,8 @@
      ]
     ],
     "cuotas_justas": [
-     1.6,
-     4.69,
+     1.61,
+     4.67,
      6.13
     ],
     "resumen": "Gana Villarreal CF (claro favorito, 62%).",
@@ -279,16 +279,16 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.358,
-     "defensa": 0.075,
-     "neto": 0.432,
-     "peso": 47.5,
+     "ataque": 0.357,
+     "defensa": 0.073,
+     "neto": 0.431,
+     "peso": 47.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.087,
-     "defensa": 0.041,
-     "neto": -0.046,
+     "defensa": 0.04,
+     "neto": -0.047,
      "peso": 41.8,
      "fiable": true
     },
@@ -352,14 +352,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Villarreal CF es más fuerte de fondo (neto +0.43 vs -0.05): ataca ~43% más que el promedio. Villarreal CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.05 – 0.95; el modelo ve marcando más a Villarreal CF. Y la forma reciente lo confirma: Villarreal CF llega mejor (2G-1E-2P vs 1G-1E-3P).",
+    "explicacion": "Villarreal CF es más fuerte de fondo (neto +0.43 vs -0.05): ataca ~43% más que el promedio. Villarreal CF juega en casa (~+33% de ventaja, ya contada). Goles esperados: 2.05 – 0.95; el modelo ve marcando más a Villarreal CF. Y la forma reciente lo confirma: Villarreal CF llega mejor (2G-1E-2P vs 1G-1E-3P).",
     "recomendacion": {
-     "mercado": "1",
-     "prob": 0.624,
-     "por_que": "Villarreal CF es favorito en casa: marca más (2.05 vs 0.95) y es más fuerte de fondo (neto +0.43 vs -0.05). Probabilidad: 62%.",
+     "mercado": "1X",
+     "prob": 0.837,
+     "por_que": "Doble oportunidad: cubre que Villarreal CF no pierda. El escenario que queda afuera (gane RCD Espanyol de Barcelona) es el menos probable (16%), así que el mercado se cumple ~84% de las veces.",
      "alternativa": {
-      "mercado": "1X",
-      "prob": 0.837
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.805
      },
      "confianza": "alta"
     }
@@ -376,10 +376,10 @@
    "prediccion": {
     "prob_1": 0.414,
     "prob_X": 0.282,
-    "prob_2": 0.303,
+    "prob_2": 0.304,
     "goles_esperados": [
-     1.316,
-     1.086
+     1.315,
+     1.088
     ],
     "prob_over_2_5": 0.431,
     "prob_btts": 0.489,
@@ -390,7 +390,7 @@
      ],
      [
       "1-0",
-      0.1151
+      0.1149
      ],
      [
       "0-0",
@@ -398,9 +398,9 @@
      ]
     ],
     "cuotas_justas": [
-     2.41,
+     2.42,
      3.54,
-     3.3
+     3.29
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
@@ -487,11 +487,11 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.46 vs +0.47). Lille OSC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.32 – 1.09; el modelo ve marcando más a Lille OSC. En forma reciente pinta algo mejor Lille OSC (3G-1E-1P vs 2G-1E-2P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.46 vs +0.47). Lille OSC juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.31 – 1.09; el modelo ve marcando más a Lille OSC. En forma reciente pinta algo mejor Lille OSC (3G-1E-1P vs 2G-1E-2P en 5).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.569,
-     "por_que": "Pocos goles esperados en total (1.32 + 1.09 = 2.40); la defensa de Lille OSC aprieta. El modelo ve el partido cerrado (57% al under).",
+     "por_que": "Pocos goles esperados en total (1.31 + 1.09 = 2.40); la defensa de Lille OSC aprieta. El modelo ve el partido cerrado (57% al under).",
      "alternativa": null,
      "confianza": "alta"
     }
