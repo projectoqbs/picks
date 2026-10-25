@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-28",
- "actualizado": "2026-10-25T10:28:52+00:00",
+ "actualizado": "2026-10-25T17:20:59+00:00",
  "partidos": [
   {
    "id": 558549,
@@ -11,48 +11,48 @@
    "local": "AC Milan",
    "visitante": "Bologna FC 1909",
    "prediccion": {
-    "prob_1": 0.482,
-    "prob_X": 0.261,
-    "prob_2": 0.257,
+    "prob_1": 0.481,
+    "prob_X": 0.26,
+    "prob_2": 0.258,
     "goles_esperados": [
-     1.528,
+     1.524,
      1.045
     ],
-    "prob_over_2_5": 0.475,
-    "prob_btts": 0.51,
+    "prob_over_2_5": 0.474,
+    "prob_btts": 0.509,
     "marcadores": [
      [
       "1-1",
-      0.1241
+      0.1239
      ],
      [
       "1-0",
-      0.1144
+      0.1149
      ],
      [
       "2-1",
-      0.0931
+      0.093
      ]
     ],
     "cuotas_justas": [
-     2.07,
-     3.83,
-     3.89
+     2.08,
+     3.84,
+     3.87
     ],
     "resumen": "Gana AC Milan (ligero favorito, 48%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.276,
-     "defensa": 0.201,
+     "ataque": 0.273,
+     "defensa": 0.203,
      "neto": 0.476,
      "peso": 45.5,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.097,
-     "defensa": 0.109,
+     "ataque": 0.093,
+     "defensa": 0.112,
      "neto": 0.205,
      "peso": 46.5,
      "fiable": true
@@ -124,10 +124,10 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "AC Milan es más fuerte de fondo (neto +0.48 vs +0.20): ataca ~32% más que el promedio, encaja ~18% menos. AC Milan juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.53 – 1.04; el modelo ve marcando más a AC Milan. Y la forma reciente lo confirma: AC Milan llega mejor (2G-3E-0P vs 2G-1E-2P).",
+    "explicacion": "AC Milan es más fuerte de fondo (neto +0.48 vs +0.20): ataca ~31% más que el promedio, encaja ~18% menos. AC Milan juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.52 – 1.04; el modelo ve marcando más a AC Milan. Y la forma reciente lo confirma: AC Milan llega mejor (2G-3E-0P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.743,
+     "prob": 0.742,
      "por_que": "Doble oportunidad: cubre que AC Milan no pierda. El escenario que queda afuera (gane Bologna FC 1909) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
      "alternativa": null,
      "confianza": "alta"
@@ -143,32 +143,32 @@
    "local": "Venezia FC",
    "visitante": "FC Internazionale Milano",
    "prediccion": {
-    "prob_1": 0.071,
-    "prob_X": 0.13,
+    "prob_1": 0.07,
+    "prob_X": 0.132,
     "prob_2": 0.799,
     "goles_esperados": [
-     0.751,
-     2.824
+     0.712,
+     2.755
     ],
-    "prob_over_2_5": 0.693,
-    "prob_btts": 0.498,
+    "prob_over_2_5": 0.673,
+    "prob_btts": 0.478,
     "marcadores": [
      [
       "0-2",
-      0.1117
+      0.1185
      ],
      [
       "0-3",
-      0.1052
+      0.1088
      ],
      [
-      "1-2",
-      0.0839
+      "0-1",
+      0.0851
      ]
     ],
     "cuotas_justas": [
-     14.12,
-     7.71,
+     14.36,
+     7.59,
      1.25
     ],
     "resumen": "Gana FC Internazionale Milano (claro favorito, 80%). se esperan goles (+2.5).",
@@ -176,17 +176,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.256,
-     "defensa": -0.233,
-     "neto": -0.489,
-     "peso": 17.6,
+     "ataque": -0.312,
+     "defensa": -0.209,
+     "neto": -0.521,
+     "peso": 18.6,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.658,
-     "defensa": 0.287,
-     "neto": 0.944,
-     "peso": 45.5,
+     "ataque": 0.65,
+     "defensa": 0.289,
+     "neto": 0.938,
+     "peso": 46.4,
      "fiable": true
     },
     "forma_local": {
@@ -194,14 +194,14 @@
      "g": 1,
      "e": 0,
      "p": 4,
-     "gf": 6,
-     "gc": 12,
+     "gf": 4,
+     "gc": 10,
      "racha": [
       "P",
       "P",
       "P",
-      "P",
-      "G"
+      "G",
+      "P"
      ]
     },
     "forma_visitante": {
@@ -209,12 +209,12 @@
      "g": 4,
      "e": 1,
      "p": 0,
-     "gf": 16,
-     "gc": 8,
+     "gf": 15,
+     "gc": 7,
      "racha": [
       "G",
-      "G",
       "E",
+      "G",
       "G",
       "G"
      ]
@@ -235,14 +235,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.94 vs -0.49): ataca ~93% más que el promedio, encaja ~25% menos. Venezia FC juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.75 – 2.82; el modelo ve marcando más a FC Internazionale Milano. Y la forma reciente lo confirma: FC Internazionale Milano llega mejor (4G-1E-0P vs 1G-0E-4P).",
+    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.94 vs -0.52): ataca ~92% más que el promedio, encaja ~25% menos. Venezia FC juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.71 – 2.75; el modelo ve marcando más a FC Internazionale Milano. Y la forma reciente lo confirma: FC Internazionale Milano llega mejor (4G-1E-0P vs 1G-0E-4P).",
     "recomendacion": {
      "mercado": "2",
      "prob": 0.799,
-     "por_que": "El modelo ve a FC Internazionale Milano marcando más que Venezia FC pese a la localía (2.82 vs 0.75), y lo respalda una diferencia de fuerza clara (neto +0.94 vs -0.49). Probabilidad del modelo: 80%.",
+     "por_que": "El modelo ve a FC Internazionale Milano marcando más que Venezia FC pese a la localía (2.75 vs 0.71), y lo respalda una diferencia de fuerza clara (neto +0.94 vs -0.52). Probabilidad del modelo: 80%.",
      "alternativa": {
       "mercado": "X2",
-      "prob": 0.929
+      "prob": 0.93
      },
      "confianza": "alta"
     }
@@ -258,47 +258,47 @@
    "visitante": "Udinese Calcio",
    "prediccion": {
     "prob_1": 0.318,
-    "prob_X": 0.297,
-    "prob_2": 0.385,
+    "prob_X": 0.296,
+    "prob_2": 0.386,
     "goles_esperados": [
      1.024,
-     1.157
+     1.16
     ],
-    "prob_over_2_5": 0.372,
+    "prob_over_2_5": 0.373,
     "prob_btts": 0.442,
     "marcadores": [
      [
       "1-1",
-      0.1363
+      0.1358
      ],
      [
       "0-1",
-      0.1281
+      0.1286
      ],
      [
       "0-0",
-      0.1154
+      0.1146
      ]
     ],
     "cuotas_justas": [
-     3.14,
-     3.37,
-     2.6
+     3.15,
+     3.38,
+     2.59
     ],
     "resumen": "Partido parejo. pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.317,
-     "defensa": -0.03,
-     "neto": -0.347,
-     "peso": 40.9,
+     "ataque": -0.319,
+     "defensa": -0.029,
+     "neto": -0.348,
+     "peso": 40.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.032,
-     "defensa": -0.085,
+     "ataque": -0.035,
+     "defensa": -0.082,
      "neto": -0.117,
      "peso": 45.4,
      "fiable": true
@@ -366,7 +366,7 @@
     "explicacion": "Udinese Calcio es más fuerte de fondo (neto -0.12 vs -0.35): es más completo en general. Parma Calcio 1913 juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.02 – 1.16; el modelo ve marcando más a Udinese Calcio. Pero ojo: en forma reciente Parma Calcio 1913 llega mejor que Udinese Calcio, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.628,
+     "prob": 0.627,
      "por_que": "Pocos goles esperados en total (1.02 + 1.16 = 2.18). El modelo ve el partido cerrado (63% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
@@ -385,65 +385,65 @@
    "local": "Genoa CFC",
    "visitante": "Juventus FC",
    "prediccion": {
-    "prob_1": 0.213,
-    "prob_X": 0.271,
-    "prob_2": 0.516,
+    "prob_1": 0.214,
+    "prob_X": 0.274,
+    "prob_2": 0.512,
     "goles_esperados": [
-     0.835,
-     1.459
+     0.821,
+     1.431
     ],
-    "prob_over_2_5": 0.402,
-    "prob_btts": 0.437,
+    "prob_over_2_5": 0.391,
+    "prob_btts": 0.428,
     "marcadores": [
      [
       "0-1",
-      0.1449
+      0.1486
      ],
      [
       "1-1",
-      0.1252
+      0.1254
      ],
      [
       "0-2",
-      0.1074
+      0.1077
      ]
     ],
     "cuotas_justas": [
-     4.7,
-     3.69,
-     1.94
+     4.68,
+     3.65,
+     1.95
     ],
-    "resumen": "Gana Juventus FC (ligero favorito, 52%). pocos goles (-2.5).",
+    "resumen": "Gana Juventus FC (ligero favorito, 51%). pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.127,
-     "defensa": -0.014,
-     "neto": -0.141,
-     "peso": 45.4,
+     "ataque": -0.141,
+     "defensa": 0.006,
+     "neto": -0.134,
+     "peso": 46.4,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.216,
-     "defensa": 0.31,
-     "neto": 0.527,
+     "ataque": 0.211,
+     "defensa": 0.317,
+     "neto": 0.528,
      "peso": 45.4,
      "fiable": true
     },
     "forma_local": {
      "pj": 5,
-     "g": 1,
+     "g": 2,
      "e": 1,
-     "p": 3,
+     "p": 2,
      "gf": 5,
-     "gc": 10,
+     "gc": 6,
      "racha": [
-      "P",
       "E",
       "P",
       "G",
-      "P"
+      "P",
+      "G"
      ]
     },
     "forma_visitante": {
@@ -498,14 +498,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Juventus FC es más fuerte de fondo (neto +0.53 vs -0.14): ataca ~24% más que el promedio, encaja ~27% menos. Genoa CFC juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.83 – 1.46; el modelo ve marcando más a Juventus FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Juventus FC es más fuerte de fondo (neto +0.53 vs -0.13): ataca ~23% más que el promedio, encaja ~27% menos. Genoa CFC juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.82 – 1.43; el modelo ve marcando más a Juventus FC. Pero ojo: en forma reciente Genoa CFC llega mejor que Juventus FC, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.787,
+     "prob": 0.786,
      "por_que": "Doble oportunidad: cubre que Genoa CFC no gane. El escenario que queda afuera (gane Genoa CFC) es el menos probable (21%), así que el mercado se cumple ~79% de las veces.",
      "alternativa": {
       "mercado": "Menos de 2.5 goles",
-      "prob": 0.598
+      "prob": 0.609
      },
      "confianza": "alta"
     }
@@ -521,31 +521,31 @@
    "visitante": "SSC Napoli",
    "prediccion": {
     "prob_1": 0.163,
-    "prob_X": 0.209,
+    "prob_X": 0.208,
     "prob_2": 0.628,
     "goles_esperados": [
-     0.944,
-     2.05
+     0.941,
+     2.047
     ],
-    "prob_over_2_5": 0.575,
-    "prob_btts": 0.534,
+    "prob_over_2_5": 0.574,
+    "prob_btts": 0.532,
     "marcadores": [
      [
       "0-2",
-      0.1052
+      0.1056
      ],
      [
       "0-1",
-      0.1009
+      0.1017
      ],
      [
       "1-2",
-      0.0994
+      0.0993
      ]
     ],
     "cuotas_justas": [
      6.12,
-     4.78,
+     4.8,
      1.59
     ],
     "resumen": "Gana SSC Napoli (claro favorito, 63%).",
@@ -553,15 +553,15 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.024,
-     "defensa": -0.33,
-     "neto": -0.354,
+     "ataque": -0.027,
+     "defensa": -0.326,
+     "neto": -0.353,
      "peso": 24.1,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.24,
-     "defensa": 0.29,
+     "ataque": 0.236,
+     "defensa": 0.295,
      "neto": 0.53,
      "peso": 46.4,
      "fiable": true
@@ -626,14 +626,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "SSC Napoli es más fuerte de fondo (neto +0.53 vs -0.35): ataca ~27% más que el promedio, encaja ~25% menos. AC Monza juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.94 – 2.05; el modelo ve marcando más a SSC Napoli. Y la forma reciente lo confirma: SSC Napoli llega mejor (2G-2E-1P vs 2G-0E-3P).",
+    "explicacion": "SSC Napoli es más fuerte de fondo (neto +0.53 vs -0.35): ataca ~27% más que el promedio, encaja ~26% menos. AC Monza juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.94 – 2.05; el modelo ve marcando más a SSC Napoli. Y la forma reciente lo confirma: SSC Napoli llega mejor (2G-2E-1P vs 2G-0E-3P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.837,
      "por_que": "Doble oportunidad: cubre que AC Monza no gane. El escenario que queda afuera (gane AC Monza) es el menos probable (16%), así que el mercado se cumple ~84% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.802
+      "prob": 0.801
      },
      "confianza": "alta"
     }

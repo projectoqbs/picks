@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-03",
- "actualizado": "2026-10-25T10:28:52+00:00",
+ "actualizado": "2026-10-25T17:20:59+00:00",
  "partidos": [
   {
    "id": 575377,
@@ -16,7 +16,7 @@
     "prob_2": 0.42,
     "goles_esperados": [
      1.183,
-     1.352
+     1.353
     ],
     "prob_over_2_5": 0.465,
     "prob_btts": 0.501,
@@ -27,11 +27,11 @@
      ],
      [
       "1-1",
-      0.1135
+      0.1136
      ],
      [
       "1-0",
-      0.107
+      0.1069
      ]
     ],
     "cuotas_justas": [
@@ -53,7 +53,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.108,
-     "defensa": 0.307,
+     "defensa": 0.306,
      "neto": 0.414,
      "peso": 12.5,
      "fiable": true
@@ -228,7 +228,7 @@
      ],
      [
       "0-1",
-      0.0874
+      0.0873
      ]
     ],
     "cuotas_justas": [
@@ -242,7 +242,7 @@
    "nota": "pocos datos: 'Feyenoord Rotterdam' solo tiene 7.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.043,
+     "ataque": 0.042,
      "defensa": -0.098,
      "neto": -0.056,
      "peso": 7.0,
@@ -330,7 +330,7 @@
      2.179,
      1.888
     ],
-    "prob_over_2_5": 0.771,
+    "prob_over_2_5": 0.772,
     "prob_btts": 0.745,
     "marcadores": [
      [
@@ -404,7 +404,7 @@
     "explicacion": "Aston Villa FC es más fuerte de fondo (neto +0.88 vs +0.73): ataca ~54% más que el promedio, encaja ~36% menos. FC Barcelona juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.18 – 1.89; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: Aston Villa FC llega mejor (4G-0E-1P vs 3G-0E-2P). El modelo tiene pocos datos de Aston Villa FC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.771,
+     "prob": 0.772,
      "por_que": "Bastantes goles esperados (2.18 + 1.89 = 4.07). Probabilidad al over: 77%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -459,12 +459,12 @@
      "ataque": 0.359,
      "defensa": 0.223,
      "neto": 0.582,
-     "peso": 16.7,
+     "peso": 16.6,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.637,
-     "defensa": 0.335,
+     "ataque": 0.636,
+     "defensa": 0.334,
      "neto": 0.971,
      "peso": 17.1,
      "fiable": true
@@ -527,7 +527,7 @@
     "prob_2": 0.82,
     "goles_esperados": [
      1.261,
-     3.753
+     3.754
     ],
     "prob_over_2_5": 0.876,
     "prob_btts": 0.696,
@@ -557,7 +557,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.016,
-     "defensa": -0.278,
+     "defensa": -0.277,
      "neto": -0.293,
      "peso": 7.1,
      "fiable": false
@@ -755,7 +755,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.203,
-     "defensa": -0.119,
+     "defensa": -0.118,
      "neto": 0.085,
      "peso": 9.7,
      "fiable": true
@@ -825,10 +825,10 @@
     "prob_2": 0.067,
     "goles_esperados": [
      4.044,
-     1.233
+     1.232
     ],
     "prob_over_2_5": 0.896,
-    "prob_btts": 0.694,
+    "prob_btts": 0.693,
     "marcadores": [
      [
       "4-1",
@@ -846,7 +846,7 @@
     "cuotas_justas": [
      1.18,
      12.26,
-     14.83
+     14.84
     ],
     "resumen": "Gana LASK Linz (claro favorito, 85%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -861,9 +861,9 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": -0.485,
+     "ataque": -0.486,
      "defensa": -0.498,
-     "neto": -0.983,
+     "neto": -0.984,
      "peso": 5.0,
      "fiable": false
     },

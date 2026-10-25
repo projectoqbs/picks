@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-04",
- "actualizado": "2026-10-25T10:28:52+00:00",
+ "actualizado": "2026-10-25T17:20:59+00:00",
  "partidos": [
   {
    "id": 575386,
@@ -125,7 +125,7 @@
      ],
      [
       "0-3",
-      0.0847
+      0.0846
      ],
      [
       "1-2",
@@ -150,7 +150,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.37,
+     "ataque": 0.369,
      "defensa": 0.317,
      "neto": 0.687,
      "peso": 12.5,
@@ -334,7 +334,7 @@
     "marcadores": [
      [
       "0-2",
-      0.1388
+      0.1387
      ],
      [
       "0-3",
@@ -365,7 +365,7 @@
     "fuerza_visitante": {
      "ataque": 0.392,
      "defensa": 0.785,
-     "neto": 1.177,
+     "neto": 1.176,
      "peso": 17.6,
      "fiable": true
     },
@@ -438,7 +438,7 @@
      1.763
     ],
     "prob_over_2_5": 0.759,
-    "prob_btts": 0.73,
+    "prob_btts": 0.731,
     "marcadores": [
      [
       "2-1",
@@ -533,7 +533,7 @@
     "prob_X": 0.195,
     "prob_2": 0.262,
     "goles_esperados": [
-     2.036,
+     2.037,
      1.35
     ],
     "prob_over_2_5": 0.658,
@@ -549,7 +549,7 @@
      ],
      [
       "1-0",
-      0.0786
+      0.0785
      ]
     ],
     "cuotas_justas": [
@@ -639,11 +639,11 @@
     "marcadores": [
      [
       "1-0",
-      0.1048
+      0.1047
      ],
      [
       "1-1",
-      0.1
+      0.1001
      ],
      [
       "2-1",
@@ -825,11 +825,11 @@
    "local": "Viking FK",
    "visitante": "Sabah FK",
    "prediccion": {
-    "prob_1": 0.733,
-    "prob_X": 0.136,
+    "prob_1": 0.732,
+    "prob_X": 0.137,
     "prob_2": 0.131,
     "goles_esperados": [
-     2.864,
+     2.863,
      1.152
     ],
     "prob_over_2_5": 0.764,
@@ -851,7 +851,7 @@
     "cuotas_justas": [
      1.37,
      7.33,
-     7.63
+     7.62
     ],
     "resumen": "Gana Viking FK (claro favorito, 73%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -859,7 +859,7 @@
    "nota": "pocos datos: 'Sabah FK' solo tiene 2.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.262,
+     "ataque": 0.261,
      "defensa": -0.151,
      "neto": 0.11,
      "peso": 2.9,
@@ -902,7 +902,7 @@
     "explicacion": "Viking FK es más fuerte de fondo (neto +0.11 vs -0.50): ataca ~30% más que el promedio. Viking FK juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.86 – 1.15; el modelo ve marcando más a Viking FK. Pero ojo: en forma reciente Sabah FK llega mejor que Viking FK, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de Viking FK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.733,
+     "prob": 0.732,
      "por_que": "Viking FK es favorito en casa: marca más (2.86 vs 1.15) y es más fuerte de fondo (neto +0.11 vs -0.50). Probabilidad: 73%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
