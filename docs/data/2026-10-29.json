@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-29",
- "actualizado": "2026-10-24T17:08:41+00:00",
+ "actualizado": "2026-10-25T10:28:52+00:00",
  "partidos": [
   {
    "id": 558558,
@@ -11,50 +11,50 @@
    "local": "Frosinone Calcio",
    "visitante": "US Lecce",
    "prediccion": {
-    "prob_1": 0.547,
+    "prob_1": 0.546,
     "prob_X": 0.246,
-    "prob_2": 0.207,
+    "prob_2": 0.208,
     "goles_esperados": [
-     1.689,
-     0.943
+     1.684,
+     0.941
     ],
-    "prob_over_2_5": 0.489,
-    "prob_btts": 0.5,
+    "prob_over_2_5": 0.488,
+    "prob_btts": 0.499,
     "marcadores": [
      [
       "1-0",
-      0.1192
+      0.1198
      ],
      [
       "1-1",
-      0.117
+      0.1169
      ],
      [
       "2-0",
-      0.1026
+      0.1027
      ]
     ],
     "cuotas_justas": [
      1.83,
      4.07,
-     4.83
+     4.81
     ],
     "resumen": "Gana Frosinone Calcio (ligero favorito, 55%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.208,
-     "defensa": -0.128,
-     "neto": 0.08,
+     "ataque": 0.207,
+     "defensa": -0.126,
+     "neto": 0.081,
      "peso": 12.1,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.333,
-     "defensa": -0.061,
-     "neto": -0.393,
-     "peso": 45.5,
+     "ataque": -0.334,
+     "defensa": -0.058,
+     "neto": -0.392,
+     "peso": 45.4,
      "fiable": true
     },
     "forma_local": {
@@ -103,10 +103,10 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Frosinone Calcio es más fuerte de fondo (neto +0.08 vs -0.39): ataca ~23% más que el promedio. Frosinone Calcio juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.69 – 0.94; el modelo ve marcando más a Frosinone Calcio. Y la forma reciente lo confirma: Frosinone Calcio llega mejor (3G-1E-1P vs 2G-0E-3P).",
+    "explicacion": "Frosinone Calcio es más fuerte de fondo (neto +0.08 vs -0.39): ataca ~23% más que el promedio. Frosinone Calcio juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.68 – 0.94; el modelo ve marcando más a Frosinone Calcio. Y la forma reciente lo confirma: Frosinone Calcio llega mejor (3G-1E-1P vs 2G-0E-3P).",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.793,
+     "prob": 0.792,
      "por_que": "Doble oportunidad: cubre que Frosinone Calcio no pierda. El escenario que queda afuera (gane US Lecce) es el menos probable (21%), así que el mercado se cumple ~79% de las veces.",
      "alternativa": null,
      "confianza": "alta"
@@ -126,11 +126,11 @@
     "prob_X": 0.252,
     "prob_2": 0.478,
     "goles_esperados": [
-     1.147,
-     1.609
+     1.143,
+     1.604
     ],
-    "prob_over_2_5": 0.52,
-    "prob_btts": 0.548,
+    "prob_over_2_5": 0.518,
+    "prob_btts": 0.546,
     "marcadores": [
      [
       "1-1",
@@ -138,11 +138,11 @@
      ],
      [
       "0-1",
-      0.0998
+      0.1006
      ],
      [
       "1-2",
-      0.0944
+      0.0943
      ]
     ],
     "cuotas_justas": [
@@ -155,17 +155,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.08,
-     "defensa": -0.049,
-     "neto": 0.031,
+     "ataque": 0.078,
+     "defensa": -0.046,
+     "neto": 0.032,
      "peso": 45.5,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.281,
-     "defensa": 0.198,
-     "neto": 0.479,
-     "peso": 45.5,
+     "ataque": 0.279,
+     "defensa": 0.2,
+     "neto": 0.48,
+     "peso": 45.4,
      "fiable": true
     },
     "forma_local": {
@@ -235,7 +235,7 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "Atalanta BC es más fuerte de fondo (neto +0.48 vs +0.03): ataca ~32% más que el promedio, encaja ~18% menos. ACF Fiorentina juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.15 – 1.61; el modelo ve marcando más a Atalanta BC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Atalanta BC es más fuerte de fondo (neto +0.48 vs +0.03): ataca ~32% más que el promedio, encaja ~18% menos. ACF Fiorentina juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.14 – 1.60; el modelo ve marcando más a Atalanta BC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.731,

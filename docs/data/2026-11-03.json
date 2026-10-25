@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-03",
- "actualizado": "2026-10-24T17:08:41+00:00",
+ "actualizado": "2026-10-25T10:28:52+00:00",
  "partidos": [
   {
    "id": 575377,
@@ -15,8 +15,8 @@
     "prob_X": 0.24,
     "prob_2": 0.42,
     "goles_esperados": [
-     1.182,
-     1.353
+     1.183,
+     1.352
     ],
     "prob_over_2_5": 0.465,
     "prob_btts": 0.501,
@@ -31,7 +31,7 @@
      ],
      [
       "1-0",
-      0.1069
+      0.107
      ]
     ],
     "cuotas_justas": [
@@ -54,7 +54,7 @@
     "fuerza_visitante": {
      "ataque": 0.108,
      "defensa": 0.307,
-     "neto": 0.415,
+     "neto": 0.414,
      "peso": 12.5,
      "fiable": true
     },
@@ -349,7 +349,7 @@
     "cuotas_justas": [
      2.17,
      5.3,
-     2.85
+     2.86
     ],
     "resumen": "Gana FC Barcelona (ligero favorito, 46%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -366,7 +366,7 @@
     "fuerza_visitante": {
      "ataque": 0.435,
      "defensa": 0.449,
-     "neto": 0.884,
+     "neto": 0.883,
      "peso": 6.3,
      "fiable": false
     },
@@ -456,7 +456,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.36,
+     "ataque": 0.359,
      "defensa": 0.223,
      "neto": 0.582,
      "peso": 16.7,
@@ -523,11 +523,11 @@
    "visitante": "Paris Saint-Germain FC",
    "prediccion": {
     "prob_1": 0.084,
-    "prob_X": 0.095,
-    "prob_2": 0.821,
+    "prob_X": 0.096,
+    "prob_2": 0.82,
     "goles_esperados": [
-     1.26,
-     3.754
+     1.261,
+     3.753
     ],
     "prob_over_2_5": 0.876,
     "prob_btts": 0.696,
@@ -546,7 +546,7 @@
      ]
     ],
     "cuotas_justas": [
-     11.89,
+     11.88,
      10.48,
      1.22
     ],
@@ -556,7 +556,7 @@
    "nota": "pocos datos: 'Villarreal CF' solo tiene 7.1 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.015,
+     "ataque": -0.016,
      "defensa": -0.278,
      "neto": -0.293,
      "peso": 7.1,
@@ -565,7 +565,7 @@
     "fuerza_visitante": {
      "ataque": 0.742,
      "defensa": 0.353,
-     "neto": 1.096,
+     "neto": 1.095,
      "peso": 20.2,
      "fiable": true
     },
@@ -600,11 +600,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +1.10 vs -0.29): ataca ~110% más que el promedio, encaja ~30% menos. Villarreal CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.26 – 3.75; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-1E-0P vs 1G-0E-4P). El modelo tiene pocos datos de Villarreal CF: tomalo con pinzas.",
+    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +1.09 vs -0.29): ataca ~110% más que el promedio, encaja ~30% menos. Villarreal CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.26 – 3.75; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-1E-0P vs 1G-0E-4P). El modelo tiene pocos datos de Villarreal CF: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "2",
-     "prob": 0.821,
-     "por_que": "El modelo ve a Paris Saint-Germain FC marcando más que Villarreal CF pese a la localía (3.75 vs 1.26), y lo respalda una diferencia de fuerza clara (neto +1.10 vs -0.29). Probabilidad del modelo: 82%.",
+     "prob": 0.82,
+     "por_que": "El modelo ve a Paris Saint-Germain FC marcando más que Villarreal CF pese a la localía (3.75 vs 1.26), y lo respalda una diferencia de fuerza clara (neto +1.09 vs -0.29). Probabilidad del modelo: 82%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.957
@@ -659,13 +659,13 @@
      "ataque": 0.051,
      "defensa": 0.02,
      "neto": 0.071,
-     "peso": 3.7,
+     "peso": 3.6,
      "fiable": false
     },
     "fuerza_visitante": {
      "ataque": 0.148,
-     "defensa": -0.064,
-     "neto": 0.084,
+     "defensa": -0.063,
+     "neto": 0.085,
      "peso": 2.9,
      "fiable": false
     },
@@ -698,7 +698,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.07 vs +0.08). Manchester United FC juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.04 – 1.54; el modelo ve marcando más a Manchester United FC. En forma reciente pinta algo mejor AS Roma (1G-1E-3P vs 1G-1E-1P en 5). El modelo tiene pocos datos de Manchester United FC: tomalo con pinzas.",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.07 vs +0.09). Manchester United FC juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.04 – 1.54; el modelo ve marcando más a Manchester United FC. En forma reciente pinta algo mejor AS Roma (1G-1E-3P vs 1G-1E-1P en 5). El modelo tiene pocos datos de Manchester United FC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.694,
@@ -751,20 +751,20 @@
     "resumen": "Gana FK Bodø/Glimt (claro favorito, 59%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Lille OSC' solo tiene 5.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Lille OSC' solo tiene 5.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.203,
-     "defensa": -0.118,
+     "defensa": -0.119,
      "neto": 0.085,
      "peso": 9.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.107,
-     "defensa": -0.186,
+     "defensa": -0.185,
      "neto": -0.078,
-     "peso": 5.7,
+     "peso": 5.6,
      "fiable": false
     },
     "forma_local": {
@@ -824,11 +824,11 @@
     "prob_X": 0.082,
     "prob_2": 0.067,
     "goles_esperados": [
-     4.045,
-     1.232
+     4.044,
+     1.233
     ],
     "prob_over_2_5": 0.896,
-    "prob_btts": 0.693,
+    "prob_btts": 0.694,
     "marcadores": [
      [
       "4-1",
@@ -844,9 +844,9 @@
      ]
     ],
     "cuotas_justas": [
-     1.17,
-     12.27,
-     14.86
+     1.18,
+     12.26,
+     14.83
     ],
     "resumen": "Gana LASK Linz (claro favorito, 85%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -861,9 +861,9 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": -0.486,
+     "ataque": -0.485,
      "defensa": -0.498,
-     "neto": -0.984,
+     "neto": -0.983,
      "peso": 5.0,
      "fiable": false
     },

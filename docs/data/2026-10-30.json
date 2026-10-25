@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-30",
- "actualizado": "2026-10-24T17:08:41+00:00",
+ "actualizado": "2026-10-25T10:28:52+00:00",
  "partidos": [
   {
    "id": 559644,
@@ -16,7 +16,7 @@
     "prob_2": 0.682,
     "goles_esperados": [
      0.782,
-     2.13
+     2.131
     ],
     "prob_over_2_5": 0.557,
     "prob_btts": 0.481,
@@ -146,92 +146,92 @@
    "local": "SV 07 Elversberg",
    "visitante": "1. FSV Mainz 05",
    "prediccion": {
-    "prob_1": 0.509,
-    "prob_X": 0.222,
-    "prob_2": 0.269,
+    "prob_1": 0.44,
+    "prob_X": 0.228,
+    "prob_2": 0.332,
     "goles_esperados": [
-     2.065,
-     1.47
+     1.918,
+     1.652
     ],
-    "prob_over_2_5": 0.686,
-    "prob_btts": 0.677,
+    "prob_over_2_5": 0.692,
+    "prob_btts": 0.694,
     "marcadores": [
      [
       "1-1",
-      0.0934
+      0.094
      ],
      [
       "2-1",
-      0.0914
+      0.0856
      ],
      [
-      "2-2",
-      0.0672
+      "1-2",
+      0.0737
      ]
     ],
     "cuotas_justas": [
-     1.97,
-     4.5,
-     3.72
+     2.27,
+     4.38,
+     3.01
     ],
-    "resumen": "Gana SV 07 Elversberg (ligero favorito, 51%). se esperan goles (+2.5). ambos marcan.",
+    "resumen": "Gana SV 07 Elversberg (ligero favorito, 44%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'SV 07 Elversberg' solo tiene 5.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'SV 07 Elversberg' solo tiene 6.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.312,
-     "defensa": -0.073,
-     "neto": 0.239,
-     "peso": 5.6,
+     "ataque": 0.218,
+     "defensa": -0.186,
+     "neto": 0.032,
+     "peso": 6.6,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.031,
-     "defensa": 0.087,
-     "neto": 0.118,
-     "peso": 40.4,
+     "ataque": 0.052,
+     "defensa": 0.051,
+     "neto": 0.104,
+     "peso": 41.4,
      "fiable": true
     },
     "forma_local": {
      "pj": 5,
-     "g": 2,
+     "g": 1,
      "e": 1,
-     "p": 2,
-     "gf": 9,
-     "gc": 9,
+     "p": 3,
+     "gf": 5,
+     "gc": 10,
      "racha": [
-      "G",
       "P",
       "E",
       "P",
-      "G"
+      "G",
+      "P"
      ]
     },
     "forma_visitante": {
      "pj": 5,
-     "g": 3,
+     "g": 2,
      "e": 0,
-     "p": 2,
-     "gf": 14,
-     "gc": 10,
+     "p": 3,
+     "gf": 11,
+     "gc": 13,
      "racha": [
-      "G",
       "P",
       "G",
       "P",
-      "G"
+      "G",
+      "P"
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "SV 07 Elversberg es más fuerte de fondo (neto +0.24 vs +0.12): ataca ~37% más que el promedio. SV 07 Elversberg juega en casa (~+24% de ventaja, ya contada). Goles esperados: 2.06 – 1.47; el modelo ve marcando más a SV 07 Elversberg. Pero ojo: en forma reciente 1. FSV Mainz 05 llega mejor que SV 07 Elversberg, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de SV 07 Elversberg: tomalo con pinzas.",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.03 vs +0.10). SV 07 Elversberg juega en casa (~+25% de ventaja, ya contada). Goles esperados: 1.92 – 1.65; el modelo ve marcando más a SV 07 Elversberg. También parejos en forma (1G-1E-3P vs 2G-0E-3P en 5). El modelo tiene pocos datos de SV 07 Elversberg: tomalo con pinzas.",
     "recomendacion": {
-     "mercado": "Más de 2.5 goles",
-     "prob": 0.686,
-     "por_que": "Bastantes goles esperados (2.06 + 1.47 = 3.54); al menos una defensa floja. Probabilidad al over: 69%.",
+     "mercado": "Ambos marcan: Sí",
+     "prob": 0.694,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.92 y 1.65. Probabilidad: 69%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.873
+      "prob": 0.876
      },
      "confianza": "baja"
     }
@@ -282,14 +282,14 @@
      "ataque": 0.357,
      "defensa": 0.073,
      "neto": 0.431,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.087,
      "defensa": 0.04,
      "neto": -0.047,
-     "peso": 41.8,
+     "peso": 41.7,
      "fiable": true
     },
     "forma_local": {
@@ -390,7 +390,7 @@
      ],
      [
       "1-0",
-      0.115
+      0.1149
      ],
      [
       "0-0",
