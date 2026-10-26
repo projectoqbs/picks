@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-31",
- "actualizado": "2026-10-26T11:58:31+00:00",
+ "actualizado": "2026-10-26T19:41:47+00:00",
  "partidos": [
   {
    "id": 560626,
@@ -189,7 +189,7 @@
      "ataque": 0.34,
      "defensa": 0.312,
      "neto": 0.652,
-     "peso": 48.1,
+     "peso": 48.0,
      "fiable": true
     },
     "forma_local": {
@@ -260,19 +260,19 @@
    "local": "Bologna FC 1909",
    "visitante": "AC Monza",
    "prediccion": {
-    "prob_1": 0.595,
+    "prob_1": 0.594,
     "prob_X": 0.218,
-    "prob_2": 0.187,
+    "prob_2": 0.188,
     "goles_esperados": [
-     1.974,
-     1.015
+     1.973,
+     1.017
     ],
-    "prob_over_2_5": 0.574,
+    "prob_over_2_5": 0.575,
     "prob_btts": 0.551,
     "marcadores": [
      [
       "1-1",
-      0.1024
+      0.1025
      ],
      [
       "2-1",
@@ -280,29 +280,29 @@
      ],
      [
       "2-0",
-      0.0981
+      0.0979
      ]
     ],
     "cuotas_justas": [
      1.68,
-     4.6,
-     5.33
+     4.59,
+     5.32
     ],
-    "resumen": "Gana Bologna FC 1909 (claro favorito, 60%).",
+    "resumen": "Gana Bologna FC 1909 (claro favorito, 59%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.093,
-     "defensa": 0.112,
+     "ataque": 0.094,
+     "defensa": 0.111,
      "neto": 0.205,
      "peso": 46.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.027,
-     "defensa": -0.326,
-     "neto": -0.353,
+     "defensa": -0.328,
+     "neto": -0.355,
      "peso": 24.1,
      "fiable": true
     },
@@ -366,14 +366,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Bologna FC 1909 es más fuerte de fondo (neto +0.20 vs -0.35): encaja ~11% menos. Bologna FC 1909 juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.97 – 1.01; el modelo ve marcando más a Bologna FC 1909. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Bologna FC 1909 es más fuerte de fondo (neto +0.20 vs -0.35): encaja ~11% menos. Bologna FC 1909 juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.97 – 1.02; el modelo ve marcando más a Bologna FC 1909. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.595,
-     "por_que": "Bologna FC 1909 es favorito en casa: marca más (1.97 vs 1.01) y es más fuerte de fondo (neto +0.20 vs -0.35). Probabilidad: 60%.",
+     "prob": 0.594,
+     "por_que": "Bologna FC 1909 es favorito en casa: marca más (1.97 vs 1.02) y es más fuerte de fondo (neto +0.20 vs -0.35). Probabilidad: 59%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.813
+      "prob": 0.812
      },
      "confianza": "alta"
     }
@@ -489,7 +489,7 @@
     "prob_X": 0.312,
     "prob_2": 0.452,
     "goles_esperados": [
-     0.797,
+     0.798,
      1.215
     ],
     "prob_over_2_5": 0.327,
@@ -497,7 +497,7 @@
     "marcadores": [
      [
       "0-1",
-      0.1555
+      0.1554
      ],
      [
       "0-0",
@@ -505,12 +505,12 @@
      ],
      [
       "1-1",
-      0.1364
+      0.1365
      ]
     ],
     "cuotas_justas": [
      4.24,
-     3.21,
+     3.2,
      2.21
     ],
     "resumen": "Gana RB Leipzig (ligero favorito, 45%). pocos goles (-2.5).",
@@ -521,7 +521,7 @@
     "fuerza_local": {
      "ataque": -0.564,
      "defensa": 0.378,
-     "neto": -0.186,
+     "neto": -0.185,
      "peso": 6.6,
      "fiable": false
     },
@@ -563,7 +563,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "RB Leipzig es más fuerte de fondo (neto +0.46 vs -0.19): ataca ~37% más que el promedio, encaja ~14% menos. FC Schalke 04 juega en casa (~+25% de ventaja, ya contada). Goles esperados: 0.80 – 1.22; el modelo ve marcando más a RB Leipzig. Y la forma reciente lo confirma: RB Leipzig llega mejor (3G-0E-2P vs 1G-2E-2P). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
+    "explicacion": "RB Leipzig es más fuerte de fondo (neto +0.46 vs -0.18): ataca ~37% más que el promedio, encaja ~14% menos. FC Schalke 04 juega en casa (~+25% de ventaja, ya contada). Goles esperados: 0.80 – 1.22; el modelo ve marcando más a RB Leipzig. Y la forma reciente lo confirma: RB Leipzig llega mejor (3G-0E-2P vs 1G-2E-2P). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.764,
@@ -597,7 +597,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1158
+      0.1159
      ],
      [
       "2-1",
@@ -859,7 +859,7 @@
     "prob_X": 0.217,
     "prob_2": 0.255,
     "goles_esperados": [
-     2.132,
+     2.131,
      1.447
     ],
     "prob_over_2_5": 0.694,
@@ -890,7 +890,7 @@
     "fuerza_local": {
      "ataque": 0.362,
      "defensa": 0.191,
-     "neto": 0.554,
+     "neto": 0.553,
      "peso": 41.3,
      "fiable": true
     },
@@ -995,7 +995,7 @@
     "prob_2": 0.195,
     "goles_esperados": [
      2.031,
-     1.123
+     1.124
     ],
     "prob_over_2_5": 0.611,
     "prob_btts": 0.596,
@@ -1168,7 +1168,7 @@
      "ataque": -0.006,
      "defensa": 0.169,
      "neto": 0.162,
-     "peso": 29.5,
+     "peso": 29.4,
      "fiable": true
     },
     "forma_local": {
@@ -1250,7 +1250,7 @@
      ],
      [
       "0-1",
-      0.1205
+      0.1206
      ]
     ],
     "cuotas_justas": [
@@ -1264,7 +1264,7 @@
    "nota": "pocos datos: 'Coventry City FC' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.305,
+     "ataque": -0.306,
      "defensa": -0.12,
      "neto": -0.425,
      "peso": 7.5,
@@ -1274,7 +1274,7 @@
      "ataque": -0.188,
      "defensa": 0.087,
      "neto": -0.101,
-     "peso": 29.5,
+     "peso": 29.4,
      "fiable": true
     },
     "forma_local": {
@@ -1342,7 +1342,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1176
+      0.1175
      ],
      [
       "1-0",
@@ -1456,7 +1456,7 @@
     "cuotas_justas": [
      2.14,
      3.68,
-     3.84
+     3.83
     ],
     "resumen": "Gana Brentford FC (ligero favorito, 47%).",
     "confianza": "alta"
@@ -1600,8 +1600,8 @@
     "fuerza_local": {
      "ataque": -0.113,
      "defensa": 0.079,
-     "neto": -0.033,
-     "peso": 47.2,
+     "neto": -0.034,
+     "peso": 47.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1835,49 +1835,49 @@
    "local": "Udinese Calcio",
    "visitante": "AS Roma",
    "prediccion": {
-    "prob_1": 0.172,
-    "prob_X": 0.231,
-    "prob_2": 0.597,
+    "prob_1": 0.167,
+    "prob_X": 0.229,
+    "prob_2": 0.604,
     "goles_esperados": [
-     0.854,
-     1.804
+     0.838,
+     1.816
     ],
-    "prob_over_2_5": 0.496,
-    "prob_btts": 0.481,
+    "prob_over_2_5": 0.495,
+    "prob_btts": 0.477,
     "marcadores": [
      [
       "0-1",
-      0.1248
+      0.1262
      ],
      [
       "0-2",
-      0.114
+      0.1161
      ],
      [
       "1-1",
-      0.1096
+      0.1088
      ]
     ],
     "cuotas_justas": [
-     5.8,
-     4.33,
-     1.68
+     5.98,
+     4.36,
+     1.66
     ],
     "resumen": "Gana AS Roma (claro favorito, 60%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.035,
-     "defensa": -0.082,
-     "neto": -0.117,
-     "peso": 45.3,
+     "ataque": -0.052,
+     "defensa": -0.087,
+     "neto": -0.139,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.354,
-     "defensa": 0.384,
-     "neto": 0.738,
+     "defensa": 0.383,
+     "neto": 0.737,
      "peso": 46.3,
      "fiable": true
     },
@@ -1886,7 +1886,7 @@
      "g": 0,
      "e": 0,
      "p": 5,
-     "gf": 5,
+     "gf": 4,
      "gc": 13,
      "racha": [
       "P",
@@ -1948,14 +1948,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "AS Roma es más fuerte de fondo (neto +0.74 vs -0.12): ataca ~42% más que el promedio, encaja ~32% menos. Udinese Calcio juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.85 – 1.80; el modelo ve marcando más a AS Roma. Y la forma reciente lo confirma: AS Roma llega mejor (2G-3E-0P vs 0G-0E-5P).",
+    "explicacion": "AS Roma es más fuerte de fondo (neto +0.74 vs -0.14): ataca ~42% más que el promedio, encaja ~32% menos. Udinese Calcio juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.84 – 1.82; el modelo ve marcando más a AS Roma. Y la forma reciente lo confirma: AS Roma llega mejor (2G-3E-0P vs 0G-0E-5P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.828,
+     "prob": 0.833,
      "por_que": "Doble oportunidad: cubre que Udinese Calcio no gane. El escenario que queda afuera (gane Udinese Calcio) es el menos probable (17%), así que el mercado se cumple ~83% de las veces.",
      "alternativa": {
-      "mercado": "2",
-      "prob": 0.597
+      "mercado": "12",
+      "prob": 0.771
      },
      "confianza": "alta"
     }
@@ -2081,7 +2081,7 @@
     "marcadores": [
      [
       "2-1",
-      0.0927
+      0.0928
      ],
      [
       "1-1",
@@ -2246,7 +2246,7 @@
     "fuerza_visitante": {
      "ataque": -0.052,
      "defensa": -0.036,
-     "neto": -0.089,
+     "neto": -0.088,
      "peso": 46.1,
      "fiable": true
     },
@@ -2359,7 +2359,7 @@
      ],
      [
       "1-1",
-      0.1008
+      0.1007
      ]
     ],
     "cuotas_justas": [
@@ -2472,14 +2472,14 @@
     "prob_2": 0.306,
     "goles_esperados": [
      1.528,
-     1.251
+     1.252
     ],
-    "prob_over_2_5": 0.525,
+    "prob_over_2_5": 0.526,
     "prob_btts": 0.565,
     "marcadores": [
      [
       "1-1",
-      0.1249
+      0.1248
      ],
      [
       "2-1",
@@ -2501,7 +2501,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.031,
-     "defensa": 0.085,
+     "defensa": 0.084,
      "neto": 0.054,
      "peso": 32.0,
      "fiable": true
@@ -2596,7 +2596,7 @@
     "prob_X": 0.254,
     "prob_2": 0.489,
     "goles_esperados": [
-     1.156,
+     1.157,
      1.675
     ],
     "prob_over_2_5": 0.538,
@@ -2616,9 +2616,9 @@
      ]
     ],
     "cuotas_justas": [
-     3.89,
+     3.88,
      3.94,
-     2.04
+     2.05
     ],
     "resumen": "Gana Le Mans FC (ligero favorito, 49%).",
     "confianza": "baja"
@@ -2627,7 +2627,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.441,
-     "defensa": -0.245,
+     "defensa": -0.246,
      "neto": -0.687,
      "peso": 7.5,
      "fiable": false
@@ -2692,64 +2692,64 @@
    "local": "AC Milan",
    "visitante": "FC Internazionale Milano",
    "prediccion": {
-    "prob_1": 0.267,
-    "prob_X": 0.232,
-    "prob_2": 0.501,
+    "prob_1": 0.272,
+    "prob_X": 0.235,
+    "prob_2": 0.493,
     "goles_esperados": [
-     1.277,
-     1.823
+     1.281,
+     1.793
     ],
-    "prob_over_2_5": 0.599,
-    "prob_btts": 0.606,
+    "prob_over_2_5": 0.593,
+    "prob_btts": 0.604,
     "marcadores": [
      [
       "1-1",
-      0.1064
+      0.1079
      ],
      [
       "1-2",
-      0.0956
+      0.0952
      ],
      [
       "0-1",
-      0.0805
+      0.0812
      ]
     ],
     "cuotas_justas": [
-     3.75,
-     4.3,
-     2.0
+     3.67,
+     4.26,
+     2.03
     ],
-    "resumen": "Gana FC Internazionale Milano (ligero favorito, 50%). se esperan goles (+2.5). ambos marcan.",
+    "resumen": "Gana FC Internazionale Milano (ligero favorito, 49%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.273,
-     "defensa": 0.203,
-     "neto": 0.476,
-     "peso": 45.4,
+     "ataque": 0.277,
+     "defensa": 0.222,
+     "neto": 0.499,
+     "peso": 46.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.65,
-     "defensa": 0.289,
+     "defensa": 0.288,
      "neto": 0.938,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {
      "pj": 5,
-     "g": 2,
-     "e": 3,
+     "g": 3,
+     "e": 2,
      "p": 0,
-     "gf": 10,
-     "gc": 6,
+     "gf": 11,
+     "gc": 5,
      "racha": [
-      "E",
       "E",
       "G",
       "E",
+      "G",
       "G"
      ]
     },
@@ -2805,14 +2805,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.94 vs +0.48): ataca ~92% más que el promedio, encaja ~25% menos. AC Milan juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.28 – 1.82; el modelo ve marcando más a FC Internazionale Milano. Y la forma reciente lo confirma: FC Internazionale Milano llega mejor (4G-1E-0P vs 2G-3E-0P).",
+    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.94 vs +0.50): ataca ~92% más que el promedio, encaja ~25% menos. AC Milan juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.28 – 1.79; el modelo ve marcando más a FC Internazionale Milano. Y la forma reciente lo confirma: FC Internazionale Milano llega mejor (4G-1E-0P vs 3G-2E-0P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.733,
+     "prob": 0.728,
      "por_que": "Doble oportunidad: cubre que AC Milan no gane. El escenario que queda afuera (gane AC Milan) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.817
+      "prob": 0.813
      },
      "confianza": "alta"
     }
@@ -2863,7 +2863,7 @@
      "ataque": 0.779,
      "defensa": 0.296,
      "neto": 1.075,
-     "peso": 48.1,
+     "peso": 48.0,
      "fiable": true
     },
     "fuerza_visitante": {

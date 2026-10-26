@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-03",
- "actualizado": "2026-10-26T11:58:31+00:00",
+ "actualizado": "2026-10-26T19:41:47+00:00",
  "partidos": [
   {
    "id": 575377,
@@ -42,13 +42,13 @@
     "resumen": "Gana Sporting Clube de Portugal (ligero favorito, 42%).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'FK Shakhtar Donetsk' solo tiene 5.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'FK Shakhtar Donetsk' solo tiene 5.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.126,
      "defensa": 0.109,
      "neto": -0.017,
-     "peso": 5.8,
+     "peso": 5.7,
      "fiable": false
     },
     "fuerza_visitante": {
@@ -252,7 +252,7 @@
      "ataque": 0.073,
      "defensa": 0.274,
      "neto": 0.347,
-     "peso": 14.0,
+     "peso": 13.9,
      "fiable": true
     },
     "forma_local": {
@@ -457,7 +457,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.359,
-     "defensa": 0.223,
+     "defensa": 0.222,
      "neto": 0.582,
      "peso": 16.6,
      "fiable": true
@@ -626,7 +626,7 @@
     "prob_X": 0.195,
     "prob_2": 0.301,
     "goles_esperados": [
-     2.043,
+     2.042,
      1.538
     ],
     "prob_over_2_5": 0.694,
@@ -725,7 +725,7 @@
     "prob_2": 0.239,
     "goles_esperados": [
      2.689,
-     1.697
+     1.696
     ],
     "prob_over_2_5": 0.813,
     "prob_btts": 0.755,
@@ -802,7 +802,7 @@
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.813,
-     "por_que": "Bastantes goles esperados (2.69 + 1.70 = 4.39); al menos una defensa floja. Probabilidad al over: 81%.",
+     "por_que": "Bastantes goles esperados (2.69 + 1.70 = 4.38); al menos una defensa floja. Probabilidad al over: 81%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.927
@@ -824,11 +824,11 @@
     "prob_X": 0.082,
     "prob_2": 0.068,
     "goles_esperados": [
-     4.043,
+     4.042,
      1.233
     ],
     "prob_over_2_5": 0.896,
-    "prob_btts": 0.694,
+    "prob_btts": 0.693,
     "marcadores": [
      [
       "4-1",
@@ -836,7 +836,7 @@
      ],
      [
       "3-1",
-      0.0696
+      0.0697
      ],
      [
       "4-0",
@@ -846,7 +846,7 @@
     "cuotas_justas": [
      1.18,
      12.25,
-     14.81
+     14.82
     ],
     "resumen": "Gana LASK Linz (claro favorito, 85%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -854,8 +854,8 @@
    "nota": "pocos datos: 'LASK Linz' solo tiene 2.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.299,
-     "defensa": -0.392,
+     "ataque": 0.298,
+     "defensa": -0.391,
      "neto": -0.093,
      "peso": 2.9,
      "fiable": false
