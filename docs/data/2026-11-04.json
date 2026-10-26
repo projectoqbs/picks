@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-04",
- "actualizado": "2026-10-25T17:20:59+00:00",
+ "actualizado": "2026-10-26T11:58:31+00:00",
  "partidos": [
   {
    "id": 575386,
@@ -35,7 +35,7 @@
      ]
     ],
     "cuotas_justas": [
-     8.41,
+     8.4,
      7.99,
      1.32
     ],
@@ -55,7 +55,7 @@
      "ataque": 0.56,
      "defensa": 0.141,
      "neto": 0.701,
-     "peso": 17.1,
+     "peso": 17.0,
      "fiable": true
     },
     "forma_local": {
@@ -114,10 +114,10 @@
     "prob_2": 0.779,
     "goles_esperados": [
      0.973,
-     2.946
+     2.945
     ],
     "prob_over_2_5": 0.75,
-    "prob_btts": 0.583,
+    "prob_btts": 0.584,
     "marcadores": [
      [
       "0-2",
@@ -133,7 +133,7 @@
      ]
     ],
     "cuotas_justas": [
-     10.03,
+     10.02,
      8.24,
      1.28
     ],
@@ -185,11 +185,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.69 vs -0.72): ataca ~45% más que el promedio, encaja ~27% menos. Fenerbahçe SK juega en casa (~+35% de ventaja, ya contada). Goles esperados: 0.97 – 2.95; el modelo ve marcando más a Liverpool FC. Y la forma reciente lo confirma: Liverpool FC llega mejor (3G-0E-2P vs 0G-2E-1P). El modelo tiene pocos datos de Fenerbahçe SK: tomalo con pinzas.",
+    "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.69 vs -0.72): ataca ~45% más que el promedio, encaja ~27% menos. Fenerbahçe SK juega en casa (~+35% de ventaja, ya contada). Goles esperados: 0.97 – 2.94; el modelo ve marcando más a Liverpool FC. Y la forma reciente lo confirma: Liverpool FC llega mejor (3G-0E-2P vs 0G-2E-1P). El modelo tiene pocos datos de Fenerbahçe SK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "2",
      "prob": 0.779,
-     "por_que": "El modelo ve a Liverpool FC marcando más que Fenerbahçe SK pese a la localía (2.95 vs 0.97), y lo respalda una diferencia de fuerza clara (neto +0.69 vs -0.72). Probabilidad del modelo: 78%.",
+     "por_que": "El modelo ve a Liverpool FC marcando más que Fenerbahçe SK pese a la localía (2.94 vs 0.97), y lo respalda una diferencia de fuerza clara (neto +0.69 vs -0.72). Probabilidad del modelo: 78%.",
      "alternativa": {
       "mercado": "X2",
       "prob": 0.9
@@ -215,7 +215,7 @@
      1.766
     ],
     "prob_over_2_5": 0.6,
-    "prob_btts": 0.6,
+    "prob_btts": 0.601,
     "marcadores": [
      [
       "1-1",
@@ -248,10 +248,10 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.27,
+     "ataque": 0.269,
      "defensa": 0.133,
      "neto": 0.403,
-     "peso": 12.6,
+     "peso": 12.5,
      "fiable": true
     },
     "forma_local": {
@@ -322,7 +322,7 @@
    "local": "SK Slavia Praha",
    "visitante": "Arsenal FC",
    "prediccion": {
-    "prob_1": 0.055,
+    "prob_1": 0.056,
     "prob_X": 0.104,
     "prob_2": 0.84,
     "goles_esperados": [
@@ -330,7 +330,7 @@
      2.772
     ],
     "prob_over_2_5": 0.645,
-    "prob_btts": 0.39,
+    "prob_btts": 0.391,
     "marcadores": [
      [
       "0-2",
@@ -346,8 +346,8 @@
      ]
     ],
     "cuotas_justas": [
-     18.04,
-     9.58,
+     18.02,
+     9.57,
      1.19
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 84%). se esperan goles (+2.5).",
@@ -366,7 +366,7 @@
      "ataque": 0.392,
      "defensa": 0.785,
      "neto": 1.176,
-     "peso": 17.6,
+     "peso": 17.5,
      "fiable": true
     },
     "forma_local": {
@@ -438,7 +438,7 @@
      1.763
     ],
     "prob_over_2_5": 0.759,
-    "prob_btts": 0.731,
+    "prob_btts": 0.73,
     "marcadores": [
      [
       "2-1",
@@ -466,7 +466,7 @@
      "ataque": 0.118,
      "defensa": 0.056,
      "neto": 0.174,
-     "peso": 11.6,
+     "peso": 11.5,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -549,7 +549,7 @@
      ],
      [
       "1-0",
-      0.0785
+      0.0786
      ]
     ],
     "cuotas_justas": [
@@ -643,7 +643,7 @@
      ],
      [
       "1-1",
-      0.1001
+      0.1
      ],
      [
       "2-1",
@@ -727,14 +727,14 @@
    "local": "Racing Club de Lens",
    "visitante": "Como 1907",
    "prediccion": {
-    "prob_1": 0.208,
+    "prob_1": 0.209,
     "prob_X": 0.162,
     "prob_2": 0.629,
     "goles_esperados": [
      1.518,
-     2.681
+     2.68
     ],
-    "prob_over_2_5": 0.79,
+    "prob_over_2_5": 0.789,
     "prob_btts": 0.721,
     "marcadores": [
      [
@@ -751,7 +751,7 @@
      ]
     ],
     "cuotas_justas": [
-     4.8,
+     4.79,
      6.17,
      1.59
     ],
@@ -806,11 +806,11 @@
     "explicacion": "Como 1907 es más fuerte de fondo (neto +0.44 vs -0.43): ataca ~67% más que el promedio. Racing Club de Lens juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.52 – 2.68; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (2G-0E-1P vs 2G-0E-3P). El modelo tiene pocos datos de Racing Club de Lens: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.79,
+     "prob": 0.789,
      "por_que": "Bastantes goles esperados (1.52 + 2.68 = 4.20); al menos una defensa floja. Probabilidad al over: 79%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.916
+      "prob": 0.915
      },
      "confianza": "baja"
     }
@@ -829,7 +829,7 @@
     "prob_X": 0.137,
     "prob_2": 0.131,
     "goles_esperados": [
-     2.863,
+     2.862,
      1.152
     ],
     "prob_over_2_5": 0.764,

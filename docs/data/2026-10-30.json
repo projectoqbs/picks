@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-30",
- "actualizado": "2026-10-25T17:20:59+00:00",
+ "actualizado": "2026-10-26T11:58:31+00:00",
  "partidos": [
   {
    "id": 559644,
@@ -12,47 +12,47 @@
    "visitante": "Paris Saint-Germain FC",
    "prediccion": {
     "prob_1": 0.122,
-    "prob_X": 0.197,
-    "prob_2": 0.681,
+    "prob_X": 0.195,
+    "prob_2": 0.683,
     "goles_esperados": [
-     0.782,
-     2.132
+     0.819,
+     2.194
     ],
-    "prob_over_2_5": 0.557,
-    "prob_btts": 0.481,
+    "prob_over_2_5": 0.58,
+    "prob_btts": 0.501,
     "marcadores": [
      [
       "0-2",
-      0.1233
+      0.1183
      ],
      [
       "0-1",
-      0.1124
+      0.1033
      ],
      [
       "1-2",
-      0.0964
+      0.0969
      ]
     ],
     "cuotas_justas": [
      8.22,
-     5.08,
-     1.47
+     5.13,
+     1.46
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 68%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.265,
-     "defensa": -0.011,
-     "neto": -0.276,
-     "peso": 41.0,
+     "ataque": -0.213,
+     "defensa": -0.048,
+     "neto": -0.26,
+     "peso": 41.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.525,
-     "defensa": 0.396,
+     "ataque": 0.53,
+     "defensa": 0.391,
      "neto": 0.921,
      "peso": 41.0,
      "fiable": true
@@ -62,11 +62,11 @@
      "g": 0,
      "e": 1,
      "p": 4,
-     "gf": 4,
-     "gc": 9,
+     "gf": 6,
+     "gc": 11,
      "racha": [
-      "P",
       "E",
+      "P",
       "P",
       "P",
       "P"
@@ -124,14 +124,14 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.92 vs -0.28): ataca ~69% más que el promedio, encaja ~33% menos. Le Havre AC juega en casa (~+21% de ventaja, ya contada). Goles esperados: 0.78 – 2.13; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-0E-1P vs 0G-1E-4P).",
+    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.92 vs -0.26): ataca ~70% más que el promedio, encaja ~32% menos. Le Havre AC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 0.82 – 2.19; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-0E-1P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.878,
      "por_que": "Doble oportunidad: cubre que Le Havre AC no gane. El escenario que queda afuera (gane Le Havre AC) es el menos probable (12%), así que el mercado se cumple ~88% de las veces.",
      "alternativa": {
-      "mercado": "12",
-      "prob": 0.803
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.807
      },
      "confianza": "alta"
     }
@@ -182,7 +182,7 @@
     "fuerza_local": {
      "ataque": 0.216,
      "defensa": -0.189,
-     "neto": 0.026,
+     "neto": 0.027,
      "peso": 6.6,
      "fiable": false
     },
@@ -190,7 +190,7 @@
      "ataque": 0.052,
      "defensa": 0.05,
      "neto": 0.103,
-     "peso": 41.4,
+     "peso": 41.3,
      "fiable": true
     },
     "forma_local": {
@@ -246,23 +246,23 @@
    "local": "Villarreal CF",
    "visitante": "RCD Espanyol de Barcelona",
    "prediccion": {
-    "prob_1": 0.632,
-    "prob_X": 0.211,
+    "prob_1": 0.631,
+    "prob_X": 0.212,
     "prob_2": 0.157,
     "goles_esperados": [
      2.074,
-     0.936
+     0.939
     ],
-    "prob_over_2_5": 0.579,
-    "prob_btts": 0.536,
+    "prob_over_2_5": 0.58,
+    "prob_btts": 0.537,
     "marcadores": [
      [
       "2-0",
-      0.106
+      0.1057
      ],
      [
       "1-1",
-      0.1
+      0.1001
      ],
      [
       "2-1",
@@ -272,7 +272,7 @@
     "cuotas_justas": [
      1.58,
      4.73,
-     6.39
+     6.37
     ],
     "resumen": "Gana Villarreal CF (claro favorito, 63%).",
     "confianza": "alta"
@@ -282,14 +282,14 @@
      "ataque": 0.367,
      "defensa": 0.073,
      "neto": 0.44,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.1,
-     "defensa": 0.033,
+     "ataque": -0.099,
+     "defensa": 0.032,
      "neto": -0.067,
-     "peso": 42.7,
+     "peso": 42.6,
      "fiable": true
     },
     "forma_local": {
@@ -355,11 +355,11 @@
     "explicacion": "Villarreal CF es más fuerte de fondo (neto +0.44 vs -0.07): ataca ~44% más que el promedio. Villarreal CF juega en casa (~+33% de ventaja, ya contada). Goles esperados: 2.07 – 0.94; el modelo ve marcando más a Villarreal CF. Y la forma reciente lo confirma: Villarreal CF llega mejor (3G-1E-1P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.632,
+     "prob": 0.631,
      "por_que": "Villarreal CF es favorito en casa: marca más (2.07 vs 0.94) y es más fuerte de fondo (neto +0.44 vs -0.07). Probabilidad: 63%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.844
+      "prob": 0.843
      },
      "confianza": "alta"
     }
@@ -374,50 +374,50 @@
    "local": "Lille OSC",
    "visitante": "Racing Club de Lens",
    "prediccion": {
-    "prob_1": 0.413,
-    "prob_X": 0.284,
-    "prob_2": 0.303,
+    "prob_1": 0.412,
+    "prob_X": 0.288,
+    "prob_2": 0.3,
     "goles_esperados": [
-     1.308,
-     1.082
+     1.316,
+     1.085
     ],
-    "prob_over_2_5": 0.428,
-    "prob_btts": 0.487,
+    "prob_over_2_5": 0.43,
+    "prob_btts": 0.491,
     "marcadores": [
      [
       "1-1",
-      0.1344
+      0.1361
      ],
      [
       "1-0",
-      0.1151
+      0.1126
      ],
      [
       "0-0",
-      0.0963
+      0.0974
      ]
     ],
     "cuotas_justas": [
-     2.42,
-     3.52,
-     3.3
+     2.43,
+     3.48,
+     3.33
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.084,
-     "defensa": 0.385,
-     "neto": 0.469,
-     "peso": 42.0,
+     "ataque": 0.092,
+     "defensa": 0.379,
+     "neto": 0.471,
+     "peso": 41.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.243,
-     "defensa": 0.23,
+     "ataque": 0.252,
+     "defensa": 0.221,
      "neto": 0.473,
-     "peso": 42.0,
+     "peso": 41.9,
      "fiable": true
     },
     "forma_local": {
@@ -487,11 +487,11 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.47 vs +0.47). Lille OSC juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.31 – 1.08; el modelo ve marcando más a Lille OSC. También parejos en forma (2G-2E-1P vs 3G-1E-1P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.47 vs +0.47). Lille OSC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.32 – 1.08; el modelo ve marcando más a Lille OSC. También parejos en forma (2G-2E-1P vs 3G-1E-1P en 5).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.572,
-     "por_que": "Pocos goles esperados en total (1.31 + 1.08 = 2.39); la defensa de Lille OSC aprieta. El modelo ve el partido cerrado (57% al under).",
+     "prob": 0.57,
+     "por_que": "Pocos goles esperados en total (1.32 + 1.08 = 2.40); la defensa de Lille OSC aprieta. El modelo ve el partido cerrado (57% al under).",
      "alternativa": null,
      "confianza": "alta"
     }

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-28",
- "actualizado": "2026-10-25T17:20:59+00:00",
+ "actualizado": "2026-10-26T11:58:31+00:00",
  "partidos": [
   {
    "id": 558549,
@@ -47,14 +47,14 @@
      "ataque": 0.273,
      "defensa": 0.203,
      "neto": 0.476,
-     "peso": 45.5,
+     "peso": 45.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.093,
      "defensa": 0.112,
      "neto": 0.205,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "forma_local": {
@@ -300,7 +300,7 @@
      "ataque": -0.035,
      "defensa": -0.082,
      "neto": -0.117,
-     "peso": 45.4,
+     "peso": 45.3,
      "fiable": true
     },
     "forma_local": {
@@ -421,14 +421,14 @@
      "ataque": -0.141,
      "defensa": 0.006,
      "neto": -0.134,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.211,
+     "ataque": 0.21,
      "defensa": 0.317,
      "neto": 0.528,
-     "peso": 45.4,
+     "peso": 45.3,
      "fiable": true
     },
     "forma_local": {
@@ -561,9 +561,9 @@
     },
     "fuerza_visitante": {
      "ataque": 0.236,
-     "defensa": 0.295,
+     "defensa": 0.294,
      "neto": 0.53,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {
@@ -626,7 +626,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "SSC Napoli es más fuerte de fondo (neto +0.53 vs -0.35): ataca ~27% más que el promedio, encaja ~26% menos. AC Monza juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.94 – 2.05; el modelo ve marcando más a SSC Napoli. Y la forma reciente lo confirma: SSC Napoli llega mejor (2G-2E-1P vs 2G-0E-3P).",
+    "explicacion": "SSC Napoli es más fuerte de fondo (neto +0.53 vs -0.35): ataca ~27% más que el promedio, encaja ~25% menos. AC Monza juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.94 – 2.05; el modelo ve marcando más a SSC Napoli. Y la forma reciente lo confirma: SSC Napoli llega mejor (2G-2E-1P vs 2G-0E-3P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.837,
