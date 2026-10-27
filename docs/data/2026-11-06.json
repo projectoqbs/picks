@@ -1,0 +1,595 @@
+{
+ "fecha": "2026-11-06",
+ "actualizado": "2026-10-27T11:20:30+00:00",
+ "partidos": [
+  {
+   "id": 565852,
+   "competicion": "Bundesliga",
+   "competicion_codigo": "BL1",
+   "fecha_utc": "2026-11-06T19:30:00Z",
+   "jornada": 9,
+   "local": "Hamburger SV",
+   "visitante": "Borussia Mönchengladbach",
+   "prediccion": {
+    "prob_1": 0.397,
+    "prob_X": 0.263,
+    "prob_2": 0.34,
+    "goles_esperados": [
+     1.482,
+     1.356
+    ],
+    "prob_over_2_5": 0.539,
+    "prob_btts": 0.58,
+    "marcadores": [
+     [
+      "1-1",
+      0.124
+     ],
+     [
+      "2-1",
+      0.0872
+     ],
+     [
+      "1-0",
+      0.0805
+     ]
+    ],
+    "cuotas_justas": [
+     2.52,
+     3.8,
+     2.94
+    ],
+    "resumen": "Partido parejo.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.208,
+     "defensa": -0.048,
+     "neto": -0.256,
+     "peso": 26.4,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.004,
+     "defensa": -0.115,
+     "neto": -0.119,
+     "peso": 41.2,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 6,
+     "gc": 9,
+     "racha": [
+      "P",
+      "G",
+      "G",
+      "G",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 8,
+     "gc": 15,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-01-17",
+      "local": "Hamburger SV",
+      "visitante": "Borussia Mönchengladbach",
+      "goles_local": 0,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-08-24",
+      "local": "Borussia Mönchengladbach",
+      "visitante": "Hamburger SV",
+      "goles_local": 0,
+      "goles_visitante": 0
+     }
+    ],
+    "explicacion": "Borussia Mönchengladbach es más fuerte de fondo (neto -0.12 vs -0.26): es más completo en general. Hamburger SV juega en casa (~+25% de ventaja, ya contada). Goles esperados: 1.48 – 1.36; el modelo ve marcando más a Hamburger SV. Pero ojo: en forma reciente Hamburger SV llega mejor que Borussia Mönchengladbach, así que puede estar más cerca de lo que dice el neto.",
+    "recomendacion": {
+     "mercado": "Ambos marcan: Sí",
+     "prob": 0.58,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.48 y 1.36. Probabilidad: 58%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.782
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 558537,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-11-06T19:45:00Z",
+   "jornada": 11,
+   "local": "Venezia FC",
+   "visitante": "Udinese Calcio",
+   "prediccion": {
+    "prob_1": 0.281,
+    "prob_X": 0.276,
+    "prob_2": 0.443,
+    "goles_esperados": [
+     1.034,
+     1.369
+    ],
+    "prob_over_2_5": 0.431,
+    "prob_btts": 0.482,
+    "marcadores": [
+     [
+      "1-1",
+      0.1301
+     ],
+     [
+      "0-1",
+      0.1218
+     ],
+     [
+      "0-0",
+      0.0925
+     ]
+    ],
+    "cuotas_justas": [
+     3.55,
+     3.63,
+     2.26
+    ],
+    "resumen": "Gana Udinese Calcio (ligero favorito, 44%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.311,
+     "defensa": -0.21,
+     "neto": -0.522,
+     "peso": 18.5,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.052,
+     "defensa": -0.087,
+     "neto": -0.139,
+     "peso": 46.2,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 4,
+     "gc": 10,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "G",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 0,
+     "e": 0,
+     "p": 5,
+     "gf": 4,
+     "gc": 13,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2025-02-01",
+      "local": "Udinese Calcio",
+      "visitante": "Venezia FC",
+      "goles_local": 3,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-10-30",
+      "local": "Venezia FC",
+      "visitante": "Udinese Calcio",
+      "goles_local": 3,
+      "goles_visitante": 2
+     }
+    ],
+    "explicacion": "Udinese Calcio es más fuerte de fondo (neto -0.14 vs -0.52): es más completo en general. Venezia FC juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.03 – 1.37; el modelo ve marcando más a Udinese Calcio. Pero ojo: en forma reciente Venezia FC llega mejor que Udinese Calcio, así que puede estar más cerca de lo que dice el neto.",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.719,
+     "por_que": "Doble oportunidad: cubre que Venezia FC no gane. El escenario que queda afuera (gane Venezia FC) es el menos probable (28%), así que el mercado se cumple ~72% de las veces.",
+     "alternativa": {
+      "mercado": "Menos de 2.5 goles",
+      "prob": 0.569
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 559638,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-11-06T19:45:00Z",
+   "jornada": 10,
+   "local": "Toulouse FC",
+   "visitante": "RC Strasbourg Alsace",
+   "prediccion": {
+    "prob_1": 0.419,
+    "prob_X": 0.254,
+    "prob_2": 0.327,
+    "goles_esperados": [
+     1.597,
+     1.387
+    ],
+    "prob_over_2_5": 0.573,
+    "prob_btts": 0.604,
+    "marcadores": [
+     [
+      "1-1",
+      0.1179
+     ],
+     [
+      "2-1",
+      0.0895
+     ],
+     [
+      "1-2",
+      0.0777
+     ]
+    ],
+    "cuotas_justas": [
+     2.39,
+     3.94,
+     3.06
+    ],
+    "resumen": "Partido parejo. ambos marcan.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.051,
+     "defensa": 0.081,
+     "neto": 0.132,
+     "peso": 41.1,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.202,
+     "defensa": -0.013,
+     "neto": 0.189,
+     "peso": 41.9,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 3,
+     "p": 0,
+     "gf": 10,
+     "gc": 6,
+     "racha": [
+      "E",
+      "G",
+      "E",
+      "G",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 0,
+     "e": 1,
+     "p": 4,
+     "gf": 4,
+     "gc": 11,
+     "racha": [
+      "E",
+      "P",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-05-03",
+      "local": "RC Strasbourg Alsace",
+      "visitante": "Toulouse FC",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-12-06",
+      "local": "Toulouse FC",
+      "visitante": "RC Strasbourg Alsace",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-03-16",
+      "local": "RC Strasbourg Alsace",
+      "visitante": "Toulouse FC",
+      "goles_local": 2,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-01-12",
+      "local": "Toulouse FC",
+      "visitante": "RC Strasbourg Alsace",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-04-07",
+      "local": "Toulouse FC",
+      "visitante": "RC Strasbourg Alsace",
+      "goles_local": 0,
+      "goles_visitante": 0
+     }
+    ],
+    "explicacion": "En fuerza de temporada están parejos (neto +0.13 vs +0.19). Toulouse FC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.60 – 1.39; el modelo ve marcando más a Toulouse FC. En forma reciente pinta algo mejor Toulouse FC (2G-3E-0P vs 0G-1E-4P en 5).",
+    "recomendacion": {
+     "mercado": "Ambos marcan: Sí",
+     "prob": 0.604,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.60 y 1.39. Probabilidad: 60%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.804
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 564740,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-11-06T20:00:00Z",
+   "jornada": 12,
+   "local": "Sevilla FC",
+   "visitante": "Deportivo Alavés",
+   "prediccion": {
+    "prob_1": 0.449,
+    "prob_X": 0.275,
+    "prob_2": 0.275,
+    "goles_esperados": [
+     1.441,
+     1.072
+    ],
+    "prob_over_2_5": 0.46,
+    "prob_btts": 0.508,
+    "marcadores": [
+     [
+      "1-1",
+      0.1309
+     ],
+     [
+      "1-0",
+      0.111
+     ],
+     [
+      "2-1",
+      0.0902
+     ]
+    ],
+    "cuotas_justas": [
+     2.23,
+     3.63,
+     3.63
+    ],
+    "resumen": "Gana Sevilla FC (ligero favorito, 45%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.04,
+     "defensa": -0.033,
+     "neto": 0.007,
+     "peso": 48.0,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.069,
+     "defensa": 0.071,
+     "neto": 0.001,
+     "peso": 48.0,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 8,
+     "gc": 10,
+     "racha": [
+      "G",
+      "P",
+      "E",
+      "P",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 0,
+     "e": 2,
+     "p": 3,
+     "gf": 3,
+     "gc": 6,
+     "racha": [
+      "P",
+      "E",
+      "P",
+      "P",
+      "E"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-02-14",
+      "local": "Sevilla FC",
+      "visitante": "Deportivo Alavés",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-09-20",
+      "local": "Deportivo Alavés",
+      "visitante": "Sevilla FC",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-04-20",
+      "local": "Sevilla FC",
+      "visitante": "Deportivo Alavés",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-09-20",
+      "local": "Deportivo Alavés",
+      "visitante": "Sevilla FC",
+      "goles_local": 2,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-01-12",
+      "local": "Sevilla FC",
+      "visitante": "Deportivo Alavés",
+      "goles_local": 2,
+      "goles_visitante": 3
+     }
+    ],
+    "explicacion": "En fuerza de temporada están parejos (neto +0.01 vs +0.00). Sevilla FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.44 – 1.07; el modelo ve marcando más a Sevilla FC. En forma reciente pinta algo mejor Sevilla FC (2G-1E-2P vs 0G-2E-3P en 5).",
+    "recomendacion": null
+   }
+  },
+  {
+   "id": 560634,
+   "competicion": "Premier League",
+   "competicion_codigo": "PL",
+   "fecha_utc": "2026-11-06T20:00:00Z",
+   "jornada": 10,
+   "local": "Everton FC",
+   "visitante": "Coventry City FC",
+   "prediccion": {
+    "prob_1": 0.527,
+    "prob_X": 0.289,
+    "prob_2": 0.184,
+    "goles_esperados": [
+     1.475,
+     0.77
+    ],
+    "prob_over_2_5": 0.389,
+    "prob_btts": 0.426,
+    "marcadores": [
+     [
+      "1-0",
+      0.1444
+     ],
+     [
+      "1-1",
+      0.1321
+     ],
+     [
+      "0-0",
+      0.1177
+     ]
+    ],
+    "cuotas_justas": [
+     1.9,
+     3.47,
+     5.44
+    ],
+    "resumen": "Gana Everton FC (ligero favorito, 53%). pocos goles (-2.5).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Coventry City FC' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.124,
+     "defensa": 0.179,
+     "neto": 0.055,
+     "peso": 46.0,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.305,
+     "defensa": -0.119,
+     "neto": -0.425,
+     "peso": 7.5,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 3,
+     "gc": 6,
+     "racha": [
+      "E",
+      "G",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 0,
+     "p": 3,
+     "gf": 6,
+     "gc": 10,
+     "racha": [
+      "P",
+      "G",
+      "G",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Everton FC es más fuerte de fondo (neto +0.06 vs -0.42): encaja ~16% menos. Everton FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.48 – 0.77; el modelo ve marcando más a Everton FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Coventry City FC: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.816,
+     "por_que": "Doble oportunidad: cubre que Everton FC no pierda. El escenario que queda afuera (gane Coventry City FC) es el menos probable (18%), así que el mercado se cumple ~82% de las veces.",
+     "alternativa": {
+      "mercado": "Menos de 3.5 goles",
+      "prob": 0.81
+     },
+     "confianza": "baja"
+    }
+   }
+  }
+ ]
+}

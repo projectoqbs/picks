@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-04",
- "actualizado": "2026-10-26T19:41:47+00:00",
+ "actualizado": "2026-10-27T11:20:30+00:00",
  "partidos": [
   {
    "id": 575386,
@@ -13,10 +13,10 @@
    "prediccion": {
     "prob_1": 0.119,
     "prob_X": 0.125,
-    "prob_2": 0.756,
+    "prob_2": 0.755,
     "goles_esperados": [
      1.199,
-     3.099
+     3.097
     ],
     "prob_over_2_5": 0.802,
     "prob_btts": 0.662,
@@ -35,8 +35,8 @@
      ]
     ],
     "cuotas_justas": [
-     8.4,
-     7.99,
+     8.39,
+     7.98,
      1.32
     ],
     "resumen": "Gana Real Madrid CF (claro favorito, 76%). se esperan goles (+2.5). ambos marcan.",
@@ -47,7 +47,7 @@
     "fuerza_local": {
      "ataque": -0.278,
      "defensa": -0.268,
-     "neto": -0.546,
+     "neto": -0.545,
      "peso": 2.9,
      "fiable": false
     },
@@ -90,7 +90,7 @@
     "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.70 vs -0.55): ataca ~75% más que el promedio, encaja ~13% menos. PAE AEK juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.20 – 3.10; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (3G-0E-2P vs 1G-0E-2P). El modelo tiene pocos datos de PAE AEK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "2",
-     "prob": 0.756,
+     "prob": 0.755,
      "por_que": "El modelo ve a Real Madrid CF marcando más que PAE AEK pese a la localía (3.10 vs 1.20), y lo respalda una diferencia de fuerza clara (neto +0.70 vs -0.55). Probabilidad del modelo: 76%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -144,7 +144,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.31,
-     "defensa": -0.408,
+     "defensa": -0.407,
      "neto": -0.717,
      "peso": 2.9,
      "fiable": false
@@ -152,7 +152,7 @@
     "fuerza_visitante": {
      "ataque": 0.369,
      "defensa": 0.317,
-     "neto": 0.687,
+     "neto": 0.686,
      "peso": 12.5,
      "fiable": true
     },
@@ -250,7 +250,7 @@
     "fuerza_visitante": {
      "ataque": 0.269,
      "defensa": 0.133,
-     "neto": 0.402,
+     "neto": 0.403,
      "peso": 12.5,
      "fiable": true
     },
@@ -326,7 +326,7 @@
     "prob_X": 0.104,
     "prob_2": 0.84,
     "goles_esperados": [
-     0.549,
+     0.55,
      2.771
     ],
     "prob_over_2_5": 0.645,
@@ -338,7 +338,7 @@
      ],
      [
       "0-3",
-      0.1282
+      0.1281
      ],
      [
       "0-1",
@@ -346,7 +346,7 @@
      ]
     ],
     "cuotas_justas": [
-     18.01,
+     18.0,
      9.57,
      1.19
     ],
@@ -363,7 +363,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.392,
+     "ataque": 0.391,
      "defensa": 0.784,
      "neto": 1.176,
      "peso": 17.5,
@@ -415,7 +415,7 @@
      "por_que": "El modelo ve a Arsenal FC marcando más que SK Slavia Praha pese a la localía (2.77 vs 0.55), y lo respalda una diferencia de fuerza clara (neto +1.18 vs -0.74). Probabilidad del modelo: 84%.",
      "alternativa": {
       "mercado": "X2",
-      "prob": 0.945
+      "prob": 0.944
      },
      "confianza": "baja"
     }
@@ -566,7 +566,7 @@
      "ataque": 0.179,
      "defensa": 0.163,
      "neto": 0.342,
-     "peso": 14.4,
+     "peso": 14.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -658,13 +658,13 @@
     "resumen": "Gana FC Porto (ligero favorito, 51%).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'FC Porto' solo tiene 4.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'FC Porto' solo tiene 3.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.162,
      "defensa": -0.018,
      "neto": -0.179,
-     "peso": 4.0,
+     "peso": 3.9,
      "fiable": false
     },
     "fuerza_visitante": {
@@ -752,7 +752,7 @@
     ],
     "cuotas_justas": [
      4.79,
-     6.17,
+     6.16,
      1.59
     ],
     "resumen": "Gana Como 1907 (claro favorito, 63%). se esperan goles (+2.5). ambos marcan.",
@@ -837,7 +837,7 @@
     "marcadores": [
      [
       "2-1",
-      0.0853
+      0.0852
      ],
      [
       "3-1",
@@ -868,7 +868,7 @@
     "fuerza_visitante": {
      "ataque": -0.313,
      "defensa": -0.19,
-     "neto": -0.503,
+     "neto": -0.502,
      "peso": 2.9,
      "fiable": false
     },

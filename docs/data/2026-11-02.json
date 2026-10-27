@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-02",
- "actualizado": "2026-10-26T19:41:47+00:00",
+ "actualizado": "2026-10-27T11:20:30+00:00",
  "partidos": [
   {
    "id": 558541,
@@ -54,7 +54,7 @@
      "ataque": 0.075,
      "defensa": -0.033,
      "neto": 0.042,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {
@@ -165,7 +165,7 @@
     "cuotas_justas": [
      1.59,
      4.41,
-     6.95
+     6.94
     ],
     "resumen": "Gana Atalanta BC (claro favorito, 63%).",
     "confianza": "alta"
@@ -182,7 +182,7 @@
      "ataque": -0.318,
      "defensa": -0.029,
      "neto": -0.347,
-     "peso": 40.8,
+     "peso": 40.7,
      "fiable": true
     },
     "forma_local": {
@@ -267,50 +267,50 @@
    "local": "RC Deportivo La Coruña",
    "visitante": "CA Osasuna",
    "prediccion": {
-    "prob_1": 0.485,
-    "prob_X": 0.269,
-    "prob_2": 0.246,
+    "prob_1": 0.493,
+    "prob_X": 0.268,
+    "prob_2": 0.239,
     "goles_esperados": [
-     1.52,
-     1.009
+     1.531,
+     0.989
     ],
-    "prob_over_2_5": 0.464,
-    "prob_btts": 0.502,
+    "prob_over_2_5": 0.461,
+    "prob_btts": 0.498,
     "marcadores": [
      [
       "1-1",
-      0.1279
+      0.1275
      ],
      [
       "1-0",
-      0.1156
+      0.1176
      ],
      [
-      "2-1",
-      0.0929
+      "2-0",
+      0.0943
      ]
     ],
     "cuotas_justas": [
-     2.06,
-     3.72,
-     4.07
+     2.03,
+     3.73,
+     4.19
     ],
     "resumen": "Gana RC Deportivo La Coruña (ligero favorito, 49%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.004,
-     "defensa": 0.066,
-     "neto": 0.062,
+     "ataque": -0.003,
+     "defensa": 0.067,
+     "neto": 0.064,
      "peso": 9.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.033,
-     "defensa": -0.028,
-     "neto": -0.061,
-     "peso": 47.1,
+     "ataque": -0.051,
+     "defensa": -0.033,
+     "neto": -0.084,
+     "peso": 48.0,
      "fiable": true
     },
     "forma_local": {
@@ -337,18 +337,18 @@
      "gc": 12,
      "racha": [
       "P",
-      "P",
       "E",
       "P",
-      "G"
+      "G",
+      "P"
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "RC Deportivo La Coruña es más fuerte de fondo (neto +0.06 vs -0.06): es más completo en general. RC Deportivo La Coruña juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.52 – 1.01; el modelo ve marcando más a RC Deportivo La Coruña. Pero ojo: en forma reciente CA Osasuna llega mejor que RC Deportivo La Coruña, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "RC Deportivo La Coruña es más fuerte de fondo (neto +0.06 vs -0.08): es más completo en general. RC Deportivo La Coruña juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.53 – 0.99; el modelo ve marcando más a RC Deportivo La Coruña. Pero ojo: en forma reciente CA Osasuna llega mejor que RC Deportivo La Coruña, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.754,
-     "por_que": "Doble oportunidad: cubre que RC Deportivo La Coruña no pierda. El escenario que queda afuera (gane CA Osasuna) es el menos probable (25%), así que el mercado se cumple ~75% de las veces.",
+     "prob": 0.761,
+     "por_que": "Doble oportunidad: cubre que RC Deportivo La Coruña no pierda. El escenario que queda afuera (gane CA Osasuna) es el menos probable (24%), así que el mercado se cumple ~76% de las veces.",
      "alternativa": null,
      "confianza": "alta"
     }
@@ -403,9 +403,9 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.123,
+     "ataque": -0.124,
      "defensa": 0.179,
-     "neto": 0.056,
+     "neto": 0.055,
      "peso": 46.0,
      "fiable": true
     },

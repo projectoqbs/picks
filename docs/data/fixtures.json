@@ -1,26 +1,6 @@
 {
- "actualizado": "2026-10-26T19:41:43+00:00",
+ "actualizado": "2026-10-27T11:20:28+00:00",
  "fixtures": [
-  {
-   "id": 559648,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-10-26T19:30:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 8,
-   "local": "Paris Saint-Germain FC",
-   "visitante": "Olympique Lyonnais"
-  },
-  {
-   "id": 564721,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-10-26T20:00:00Z",
-   "estado": "TIMED",
-   "jornada": 10,
-   "local": "Sevilla FC",
-   "visitante": "CA Osasuna"
-  },
   {
    "id": 558556,
    "competicion_codigo": "SA",
@@ -780,6 +760,56 @@
    "jornada": 4,
    "local": "Viking FK",
    "visitante": "Sabah FK"
+  },
+  {
+   "id": 565852,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-11-06T19:30:00Z",
+   "estado": "TIMED",
+   "jornada": 9,
+   "local": "Hamburger SV",
+   "visitante": "Borussia Mönchengladbach"
+  },
+  {
+   "id": 558537,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-11-06T19:45:00Z",
+   "estado": "TIMED",
+   "jornada": 11,
+   "local": "Venezia FC",
+   "visitante": "Udinese Calcio"
+  },
+  {
+   "id": 559638,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-11-06T19:45:00Z",
+   "estado": "TIMED",
+   "jornada": 10,
+   "local": "Toulouse FC",
+   "visitante": "RC Strasbourg Alsace"
+  },
+  {
+   "id": 560634,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-11-06T20:00:00Z",
+   "estado": "TIMED",
+   "jornada": 10,
+   "local": "Everton FC",
+   "visitante": "Coventry City FC"
+  },
+  {
+   "id": 564740,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-11-06T20:00:00Z",
+   "estado": "TIMED",
+   "jornada": 12,
+   "local": "Sevilla FC",
+   "visitante": "Deportivo Alavés"
   }
  ]
 }

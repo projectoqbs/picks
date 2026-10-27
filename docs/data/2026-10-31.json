@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-31",
- "actualizado": "2026-10-26T19:41:47+00:00",
+ "actualizado": "2026-10-27T11:20:30+00:00",
  "partidos": [
   {
    "id": 560626,
@@ -23,7 +23,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1108
+      0.1107
      ],
      [
       "2-1",
@@ -46,7 +46,7 @@
     "fuerza_local": {
      "ataque": 0.263,
      "defensa": 0.028,
-     "neto": 0.292,
+     "neto": 0.291,
      "peso": 46.0,
      "fiable": true
     },
@@ -146,15 +146,15 @@
    "local": "Levante UD",
    "visitante": "Club Atlético de Madrid",
    "prediccion": {
-    "prob_1": 0.26,
+    "prob_1": 0.261,
     "prob_X": 0.243,
-    "prob_2": 0.496,
+    "prob_2": 0.495,
     "goles_esperados": [
-     1.229,
-     1.772
+     1.231,
+     1.771
     ],
     "prob_over_2_5": 0.577,
-    "prob_btts": 0.592,
+    "prob_btts": 0.593,
     "marcadores": [
      [
       "1-1",
@@ -162,32 +162,32 @@
      ],
      [
       "1-2",
-      0.096
+      0.0959
      ],
      [
       "0-1",
-      0.0832
+      0.083
      ]
     ],
     "cuotas_justas": [
-     3.84,
+     3.83,
      4.11,
-     2.01
+     2.02
     ],
     "resumen": "Gana Club Atlético de Madrid (ligero favorito, 50%). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.123,
+     "ataque": 0.124,
      "defensa": -0.124,
-     "neto": -0.001,
+     "neto": -0.0,
      "peso": 31.6,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.34,
-     "defensa": 0.312,
+     "ataque": 0.341,
+     "defensa": 0.311,
      "neto": 0.652,
      "peso": 48.0,
      "fiable": true
@@ -238,10 +238,10 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Club Atlético de Madrid es más fuerte de fondo (neto +0.65 vs -0.00): ataca ~40% más que el promedio, encaja ~27% menos. Levante UD juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.23 – 1.77; el modelo ve marcando más a Club Atlético de Madrid. Y la forma reciente lo confirma: Club Atlético de Madrid llega mejor (5G-0E-0P vs 1G-2E-2P).",
+    "explicacion": "Club Atlético de Madrid es más fuerte de fondo (neto +0.65 vs -0.00): ataca ~41% más que el promedio, encaja ~27% menos. Levante UD juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.23 – 1.77; el modelo ve marcando más a Club Atlético de Madrid. Y la forma reciente lo confirma: Club Atlético de Madrid llega mejor (5G-0E-0P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.74,
+     "prob": 0.739,
      "por_que": "Doble oportunidad: cubre que Levante UD no gane. El escenario que queda afuera (gane Levante UD) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -296,14 +296,14 @@
      "ataque": 0.094,
      "defensa": 0.111,
      "neto": 0.205,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.027,
      "defensa": -0.328,
      "neto": -0.355,
-     "peso": 24.1,
+     "peso": 24.0,
      "fiable": true
     },
     "forma_local": {
@@ -425,7 +425,7 @@
      "ataque": -0.004,
      "defensa": -0.115,
      "neto": -0.119,
-     "peso": 41.3,
+     "peso": 41.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -493,7 +493,7 @@
      1.215
     ],
     "prob_over_2_5": 0.327,
-    "prob_btts": 0.393,
+    "prob_btts": 0.394,
     "marcadores": [
      [
       "0-1",
@@ -510,7 +510,7 @@
     ],
     "cuotas_justas": [
      4.24,
-     3.2,
+     3.21,
      2.21
     ],
     "resumen": "Gana RB Leipzig (ligero favorito, 45%). pocos goles (-2.5).",
@@ -519,7 +519,7 @@
    "nota": "pocos datos: 'FC Schalke 04' solo tiene 6.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.564,
+     "ataque": -0.563,
      "defensa": 0.378,
      "neto": -0.185,
      "peso": 6.6,
@@ -529,7 +529,7 @@
      "ataque": 0.312,
      "defensa": 0.149,
      "neto": 0.461,
-     "peso": 41.3,
+     "peso": 41.2,
      "fiable": true
     },
     "forma_local": {
@@ -621,14 +621,14 @@
      "ataque": -0.001,
      "defensa": -0.028,
      "neto": -0.029,
-     "peso": 41.3,
+     "peso": 41.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.098,
      "defensa": 0.029,
      "neto": 0.127,
-     "peso": 41.3,
+     "peso": 41.2,
      "fiable": true
     },
     "forma_local": {
@@ -756,14 +756,14 @@
      "ataque": -0.018,
      "defensa": -0.053,
      "neto": -0.071,
-     "peso": 41.3,
+     "peso": 41.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.212,
      "defensa": -0.095,
      "neto": 0.117,
-     "peso": 41.3,
+     "peso": 41.2,
      "fiable": true
     },
     "forma_local": {
@@ -898,7 +898,7 @@
      "ataque": 0.301,
      "defensa": 0.092,
      "neto": 0.392,
-     "peso": 41.3,
+     "peso": 41.2,
      "fiable": true
     },
     "forma_local": {
@@ -995,7 +995,7 @@
     "prob_2": 0.195,
     "goles_esperados": [
      2.031,
-     1.124
+     1.123
     ],
     "prob_over_2_5": 0.611,
     "prob_btts": 0.596,
@@ -1026,14 +1026,14 @@
      "ataque": 0.45,
      "defensa": 0.363,
      "neto": 0.813,
-     "peso": 46.1,
+     "peso": 46.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.256,
      "defensa": 0.134,
      "neto": 0.39,
-     "peso": 46.0,
+     "peso": 45.9,
      "fiable": true
     },
     "forma_local": {
@@ -1161,7 +1161,7 @@
      "ataque": 0.148,
      "defensa": 0.063,
      "neto": 0.211,
-     "peso": 46.0,
+     "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1250,7 +1250,7 @@
      ],
      [
       "0-1",
-      0.1206
+      0.1205
      ]
     ],
     "cuotas_justas": [
@@ -1264,8 +1264,8 @@
    "nota": "pocos datos: 'Coventry City FC' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.306,
-     "defensa": -0.12,
+     "ataque": -0.305,
+     "defensa": -0.119,
      "neto": -0.425,
      "peso": 7.5,
      "fiable": false
@@ -1342,7 +1342,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1175
+      0.1176
      ],
      [
       "1-0",
@@ -1456,7 +1456,7 @@
     "cuotas_justas": [
      2.14,
      3.68,
-     3.83
+     3.84
     ],
     "resumen": "Gana Brentford FC (ligero favorito, 47%).",
     "confianza": "alta"
@@ -1465,15 +1465,15 @@
     "fuerza_local": {
      "ataque": 0.183,
      "defensa": 0.062,
-     "neto": 0.245,
-     "peso": 46.0,
+     "neto": 0.244,
+     "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.032,
      "defensa": 0.11,
      "neto": 0.078,
-     "peso": 46.0,
+     "peso": 45.9,
      "fiable": true
     },
     "forma_local": {
@@ -1567,21 +1567,21 @@
    "prediccion": {
     "prob_1": 0.366,
     "prob_X": 0.298,
-    "prob_2": 0.337,
+    "prob_2": 0.336,
     "goles_esperados": [
-     1.166,
-     1.107
+     1.168,
+     1.106
     ],
     "prob_over_2_5": 0.397,
     "prob_btts": 0.467,
     "marcadores": [
      [
       "1-1",
-      0.139
+      0.1391
      ],
      [
       "1-0",
-      0.114
+      0.1141
      ],
      [
       "0-0",
@@ -1591,22 +1591,22 @@
     "cuotas_justas": [
      2.73,
      3.36,
-     2.97
+     2.98
     ],
     "resumen": "Partido parejo. pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.113,
+     "ataque": -0.112,
      "defensa": 0.079,
-     "neto": -0.034,
+     "neto": -0.033,
      "peso": 47.1,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.072,
-     "defensa": 0.129,
+     "ataque": 0.073,
+     "defensa": 0.128,
      "neto": 0.201,
      "peso": 48.0,
      "fiable": true
@@ -1678,14 +1678,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "RC Celta de Vigo es más fuerte de fondo (neto +0.20 vs -0.03): encaja ~12% menos. Rayo Vallecano de Madrid juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.17 – 1.11; el modelo ve marcando más a Rayo Vallecano de Madrid. Y la forma reciente lo confirma: RC Celta de Vigo llega mejor (2G-3E-0P vs 1G-2E-2P).",
+    "explicacion": "RC Celta de Vigo es más fuerte de fondo (neto +0.20 vs -0.03): encaja ~12% menos. Rayo Vallecano de Madrid juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.17 – 1.11; el modelo ve marcando más a Rayo Vallecano de Madrid. Y la forma reciente lo confirma: RC Celta de Vigo llega mejor (2G-3E-0P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.603,
      "por_que": "Pocos goles esperados en total (1.17 + 1.11 = 2.27). El modelo ve el partido cerrado (60% al under).",
      "alternativa": {
       "mercado": "X2",
-      "prob": 0.634
+      "prob": 0.633
      },
      "confianza": "alta"
     }
@@ -1700,31 +1700,31 @@
    "local": "OGC Nice",
    "visitante": "Stade Rennais FC 1901",
    "prediccion": {
-    "prob_1": 0.353,
-    "prob_X": 0.252,
+    "prob_1": 0.354,
+    "prob_X": 0.251,
     "prob_2": 0.395,
     "goles_esperados": [
-     1.48,
-     1.576
+     1.484,
+     1.577
     ],
-    "prob_over_2_5": 0.589,
-    "prob_btts": 0.618,
+    "prob_over_2_5": 0.59,
+    "prob_btts": 0.619,
     "marcadores": [
      [
       "1-1",
-      0.1155
+      0.1153
      ],
      [
       "1-2",
-      0.0865
+      0.0864
      ],
      [
       "2-1",
-      0.0812
+      0.0813
      ]
     ],
     "cuotas_justas": [
-     2.83,
+     2.82,
      3.98,
      2.53
     ],
@@ -1734,16 +1734,16 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.023,
-     "defensa": 0.046,
+     "defensa": 0.044,
      "neto": 0.022,
-     "peso": 41.9,
+     "peso": 41.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.293,
-     "defensa": -0.012,
-     "neto": 0.281,
-     "peso": 41.9,
+     "ataque": 0.294,
+     "defensa": -0.014,
+     "neto": 0.28,
+     "peso": 41.8,
      "fiable": true
     },
     "forma_local": {
@@ -1816,7 +1816,7 @@
     "explicacion": "Stade Rennais FC 1901 es más fuerte de fondo (neto +0.28 vs +0.02): ataca ~34% más que el promedio. OGC Nice juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.48 – 1.58; el modelo ve marcando más a Stade Rennais FC 1901. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
-     "prob": 0.618,
+     "prob": 0.619,
      "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.48 y 1.58. Probabilidad: 62%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -1871,14 +1871,14 @@
      "ataque": -0.052,
      "defensa": -0.087,
      "neto": -0.139,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.354,
      "defensa": 0.383,
      "neto": 0.737,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "forma_local": {
@@ -1962,105 +1962,6 @@
    }
   },
   {
-   "id": 564736,
-   "competicion": "La Liga",
-   "competicion_codigo": "PD",
-   "fecha_utc": "2026-10-31T17:30:00Z",
-   "jornada": 11,
-   "local": "Real Betis Balompié",
-   "visitante": "Málaga CF",
-   "prediccion": {
-    "prob_1": 0.737,
-    "prob_X": 0.172,
-    "prob_2": 0.09,
-    "goles_esperados": [
-     2.33,
-     0.695
-    ],
-    "prob_over_2_5": 0.582,
-    "prob_btts": 0.456,
-    "marcadores": [
-     [
-      "2-0",
-      0.1318
-     ],
-     [
-      "1-0",
-      0.1095
-     ],
-     [
-      "3-0",
-      0.1024
-     ]
-    ],
-    "cuotas_justas": [
-     1.36,
-     5.8,
-     11.09
-    ],
-    "resumen": "Gana Real Betis Balompié (claro favorito, 74%). se esperan goles (+2.5).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.23,
-     "defensa": 0.109,
-     "neto": 0.339,
-     "peso": 48.1,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.363,
-     "defensa": -0.221,
-     "neto": -0.585,
-     "peso": 9.3,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 2,
-     "e": 2,
-     "p": 1,
-     "gf": 9,
-     "gc": 8,
-     "racha": [
-      "G",
-      "E",
-      "G",
-      "P",
-      "E"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 0,
-     "e": 2,
-     "p": 3,
-     "gf": 5,
-     "gc": 11,
-     "racha": [
-      "P",
-      "P",
-      "E",
-      "P",
-      "E"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.34 vs -0.58): ataca ~26% más que el promedio, encaja ~10% menos. Real Betis Balompié juega en casa (~+33% de ventaja, ya contada). Goles esperados: 2.33 – 0.69; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (2G-2E-1P vs 0G-2E-3P).",
-    "recomendacion": {
-     "mercado": "1",
-     "prob": 0.737,
-     "por_que": "Real Betis Balompié es favorito en casa: marca más (2.33 vs 0.69) y es más fuerte de fondo (neto +0.34 vs -0.58). Probabilidad: 74%.",
-     "alternativa": {
-      "mercado": "1X",
-      "prob": 0.91
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
    "id": 565845,
    "competicion": "Bundesliga",
    "competicion_codigo": "BL1",
@@ -2077,7 +1978,7 @@
      1.224
     ],
     "prob_over_2_5": 0.715,
-    "prob_btts": 0.651,
+    "prob_btts": 0.65,
     "marcadores": [
      [
       "2-1",
@@ -2105,14 +2006,14 @@
      "ataque": 0.795,
      "defensa": 0.353,
      "neto": 1.149,
-     "peso": 41.3,
+     "peso": 41.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.295,
      "defensa": 0.375,
      "neto": 0.669,
-     "peso": 41.3,
+     "peso": 41.2,
      "fiable": true
     },
     "forma_local": {
@@ -2196,6 +2097,105 @@
    }
   },
   {
+   "id": 564736,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-10-31T17:30:00Z",
+   "jornada": 11,
+   "local": "Real Betis Balompié",
+   "visitante": "Málaga CF",
+   "prediccion": {
+    "prob_1": 0.738,
+    "prob_X": 0.172,
+    "prob_2": 0.09,
+    "goles_esperados": [
+     2.333,
+     0.694
+    ],
+    "prob_over_2_5": 0.583,
+    "prob_btts": 0.456,
+    "marcadores": [
+     [
+      "2-0",
+      0.1319
+     ],
+     [
+      "1-0",
+      0.1095
+     ],
+     [
+      "3-0",
+      0.1026
+     ]
+    ],
+    "cuotas_justas": [
+     1.36,
+     5.8,
+     11.14
+    ],
+    "resumen": "Gana Real Betis Balompié (claro favorito, 74%). se esperan goles (+2.5).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.23,
+     "defensa": 0.108,
+     "neto": 0.339,
+     "peso": 48.0,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.363,
+     "defensa": -0.221,
+     "neto": -0.584,
+     "peso": 9.3,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 2,
+     "p": 1,
+     "gf": 9,
+     "gc": 8,
+     "racha": [
+      "G",
+      "E",
+      "G",
+      "P",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 0,
+     "e": 2,
+     "p": 3,
+     "gf": 5,
+     "gc": 11,
+     "racha": [
+      "P",
+      "P",
+      "E",
+      "P",
+      "E"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.34 vs -0.58): ataca ~26% más que el promedio, encaja ~10% menos. Real Betis Balompié juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.33 – 0.69; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (2G-2E-1P vs 0G-2E-3P).",
+    "recomendacion": {
+     "mercado": "1",
+     "prob": 0.738,
+     "por_que": "Real Betis Balompié es favorito en casa: marca más (2.33 vs 0.69) y es más fuerte de fondo (neto +0.34 vs -0.58). Probabilidad: 74%.",
+     "alternativa": {
+      "mercado": "1X",
+      "prob": 0.91
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
    "id": 560627,
    "competicion": "Premier League",
    "competicion_codigo": "PL",
@@ -2246,8 +2246,8 @@
     "fuerza_visitante": {
      "ataque": -0.052,
      "defensa": -0.036,
-     "neto": -0.088,
-     "peso": 46.1,
+     "neto": -0.089,
+     "peso": 46.0,
      "fiable": true
     },
     "forma_local": {
@@ -2331,359 +2331,6 @@
    }
   },
   {
-   "id": 559640,
-   "competicion": "Ligue 1",
-   "competicion_codigo": "FL1",
-   "fecha_utc": "2026-10-31T19:45:00Z",
-   "jornada": 9,
-   "local": "Olympique Lyonnais",
-   "visitante": "Angers SCO",
-   "prediccion": {
-    "prob_1": 0.664,
-    "prob_X": 0.212,
-    "prob_2": 0.124,
-    "goles_esperados": [
-     1.994,
-     0.738
-    ],
-    "prob_over_2_5": 0.514,
-    "prob_btts": 0.456,
-    "marcadores": [
-     [
-      "2-0",
-      0.1294
-     ],
-     [
-      "1-0",
-      0.1248
-     ],
-     [
-      "1-1",
-      0.1007
-     ]
-    ],
-    "cuotas_justas": [
-     1.51,
-     4.71,
-     8.07
-    ],
-    "resumen": "Gana Olympique Lyonnais (claro favorito, 66%).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.247,
-     "defensa": 0.18,
-     "neto": 0.427,
-     "peso": 40.9,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.332,
-     "defensa": -0.04,
-     "neto": -0.372,
-     "peso": 37.0,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 3,
-     "e": 1,
-     "p": 1,
-     "gf": 10,
-     "gc": 4,
-     "racha": [
-      "G",
-      "E",
-      "G",
-      "P",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 1,
-     "e": 2,
-     "p": 2,
-     "gf": 5,
-     "gc": 10,
-     "racha": [
-      "E",
-      "G",
-      "P",
-      "P",
-      "E"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-04-05",
-      "local": "Angers SCO",
-      "visitante": "Olympique Lyonnais",
-      "goles_local": 0,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-09-19",
-      "local": "Olympique Lyonnais",
-      "visitante": "Angers SCO",
-      "goles_local": 1,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-05-17",
-      "local": "Olympique Lyonnais",
-      "visitante": "Angers SCO",
-      "goles_local": 2,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2024-12-07",
-      "local": "Angers SCO",
-      "visitante": "Olympique Lyonnais",
-      "goles_local": 0,
-      "goles_visitante": 3
-     }
-    ],
-    "explicacion": "Olympique Lyonnais es más fuerte de fondo (neto +0.43 vs -0.37): ataca ~28% más que el promedio, encaja ~16% menos. Olympique Lyonnais juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.99 – 0.74; el modelo ve marcando más a Olympique Lyonnais. Y la forma reciente lo confirma: Olympique Lyonnais llega mejor (3G-1E-1P vs 1G-2E-2P).",
-    "recomendacion": {
-     "mercado": "1X",
-     "prob": 0.876,
-     "por_que": "Doble oportunidad: cubre que Olympique Lyonnais no pierda. El escenario que queda afuera (gane Angers SCO) es el menos probable (12%), así que el mercado se cumple ~88% de las veces.",
-     "alternativa": {
-      "mercado": "12",
-      "prob": 0.788
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 559641,
-   "competicion": "Ligue 1",
-   "competicion_codigo": "FL1",
-   "fecha_utc": "2026-10-31T19:45:00Z",
-   "jornada": 9,
-   "local": "FC Lorient",
-   "visitante": "Stade Brestois 29",
-   "prediccion": {
-    "prob_1": 0.431,
-    "prob_X": 0.263,
-    "prob_2": 0.306,
-    "goles_esperados": [
-     1.528,
-     1.252
-    ],
-    "prob_over_2_5": 0.526,
-    "prob_btts": 0.565,
-    "marcadores": [
-     [
-      "1-1",
-      0.1248
-     ],
-     [
-      "2-1",
-      0.0907
-     ],
-     [
-      "1-0",
-      0.0887
-     ]
-    ],
-    "cuotas_justas": [
-     2.32,
-     3.8,
-     3.27
-    ],
-    "resumen": "Gana FC Lorient (ligero favorito, 43%).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.031,
-     "defensa": 0.084,
-     "neto": 0.054,
-     "peso": 32.0,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.101,
-     "defensa": -0.051,
-     "neto": 0.05,
-     "peso": 41.9,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 2,
-     "e": 2,
-     "p": 1,
-     "gf": 5,
-     "gc": 4,
-     "racha": [
-      "E",
-      "P",
-      "G",
-      "G",
-      "E"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 1,
-     "e": 1,
-     "p": 3,
-     "gf": 8,
-     "gc": 7,
-     "racha": [
-      "P",
-      "P",
-      "G",
-      "E",
-      "P"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-02-07",
-      "local": "Stade Brestois 29",
-      "visitante": "FC Lorient",
-      "goles_local": 2,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-10-19",
-      "local": "FC Lorient",
-      "visitante": "Stade Brestois 29",
-      "goles_local": 3,
-      "goles_visitante": 3
-     },
-     {
-      "fecha": "2024-03-31",
-      "local": "FC Lorient",
-      "visitante": "Stade Brestois 29",
-      "goles_local": 0,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2023-12-20",
-      "local": "Stade Brestois 29",
-      "visitante": "FC Lorient",
-      "goles_local": 4,
-      "goles_visitante": 0
-     }
-    ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.05 vs +0.05). FC Lorient juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.53 – 1.25; el modelo ve marcando más a FC Lorient. En forma reciente pinta algo mejor FC Lorient (2G-2E-1P vs 1G-1E-3P en 5).",
-    "recomendacion": {
-     "mercado": "Ambos marcan: Sí",
-     "prob": 0.565,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.53 y 1.25. Probabilidad: 57%.",
-     "alternativa": null,
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 559643,
-   "competicion": "Ligue 1",
-   "competicion_codigo": "FL1",
-   "fecha_utc": "2026-10-31T19:45:00Z",
-   "jornada": 9,
-   "local": "ES Troyes AC",
-   "visitante": "Le Mans FC",
-   "prediccion": {
-    "prob_1": 0.257,
-    "prob_X": 0.254,
-    "prob_2": 0.489,
-    "goles_esperados": [
-     1.157,
-     1.675
-    ],
-    "prob_over_2_5": 0.538,
-    "prob_btts": 0.563,
-    "marcadores": [
-     [
-      "1-1",
-      0.12
-     ],
-     [
-      "1-2",
-      0.0956
-     ],
-     [
-      "0-1",
-      0.0928
-     ]
-    ],
-    "cuotas_justas": [
-     3.88,
-     3.94,
-     2.05
-    ],
-    "resumen": "Gana Le Mans FC (ligero favorito, 49%).",
-    "confianza": "baja"
-   },
-   "nota": "pocos datos: 'Le Mans FC' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.441,
-     "defensa": -0.246,
-     "neto": -0.687,
-     "peso": 7.5,
-     "fiable": false
-    },
-    "fuerza_visitante": {
-     "ataque": 0.063,
-     "defensa": -0.183,
-     "neto": -0.121,
-     "peso": 7.5,
-     "fiable": false
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 0,
-     "e": 1,
-     "p": 4,
-     "gf": 1,
-     "gc": 9,
-     "racha": [
-      "P",
-      "P",
-      "P",
-      "P",
-      "E"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 1,
-     "e": 2,
-     "p": 2,
-     "gf": 6,
-     "gc": 10,
-     "racha": [
-      "E",
-      "G",
-      "P",
-      "P",
-      "E"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "Le Mans FC es más fuerte de fondo (neto -0.12 vs -0.69): es más completo en general. ES Troyes AC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.16 – 1.68; el modelo ve marcando más a Le Mans FC. Y la forma reciente lo confirma: Le Mans FC llega mejor (1G-2E-2P vs 0G-1E-4P). El modelo tiene pocos datos de ES Troyes AC: tomalo con pinzas.",
-    "recomendacion": {
-     "mercado": "X2",
-     "prob": 0.743,
-     "por_que": "Doble oportunidad: cubre que ES Troyes AC no gane. El escenario que queda afuera (gane ES Troyes AC) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.78
-     },
-     "confianza": "baja"
-    }
-   }
-  },
-  {
    "id": 558548,
    "competicion": "Serie A",
    "competicion_codigo": "SA",
@@ -2728,7 +2375,7 @@
      "ataque": 0.277,
      "defensa": 0.222,
      "neto": 0.499,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2819,6 +2466,359 @@
    }
   },
   {
+   "id": 559640,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-10-31T19:45:00Z",
+   "jornada": 9,
+   "local": "Olympique Lyonnais",
+   "visitante": "Angers SCO",
+   "prediccion": {
+    "prob_1": 0.659,
+    "prob_X": 0.215,
+    "prob_2": 0.126,
+    "goles_esperados": [
+     1.968,
+     0.736
+    ],
+    "prob_over_2_5": 0.507,
+    "prob_btts": 0.453,
+    "marcadores": [
+     [
+      "2-0",
+      0.1297
+     ],
+     [
+      "1-0",
+      0.1267
+     ],
+     [
+      "1-1",
+      0.1019
+     ]
+    ],
+    "cuotas_justas": [
+     1.52,
+     4.65,
+     7.95
+    ],
+    "resumen": "Gana Olympique Lyonnais (claro favorito, 66%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.233,
+     "defensa": 0.182,
+     "neto": 0.415,
+     "peso": 41.8,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.331,
+     "defensa": -0.041,
+     "neto": -0.372,
+     "peso": 36.9,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 7,
+     "gc": 5,
+     "racha": [
+      "E",
+      "G",
+      "P",
+      "G",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 5,
+     "gc": 10,
+     "racha": [
+      "E",
+      "G",
+      "P",
+      "P",
+      "E"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-04-05",
+      "local": "Angers SCO",
+      "visitante": "Olympique Lyonnais",
+      "goles_local": 0,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-09-19",
+      "local": "Olympique Lyonnais",
+      "visitante": "Angers SCO",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-05-17",
+      "local": "Olympique Lyonnais",
+      "visitante": "Angers SCO",
+      "goles_local": 2,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-12-07",
+      "local": "Angers SCO",
+      "visitante": "Olympique Lyonnais",
+      "goles_local": 0,
+      "goles_visitante": 3
+     }
+    ],
+    "explicacion": "Olympique Lyonnais es más fuerte de fondo (neto +0.41 vs -0.37): ataca ~26% más que el promedio, encaja ~17% menos. Olympique Lyonnais juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.97 – 0.74; el modelo ve marcando más a Olympique Lyonnais. Y la forma reciente lo confirma: Olympique Lyonnais llega mejor (2G-1E-2P vs 1G-2E-2P).",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.874,
+     "por_que": "Doble oportunidad: cubre que Olympique Lyonnais no pierda. El escenario que queda afuera (gane Angers SCO) es el menos probable (13%), así que el mercado se cumple ~87% de las veces.",
+     "alternativa": {
+      "mercado": "12",
+      "prob": 0.785
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 559641,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-10-31T19:45:00Z",
+   "jornada": 9,
+   "local": "FC Lorient",
+   "visitante": "Stade Brestois 29",
+   "prediccion": {
+    "prob_1": 0.432,
+    "prob_X": 0.263,
+    "prob_2": 0.305,
+    "goles_esperados": [
+     1.53,
+     1.252
+    ],
+    "prob_over_2_5": 0.526,
+    "prob_btts": 0.566,
+    "marcadores": [
+     [
+      "1-1",
+      0.1247
+     ],
+     [
+      "2-1",
+      0.0907
+     ],
+     [
+      "1-0",
+      0.0886
+     ]
+    ],
+    "cuotas_justas": [
+     2.32,
+     3.8,
+     3.28
+    ],
+    "resumen": "Gana FC Lorient (ligero favorito, 43%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.03,
+     "defensa": 0.083,
+     "neto": 0.053,
+     "peso": 32.0,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.102,
+     "defensa": -0.052,
+     "neto": 0.05,
+     "peso": 41.9,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 2,
+     "p": 1,
+     "gf": 5,
+     "gc": 4,
+     "racha": [
+      "E",
+      "P",
+      "G",
+      "G",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 8,
+     "gc": 7,
+     "racha": [
+      "P",
+      "P",
+      "G",
+      "E",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-02-07",
+      "local": "Stade Brestois 29",
+      "visitante": "FC Lorient",
+      "goles_local": 2,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-10-19",
+      "local": "FC Lorient",
+      "visitante": "Stade Brestois 29",
+      "goles_local": 3,
+      "goles_visitante": 3
+     },
+     {
+      "fecha": "2024-03-31",
+      "local": "FC Lorient",
+      "visitante": "Stade Brestois 29",
+      "goles_local": 0,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2023-12-20",
+      "local": "Stade Brestois 29",
+      "visitante": "FC Lorient",
+      "goles_local": 4,
+      "goles_visitante": 0
+     }
+    ],
+    "explicacion": "En fuerza de temporada están parejos (neto +0.05 vs +0.05). FC Lorient juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.53 – 1.25; el modelo ve marcando más a FC Lorient. En forma reciente pinta algo mejor FC Lorient (2G-2E-1P vs 1G-1E-3P en 5).",
+    "recomendacion": {
+     "mercado": "Ambos marcan: Sí",
+     "prob": 0.566,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.53 y 1.25. Probabilidad: 57%.",
+     "alternativa": null,
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 559643,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-10-31T19:45:00Z",
+   "jornada": 9,
+   "local": "ES Troyes AC",
+   "visitante": "Le Mans FC",
+   "prediccion": {
+    "prob_1": 0.258,
+    "prob_X": 0.254,
+    "prob_2": 0.489,
+    "goles_esperados": [
+     1.157,
+     1.675
+    ],
+    "prob_over_2_5": 0.538,
+    "prob_btts": 0.563,
+    "marcadores": [
+     [
+      "1-1",
+      0.1201
+     ],
+     [
+      "1-2",
+      0.0956
+     ],
+     [
+      "0-1",
+      0.0927
+     ]
+    ],
+    "cuotas_justas": [
+     3.88,
+     3.94,
+     2.05
+    ],
+    "resumen": "Gana Le Mans FC (ligero favorito, 49%).",
+    "confianza": "baja"
+   },
+   "nota": "pocos datos: 'Le Mans FC' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.441,
+     "defensa": -0.246,
+     "neto": -0.687,
+     "peso": 7.5,
+     "fiable": false
+    },
+    "fuerza_visitante": {
+     "ataque": 0.064,
+     "defensa": -0.184,
+     "neto": -0.12,
+     "peso": 7.5,
+     "fiable": false
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 0,
+     "e": 1,
+     "p": 4,
+     "gf": 1,
+     "gc": 9,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "P",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 6,
+     "gc": 10,
+     "racha": [
+      "E",
+      "G",
+      "P",
+      "P",
+      "E"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Le Mans FC es más fuerte de fondo (neto -0.12 vs -0.69): es más completo en general. ES Troyes AC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.16 – 1.68; el modelo ve marcando más a Le Mans FC. Y la forma reciente lo confirma: Le Mans FC llega mejor (1G-2E-2P vs 0G-1E-4P). El modelo tiene pocos datos de ES Troyes AC: tomalo con pinzas.",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.742,
+     "por_que": "Doble oportunidad: cubre que ES Troyes AC no gane. El escenario que queda afuera (gane ES Troyes AC) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.78
+     },
+     "confianza": "baja"
+    }
+   }
+  },
+  {
    "id": 564732,
    "competicion": "La Liga",
    "competicion_codigo": "PD",
@@ -2827,23 +2827,23 @@
    "local": "FC Barcelona",
    "visitante": "Deportivo Alavés",
    "prediccion": {
-    "prob_1": 0.817,
+    "prob_1": 0.818,
     "prob_X": 0.12,
-    "prob_2": 0.063,
+    "prob_2": 0.062,
     "goles_esperados": [
-     3.013,
-     0.774
+     3.019,
+     0.772
     ],
-    "prob_over_2_5": 0.729,
-    "prob_btts": 0.515,
+    "prob_over_2_5": 0.73,
+    "prob_btts": 0.514,
     "marcadores": [
      [
       "3-0",
-      0.1034
+      0.1035
      ],
      [
       "2-0",
-      0.103
+      0.1029
      ],
      [
       "3-1",
@@ -2852,24 +2852,24 @@
     ],
     "cuotas_justas": [
      1.22,
-     8.3,
-     15.93
+     8.34,
+     16.04
     ],
     "resumen": "Gana FC Barcelona (claro favorito, 82%). se esperan goles (+2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.779,
-     "defensa": 0.296,
+     "ataque": 0.78,
+     "defensa": 0.295,
      "neto": 1.075,
      "peso": 48.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.07,
+     "ataque": -0.069,
      "defensa": 0.071,
-     "neto": 0.002,
+     "neto": 0.001,
      "peso": 48.0,
      "fiable": true
     },
@@ -2940,14 +2940,14 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.07 vs +0.00): ataca ~118% más que el promedio, encaja ~26% menos. FC Barcelona juega en casa (~+33% de ventaja, ya contada). Goles esperados: 3.01 – 0.77; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (4G-0E-1P vs 0G-2E-3P).",
+    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.07 vs +0.00): ataca ~118% más que el promedio, encaja ~26% menos. FC Barcelona juega en casa (~+34% de ventaja, ya contada). Goles esperados: 3.02 – 0.77; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (4G-0E-1P vs 0G-2E-3P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.817,
-     "por_que": "FC Barcelona es favorito en casa: marca más (3.01 vs 0.77) y es más fuerte de fondo (neto +1.07 vs +0.00). Probabilidad: 82%.",
+     "prob": 0.818,
+     "por_que": "FC Barcelona es favorito en casa: marca más (3.02 vs 0.77) y es más fuerte de fondo (neto +1.07 vs +0.00). Probabilidad: 82%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.937
+      "prob": 0.938
      },
      "confianza": "alta"
     }
@@ -2998,14 +2998,14 @@
      "ataque": 0.153,
      "defensa": 0.093,
      "neto": 0.246,
-     "peso": 46.0,
+     "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.05,
      "defensa": 0.085,
      "neto": 0.035,
-     "peso": 46.0,
+     "peso": 45.9,
      "fiable": true
     },
     "forma_local": {
