@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-30",
- "actualizado": "2026-10-27T11:20:30+00:00",
+ "actualizado": "2026-10-27T19:08:59+00:00",
  "partidos": [
   {
    "id": 559644,
@@ -138,6 +138,141 @@
    }
   },
   {
+   "id": 559646,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-10-30T18:00:00Z",
+   "jornada": 9,
+   "local": "OGC Nice",
+   "visitante": "Stade Rennais FC 1901",
+   "prediccion": {
+    "prob_1": 0.354,
+    "prob_X": 0.251,
+    "prob_2": 0.395,
+    "goles_esperados": [
+     1.484,
+     1.577
+    ],
+    "prob_over_2_5": 0.59,
+    "prob_btts": 0.619,
+    "marcadores": [
+     [
+      "1-1",
+      0.1153
+     ],
+     [
+      "1-2",
+      0.0864
+     ],
+     [
+      "2-1",
+      0.0813
+     ]
+    ],
+    "cuotas_justas": [
+     2.83,
+     3.98,
+     2.53
+    ],
+    "resumen": "Partido parejo. se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.023,
+     "defensa": 0.044,
+     "neto": 0.022,
+     "peso": 41.8,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.294,
+     "defensa": -0.014,
+     "neto": 0.28,
+     "peso": 41.8,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 7,
+     "gc": 6,
+     "racha": [
+      "P",
+      "G",
+      "G",
+      "P",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 11,
+     "gc": 9,
+     "racha": [
+      "G",
+      "P",
+      "G",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-03-08",
+      "local": "OGC Nice",
+      "visitante": "Stade Rennais FC 1901",
+      "goles_local": 0,
+      "goles_visitante": 4
+     },
+     {
+      "fecha": "2025-10-26",
+      "local": "Stade Rennais FC 1901",
+      "visitante": "OGC Nice",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-05-10",
+      "local": "Stade Rennais FC 1901",
+      "visitante": "OGC Nice",
+      "goles_local": 2,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-01-03",
+      "local": "OGC Nice",
+      "visitante": "Stade Rennais FC 1901",
+      "goles_local": 3,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-01-13",
+      "local": "Stade Rennais FC 1901",
+      "visitante": "OGC Nice",
+      "goles_local": 2,
+      "goles_visitante": 0
+     }
+    ],
+    "explicacion": "Stade Rennais FC 1901 es más fuerte de fondo (neto +0.28 vs +0.02): ataca ~34% más que el promedio. OGC Nice juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.48 – 1.58; el modelo ve marcando más a Stade Rennais FC 1901. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "recomendacion": {
+     "mercado": "Ambos marcan: Sí",
+     "prob": 0.619,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.48 y 1.58. Probabilidad: 62%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.815
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
    "id": 565846,
    "competicion": "Bundesliga",
    "competicion_codigo": "BL1",
@@ -158,7 +293,7 @@
     "marcadores": [
      [
       "1-1",
-      0.094
+      0.0939
      ],
      [
       "2-1",
@@ -281,7 +416,7 @@
     "fuerza_local": {
      "ataque": 0.367,
      "defensa": 0.072,
-     "neto": 0.439,
+     "neto": 0.44,
      "peso": 48.1,
      "fiable": true
     },
@@ -359,7 +494,7 @@
      "por_que": "Villarreal CF es favorito en casa: marca más (2.08 vs 0.94) y es más fuerte de fondo (neto +0.44 vs -0.07). Probabilidad: 63%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.843
+      "prob": 0.844
      },
      "confianza": "alta"
     }

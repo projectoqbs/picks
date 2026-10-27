@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-04",
- "actualizado": "2026-10-27T11:20:30+00:00",
+ "actualizado": "2026-10-27T19:08:59+00:00",
  "partidos": [
   {
    "id": 575386,
@@ -15,7 +15,7 @@
     "prob_X": 0.125,
     "prob_2": 0.755,
     "goles_esperados": [
-     1.199,
+     1.2,
      3.097
     ],
     "prob_over_2_5": 0.802,
@@ -110,8 +110,8 @@
    "visitante": "Liverpool FC",
    "prediccion": {
     "prob_1": 0.1,
-    "prob_X": 0.121,
-    "prob_2": 0.779,
+    "prob_X": 0.122,
+    "prob_2": 0.778,
     "goles_esperados": [
      0.974,
      2.944
@@ -133,7 +133,7 @@
      ]
     ],
     "cuotas_justas": [
-     10.01,
+     10.0,
      8.23,
      1.28
     ],
@@ -188,7 +188,7 @@
     "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.69 vs -0.72): ataca ~45% más que el promedio, encaja ~27% menos. Fenerbahçe SK juega en casa (~+35% de ventaja, ya contada). Goles esperados: 0.97 – 2.94; el modelo ve marcando más a Liverpool FC. Y la forma reciente lo confirma: Liverpool FC llega mejor (3G-0E-2P vs 0G-2E-1P). El modelo tiene pocos datos de Fenerbahçe SK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "2",
-     "prob": 0.779,
+     "prob": 0.778,
      "por_que": "El modelo ve a Liverpool FC marcando más que Fenerbahçe SK pese a la localía (2.94 vs 0.97), y lo respalda una diferencia de fuerza clara (neto +0.69 vs -0.72). Probabilidad del modelo: 78%.",
      "alternativa": {
       "mercado": "X2",
@@ -211,7 +211,7 @@
     "prob_X": 0.21,
     "prob_2": 0.487,
     "goles_esperados": [
-     1.338,
+     1.339,
      1.766
     ],
     "prob_over_2_5": 0.6,
@@ -227,7 +227,7 @@
      ],
      [
       "0-1",
-      0.0903
+      0.0902
      ]
     ],
     "cuotas_justas": [
@@ -250,7 +250,7 @@
     "fuerza_visitante": {
      "ataque": 0.269,
      "defensa": 0.133,
-     "neto": 0.403,
+     "neto": 0.402,
      "peso": 12.5,
      "fiable": true
     },
@@ -323,7 +323,7 @@
    "visitante": "Arsenal FC",
    "prediccion": {
     "prob_1": 0.056,
-    "prob_X": 0.104,
+    "prob_X": 0.105,
     "prob_2": 0.84,
     "goles_esperados": [
      0.55,
@@ -346,8 +346,8 @@
      ]
     ],
     "cuotas_justas": [
-     18.0,
-     9.57,
+     17.99,
+     9.56,
      1.19
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 84%). se esperan goles (+2.5).",
@@ -365,7 +365,7 @@
     "fuerza_visitante": {
      "ataque": 0.391,
      "defensa": 0.784,
-     "neto": 1.176,
+     "neto": 1.175,
      "peso": 17.5,
      "fiable": true
     },
@@ -470,7 +470,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.32,
+     "ataque": 0.319,
      "defensa": -0.077,
      "neto": 0.243,
      "peso": 11.7,
@@ -572,7 +572,7 @@
     "fuerza_visitante": {
      "ataque": 0.16,
      "defensa": 0.068,
-     "neto": 0.229,
+     "neto": 0.228,
      "peso": 2.9,
      "fiable": false
     },
@@ -671,7 +671,7 @@
      "ataque": -0.138,
      "defensa": -0.099,
      "neto": -0.237,
-     "peso": 8.2,
+     "peso": 8.1,
      "fiable": true
     },
     "forma_local": {
@@ -827,17 +827,17 @@
    "prediccion": {
     "prob_1": 0.732,
     "prob_X": 0.137,
-    "prob_2": 0.131,
+    "prob_2": 0.132,
     "goles_esperados": [
      2.861,
-     1.152
+     1.153
     ],
     "prob_over_2_5": 0.764,
     "prob_btts": 0.639,
     "marcadores": [
      [
       "2-1",
-      0.0852
+      0.0853
      ],
      [
       "3-1",
@@ -851,7 +851,7 @@
     "cuotas_justas": [
      1.37,
      7.32,
-     7.61
+     7.6
     ],
     "resumen": "Gana Viking FK (claro favorito, 73%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -866,7 +866,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": -0.313,
+     "ataque": -0.312,
      "defensa": -0.19,
      "neto": -0.502,
      "peso": 2.9,

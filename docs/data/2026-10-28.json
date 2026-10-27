@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-28",
- "actualizado": "2026-10-27T11:20:30+00:00",
+ "actualizado": "2026-10-27T19:08:59+00:00",
  "partidos": [
   {
    "id": 558549,
@@ -145,10 +145,10 @@
    "prediccion": {
     "prob_1": 0.069,
     "prob_X": 0.131,
-    "prob_2": 0.8,
+    "prob_2": 0.799,
     "goles_esperados": [
      0.711,
-     2.763
+     2.761
     ],
     "prob_over_2_5": 0.674,
     "prob_btts": 0.478,
@@ -167,7 +167,7 @@
      ]
     ],
     "cuotas_justas": [
-     14.48,
+     14.46,
      7.62,
      1.25
     ],
@@ -178,7 +178,7 @@
     "fuerza_local": {
      "ataque": -0.311,
      "defensa": -0.21,
-     "neto": -0.522,
+     "neto": -0.521,
      "peso": 18.5,
      "fiable": true
     },
@@ -238,7 +238,7 @@
     "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.94 vs -0.52): ataca ~92% más que el promedio, encaja ~25% menos. Venezia FC juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.71 – 2.76; el modelo ve marcando más a FC Internazionale Milano. Y la forma reciente lo confirma: FC Internazionale Milano llega mejor (4G-1E-0P vs 1G-0E-4P).",
     "recomendacion": {
      "mercado": "2",
-     "prob": 0.8,
+     "prob": 0.799,
      "por_que": "El modelo ve a FC Internazionale Milano marcando más que Venezia FC pese a la localía (2.76 vs 0.71), y lo respalda una diferencia de fuerza clara (neto +0.94 vs -0.52). Probabilidad del modelo: 80%.",
      "alternativa": {
       "mercado": "X2",
@@ -418,7 +418,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.139,
+     "ataque": -0.14,
      "defensa": 0.005,
      "neto": -0.134,
      "peso": 46.2,
