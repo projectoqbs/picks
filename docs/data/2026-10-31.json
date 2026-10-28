@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-31",
- "actualizado": "2026-10-28T11:54:54+00:00",
+ "actualizado": "2026-10-28T19:13:36+00:00",
  "partidos": [
   {
    "id": 560626,
@@ -47,14 +47,14 @@
      "ataque": 0.263,
      "defensa": 0.028,
      "neto": 0.291,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.155,
      "defensa": 0.052,
      "neto": 0.207,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "forma_local": {
@@ -505,7 +505,7 @@
      ],
      [
       "1-1",
-      0.1364
+      0.1365
      ]
     ],
     "cuotas_justas": [
@@ -627,8 +627,8 @@
     "fuerza_visitante": {
      "ataque": 0.098,
      "defensa": 0.029,
-     "neto": 0.127,
-     "peso": 41.2,
+     "neto": 0.126,
+     "peso": 41.1,
      "fiable": true
     },
     "forma_local": {
@@ -995,7 +995,7 @@
     "prob_2": 0.195,
     "goles_esperados": [
      2.031,
-     1.123
+     1.124
     ],
     "prob_over_2_5": 0.611,
     "prob_btts": 0.596,
@@ -1161,14 +1161,14 @@
      "ataque": 0.148,
      "defensa": 0.063,
      "neto": 0.211,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.006,
      "defensa": 0.169,
      "neto": 0.162,
-     "peso": 29.4,
+     "peso": 29.3,
      "fiable": true
     },
     "forma_local": {
@@ -1274,7 +1274,7 @@
      "ataque": -0.188,
      "defensa": 0.087,
      "neto": -0.101,
-     "peso": 29.4,
+     "peso": 29.3,
      "fiable": true
     },
     "forma_local": {
@@ -1342,11 +1342,11 @@
     "marcadores": [
      [
       "1-1",
-      0.1176
+      0.1175
      ],
      [
       "1-0",
-      0.1123
+      0.1122
      ],
      [
       "2-0",
@@ -1434,7 +1434,7 @@
     "prob_X": 0.272,
     "prob_2": 0.261,
     "goles_esperados": [
-     1.592,
+     1.593,
      1.138
     ],
     "prob_over_2_5": 0.514,
@@ -1456,7 +1456,7 @@
     "cuotas_justas": [
      2.14,
      3.68,
-     3.83
+     3.84
     ],
     "resumen": "Gana Brentford FC (ligero favorito, 47%).",
     "confianza": "alta"
@@ -1608,7 +1608,7 @@
      "ataque": 0.073,
      "defensa": 0.128,
      "neto": 0.201,
-     "peso": 47.9,
+     "peso": 47.8,
      "fiable": true
     },
     "forma_local": {
@@ -1837,7 +1837,7 @@
    "prediccion": {
     "prob_1": 0.644,
     "prob_X": 0.188,
-    "prob_2": 0.168,
+    "prob_2": 0.169,
     "goles_esperados": [
      2.477,
      1.224
@@ -1847,7 +1847,7 @@
     "marcadores": [
      [
       "2-1",
-      0.0927
+      0.0928
      ],
      [
       "1-1",
@@ -1974,7 +1974,7 @@
     "prob_X": 0.172,
     "prob_2": 0.09,
     "goles_esperados": [
-     2.333,
+     2.332,
      0.694
     ],
     "prob_over_2_5": 0.583,
@@ -2104,14 +2104,14 @@
     "fuerza_local": {
      "ataque": 0.045,
      "defensa": -0.035,
-     "neto": 0.011,
-     "peso": 45.9,
+     "neto": 0.01,
+     "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.052,
      "defensa": -0.036,
-     "neto": -0.088,
+     "neto": -0.089,
      "peso": 45.9,
      "fiable": true
     },
@@ -2341,10 +2341,10 @@
    "prediccion": {
     "prob_1": 0.258,
     "prob_X": 0.254,
-    "prob_2": 0.489,
+    "prob_2": 0.488,
     "goles_esperados": [
-     1.157,
-     1.675
+     1.158,
+     1.674
     ],
     "prob_over_2_5": 0.538,
     "prob_btts": 0.563,
@@ -2375,7 +2375,7 @@
     "fuerza_local": {
      "ataque": -0.441,
      "defensa": -0.246,
-     "neto": -0.687,
+     "neto": -0.686,
      "peso": 7.5,
      "fiable": false
     },
@@ -2417,7 +2417,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Le Mans FC es más fuerte de fondo (neto -0.12 vs -0.69): es más completo en general. ES Troyes AC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.16 – 1.68; el modelo ve marcando más a Le Mans FC. Y la forma reciente lo confirma: Le Mans FC llega mejor (1G-2E-2P vs 0G-1E-4P). El modelo tiene pocos datos de ES Troyes AC: tomalo con pinzas.",
+    "explicacion": "Le Mans FC es más fuerte de fondo (neto -0.12 vs -0.69): es más completo en general. ES Troyes AC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.16 – 1.67; el modelo ve marcando más a Le Mans FC. Y la forma reciente lo confirma: Le Mans FC llega mejor (1G-2E-2P vs 0G-1E-4P). El modelo tiene pocos datos de ES Troyes AC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.742,
@@ -2475,14 +2475,14 @@
      "ataque": 0.78,
      "defensa": 0.295,
      "neto": 1.075,
-     "peso": 47.9,
+     "peso": 47.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.069,
      "defensa": 0.071,
      "neto": 0.001,
-     "peso": 47.9,
+     "peso": 47.8,
      "fiable": true
     },
     "forma_local": {
@@ -2614,7 +2614,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.05,
+     "ataque": -0.051,
      "defensa": 0.085,
      "neto": 0.035,
      "peso": 45.8,

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-28",
- "actualizado": "2026-10-28T11:54:54+00:00",
+ "actualizado": "2026-10-28T19:13:36+00:00",
  "partidos": [
   {
    "id": 558549,
@@ -148,7 +148,7 @@
     "prob_2": 0.8,
     "goles_esperados": [
      0.706,
-     2.755
+     2.756
     ],
     "prob_over_2_5": 0.672,
     "prob_btts": 0.475,
@@ -167,8 +167,8 @@
      ]
     ],
     "cuotas_justas": [
-     14.52,
-     7.62,
+     14.53,
+     7.63,
      1.25
     ],
     "resumen": "Gana FC Internazionale Milano (claro favorito, 80%). se esperan goles (+2.5).",
@@ -235,11 +235,11 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.94 vs -0.52): ataca ~91% más que el promedio, encaja ~26% menos. Venezia FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.71 – 2.75; el modelo ve marcando más a FC Internazionale Milano. Y la forma reciente lo confirma: FC Internazionale Milano llega mejor (4G-1E-0P vs 1G-0E-4P).",
+    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.94 vs -0.52): ataca ~91% más que el promedio, encaja ~26% menos. Venezia FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.71 – 2.76; el modelo ve marcando más a FC Internazionale Milano. Y la forma reciente lo confirma: FC Internazionale Milano llega mejor (4G-1E-0P vs 1G-0E-4P).",
     "recomendacion": {
      "mercado": "2",
      "prob": 0.8,
-     "por_que": "El modelo ve a FC Internazionale Milano marcando más que Venezia FC pese a la localía (2.75 vs 0.71), y lo respalda una diferencia de fuerza clara (neto +0.94 vs -0.52). Probabilidad del modelo: 80%.",
+     "por_que": "El modelo ve a FC Internazionale Milano marcando más que Venezia FC pese a la localía (2.76 vs 0.71), y lo respalda una diferencia de fuerza clara (neto +0.94 vs -0.52). Probabilidad del modelo: 80%.",
      "alternativa": {
       "mercado": "X2",
       "prob": 0.931
@@ -418,7 +418,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.146,
+     "ataque": -0.145,
      "defensa": 0.014,
      "neto": -0.132,
      "peso": 46.1,
@@ -544,7 +544,7 @@
      ]
     ],
     "cuotas_justas": [
-     6.23,
+     6.22,
      4.81,
      1.58
     ],

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-07",
- "actualizado": "2026-10-28T11:54:54+00:00",
+ "actualizado": "2026-10-28T19:13:36+00:00",
  "partidos": [
   {
    "id": 560632,
@@ -15,8 +15,8 @@
     "prob_X": 0.279,
     "prob_2": 0.264,
     "goles_esperados": [
-     1.523,
-     1.106
+     1.524,
+     1.105
     ],
     "prob_over_2_5": 0.489,
     "prob_btts": 0.535,
@@ -47,14 +47,14 @@
      "ataque": -0.006,
      "defensa": 0.169,
      "neto": 0.162,
-     "peso": 29.4,
+     "peso": 29.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.045,
      "defensa": -0.035,
-     "neto": 0.011,
-     "peso": 45.9,
+     "neto": 0.01,
+     "peso": 45.8,
      "fiable": true
     },
     "forma_local": {
@@ -103,7 +103,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Leeds United FC es más fuerte de fondo (neto +0.16 vs +0.01): encaja ~16% menos. Leeds United FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.52 – 1.11; el modelo ve marcando más a Leeds United FC. Pero ojo: en forma reciente Tottenham Hotspur FC llega mejor que Leeds United FC, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Leeds United FC es más fuerte de fondo (neto +0.16 vs +0.01): encaja ~16% menos. Leeds United FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.52 – 1.10; el modelo ve marcando más a Leeds United FC. Pero ojo: en forma reciente Tottenham Hotspur FC llega mejor que Leeds United FC, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.736,
@@ -127,7 +127,7 @@
     "prob_2": 0.362,
     "goles_esperados": [
      1.746,
-     1.65
+     1.649
     ],
     "prob_over_2_5": 0.659,
     "prob_btts": 0.671,
@@ -146,7 +146,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.49,
+     2.48,
      4.25,
      2.76
     ],
@@ -631,7 +631,7 @@
     "cuotas_justas": [
      1.44,
      5.88,
-     7.51
+     7.5
     ],
     "resumen": "Gana Borussia Dortmund (claro favorito, 70%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -740,7 +740,7 @@
     "fuerza_local": {
      "ataque": 0.052,
      "defensa": 0.05,
-     "neto": 0.103,
+     "neto": 0.102,
      "peso": 41.1,
      "fiable": true
     },
@@ -937,7 +937,7 @@
    "local": "Arsenal FC",
    "visitante": "Hull City AFC",
    "prediccion": {
-    "prob_1": 0.601,
+    "prob_1": 0.602,
     "prob_X": 0.271,
     "prob_2": 0.128,
     "goles_esperados": [
@@ -949,7 +949,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1701
+      0.17
      ],
      [
       "2-0",
@@ -957,7 +957,7 @@
      ],
      [
       "0-0",
-      0.1255
+      0.1254
      ]
     ],
     "cuotas_justas": [
@@ -1070,7 +1070,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.05,
+     "ataque": -0.051,
      "defensa": 0.085,
      "neto": 0.035,
      "peso": 45.8,
@@ -1080,7 +1080,7 @@
      "ataque": 0.208,
      "defensa": -0.004,
      "neto": 0.204,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "forma_local": {
@@ -2048,7 +2048,7 @@
      0.523
     ],
     "prob_over_2_5": 0.726,
-    "prob_btts": 0.393,
+    "prob_btts": 0.394,
     "marcadores": [
      [
       "3-0",
@@ -2056,7 +2056,7 @@
      ],
      [
       "2-0",
-      0.1216
+      0.1215
      ],
      [
       "4-0",
@@ -2065,8 +2065,8 @@
     ],
     "cuotas_justas": [
      1.13,
-     11.58,
-     33.44
+     11.57,
+     33.4
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 88%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -2083,7 +2083,7 @@
     "fuerza_visitante": {
      "ataque": -0.441,
      "defensa": -0.246,
-     "neto": -0.687,
+     "neto": -0.686,
      "peso": 7.5,
      "fiable": false
     },
@@ -2176,7 +2176,7 @@
      "ataque": -0.101,
      "defensa": 0.021,
      "neto": -0.08,
-     "peso": 48.0,
+     "peso": 47.9,
      "fiable": true
     },
     "fuerza_visitante": {
