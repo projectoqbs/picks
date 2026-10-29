@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-02",
- "actualizado": "2026-10-29T12:01:47+00:00",
+ "actualizado": "2026-10-29T19:23:03+00:00",
  "partidos": [
   {
    "id": 558541,
@@ -51,7 +51,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.071,
+     "ataque": 0.07,
      "defensa": -0.024,
      "neto": 0.046,
      "peso": 46.1,
@@ -182,7 +182,7 @@
      "ataque": -0.35,
      "defensa": -0.002,
      "neto": -0.352,
-     "peso": 41.6,
+     "peso": 41.5,
      "fiable": true
     },
     "forma_local": {
@@ -397,14 +397,14 @@
     "prob_2": 0.239,
     "goles_esperados": [
      1.531,
-     0.989
+     0.988
     ],
     "prob_over_2_5": 0.461,
     "prob_btts": 0.498,
     "marcadores": [
      [
       "1-1",
-      0.1274
+      0.1275
      ],
      [
       "1-0",
@@ -428,7 +428,7 @@
      "ataque": -0.003,
      "defensa": 0.067,
      "neto": 0.064,
-     "peso": 9.3,
+     "peso": 9.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -488,7 +488,7 @@
    "local": "Newcastle United FC",
    "visitante": "Everton FC",
    "prediccion": {
-    "prob_1": 0.456,
+    "prob_1": 0.457,
     "prob_X": 0.279,
     "prob_2": 0.265,
     "goles_esperados": [
@@ -528,7 +528,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.123,
+     "ataque": -0.124,
      "defensa": 0.179,
      "neto": 0.055,
      "peso": 45.8,
@@ -604,7 +604,7 @@
     "explicacion": "Newcastle United FC es más fuerte de fondo (neto +0.20 vs +0.06): ataca ~23% más que el promedio. Newcastle United FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.52 – 1.11; el modelo ve marcando más a Newcastle United FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.735,
+     "prob": 0.736,
      "por_que": "Doble oportunidad: cubre que Newcastle United FC no pierda. El escenario que queda afuera (gane Everton FC) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
      "alternativa": null,
      "confianza": "alta"

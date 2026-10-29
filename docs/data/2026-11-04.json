@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-04",
- "actualizado": "2026-10-29T12:01:47+00:00",
+ "actualizado": "2026-10-29T19:23:03+00:00",
  "partidos": [
   {
    "id": 575386,
@@ -16,7 +16,7 @@
     "prob_2": 0.755,
     "goles_esperados": [
      1.2,
-     3.095
+     3.096
     ],
     "prob_over_2_5": 0.802,
     "prob_btts": 0.662,
@@ -52,7 +52,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.559,
+     "ataque": 0.56,
      "defensa": 0.141,
      "neto": 0.7,
      "peso": 16.9,
@@ -94,7 +94,7 @@
      "por_que": "El modelo ve a Real Madrid CF marcando más que PAE AEK pese a la localía (3.10 vs 1.20), y lo respalda una diferencia de fuerza clara (neto +0.70 vs -0.55). Probabilidad del modelo: 76%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.922
+      "prob": 0.923
      },
      "confianza": "baja"
     }
@@ -209,7 +209,7 @@
    "prediccion": {
     "prob_1": 0.303,
     "prob_X": 0.21,
-    "prob_2": 0.487,
+    "prob_2": 0.486,
     "goles_esperados": [
      1.339,
      1.766
@@ -327,7 +327,7 @@
     "prob_2": 0.84,
     "goles_esperados": [
      0.55,
-     2.77
+     2.769
     ],
     "prob_over_2_5": 0.644,
     "prob_btts": 0.391,
@@ -346,7 +346,7 @@
      ]
     ],
     "cuotas_justas": [
-     17.96,
+     17.95,
      9.55,
      1.19
     ],
@@ -358,7 +358,7 @@
     "fuerza_local": {
      "ataque": -0.414,
      "defensa": -0.324,
-     "neto": -0.739,
+     "neto": -0.738,
      "peso": 7.0,
      "fiable": false
     },
@@ -533,7 +533,7 @@
     "prob_X": 0.195,
     "prob_2": 0.262,
     "goles_esperados": [
-     2.036,
+     2.037,
      1.35
     ],
     "prob_over_2_5": 0.658,
@@ -549,7 +549,7 @@
      ],
      [
       "1-0",
-      0.0785
+      0.0786
      ]
     ],
     "cuotas_justas": [
@@ -639,7 +639,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1047
+      0.1046
      ],
      [
       "1-1",
@@ -761,14 +761,14 @@
    "nota": "pocos datos: 'Como 1907' solo tiene 2.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.256,
+     "ataque": -0.255,
      "defensa": -0.171,
      "neto": -0.426,
      "peso": 3.6,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.511,
+     "ataque": 0.51,
      "defensa": -0.073,
      "neto": 0.438,
      "peso": 2.9,
@@ -829,7 +829,7 @@
     "prob_X": 0.137,
     "prob_2": 0.132,
     "goles_esperados": [
-     2.86,
+     2.859,
      1.153
     ],
     "prob_over_2_5": 0.764,
@@ -851,7 +851,7 @@
     "cuotas_justas": [
      1.37,
      7.31,
-     7.6
+     7.59
     ],
     "resumen": "Gana Viking FK (claro favorito, 73%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -867,8 +867,8 @@
     },
     "fuerza_visitante": {
      "ataque": -0.312,
-     "defensa": -0.19,
-     "neto": -0.502,
+     "defensa": -0.189,
+     "neto": -0.501,
      "peso": 2.9,
      "fiable": false
     },

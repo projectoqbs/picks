@@ -1,6 +1,6 @@
 {
  "fecha": "2026-10-31",
- "actualizado": "2026-10-29T12:01:47+00:00",
+ "actualizado": "2026-10-29T19:23:03+00:00",
  "partidos": [
   {
    "id": 560626,
@@ -181,8 +181,8 @@
     "fuerza_local": {
      "ataque": 0.124,
      "defensa": -0.124,
-     "neto": -0.0,
-     "peso": 31.5,
+     "neto": -0.001,
+     "peso": 31.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -296,7 +296,7 @@
      "ataque": 0.131,
      "defensa": 0.111,
      "neto": 0.242,
-     "peso": 47.2,
+     "peso": 47.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -431,7 +431,7 @@
     "fuerza_visitante": {
      "ataque": -0.347,
      "defensa": 0.17,
-     "neto": -0.176,
+     "neto": -0.177,
      "peso": 6.6,
      "fiable": false
     },
@@ -505,7 +505,7 @@
      ],
      [
       "1-1",
-      0.1364
+      0.1365
      ]
     ],
     "cuotas_justas": [
@@ -520,7 +520,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.563,
-     "defensa": 0.377,
+     "defensa": 0.378,
      "neto": -0.185,
      "peso": 6.6,
      "fiable": false
@@ -529,7 +529,7 @@
      "ataque": 0.312,
      "defensa": 0.149,
      "neto": 0.461,
-     "peso": 41.1,
+     "peso": 41.0,
      "fiable": true
     },
     "forma_local": {
@@ -627,8 +627,8 @@
     "fuerza_visitante": {
      "ataque": 0.098,
      "defensa": 0.029,
-     "neto": 0.127,
-     "peso": 41.1,
+     "neto": 0.126,
+     "peso": 41.0,
      "fiable": true
     },
     "forma_local": {
@@ -756,14 +756,14 @@
      "ataque": -0.018,
      "defensa": -0.053,
      "neto": -0.071,
-     "peso": 41.1,
+     "peso": 41.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.212,
      "defensa": -0.095,
      "neto": 0.117,
-     "peso": 41.1,
+     "peso": 41.0,
      "fiable": true
     },
     "forma_local": {
@@ -898,7 +898,7 @@
      "ataque": 0.301,
      "defensa": 0.092,
      "neto": 0.392,
-     "peso": 41.1,
+     "peso": 41.0,
      "fiable": true
     },
     "forma_local": {
@@ -995,14 +995,14 @@
     "prob_2": 0.195,
     "goles_esperados": [
      2.031,
-     1.124
+     1.123
     ],
     "prob_over_2_5": 0.611,
     "prob_btts": 0.596,
     "marcadores": [
      [
       "1-1",
-      0.1069
+      0.1068
      ],
      [
       "2-1",
@@ -1033,7 +1033,7 @@
      "ataque": 0.256,
      "defensa": 0.134,
      "neto": 0.39,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "forma_local": {
@@ -1129,7 +1129,7 @@
     "prob_X": 0.284,
     "prob_2": 0.292,
     "goles_esperados": [
-     1.45,
+     1.451,
      1.167
     ],
     "prob_over_2_5": 0.486,
@@ -1161,12 +1161,12 @@
      "ataque": 0.148,
      "defensa": 0.063,
      "neto": 0.211,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.007,
-     "defensa": 0.169,
+     "ataque": -0.006,
+     "defensa": 0.168,
      "neto": 0.162,
      "peso": 29.3,
      "fiable": true
@@ -1234,8 +1234,8 @@
     "prob_X": 0.319,
     "prob_2": 0.383,
     "goles_esperados": [
-     1.001,
-     1.168
+     1.0,
+     1.167
     ],
     "prob_over_2_5": 0.369,
     "prob_btts": 0.449,
@@ -1246,7 +1246,7 @@
      ],
      [
       "0-0",
-      0.1274
+      0.1275
      ],
      [
       "0-1",
@@ -1342,14 +1342,14 @@
     "marcadores": [
      [
       "1-1",
-      0.1175
-     ],
-     [
-      "2-0",
-      0.1122
+      0.1176
      ],
      [
       "1-0",
+      0.1122
+     ],
+     [
+      "2-0",
       0.1122
      ]
     ],
@@ -1361,17 +1361,17 @@
     "resumen": "Gana Hull City AFC (claro favorito, 59%).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Hull City AFC' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Hull City AFC' solo tiene 7.4 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.114,
      "defensa": 0.271,
      "neto": 0.157,
-     "peso": 7.5,
+     "peso": 7.4,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": -0.089,
+     "ataque": -0.088,
      "defensa": -0.325,
      "neto": -0.414,
      "peso": 18.4,
@@ -1434,7 +1434,7 @@
     "prob_X": 0.272,
     "prob_2": 0.261,
     "goles_esperados": [
-     1.592,
+     1.593,
      1.138
     ],
     "prob_over_2_5": 0.514,
@@ -1466,7 +1466,7 @@
      "ataque": 0.183,
      "defensa": 0.062,
      "neto": 0.244,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1577,7 +1577,7 @@
     "marcadores": [
      [
       "1-1",
-      0.139
+      0.1391
      ],
      [
       "1-0",
@@ -1585,7 +1585,7 @@
      ],
      [
       "0-0",
-      0.109
+      0.1091
      ]
     ],
     "cuotas_justas": [
@@ -1608,7 +1608,7 @@
      "ataque": 0.073,
      "defensa": 0.128,
      "neto": 0.201,
-     "peso": 47.8,
+     "peso": 47.7,
      "fiable": true
     },
     "forma_local": {
@@ -1736,14 +1736,14 @@
      "ataque": -0.081,
      "defensa": -0.062,
      "neto": -0.143,
-     "peso": 47.1,
+     "peso": 47.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.375,
      "defensa": 0.362,
      "neto": 0.737,
-     "peso": 47.1,
+     "peso": 47.0,
      "fiable": true
     },
     "forma_local": {
@@ -1837,7 +1837,7 @@
    "prediccion": {
     "prob_1": 0.644,
     "prob_X": 0.188,
-    "prob_2": 0.168,
+    "prob_2": 0.169,
     "goles_esperados": [
      2.477,
      1.224
@@ -1870,8 +1870,8 @@
     "fuerza_local": {
      "ataque": 0.795,
      "defensa": 0.353,
-     "neto": 1.149,
-     "peso": 41.1,
+     "neto": 1.148,
+     "peso": 41.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1982,7 +1982,7 @@
     "marcadores": [
      [
       "2-0",
-      0.1319
+      0.1318
      ],
      [
       "1-0",
@@ -2013,7 +2013,7 @@
      "ataque": -0.363,
      "defensa": -0.221,
      "neto": -0.584,
-     "peso": 9.3,
+     "peso": 9.2,
      "fiable": true
     },
     "forma_local": {
@@ -2104,7 +2104,7 @@
     "fuerza_local": {
      "ataque": 0.045,
      "defensa": -0.035,
-     "neto": 0.01,
+     "neto": 0.011,
      "peso": 45.8,
      "fiable": true
     },
@@ -2112,7 +2112,7 @@
      "ataque": -0.052,
      "defensa": -0.036,
      "neto": -0.089,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "forma_local": {
@@ -2370,7 +2370,7 @@
     "resumen": "Gana Le Mans FC (ligero favorito, 49%).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Le Mans FC' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Le Mans FC' solo tiene 7.4 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.441,
@@ -2383,7 +2383,7 @@
      "ataque": 0.064,
      "defensa": -0.184,
      "neto": -0.12,
-     "peso": 7.5,
+     "peso": 7.4,
      "fiable": false
     },
     "forma_local": {
@@ -2479,10 +2479,10 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.069,
+     "ataque": -0.07,
      "defensa": 0.071,
      "neto": 0.001,
-     "peso": 47.8,
+     "peso": 47.7,
      "fiable": true
     },
     "forma_local": {
@@ -2614,7 +2614,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.051,
+     "ataque": -0.05,
      "defensa": 0.085,
      "neto": 0.035,
      "peso": 45.7,

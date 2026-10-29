@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-08",
- "actualizado": "2026-10-29T12:01:47+00:00",
+ "actualizado": "2026-10-29T19:23:03+00:00",
  "partidos": [
   {
    "id": 558533,
@@ -47,14 +47,14 @@
      "ataque": 0.258,
      "defensa": 0.3,
      "neto": 0.558,
-     "peso": 47.1,
+     "peso": 47.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.182,
      "defensa": 0.194,
      "neto": 0.377,
-     "peso": 47.1,
+     "peso": 47.0,
      "fiable": true
     },
     "forma_local": {
@@ -556,14 +556,14 @@
      "ataque": 0.294,
      "defensa": -0.014,
      "neto": 0.28,
-     "peso": 41.7,
+     "peso": 41.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.093,
      "defensa": 0.378,
      "neto": 0.471,
-     "peso": 41.7,
+     "peso": 41.6,
      "fiable": true
     },
     "forma_local": {
@@ -691,7 +691,7 @@
      "ataque": -0.052,
      "defensa": -0.036,
      "neto": -0.089,
-     "peso": 45.9,
+     "peso": 45.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -790,7 +790,7 @@
    "local": "Sunderland AFC",
    "visitante": "Chelsea FC",
    "prediccion": {
-    "prob_1": 0.291,
+    "prob_1": 0.292,
     "prob_X": 0.28,
     "prob_2": 0.429,
     "goles_esperados": [
@@ -909,7 +909,7 @@
     "prob_2": 0.535,
     "goles_esperados": [
      1.273,
-     2.008
+     2.007
     ],
     "prob_over_2_5": 0.636,
     "prob_btts": 0.633,
@@ -928,16 +928,16 @@
      ]
     ],
     "cuotas_justas": [
-     4.34,
-     4.27,
+     4.33,
+     4.26,
      1.87
     ],
-    "resumen": "Gana AFC Bournemouth (ligero favorito, 54%). se esperan goles (+2.5). ambos marcan.",
+    "resumen": "Gana AFC Bournemouth (ligero favorito, 53%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.089,
+     "ataque": -0.088,
      "defensa": -0.325,
      "neto": -0.414,
      "peso": 18.4,
@@ -947,7 +947,7 @@
      "ataque": 0.148,
      "defensa": 0.063,
      "neto": 0.211,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "forma_local": {
@@ -1054,14 +1054,14 @@
      "ataque": 0.256,
      "defensa": 0.134,
      "neto": 0.39,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.183,
      "defensa": 0.062,
      "neto": 0.244,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "forma_local": {
@@ -1444,13 +1444,13 @@
     "resumen": "Gana AS Monaco FC (ligero favorito, 50%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Le Mans FC' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Le Mans FC' solo tiene 7.4 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.064,
      "defensa": -0.184,
      "neto": -0.12,
-     "peso": 7.5,
+     "peso": 7.4,
      "fiable": false
     },
     "fuerza_visitante": {
@@ -1520,7 +1520,7 @@
      1.382,
      1.635
     ],
-    "prob_over_2_5": 0.58,
+    "prob_over_2_5": 0.581,
     "prob_btts": 0.609,
     "marcadores": [
      [
@@ -1556,7 +1556,7 @@
      "ataque": 0.233,
      "defensa": 0.182,
      "neto": 0.415,
-     "peso": 41.7,
+     "peso": 41.6,
      "fiable": true
     },
     "forma_local": {
@@ -1684,7 +1684,7 @@
      "ataque": -0.212,
      "defensa": -0.049,
      "neto": -0.261,
-     "peso": 41.7,
+     "peso": 41.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1818,8 +1818,8 @@
     "fuerza_visitante": {
      "ataque": -0.023,
      "defensa": 0.044,
-     "neto": 0.021,
-     "peso": 41.7,
+     "neto": 0.022,
+     "peso": 41.6,
      "fiable": true
     },
     "forma_local": {
@@ -1939,8 +1939,8 @@
     "fuerza_local": {
      "ataque": 0.098,
      "defensa": 0.029,
-     "neto": 0.127,
-     "peso": 41.1,
+     "neto": 0.126,
+     "peso": 41.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2039,7 +2039,7 @@
    "local": "Manchester United FC",
    "visitante": "Aston Villa FC",
    "prediccion": {
-    "prob_1": 0.409,
+    "prob_1": 0.41,
     "prob_X": 0.266,
     "prob_2": 0.325,
     "goles_esperados": [
@@ -2217,7 +2217,7 @@
      "ataque": 0.306,
      "defensa": 0.321,
      "neto": 0.627,
-     "peso": 41.6,
+     "peso": 41.5,
      "fiable": true
     },
     "forma_local": {
@@ -2328,7 +2328,7 @@
     "cuotas_justas": [
      1.88,
      4.16,
-     4.41
+     4.42
     ],
     "resumen": "Gana RC Celta de Vigo (ligero favorito, 53%).",
     "confianza": "alta"
@@ -2338,14 +2338,14 @@
      "ataque": 0.073,
      "defensa": 0.128,
      "neto": 0.201,
-     "peso": 47.8,
+     "peso": 47.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.124,
      "defensa": -0.124,
-     "neto": -0.0,
-     "peso": 31.5,
+     "neto": -0.001,
+     "peso": 31.4,
      "fiable": true
     },
     "forma_local": {
@@ -2397,7 +2397,7 @@
     "explicacion": "RC Celta de Vigo es más fuerte de fondo (neto +0.20 vs -0.00): encaja ~12% menos. RC Celta de Vigo juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.81 – 1.11; el modelo ve marcando más a RC Celta de Vigo. Y la forma reciente lo confirma: RC Celta de Vigo llega mejor (2G-3E-0P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.773,
+     "prob": 0.774,
      "por_que": "Doble oportunidad: cubre que RC Celta de Vigo no pierda. El escenario que queda afuera (gane Levante UD) es el menos probable (23%), así que el mercado se cumple ~77% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -2577,7 +2577,7 @@
     "cuotas_justas": [
      2.02,
      3.45,
-     4.67
+     4.66
     ],
     "resumen": "Gana TSG 1899 Hoffenheim (ligero favorito, 50%). pocos goles (-2.5).",
     "confianza": "baja"
@@ -2588,12 +2588,12 @@
      "ataque": 0.212,
      "defensa": -0.095,
      "neto": 0.117,
-     "peso": 41.1,
+     "peso": 41.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.563,
-     "defensa": 0.377,
+     "defensa": 0.378,
      "neto": -0.185,
      "peso": 6.6,
      "fiable": false
@@ -2684,7 +2684,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.071,
+     "ataque": 0.07,
      "defensa": -0.024,
      "neto": 0.046,
      "peso": 46.1,
@@ -2819,14 +2819,14 @@
      "ataque": 0.253,
      "defensa": 0.22,
      "neto": 0.472,
-     "peso": 41.7,
+     "peso": 41.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.372,
      "defensa": 0.044,
      "neto": 0.416,
-     "peso": 41.7,
+     "peso": 41.6,
      "fiable": true
     },
     "forma_local": {
@@ -2930,7 +2930,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1032
+      0.1033
      ],
      [
       "1-2",
