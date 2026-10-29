@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-06",
- "actualizado": "2026-10-28T19:13:36+00:00",
+ "actualizado": "2026-10-29T12:01:47+00:00",
  "partidos": [
   {
    "id": 565852,
@@ -47,14 +47,14 @@
      "ataque": -0.208,
      "defensa": -0.048,
      "neto": -0.256,
-     "peso": 26.4,
+     "peso": 26.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.004,
      "defensa": -0.115,
      "neto": -0.119,
-     "peso": 41.1,
+     "peso": 41.0,
      "fiable": true
     },
     "forma_local": {
@@ -125,50 +125,50 @@
    "local": "Venezia FC",
    "visitante": "Udinese Calcio",
    "prediccion": {
-    "prob_1": 0.28,
-    "prob_X": 0.276,
-    "prob_2": 0.444,
+    "prob_1": 0.275,
+    "prob_X": 0.285,
+    "prob_2": 0.44,
     "goles_esperados": [
-     1.026,
-     1.365
+     0.97,
+     1.304
     ],
-    "prob_over_2_5": 0.428,
-    "prob_btts": 0.479,
+    "prob_over_2_5": 0.397,
+    "prob_btts": 0.455,
     "marcadores": [
      [
       "1-1",
-      0.1301
+      0.1325
      ],
      [
       "0-1",
-      0.1231
+      0.1318
      ],
      [
       "0-0",
-      0.0934
+      0.1053
      ]
     ],
     "cuotas_justas": [
-     3.57,
-     3.62,
-     2.25
+     3.64,
+     3.51,
+     2.27
     ],
-    "resumen": "Gana Udinese Calcio (ligero favorito, 44%).",
+    "resumen": "Gana Udinese Calcio (ligero favorito, 44%). pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.313,
-     "defensa": -0.204,
-     "neto": -0.517,
-     "peso": 18.5,
+     "ataque": -0.351,
+     "defensa": -0.18,
+     "neto": -0.531,
+     "peso": 19.4,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.058,
-     "defensa": -0.079,
-     "neto": -0.137,
-     "peso": 46.1,
+     "ataque": -0.081,
+     "defensa": -0.062,
+     "neto": -0.143,
+     "peso": 47.1,
      "fiable": true
     },
     "forma_local": {
@@ -176,29 +176,29 @@
      "g": 1,
      "e": 0,
      "p": 4,
-     "gf": 4,
-     "gc": 10,
+     "gf": 2,
+     "gc": 8,
      "racha": [
       "P",
       "P",
-      "P",
       "G",
+      "P",
       "P"
      ]
     },
     "forma_visitante": {
      "pj": 5,
      "g": 0,
-     "e": 0,
-     "p": 5,
-     "gf": 4,
-     "gc": 13,
+     "e": 1,
+     "p": 4,
+     "gf": 1,
+     "gc": 8,
      "racha": [
       "P",
       "P",
       "P",
       "P",
-      "P"
+      "E"
      ]
     },
     "cara_a_cara": [
@@ -217,14 +217,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Udinese Calcio es más fuerte de fondo (neto -0.14 vs -0.52): es más completo en general. Venezia FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.03 – 1.36; el modelo ve marcando más a Udinese Calcio. Pero ojo: en forma reciente Venezia FC llega mejor que Udinese Calcio, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Udinese Calcio es más fuerte de fondo (neto -0.14 vs -0.53): es más completo en general. Venezia FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.97 – 1.30; el modelo ve marcando más a Udinese Calcio. Pero ojo: en forma reciente Venezia FC llega mejor que Udinese Calcio, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.72,
-     "por_que": "Doble oportunidad: cubre que Venezia FC no gane. El escenario que queda afuera (gane Venezia FC) es el menos probable (28%), así que el mercado se cumple ~72% de las veces.",
+     "prob": 0.725,
+     "por_que": "Doble oportunidad: cubre que Venezia FC no gane. El escenario que queda afuera (gane Venezia FC) es el menos probable (28%), así que el mercado se cumple ~73% de las veces.",
      "alternativa": {
       "mercado": "Menos de 2.5 goles",
-      "prob": 0.572
+      "prob": 0.603
      },
      "confianza": "alta"
     }
@@ -275,14 +275,14 @@
      "ataque": 0.051,
      "defensa": 0.08,
      "neto": 0.132,
-     "peso": 41.0,
+     "peso": 40.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.202,
      "defensa": -0.013,
      "neto": 0.189,
-     "peso": 41.8,
+     "peso": 41.7,
      "fiable": true
     },
     "forma_local": {
@@ -390,7 +390,7 @@
      ],
      [
       "1-0",
-      0.1109
+      0.111
      ],
      [
       "2-1",
@@ -410,7 +410,7 @@
      "ataque": 0.04,
      "defensa": -0.033,
      "neto": 0.007,
-     "peso": 47.9,
+     "peso": 47.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -505,7 +505,7 @@
     "prob_2": 0.184,
     "goles_esperados": [
      1.475,
-     0.77
+     0.771
     ],
     "prob_over_2_5": 0.389,
     "prob_btts": 0.426,
@@ -534,7 +534,7 @@
    "nota": "pocos datos: 'Coventry City FC' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.124,
+     "ataque": -0.123,
      "defensa": 0.179,
      "neto": 0.055,
      "peso": 45.8,

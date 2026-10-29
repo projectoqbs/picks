@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-04",
- "actualizado": "2026-10-28T19:13:36+00:00",
+ "actualizado": "2026-10-29T12:01:47+00:00",
  "partidos": [
   {
    "id": 575386,
@@ -16,7 +16,7 @@
     "prob_2": 0.755,
     "goles_esperados": [
      1.2,
-     3.097
+     3.095
     ],
     "prob_over_2_5": 0.802,
     "prob_btts": 0.662,
@@ -35,8 +35,8 @@
      ]
     ],
     "cuotas_justas": [
-     8.38,
-     7.98,
+     8.37,
+     7.97,
      1.32
     ],
     "resumen": "Gana Real Madrid CF (claro favorito, 76%). se esperan goles (+2.5). ambos marcan.",
@@ -52,10 +52,10 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.56,
+     "ataque": 0.559,
      "defensa": 0.141,
      "neto": 0.7,
-     "peso": 17.0,
+     "peso": 16.9,
      "fiable": true
     },
     "forma_local": {
@@ -94,7 +94,7 @@
      "por_que": "El modelo ve a Real Madrid CF marcando más que PAE AEK pese a la localía (3.10 vs 1.20), y lo respalda una diferencia de fuerza clara (neto +0.70 vs -0.55). Probabilidad del modelo: 76%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.923
+      "prob": 0.922
      },
      "confianza": "baja"
     }
@@ -113,8 +113,8 @@
     "prob_X": 0.122,
     "prob_2": 0.778,
     "goles_esperados": [
-     0.974,
-     2.943
+     0.975,
+     2.942
     ],
     "prob_over_2_5": 0.749,
     "prob_btts": 0.584,
@@ -133,9 +133,9 @@
      ]
     ],
     "cuotas_justas": [
-     9.99,
+     9.98,
      8.22,
-     1.28
+     1.29
     ],
     "resumen": "Gana Liverpool FC (claro favorito, 78%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -145,7 +145,7 @@
     "fuerza_local": {
      "ataque": -0.309,
      "defensa": -0.407,
-     "neto": -0.717,
+     "neto": -0.716,
      "peso": 2.9,
      "fiable": false
     },
@@ -153,7 +153,7 @@
      "ataque": 0.369,
      "defensa": 0.317,
      "neto": 0.686,
-     "peso": 12.5,
+     "peso": 12.4,
      "fiable": true
     },
     "forma_local": {
@@ -209,7 +209,7 @@
    "prediccion": {
     "prob_1": 0.303,
     "prob_X": 0.21,
-    "prob_2": 0.486,
+    "prob_2": 0.487,
     "goles_esperados": [
      1.339,
      1.766
@@ -219,7 +219,7 @@
     "marcadores": [
      [
       "1-1",
-      0.095
+      0.0949
      ],
      [
       "1-2",
@@ -338,7 +338,7 @@
      ],
      [
       "0-3",
-      0.1281
+      0.128
      ],
      [
       "0-1",
@@ -346,27 +346,27 @@
      ]
     ],
     "cuotas_justas": [
-     17.97,
+     17.96,
      9.55,
      1.19
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 84%). se esperan goles (+2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'SK Slavia Praha' solo tiene 7.1 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'SK Slavia Praha' solo tiene 7.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.414,
      "defensa": -0.324,
      "neto": -0.739,
-     "peso": 7.1,
+     "peso": 7.0,
      "fiable": false
     },
     "fuerza_visitante": {
      "ataque": 0.391,
      "defensa": 0.784,
      "neto": 1.175,
-     "peso": 17.5,
+     "peso": 17.4,
      "fiable": true
     },
     "forma_local": {
@@ -473,7 +473,7 @@
      "ataque": 0.319,
      "defensa": -0.077,
      "neto": 0.243,
-     "peso": 11.7,
+     "peso": 11.6,
      "fiable": true
     },
     "forma_local": {
@@ -533,7 +533,7 @@
     "prob_X": 0.195,
     "prob_2": 0.262,
     "goles_esperados": [
-     2.037,
+     2.036,
      1.35
     ],
     "prob_over_2_5": 0.658,
@@ -549,7 +549,7 @@
      ],
      [
       "1-0",
-      0.0786
+      0.0785
      ]
     ],
     "cuotas_justas": [
@@ -631,7 +631,7 @@
     "prob_X": 0.215,
     "prob_2": 0.28,
     "goles_esperados": [
-     1.712,
+     1.713,
      1.2
     ],
     "prob_over_2_5": 0.557,
@@ -729,10 +729,10 @@
    "prediccion": {
     "prob_1": 0.209,
     "prob_X": 0.162,
-    "prob_2": 0.629,
+    "prob_2": 0.628,
     "goles_esperados": [
      1.519,
-     2.678
+     2.677
     ],
     "prob_over_2_5": 0.789,
     "prob_btts": 0.721,
@@ -763,7 +763,7 @@
     "fuerza_local": {
      "ataque": -0.256,
      "defensa": -0.171,
-     "neto": -0.427,
+     "neto": -0.426,
      "peso": 3.6,
      "fiable": false
     },
