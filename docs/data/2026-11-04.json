@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-04",
- "actualizado": "2026-10-29T19:23:03+00:00",
+ "actualizado": "2026-10-30T11:56:03+00:00",
  "partidos": [
   {
    "id": 575386,
@@ -12,11 +12,11 @@
    "visitante": "Real Madrid CF",
    "prediccion": {
     "prob_1": 0.119,
-    "prob_X": 0.125,
+    "prob_X": 0.126,
     "prob_2": 0.755,
     "goles_esperados": [
      1.2,
-     3.096
+     3.095
     ],
     "prob_over_2_5": 0.802,
     "prob_btts": 0.662,
@@ -47,12 +47,12 @@
     "fuerza_local": {
      "ataque": -0.277,
      "defensa": -0.267,
-     "neto": -0.545,
+     "neto": -0.544,
      "peso": 2.9,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.56,
+     "ataque": 0.559,
      "defensa": 0.141,
      "neto": 0.7,
      "peso": 16.9,
@@ -87,14 +87,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.70 vs -0.55): ataca ~75% más que el promedio, encaja ~13% menos. PAE AEK juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.20 – 3.10; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (3G-0E-2P vs 1G-0E-2P). El modelo tiene pocos datos de PAE AEK: tomalo con pinzas.",
+    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.70 vs -0.54): ataca ~75% más que el promedio, encaja ~13% menos. PAE AEK juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.20 – 3.10; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (3G-0E-2P vs 1G-0E-2P). El modelo tiene pocos datos de PAE AEK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "2",
      "prob": 0.755,
-     "por_que": "El modelo ve a Real Madrid CF marcando más que PAE AEK pese a la localía (3.10 vs 1.20), y lo respalda una diferencia de fuerza clara (neto +0.70 vs -0.55). Probabilidad del modelo: 76%.",
+     "por_que": "El modelo ve a Real Madrid CF marcando más que PAE AEK pese a la localía (3.10 vs 1.20), y lo respalda una diferencia de fuerza clara (neto +0.70 vs -0.54). Probabilidad del modelo: 76%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.923
+      "prob": 0.922
      },
      "confianza": "baja"
     }
@@ -121,7 +121,7 @@
     "marcadores": [
      [
       "0-2",
-      0.0862
+      0.0861
      ],
      [
       "0-3",
@@ -133,8 +133,8 @@
      ]
     ],
     "cuotas_justas": [
-     9.98,
-     8.22,
+     9.97,
+     8.21,
      1.29
     ],
     "resumen": "Gana Liverpool FC (claro favorito, 78%). se esperan goles (+2.5). ambos marcan.",
@@ -208,7 +208,7 @@
    "visitante": "Manchester City FC",
    "prediccion": {
     "prob_1": 0.303,
-    "prob_X": 0.21,
+    "prob_X": 0.211,
     "prob_2": 0.486,
     "goles_esperados": [
      1.339,
@@ -219,7 +219,7 @@
     "marcadores": [
      [
       "1-1",
-      0.0949
+      0.095
      ],
      [
       "1-2",
@@ -251,7 +251,7 @@
      "ataque": 0.269,
      "defensa": 0.133,
      "neto": 0.402,
-     "peso": 12.5,
+     "peso": 12.4,
      "fiable": true
     },
     "forma_local": {
@@ -346,8 +346,8 @@
      ]
     ],
     "cuotas_justas": [
-     17.95,
-     9.55,
+     17.94,
+     9.54,
      1.19
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 84%). se esperan goles (+2.5).",
@@ -450,7 +450,7 @@
      ],
      [
       "1-1",
-      0.0655
+      0.0656
      ]
     ],
     "cuotas_justas": [
@@ -466,7 +466,7 @@
      "ataque": 0.118,
      "defensa": 0.056,
      "neto": 0.174,
-     "peso": 11.5,
+     "peso": 11.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -533,7 +533,7 @@
     "prob_X": 0.195,
     "prob_2": 0.262,
     "goles_esperados": [
-     2.037,
+     2.036,
      1.35
     ],
     "prob_over_2_5": 0.658,
@@ -563,9 +563,9 @@
    "nota": "pocos datos: 'Real Betis Balompié' solo tiene 2.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.179,
+     "ataque": 0.178,
      "defensa": 0.163,
-     "neto": 0.342,
+     "neto": 0.341,
      "peso": 14.3,
      "fiable": true
     },
@@ -639,7 +639,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1046
+      0.1047
      ],
      [
       "1-1",
@@ -732,7 +732,7 @@
     "prob_2": 0.628,
     "goles_esperados": [
      1.519,
-     2.677
+     2.676
     ],
     "prob_over_2_5": 0.789,
     "prob_btts": 0.721,
@@ -747,7 +747,7 @@
      ],
      [
       "2-2",
-      0.0622
+      0.0623
      ]
     ],
     "cuotas_justas": [
@@ -770,7 +770,7 @@
     "fuerza_visitante": {
      "ataque": 0.51,
      "defensa": -0.073,
-     "neto": 0.438,
+     "neto": 0.437,
      "peso": 2.9,
      "fiable": false
     },
@@ -825,14 +825,14 @@
    "local": "Viking FK",
    "visitante": "Sabah FK",
    "prediccion": {
-    "prob_1": 0.732,
+    "prob_1": 0.731,
     "prob_X": 0.137,
     "prob_2": 0.132,
     "goles_esperados": [
-     2.859,
+     2.858,
      1.153
     ],
-    "prob_over_2_5": 0.764,
+    "prob_over_2_5": 0.763,
     "prob_btts": 0.639,
     "marcadores": [
      [
@@ -902,7 +902,7 @@
     "explicacion": "Viking FK es más fuerte de fondo (neto +0.11 vs -0.50): ataca ~30% más que el promedio. Viking FK juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.86 – 1.15; el modelo ve marcando más a Viking FK. Pero ojo: en forma reciente Sabah FK llega mejor que Viking FK, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de Viking FK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.732,
+     "prob": 0.731,
      "por_que": "Viking FK es favorito en casa: marca más (2.86 vs 1.15) y es más fuerte de fondo (neto +0.11 vs -0.50). Probabilidad: 73%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",

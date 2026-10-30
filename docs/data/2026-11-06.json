@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-06",
- "actualizado": "2026-10-29T19:23:03+00:00",
+ "actualizado": "2026-10-30T11:56:03+00:00",
  "partidos": [
   {
    "id": 565852,
@@ -23,7 +23,7 @@
     "marcadores": [
      [
       "1-1",
-      0.124
+      0.1239
      ],
      [
       "2-1",
@@ -110,121 +110,7 @@
      "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.48 y 1.36. Probabilidad: 58%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.781
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 558537,
-   "competicion": "Serie A",
-   "competicion_codigo": "SA",
-   "fecha_utc": "2026-11-06T19:45:00Z",
-   "jornada": 11,
-   "local": "Venezia FC",
-   "visitante": "Udinese Calcio",
-   "prediccion": {
-    "prob_1": 0.275,
-    "prob_X": 0.285,
-    "prob_2": 0.44,
-    "goles_esperados": [
-     0.97,
-     1.304
-    ],
-    "prob_over_2_5": 0.397,
-    "prob_btts": 0.455,
-    "marcadores": [
-     [
-      "1-1",
-      0.1325
-     ],
-     [
-      "0-1",
-      0.1318
-     ],
-     [
-      "0-0",
-      0.1053
-     ]
-    ],
-    "cuotas_justas": [
-     3.64,
-     3.51,
-     2.27
-    ],
-    "resumen": "Gana Udinese Calcio (ligero favorito, 44%). pocos goles (-2.5).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.351,
-     "defensa": -0.18,
-     "neto": -0.531,
-     "peso": 19.4,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.081,
-     "defensa": -0.062,
-     "neto": -0.143,
-     "peso": 47.0,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 1,
-     "e": 0,
-     "p": 4,
-     "gf": 2,
-     "gc": 8,
-     "racha": [
-      "P",
-      "P",
-      "G",
-      "P",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 0,
-     "e": 1,
-     "p": 4,
-     "gf": 1,
-     "gc": 8,
-     "racha": [
-      "P",
-      "P",
-      "P",
-      "P",
-      "E"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2025-02-01",
-      "local": "Udinese Calcio",
-      "visitante": "Venezia FC",
-      "goles_local": 3,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2024-10-30",
-      "local": "Venezia FC",
-      "visitante": "Udinese Calcio",
-      "goles_local": 3,
-      "goles_visitante": 2
-     }
-    ],
-    "explicacion": "Udinese Calcio es más fuerte de fondo (neto -0.14 vs -0.53): es más completo en general. Venezia FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.97 – 1.30; el modelo ve marcando más a Udinese Calcio. Pero ojo: en forma reciente Venezia FC llega mejor que Udinese Calcio, así que puede estar más cerca de lo que dice el neto.",
-    "recomendacion": {
-     "mercado": "X2",
-     "prob": 0.725,
-     "por_que": "Doble oportunidad: cubre que Venezia FC no gane. El escenario que queda afuera (gane Venezia FC) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
-     "alternativa": {
-      "mercado": "Menos de 2.5 goles",
-      "prob": 0.603
+      "prob": 0.782
      },
      "confianza": "alta"
     }
@@ -275,14 +161,14 @@
      "ataque": 0.051,
      "defensa": 0.081,
      "neto": 0.132,
-     "peso": 40.9,
+     "peso": 40.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.202,
      "defensa": -0.013,
      "neto": 0.189,
-     "peso": 41.7,
+     "peso": 41.6,
      "fiable": true
     },
     "forma_local": {
@@ -366,6 +252,120 @@
    }
   },
   {
+   "id": 558537,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-11-06T19:45:00Z",
+   "jornada": 11,
+   "local": "Venezia FC",
+   "visitante": "Udinese Calcio",
+   "prediccion": {
+    "prob_1": 0.277,
+    "prob_X": 0.287,
+    "prob_2": 0.436,
+    "goles_esperados": [
+     0.97,
+     1.29
+    ],
+    "prob_over_2_5": 0.393,
+    "prob_btts": 0.452,
+    "marcadores": [
+     [
+      "1-1",
+      0.133
+     ],
+     [
+      "0-1",
+      0.1323
+     ],
+     [
+      "0-0",
+      0.1068
+     ]
+    ],
+    "cuotas_justas": [
+     3.61,
+     3.49,
+     2.29
+    ],
+    "resumen": "Gana Udinese Calcio (ligero favorito, 44%). pocos goles (-2.5).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.357,
+     "defensa": -0.173,
+     "neto": -0.53,
+     "peso": 19.4,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.086,
+     "defensa": -0.061,
+     "neto": -0.148,
+     "peso": 47.0,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 2,
+     "gc": 8,
+     "racha": [
+      "P",
+      "P",
+      "G",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 0,
+     "e": 1,
+     "p": 4,
+     "gf": 1,
+     "gc": 8,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "P",
+      "E"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2025-02-01",
+      "local": "Udinese Calcio",
+      "visitante": "Venezia FC",
+      "goles_local": 3,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-10-30",
+      "local": "Venezia FC",
+      "visitante": "Udinese Calcio",
+      "goles_local": 3,
+      "goles_visitante": 2
+     }
+    ],
+    "explicacion": "Udinese Calcio es más fuerte de fondo (neto -0.15 vs -0.53): es más completo en general. Venezia FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.97 – 1.29; el modelo ve marcando más a Udinese Calcio. Pero ojo: en forma reciente Venezia FC llega mejor que Udinese Calcio, así que puede estar más cerca de lo que dice el neto.",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.723,
+     "por_que": "Doble oportunidad: cubre que Venezia FC no gane. El escenario que queda afuera (gane Venezia FC) es el menos probable (28%), así que el mercado se cumple ~72% de las veces.",
+     "alternativa": {
+      "mercado": "Menos de 2.5 goles",
+      "prob": 0.607
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
    "id": 564740,
    "competicion": "La Liga",
    "competicion_codigo": "PD",
@@ -378,7 +378,7 @@
     "prob_X": 0.275,
     "prob_2": 0.275,
     "goles_esperados": [
-     1.441,
+     1.44,
      1.072
     ],
     "prob_over_2_5": 0.46,
@@ -410,7 +410,7 @@
      "ataque": 0.04,
      "defensa": -0.033,
      "neto": 0.007,
-     "peso": 47.8,
+     "peso": 47.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -505,9 +505,9 @@
     "prob_2": 0.184,
     "goles_esperados": [
      1.475,
-     0.77
+     0.771
     ],
-    "prob_over_2_5": 0.389,
+    "prob_over_2_5": 0.39,
     "prob_btts": 0.426,
     "marcadores": [
      [
@@ -520,31 +520,31 @@
      ],
      [
       "0-0",
-      0.1177
+      0.1176
      ]
     ],
     "cuotas_justas": [
      1.9,
-     3.46,
-     5.44
+     3.47,
+     5.43
     ],
     "resumen": "Gana Everton FC (ligero favorito, 53%). pocos goles (-2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Coventry City FC' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Coventry City FC' solo tiene 7.4 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.124,
      "defensa": 0.179,
      "neto": 0.055,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.305,
-     "defensa": -0.119,
-     "neto": -0.425,
-     "peso": 7.5,
+     "defensa": -0.12,
+     "neto": -0.424,
+     "peso": 7.4,
      "fiable": false
     },
     "forma_local": {
