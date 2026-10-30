@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-08",
- "actualizado": "2026-10-30T11:56:03+00:00",
+ "actualizado": "2026-10-30T18:57:29+00:00",
  "partidos": [
   {
    "id": 558533,
@@ -47,14 +47,14 @@
      "ataque": 0.253,
      "defensa": 0.304,
      "neto": 0.556,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.177,
      "defensa": 0.196,
      "neto": 0.373,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "forma_local": {
@@ -179,7 +179,7 @@
      "ataque": 0.103,
      "defensa": -0.035,
      "neto": 0.068,
-     "peso": 31.3,
+     "peso": 31.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -428,7 +428,7 @@
      "ataque": -0.052,
      "defensa": -0.036,
      "neto": -0.089,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -528,7 +528,7 @@
    "visitante": "Chelsea FC",
    "prediccion": {
     "prob_1": 0.292,
-    "prob_X": 0.279,
+    "prob_X": 0.28,
     "prob_2": 0.429,
     "goles_esperados": [
      1.193,
@@ -547,7 +547,7 @@
      ],
      [
       "0-1",
-      0.0899
+      0.09
      ]
     ],
     "cuotas_justas": [
@@ -622,7 +622,7 @@
     "explicacion": "Chelsea FC es más fuerte de fondo (neto +0.29 vs -0.10): ataca ~30% más que el promedio. Sunderland AFC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.19 – 1.49; el modelo ve marcando más a Chelsea FC. Y la forma reciente lo confirma: Chelsea FC llega mejor (2G-1E-2P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.708,
+     "prob": 0.709,
      "por_que": "Doble oportunidad: cubre que Sunderland AFC no gane. El escenario que queda afuera (gane Sunderland AFC) es el menos probable (29%), así que el mercado se cumple ~71% de las veces.",
      "alternativa": {
       "mercado": "Ambos marcan: Sí",
@@ -665,7 +665,7 @@
      ]
     ],
     "cuotas_justas": [
-     4.34,
+     4.33,
      4.26,
      1.87
     ],
@@ -674,7 +674,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.089,
+     "ataque": -0.088,
      "defensa": -0.325,
      "neto": -0.414,
      "peso": 18.4,
@@ -791,14 +791,14 @@
      "ataque": 0.256,
      "defensa": 0.134,
      "neto": 0.39,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.183,
      "defensa": 0.062,
      "neto": 0.244,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "forma_local": {
@@ -933,7 +933,7 @@
      "ataque": 0.273,
      "defensa": 0.176,
      "neto": 0.448,
-     "peso": 47.1,
+     "peso": 47.0,
      "fiable": true
     },
     "forma_local": {
@@ -1266,7 +1266,7 @@
      "por_que": "Doble oportunidad: cubre que 1. FC Köln no gane. El escenario que queda afuera (gane 1. FC Köln) es el menos probable (21%), así que el mercado se cumple ~79% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.839
+      "prob": 0.84
      },
      "confianza": "alta"
     }
@@ -1316,7 +1316,7 @@
     "fuerza_local": {
      "ataque": 0.184,
      "defensa": -0.048,
-     "neto": 0.136,
+     "neto": 0.135,
      "peso": 47.7,
      "fiable": true
     },
@@ -1668,7 +1668,7 @@
      ],
      [
       "0-0",
-      0.1006
+      0.1007
      ]
     ],
     "cuotas_justas": [
@@ -1783,7 +1783,7 @@
      1.028,
      1.251
     ],
-    "prob_over_2_5": 0.398,
+    "prob_over_2_5": 0.399,
     "prob_btts": 0.465,
     "marcadores": [
      [
@@ -1792,7 +1792,7 @@
      ],
      [
       "0-1",
-      0.1213
+      0.1212
      ],
      [
       "0-0",
@@ -1818,7 +1818,7 @@
     "fuerza_visitante": {
      "ataque": -0.023,
      "defensa": 0.044,
-     "neto": 0.022,
+     "neto": 0.021,
      "peso": 41.6,
      "fiable": true
     },
@@ -2432,7 +2432,7 @@
      ],
      [
       "2-0",
-      0.1318
+      0.1319
      ],
      [
       "1-1",
@@ -2441,8 +2441,8 @@
     ],
     "cuotas_justas": [
      1.64,
-     4.06,
-     6.92
+     4.07,
+     6.93
     ],
     "resumen": "Gana Villarreal CF (claro favorito, 61%).",
     "confianza": "alta"
@@ -2451,7 +2451,7 @@
     "fuerza_local": {
      "ataque": 0.367,
      "defensa": 0.072,
-     "neto": 0.439,
+     "neto": 0.44,
      "peso": 47.8,
      "fiable": true
     },
@@ -2555,7 +2555,7 @@
     "prob_X": 0.29,
     "prob_2": 0.214,
     "goles_esperados": [
-     1.378,
+     1.379,
      0.813
     ],
     "prob_over_2_5": 0.375,
@@ -2563,7 +2563,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1474
+      0.1473
      ],
      [
       "1-1",
@@ -2571,7 +2571,7 @@
      ],
      [
       "0-0",
-      0.1185
+      0.1184
      ]
     ],
     "cuotas_justas": [
@@ -2633,7 +2633,7 @@
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.625,
-     "por_que": "Pocos goles esperados en total (1.38 + 0.81 = 2.19); la defensa de FC Schalke 04 aprieta. El modelo ve el partido cerrado (63% al under).",
+     "por_que": "Pocos goles esperados en total (1.38 + 0.81 = 2.19); la defensa de FC Schalke 04 aprieta. El modelo ve el partido cerrado (62% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
       "prob": 0.821
@@ -2685,13 +2685,13 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.253,
-     "defensa": 0.219,
+     "defensa": 0.22,
      "neto": 0.472,
      "peso": 41.6,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.372,
+     "ataque": 0.371,
      "defensa": 0.044,
      "neto": 0.416,
      "peso": 41.6,
@@ -2829,7 +2829,7 @@
      "ataque": 0.185,
      "defensa": 0.32,
      "neto": 0.505,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "forma_local": {

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-01",
- "actualizado": "2026-10-30T11:56:03+00:00",
+ "actualizado": "2026-10-30T18:57:29+00:00",
  "partidos": [
   {
    "id": 558543,
@@ -400,7 +400,7 @@
     "marcadores": [
      [
       "2-1",
-      0.0921
+      0.0922
      ],
      [
       "1-1",
@@ -421,7 +421,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.432,
+     "ataque": 0.431,
      "defensa": -0.204,
      "neto": 0.228,
      "peso": 13.9,
@@ -538,7 +538,7 @@
      "ataque": 0.177,
      "defensa": 0.196,
      "neto": 0.373,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -758,7 +758,7 @@
    "prediccion": {
     "prob_1": 0.1,
     "prob_X": 0.132,
-    "prob_2": 0.768,
+    "prob_2": 0.769,
     "goles_esperados": [
      1.167,
      3.208
@@ -780,7 +780,7 @@
      ]
     ],
     "cuotas_justas": [
-     10.01,
+     10.02,
      7.6,
      1.3
     ],
@@ -836,7 +836,7 @@
     "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.95 vs -0.35): ataca ~71% más que el promedio, encaja ~34% menos. Real Racing Club de Santander juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.17 – 3.21; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (4G-0E-1P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "2",
-     "prob": 0.768,
+     "prob": 0.769,
      "por_que": "El modelo ve a Real Madrid CF marcando más que Real Racing Club de Santander pese a la localía (3.21 vs 1.17), y lo respalda una diferencia de fuerza clara (neto +0.95 vs -0.35). Probabilidad del modelo: 77%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -1016,7 +1016,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.115,
+     "ataque": 0.114,
      "defensa": 0.112,
      "neto": 0.227,
      "peso": 26.9,
@@ -1379,7 +1379,7 @@
      "ataque": -0.361,
      "defensa": -0.094,
      "neto": -0.455,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1514,14 +1514,14 @@
      "ataque": 0.103,
      "defensa": -0.035,
      "neto": 0.068,
-     "peso": 31.3,
+     "peso": 31.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.101,
      "defensa": 0.021,
      "neto": -0.08,
-     "peso": 47.8,
+     "peso": 47.7,
      "fiable": true
     },
     "forma_local": {
@@ -1622,7 +1622,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.372,
+     "ataque": 0.371,
      "defensa": 0.044,
      "neto": 0.416,
      "peso": 41.6,
@@ -1760,14 +1760,14 @@
      "ataque": 0.185,
      "defensa": 0.32,
      "neto": 0.505,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.253,
      "defensa": 0.304,
      "neto": 0.556,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "forma_local": {
@@ -1864,7 +1864,7 @@
     "prob_2": 0.251,
     "goles_esperados": [
      1.65,
-     1.111
+     1.11
     ],
     "prob_over_2_5": 0.521,
     "prob_btts": 0.547,
@@ -1895,13 +1895,13 @@
      "ataque": 0.057,
      "defensa": 0.186,
      "neto": 0.243,
-     "peso": 46.8,
+     "peso": 46.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.184,
      "defensa": -0.048,
-     "neto": 0.136,
+     "neto": 0.135,
      "peso": 47.7,
      "fiable": true
     },

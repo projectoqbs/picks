@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-03",
- "actualizado": "2026-10-30T11:56:03+00:00",
+ "actualizado": "2026-10-30T18:57:29+00:00",
  "partidos": [
   {
    "id": 575377,
@@ -16,18 +16,18 @@
     "prob_2": 0.42,
     "goles_esperados": [
      1.184,
-     1.352
+     1.353
     ],
-    "prob_over_2_5": 0.465,
+    "prob_over_2_5": 0.466,
     "prob_btts": 0.501,
     "marcadores": [
      [
       "0-1",
-      0.1203
+      0.1202
      ],
      [
       "1-1",
-      0.1136
+      0.1135
      ],
      [
       "1-0",
@@ -52,9 +52,9 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.107,
+     "ataque": 0.108,
      "defensa": 0.306,
-     "neto": 0.413,
+     "neto": 0.414,
      "peso": 12.4,
      "fiable": true
     },
@@ -112,15 +112,15 @@
     "prob_X": 0.211,
     "prob_2": 0.371,
     "goles_esperados": [
-     1.665,
+     1.666,
      1.555
     ],
-    "prob_over_2_5": 0.624,
+    "prob_over_2_5": 0.625,
     "prob_btts": 0.629,
     "marcadores": [
      [
       "1-1",
-      0.0927
+      0.0926
      ],
      [
       "2-1",
@@ -139,7 +139,7 @@
     "resumen": "Partido parejo. se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'VfB Stuttgart' solo tiene 5.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'VfB Stuttgart' solo tiene 4.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.09,
@@ -152,7 +152,7 @@
      "ataque": 0.068,
      "defensa": 0.181,
      "neto": 0.248,
-     "peso": 5.0,
+     "peso": 4.9,
      "fiable": false
     },
     "forma_local": {
@@ -212,10 +212,10 @@
     "prob_X": 0.217,
     "prob_2": 0.426,
     "goles_esperados": [
-     1.446,
+     1.447,
      1.606
     ],
-    "prob_over_2_5": 0.588,
+    "prob_over_2_5": 0.589,
     "prob_btts": 0.6,
     "marcadores": [
      [
@@ -343,7 +343,7 @@
      ],
      [
       "1-2",
-      0.0665
+      0.0664
      ]
     ],
     "cuotas_justas": [
@@ -357,7 +357,7 @@
    "nota": "pocos datos: 'Aston Villa FC' solo tiene 6.3 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.627,
+     "ataque": 0.626,
      "defensa": 0.102,
      "neto": 0.728,
      "peso": 15.2,
@@ -365,7 +365,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.434,
-     "defensa": 0.448,
+     "defensa": 0.447,
      "neto": 0.881,
      "peso": 6.3,
      "fiable": false
@@ -428,7 +428,7 @@
     "prob_2": 0.438,
     "goles_esperados": [
      1.869,
-     2.047
+     2.048
     ],
     "prob_over_2_5": 0.749,
     "prob_btts": 0.729,
@@ -724,7 +724,7 @@
     "prob_X": 0.167,
     "prob_2": 0.239,
     "goles_esperados": [
-     2.687,
+     2.688,
      1.696
     ],
     "prob_over_2_5": 0.813,
@@ -755,7 +755,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.203,
-     "defensa": -0.119,
+     "defensa": -0.118,
      "neto": 0.084,
      "peso": 9.6,
      "fiable": true
@@ -824,7 +824,7 @@
     "prob_X": 0.082,
     "prob_2": 0.068,
     "goles_esperados": [
-     4.039,
+     4.037,
      1.234
     ],
     "prob_over_2_5": 0.896,
@@ -845,8 +845,8 @@
     ],
     "cuotas_justas": [
      1.18,
-     12.22,
-     14.77
+     12.21,
+     14.75
     ],
     "resumen": "Gana LASK Linz (claro favorito, 85%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -854,7 +854,7 @@
    "nota": "pocos datos: 'LASK Linz' solo tiene 2.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.298,
+     "ataque": 0.297,
      "defensa": -0.391,
      "neto": -0.093,
      "peso": 2.9,
@@ -862,9 +862,9 @@
     },
     "fuerza_visitante": {
      "ataque": -0.484,
-     "defensa": -0.498,
-     "neto": -0.982,
-     "peso": 5.0,
+     "defensa": -0.497,
+     "neto": -0.981,
+     "peso": 4.9,
      "fiable": false
     },
     "forma_local": {

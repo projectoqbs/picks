@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-07",
- "actualizado": "2026-10-30T11:56:03+00:00",
+ "actualizado": "2026-10-30T18:57:29+00:00",
  "partidos": [
   {
    "id": 560632,
@@ -16,7 +16,7 @@
     "prob_2": 0.264,
     "goles_esperados": [
      1.523,
-     1.105
+     1.106
     ],
     "prob_over_2_5": 0.489,
     "prob_btts": 0.535,
@@ -27,7 +27,7 @@
      ],
      [
       "1-0",
-      0.0981
+      0.098
      ],
      [
       "2-1",
@@ -45,7 +45,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.007,
-     "defensa": 0.169,
+     "defensa": 0.168,
      "neto": 0.162,
      "peso": 29.2,
      "fiable": true
@@ -53,7 +53,7 @@
     "fuerza_visitante": {
      "ataque": 0.045,
      "defensa": -0.035,
-     "neto": 0.01,
+     "neto": 0.011,
      "peso": 45.7,
      "fiable": true
     },
@@ -103,7 +103,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Leeds United FC es más fuerte de fondo (neto +0.16 vs +0.01): encaja ~16% menos. Leeds United FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.52 – 1.10; el modelo ve marcando más a Leeds United FC. Pero ojo: en forma reciente Tottenham Hotspur FC llega mejor que Leeds United FC, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Leeds United FC es más fuerte de fondo (neto +0.16 vs +0.01): encaja ~15% menos. Leeds United FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.52 – 1.11; el modelo ve marcando más a Leeds United FC. Pero ojo: en forma reciente Tottenham Hotspur FC llega mejor que Leeds United FC, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.736,
@@ -127,7 +127,7 @@
     "prob_2": 0.362,
     "goles_esperados": [
      1.746,
-     1.65
+     1.649
     ],
     "prob_over_2_5": 0.659,
     "prob_btts": 0.671,
@@ -233,7 +233,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1402
+      0.1401
      ],
      [
       "1-1",
@@ -264,7 +264,7 @@
      "ataque": -0.361,
      "defensa": -0.094,
      "neto": -0.455,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "forma_local": {
@@ -396,7 +396,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.432,
+     "ataque": 0.431,
      "defensa": -0.204,
      "neto": 0.228,
      "peso": 13.9,
@@ -513,7 +513,7 @@
      "ataque": -0.001,
      "defensa": -0.028,
      "neto": -0.029,
-     "peso": 41.0,
+     "peso": 40.9,
      "fiable": true
     },
     "forma_local": {
@@ -642,7 +642,7 @@
      "ataque": 0.295,
      "defensa": 0.374,
      "neto": 0.669,
-     "peso": 41.0,
+     "peso": 40.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -710,7 +710,7 @@
     "prob_2": 0.692,
     "goles_esperados": [
      1.204,
-     2.732
+     2.733
     ],
     "prob_over_2_5": 0.752,
     "prob_btts": 0.658,
@@ -860,7 +860,7 @@
      ],
      [
       "1-0",
-      0.0911
+      0.091
      ]
     ],
     "cuotas_justas": [
@@ -876,7 +876,7 @@
     "fuerza_local": {
      "ataque": -0.347,
      "defensa": 0.17,
-     "neto": -0.177,
+     "neto": -0.176,
      "peso": 6.6,
      "fiable": false
     },
@@ -937,19 +937,19 @@
    "local": "Arsenal FC",
    "visitante": "Hull City AFC",
    "prediccion": {
-    "prob_1": 0.602,
+    "prob_1": 0.601,
     "prob_X": 0.271,
     "prob_2": 0.128,
     "goles_esperados": [
-     1.571,
+     1.57,
      0.593
     ],
-    "prob_over_2_5": 0.368,
+    "prob_over_2_5": 0.367,
     "prob_btts": 0.365,
     "marcadores": [
      [
       "1-0",
-      0.1699
+      0.17
      ],
      [
       "2-0",
@@ -957,7 +957,7 @@
      ],
      [
       "0-0",
-      0.1253
+      0.1254
      ]
     ],
     "cuotas_justas": [
@@ -979,8 +979,8 @@
     },
     "fuerza_visitante": {
      "ataque": -0.114,
-     "defensa": 0.27,
-     "neto": 0.156,
+     "defensa": 0.271,
+     "neto": 0.157,
      "peso": 7.4,
      "fiable": false
     },
@@ -1022,7 +1022,7 @@
      "por_que": "Doble oportunidad: cubre que Arsenal FC no pierda. El escenario que queda afuera (gane Hull City AFC) es el menos probable (13%), así que el mercado se cumple ~87% de las veces.",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
-      "prob": 0.826
+      "prob": 0.827
      },
      "confianza": "baja"
     }
@@ -1052,11 +1052,11 @@
       0.1298
      ],
      [
-      "1-2",
+      "2-1",
       0.0836
      ],
      [
-      "2-1",
+      "1-2",
       0.0836
      ]
     ],
@@ -1070,10 +1070,10 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.051,
+     "ataque": -0.05,
      "defensa": 0.085,
      "neto": 0.035,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1177,10 +1177,10 @@
     "prob_2": 0.309,
     "goles_esperados": [
      1.259,
-     1.074
+     1.075
     ],
     "prob_over_2_5": 0.413,
-    "prob_btts": 0.477,
+    "prob_btts": 0.478,
     "marcadores": [
      [
       "1-1",
@@ -1311,7 +1311,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.115,
+     "ataque": 0.114,
      "defensa": 0.112,
      "neto": 0.227,
      "peso": 26.9,
@@ -1425,7 +1425,7 @@
      "ataque": 0.125,
      "defensa": 0.112,
      "neto": 0.237,
-     "peso": 47.1,
+     "peso": 47.0,
      "fiable": true
     },
     "forma_local": {
@@ -1543,7 +1543,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.301,
+     "ataque": 0.3,
      "defensa": 0.092,
      "neto": 0.392,
      "peso": 41.0,
@@ -1688,7 +1688,7 @@
      "ataque": 0.057,
      "defensa": 0.186,
      "neto": 0.243,
-     "peso": 46.8,
+     "peso": 46.7,
      "fiable": true
     },
     "forma_local": {
@@ -1816,14 +1816,14 @@
      "ataque": -0.032,
      "defensa": 0.11,
      "neto": 0.078,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.45,
      "defensa": 0.363,
      "neto": 0.813,
-     "peso": 45.8,
+     "peso": 45.7,
      "fiable": true
     },
     "forma_local": {
@@ -1912,12 +1912,12 @@
    "local": "Paris Saint-Germain FC",
    "visitante": "ES Troyes AC",
    "prediccion": {
-    "prob_1": 0.884,
+    "prob_1": 0.883,
     "prob_X": 0.086,
     "prob_2": 0.03,
     "goles_esperados": [
-     3.247,
-     0.523
+     3.246,
+     0.524
     ],
     "prob_over_2_5": 0.726,
     "prob_btts": 0.394,
@@ -1928,7 +1928,7 @@
      ],
      [
       "2-0",
-      0.1215
+      0.1216
      ],
      [
       "4-0",
@@ -1937,8 +1937,8 @@
     ],
     "cuotas_justas": [
      1.13,
-     11.57,
-     33.38
+     11.56,
+     33.35
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 88%). se esperan goles (+2.5).",
     "confianza": "baja"
@@ -1949,7 +1949,7 @@
      "ataque": 0.529,
      "defensa": 0.413,
      "neto": 0.942,
-     "peso": 41.7,
+     "peso": 41.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1993,7 +1993,7 @@
     "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.94 vs -0.69): ataca ~70% más que el promedio, encaja ~34% menos. Paris Saint-Germain FC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 3.25 – 0.52; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (5G-0E-0P vs 0G-1E-4P). El modelo tiene pocos datos de ES Troyes AC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.884,
+     "prob": 0.883,
      "por_que": "Paris Saint-Germain FC es favorito en casa: marca más (3.25 vs 0.52) y es más fuerte de fondo (neto +0.94 vs -0.69). Probabilidad: 88%.",
      "alternativa": {
       "mercado": "1X",
@@ -2048,14 +2048,14 @@
      "ataque": 0.369,
      "defensa": 0.363,
      "neto": 0.732,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.064,
      "defensa": -0.195,
      "neto": -0.13,
-     "peso": 36.0,
+     "peso": 35.9,
      "fiable": true
     },
     "forma_local": {
@@ -2176,7 +2176,7 @@
      "ataque": -0.101,
      "defensa": 0.021,
      "neto": -0.08,
-     "peso": 47.8,
+     "peso": 47.7,
      "fiable": true
     },
     "fuerza_visitante": {
