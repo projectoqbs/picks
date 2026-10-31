@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-06",
- "actualizado": "2026-10-31T11:29:28+00:00",
+ "actualizado": "2026-10-31T18:05:56+00:00",
  "partidos": [
   {
    "id": 565852,
@@ -11,50 +11,50 @@
    "local": "Hamburger SV",
    "visitante": "Borussia Mönchengladbach",
    "prediccion": {
-    "prob_1": 0.397,
-    "prob_X": 0.263,
-    "prob_2": 0.34,
+    "prob_1": 0.396,
+    "prob_X": 0.266,
+    "prob_2": 0.338,
     "goles_esperados": [
-     1.48,
-     1.353
+     1.46,
+     1.332
     ],
-    "prob_over_2_5": 0.538,
-    "prob_btts": 0.579,
+    "prob_over_2_5": 0.529,
+    "prob_btts": 0.572,
     "marcadores": [
      [
       "1-1",
-      0.1241
+      0.126
      ],
      [
       "2-1",
-      0.0872
+      0.087
      ],
      [
       "1-0",
-      0.0808
+      0.0827
      ]
     ],
     "cuotas_justas": [
-     2.52,
-     3.8,
-     2.94
+     2.53,
+     3.76,
+     2.96
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.214,
-     "defensa": -0.05,
-     "neto": -0.264,
+     "ataque": -0.204,
+     "defensa": -0.052,
+     "neto": -0.256,
      "peso": 26.2,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.009,
-     "defensa": -0.114,
+     "ataque": -0.02,
+     "defensa": -0.103,
      "neto": -0.123,
-     "peso": 40.9,
+     "peso": 41.9,
      "fiable": true
     },
     "forma_local": {
@@ -75,16 +75,16 @@
     "forma_visitante": {
      "pj": 5,
      "g": 1,
-     "e": 0,
-     "p": 4,
+     "e": 1,
+     "p": 3,
      "gf": 8,
-     "gc": 15,
+     "gc": 10,
      "racha": [
       "P",
       "P",
       "P",
-      "P",
-      "G"
+      "G",
+      "E"
      ]
     },
     "cara_a_cara": [
@@ -103,14 +103,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Borussia Mönchengladbach es más fuerte de fondo (neto -0.12 vs -0.26): es más completo en general. Hamburger SV juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.48 – 1.35; el modelo ve marcando más a Hamburger SV. Pero ojo: en forma reciente Hamburger SV llega mejor que Borussia Mönchengladbach, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Borussia Mönchengladbach es más fuerte de fondo (neto -0.12 vs -0.26): es más completo en general. Hamburger SV juega en casa (~+25% de ventaja, ya contada). Goles esperados: 1.46 – 1.33; el modelo ve marcando más a Hamburger SV. Pero ojo: en forma reciente Hamburger SV llega mejor que Borussia Mönchengladbach, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
-     "prob": 0.579,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.48 y 1.35. Probabilidad: 58%.",
+     "prob": 0.572,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.46 y 1.33. Probabilidad: 57%.",
      "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.781
+      "mercado": "X2",
+      "prob": 0.604
      },
      "confianza": "alta"
     }
@@ -168,7 +168,7 @@
      "ataque": -0.086,
      "defensa": -0.061,
      "neto": -0.148,
-     "peso": 46.9,
+     "peso": 46.8,
      "fiable": true
     },
     "forma_local": {
@@ -275,7 +275,7 @@
      "ataque": 0.048,
      "defensa": 0.083,
      "neto": 0.131,
-     "peso": 40.8,
+     "peso": 40.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -374,52 +374,51 @@
    "local": "Everton FC",
    "visitante": "Coventry City FC",
    "prediccion": {
-    "prob_1": 0.527,
-    "prob_X": 0.289,
-    "prob_2": 0.184,
+    "prob_1": 0.49,
+    "prob_X": 0.285,
+    "prob_2": 0.225,
     "goles_esperados": [
-     1.475,
-     0.771
+     1.473,
+     0.919
     ],
-    "prob_over_2_5": 0.39,
-    "prob_btts": 0.426,
+    "prob_over_2_5": 0.428,
+    "prob_btts": 0.474,
     "marcadores": [
      [
-      "1-0",
-      0.1443
+      "1-1",
+      0.1343
      ],
      [
-      "1-1",
-      0.1321
+      "1-0",
+      0.1242
      ],
      [
       "0-0",
-      0.1176
+      0.102
      ]
     ],
     "cuotas_justas": [
-     1.9,
-     3.47,
-     5.43
+     2.04,
+     3.51,
+     4.45
     ],
-    "resumen": "Gana Everton FC (ligero favorito, 53%). pocos goles (-2.5).",
-    "confianza": "baja"
+    "resumen": "Gana Everton FC (ligero favorito, 49%).",
+    "confianza": "alta"
    },
-   "nota": "pocos datos: 'Coventry City FC' solo tiene 7.4 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.124,
-     "defensa": 0.179,
-     "neto": 0.055,
+     "ataque": -0.13,
+     "defensa": 0.18,
+     "neto": 0.05,
      "peso": 45.6,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.305,
-     "defensa": -0.119,
-     "neto": -0.424,
-     "peso": 7.4,
-     "fiable": false
+     "ataque": -0.135,
+     "defensa": -0.112,
+     "neto": -0.247,
+     "peso": 8.4,
+     "fiable": true
     },
     "forma_local": {
      "pj": 5,
@@ -438,30 +437,30 @@
     },
     "forma_visitante": {
      "pj": 5,
-     "g": 2,
+     "g": 3,
      "e": 0,
-     "p": 3,
-     "gf": 6,
-     "gc": 10,
+     "p": 2,
+     "gf": 9,
+     "gc": 6,
      "racha": [
-      "P",
       "G",
       "G",
       "P",
-      "P"
+      "P",
+      "G"
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Everton FC es más fuerte de fondo (neto +0.06 vs -0.42): encaja ~16% menos. Everton FC juega en casa (~+18% de ventaja, ya contada). Goles esperados: 1.48 – 0.77; el modelo ve marcando más a Everton FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Coventry City FC: tomalo con pinzas.",
+    "explicacion": "Everton FC es más fuerte de fondo (neto +0.05 vs -0.25): encaja ~16% menos. Everton FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.47 – 0.92; el modelo ve marcando más a Everton FC. Pero ojo: en forma reciente Coventry City FC llega mejor que Everton FC, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.816,
-     "por_que": "Doble oportunidad: cubre que Everton FC no pierda. El escenario que queda afuera (gane Coventry City FC) es el menos probable (18%), así que el mercado se cumple ~82% de las veces.",
+     "prob": 0.775,
+     "por_que": "Doble oportunidad: cubre que Everton FC no pierda. El escenario que queda afuera (gane Coventry City FC) es el menos probable (22%), así que el mercado se cumple ~78% de las veces.",
      "alternativa": {
-      "mercado": "Menos de 3.5 goles",
-      "prob": 0.81
+      "mercado": "Menos de 2.5 goles",
+      "prob": 0.572
      },
-     "confianza": "baja"
+     "confianza": "alta"
     }
    }
   },
@@ -474,14 +473,14 @@
    "local": "Sevilla FC",
    "visitante": "Deportivo Alavés",
    "prediccion": {
-    "prob_1": 0.45,
+    "prob_1": 0.451,
     "prob_X": 0.273,
     "prob_2": 0.277,
     "goles_esperados": [
-     1.443,
-     1.077
+     1.445,
+     1.076
     ],
-    "prob_over_2_5": 0.461,
+    "prob_over_2_5": 0.462,
     "prob_btts": 0.508,
     "marcadores": [
      [
@@ -494,7 +493,7 @@
      ],
      [
       "2-1",
-      0.0902
+      0.0903
      ]
     ],
     "cuotas_justas": [
@@ -510,13 +509,13 @@
      "ataque": 0.042,
      "defensa": -0.035,
      "neto": 0.007,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.068,
      "defensa": 0.069,
-     "neto": 0.0,
+     "neto": 0.001,
      "peso": 47.6,
      "fiable": true
     },
@@ -587,7 +586,7 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.01 vs +0.00). Sevilla FC juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.44 – 1.08; el modelo ve marcando más a Sevilla FC. En forma reciente pinta algo mejor Sevilla FC (2G-1E-2P vs 0G-2E-3P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.01 vs +0.00). Sevilla FC juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.45 – 1.08; el modelo ve marcando más a Sevilla FC. En forma reciente pinta algo mejor Sevilla FC (2G-1E-2P vs 0G-2E-3P en 5).",
     "recomendacion": null
    }
   }

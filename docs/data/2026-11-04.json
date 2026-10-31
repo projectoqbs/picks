@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-04",
- "actualizado": "2026-10-31T11:29:28+00:00",
+ "actualizado": "2026-10-31T18:05:56+00:00",
  "partidos": [
   {
    "id": 575386,
@@ -94,7 +94,7 @@
      "por_que": "El modelo ve a Real Madrid CF marcando más que PAE AEK pese a la localía (3.10 vs 1.20), y lo respalda una diferencia de fuerza clara (neto +0.70 vs -0.54). Probabilidad del modelo: 75%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.923
+      "prob": 0.922
      },
      "confianza": "baja"
     }
@@ -463,7 +463,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.118,
+     "ataque": 0.117,
      "defensa": 0.056,
      "neto": 0.173,
      "peso": 11.4,
@@ -565,7 +565,7 @@
     "fuerza_local": {
      "ataque": 0.178,
      "defensa": 0.163,
-     "neto": 0.342,
+     "neto": 0.341,
      "peso": 14.2,
      "fiable": true
     },
@@ -859,7 +859,7 @@
    "nota": "pocos datos: 'Sabah FK' solo tiene 2.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.26,
+     "ataque": 0.259,
      "defensa": -0.151,
      "neto": 0.108,
      "peso": 2.9,
