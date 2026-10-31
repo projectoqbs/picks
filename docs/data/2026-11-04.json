@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-04",
- "actualizado": "2026-10-30T18:57:29+00:00",
+ "actualizado": "2026-10-31T11:29:28+00:00",
  "partidos": [
   {
    "id": 575386,
@@ -113,7 +113,7 @@
     "prob_X": 0.122,
     "prob_2": 0.778,
     "goles_esperados": [
-     0.975,
+     0.976,
      2.941
     ],
     "prob_over_2_5": 0.749,
@@ -125,7 +125,7 @@
      ],
      [
       "0-3",
-      0.0845
+      0.0844
      ],
      [
       "1-2",
@@ -133,7 +133,7 @@
      ]
     ],
     "cuotas_justas": [
-     9.97,
+     9.96,
      8.21,
      1.29
     ],
@@ -145,14 +145,14 @@
     "fuerza_local": {
      "ataque": -0.309,
      "defensa": -0.407,
-     "neto": -0.716,
+     "neto": -0.715,
      "peso": 2.9,
      "fiable": false
     },
     "fuerza_visitante": {
      "ataque": 0.369,
      "defensa": 0.317,
-     "neto": 0.686,
+     "neto": 0.685,
      "peso": 12.4,
      "fiable": true
     },
@@ -185,11 +185,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.69 vs -0.72): ataca ~45% más que el promedio, encaja ~27% menos. Fenerbahçe SK juega en casa (~+35% de ventaja, ya contada). Goles esperados: 0.97 – 2.94; el modelo ve marcando más a Liverpool FC. Y la forma reciente lo confirma: Liverpool FC llega mejor (3G-0E-2P vs 0G-2E-1P). El modelo tiene pocos datos de Fenerbahçe SK: tomalo con pinzas.",
+    "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.69 vs -0.71): ataca ~45% más que el promedio, encaja ~27% menos. Fenerbahçe SK juega en casa (~+35% de ventaja, ya contada). Goles esperados: 0.98 – 2.94; el modelo ve marcando más a Liverpool FC. Y la forma reciente lo confirma: Liverpool FC llega mejor (3G-0E-2P vs 0G-2E-1P). El modelo tiene pocos datos de Fenerbahçe SK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "2",
      "prob": 0.778,
-     "por_que": "El modelo ve a Liverpool FC marcando más que Fenerbahçe SK pese a la localía (2.94 vs 0.97), y lo respalda una diferencia de fuerza clara (neto +0.69 vs -0.72). Probabilidad del modelo: 78%.",
+     "por_que": "El modelo ve a Liverpool FC marcando más que Fenerbahçe SK pese a la localía (2.94 vs 0.98), y lo respalda una diferencia de fuerza clara (neto +0.69 vs -0.71). Probabilidad del modelo: 78%.",
      "alternativa": {
       "mercado": "X2",
       "prob": 0.9
@@ -211,7 +211,7 @@
     "prob_X": 0.21,
     "prob_2": 0.486,
     "goles_esperados": [
-     1.339,
+     1.34,
      1.766
     ],
     "prob_over_2_5": 0.6,
@@ -227,7 +227,7 @@
      ],
      [
       "0-1",
-      0.0902
+      0.0901
      ]
     ],
     "cuotas_justas": [
@@ -327,7 +327,7 @@
     "prob_2": 0.839,
     "goles_esperados": [
      0.551,
-     2.769
+     2.768
     ],
     "prob_over_2_5": 0.644,
     "prob_btts": 0.391,
@@ -346,7 +346,7 @@
      ]
     ],
     "cuotas_justas": [
-     17.93,
+     17.92,
      9.54,
      1.19
     ],
@@ -450,7 +450,7 @@
      ],
      [
       "1-1",
-      0.0655
+      0.0656
      ]
     ],
     "cuotas_justas": [
@@ -471,7 +471,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.319,
-     "defensa": -0.076,
+     "defensa": -0.077,
      "neto": 0.242,
      "peso": 11.6,
      "fiable": true
@@ -549,7 +549,7 @@
      ],
      [
       "1-0",
-      0.0786
+      0.0785
      ]
     ],
     "cuotas_justas": [
@@ -563,10 +563,10 @@
    "nota": "pocos datos: 'Real Betis Balompié' solo tiene 2.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.179,
+     "ataque": 0.178,
      "defensa": 0.163,
      "neto": 0.342,
-     "peso": 14.3,
+     "peso": 14.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -632,7 +632,7 @@
     "prob_2": 0.28,
     "goles_esperados": [
      1.713,
-     1.2
+     1.201
     ],
     "prob_over_2_5": 0.557,
     "prob_btts": 0.561,
@@ -728,11 +728,11 @@
    "visitante": "Como 1907",
    "prediccion": {
     "prob_1": 0.209,
-    "prob_X": 0.162,
+    "prob_X": 0.163,
     "prob_2": 0.628,
     "goles_esperados": [
      1.519,
-     2.676
+     2.675
     ],
     "prob_over_2_5": 0.789,
     "prob_btts": 0.721,
@@ -751,8 +751,8 @@
      ]
     ],
     "cuotas_justas": [
-     4.78,
-     6.16,
+     4.77,
+     6.15,
      1.59
     ],
     "resumen": "Gana Como 1907 (claro favorito, 63%). se esperan goles (+2.5). ambos marcan.",
@@ -803,11 +803,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.44 vs -0.43): ataca ~67% más que el promedio. Racing Club de Lens juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.52 – 2.68; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (2G-0E-1P vs 2G-0E-3P). El modelo tiene pocos datos de Racing Club de Lens: tomalo con pinzas.",
+    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.44 vs -0.43): ataca ~67% más que el promedio. Racing Club de Lens juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.52 – 2.67; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (2G-0E-1P vs 2G-0E-3P). El modelo tiene pocos datos de Racing Club de Lens: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.789,
-     "por_que": "Bastantes goles esperados (1.52 + 2.68 = 4.20); al menos una defensa floja. Probabilidad al over: 79%.",
+     "por_que": "Bastantes goles esperados (1.52 + 2.67 = 4.19); al menos una defensa floja. Probabilidad al over: 79%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.915
@@ -829,7 +829,7 @@
     "prob_X": 0.137,
     "prob_2": 0.132,
     "goles_esperados": [
-     2.857,
+     2.856,
      1.154
     ],
     "prob_over_2_5": 0.763,
@@ -837,7 +837,7 @@
     "marcadores": [
      [
       "2-1",
-      0.0853
+      0.0854
      ],
      [
       "3-1",
@@ -851,7 +851,7 @@
     "cuotas_justas": [
      1.37,
      7.3,
-     7.58
+     7.57
     ],
     "resumen": "Gana Viking FK (claro favorito, 73%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -861,7 +861,7 @@
     "fuerza_local": {
      "ataque": 0.26,
      "defensa": -0.151,
-     "neto": 0.109,
+     "neto": 0.108,
      "peso": 2.9,
      "fiable": false
     },

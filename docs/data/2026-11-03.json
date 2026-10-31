@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-03",
- "actualizado": "2026-10-30T18:57:29+00:00",
+ "actualizado": "2026-10-31T11:29:28+00:00",
  "partidos": [
   {
    "id": 575377,
@@ -52,9 +52,9 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.108,
+     "ataque": 0.107,
      "defensa": 0.306,
-     "neto": 0.414,
+     "neto": 0.413,
      "peso": 12.4,
      "fiable": true
     },
@@ -144,7 +144,7 @@
     "fuerza_local": {
      "ataque": 0.09,
      "defensa": -0.071,
-     "neto": 0.02,
+     "neto": 0.019,
      "peso": 10.3,
      "fiable": true
     },
@@ -212,7 +212,7 @@
     "prob_X": 0.217,
     "prob_2": 0.426,
     "goles_esperados": [
-     1.447,
+     1.446,
      1.606
     ],
     "prob_over_2_5": 0.589,
@@ -239,13 +239,13 @@
     "resumen": "Gana FC Internazionale Milano (ligero favorito, 43%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Feyenoord Rotterdam' solo tiene 7.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Feyenoord Rotterdam' solo tiene 6.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.042,
      "defensa": -0.098,
      "neto": -0.056,
-     "peso": 7.0,
+     "peso": 6.9,
      "fiable": false
     },
     "fuerza_visitante": {
@@ -327,11 +327,11 @@
     "prob_X": 0.189,
     "prob_2": 0.35,
     "goles_esperados": [
-     2.181,
+     2.182,
      1.888
     ],
     "prob_over_2_5": 0.772,
-    "prob_btts": 0.745,
+    "prob_btts": 0.746,
     "marcadores": [
      [
       "2-1",
@@ -456,14 +456,14 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.359,
+     "ataque": 0.358,
      "defensa": 0.222,
      "neto": 0.581,
      "peso": 16.5,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.636,
+     "ataque": 0.635,
      "defensa": 0.334,
      "neto": 0.969,
      "peso": 16.9,
@@ -527,7 +527,7 @@
     "prob_2": 0.82,
     "goles_esperados": [
      1.261,
-     3.749
+     3.748
     ],
     "prob_over_2_5": 0.876,
     "prob_btts": 0.697,
@@ -546,8 +546,8 @@
      ]
     ],
     "cuotas_justas": [
-     11.84,
-     10.45,
+     11.83,
+     10.44,
      1.22
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 82%). se esperan goles (+2.5). ambos marcan.",
@@ -566,7 +566,7 @@
      "ataque": 0.741,
      "defensa": 0.353,
      "neto": 1.094,
-     "peso": 20.0,
+     "peso": 19.9,
      "fiable": true
     },
     "forma_local": {
@@ -724,7 +724,7 @@
     "prob_X": 0.167,
     "prob_2": 0.239,
     "goles_esperados": [
-     2.688,
+     2.687,
      1.696
     ],
     "prob_over_2_5": 0.813,
@@ -754,14 +754,14 @@
    "nota": "pocos datos: 'Lille OSC' solo tiene 5.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.203,
+     "ataque": 0.202,
      "defensa": -0.118,
      "neto": 0.084,
      "peso": 9.6,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.107,
+     "ataque": 0.106,
      "defensa": -0.185,
      "neto": -0.079,
      "peso": 5.6,
@@ -798,7 +798,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "FK Bodø/Glimt es más fuerte de fondo (neto +0.08 vs -0.08): ataca ~23% más que el promedio. FK Bodø/Glimt juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.69 – 1.70; el modelo ve marcando más a FK Bodø/Glimt. Y la forma reciente lo confirma: FK Bodø/Glimt llega mejor (2G-0E-3P vs 0G-1E-4P). El modelo tiene pocos datos de Lille OSC: tomalo con pinzas.",
+    "explicacion": "FK Bodø/Glimt es más fuerte de fondo (neto +0.08 vs -0.08): ataca ~22% más que el promedio. FK Bodø/Glimt juega en casa (~+35% de ventaja, ya contada). Goles esperados: 2.69 – 1.70; el modelo ve marcando más a FK Bodø/Glimt. Y la forma reciente lo confirma: FK Bodø/Glimt llega mejor (2G-0E-3P vs 0G-1E-4P). El modelo tiene pocos datos de Lille OSC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.813,
@@ -840,13 +840,13 @@
      ],
      [
       "4-0",
-      0.0571
+      0.057
      ]
     ],
     "cuotas_justas": [
      1.18,
-     12.21,
-     14.75
+     12.2,
+     14.74
     ],
     "resumen": "Gana LASK Linz (claro favorito, 85%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -855,7 +855,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.297,
-     "defensa": -0.391,
+     "defensa": -0.39,
      "neto": -0.093,
      "peso": 2.9,
      "fiable": false
