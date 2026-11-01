@@ -1,92 +1,12 @@
 {
- "actualizado": "2026-10-31T18:05:52+00:00",
+ "actualizado": "2026-11-01T12:25:15+00:00",
  "fixtures": [
-  {
-   "id": 558542,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-10-31T17:00:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 10,
-   "local": "Udinese Calcio",
-   "visitante": "AS Roma"
-  },
-  {
-   "id": 560627,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-10-31T17:30:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 9,
-   "local": "Tottenham Hotspur FC",
-   "visitante": "Crystal Palace FC"
-  },
-  {
-   "id": 564736,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-10-31T17:30:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 11,
-   "local": "Real Betis Balompié",
-   "visitante": "Málaga CF"
-  },
-  {
-   "id": 565845,
-   "competicion_codigo": "BL1",
-   "competicion": "Bundesliga",
-   "fecha_utc": "2026-10-31T17:30:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 8,
-   "local": "FC Bayern München",
-   "visitante": "Borussia Dortmund"
-  },
-  {
-   "id": 558548,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-10-31T19:45:00Z",
-   "estado": "TIMED",
-   "jornada": 10,
-   "local": "AC Milan",
-   "visitante": "FC Internazionale Milano"
-  },
-  {
-   "id": 559643,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-10-31T19:45:00Z",
-   "estado": "TIMED",
-   "jornada": 9,
-   "local": "ES Troyes AC",
-   "visitante": "Le Mans FC"
-  },
-  {
-   "id": 560628,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-10-31T20:00:00Z",
-   "estado": "TIMED",
-   "jornada": 9,
-   "local": "Aston Villa FC",
-   "visitante": "Fulham FC"
-  },
-  {
-   "id": 564732,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-10-31T20:00:00Z",
-   "estado": "TIMED",
-   "jornada": 11,
-   "local": "FC Barcelona",
-   "visitante": "Deportivo Alavés"
-  },
   {
    "id": 558543,
    "competicion_codigo": "SA",
    "competicion": "Serie A",
    "fecha_utc": "2026-11-01T11:30:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 10,
    "local": "Como 1907",
    "visitante": "Venezia FC"

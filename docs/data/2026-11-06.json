@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-06",
- "actualizado": "2026-10-31T18:05:56+00:00",
+ "actualizado": "2026-11-01T12:25:17+00:00",
  "partidos": [
   {
    "id": 565852,
@@ -11,12 +11,12 @@
    "local": "Hamburger SV",
    "visitante": "Borussia Mönchengladbach",
    "prediccion": {
-    "prob_1": 0.396,
+    "prob_1": 0.395,
     "prob_X": 0.266,
     "prob_2": 0.338,
     "goles_esperados": [
-     1.46,
-     1.332
+     1.459,
+     1.333
     ],
     "prob_over_2_5": 0.529,
     "prob_btts": 0.572,
@@ -31,7 +31,7 @@
      ],
      [
       "1-0",
-      0.0827
+      0.0826
      ]
     ],
     "cuotas_justas": [
@@ -45,16 +45,16 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.204,
-     "defensa": -0.052,
-     "neto": -0.256,
+     "defensa": -0.051,
+     "neto": -0.255,
      "peso": 26.2,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.02,
-     "defensa": -0.103,
+     "ataque": -0.021,
+     "defensa": -0.102,
      "neto": -0.123,
-     "peso": 41.9,
+     "peso": 41.8,
      "fiable": true
     },
     "forma_local": {
@@ -110,7 +110,7 @@
      "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.46 y 1.33. Probabilidad: 57%.",
      "alternativa": {
       "mercado": "X2",
-      "prob": 0.604
+      "prob": 0.605
      },
      "confianza": "alta"
     }
@@ -125,50 +125,50 @@
    "local": "Venezia FC",
    "visitante": "Udinese Calcio",
    "prediccion": {
-    "prob_1": 0.277,
-    "prob_X": 0.287,
-    "prob_2": 0.436,
+    "prob_1": 0.284,
+    "prob_X": 0.282,
+    "prob_2": 0.434,
     "goles_esperados": [
-     0.97,
-     1.29
+     1.011,
+     1.317
     ],
-    "prob_over_2_5": 0.393,
-    "prob_btts": 0.452,
+    "prob_over_2_5": 0.411,
+    "prob_btts": 0.468,
     "marcadores": [
      [
       "1-1",
-      0.133
+      0.1319
      ],
      [
       "0-1",
-      0.1323
+      0.1263
      ],
      [
       "0-0",
-      0.1068
+      0.0997
      ]
     ],
     "cuotas_justas": [
-     3.61,
-     3.49,
-     2.29
+     3.52,
+     3.55,
+     2.3
     ],
-    "resumen": "Gana Udinese Calcio (ligero favorito, 44%). pocos goles (-2.5).",
+    "resumen": "Gana Udinese Calcio (ligero favorito, 43%). pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.357,
-     "defensa": -0.173,
+     "ataque": -0.359,
+     "defensa": -0.171,
      "neto": -0.53,
-     "peso": 19.4,
+     "peso": 19.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.086,
-     "defensa": -0.061,
-     "neto": -0.148,
-     "peso": 46.8,
+     "ataque": -0.066,
+     "defensa": -0.102,
+     "neto": -0.168,
+     "peso": 47.8,
      "fiable": true
     },
     "forma_local": {
@@ -191,14 +191,14 @@
      "g": 0,
      "e": 1,
      "p": 4,
-     "gf": 1,
-     "gc": 8,
+     "gf": 3,
+     "gc": 12,
      "racha": [
       "P",
       "P",
       "P",
-      "P",
-      "E"
+      "E",
+      "P"
      ]
     },
     "cara_a_cara": [
@@ -217,14 +217,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Udinese Calcio es más fuerte de fondo (neto -0.15 vs -0.53): es más completo en general. Venezia FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.97 – 1.29; el modelo ve marcando más a Udinese Calcio. Pero ojo: en forma reciente Venezia FC llega mejor que Udinese Calcio, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Udinese Calcio es más fuerte de fondo (neto -0.17 vs -0.53): es más completo en general. Venezia FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.01 – 1.32; el modelo ve marcando más a Udinese Calcio. Pero ojo: en forma reciente Venezia FC llega mejor que Udinese Calcio, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.723,
+     "prob": 0.716,
      "por_que": "Doble oportunidad: cubre que Venezia FC no gane. El escenario que queda afuera (gane Venezia FC) es el menos probable (28%), así que el mercado se cumple ~72% de las veces.",
      "alternativa": {
       "mercado": "Menos de 2.5 goles",
-      "prob": 0.607
+      "prob": 0.589
      },
      "confianza": "alta"
     }
@@ -243,15 +243,15 @@
     "prob_X": 0.254,
     "prob_2": 0.327,
     "goles_esperados": [
-     1.588,
-     1.379
+     1.591,
+     1.381
     ],
-    "prob_over_2_5": 0.569,
+    "prob_over_2_5": 0.57,
     "prob_btts": 0.601,
     "marcadores": [
      [
       "1-1",
-      0.1181
+      0.1179
      ],
      [
       "2-1",
@@ -263,7 +263,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.39,
+     2.38,
      3.94,
      3.06
     ],
@@ -272,16 +272,16 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.048,
-     "defensa": 0.083,
-     "neto": 0.131,
+     "ataque": 0.051,
+     "defensa": 0.079,
+     "neto": 0.13,
      "peso": 40.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.197,
-     "defensa": -0.008,
-     "neto": 0.189,
+     "ataque": 0.2,
+     "defensa": -0.009,
+     "neto": 0.191,
      "peso": 41.5,
      "fiable": true
     },
@@ -359,106 +359,7 @@
      "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.59 y 1.38. Probabilidad: 60%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.801
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 560634,
-   "competicion": "Premier League",
-   "competicion_codigo": "PL",
-   "fecha_utc": "2026-11-06T20:00:00Z",
-   "jornada": 10,
-   "local": "Everton FC",
-   "visitante": "Coventry City FC",
-   "prediccion": {
-    "prob_1": 0.49,
-    "prob_X": 0.285,
-    "prob_2": 0.225,
-    "goles_esperados": [
-     1.473,
-     0.919
-    ],
-    "prob_over_2_5": 0.428,
-    "prob_btts": 0.474,
-    "marcadores": [
-     [
-      "1-1",
-      0.1343
-     ],
-     [
-      "1-0",
-      0.1242
-     ],
-     [
-      "0-0",
-      0.102
-     ]
-    ],
-    "cuotas_justas": [
-     2.04,
-     3.51,
-     4.45
-    ],
-    "resumen": "Gana Everton FC (ligero favorito, 49%).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.13,
-     "defensa": 0.18,
-     "neto": 0.05,
-     "peso": 45.6,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.135,
-     "defensa": -0.112,
-     "neto": -0.247,
-     "peso": 8.4,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 1,
-     "e": 2,
-     "p": 2,
-     "gf": 3,
-     "gc": 6,
-     "racha": [
-      "E",
-      "G",
-      "E",
-      "P",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 3,
-     "e": 0,
-     "p": 2,
-     "gf": 9,
-     "gc": 6,
-     "racha": [
-      "G",
-      "G",
-      "P",
-      "P",
-      "G"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "Everton FC es más fuerte de fondo (neto +0.05 vs -0.25): encaja ~16% menos. Everton FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.47 – 0.92; el modelo ve marcando más a Everton FC. Pero ojo: en forma reciente Coventry City FC llega mejor que Everton FC, así que puede estar más cerca de lo que dice el neto.",
-    "recomendacion": {
-     "mercado": "1X",
-     "prob": 0.775,
-     "por_que": "Doble oportunidad: cubre que Everton FC no pierda. El escenario que queda afuera (gane Coventry City FC) es el menos probable (22%), así que el mercado se cumple ~78% de las veces.",
-     "alternativa": {
-      "mercado": "Menos de 2.5 goles",
-      "prob": 0.572
+      "prob": 0.802
      },
      "confianza": "alta"
     }
@@ -473,50 +374,50 @@
    "local": "Sevilla FC",
    "visitante": "Deportivo Alavés",
    "prediccion": {
-    "prob_1": 0.451,
-    "prob_X": 0.273,
-    "prob_2": 0.277,
+    "prob_1": 0.466,
+    "prob_X": 0.267,
+    "prob_2": 0.267,
     "goles_esperados": [
-     1.445,
-     1.076
+     1.505,
+     1.079
     ],
-    "prob_over_2_5": 0.462,
-    "prob_btts": 0.508,
+    "prob_over_2_5": 0.478,
+    "prob_btts": 0.518,
     "marcadores": [
      [
       "1-1",
-      0.1297
+      0.127
      ],
      [
       "1-0",
-      0.1114
+      0.1091
      ],
      [
       "2-1",
-      0.0903
+      0.0922
      ]
     ],
     "cuotas_justas": [
-     2.22,
-     3.67,
-     3.61
+     2.15,
+     3.75,
+     3.74
     ],
-    "resumen": "Gana Sevilla FC (ligero favorito, 45%).",
+    "resumen": "Gana Sevilla FC (ligero favorito, 47%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.042,
-     "defensa": -0.035,
+     "ataque": 0.041,
+     "defensa": -0.034,
      "neto": 0.007,
      "peso": 47.6,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.068,
-     "defensa": 0.069,
-     "neto": 0.001,
-     "peso": 47.6,
+     "ataque": -0.064,
+     "defensa": 0.028,
+     "neto": -0.035,
+     "peso": 48.5,
      "fiable": true
     },
     "forma_local": {
@@ -539,14 +440,14 @@
      "g": 0,
      "e": 2,
      "p": 3,
-     "gf": 3,
-     "gc": 6,
+     "gf": 4,
+     "gc": 11,
      "racha": [
-      "P",
       "E",
       "P",
       "P",
-      "E"
+      "E",
+      "P"
      ]
     },
     "cara_a_cara": [
@@ -586,8 +487,113 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.01 vs +0.00). Sevilla FC juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.45 – 1.08; el modelo ve marcando más a Sevilla FC. En forma reciente pinta algo mejor Sevilla FC (2G-1E-2P vs 0G-2E-3P en 5).",
-    "recomendacion": null
+    "explicacion": "En fuerza de temporada están parejos (neto +0.01 vs -0.04). Sevilla FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.50 – 1.08; el modelo ve marcando más a Sevilla FC. En forma reciente pinta algo mejor Sevilla FC (2G-1E-2P vs 0G-2E-3P en 5).",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.733,
+     "por_que": "Doble oportunidad: cubre que Sevilla FC no pierda. El escenario que queda afuera (gane Deportivo Alavés) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
+     "alternativa": null,
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 560634,
+   "competicion": "Premier League",
+   "competicion_codigo": "PL",
+   "fecha_utc": "2026-11-06T20:00:00Z",
+   "jornada": 10,
+   "local": "Everton FC",
+   "visitante": "Coventry City FC",
+   "prediccion": {
+    "prob_1": 0.49,
+    "prob_X": 0.286,
+    "prob_2": 0.224,
+    "goles_esperados": [
+     1.474,
+     0.919
+    ],
+    "prob_over_2_5": 0.428,
+    "prob_btts": 0.474,
+    "marcadores": [
+     [
+      "1-1",
+      0.1347
+     ],
+     [
+      "1-0",
+      0.1237
+     ],
+     [
+      "0-0",
+      0.1024
+     ]
+    ],
+    "cuotas_justas": [
+     2.04,
+     3.5,
+     4.46
+    ],
+    "resumen": "Gana Everton FC (ligero favorito, 49%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.129,
+     "defensa": 0.18,
+     "neto": 0.05,
+     "peso": 45.5,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.134,
+     "defensa": -0.111,
+     "neto": -0.245,
+     "peso": 8.4,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 3,
+     "gc": 6,
+     "racha": [
+      "E",
+      "G",
+      "E",
+      "P",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 9,
+     "gc": 6,
+     "racha": [
+      "G",
+      "G",
+      "P",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Everton FC es más fuerte de fondo (neto +0.05 vs -0.24): encaja ~16% menos. Everton FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.47 – 0.92; el modelo ve marcando más a Everton FC. Pero ojo: en forma reciente Coventry City FC llega mejor que Everton FC, así que puede estar más cerca de lo que dice el neto.",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.776,
+     "por_que": "Doble oportunidad: cubre que Everton FC no pierda. El escenario que queda afuera (gane Coventry City FC) es el menos probable (22%), así que el mercado se cumple ~78% de las veces.",
+     "alternativa": {
+      "mercado": "Menos de 2.5 goles",
+      "prob": 0.572
+     },
+     "confianza": "alta"
+    }
    }
   }
  ]
