@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-04",
- "actualizado": "2026-11-01T12:25:17+00:00",
+ "actualizado": "2026-11-01T18:42:39+00:00",
  "partidos": [
   {
    "id": 575386,
@@ -45,9 +45,9 @@
    "nota": "pocos datos: 'PAE AEK' solo tiene 2.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.276,
+     "ataque": -0.277,
      "defensa": -0.267,
-     "neto": -0.544,
+     "neto": -0.543,
      "peso": 2.8,
      "fiable": false
     },
@@ -55,7 +55,7 @@
      "ataque": 0.559,
      "defensa": 0.141,
      "neto": 0.7,
-     "peso": 16.9,
+     "peso": 16.8,
      "fiable": true
     },
     "forma_local": {
@@ -111,7 +111,7 @@
    "prediccion": {
     "prob_1": 0.101,
     "prob_X": 0.122,
-    "prob_2": 0.778,
+    "prob_2": 0.777,
     "goles_esperados": [
      0.976,
      2.94
@@ -129,7 +129,7 @@
      ],
      [
       "1-2",
-      0.084
+      0.0841
      ]
     ],
     "cuotas_justas": [
@@ -140,13 +140,13 @@
     "resumen": "Gana Liverpool FC (claro favorito, 78%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Fenerbahçe SK' solo tiene 2.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Fenerbahçe SK' solo tiene 2.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.309,
      "defensa": -0.406,
      "neto": -0.715,
-     "peso": 2.9,
+     "peso": 2.8,
      "fiable": false
     },
     "fuerza_visitante": {
@@ -188,7 +188,7 @@
     "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.69 vs -0.71): ataca ~45% más que el promedio, encaja ~27% menos. Fenerbahçe SK juega en casa (~+35% de ventaja, ya contada). Goles esperados: 0.98 – 2.94; el modelo ve marcando más a Liverpool FC. Y la forma reciente lo confirma: Liverpool FC llega mejor (3G-0E-2P vs 0G-2E-1P). El modelo tiene pocos datos de Fenerbahçe SK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "2",
-     "prob": 0.778,
+     "prob": 0.777,
      "por_que": "El modelo ve a Liverpool FC marcando más que Fenerbahçe SK pese a la localía (2.94 vs 0.98), y lo respalda una diferencia de fuerza clara (neto +0.69 vs -0.71). Probabilidad del modelo: 78%.",
      "alternativa": {
       "mercado": "X2",
@@ -242,7 +242,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.176,
-     "defensa": 0.004,
+     "defensa": 0.003,
      "neto": -0.172,
      "peso": 6.0,
      "fiable": false
@@ -555,7 +555,7 @@
     "cuotas_justas": [
      1.84,
      5.14,
-     3.82
+     3.81
     ],
     "resumen": "Gana Borussia Dortmund (ligero favorito, 54%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -572,7 +572,7 @@
     "fuerza_visitante": {
      "ataque": 0.16,
      "defensa": 0.068,
-     "neto": 0.227,
+     "neto": 0.228,
      "peso": 2.8,
      "fiable": false
     },
@@ -661,7 +661,7 @@
    "nota": "pocos datos: 'FC Porto' solo tiene 3.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.162,
+     "ataque": -0.161,
      "defensa": -0.018,
      "neto": -0.179,
      "peso": 3.9,
@@ -768,7 +768,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.51,
+     "ataque": 0.509,
      "defensa": -0.073,
      "neto": 0.437,
      "peso": 2.9,
@@ -803,7 +803,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.44 vs -0.43): ataca ~67% más que el promedio. Racing Club de Lens juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.52 – 2.67; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (2G-0E-1P vs 2G-0E-3P). El modelo tiene pocos datos de Racing Club de Lens: tomalo con pinzas.",
+    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.44 vs -0.43): ataca ~66% más que el promedio. Racing Club de Lens juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.52 – 2.67; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (2G-0E-1P vs 2G-0E-3P). El modelo tiene pocos datos de Racing Club de Lens: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.789,

@@ -1,56 +1,6 @@
 {
- "actualizado": "2026-11-01T12:25:15+00:00",
+ "actualizado": "2026-11-01T18:42:35+00:00",
  "fixtures": [
-  {
-   "id": 558543,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-11-01T11:30:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 10,
-   "local": "Como 1907",
-   "visitante": "Venezia FC"
-  },
-  {
-   "id": 564733,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-11-01T13:00:00Z",
-   "estado": "TIMED",
-   "jornada": 11,
-   "local": "Getafe CF",
-   "visitante": "Sevilla FC"
-  },
-  {
-   "id": 558544,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-11-01T14:00:00Z",
-   "estado": "TIMED",
-   "jornada": 10,
-   "local": "Frosinone Calcio",
-   "visitante": "Torino FC"
-  },
-  {
-   "id": 558546,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-11-01T14:00:00Z",
-   "estado": "TIMED",
-   "jornada": 10,
-   "local": "SS Lazio",
-   "visitante": "Cagliari Calcio"
-  },
-  {
-   "id": 559647,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-11-01T14:00:00Z",
-   "estado": "TIMED",
-   "jornada": 9,
-   "local": "RC Strasbourg Alsace",
-   "visitante": "AJ Auxerre"
-  },
   {
    "id": 565841,
    "competicion_codigo": "BL1",
@@ -60,46 +10,6 @@
    "jornada": 8,
    "local": "1. FC Union Berlin",
    "visitante": "1. FC Köln"
-  },
-  {
-   "id": 564734,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-11-01T15:15:00Z",
-   "estado": "TIMED",
-   "jornada": 11,
-   "local": "Real Racing Club de Santander",
-   "visitante": "Real Madrid CF"
-  },
-  {
-   "id": 559640,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-11-01T16:15:00Z",
-   "estado": "TIMED",
-   "jornada": 9,
-   "local": "Olympique Lyonnais",
-   "visitante": "Angers SCO"
-  },
-  {
-   "id": 559642,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-11-01T16:15:00Z",
-   "estado": "TIMED",
-   "jornada": 9,
-   "local": "Paris FC",
-   "visitante": "AS Monaco FC"
-  },
-  {
-   "id": 560631,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-11-01T16:30:00Z",
-   "estado": "TIMED",
-   "jornada": 9,
-   "local": "Liverpool FC",
-   "visitante": "Arsenal FC"
   },
   {
    "id": 565844,
@@ -116,7 +26,7 @@
    "competicion_codigo": "SA",
    "competicion": "Serie A",
    "fecha_utc": "2026-11-01T17:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 10,
    "local": "US Lecce",
    "visitante": "Genoa CFC"
@@ -126,7 +36,7 @@
    "competicion_codigo": "PD",
    "competicion": "La Liga",
    "fecha_utc": "2026-11-01T17:30:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 11,
    "local": "Elche CF",
    "visitante": "Valencia CF"

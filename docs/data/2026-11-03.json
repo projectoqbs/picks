@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-03",
- "actualizado": "2026-11-01T12:25:17+00:00",
+ "actualizado": "2026-11-01T18:42:39+00:00",
  "partidos": [
   {
    "id": 575377,
@@ -55,7 +55,7 @@
      "ataque": 0.107,
      "defensa": 0.306,
      "neto": 0.413,
-     "peso": 12.4,
+     "peso": 12.3,
      "fiable": true
     },
     "forma_local": {
@@ -325,7 +325,7 @@
    "prediccion": {
     "prob_1": 0.462,
     "prob_X": 0.189,
-    "prob_2": 0.35,
+    "prob_2": 0.349,
     "goles_esperados": [
      2.182,
      1.888
@@ -347,14 +347,14 @@
      ]
     ],
     "cuotas_justas": [
-     2.17,
+     2.16,
      5.3,
      2.86
     ],
     "resumen": "Gana FC Barcelona (ligero favorito, 46%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Aston Villa FC' solo tiene 6.3 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Aston Villa FC' solo tiene 6.2 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.626,
@@ -364,10 +364,10 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.433,
+     "ataque": 0.434,
      "defensa": 0.447,
      "neto": 0.88,
-     "peso": 6.3,
+     "peso": 6.2,
      "fiable": false
     },
     "forma_local": {
@@ -527,7 +527,7 @@
     "prob_2": 0.82,
     "goles_esperados": [
      1.262,
-     3.748
+     3.747
     ],
     "prob_over_2_5": 0.876,
     "prob_btts": 0.697,
@@ -542,7 +542,7 @@
      ],
      [
       "1-2",
-      0.0592
+      0.0593
      ]
     ],
     "cuotas_justas": [
@@ -653,7 +653,7 @@
     "resumen": "Gana Manchester United FC (ligero favorito, 50%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'AS Roma' solo tiene 2.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'AS Roma' solo tiene 2.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.05,
@@ -666,7 +666,7 @@
      "ataque": 0.147,
      "defensa": -0.063,
      "neto": 0.085,
-     "peso": 2.9,
+     "peso": 2.8,
      "fiable": false
     },
     "forma_local": {
