@@ -4,16 +4,16 @@
  "equipos": [
   {
    "equipo": "Arsenal FC",
-   "ataque": 0.391,
+   "ataque": 0.39,
    "defensa": 0.783,
-   "neto": 1.174,
+   "neto": 1.173,
    "peso": 17.3,
    "fiable": true
   },
   {
    "equipo": "Paris Saint-Germain FC",
    "ataque": 0.741,
-   "defensa": 0.353,
+   "defensa": 0.352,
    "neto": 1.093,
    "peso": 19.9,
    "fiable": true
@@ -21,14 +21,14 @@
   {
    "equipo": "FC Bayern München",
    "ataque": 0.635,
-   "defensa": 0.334,
+   "defensa": 0.333,
    "neto": 0.969,
    "peso": 16.8,
    "fiable": true
   },
   {
    "equipo": "Aston Villa FC",
-   "ataque": 0.434,
+   "ataque": 0.433,
    "defensa": 0.447,
    "neto": 0.88,
    "peso": 6.2,
@@ -39,7 +39,7 @@
    "ataque": 0.626,
    "defensa": 0.102,
    "neto": 0.728,
-   "peso": 15.2,
+   "peso": 15.1,
    "fiable": true
   },
   {
@@ -52,8 +52,8 @@
   },
   {
    "equipo": "Liverpool FC",
-   "ataque": 0.369,
-   "defensa": 0.317,
+   "ataque": 0.368,
+   "defensa": 0.316,
    "neto": 0.685,
    "peso": 12.4,
    "fiable": true
@@ -77,7 +77,7 @@
   {
    "equipo": "Tottenham Hotspur FC",
    "ataque": 0.241,
-   "defensa": 0.197,
+   "defensa": 0.196,
    "neto": 0.438,
    "peso": 5.4,
    "fiable": false
@@ -86,8 +86,8 @@
    "equipo": "Como 1907",
    "ataque": 0.509,
    "defensa": -0.073,
-   "neto": 0.437,
-   "peso": 2.9,
+   "neto": 0.436,
+   "peso": 2.8,
    "fiable": false
   },
   {
@@ -109,7 +109,7 @@
   {
    "equipo": "FC Internazionale Milano",
    "ataque": 0.072,
-   "defensa": 0.274,
+   "defensa": 0.273,
    "neto": 0.346,
    "peso": 13.8,
    "fiable": true
@@ -140,7 +140,7 @@
   },
   {
    "equipo": "Club Brugge KV",
-   "ataque": 0.319,
+   "ataque": 0.318,
    "defensa": -0.077,
    "neto": 0.242,
    "peso": 11.6,
@@ -158,7 +158,7 @@
    "equipo": "Real Betis Balompié",
    "ataque": 0.16,
    "defensa": 0.068,
-   "neto": 0.228,
+   "neto": 0.227,
    "peso": 2.8,
    "fiable": false
   },
@@ -182,14 +182,14 @@
    "equipo": "Atalanta BC",
    "ataque": 0.05,
    "defensa": 0.099,
-   "neto": 0.149,
+   "neto": 0.148,
    "peso": 9.4,
    "fiable": true
   },
   {
    "equipo": "Real Sociedad de Fútbol",
    "ataque": -0.133,
-   "defensa": 0.275,
+   "defensa": 0.274,
    "neto": 0.141,
    "peso": 1.1,
    "fiable": false
@@ -197,8 +197,8 @@
   {
    "equipo": "AC Milan",
    "ataque": -0.122,
-   "defensa": 0.24,
-   "neto": 0.118,
+   "defensa": 0.239,
+   "neto": 0.117,
    "peso": 3.4,
    "fiable": false
   },
@@ -229,7 +229,7 @@
   {
    "equipo": "FK Bodø/Glimt",
    "ataque": 0.202,
-   "defensa": -0.118,
+   "defensa": -0.119,
    "neto": 0.084,
    "peso": 9.5,
    "fiable": true
@@ -349,14 +349,14 @@
   {
    "equipo": "Sporting Clube de Braga",
    "ataque": -0.113,
-   "defensa": -0.022,
-   "neto": -0.135,
+   "defensa": -0.021,
+   "neto": -0.134,
    "peso": 0.7,
    "fiable": false
   },
   {
    "equipo": "PAE Olympiakos SFP",
-   "ataque": -0.259,
+   "ataque": -0.258,
    "defensa": 0.119,
    "neto": -0.139,
    "peso": 5.4,
@@ -390,7 +390,7 @@
    "equipo": "GNK Dinamo Zagreb",
    "ataque": -0.03,
    "defensa": -0.164,
-   "neto": -0.194,
+   "neto": -0.193,
    "peso": 2.1,
    "fiable": false
   },
@@ -404,7 +404,7 @@
   },
   {
    "equipo": "SSC Napoli",
-   "ataque": -0.138,
+   "ataque": -0.139,
    "defensa": -0.099,
    "neto": -0.237,
    "peso": 8.1,
@@ -414,7 +414,7 @@
    "equipo": "Royal Antwerp FC",
    "ataque": -0.088,
    "defensa": -0.151,
-   "neto": -0.239,
+   "neto": -0.238,
    "peso": 0.7,
    "fiable": false
   },
@@ -444,7 +444,7 @@
   },
   {
    "equipo": "FC København",
-   "ataque": -0.112,
+   "ataque": -0.113,
    "defensa": -0.209,
    "neto": -0.321,
    "peso": 5.2,
@@ -452,7 +452,7 @@
   },
   {
    "equipo": "FK Crvena Zvezda",
-   "ataque": -0.001,
+   "ataque": -0.0,
    "defensa": -0.359,
    "neto": -0.359,
    "peso": 2.8,
@@ -460,7 +460,7 @@
   },
   {
    "equipo": "SK Sturm Graz",
-   "ataque": -0.33,
+   "ataque": -0.329,
    "defensa": -0.06,
    "neto": -0.39,
    "peso": 2.1,
@@ -469,7 +469,7 @@
   {
    "equipo": "Eintracht Frankfurt",
    "ataque": -0.202,
-   "defensa": -0.197,
+   "defensa": -0.198,
    "neto": -0.399,
    "peso": 4.2,
    "fiable": false
@@ -478,7 +478,7 @@
    "equipo": "Racing Club de Lens",
    "ataque": -0.255,
    "defensa": -0.171,
-   "neto": -0.426,
+   "neto": -0.425,
    "peso": 3.6,
    "fiable": false
   },
@@ -540,9 +540,9 @@
   },
   {
    "equipo": "Fenerbahçe SK",
-   "ataque": -0.309,
+   "ataque": -0.308,
    "defensa": -0.406,
-   "neto": -0.715,
+   "neto": -0.714,
    "peso": 2.8,
    "fiable": false
   },
@@ -556,7 +556,7 @@
   },
   {
    "equipo": "SK Slavia Praha",
-   "ataque": -0.414,
+   "ataque": -0.413,
    "defensa": -0.324,
    "neto": -0.737,
    "peso": 7.0,
