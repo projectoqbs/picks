@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-03",
- "actualizado": "2026-11-02T14:21:18+00:00",
+ "actualizado": "2026-11-03T13:21:49+00:00",
  "partidos": [
   {
    "id": 575377,
@@ -23,7 +23,7 @@
     "marcadores": [
      [
       "0-1",
-      0.1201
+      0.1202
      ],
      [
       "1-1",
@@ -112,15 +112,15 @@
     "prob_X": 0.211,
     "prob_2": 0.371,
     "goles_esperados": [
-     1.665,
+     1.666,
      1.555
     ],
-    "prob_over_2_5": 0.624,
+    "prob_over_2_5": 0.625,
     "prob_btts": 0.629,
     "marcadores": [
      [
       "1-1",
-      0.0927
+      0.0926
      ],
      [
       "2-1",
@@ -145,12 +145,12 @@
      "ataque": 0.09,
      "defensa": -0.071,
      "neto": 0.019,
-     "peso": 10.3,
+     "peso": 10.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.067,
-     "defensa": 0.181,
+     "defensa": 0.18,
      "neto": 0.248,
      "peso": 4.9,
      "fiable": false
@@ -186,7 +186,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "VfB Stuttgart es más fuerte de fondo (neto +0.25 vs +0.02): encaja ~17% menos. Galatasaray SK juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.67 – 1.55; el modelo ve marcando más a Galatasaray SK. Y la forma reciente lo confirma: VfB Stuttgart llega mejor (3G-1E-1P vs 2G-0E-3P). El modelo tiene pocos datos de VfB Stuttgart: tomalo con pinzas.",
+    "explicacion": "VfB Stuttgart es más fuerte de fondo (neto +0.25 vs +0.02): encaja ~16% menos. Galatasaray SK juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.67 – 1.55; el modelo ve marcando más a Galatasaray SK. Y la forma reciente lo confirma: VfB Stuttgart llega mejor (3G-1E-1P vs 2G-0E-3P). El modelo tiene pocos datos de VfB Stuttgart: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.629,
@@ -244,7 +244,7 @@
     "fuerza_local": {
      "ataque": 0.042,
      "defensa": -0.098,
-     "neto": -0.056,
+     "neto": -0.057,
      "peso": 6.9,
      "fiable": false
     },
@@ -252,7 +252,7 @@
      "ataque": 0.072,
      "defensa": 0.273,
      "neto": 0.346,
-     "peso": 13.8,
+     "peso": 13.7,
      "fiable": true
     },
     "forma_local": {
@@ -328,7 +328,7 @@
     "prob_2": 0.349,
     "goles_esperados": [
      2.182,
-     1.887
+     1.888
     ],
     "prob_over_2_5": 0.772,
     "prob_btts": 0.746,
@@ -359,13 +359,13 @@
     "fuerza_local": {
      "ataque": 0.626,
      "defensa": 0.102,
-     "neto": 0.728,
+     "neto": 0.727,
      "peso": 15.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.433,
-     "defensa": 0.447,
+     "defensa": 0.446,
      "neto": 0.88,
      "peso": 6.2,
      "fiable": false
@@ -465,7 +465,7 @@
     "fuerza_visitante": {
      "ataque": 0.635,
      "defensa": 0.333,
-     "neto": 0.969,
+     "neto": 0.968,
      "peso": 16.8,
      "fiable": true
     },
@@ -524,10 +524,10 @@
    "prediccion": {
     "prob_1": 0.085,
     "prob_X": 0.096,
-    "prob_2": 0.82,
+    "prob_2": 0.819,
     "goles_esperados": [
      1.262,
-     3.747
+     3.746
     ],
     "prob_over_2_5": 0.876,
     "prob_btts": 0.697,
@@ -563,10 +563,10 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.741,
+     "ataque": 0.74,
      "defensa": 0.352,
      "neto": 1.093,
-     "peso": 19.9,
+     "peso": 19.8,
      "fiable": true
     },
     "forma_local": {
@@ -603,7 +603,7 @@
     "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +1.09 vs -0.29): ataca ~110% más que el promedio, encaja ~30% menos. Villarreal CF juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.26 – 3.75; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (4G-1E-0P vs 1G-0E-4P). El modelo tiene pocos datos de Villarreal CF: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "2",
-     "prob": 0.82,
+     "prob": 0.819,
      "por_que": "El modelo ve a Paris Saint-Germain FC marcando más que Villarreal CF pese a la localía (3.75 vs 1.26), y lo respalda una diferencia de fuerza clara (neto +1.09 vs -0.29). Probabilidad del modelo: 82%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -626,7 +626,7 @@
     "prob_X": 0.195,
     "prob_2": 0.301,
     "goles_esperados": [
-     2.042,
+     2.041,
      1.539
     ],
     "prob_over_2_5": 0.694,
@@ -664,7 +664,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.147,
-     "defensa": -0.063,
+     "defensa": -0.062,
      "neto": 0.085,
      "peso": 2.8,
      "fiable": false
@@ -725,7 +725,7 @@
     "prob_2": 0.239,
     "goles_esperados": [
      2.686,
-     1.696
+     1.695
     ],
     "prob_over_2_5": 0.813,
     "prob_btts": 0.755,
@@ -751,11 +751,11 @@
     "resumen": "Gana FK Bodø/Glimt (claro favorito, 59%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Lille OSC' solo tiene 5.6 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Lille OSC' solo tiene 5.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.202,
-     "defensa": -0.119,
+     "defensa": -0.118,
      "neto": 0.084,
      "peso": 9.5,
      "fiable": true
@@ -764,7 +764,7 @@
      "ataque": 0.106,
      "defensa": -0.185,
      "neto": -0.079,
-     "peso": 5.6,
+     "peso": 5.5,
      "fiable": false
     },
     "forma_local": {
@@ -824,7 +824,7 @@
     "prob_X": 0.082,
     "prob_2": 0.068,
     "goles_esperados": [
-     4.034,
+     4.035,
      1.234
     ],
     "prob_over_2_5": 0.896,
@@ -840,13 +840,13 @@
      ],
      [
       "4-0",
-      0.057
+      0.0571
      ]
     ],
     "cuotas_justas": [
      1.18,
      12.19,
-     14.72
+     14.73
     ],
     "resumen": "Gana LASK Linz (claro favorito, 85%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -854,7 +854,7 @@
    "nota": "pocos datos: 'LASK Linz' solo tiene 2.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.297,
+     "ataque": 0.296,
      "defensa": -0.39,
      "neto": -0.093,
      "peso": 2.8,
@@ -862,8 +862,8 @@
     },
     "fuerza_visitante": {
      "ataque": -0.483,
-     "defensa": -0.497,
-     "neto": -0.98,
+     "defensa": -0.498,
+     "neto": -0.981,
      "peso": 4.9,
      "fiable": false
     },
@@ -896,11 +896,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "LASK Linz es más fuerte de fondo (neto -0.09 vs -0.98): ataca ~35% más que el promedio. LASK Linz juega en casa (~+35% de ventaja, ya contada). Goles esperados: 4.03 – 1.23; el modelo ve marcando más a LASK Linz. Y la forma reciente lo confirma: LASK Linz llega mejor (1G-0E-2P vs 0G-0E-5P). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
+    "explicacion": "LASK Linz es más fuerte de fondo (neto -0.09 vs -0.98): ataca ~34% más que el promedio. LASK Linz juega en casa (~+35% de ventaja, ya contada). Goles esperados: 4.04 – 1.23; el modelo ve marcando más a LASK Linz. Y la forma reciente lo confirma: LASK Linz llega mejor (1G-0E-2P vs 0G-0E-5P). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.85,
-     "por_que": "LASK Linz es favorito en casa: marca más (4.03 vs 1.23) y es más fuerte de fondo (neto -0.09 vs -0.98). Probabilidad: 85%.",
+     "por_que": "LASK Linz es favorito en casa: marca más (4.04 vs 1.23) y es más fuerte de fondo (neto -0.09 vs -0.98). Probabilidad: 85%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.965

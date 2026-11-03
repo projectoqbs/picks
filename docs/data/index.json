@@ -1,7 +1,6 @@
 {
- "actualizado": "2026-11-02T14:21:18+00:00",
+ "actualizado": "2026-11-03T13:21:49+00:00",
  "dias": [
-  "2026-11-02",
   "2026-11-03",
   "2026-11-04",
   "2026-11-06",
@@ -36,6 +35,16 @@
  ],
  "tablas": [
   {
+   "codigo": "CL",
+   "nombre": "Champions League",
+   "archivo": "tabla_CL.json"
+  },
+  {
+   "codigo": "BL1",
+   "nombre": "Bundesliga",
+   "archivo": "tabla_BL1.json"
+  },
+  {
    "codigo": "SA",
    "nombre": "Serie A",
    "archivo": "tabla_SA.json"
@@ -54,17 +63,7 @@
    "codigo": "PD",
    "nombre": "La Liga",
    "archivo": "tabla_PD.json"
-  },
-  {
-   "codigo": "CL",
-   "nombre": "Champions League",
-   "archivo": "tabla_CL.json"
-  },
-  {
-   "codigo": "BL1",
-   "nombre": "Bundesliga",
-   "archivo": "tabla_BL1.json"
   }
  ],
- "total_partidos": 71
+ "total_partidos": 66
 }
