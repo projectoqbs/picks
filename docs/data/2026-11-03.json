@@ -1,204 +1,7 @@
 {
  "fecha": "2026-11-03",
- "actualizado": "2026-11-03T13:21:49+00:00",
+ "actualizado": "2026-11-03T20:22:51+00:00",
  "partidos": [
-  {
-   "id": 575377,
-   "competicion": "Champions League",
-   "competicion_codigo": "CL",
-   "fecha_utc": "2026-11-03T17:45:00Z",
-   "jornada": 4,
-   "local": "FK Shakhtar Donetsk",
-   "visitante": "Sporting Clube de Portugal",
-   "prediccion": {
-    "prob_1": 0.34,
-    "prob_X": 0.24,
-    "prob_2": 0.42,
-    "goles_esperados": [
-     1.185,
-     1.353
-    ],
-    "prob_over_2_5": 0.466,
-    "prob_btts": 0.501,
-    "marcadores": [
-     [
-      "0-1",
-      0.1202
-     ],
-     [
-      "1-1",
-      0.1135
-     ],
-     [
-      "1-0",
-      0.1069
-     ]
-    ],
-    "cuotas_justas": [
-     2.94,
-     4.16,
-     2.38
-    ],
-    "resumen": "Partido parejo.",
-    "confianza": "baja"
-   },
-   "nota": "pocos datos: 'FK Shakhtar Donetsk' solo tiene 5.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.126,
-     "defensa": 0.109,
-     "neto": -0.017,
-     "peso": 5.7,
-     "fiable": false
-    },
-    "fuerza_visitante": {
-     "ataque": 0.107,
-     "defensa": 0.306,
-     "neto": 0.413,
-     "peso": 12.3,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 2,
-     "e": 1,
-     "p": 2,
-     "gf": 7,
-     "gc": 6,
-     "racha": [
-      "G",
-      "P",
-      "E",
-      "G",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 2,
-     "e": 1,
-     "p": 2,
-     "gf": 7,
-     "gc": 5,
-     "racha": [
-      "P",
-      "E",
-      "G",
-      "G",
-      "P"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "Sporting Clube de Portugal es más fuerte de fondo (neto +0.41 vs -0.02): ataca ~11% más que el promedio, encaja ~26% menos. FK Shakhtar Donetsk juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.19 – 1.35; el modelo ve marcando más a Sporting Clube de Portugal. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de FK Shakhtar Donetsk: tomalo con pinzas.",
-    "recomendacion": {
-     "mercado": "X2",
-     "prob": 0.66,
-     "por_que": "Doble oportunidad: cubre que FK Shakhtar Donetsk no gane. El escenario que queda afuera (gane FK Shakhtar Donetsk) es el menos probable (34%), así que el mercado se cumple ~66% de las veces.",
-     "alternativa": null,
-     "confianza": "baja"
-    }
-   }
-  },
-  {
-   "id": 575378,
-   "competicion": "Champions League",
-   "competicion_codigo": "CL",
-   "fecha_utc": "2026-11-03T17:45:00Z",
-   "jornada": 4,
-   "local": "Galatasaray SK",
-   "visitante": "VfB Stuttgart",
-   "prediccion": {
-    "prob_1": 0.418,
-    "prob_X": 0.211,
-    "prob_2": 0.371,
-    "goles_esperados": [
-     1.666,
-     1.555
-    ],
-    "prob_over_2_5": 0.625,
-    "prob_btts": 0.629,
-    "marcadores": [
-     [
-      "1-1",
-      0.0926
-     ],
-     [
-      "2-1",
-      0.0861
-     ],
-     [
-      "1-2",
-      0.0804
-     ]
-    ],
-    "cuotas_justas": [
-     2.39,
-     4.73,
-     2.7
-    ],
-    "resumen": "Partido parejo. se esperan goles (+2.5). ambos marcan.",
-    "confianza": "baja"
-   },
-   "nota": "pocos datos: 'VfB Stuttgart' solo tiene 4.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.09,
-     "defensa": -0.071,
-     "neto": 0.019,
-     "peso": 10.2,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.067,
-     "defensa": 0.18,
-     "neto": 0.248,
-     "peso": 4.9,
-     "fiable": false
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 2,
-     "e": 0,
-     "p": 3,
-     "gf": 7,
-     "gc": 13,
-     "racha": [
-      "G",
-      "P",
-      "P",
-      "P",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 3,
-     "e": 1,
-     "p": 1,
-     "gf": 11,
-     "gc": 7,
-     "racha": [
-      "G",
-      "P",
-      "G",
-      "G",
-      "E"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "VfB Stuttgart es más fuerte de fondo (neto +0.25 vs +0.02): encaja ~16% menos. Galatasaray SK juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.67 – 1.55; el modelo ve marcando más a Galatasaray SK. Y la forma reciente lo confirma: VfB Stuttgart llega mejor (3G-1E-1P vs 2G-0E-3P). El modelo tiene pocos datos de VfB Stuttgart: tomalo con pinzas.",
-    "recomendacion": {
-     "mercado": "Ambos marcan: Sí",
-     "prob": 0.629,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.67 y 1.55. Probabilidad: 63%.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.821
-     },
-     "confianza": "baja"
-    }
-   }
-  },
   {
    "id": 575379,
    "competicion": "Champions League",
@@ -251,7 +54,7 @@
     "fuerza_visitante": {
      "ataque": 0.072,
      "defensa": 0.273,
-     "neto": 0.346,
+     "neto": 0.345,
      "peso": 13.7,
      "fiable": true
     },
@@ -301,7 +104,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.35 vs -0.06): encaja ~24% menos. Feyenoord Rotterdam juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.45 – 1.61; el modelo ve marcando más a FC Internazionale Milano. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Feyenoord Rotterdam: tomalo con pinzas.",
+    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.34 vs -0.06): encaja ~24% menos. Feyenoord Rotterdam juega en casa (~+35% de ventaja, ya contada). Goles esperados: 1.45 – 1.61; el modelo ve marcando más a FC Internazionale Milano. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Feyenoord Rotterdam: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.643,
@@ -327,8 +130,8 @@
     "prob_X": 0.189,
     "prob_2": 0.349,
     "goles_esperados": [
-     2.182,
-     1.888
+     2.183,
+     1.887
     ],
     "prob_over_2_5": 0.772,
     "prob_btts": 0.746,
@@ -366,7 +169,7 @@
     "fuerza_visitante": {
      "ataque": 0.433,
      "defensa": 0.446,
-     "neto": 0.88,
+     "neto": 0.879,
      "peso": 6.2,
      "fiable": false
     },
@@ -546,7 +349,7 @@
      ]
     ],
     "cuotas_justas": [
-     11.81,
+     11.8,
      10.43,
      1.22
     ],
@@ -627,7 +430,7 @@
     "prob_2": 0.301,
     "goles_esperados": [
      2.041,
-     1.539
+     1.54
     ],
     "prob_over_2_5": 0.694,
     "prob_btts": 0.674,
@@ -824,7 +627,7 @@
     "prob_X": 0.082,
     "prob_2": 0.068,
     "goles_esperados": [
-     4.035,
+     4.032,
      1.234
     ],
     "prob_over_2_5": 0.896,
@@ -840,13 +643,13 @@
      ],
      [
       "4-0",
-      0.0571
+      0.057
      ]
     ],
     "cuotas_justas": [
      1.18,
-     12.19,
-     14.73
+     12.17,
+     14.7
     ],
     "resumen": "Gana LASK Linz (claro favorito, 85%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -862,8 +665,8 @@
     },
     "fuerza_visitante": {
      "ataque": -0.483,
-     "defensa": -0.498,
-     "neto": -0.981,
+     "defensa": -0.497,
+     "neto": -0.98,
      "peso": 4.9,
      "fiable": false
     },
@@ -896,11 +699,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "LASK Linz es más fuerte de fondo (neto -0.09 vs -0.98): ataca ~34% más que el promedio. LASK Linz juega en casa (~+35% de ventaja, ya contada). Goles esperados: 4.04 – 1.23; el modelo ve marcando más a LASK Linz. Y la forma reciente lo confirma: LASK Linz llega mejor (1G-0E-2P vs 0G-0E-5P). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
+    "explicacion": "LASK Linz es más fuerte de fondo (neto -0.09 vs -0.98): ataca ~34% más que el promedio. LASK Linz juega en casa (~+35% de ventaja, ya contada). Goles esperados: 4.03 – 1.23; el modelo ve marcando más a LASK Linz. Y la forma reciente lo confirma: LASK Linz llega mejor (1G-0E-2P vs 0G-0E-5P). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.85,
-     "por_que": "LASK Linz es favorito en casa: marca más (4.04 vs 1.23) y es más fuerte de fondo (neto -0.09 vs -0.98). Probabilidad: 85%.",
+     "por_que": "LASK Linz es favorito en casa: marca más (4.03 vs 1.23) y es más fuerte de fondo (neto -0.09 vs -0.98). Probabilidad: 85%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.965

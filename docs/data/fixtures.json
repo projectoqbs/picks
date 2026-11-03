@@ -1,32 +1,12 @@
 {
- "actualizado": "2026-11-03T13:21:46+00:00",
+ "actualizado": "2026-11-03T20:22:49+00:00",
  "fixtures": [
-  {
-   "id": 575377,
-   "competicion_codigo": "CL",
-   "competicion": "Champions League",
-   "fecha_utc": "2026-11-03T17:45:00Z",
-   "estado": "TIMED",
-   "jornada": 4,
-   "local": "FK Shakhtar Donetsk",
-   "visitante": "Sporting Clube de Portugal"
-  },
-  {
-   "id": 575378,
-   "competicion_codigo": "CL",
-   "competicion": "Champions League",
-   "fecha_utc": "2026-11-03T17:45:00Z",
-   "estado": "TIMED",
-   "jornada": 4,
-   "local": "Galatasaray SK",
-   "visitante": "VfB Stuttgart"
-  },
   {
    "id": 575379,
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-11-03T20:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 4,
    "local": "Feyenoord Rotterdam",
    "visitante": "FC Internazionale Milano"
@@ -36,7 +16,7 @@
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-11-03T20:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 4,
    "local": "FC Barcelona",
    "visitante": "Aston Villa FC"
@@ -46,7 +26,7 @@
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-11-03T20:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 4,
    "local": "Club Atlético de Madrid",
    "visitante": "FC Bayern München"
@@ -56,7 +36,7 @@
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-11-03T20:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 4,
    "local": "Villarreal CF",
    "visitante": "Paris Saint-Germain FC"
@@ -66,7 +46,7 @@
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-11-03T20:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 4,
    "local": "Manchester United FC",
    "visitante": "AS Roma"
@@ -76,7 +56,7 @@
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-11-03T20:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 4,
    "local": "FK Bodø/Glimt",
    "visitante": "Lille OSC"
@@ -86,7 +66,7 @@
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-11-03T20:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 4,
    "local": "LASK Linz",
    "visitante": "ŠK Slovan Bratislava"
