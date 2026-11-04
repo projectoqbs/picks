@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-07",
- "actualizado": "2026-11-03T20:22:51+00:00",
+ "actualizado": "2026-11-04T13:33:05+00:00",
  "partidos": [
   {
    "id": 560632,
@@ -45,8 +45,8 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.041,
-     "defensa": 0.154,
-     "neto": 0.113,
+     "defensa": 0.153,
+     "neto": 0.112,
      "peso": 30.0,
      "fiable": true
     },
@@ -121,7 +121,7 @@
     "prob_2": 0.329,
     "goles_esperados": [
      1.773,
-     1.516
+     1.515
     ],
     "prob_over_2_5": 0.638,
     "prob_btts": 0.651,
@@ -152,7 +152,7 @@
      "ataque": -0.337,
      "defensa": -0.206,
      "neto": -0.543,
-     "peso": 10.2,
+     "peso": 10.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -193,11 +193,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Real Racing Club de Santander es más fuerte de fondo (neto -0.41 vs -0.54): ataca ~11% más que el promedio. Málaga CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.77 – 1.52; el modelo ve marcando más a Málaga CF. Y la forma reciente lo confirma: Real Racing Club de Santander llega mejor (1G-1E-3P vs 0G-2E-3P).",
+    "explicacion": "Real Racing Club de Santander es más fuerte de fondo (neto -0.41 vs -0.54): ataca ~11% más que el promedio. Málaga CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.77 – 1.51; el modelo ve marcando más a Málaga CF. Y la forma reciente lo confirma: Real Racing Club de Santander llega mejor (1G-1E-3P vs 0G-2E-3P).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.651,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.77 y 1.52. Probabilidad: 65%.",
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.77 y 1.51. Probabilidad: 65%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.843
@@ -217,7 +217,7 @@
    "prediccion": {
     "prob_1": 0.484,
     "prob_X": 0.279,
-    "prob_2": 0.238,
+    "prob_2": 0.237,
     "goles_esperados": [
      1.381,
      0.88
@@ -251,14 +251,14 @@
      "ataque": -0.043,
      "defensa": -0.06,
      "neto": -0.104,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.361,
      "defensa": -0.102,
      "neto": -0.463,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "forma_local": {
@@ -468,7 +468,7 @@
     "prob_X": 0.198,
     "prob_2": 0.161,
     "goles_esperados": [
-     2.31,
+     2.311,
      1.092
     ],
     "prob_over_2_5": 0.661,
@@ -506,7 +506,7 @@
     "fuerza_visitante": {
      "ataque": -0.007,
      "defensa": -0.034,
-     "neto": -0.041,
+     "neto": -0.042,
      "peso": 41.6,
      "fiable": true
     },
@@ -704,7 +704,7 @@
     "prob_2": 0.703,
     "goles_esperados": [
      1.207,
-     2.808
+     2.807
     ],
     "prob_over_2_5": 0.764,
     "prob_btts": 0.662,
@@ -734,7 +734,7 @@
     "fuerza_local": {
      "ataque": 0.047,
      "defensa": 0.019,
-     "neto": 0.067,
+     "neto": 0.066,
      "peso": 41.6,
      "fiable": true
     },
@@ -838,7 +838,7 @@
     "prob_X": 0.298,
     "prob_2": 0.362,
     "goles_esperados": [
-     1.138,
+     1.139,
      1.183
     ],
     "prob_over_2_5": 0.41,
@@ -846,7 +846,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1404
+      0.1403
      ],
      [
       "0-1",
@@ -870,7 +870,7 @@
     "fuerza_local": {
      "ataque": -0.439,
      "defensa": 0.273,
-     "neto": -0.167,
+     "neto": -0.166,
      "peso": 7.5,
      "fiable": false
     },
@@ -970,7 +970,7 @@
      "ataque": 0.32,
      "defensa": 0.658,
      "neto": 0.978,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1069,7 +1069,7 @@
      "ataque": -0.057,
      "defensa": 0.095,
      "neto": 0.037,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1211,7 +1211,7 @@
      "ataque": 0.029,
      "defensa": 0.062,
      "neto": 0.091,
-     "peso": 10.2,
+     "peso": 10.1,
      "fiable": true
     },
     "forma_local": {
@@ -1406,7 +1406,7 @@
     ],
     "cuotas_justas": [
      4.09,
-     3.47,
+     3.46,
      2.14
     ],
     "resumen": "Gana Bologna FC 1909 (ligero favorito, 47%). pocos goles (-2.5).",
@@ -1422,9 +1422,9 @@
     },
     "fuerza_visitante": {
      "ataque": 0.117,
-     "defensa": 0.114,
+     "defensa": 0.113,
      "neto": 0.231,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "forma_local": {
@@ -1514,7 +1514,7 @@
     "prob_2": 0.173,
     "goles_esperados": [
      2.333,
-     1.171
+     1.17
     ],
     "prob_over_2_5": 0.68,
     "prob_btts": 0.628,
@@ -1644,7 +1644,7 @@
    "local": "Nottingham Forest FC",
    "visitante": "Manchester City FC",
    "prediccion": {
-    "prob_1": 0.205,
+    "prob_1": 0.206,
     "prob_X": 0.255,
     "prob_2": 0.539,
     "goles_esperados": [
@@ -1668,7 +1668,7 @@
      ]
     ],
     "cuotas_justas": [
-     4.87,
+     4.86,
      3.92,
      1.85
     ],
@@ -1680,14 +1680,14 @@
      "ataque": -0.052,
      "defensa": 0.105,
      "neto": 0.052,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.423,
      "defensa": 0.365,
      "neto": 0.788,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {
@@ -1812,14 +1812,14 @@
      "ataque": -0.051,
      "defensa": -0.04,
      "neto": -0.091,
-     "peso": 48.4,
+     "peso": 48.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.06,
      "defensa": 0.187,
      "neto": 0.248,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "forma_local": {
@@ -1915,7 +1915,7 @@
     "prob_X": 0.171,
     "prob_2": 0.12,
     "goles_esperados": [
-     2.445,
+     2.444,
      0.914
     ],
     "prob_over_2_5": 0.652,
@@ -1947,14 +1947,14 @@
      "ataque": 0.399,
      "defensa": 0.338,
      "neto": 0.737,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.075,
      "defensa": -0.231,
      "neto": -0.155,
-     "peso": 36.7,
+     "peso": 36.6,
      "fiable": true
     },
     "forma_local": {
@@ -2039,7 +2039,7 @@
    "local": "Paris Saint-Germain FC",
    "visitante": "ES Troyes AC",
    "prediccion": {
-    "prob_1": 0.862,
+    "prob_1": 0.863,
     "prob_X": 0.1,
     "prob_2": 0.038,
     "goles_esperados": [
@@ -2075,7 +2075,7 @@
      "ataque": 0.554,
      "defensa": 0.408,
      "neto": 0.962,
-     "peso": 42.3,
+     "peso": 42.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2119,7 +2119,7 @@
     "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.96 vs -0.52): ataca ~74% más que el promedio, encaja ~34% menos. Paris Saint-Germain FC juega en casa (~+23% de ventaja, ya contada). Goles esperados: 3.09 – 0.57; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (5G-0E-0P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.862,
+     "prob": 0.863,
      "por_que": "Paris Saint-Germain FC es favorito en casa: marca más (3.09 vs 0.57) y es más fuerte de fondo (neto +0.96 vs -0.52). Probabilidad: 86%.",
      "alternativa": {
       "mercado": "1X",
@@ -2163,7 +2163,7 @@
     ],
     "cuotas_justas": [
      5.8,
-     4.3,
+     4.29,
      1.68
     ],
     "resumen": "Gana Real Madrid CF (claro favorito, 59%).",
@@ -2174,14 +2174,14 @@
      "ataque": -0.103,
      "defensa": 0.041,
      "neto": -0.062,
-     "peso": 48.4,
+     "peso": 48.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.533,
      "defensa": 0.435,
      "neto": 0.968,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "forma_local": {
