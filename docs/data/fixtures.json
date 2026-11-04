@@ -1,32 +1,12 @@
 {
- "actualizado": "2026-11-04T13:33:03+00:00",
+ "actualizado": "2026-11-04T20:38:13+00:00",
  "fixtures": [
-  {
-   "id": 575386,
-   "competicion_codigo": "CL",
-   "competicion": "Champions League",
-   "fecha_utc": "2026-11-04T17:45:00Z",
-   "estado": "TIMED",
-   "jornada": 4,
-   "local": "PAE AEK",
-   "visitante": "Real Madrid CF"
-  },
-  {
-   "id": 575387,
-   "competicion_codigo": "CL",
-   "competicion": "Champions League",
-   "fecha_utc": "2026-11-04T17:45:00Z",
-   "estado": "TIMED",
-   "jornada": 4,
-   "local": "Fenerbahçe SK",
-   "visitante": "Liverpool FC"
-  },
   {
    "id": 575388,
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-11-04T20:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 4,
    "local": "RB Leipzig",
    "visitante": "Manchester City FC"
@@ -36,7 +16,7 @@
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-11-04T20:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 4,
    "local": "SK Slavia Praha",
    "visitante": "Arsenal FC"
@@ -46,7 +26,7 @@
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-11-04T20:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 4,
    "local": "PSV",
    "visitante": "Club Brugge KV"
@@ -56,7 +36,7 @@
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-11-04T20:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 4,
    "local": "Borussia Dortmund",
    "visitante": "Real Betis Balompié"
@@ -66,7 +46,7 @@
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-11-04T20:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 4,
    "local": "FC Porto",
    "visitante": "SSC Napoli"
@@ -76,7 +56,7 @@
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-11-04T20:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 4,
    "local": "Racing Club de Lens",
    "visitante": "Como 1907"
@@ -86,7 +66,7 @@
    "competicion_codigo": "CL",
    "competicion": "Champions League",
    "fecha_utc": "2026-11-04T20:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 4,
    "local": "Viking FK",
    "visitante": "Sabah FK"
@@ -252,16 +232,6 @@
    "visitante": "RC Deportivo La Coruña"
   },
   {
-   "id": 559637,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-11-07T16:15:00Z",
-   "estado": "TIMED",
-   "jornada": 10,
-   "local": "AJ Auxerre",
-   "visitante": "Paris FC"
-  },
-  {
    "id": 558535,
    "competicion_codigo": "SA",
    "competicion": "Serie A",
@@ -302,6 +272,16 @@
    "visitante": "SV Werder Bremen"
   },
   {
+   "id": 559637,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-11-07T18:00:00Z",
+   "estado": "TIMED",
+   "jornada": 10,
+   "local": "AJ Auxerre",
+   "visitante": "Paris FC"
+  },
+  {
    "id": 558531,
    "competicion_codigo": "SA",
    "competicion": "Serie A",
@@ -312,16 +292,6 @@
    "visitante": "US Sassuolo Calcio"
   },
   {
-   "id": 559635,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-11-07T19:45:00Z",
-   "estado": "TIMED",
-   "jornada": 10,
-   "local": "Paris Saint-Germain FC",
-   "visitante": "ES Troyes AC"
-  },
-  {
    "id": 564741,
    "competicion_codigo": "PD",
    "competicion": "La Liga",
@@ -330,6 +300,16 @@
    "jornada": 12,
    "local": "Valencia CF",
    "visitante": "Real Madrid CF"
+  },
+  {
+   "id": 559635,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-11-07T20:05:00Z",
+   "estado": "TIMED",
+   "jornada": 10,
+   "local": "Paris Saint-Germain FC",
+   "visitante": "ES Troyes AC"
   },
   {
    "id": 558533,

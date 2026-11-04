@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-07",
- "actualizado": "2026-11-04T13:33:05+00:00",
+ "actualizado": "2026-11-04T20:38:15+00:00",
  "partidos": [
   {
    "id": 560632,
@@ -47,14 +47,14 @@
      "ataque": -0.041,
      "defensa": 0.153,
      "neto": 0.112,
-     "peso": 30.0,
+     "peso": 29.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.047,
      "defensa": -0.019,
      "neto": 0.028,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "forma_local": {
@@ -121,7 +121,7 @@
     "prob_2": 0.329,
     "goles_esperados": [
      1.773,
-     1.515
+     1.516
     ],
     "prob_over_2_5": 0.638,
     "prob_btts": 0.651,
@@ -193,11 +193,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Real Racing Club de Santander es más fuerte de fondo (neto -0.41 vs -0.54): ataca ~11% más que el promedio. Málaga CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.77 – 1.51; el modelo ve marcando más a Málaga CF. Y la forma reciente lo confirma: Real Racing Club de Santander llega mejor (1G-1E-3P vs 0G-2E-3P).",
+    "explicacion": "Real Racing Club de Santander es más fuerte de fondo (neto -0.41 vs -0.54): ataca ~11% más que el promedio. Málaga CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.77 – 1.52; el modelo ve marcando más a Málaga CF. Y la forma reciente lo confirma: Real Racing Club de Santander llega mejor (1G-1E-3P vs 0G-2E-3P).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.651,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.77 y 1.51. Probabilidad: 65%.",
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.77 y 1.52. Probabilidad: 65%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.843
@@ -217,7 +217,7 @@
    "prediccion": {
     "prob_1": 0.484,
     "prob_X": 0.279,
-    "prob_2": 0.237,
+    "prob_2": 0.238,
     "goles_esperados": [
      1.381,
      0.88
@@ -468,7 +468,7 @@
     "prob_X": 0.198,
     "prob_2": 0.161,
     "goles_esperados": [
-     2.311,
+     2.31,
      1.092
     ],
     "prob_over_2_5": 0.661,
@@ -507,7 +507,7 @@
      "ataque": -0.007,
      "defensa": -0.034,
      "neto": -0.042,
-     "peso": 41.6,
+     "peso": 41.5,
      "fiable": true
     },
     "forma_local": {
@@ -636,7 +636,7 @@
      "ataque": 0.308,
      "defensa": 0.381,
      "neto": 0.689,
-     "peso": 41.6,
+     "peso": 41.5,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -704,7 +704,7 @@
     "prob_2": 0.703,
     "goles_esperados": [
      1.207,
-     2.807
+     2.808
     ],
     "prob_over_2_5": 0.764,
     "prob_btts": 0.662,
@@ -838,7 +838,7 @@
     "prob_X": 0.298,
     "prob_2": 0.362,
     "goles_esperados": [
-     1.139,
+     1.138,
      1.183
     ],
     "prob_over_2_5": 0.41,
@@ -870,7 +870,7 @@
     "fuerza_local": {
      "ataque": -0.439,
      "defensa": 0.273,
-     "neto": -0.166,
+     "neto": -0.167,
      "peso": 7.5,
      "fiable": false
     },
@@ -935,7 +935,7 @@
    "visitante": "Hull City AFC",
    "prediccion": {
     "prob_1": 0.636,
-    "prob_X": 0.248,
+    "prob_X": 0.247,
     "prob_2": 0.116,
     "goles_esperados": [
      1.697,
@@ -954,7 +954,7 @@
      ],
      [
       "0-0",
-      0.1098
+      0.1097
      ]
     ],
     "cuotas_justas": [
@@ -1076,7 +1076,7 @@
      "ataque": 0.183,
      "defensa": -0.002,
      "neto": 0.181,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "forma_local": {
@@ -1204,7 +1204,7 @@
      "ataque": -0.098,
      "defensa": 0.062,
      "neto": -0.036,
-     "peso": 42.9,
+     "peso": 42.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1259,120 +1259,6 @@
    }
   },
   {
-   "id": 559637,
-   "competicion": "Ligue 1",
-   "competicion_codigo": "FL1",
-   "fecha_utc": "2026-11-07T16:15:00Z",
-   "jornada": 10,
-   "local": "AJ Auxerre",
-   "visitante": "Paris FC",
-   "prediccion": {
-    "prob_1": 0.311,
-    "prob_X": 0.265,
-    "prob_2": 0.423,
-    "goles_esperados": [
-     1.251,
-     1.496
-    ],
-    "prob_over_2_5": 0.518,
-    "prob_btts": 0.56,
-    "marcadores": [
-     [
-      "1-1",
-      0.1259
-     ],
-     [
-      "0-1",
-      0.09
-     ],
-     [
-      "1-2",
-      0.0898
-     ]
-    ],
-    "cuotas_justas": [
-     3.21,
-     3.77,
-     2.36
-    ],
-    "resumen": "Gana Paris FC (ligero favorito, 42%).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": -0.059,
-     "defensa": -0.059,
-     "neto": -0.118,
-     "peso": 37.4,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.146,
-     "defensa": 0.126,
-     "neto": 0.272,
-     "peso": 27.7,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 2,
-     "e": 1,
-     "p": 2,
-     "gf": 8,
-     "gc": 12,
-     "racha": [
-      "G",
-      "P",
-      "G",
-      "E",
-      "P"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 3,
-     "e": 0,
-     "p": 2,
-     "gf": 10,
-     "gc": 8,
-     "racha": [
-      "G",
-      "P",
-      "G",
-      "P",
-      "G"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-02-08",
-      "local": "AJ Auxerre",
-      "visitante": "Paris FC",
-      "goles_local": 0,
-      "goles_visitante": 0
-     },
-     {
-      "fecha": "2025-11-29",
-      "local": "Paris FC",
-      "visitante": "AJ Auxerre",
-      "goles_local": 1,
-      "goles_visitante": 1
-     }
-    ],
-    "explicacion": "Paris FC es más fuerte de fondo (neto +0.27 vs -0.12): ataca ~16% más que el promedio, encaja ~12% menos. AJ Auxerre juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.25 – 1.50; el modelo ve marcando más a Paris FC. Y la forma reciente lo confirma: Paris FC llega mejor (3G-0E-2P vs 2G-1E-2P).",
-    "recomendacion": {
-     "mercado": "X2",
-     "prob": 0.689,
-     "por_que": "Doble oportunidad: cubre que AJ Auxerre no gane. El escenario que queda afuera (gane AJ Auxerre) es el menos probable (31%), así que el mercado se cumple ~69% de las veces.",
-     "alternativa": {
-      "mercado": "Ambos marcan: Sí",
-      "prob": 0.56
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
    "id": 558535,
    "competicion": "Serie A",
    "competicion_codigo": "SA",
@@ -1406,7 +1292,7 @@
     ],
     "cuotas_justas": [
      4.09,
-     3.46,
+     3.47,
      2.14
     ],
     "resumen": "Gana Bologna FC 1909 (ligero favorito, 47%). pocos goles (-2.5).",
@@ -1903,6 +1789,120 @@
    }
   },
   {
+   "id": 559637,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-11-07T18:00:00Z",
+   "jornada": 10,
+   "local": "AJ Auxerre",
+   "visitante": "Paris FC",
+   "prediccion": {
+    "prob_1": 0.311,
+    "prob_X": 0.265,
+    "prob_2": 0.423,
+    "goles_esperados": [
+     1.251,
+     1.496
+    ],
+    "prob_over_2_5": 0.518,
+    "prob_btts": 0.56,
+    "marcadores": [
+     [
+      "1-1",
+      0.1259
+     ],
+     [
+      "0-1",
+      0.09
+     ],
+     [
+      "1-2",
+      0.0898
+     ]
+    ],
+    "cuotas_justas": [
+     3.21,
+     3.77,
+     2.36
+    ],
+    "resumen": "Gana Paris FC (ligero favorito, 42%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.059,
+     "defensa": -0.059,
+     "neto": -0.118,
+     "peso": 37.3,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.146,
+     "defensa": 0.126,
+     "neto": 0.272,
+     "peso": 27.6,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 1,
+     "p": 2,
+     "gf": 8,
+     "gc": 12,
+     "racha": [
+      "G",
+      "P",
+      "G",
+      "E",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 0,
+     "p": 2,
+     "gf": 10,
+     "gc": 8,
+     "racha": [
+      "G",
+      "P",
+      "G",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-02-08",
+      "local": "AJ Auxerre",
+      "visitante": "Paris FC",
+      "goles_local": 0,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-11-29",
+      "local": "Paris FC",
+      "visitante": "AJ Auxerre",
+      "goles_local": 1,
+      "goles_visitante": 1
+     }
+    ],
+    "explicacion": "Paris FC es más fuerte de fondo (neto +0.27 vs -0.12): ataca ~16% más que el promedio, encaja ~12% menos. AJ Auxerre juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.25 – 1.50; el modelo ve marcando más a Paris FC. Y la forma reciente lo confirma: Paris FC llega mejor (3G-0E-2P vs 2G-1E-2P).",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.689,
+     "por_que": "Doble oportunidad: cubre que AJ Auxerre no gane. El escenario que queda afuera (gane AJ Auxerre) es el menos probable (31%), así que el mercado se cumple ~69% de las veces.",
+     "alternativa": {
+      "mercado": "Ambos marcan: Sí",
+      "prob": 0.56
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
    "id": 558531,
    "competicion": "Serie A",
    "competicion_codigo": "SA",
@@ -2031,105 +2031,6 @@
    }
   },
   {
-   "id": 559635,
-   "competicion": "Ligue 1",
-   "competicion_codigo": "FL1",
-   "fecha_utc": "2026-11-07T19:45:00Z",
-   "jornada": 10,
-   "local": "Paris Saint-Germain FC",
-   "visitante": "ES Troyes AC",
-   "prediccion": {
-    "prob_1": 0.863,
-    "prob_X": 0.1,
-    "prob_2": 0.038,
-    "goles_esperados": [
-     3.093,
-     0.568
-    ],
-    "prob_over_2_5": 0.708,
-    "prob_btts": 0.416,
-    "marcadores": [
-     [
-      "3-0",
-      0.1269
-     ],
-     [
-      "2-0",
-      0.123
-     ],
-     [
-      "4-0",
-      0.0981
-     ]
-    ],
-    "cuotas_justas": [
-     1.16,
-     10.05,
-     26.26
-    ],
-    "resumen": "Gana Paris Saint-Germain FC (claro favorito, 86%). se esperan goles (+2.5).",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.554,
-     "defensa": 0.408,
-     "neto": 0.962,
-     "peso": 42.2,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.356,
-     "defensa": -0.167,
-     "neto": -0.523,
-     "peso": 8.4,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 5,
-     "e": 0,
-     "p": 0,
-     "gf": 15,
-     "gc": 4,
-     "racha": [
-      "G",
-      "G",
-      "G",
-      "G",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 1,
-     "e": 1,
-     "p": 3,
-     "gf": 3,
-     "gc": 7,
-     "racha": [
-      "P",
-      "P",
-      "P",
-      "E",
-      "G"
-     ]
-    },
-    "cara_a_cara": [],
-    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.96 vs -0.52): ataca ~74% más que el promedio, encaja ~34% menos. Paris Saint-Germain FC juega en casa (~+23% de ventaja, ya contada). Goles esperados: 3.09 – 0.57; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (5G-0E-0P vs 1G-1E-3P).",
-    "recomendacion": {
-     "mercado": "1",
-     "prob": 0.863,
-     "por_que": "Paris Saint-Germain FC es favorito en casa: marca más (3.09 vs 0.57) y es más fuerte de fondo (neto +0.96 vs -0.52). Probabilidad: 86%.",
-     "alternativa": {
-      "mercado": "1X",
-      "prob": 0.962
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
    "id": 564741,
    "competicion": "La Liga",
    "competicion_codigo": "PD",
@@ -2158,12 +2059,12 @@
      ],
      [
       "1-1",
-      0.1108
+      0.1107
      ]
     ],
     "cuotas_justas": [
      5.8,
-     4.29,
+     4.3,
      1.68
     ],
     "resumen": "Gana Real Madrid CF (claro favorito, 59%).",
@@ -2259,6 +2160,105 @@
      "alternativa": {
       "mercado": "2",
       "prob": 0.595
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 559635,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-11-07T20:05:00Z",
+   "jornada": 10,
+   "local": "Paris Saint-Germain FC",
+   "visitante": "ES Troyes AC",
+   "prediccion": {
+    "prob_1": 0.862,
+    "prob_X": 0.1,
+    "prob_2": 0.038,
+    "goles_esperados": [
+     3.093,
+     0.568
+    ],
+    "prob_over_2_5": 0.708,
+    "prob_btts": 0.416,
+    "marcadores": [
+     [
+      "3-0",
+      0.1268
+     ],
+     [
+      "2-0",
+      0.123
+     ],
+     [
+      "4-0",
+      0.0981
+     ]
+    ],
+    "cuotas_justas": [
+     1.16,
+     10.05,
+     26.25
+    ],
+    "resumen": "Gana Paris Saint-Germain FC (claro favorito, 86%). se esperan goles (+2.5).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.554,
+     "defensa": 0.408,
+     "neto": 0.961,
+     "peso": 42.2,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.356,
+     "defensa": -0.167,
+     "neto": -0.523,
+     "peso": 8.4,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 5,
+     "e": 0,
+     "p": 0,
+     "gf": 15,
+     "gc": 4,
+     "racha": [
+      "G",
+      "G",
+      "G",
+      "G",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 3,
+     "gc": 7,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "E",
+      "G"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.96 vs -0.52): ataca ~74% más que el promedio, encaja ~34% menos. Paris Saint-Germain FC juega en casa (~+23% de ventaja, ya contada). Goles esperados: 3.09 – 0.57; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (5G-0E-0P vs 1G-1E-3P).",
+    "recomendacion": {
+     "mercado": "1",
+     "prob": 0.862,
+     "por_que": "Paris Saint-Germain FC es favorito en casa: marca más (3.09 vs 0.57) y es más fuerte de fondo (neto +0.96 vs -0.52). Probabilidad: 86%.",
+     "alternativa": {
+      "mercado": "1X",
+      "prob": 0.962
      },
      "confianza": "alta"
     }
