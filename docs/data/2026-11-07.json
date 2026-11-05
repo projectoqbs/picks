@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-07",
- "actualizado": "2026-11-04T20:38:15+00:00",
+ "actualizado": "2026-11-05T13:47:11+00:00",
  "partidos": [
   {
    "id": 560632,
@@ -16,7 +16,7 @@
     "prob_2": 0.282,
     "goles_esperados": [
      1.464,
-     1.13
+     1.131
     ],
     "prob_over_2_5": 0.48,
     "prob_btts": 0.53,
@@ -27,7 +27,7 @@
      ],
      [
       "1-0",
-      0.0997
+      0.0996
      ],
      [
       "2-1",
@@ -121,7 +121,7 @@
     "prob_2": 0.329,
     "goles_esperados": [
      1.773,
-     1.516
+     1.515
     ],
     "prob_over_2_5": 0.638,
     "prob_btts": 0.651,
@@ -193,11 +193,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Real Racing Club de Santander es más fuerte de fondo (neto -0.41 vs -0.54): ataca ~11% más que el promedio. Málaga CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.77 – 1.52; el modelo ve marcando más a Málaga CF. Y la forma reciente lo confirma: Real Racing Club de Santander llega mejor (1G-1E-3P vs 0G-2E-3P).",
+    "explicacion": "Real Racing Club de Santander es más fuerte de fondo (neto -0.41 vs -0.54): ataca ~11% más que el promedio. Málaga CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.77 – 1.51; el modelo ve marcando más a Málaga CF. Y la forma reciente lo confirma: Real Racing Club de Santander llega mejor (1G-1E-3P vs 0G-2E-3P).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.651,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.77 y 1.52. Probabilidad: 65%.",
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.77 y 1.51. Probabilidad: 65%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.843
@@ -251,14 +251,14 @@
      "ataque": -0.043,
      "defensa": -0.06,
      "neto": -0.104,
-     "peso": 47.5,
+     "peso": 47.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.361,
      "defensa": -0.102,
      "neto": -0.463,
-     "peso": 47.5,
+     "peso": 47.4,
      "fiable": true
     },
     "forma_local": {
@@ -386,7 +386,7 @@
      "ataque": -0.132,
      "defensa": -0.077,
      "neto": -0.21,
-     "peso": 47.5,
+     "peso": 47.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -500,7 +500,7 @@
      "ataque": 0.323,
      "defensa": 0.161,
      "neto": 0.484,
-     "peso": 41.6,
+     "peso": 41.5,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -633,9 +633,9 @@
    "nota": "pocos datos: 'SV 07 Elversberg' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.308,
+     "ataque": 0.307,
      "defensa": 0.381,
-     "neto": 0.689,
+     "neto": 0.688,
      "peso": 41.5,
      "fiable": true
     },
@@ -703,8 +703,8 @@
     "prob_X": 0.163,
     "prob_2": 0.703,
     "goles_esperados": [
-     1.207,
-     2.808
+     1.208,
+     2.807
     ],
     "prob_over_2_5": 0.764,
     "prob_btts": 0.662,
@@ -735,14 +735,14 @@
      "ataque": 0.047,
      "defensa": 0.019,
      "neto": 0.066,
-     "peso": 41.6,
+     "peso": 41.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.795,
      "defensa": 0.339,
      "neto": 1.134,
-     "peso": 41.6,
+     "peso": 41.5,
      "fiable": true
     },
     "forma_local": {
@@ -838,7 +838,7 @@
     "prob_X": 0.298,
     "prob_2": 0.362,
     "goles_esperados": [
-     1.138,
+     1.139,
      1.183
     ],
     "prob_over_2_5": 0.41,
@@ -870,7 +870,7 @@
     "fuerza_local": {
      "ataque": -0.439,
      "defensa": 0.273,
-     "neto": -0.167,
+     "neto": -0.166,
      "peso": 7.5,
      "fiable": false
     },
@@ -878,7 +878,7 @@
      "ataque": 0.185,
      "defensa": -0.089,
      "neto": 0.096,
-     "peso": 41.6,
+     "peso": 41.5,
      "fiable": true
     },
     "forma_local": {
@@ -935,8 +935,8 @@
    "visitante": "Hull City AFC",
    "prediccion": {
     "prob_1": 0.636,
-    "prob_X": 0.247,
-    "prob_2": 0.116,
+    "prob_X": 0.248,
+    "prob_2": 0.117,
     "goles_esperados": [
      1.697,
      0.588
@@ -954,7 +954,7 @@
      ],
      [
       "0-0",
-      0.1097
+      0.1098
      ]
     ],
     "cuotas_justas": [
@@ -970,14 +970,14 @@
      "ataque": 0.32,
      "defensa": 0.658,
      "neto": 0.978,
-     "peso": 46.2,
+     "peso": 46.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.102,
      "defensa": 0.194,
-     "neto": 0.092,
-     "peso": 8.4,
+     "neto": 0.093,
+     "peso": 8.3,
      "fiable": true
     },
     "forma_local": {
@@ -1014,7 +1014,7 @@
     "explicacion": "Arsenal FC es más fuerte de fondo (neto +0.98 vs +0.09): ataca ~38% más que el promedio, encaja ~48% menos. Arsenal FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.70 – 0.59; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (4G-0E-1P vs 0G-3E-2P).",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.884,
+     "prob": 0.883,
      "por_que": "Doble oportunidad: cubre que Arsenal FC no pierda. El escenario que queda afuera (gane Hull City AFC) es el menos probable (12%), así que el mercado se cumple ~88% de las veces.",
      "alternativa": {
       "mercado": "1",
@@ -1040,12 +1040,12 @@
      1.415,
      1.372
     ],
-    "prob_over_2_5": 0.527,
+    "prob_over_2_5": 0.528,
     "prob_btts": 0.575,
     "marcadores": [
      [
       "1-1",
-      0.129
+      0.1289
      ],
      [
       "2-1",
@@ -1069,7 +1069,7 @@
      "ataque": -0.057,
      "defensa": 0.095,
      "neto": 0.037,
-     "peso": 46.2,
+     "peso": 46.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1303,14 +1303,14 @@
      "ataque": -0.303,
      "defensa": 0.027,
      "neto": -0.277,
-     "peso": 42.1,
+     "peso": 42.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.117,
      "defensa": 0.113,
      "neto": 0.231,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "forma_local": {
@@ -1431,14 +1431,14 @@
      "ataque": 0.333,
      "defensa": 0.088,
      "neto": 0.422,
-     "peso": 41.6,
+     "peso": 41.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.011,
      "defensa": -0.034,
      "neto": -0.044,
-     "peso": 41.6,
+     "peso": 41.5,
      "fiable": true
     },
     "forma_local": {
@@ -1566,14 +1566,14 @@
      "ataque": -0.052,
      "defensa": 0.105,
      "neto": 0.052,
-     "peso": 46.2,
+     "peso": 46.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.423,
      "defensa": 0.365,
      "neto": 0.788,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "forma_local": {
@@ -1698,14 +1698,14 @@
      "ataque": -0.051,
      "defensa": -0.04,
      "neto": -0.091,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.06,
      "defensa": 0.187,
      "neto": 0.248,
-     "peso": 47.3,
+     "peso": 47.2,
      "fiable": true
     },
     "forma_local": {
@@ -1947,14 +1947,14 @@
      "ataque": 0.399,
      "defensa": 0.338,
      "neto": 0.737,
-     "peso": 47.5,
+     "peso": 47.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.075,
      "defensa": -0.231,
-     "neto": -0.155,
-     "peso": 36.6,
+     "neto": -0.156,
+     "peso": 36.5,
      "fiable": true
     },
     "forma_local": {
@@ -2017,11 +2017,11 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "AS Roma es más fuerte de fondo (neto +0.74 vs -0.15): ataca ~49% más que el promedio, encaja ~29% menos. AS Roma juega en casa (~+10% de ventaja, ya contada). Goles esperados: 2.44 – 0.91; el modelo ve marcando más a AS Roma. Y la forma reciente lo confirma: AS Roma llega mejor (3G-2E-0P vs 0G-1E-4P).",
+    "explicacion": "AS Roma es más fuerte de fondo (neto +0.74 vs -0.16): ataca ~49% más que el promedio, encaja ~29% menos. AS Roma juega en casa (~+10% de ventaja, ya contada). Goles esperados: 2.44 – 0.91; el modelo ve marcando más a AS Roma. Y la forma reciente lo confirma: AS Roma llega mejor (3G-2E-0P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.709,
-     "por_que": "AS Roma es favorito en casa: marca más (2.44 vs 0.91) y es más fuerte de fondo (neto +0.74 vs -0.15). Probabilidad: 71%.",
+     "por_que": "AS Roma es favorito en casa: marca más (2.44 vs 0.91) y es más fuerte de fondo (neto +0.74 vs -0.16). Probabilidad: 71%.",
      "alternativa": {
       "mercado": "1X",
       "prob": 0.879
@@ -2075,14 +2075,14 @@
      "ataque": -0.103,
      "defensa": 0.041,
      "neto": -0.062,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.533,
      "defensa": 0.435,
      "neto": 0.968,
-     "peso": 48.2,
+     "peso": 48.1,
      "fiable": true
     },
     "forma_local": {
@@ -2186,7 +2186,7 @@
     "marcadores": [
      [
       "3-0",
-      0.1268
+      0.1269
      ],
      [
       "2-0",
@@ -2217,7 +2217,7 @@
      "ataque": -0.356,
      "defensa": -0.167,
      "neto": -0.523,
-     "peso": 8.4,
+     "peso": 8.3,
      "fiable": true
     },
     "forma_local": {
