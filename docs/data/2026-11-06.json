@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-06",
- "actualizado": "2026-11-06T13:31:12+00:00",
+ "actualizado": "2026-11-06T20:12:17+00:00",
  "partidos": [
   {
    "id": 565852,
@@ -12,7 +12,7 @@
    "visitante": "Borussia Mönchengladbach",
    "prediccion": {
     "prob_1": 0.389,
-    "prob_X": 0.266,
+    "prob_X": 0.267,
     "prob_2": 0.345,
     "goles_esperados": [
      1.455,
@@ -160,7 +160,7 @@
     "fuerza_local": {
      "ataque": -0.391,
      "defensa": -0.144,
-     "neto": -0.535,
+     "neto": -0.534,
      "peso": 20.1,
      "fiable": true
     },
@@ -217,7 +217,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Udinese Calcio es más fuerte de fondo (neto -0.17 vs -0.54): es más completo en general. Venezia FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.98 – 1.28; el modelo ve marcando más a Udinese Calcio. Pero ojo: en forma reciente Venezia FC llega mejor que Udinese Calcio, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Udinese Calcio es más fuerte de fondo (neto -0.17 vs -0.53): es más completo en general. Venezia FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.98 – 1.28; el modelo ve marcando más a Udinese Calcio. Pero ojo: en forma reciente Venezia FC llega mejor que Udinese Calcio, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.719,
@@ -274,7 +274,7 @@
     "fuerza_local": {
      "ataque": 0.03,
      "defensa": 0.081,
-     "neto": 0.111,
+     "neto": 0.112,
      "peso": 41.3,
      "fiable": true
     },
@@ -282,7 +282,7 @@
      "ataque": 0.243,
      "defensa": -0.007,
      "neto": 0.235,
-     "peso": 42.1,
+     "peso": 42.0,
      "fiable": true
     },
     "forma_local": {
@@ -379,7 +379,7 @@
     "prob_2": 0.221,
     "goles_esperados": [
      1.473,
-     0.901
+     0.9
     ],
     "prob_over_2_5": 0.423,
     "prob_btts": 0.467,
@@ -390,11 +390,11 @@
      ],
      [
       "1-0",
-      0.1275
+      0.1276
      ],
      [
       "0-0",
-      0.1028
+      0.1029
      ]
     ],
     "cuotas_justas": [
@@ -481,7 +481,7 @@
      1.108
     ],
     "prob_over_2_5": 0.487,
-    "prob_btts": 0.526,
+    "prob_btts": 0.525,
     "marcadores": [
      [
       "1-1",
@@ -489,7 +489,7 @@
      ],
      [
       "1-0",
-      0.1066
+      0.1067
      ],
      [
       "2-1",

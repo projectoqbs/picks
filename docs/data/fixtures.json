@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-11-06T13:31:09+00:00",
+ "actualizado": "2026-11-06T20:12:13+00:00",
  "fixtures": [
   {
    "id": 565852,
    "competicion_codigo": "BL1",
    "competicion": "Bundesliga",
    "fecha_utc": "2026-11-06T19:30:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 9,
    "local": "Hamburger SV",
    "visitante": "Borussia Mönchengladbach"
@@ -26,7 +26,7 @@
    "competicion_codigo": "FL1",
    "competicion": "Ligue 1",
    "fecha_utc": "2026-11-06T19:45:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 10,
    "local": "Toulouse FC",
    "visitante": "RC Strasbourg Alsace"
@@ -36,7 +36,7 @@
    "competicion_codigo": "PL",
    "competicion": "Premier League",
    "fecha_utc": "2026-11-06T20:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 10,
    "local": "Everton FC",
    "visitante": "Coventry City FC"

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-07",
- "actualizado": "2026-11-06T13:31:12+00:00",
+ "actualizado": "2026-11-06T20:12:17+00:00",
  "partidos": [
   {
    "id": 560632,
@@ -16,7 +16,7 @@
     "prob_2": 0.282,
     "goles_esperados": [
      1.464,
-     1.13
+     1.131
     ],
     "prob_over_2_5": 0.48,
     "prob_btts": 0.53,
@@ -118,9 +118,9 @@
    "prediccion": {
     "prob_1": 0.437,
     "prob_X": 0.234,
-    "prob_2": 0.328,
+    "prob_2": 0.329,
     "goles_esperados": [
-     1.774,
+     1.773,
      1.515
     ],
     "prob_over_2_5": 0.638,
@@ -136,7 +136,7 @@
      ],
      [
       "1-2",
-      0.0759
+      0.076
      ]
     ],
     "cuotas_justas": [
@@ -227,7 +227,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1422
+      0.1423
      ],
      [
       "1-1",
@@ -331,7 +331,7 @@
     "explicacion": "Torino FC es más fuerte de fondo (neto -0.10 vs -0.46): es más completo en general. Torino FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.38 – 0.88; el modelo ve marcando más a Torino FC. Y la forma reciente lo confirma: Torino FC llega mejor (3G-0E-2P vs 1G-0E-4P).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.606,
+     "prob": 0.607,
      "por_que": "Pocos goles esperados en total (1.38 + 0.88 = 2.26). El modelo ve el partido cerrado (61% al under).",
      "alternativa": {
       "mercado": "1X",
@@ -355,7 +355,7 @@
     "prob_2": 0.52,
     "goles_esperados": [
      1.326,
-     1.957
+     1.956
     ],
     "prob_over_2_5": 0.637,
     "prob_btts": 0.632,
@@ -611,7 +611,7 @@
     "marcadores": [
      [
       "2-1",
-      0.0904
+      0.0905
      ],
      [
       "3-1",
@@ -869,7 +869,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.439,
-     "defensa": 0.273,
+     "defensa": 0.272,
      "neto": -0.166,
      "peso": 7.5,
      "fiable": false
@@ -1923,7 +1923,7 @@
     "marcadores": [
      [
       "2-0",
-      0.1039
+      0.104
      ],
      [
       "2-1",
@@ -1936,7 +1936,7 @@
     ],
     "cuotas_justas": [
      1.41,
-     5.87,
+     5.86,
      8.3
     ],
     "resumen": "Gana AS Roma (claro favorito, 71%). se esperan goles (+2.5).",
@@ -1953,7 +1953,7 @@
     "fuerza_visitante": {
      "ataque": 0.075,
      "defensa": -0.231,
-     "neto": -0.156,
+     "neto": -0.155,
      "peso": 36.5,
      "fiable": true
     },
@@ -2017,11 +2017,11 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "AS Roma es más fuerte de fondo (neto +0.74 vs -0.16): ataca ~49% más que el promedio, encaja ~29% menos. AS Roma juega en casa (~+10% de ventaja, ya contada). Goles esperados: 2.44 – 0.91; el modelo ve marcando más a AS Roma. Y la forma reciente lo confirma: AS Roma llega mejor (3G-2E-0P vs 0G-1E-4P).",
+    "explicacion": "AS Roma es más fuerte de fondo (neto +0.74 vs -0.15): ataca ~49% más que el promedio, encaja ~29% menos. AS Roma juega en casa (~+10% de ventaja, ya contada). Goles esperados: 2.44 – 0.91; el modelo ve marcando más a AS Roma. Y la forma reciente lo confirma: AS Roma llega mejor (3G-2E-0P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.709,
-     "por_que": "AS Roma es favorito en casa: marca más (2.44 vs 0.91) y es más fuerte de fondo (neto +0.74 vs -0.16). Probabilidad: 71%.",
+     "por_que": "AS Roma es favorito en casa: marca más (2.44 vs 0.91) y es más fuerte de fondo (neto +0.74 vs -0.15). Probabilidad: 71%.",
      "alternativa": {
       "mercado": "1X",
       "prob": 0.879
@@ -2081,8 +2081,8 @@
     "fuerza_visitante": {
      "ataque": 0.533,
      "defensa": 0.435,
-     "neto": 0.968,
-     "peso": 48.1,
+     "neto": 0.967,
+     "peso": 48.0,
      "fiable": true
     },
     "forma_local": {
@@ -2178,7 +2178,7 @@
     "prob_X": 0.1,
     "prob_2": 0.038,
     "goles_esperados": [
-     3.092,
+     3.093,
      0.568
     ],
     "prob_over_2_5": 0.708,
