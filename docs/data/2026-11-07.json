@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-07",
- "actualizado": "2026-11-06T20:12:17+00:00",
+ "actualizado": "2026-11-07T12:11:46+00:00",
  "partidos": [
   {
    "id": 560632,
@@ -11,23 +11,23 @@
    "local": "Leeds United FC",
    "visitante": "Tottenham Hotspur FC",
    "prediccion": {
-    "prob_1": 0.438,
+    "prob_1": 0.439,
     "prob_X": 0.279,
     "prob_2": 0.282,
     "goles_esperados": [
-     1.464,
-     1.131
+     1.465,
+     1.127
     ],
     "prob_over_2_5": 0.48,
-    "prob_btts": 0.53,
+    "prob_btts": 0.529,
     "marcadores": [
      [
       "1-1",
-      0.1333
+      0.1332
      ],
      [
       "1-0",
-      0.0996
+      0.1001
      ],
      [
       "2-1",
@@ -37,7 +37,7 @@
     "cuotas_justas": [
      2.28,
      3.58,
-     3.54
+     3.55
     ],
     "resumen": "Gana Leeds United FC (ligero favorito, 44%).",
     "confianza": "alta"
@@ -45,16 +45,16 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.041,
-     "defensa": 0.153,
-     "neto": 0.112,
+     "defensa": 0.156,
+     "neto": 0.115,
      "peso": 29.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.047,
-     "defensa": -0.019,
-     "neto": 0.028,
-     "peso": 46.1,
+     "ataque": 0.045,
+     "defensa": -0.016,
+     "neto": 0.029,
+     "peso": 46.0,
      "fiable": true
     },
     "forma_local": {
@@ -103,7 +103,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.11 vs +0.03). Leeds United FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.46 – 1.13; el modelo ve marcando más a Leeds United FC. En forma reciente pinta algo mejor Tottenham Hotspur FC (0G-3E-2P vs 3G-1E-1P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.12 vs +0.03). Leeds United FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.47 – 1.13; el modelo ve marcando más a Leeds United FC. En forma reciente pinta algo mejor Tottenham Hotspur FC (0G-3E-2P vs 3G-1E-1P en 5).",
     "recomendacion": null
    }
   },
@@ -117,48 +117,48 @@
    "visitante": "Real Racing Club de Santander",
    "prediccion": {
     "prob_1": 0.437,
-    "prob_X": 0.234,
-    "prob_2": 0.329,
+    "prob_X": 0.236,
+    "prob_2": 0.328,
     "goles_esperados": [
-     1.773,
-     1.515
+     1.777,
+     1.518
     ],
-    "prob_over_2_5": 0.638,
-    "prob_btts": 0.651,
+    "prob_over_2_5": 0.639,
+    "prob_btts": 0.652,
     "marcadores": [
      [
       "1-1",
-      0.1031
+      0.1036
      ],
      [
       "2-1",
-      0.0889
+      0.0888
      ],
      [
       "1-2",
-      0.076
+      0.0759
      ]
     ],
     "cuotas_justas": [
      2.29,
-     4.27,
-     3.04
+     4.24,
+     3.05
     ],
     "resumen": "Gana Málaga CF (ligero favorito, 44%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.337,
-     "defensa": -0.206,
-     "neto": -0.543,
+     "ataque": -0.334,
+     "defensa": -0.208,
+     "neto": -0.542,
      "peso": 10.1,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.105,
+     "ataque": 0.106,
      "defensa": -0.515,
-     "neto": -0.41,
+     "neto": -0.409,
      "peso": 10.1,
      "fiable": true
     },
@@ -193,14 +193,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Real Racing Club de Santander es más fuerte de fondo (neto -0.41 vs -0.54): ataca ~11% más que el promedio. Málaga CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.77 – 1.51; el modelo ve marcando más a Málaga CF. Y la forma reciente lo confirma: Real Racing Club de Santander llega mejor (1G-1E-3P vs 0G-2E-3P).",
+    "explicacion": "Real Racing Club de Santander es más fuerte de fondo (neto -0.41 vs -0.54): ataca ~11% más que el promedio. Málaga CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.78 – 1.52; el modelo ve marcando más a Málaga CF. Y la forma reciente lo confirma: Real Racing Club de Santander llega mejor (1G-1E-3P vs 0G-2E-3P).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
-     "prob": 0.651,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.77 y 1.51. Probabilidad: 65%.",
+     "prob": 0.652,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.78 y 1.52. Probabilidad: 65%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.843
+      "prob": 0.844
      },
      "confianza": "alta"
     }
@@ -217,17 +217,17 @@
    "prediccion": {
     "prob_1": 0.484,
     "prob_X": 0.279,
-    "prob_2": 0.238,
+    "prob_2": 0.237,
     "goles_esperados": [
      1.381,
-     0.88
+     0.879
     ],
-    "prob_over_2_5": 0.394,
+    "prob_over_2_5": 0.393,
     "prob_btts": 0.44,
     "marcadores": [
      [
       "1-0",
-      0.1423
+      0.1424
      ],
      [
       "1-1",
@@ -235,7 +235,7 @@
      ],
      [
       "0-0",
-      0.106
+      0.1061
      ]
     ],
     "cuotas_justas": [
@@ -248,17 +248,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.043,
+     "ataque": -0.046,
      "defensa": -0.06,
-     "neto": -0.104,
-     "peso": 47.3,
+     "neto": -0.106,
+     "peso": 47.2,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.361,
+     "ataque": -0.363,
      "defensa": -0.102,
-     "neto": -0.463,
-     "peso": 47.3,
+     "neto": -0.464,
+     "peso": 47.2,
      "fiable": true
     },
     "forma_local": {
@@ -328,14 +328,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Torino FC es más fuerte de fondo (neto -0.10 vs -0.46): es más completo en general. Torino FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.38 – 0.88; el modelo ve marcando más a Torino FC. Y la forma reciente lo confirma: Torino FC llega mejor (3G-0E-2P vs 1G-0E-4P).",
+    "explicacion": "Torino FC es más fuerte de fondo (neto -0.11 vs -0.46): es más completo en general. Torino FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.38 – 0.88; el modelo ve marcando más a Torino FC. Y la forma reciente lo confirma: Torino FC llega mejor (3G-0E-2P vs 1G-0E-4P).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.607,
      "por_que": "Pocos goles esperados en total (1.38 + 0.88 = 2.26). El modelo ve el partido cerrado (61% al under).",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.762
+      "prob": 0.763
      },
      "confianza": "alta"
     }
@@ -354,15 +354,15 @@
     "prob_X": 0.222,
     "prob_2": 0.52,
     "goles_esperados": [
-     1.326,
-     1.956
+     1.325,
+     1.955
     ],
-    "prob_over_2_5": 0.637,
-    "prob_btts": 0.632,
+    "prob_over_2_5": 0.636,
+    "prob_btts": 0.631,
     "marcadores": [
      [
       "1-1",
-      0.0987
+      0.0988
      ],
      [
       "1-2",
@@ -370,7 +370,7 @@
      ],
      [
       "0-1",
-      0.0721
+      0.0723
      ]
     ],
     "cuotas_justas": [
@@ -383,15 +383,15 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.132,
+     "ataque": -0.134,
      "defensa": -0.077,
-     "neto": -0.21,
-     "peso": 47.3,
+     "neto": -0.212,
+     "peso": 47.2,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.421,
-     "defensa": -0.15,
+     "ataque": 0.42,
+     "defensa": -0.149,
      "neto": 0.271,
      "peso": 14.7,
      "fiable": true
@@ -442,14 +442,14 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "Frosinone Calcio es más fuerte de fondo (neto +0.27 vs -0.21): ataca ~52% más que el promedio. Cagliari Calcio juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.33 – 1.96; el modelo ve marcando más a Frosinone Calcio. Y la forma reciente lo confirma: Frosinone Calcio llega mejor (3G-1E-1P vs 0G-1E-4P).",
+    "explicacion": "Frosinone Calcio es más fuerte de fondo (neto +0.27 vs -0.21): ataca ~52% más que el promedio. Cagliari Calcio juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.32 – 1.96; el modelo ve marcando más a Frosinone Calcio. Y la forma reciente lo confirma: Frosinone Calcio llega mejor (3G-1E-1P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.742,
      "por_que": "Doble oportunidad: cubre que Cagliari Calcio no gane. El escenario que queda afuera (gane Cagliari Calcio) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.841
+      "prob": 0.84
      },
      "confianza": "alta"
     }
@@ -464,15 +464,15 @@
    "local": "RB Leipzig",
    "visitante": "FC Augsburg",
    "prediccion": {
-    "prob_1": 0.641,
+    "prob_1": 0.642,
     "prob_X": 0.198,
-    "prob_2": 0.161,
+    "prob_2": 0.16,
     "goles_esperados": [
-     2.31,
-     1.092
+     2.311,
+     1.089
     ],
-    "prob_over_2_5": 0.661,
-    "prob_btts": 0.604,
+    "prob_over_2_5": 0.66,
+    "prob_btts": 0.603,
     "marcadores": [
      [
       "2-1",
@@ -484,30 +484,30 @@
      ],
      [
       "2-0",
-      0.0889
+      0.0891
      ]
     ],
     "cuotas_justas": [
      1.56,
      5.05,
-     6.22
+     6.24
     ],
     "resumen": "Gana RB Leipzig (claro favorito, 64%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.323,
-     "defensa": 0.161,
-     "neto": 0.484,
+     "ataque": 0.321,
+     "defensa": 0.162,
+     "neto": 0.483,
      "peso": 41.4,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.007,
+     "ataque": -0.009,
      "defensa": -0.034,
-     "neto": -0.042,
-     "peso": 41.4,
+     "neto": -0.043,
+     "peso": 41.3,
      "fiable": true
     },
     "forma_local": {
@@ -580,11 +580,11 @@
     "explicacion": "RB Leipzig es más fuerte de fondo (neto +0.48 vs -0.04): ataca ~38% más que el promedio, encaja ~15% menos. RB Leipzig juega en casa (~+25% de ventaja, ya contada). Goles esperados: 2.31 – 1.09; el modelo ve marcando más a RB Leipzig. Y la forma reciente lo confirma: RB Leipzig llega mejor (3G-0E-2P vs 0G-2E-3P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.641,
+     "prob": 0.642,
      "por_que": "RB Leipzig es favorito en casa: marca más (2.31 vs 1.09) y es más fuerte de fondo (neto +0.48 vs -0.04). Probabilidad: 64%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.859
+      "prob": 0.858
      },
      "confianza": "alta"
     }
@@ -599,51 +599,51 @@
    "local": "Borussia Dortmund",
    "visitante": "SV 07 Elversberg",
    "prediccion": {
-    "prob_1": 0.66,
-    "prob_X": 0.181,
-    "prob_2": 0.159,
+    "prob_1": 0.662,
+    "prob_X": 0.18,
+    "prob_2": 0.158,
     "goles_esperados": [
-     2.586,
-     1.236
+     2.591,
+     1.231
     ],
     "prob_over_2_5": 0.735,
-    "prob_btts": 0.66,
+    "prob_btts": 0.659,
     "marcadores": [
      [
       "2-1",
-      0.0905
+      0.0904
      ],
      [
       "3-1",
-      0.078
+      0.0781
      ],
      [
       "1-1",
-      0.0743
+      0.0741
      ]
     ],
     "cuotas_justas": [
      1.51,
-     5.53,
-     6.29
+     5.55,
+     6.34
     ],
     "resumen": "Gana Borussia Dortmund (claro favorito, 66%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'SV 07 Elversberg' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'SV 07 Elversberg' solo tiene 7.4 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.307,
-     "defensa": 0.381,
+     "ataque": 0.306,
+     "defensa": 0.382,
      "neto": 0.688,
-     "peso": 41.4,
+     "peso": 41.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.336,
-     "defensa": -0.162,
-     "neto": 0.174,
-     "peso": 7.5,
+     "ataque": 0.333,
+     "defensa": -0.163,
+     "neto": 0.17,
+     "peso": 7.4,
      "fiable": false
     },
     "forma_local": {
@@ -677,11 +677,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.69 vs +0.17): ataca ~36% más que el promedio, encaja ~32% menos. Borussia Dortmund juega en casa (~+25% de ventaja, ya contada). Goles esperados: 2.59 – 1.24; el modelo ve marcando más a Borussia Dortmund. Y la forma reciente lo confirma: Borussia Dortmund llega mejor (2G-3E-0P vs 2G-1E-2P). El modelo tiene pocos datos de SV 07 Elversberg: tomalo con pinzas.",
+    "explicacion": "Borussia Dortmund es más fuerte de fondo (neto +0.69 vs +0.17): ataca ~36% más que el promedio, encaja ~32% menos. Borussia Dortmund juega en casa (~+25% de ventaja, ya contada). Goles esperados: 2.59 – 1.23; el modelo ve marcando más a Borussia Dortmund. Y la forma reciente lo confirma: Borussia Dortmund llega mejor (2G-3E-0P vs 2G-1E-2P). El modelo tiene pocos datos de SV 07 Elversberg: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.735,
-     "por_que": "Bastantes goles esperados (2.59 + 1.24 = 3.82); al menos una defensa floja. Probabilidad al over: 73%.",
+     "por_que": "Bastantes goles esperados (2.59 + 1.23 = 3.82); al menos una defensa floja. Probabilidad al over: 73%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.899
@@ -699,50 +699,50 @@
    "local": "1. FSV Mainz 05",
    "visitante": "FC Bayern München",
    "prediccion": {
-    "prob_1": 0.134,
-    "prob_X": 0.163,
-    "prob_2": 0.703,
+    "prob_1": 0.135,
+    "prob_X": 0.164,
+    "prob_2": 0.701,
     "goles_esperados": [
      1.208,
-     2.807
+     2.799
     ],
-    "prob_over_2_5": 0.764,
+    "prob_over_2_5": 0.763,
     "prob_btts": 0.662,
     "marcadores": [
      [
       "1-2",
-      0.0859
+      0.0861
      ],
      [
       "1-3",
-      0.0804
+      0.0803
      ],
      [
       "0-2",
-      0.0711
+      0.0712
      ]
     ],
     "cuotas_justas": [
-     7.45,
-     6.14,
-     1.42
+     7.4,
+     6.11,
+     1.43
     ],
     "resumen": "Gana FC Bayern München (claro favorito, 70%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.047,
-     "defensa": 0.019,
+     "ataque": 0.045,
+     "defensa": 0.02,
      "neto": 0.066,
-     "peso": 41.4,
+     "peso": 41.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.795,
+     "ataque": 0.794,
      "defensa": 0.339,
-     "neto": 1.134,
-     "peso": 41.4,
+     "neto": 1.133,
+     "peso": 41.3,
      "fiable": true
     },
     "forma_local": {
@@ -812,11 +812,11 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.13 vs +0.07): ataca ~121% más que el promedio, encaja ~29% menos. 1. FSV Mainz 05 juega en casa (~+25% de ventaja, ya contada). Goles esperados: 1.21 – 2.81; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (3G-2E-0P vs 2G-0E-3P).",
+    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.13 vs +0.07): ataca ~121% más que el promedio, encaja ~29% menos. 1. FSV Mainz 05 juega en casa (~+25% de ventaja, ya contada). Goles esperados: 1.21 – 2.80; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (3G-2E-0P vs 2G-0E-3P).",
     "recomendacion": {
      "mercado": "2",
-     "prob": 0.703,
-     "por_que": "El modelo ve a FC Bayern München marcando más que 1. FSV Mainz 05 pese a la localía (2.81 vs 1.21), y lo respalda una diferencia de fuerza clara (neto +1.13 vs +0.07). Probabilidad del modelo: 70%.",
+     "prob": 0.701,
+     "por_que": "El modelo ve a FC Bayern München marcando más que 1. FSV Mainz 05 pese a la localía (2.80 vs 1.21), y lo respalda una diferencia de fuerza clara (neto +1.13 vs +0.07). Probabilidad del modelo: 70%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.913
@@ -834,51 +834,51 @@
    "local": "SC Paderborn 07",
    "visitante": "Eintracht Frankfurt",
    "prediccion": {
-    "prob_1": 0.34,
-    "prob_X": 0.298,
-    "prob_2": 0.362,
+    "prob_1": 0.341,
+    "prob_X": 0.299,
+    "prob_2": 0.36,
     "goles_esperados": [
-     1.139,
-     1.183
+     1.138,
+     1.179
     ],
-    "prob_over_2_5": 0.41,
-    "prob_btts": 0.48,
+    "prob_over_2_5": 0.408,
+    "prob_btts": 0.479,
     "marcadores": [
      [
       "1-1",
-      0.1403
+      0.1405
      ],
      [
       "0-1",
-      0.1078
+      0.108
      ],
      [
       "0-0",
-      0.1062
+      0.1068
      ]
     ],
     "cuotas_justas": [
-     2.94,
+     2.93,
      3.35,
-     2.76
+     2.77
     ],
     "resumen": "Partido parejo. pocos goles (-2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'SC Paderborn 07' solo tiene 7.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'SC Paderborn 07' solo tiene 7.4 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.439,
-     "defensa": 0.272,
+     "ataque": -0.441,
+     "defensa": 0.275,
      "neto": -0.166,
-     "peso": 7.5,
+     "peso": 7.4,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.185,
-     "defensa": -0.089,
-     "neto": 0.096,
-     "peso": 41.4,
+     "ataque": 0.183,
+     "defensa": -0.088,
+     "neto": 0.095,
+     "peso": 41.3,
      "fiable": true
     },
     "forma_local": {
@@ -914,12 +914,12 @@
     "cara_a_cara": [],
     "explicacion": "Eintracht Frankfurt es más fuerte de fondo (neto +0.10 vs -0.17): ataca ~20% más que el promedio. SC Paderborn 07 juega en casa (~+25% de ventaja, ya contada). Goles esperados: 1.14 – 1.18; el modelo ve marcando más a Eintracht Frankfurt. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de SC Paderborn 07: tomalo con pinzas.",
     "recomendacion": {
-     "mercado": "X2",
-     "prob": 0.66,
-     "por_que": "Doble oportunidad: cubre que SC Paderborn 07 no gane. El escenario que queda afuera (gane SC Paderborn 07) es el menos probable (34%), así que el mercado se cumple ~66% de las veces.",
+     "mercado": "Menos de 2.5 goles",
+     "prob": 0.592,
+     "por_que": "Pocos goles esperados en total (1.14 + 1.18 = 2.32); la defensa de SC Paderborn 07 aprieta. El modelo ve el partido cerrado (59% al under).",
      "alternativa": {
-      "mercado": "Menos de 2.5 goles",
-      "prob": 0.59
+      "mercado": "X2",
+      "prob": 0.659
      },
      "confianza": "baja"
     }
@@ -936,47 +936,47 @@
    "prediccion": {
     "prob_1": 0.636,
     "prob_X": 0.248,
-    "prob_2": 0.117,
+    "prob_2": 0.116,
     "goles_esperados": [
-     1.697,
-     0.588
+     1.693,
+     0.583
     ],
-    "prob_over_2_5": 0.4,
-    "prob_btts": 0.371,
+    "prob_over_2_5": 0.398,
+    "prob_btts": 0.368,
     "marcadores": [
      [
       "1-0",
-      0.1648
+      0.166
      ],
      [
       "2-0",
-      0.1465
+      0.1471
      ],
      [
       "0-0",
-      0.1097
+      0.1106
      ]
     ],
     "cuotas_justas": [
      1.57,
      4.04,
-     8.59
+     8.63
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 64%). pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.32,
-     "defensa": 0.658,
-     "neto": 0.978,
-     "peso": 46.0,
+     "ataque": 0.318,
+     "defensa": 0.661,
+     "neto": 0.979,
+     "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.102,
-     "defensa": 0.194,
-     "neto": 0.092,
+     "ataque": -0.109,
+     "defensa": 0.198,
+     "neto": 0.089,
      "peso": 8.3,
      "fiable": true
     },
@@ -1011,7 +1011,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Arsenal FC es más fuerte de fondo (neto +0.98 vs +0.09): ataca ~38% más que el promedio, encaja ~48% menos. Arsenal FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.70 – 0.59; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (4G-0E-1P vs 0G-3E-2P).",
+    "explicacion": "Arsenal FC es más fuerte de fondo (neto +0.98 vs +0.09): ataca ~37% más que el promedio, encaja ~48% menos. Arsenal FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.69 – 0.58; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (4G-0E-1P vs 0G-3E-2P).",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.884,
@@ -1037,15 +1037,15 @@
     "prob_X": 0.272,
     "prob_2": 0.354,
     "goles_esperados": [
-     1.415,
-     1.372
+     1.413,
+     1.368
     ],
-    "prob_over_2_5": 0.528,
-    "prob_btts": 0.575,
+    "prob_over_2_5": 0.526,
+    "prob_btts": 0.573,
     "marcadores": [
      [
       "1-1",
-      0.1289
+      0.1291
      ],
      [
       "2-1",
@@ -1053,30 +1053,30 @@
      ],
      [
       "1-2",
-      0.082
+      0.0819
      ]
     ],
     "cuotas_justas": [
-     2.68,
+     2.67,
      3.67,
-     2.82
+     2.83
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.057,
-     "defensa": 0.095,
-     "neto": 0.037,
-     "peso": 46.0,
+     "ataque": -0.059,
+     "defensa": 0.098,
+     "neto": 0.038,
+     "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.182,
-     "defensa": -0.002,
-     "neto": 0.181,
-     "peso": 46.1,
+     "ataque": 0.18,
+     "defensa": 0.002,
+     "neto": 0.182,
+     "peso": 46.0,
      "fiable": true
     },
     "forma_local": {
@@ -1146,14 +1146,14 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Newcastle United FC es más fuerte de fondo (neto +0.18 vs +0.04): ataca ~20% más que el promedio. Fulham FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.42 – 1.37; el modelo ve marcando más a Fulham FC. Pero ojo: en forma reciente Fulham FC llega mejor que Newcastle United FC, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Newcastle United FC es más fuerte de fondo (neto +0.18 vs +0.04): ataca ~20% más que el promedio. Fulham FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.41 – 1.37; el modelo ve marcando más a Fulham FC. Pero ojo: en forma reciente Fulham FC llega mejor que Newcastle United FC, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.626,
      "por_que": "Doble oportunidad: cubre que Fulham FC no gane. El escenario que queda afuera (gane Fulham FC) es el menos probable (37%), así que el mercado se cumple ~63% de las veces.",
      "alternativa": {
       "mercado": "Ambos marcan: Sí",
-      "prob": 0.575
+      "prob": 0.573
      },
      "confianza": "alta"
     }
@@ -1169,48 +1169,48 @@
    "visitante": "RC Deportivo La Coruña",
    "prediccion": {
     "prob_1": 0.403,
-    "prob_X": 0.287,
-    "prob_2": 0.31,
+    "prob_X": 0.288,
+    "prob_2": 0.308,
     "goles_esperados": [
-     1.265,
+     1.267,
      1.074
     ],
-    "prob_over_2_5": 0.414,
-    "prob_btts": 0.476,
+    "prob_over_2_5": 0.415,
+    "prob_btts": 0.478,
     "marcadores": [
      [
       "1-1",
-      0.1347
+      0.1356
      ],
      [
       "1-0",
-      0.1183
+      0.1173
      ],
      [
       "0-0",
-      0.1001
+      0.1009
      ]
     ],
     "cuotas_justas": [
      2.48,
-     3.49,
-     3.23
+     3.47,
+     3.24
     ],
     "resumen": "Partido parejo. pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.098,
-     "defensa": 0.062,
-     "neto": -0.036,
-     "peso": 42.7,
+     "ataque": -0.096,
+     "defensa": 0.061,
+     "neto": -0.035,
+     "peso": 42.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.029,
-     "defensa": 0.062,
-     "neto": 0.091,
+     "defensa": 0.061,
+     "neto": 0.09,
      "peso": 10.1,
      "fiable": true
     },
@@ -1245,11 +1245,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "RC Deportivo La Coruña es más fuerte de fondo (neto +0.09 vs -0.04): es más completo en general. RCD Espanyol de Barcelona juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.26 – 1.07; el modelo ve marcando más a RCD Espanyol de Barcelona. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "RC Deportivo La Coruña es más fuerte de fondo (neto +0.09 vs -0.04): es más completo en general. RCD Espanyol de Barcelona juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.27 – 1.07; el modelo ve marcando más a RCD Espanyol de Barcelona. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.586,
-     "por_que": "Pocos goles esperados en total (1.26 + 1.07 = 2.34). El modelo ve el partido cerrado (59% al under).",
+     "prob": 0.585,
+     "por_que": "Pocos goles esperados en total (1.27 + 1.07 = 2.34). El modelo ve el partido cerrado (59% al under).",
      "alternativa": {
       "mercado": "X2",
       "prob": 0.597
@@ -1267,12 +1267,12 @@
    "local": "Parma Calcio 1913",
    "visitante": "Bologna FC 1909",
    "prediccion": {
-    "prob_1": 0.244,
+    "prob_1": 0.245,
     "prob_X": 0.289,
-    "prob_2": 0.467,
+    "prob_2": 0.466,
     "goles_esperados": [
-     0.858,
-     1.301
+     0.859,
+     1.299
     ],
     "prob_over_2_5": 0.366,
     "prob_btts": 0.421,
@@ -1283,16 +1283,16 @@
      ],
      [
       "1-1",
-      0.1306
+      0.1307
      ],
      [
       "0-0",
-      0.1172
+      0.1173
      ]
     ],
     "cuotas_justas": [
-     4.09,
-     3.47,
+     4.08,
+     3.46,
      2.14
     ],
     "resumen": "Gana Bologna FC 1909 (ligero favorito, 47%). pocos goles (-2.5).",
@@ -1300,17 +1300,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.303,
+     "ataque": -0.306,
      "defensa": 0.027,
-     "neto": -0.276,
-     "peso": 41.9,
+     "neto": -0.279,
+     "peso": 41.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.117,
+     "ataque": 0.115,
      "defensa": 0.113,
-     "neto": 0.231,
-     "peso": 47.4,
+     "neto": 0.229,
+     "peso": 47.3,
      "fiable": true
     },
     "forma_local": {
@@ -1376,146 +1376,11 @@
     "explicacion": "Bologna FC 1909 es más fuerte de fondo (neto +0.23 vs -0.28): ataca ~12% más que el promedio, encaja ~11% menos. Parma Calcio 1913 juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.86 – 1.30; el modelo ve marcando más a Bologna FC 1909. Y la forma reciente lo confirma: Bologna FC 1909 llega mejor (4G-0E-1P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.756,
+     "prob": 0.755,
      "por_que": "Doble oportunidad: cubre que Parma Calcio 1913 no gane. El escenario que queda afuera (gane Parma Calcio 1913) es el menos probable (24%), así que el mercado se cumple ~76% de las veces.",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
-      "prob": 0.827
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 565849,
-   "competicion": "Bundesliga",
-   "competicion_codigo": "BL1",
-   "fecha_utc": "2026-11-07T17:30:00Z",
-   "jornada": 9,
-   "local": "VfB Stuttgart",
-   "visitante": "SV Werder Bremen",
-   "prediccion": {
-    "prob_1": 0.628,
-    "prob_X": 0.199,
-    "prob_2": 0.173,
-    "goles_esperados": [
-     2.333,
-     1.171
-    ],
-    "prob_over_2_5": 0.68,
-    "prob_btts": 0.628,
-    "marcadores": [
-     [
-      "2-1",
-      0.0959
-     ],
-     [
-      "1-1",
-      0.0873
-     ],
-     [
-      "2-0",
-      0.0819
-     ]
-    ],
-    "cuotas_justas": [
-     1.59,
-     5.03,
-     5.77
-    ],
-    "resumen": "Gana VfB Stuttgart (claro favorito, 63%). se esperan goles (+2.5). ambos marcan.",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.333,
-     "defensa": 0.088,
-     "neto": 0.421,
-     "peso": 41.4,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": -0.011,
-     "defensa": -0.034,
-     "neto": -0.044,
-     "peso": 41.4,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 2,
-     "e": 0,
-     "p": 3,
-     "gf": 8,
-     "gc": 7,
-     "racha": [
-      "P",
-      "G",
-      "P",
-      "P",
-      "G"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 3,
-     "e": 2,
-     "p": 0,
-     "gf": 12,
-     "gc": 8,
-     "racha": [
-      "G",
-      "E",
-      "E",
-      "G",
-      "G"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-04-26",
-      "local": "VfB Stuttgart",
-      "visitante": "SV Werder Bremen",
-      "goles_local": 1,
-      "goles_visitante": 1
-     },
-     {
-      "fecha": "2025-12-14",
-      "local": "SV Werder Bremen",
-      "visitante": "VfB Stuttgart",
-      "goles_local": 0,
-      "goles_visitante": 4
-     },
-     {
-      "fecha": "2025-04-13",
-      "local": "VfB Stuttgart",
-      "visitante": "SV Werder Bremen",
-      "goles_local": 1,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2024-11-30",
-      "local": "SV Werder Bremen",
-      "visitante": "VfB Stuttgart",
-      "goles_local": 2,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2024-04-21",
-      "local": "SV Werder Bremen",
-      "visitante": "VfB Stuttgart",
-      "goles_local": 2,
-      "goles_visitante": 1
-     }
-    ],
-    "explicacion": "VfB Stuttgart es más fuerte de fondo (neto +0.42 vs -0.04): ataca ~40% más que el promedio. VfB Stuttgart juega en casa (~+25% de ventaja, ya contada). Goles esperados: 2.33 – 1.17; el modelo ve marcando más a VfB Stuttgart. Pero ojo: en forma reciente SV Werder Bremen llega mejor que VfB Stuttgart, así que puede estar más cerca de lo que dice el neto.",
-    "recomendacion": {
-     "mercado": "1",
-     "prob": 0.628,
-     "por_que": "VfB Stuttgart es favorito en casa: marca más (2.33 vs 1.17) y es más fuerte de fondo (neto +0.42 vs -0.04). Probabilidad: 63%.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.87
+      "prob": 0.828
      },
      "confianza": "alta"
     }
@@ -1531,22 +1396,22 @@
    "visitante": "Manchester City FC",
    "prediccion": {
     "prob_1": 0.206,
-    "prob_X": 0.255,
-    "prob_2": 0.539,
+    "prob_X": 0.256,
+    "prob_2": 0.538,
     "goles_esperados": [
-     0.986,
-     1.728
+     0.984,
+     1.723
     ],
-    "prob_over_2_5": 0.51,
-    "prob_btts": 0.524,
+    "prob_over_2_5": 0.508,
+    "prob_btts": 0.523,
     "marcadores": [
      [
       "1-1",
-      0.1217
+      0.1219
      ],
      [
       "0-1",
-      0.1057
+      0.1062
      ],
      [
       "0-2",
@@ -1554,25 +1419,25 @@
      ]
     ],
     "cuotas_justas": [
-     4.86,
-     3.92,
-     1.85
+     4.85,
+     3.91,
+     1.86
     ],
     "resumen": "Gana Manchester City FC (ligero favorito, 54%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.052,
-     "defensa": 0.105,
-     "neto": 0.052,
+     "ataque": -0.055,
+     "defensa": 0.108,
+     "neto": 0.053,
      "peso": 46.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.423,
-     "defensa": 0.365,
-     "neto": 0.788,
+     "ataque": 0.421,
+     "defensa": 0.368,
+     "neto": 0.789,
      "peso": 46.1,
      "fiable": true
     },
@@ -1643,7 +1508,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Manchester City FC es más fuerte de fondo (neto +0.79 vs +0.05): ataca ~53% más que el promedio, encaja ~31% menos. Nottingham Forest FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 0.99 – 1.73; el modelo ve marcando más a Manchester City FC. Y la forma reciente lo confirma: Manchester City FC llega mejor (3G-0E-2P vs 0G-1E-4P).",
+    "explicacion": "Manchester City FC es más fuerte de fondo (neto +0.79 vs +0.05): ataca ~52% más que el promedio, encaja ~31% menos. Nottingham Forest FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 0.98 – 1.72; el modelo ve marcando más a Manchester City FC. Y la forma reciente lo confirma: Manchester City FC llega mejor (3G-0E-2P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.794,
@@ -1662,32 +1527,32 @@
    "local": "CA Osasuna",
    "visitante": "Athletic Club",
    "prediccion": {
-    "prob_1": 0.344,
-    "prob_X": 0.284,
-    "prob_2": 0.372,
+    "prob_1": 0.343,
+    "prob_X": 0.285,
+    "prob_2": 0.371,
     "goles_esperados": [
-     1.169,
-     1.227
+     1.173,
+     1.231
     ],
-    "prob_over_2_5": 0.429,
-    "prob_btts": 0.491,
+    "prob_over_2_5": 0.431,
+    "prob_btts": 0.493,
     "marcadores": [
      [
       "1-1",
-      0.1343
+      0.1351
      ],
      [
       "0-1",
-      0.108
+      0.1067
      ],
      [
       "1-0",
-      0.1028
+      0.1014
      ]
     ],
     "cuotas_justas": [
      2.91,
-     3.52,
+     3.5,
      2.69
     ],
     "resumen": "Partido parejo.",
@@ -1695,17 +1560,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.051,
-     "defensa": -0.04,
+     "ataque": -0.049,
+     "defensa": -0.042,
      "neto": -0.091,
-     "peso": 48.1,
+     "peso": 48.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.06,
-     "defensa": 0.187,
+     "ataque": 0.063,
+     "defensa": 0.185,
      "neto": 0.248,
-     "peso": 47.1,
+     "peso": 47.0,
      "fiable": true
     },
     "forma_local": {
@@ -1778,11 +1643,146 @@
     "explicacion": "Athletic Club es más fuerte de fondo (neto +0.25 vs -0.09): encaja ~17% menos. CA Osasuna juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.17 – 1.23; el modelo ve marcando más a Athletic Club. Y la forma reciente lo confirma: Athletic Club llega mejor (2G-2E-1P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.656,
+     "prob": 0.657,
      "por_que": "Doble oportunidad: cubre que CA Osasuna no gane. El escenario que queda afuera (gane CA Osasuna) es el menos probable (34%), así que el mercado se cumple ~66% de las veces.",
      "alternativa": {
       "mercado": "Menos de 2.5 goles",
-      "prob": 0.571
+      "prob": 0.569
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 565849,
+   "competicion": "Bundesliga",
+   "competicion_codigo": "BL1",
+   "fecha_utc": "2026-11-07T17:30:00Z",
+   "jornada": 9,
+   "local": "VfB Stuttgart",
+   "visitante": "SV Werder Bremen",
+   "prediccion": {
+    "prob_1": 0.629,
+    "prob_X": 0.199,
+    "prob_2": 0.172,
+    "goles_esperados": [
+     2.334,
+     1.167
+    ],
+    "prob_over_2_5": 0.679,
+    "prob_btts": 0.627,
+    "marcadores": [
+     [
+      "2-1",
+      0.0959
+     ],
+     [
+      "1-1",
+      0.0873
+     ],
+     [
+      "2-0",
+      0.0822
+     ]
+    ],
+    "cuotas_justas": [
+     1.59,
+     5.03,
+     5.8
+    ],
+    "resumen": "Gana VfB Stuttgart (claro favorito, 63%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.332,
+     "defensa": 0.089,
+     "neto": 0.421,
+     "peso": 41.3,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.012,
+     "defensa": -0.033,
+     "neto": -0.045,
+     "peso": 41.4,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 0,
+     "p": 3,
+     "gf": 8,
+     "gc": 7,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "P",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 3,
+     "e": 2,
+     "p": 0,
+     "gf": 12,
+     "gc": 8,
+     "racha": [
+      "G",
+      "E",
+      "E",
+      "G",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-04-26",
+      "local": "VfB Stuttgart",
+      "visitante": "SV Werder Bremen",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-12-14",
+      "local": "SV Werder Bremen",
+      "visitante": "VfB Stuttgart",
+      "goles_local": 0,
+      "goles_visitante": 4
+     },
+     {
+      "fecha": "2025-04-13",
+      "local": "VfB Stuttgart",
+      "visitante": "SV Werder Bremen",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-11-30",
+      "local": "SV Werder Bremen",
+      "visitante": "VfB Stuttgart",
+      "goles_local": 2,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-04-21",
+      "local": "SV Werder Bremen",
+      "visitante": "VfB Stuttgart",
+      "goles_local": 2,
+      "goles_visitante": 1
+     }
+    ],
+    "explicacion": "VfB Stuttgart es más fuerte de fondo (neto +0.42 vs -0.04): ataca ~39% más que el promedio. VfB Stuttgart juega en casa (~+25% de ventaja, ya contada). Goles esperados: 2.33 – 1.17; el modelo ve marcando más a VfB Stuttgart. Pero ojo: en forma reciente SV Werder Bremen llega mejor que VfB Stuttgart, así que puede estar más cerca de lo que dice el neto.",
+    "recomendacion": {
+     "mercado": "1",
+     "prob": 0.629,
+     "por_que": "VfB Stuttgart es favorito en casa: marca más (2.33 vs 1.17) y es más fuerte de fondo (neto +0.42 vs -0.04). Probabilidad: 63%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.869
      },
      "confianza": "alta"
     }
@@ -1797,49 +1797,49 @@
    "local": "AJ Auxerre",
    "visitante": "Paris FC",
    "prediccion": {
-    "prob_1": 0.311,
-    "prob_X": 0.265,
-    "prob_2": 0.423,
+    "prob_1": 0.312,
+    "prob_X": 0.266,
+    "prob_2": 0.422,
     "goles_esperados": [
-     1.251,
-     1.496
+     1.252,
+     1.492
     ],
-    "prob_over_2_5": 0.518,
-    "prob_btts": 0.56,
+    "prob_over_2_5": 0.517,
+    "prob_btts": 0.559,
     "marcadores": [
      [
       "1-1",
-      0.1259
+      0.1261
      ],
      [
       "0-1",
-      0.09
+      0.0901
      ],
      [
       "1-2",
-      0.0898
+      0.0896
      ]
     ],
     "cuotas_justas": [
-     3.21,
+     3.2,
      3.77,
-     2.36
+     2.37
     ],
     "resumen": "Gana Paris FC (ligero favorito, 42%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.059,
-     "defensa": -0.059,
-     "neto": -0.118,
-     "peso": 37.2,
+     "ataque": -0.06,
+     "defensa": -0.058,
+     "neto": -0.119,
+     "peso": 37.1,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.146,
+     "ataque": 0.145,
      "defensa": 0.126,
-     "neto": 0.272,
+     "neto": 0.271,
      "peso": 27.5,
      "fiable": true
     },
@@ -1889,14 +1889,14 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Paris FC es más fuerte de fondo (neto +0.27 vs -0.12): ataca ~16% más que el promedio, encaja ~12% menos. AJ Auxerre juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.25 – 1.50; el modelo ve marcando más a Paris FC. Y la forma reciente lo confirma: Paris FC llega mejor (3G-0E-2P vs 2G-1E-2P).",
+    "explicacion": "Paris FC es más fuerte de fondo (neto +0.27 vs -0.12): ataca ~16% más que el promedio, encaja ~12% menos. AJ Auxerre juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.25 – 1.49; el modelo ve marcando más a Paris FC. Y la forma reciente lo confirma: Paris FC llega mejor (3G-0E-2P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.689,
+     "prob": 0.688,
      "por_que": "Doble oportunidad: cubre que AJ Auxerre no gane. El escenario que queda afuera (gane AJ Auxerre) es el menos probable (31%), así que el mercado se cumple ~69% de las veces.",
      "alternativa": {
       "mercado": "Ambos marcan: Sí",
-      "prob": 0.56
+      "prob": 0.559
      },
      "confianza": "alta"
     }
@@ -1911,12 +1911,12 @@
    "local": "AS Roma",
    "visitante": "US Sassuolo Calcio",
    "prediccion": {
-    "prob_1": 0.709,
-    "prob_X": 0.171,
+    "prob_1": 0.71,
+    "prob_X": 0.17,
     "prob_2": 0.12,
     "goles_esperados": [
-     2.444,
-     0.914
+     2.446,
+     0.913
     ],
     "prob_over_2_5": 0.652,
     "prob_btts": 0.548,
@@ -1931,30 +1931,30 @@
      ],
      [
       "3-0",
-      0.0847
+      0.0848
      ]
     ],
     "cuotas_justas": [
      1.41,
-     5.86,
-     8.3
+     5.87,
+     8.32
     ],
     "resumen": "Gana AS Roma (claro favorito, 71%). se esperan goles (+2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.399,
+     "ataque": 0.397,
      "defensa": 0.338,
-     "neto": 0.737,
-     "peso": 47.3,
+     "neto": 0.734,
+     "peso": 47.2,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.075,
+     "ataque": 0.073,
      "defensa": -0.231,
-     "neto": -0.155,
-     "peso": 36.5,
+     "neto": -0.158,
+     "peso": 36.4,
      "fiable": true
     },
     "forma_local": {
@@ -2017,14 +2017,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "AS Roma es más fuerte de fondo (neto +0.74 vs -0.15): ataca ~49% más que el promedio, encaja ~29% menos. AS Roma juega en casa (~+10% de ventaja, ya contada). Goles esperados: 2.44 – 0.91; el modelo ve marcando más a AS Roma. Y la forma reciente lo confirma: AS Roma llega mejor (3G-2E-0P vs 0G-1E-4P).",
+    "explicacion": "AS Roma es más fuerte de fondo (neto +0.73 vs -0.16): ataca ~49% más que el promedio, encaja ~29% menos. AS Roma juega en casa (~+10% de ventaja, ya contada). Goles esperados: 2.45 – 0.91; el modelo ve marcando más a AS Roma. Y la forma reciente lo confirma: AS Roma llega mejor (3G-2E-0P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.709,
-     "por_que": "AS Roma es favorito en casa: marca más (2.44 vs 0.91) y es más fuerte de fondo (neto +0.74 vs -0.15). Probabilidad: 71%.",
+     "prob": 0.71,
+     "por_que": "AS Roma es favorito en casa: marca más (2.45 vs 0.91) y es más fuerte de fondo (neto +0.73 vs -0.16). Probabilidad: 71%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.879
+      "prob": 0.88
      },
      "confianza": "alta"
     }
@@ -2040,31 +2040,31 @@
    "visitante": "Real Madrid CF",
    "prediccion": {
     "prob_1": 0.172,
-    "prob_X": 0.233,
-    "prob_2": 0.595,
+    "prob_X": 0.234,
+    "prob_2": 0.594,
     "goles_esperados": [
-     0.866,
-     1.814
+     0.868,
+     1.818
     ],
-    "prob_over_2_5": 0.502,
-    "prob_btts": 0.488,
+    "prob_over_2_5": 0.503,
+    "prob_btts": 0.49,
     "marcadores": [
      [
       "0-1",
-      0.1213
+      0.1201
      ],
      [
       "0-2",
-      0.1128
+      0.1127
      ],
      [
       "1-1",
-      0.1107
+      0.1114
      ]
     ],
     "cuotas_justas": [
-     5.8,
-     4.3,
+     5.83,
+     4.27,
      1.68
     ],
     "resumen": "Gana Real Madrid CF (claro favorito, 59%).",
@@ -2072,16 +2072,16 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.103,
-     "defensa": 0.041,
+     "ataque": -0.102,
+     "defensa": 0.04,
      "neto": -0.062,
-     "peso": 48.1,
+     "peso": 48.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.533,
-     "defensa": 0.435,
-     "neto": 0.967,
+     "ataque": 0.534,
+     "defensa": 0.434,
+     "neto": 0.968,
      "peso": 48.0,
      "fiable": true
     },
@@ -2152,14 +2152,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.97 vs -0.06): ataca ~70% más que el promedio, encaja ~35% menos. Valencia CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 0.87 – 1.81; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (4G-0E-1P vs 1G-2E-2P).",
+    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.97 vs -0.06): ataca ~71% más que el promedio, encaja ~35% menos. Valencia CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 0.87 – 1.82; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (4G-0E-1P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.828,
      "por_que": "Doble oportunidad: cubre que Valencia CF no gane. El escenario que queda afuera (gane Valencia CF) es el menos probable (17%), así que el mercado se cumple ~83% de las veces.",
      "alternativa": {
       "mercado": "2",
-      "prob": 0.595
+      "prob": 0.594
      },
      "confianza": "alta"
     }
@@ -2174,33 +2174,33 @@
    "local": "Paris Saint-Germain FC",
    "visitante": "ES Troyes AC",
    "prediccion": {
-    "prob_1": 0.862,
+    "prob_1": 0.863,
     "prob_X": 0.1,
     "prob_2": 0.038,
     "goles_esperados": [
-     3.093,
-     0.568
+     3.09,
+     0.566
     ],
-    "prob_over_2_5": 0.708,
-    "prob_btts": 0.416,
+    "prob_over_2_5": 0.707,
+    "prob_btts": 0.415,
     "marcadores": [
      [
       "3-0",
-      0.1268
+      0.1271
      ],
      [
       "2-0",
-      0.123
+      0.1234
      ],
      [
       "4-0",
-      0.098
+      0.0982
      ]
     ],
     "cuotas_justas": [
      1.16,
-     10.04,
-     26.22
+     10.05,
+     26.31
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 86%). se esperan goles (+2.5).",
     "confianza": "alta"
@@ -2210,13 +2210,13 @@
      "ataque": 0.553,
      "defensa": 0.408,
      "neto": 0.961,
-     "peso": 42.1,
+     "peso": 42.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.356,
-     "defensa": -0.167,
-     "neto": -0.522,
+     "ataque": -0.358,
+     "defensa": -0.165,
+     "neto": -0.523,
      "peso": 8.3,
      "fiable": true
     },
@@ -2251,10 +2251,10 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.96 vs -0.52): ataca ~74% más que el promedio, encaja ~34% menos. Paris Saint-Germain FC juega en casa (~+23% de ventaja, ya contada). Goles esperados: 3.09 – 0.57; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (5G-0E-0P vs 1G-1E-3P).",
+    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.96 vs -0.52): ataca ~74% más que el promedio, encaja ~34% menos. Paris Saint-Germain FC juega en casa (~+24% de ventaja, ya contada). Goles esperados: 3.09 – 0.57; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (5G-0E-0P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.862,
+     "prob": 0.863,
      "por_que": "Paris Saint-Germain FC es favorito en casa: marca más (3.09 vs 0.57) y es más fuerte de fondo (neto +0.96 vs -0.52). Probabilidad: 86%.",
      "alternativa": {
       "mercado": "1X",
