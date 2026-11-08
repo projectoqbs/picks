@@ -1,96 +1,6 @@
 {
- "actualizado": "2026-11-08T12:31:48+00:00",
+ "actualizado": "2026-11-08T18:37:15+00:00",
  "fixtures": [
-  {
-   "id": 558533,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-11-08T11:30:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 11,
-   "local": "SSC Napoli",
-   "visitante": "SS Lazio"
-  },
-  {
-   "id": 564738,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-11-08T13:00:00Z",
-   "estado": "TIMED",
-   "jornada": 12,
-   "local": "Elche CF",
-   "visitante": "Real Betis Balompié"
-  },
-  {
-   "id": 560635,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-11-08T14:00:00Z",
-   "estado": "TIMED",
-   "jornada": 10,
-   "local": "Crystal Palace FC",
-   "visitante": "Liverpool FC"
-  },
-  {
-   "id": 560636,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-11-08T14:00:00Z",
-   "estado": "TIMED",
-   "jornada": 10,
-   "local": "Sunderland AFC",
-   "visitante": "Chelsea FC"
-  },
-  {
-   "id": 560637,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-11-08T14:00:00Z",
-   "estado": "TIMED",
-   "jornada": 10,
-   "local": "Ipswich Town FC",
-   "visitante": "AFC Bournemouth"
-  },
-  {
-   "id": 560638,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-11-08T14:00:00Z",
-   "estado": "TIMED",
-   "jornada": 10,
-   "local": "Brighton & Hove Albion FC",
-   "visitante": "Brentford FC"
-  },
-  {
-   "id": 558536,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-11-08T14:00:00Z",
-   "estado": "TIMED",
-   "jornada": 11,
-   "local": "Genoa CFC",
-   "visitante": "AC Milan"
-  },
-  {
-   "id": 558538,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-11-08T14:00:00Z",
-   "estado": "TIMED",
-   "jornada": 11,
-   "local": "AC Monza",
-   "visitante": "Atalanta BC"
-  },
-  {
-   "id": 559636,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-11-08T14:00:00Z",
-   "estado": "TIMED",
-   "jornada": 10,
-   "local": "Stade Rennais FC 1901",
-   "visitante": "Lille OSC"
-  },
   {
    "id": 565855,
    "competicion_codigo": "BL1",
@@ -102,61 +12,11 @@
    "visitante": "Bayer 04 Leverkusen"
   },
   {
-   "id": 564743,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-11-08T15:15:00Z",
-   "estado": "TIMED",
-   "jornada": 12,
-   "local": "Real Sociedad de Fútbol",
-   "visitante": "Rayo Vallecano de Madrid"
-  },
-  {
-   "id": 559631,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-11-08T16:15:00Z",
-   "estado": "TIMED",
-   "jornada": 10,
-   "local": "Le Mans FC",
-   "visitante": "AS Monaco FC"
-  },
-  {
-   "id": 559632,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-11-08T16:15:00Z",
-   "estado": "TIMED",
-   "jornada": 10,
-   "local": "Stade Brestois 29",
-   "visitante": "Olympique Lyonnais"
-  },
-  {
-   "id": 559633,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-11-08T16:15:00Z",
-   "estado": "TIMED",
-   "jornada": 10,
-   "local": "Le Havre AC",
-   "visitante": "FC Lorient"
-  },
-  {
-   "id": 559634,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-11-08T16:15:00Z",
-   "estado": "TIMED",
-   "jornada": 10,
-   "local": "Angers SCO",
-   "visitante": "OGC Nice"
-  },
-  {
    "id": 560639,
    "competicion_codigo": "PL",
    "competicion": "Premier League",
    "fecha_utc": "2026-11-08T16:30:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 10,
    "local": "Manchester United FC",
    "visitante": "Aston Villa FC"
@@ -176,7 +36,7 @@
    "competicion_codigo": "SA",
    "competicion": "Serie A",
    "fecha_utc": "2026-11-08T17:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 11,
    "local": "FC Internazionale Milano",
    "visitante": "Como 1907"
@@ -186,7 +46,7 @@
    "competicion_codigo": "PD",
    "competicion": "La Liga",
    "fecha_utc": "2026-11-08T17:30:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 12,
    "local": "RC Celta de Vigo",
    "visitante": "Levante UD"
@@ -196,7 +56,7 @@
    "competicion_codigo": "PD",
    "competicion": "La Liga",
    "fecha_utc": "2026-11-08T17:30:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 12,
    "local": "Villarreal CF",
    "visitante": "Getafe CF"
