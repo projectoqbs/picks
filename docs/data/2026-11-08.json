@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-08",
- "actualizado": "2026-11-07T18:26:22+00:00",
+ "actualizado": "2026-11-08T12:31:51+00:00",
  "partidos": [
   {
    "id": 558533,
@@ -11,12 +11,12 @@
    "local": "SSC Napoli",
    "visitante": "SS Lazio",
    "prediccion": {
-    "prob_1": 0.434,
+    "prob_1": 0.435,
     "prob_X": 0.274,
     "prob_2": 0.291,
     "goles_esperados": [
-     1.358,
-     1.061
+     1.359,
+     1.06
     ],
     "prob_over_2_5": 0.435,
     "prob_btts": 0.487,
@@ -27,26 +27,26 @@
      ],
      [
       "1-0",
-      0.1196
+      0.1197
      ],
      [
       "0-1",
-      0.0931
+      0.093
      ]
     ],
     "cuotas_justas": [
      2.3,
      3.65,
-     3.43
+     3.44
     ],
-    "resumen": "Gana SSC Napoli (ligero favorito, 43%).",
+    "resumen": "Gana SSC Napoli (ligero favorito, 44%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
      "ataque": 0.237,
-     "defensa": 0.288,
-     "neto": 0.525,
+     "defensa": 0.289,
+     "neto": 0.526,
      "peso": 47.2,
      "fiable": true
     },
@@ -143,32 +143,32 @@
    "local": "Elche CF",
    "visitante": "Real Betis Balompié",
    "prediccion": {
-    "prob_1": 0.369,
-    "prob_X": 0.258,
-    "prob_2": 0.373,
+    "prob_1": 0.367,
+    "prob_X": 0.259,
+    "prob_2": 0.374,
     "goles_esperados": [
-     1.435,
-     1.444
+     1.433,
+     1.447
     ],
-    "prob_over_2_5": 0.549,
-    "prob_btts": 0.587,
+    "prob_over_2_5": 0.55,
+    "prob_btts": 0.588,
     "marcadores": [
      [
       "1-1",
-      0.1211
+      0.1215
      ],
      [
       "1-2",
-      0.0841
+      0.0842
      ],
      [
       "2-1",
-      0.0835
+      0.0834
      ]
     ],
     "cuotas_justas": [
-     2.71,
-     3.87,
+     2.72,
+     3.86,
      2.68
     ],
     "resumen": "Partido parejo. ambos marcan.",
@@ -176,17 +176,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.073,
-     "defensa": -0.039,
+     "ataque": 0.074,
+     "defensa": -0.04,
      "neto": 0.034,
-     "peso": 31.8,
+     "peso": 31.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.231,
+     "ataque": 0.232,
      "defensa": 0.099,
      "neto": 0.33,
-     "peso": 48.0,
+     "peso": 47.9,
      "fiable": true
     },
     "forma_local": {
@@ -235,10 +235,10 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.33 vs +0.03): ataca ~26% más que el promedio. Elche CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.44 – 1.44; el modelo ve marcando más a Real Betis Balompié. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.33 vs +0.03): ataca ~26% más que el promedio. Elche CF juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.43 – 1.45; el modelo ve marcando más a Real Betis Balompié. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.631,
+     "prob": 0.633,
      "por_que": "Doble oportunidad: cubre que Elche CF no gane. El escenario que queda afuera (gane Elche CF) es el menos probable (37%), así que el mercado se cumple ~63% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -257,14 +257,14 @@
    "local": "Genoa CFC",
    "visitante": "AC Milan",
    "prediccion": {
-    "prob_1": 0.238,
+    "prob_1": 0.239,
     "prob_X": 0.261,
-    "prob_2": 0.501,
+    "prob_2": 0.5,
     "goles_esperados": [
-     0.963,
-     1.519
+     0.964,
+     1.517
     ],
-    "prob_over_2_5": 0.452,
+    "prob_over_2_5": 0.451,
     "prob_btts": 0.484,
     "marcadores": [
      [
@@ -273,15 +273,15 @@
      ],
      [
       "1-1",
-      0.1235
+      0.1236
      ],
      [
       "0-2",
-      0.0964
+      0.0963
      ]
     ],
     "cuotas_justas": [
-     4.2,
+     4.19,
      3.83,
      2.0
     ],
@@ -293,14 +293,14 @@
      "ataque": -0.112,
      "defensa": 0.039,
      "neto": -0.073,
-     "peso": 47.2,
+     "peso": 47.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.288,
      "defensa": 0.19,
      "neto": 0.478,
-     "peso": 47.3,
+     "peso": 47.2,
      "fiable": true
     },
     "forma_local": {
@@ -373,7 +373,7 @@
     "explicacion": "AC Milan es más fuerte de fondo (neto +0.48 vs -0.07): ataca ~33% más que el promedio, encaja ~17% menos. Genoa CFC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.96 – 1.52; el modelo ve marcando más a AC Milan. Pero ojo: en forma reciente Genoa CFC llega mejor que AC Milan, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.762,
+     "prob": 0.761,
      "por_que": "Doble oportunidad: cubre que Genoa CFC no gane. El escenario que queda afuera (gane Genoa CFC) es el menos probable (24%), así que el mercado se cumple ~76% de las veces.",
      "alternativa": null,
      "confianza": "alta"
@@ -390,11 +390,11 @@
    "visitante": "Atalanta BC",
    "prediccion": {
     "prob_1": 0.179,
-    "prob_X": 0.197,
-    "prob_2": 0.624,
+    "prob_X": 0.198,
+    "prob_2": 0.623,
     "goles_esperados": [
      1.115,
-     2.224
+     2.221
     ],
     "prob_over_2_5": 0.648,
     "prob_btts": 0.6,
@@ -405,16 +405,16 @@
      ],
      [
       "1-1",
-      0.0888
+      0.089
      ],
      [
       "0-2",
-      0.0877
+      0.0878
      ]
     ],
     "cuotas_justas": [
-     5.59,
-     5.07,
+     5.58,
+     5.06,
      1.6
     ],
     "resumen": "Gana Atalanta BC (claro favorito, 62%). se esperan goles (+2.5). ambos marcan.",
@@ -423,16 +423,16 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.041,
-     "defensa": -0.355,
+     "defensa": -0.354,
      "neto": -0.396,
      "peso": 25.5,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.276,
+     "ataque": 0.275,
      "defensa": 0.115,
      "neto": 0.39,
-     "peso": 47.3,
+     "peso": 47.2,
      "fiable": true
     },
     "forma_local": {
@@ -517,50 +517,50 @@
    "local": "Crystal Palace FC",
    "visitante": "Liverpool FC",
    "prediccion": {
-    "prob_1": 0.238,
-    "prob_X": 0.251,
-    "prob_2": 0.512,
+    "prob_1": 0.24,
+    "prob_X": 0.25,
+    "prob_2": 0.51,
     "goles_esperados": [
-     1.149,
-     1.774
+     1.153,
+     1.77
     ],
     "prob_over_2_5": 0.559,
     "prob_btts": 0.576,
     "marcadores": [
      [
       "1-1",
-      0.1181
+      0.1178
      ],
      [
       "1-2",
-      0.0972
+      0.0971
      ],
      [
       "0-1",
-      0.0868
+      0.0871
      ]
     ],
     "cuotas_justas": [
-     4.21,
-     3.99,
-     1.95
+     4.17,
+     4.0,
+     1.96
     ],
     "resumen": "Gana Liverpool FC (ligero favorito, 51%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.078,
-     "defensa": -0.04,
-     "neto": -0.118,
+     "ataque": -0.076,
+     "defensa": -0.043,
+     "neto": -0.119,
      "peso": 46.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.303,
-     "defensa": 0.19,
-     "neto": 0.493,
-     "peso": 46.0,
+     "ataque": 0.305,
+     "defensa": 0.187,
+     "neto": 0.492,
+     "peso": 45.9,
      "fiable": true
     },
     "forma_local": {
@@ -630,14 +630,14 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.49 vs -0.12): ataca ~35% más que el promedio, encaja ~17% menos. Crystal Palace FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.15 – 1.77; el modelo ve marcando más a Liverpool FC. Y la forma reciente lo confirma: Liverpool FC llega mejor (3G-0E-2P vs 1G-1E-3P).",
+    "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.49 vs -0.12): ataca ~36% más que el promedio, encaja ~17% menos. Crystal Palace FC juega en casa (~+20% de ventaja, ya contada). Goles esperados: 1.15 – 1.77; el modelo ve marcando más a Liverpool FC. Y la forma reciente lo confirma: Liverpool FC llega mejor (3G-0E-2P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.762,
+     "prob": 0.76,
      "por_que": "Doble oportunidad: cubre que Crystal Palace FC no gane. El escenario que queda afuera (gane Crystal Palace FC) es el menos probable (24%), así que el mercado se cumple ~76% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.798
+      "prob": 0.797
      },
      "confianza": "alta"
     }
@@ -652,32 +652,32 @@
    "local": "Sunderland AFC",
    "visitante": "Chelsea FC",
    "prediccion": {
-    "prob_1": 0.278,
-    "prob_X": 0.27,
-    "prob_2": 0.453,
+    "prob_1": 0.28,
+    "prob_X": 0.268,
+    "prob_2": 0.452,
     "goles_esperados": [
-     1.174,
-     1.558
+     1.18,
+     1.557
     ],
-    "prob_over_2_5": 0.514,
+    "prob_over_2_5": 0.515,
     "prob_btts": 0.555,
     "marcadores": [
      [
       "1-1",
-      0.1283
+      0.1277
      ],
      [
       "1-2",
-      0.0928
+      0.0926
      ],
      [
       "0-1",
-      0.0922
+      0.0921
      ]
     ],
     "cuotas_justas": [
-     3.6,
-     3.71,
+     3.57,
+     3.73,
      2.21
     ],
     "resumen": "Gana Chelsea FC (ligero favorito, 45%).",
@@ -685,17 +685,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.198,
-     "defensa": 0.048,
+     "ataque": -0.195,
+     "defensa": 0.045,
      "neto": -0.15,
-     "peso": 29.8,
+     "peso": 29.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.261,
-     "defensa": 0.05,
-     "neto": 0.31,
-     "peso": 46.0,
+     "ataque": 0.264,
+     "defensa": 0.045,
+     "neto": 0.309,
+     "peso": 45.9,
      "fiable": true
     },
     "forma_local": {
@@ -744,10 +744,10 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Chelsea FC es más fuerte de fondo (neto +0.31 vs -0.15): ataca ~30% más que el promedio. Sunderland AFC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.17 – 1.56; el modelo ve marcando más a Chelsea FC. Y la forma reciente lo confirma: Chelsea FC llega mejor (3G-0E-2P vs 0G-1E-4P).",
+    "explicacion": "Chelsea FC es más fuerte de fondo (neto +0.31 vs -0.15): ataca ~30% más que el promedio. Sunderland AFC juega en casa (~+20% de ventaja, ya contada). Goles esperados: 1.18 – 1.56; el modelo ve marcando más a Chelsea FC. Y la forma reciente lo confirma: Chelsea FC llega mejor (3G-0E-2P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.722,
+     "prob": 0.72,
      "por_que": "Doble oportunidad: cubre que Sunderland AFC no gane. El escenario que queda afuera (gane Sunderland AFC) es el menos probable (28%), así que el mercado se cumple ~72% de las veces.",
      "alternativa": {
       "mercado": "Ambos marcan: Sí",
@@ -766,32 +766,32 @@
    "local": "Ipswich Town FC",
    "visitante": "AFC Bournemouth",
    "prediccion": {
-    "prob_1": 0.239,
-    "prob_X": 0.229,
-    "prob_2": 0.532,
+    "prob_1": 0.241,
+    "prob_X": 0.228,
+    "prob_2": 0.53,
     "goles_esperados": [
-     1.32,
-     2.034
+     1.326,
+     2.03
     ],
     "prob_over_2_5": 0.651,
-    "prob_btts": 0.644,
+    "prob_btts": 0.645,
     "marcadores": [
      [
       "1-1",
-      0.1011
+      0.1008
      ],
      [
       "1-2",
-      0.0954
+      0.0953
      ],
      [
       "0-2",
-      0.0723
+      0.0719
      ]
     ],
     "cuotas_justas": [
-     4.18,
-     4.37,
+     4.14,
+     4.38,
      1.88
     ],
     "resumen": "Gana AFC Bournemouth (ligero favorito, 53%). se esperan goles (+2.5). ambos marcan.",
@@ -799,17 +799,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.051,
-     "defensa": -0.329,
+     "ataque": -0.047,
+     "defensa": -0.333,
      "neto": -0.38,
      "peso": 19.1,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.15,
-     "defensa": 0.079,
-     "neto": 0.229,
-     "peso": 46.0,
+     "ataque": 0.152,
+     "defensa": 0.076,
+     "neto": 0.228,
+     "peso": 45.9,
      "fiable": true
     },
     "forma_local": {
@@ -858,10 +858,10 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "AFC Bournemouth es más fuerte de fondo (neto +0.23 vs -0.38): ataca ~16% más que el promedio. Ipswich Town FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.32 – 2.03; el modelo ve marcando más a AFC Bournemouth. Y la forma reciente lo confirma: AFC Bournemouth llega mejor (3G-0E-2P vs 1G-2E-2P).",
+    "explicacion": "AFC Bournemouth es más fuerte de fondo (neto +0.23 vs -0.38): ataca ~16% más que el promedio. Ipswich Town FC juega en casa (~+20% de ventaja, ya contada). Goles esperados: 1.33 – 2.03; el modelo ve marcando más a AFC Bournemouth. Y la forma reciente lo confirma: AFC Bournemouth llega mejor (3G-0E-2P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.761,
+     "prob": 0.759,
      "por_que": "Doble oportunidad: cubre que Ipswich Town FC no gane. El escenario que queda afuera (gane Ipswich Town FC) es el menos probable (24%), así que el mercado se cumple ~76% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -880,48 +880,48 @@
    "local": "Brighton & Hove Albion FC",
    "visitante": "Brentford FC",
    "prediccion": {
-    "prob_1": 0.484,
-    "prob_X": 0.249,
-    "prob_2": 0.266,
+    "prob_1": 0.487,
+    "prob_X": 0.248,
+    "prob_2": 0.265,
     "goles_esperados": [
-     1.775,
-     1.271
+     1.783,
+     1.27
     ],
-    "prob_over_2_5": 0.587,
+    "prob_over_2_5": 0.589,
     "prob_btts": 0.606,
     "marcadores": [
      [
       "1-1",
-      0.1156
+      0.1147
      ],
      [
       "2-1",
-      0.0952
+      0.0953
      ],
      [
       "1-0",
-      0.0761
+      0.0764
      ]
     ],
     "cuotas_justas": [
-     2.06,
-     4.01,
-     3.76
+     2.05,
+     4.03,
+     3.77
     ],
-    "resumen": "Gana Brighton & Hove Albion FC (ligero favorito, 48%). se esperan goles (+2.5). ambos marcan.",
+    "resumen": "Gana Brighton & Hove Albion FC (ligero favorito, 49%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.247,
-     "defensa": 0.172,
+     "ataque": 0.249,
+     "defensa": 0.168,
      "neto": 0.418,
      "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.18,
-     "defensa": 0.08,
+     "ataque": 0.184,
+     "defensa": 0.076,
      "neto": 0.26,
      "peso": 45.9,
      "fiable": true
@@ -993,14 +993,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Brighton & Hove Albion FC es más fuerte de fondo (neto +0.42 vs +0.26): ataca ~28% más que el promedio, encaja ~16% menos. Brighton & Hove Albion FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.77 – 1.27; el modelo ve marcando más a Brighton & Hove Albion FC. Y la forma reciente lo confirma: Brighton & Hove Albion FC llega mejor (4G-0E-1P vs 2G-2E-1P).",
+    "explicacion": "Brighton & Hove Albion FC es más fuerte de fondo (neto +0.42 vs +0.26): ataca ~28% más que el promedio, encaja ~15% menos. Brighton & Hove Albion FC juega en casa (~+20% de ventaja, ya contada). Goles esperados: 1.78 – 1.27; el modelo ve marcando más a Brighton & Hove Albion FC. Y la forma reciente lo confirma: Brighton & Hove Albion FC llega mejor (4G-0E-1P vs 2G-2E-1P).",
     "recomendacion": {
      "mercado": "Más de 1.5 goles",
-     "prob": 0.816,
-     "por_que": "Bastantes goles esperados (1.77 + 1.27 = 3.05). Probabilidad al over: 82%.",
+     "prob": 0.817,
+     "por_que": "Bastantes goles esperados (1.78 + 1.27 = 3.05). Probabilidad al over: 82%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.734
+      "prob": 0.735
      },
      "confianza": "alta"
     }
@@ -1016,48 +1016,48 @@
    "visitante": "Lille OSC",
    "prediccion": {
     "prob_1": 0.353,
-    "prob_X": 0.267,
-    "prob_2": 0.38,
+    "prob_X": 0.263,
+    "prob_2": 0.384,
     "goles_esperados": [
-     1.352,
-     1.41
+     1.355,
+     1.421
     ],
-    "prob_over_2_5": 0.521,
-    "prob_btts": 0.566,
+    "prob_over_2_5": 0.525,
+    "prob_btts": 0.568,
     "marcadores": [
      [
       "1-1",
-      0.1263
+      0.1245
      ],
      [
       "1-2",
-      0.0849
+      0.0852
      ],
      [
       "0-1",
-      0.0832
+      0.0839
      ]
     ],
     "cuotas_justas": [
      2.83,
-     3.75,
-     2.63
+     3.8,
+     2.61
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.297,
-     "defensa": -0.062,
-     "neto": 0.235,
+     "ataque": 0.301,
+     "defensa": -0.07,
+     "neto": 0.231,
      "peso": 41.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.085,
-     "defensa": 0.406,
-     "neto": 0.492,
+     "ataque": 0.092,
+     "defensa": 0.398,
+     "neto": 0.489,
      "peso": 41.9,
      "fiable": true
     },
@@ -1128,14 +1128,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Lille OSC es más fuerte de fondo (neto +0.49 vs +0.23): encaja ~33% menos. Stade Rennais FC 1901 juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.35 – 1.41; el modelo ve marcando más a Lille OSC. Y la forma reciente lo confirma: Lille OSC llega mejor (2G-2E-1P vs 2G-0E-3P).",
+    "explicacion": "Lille OSC es más fuerte de fondo (neto +0.49 vs +0.23): encaja ~33% menos. Stade Rennais FC 1901 juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.35 – 1.42; el modelo ve marcando más a Lille OSC. Y la forma reciente lo confirma: Lille OSC llega mejor (2G-2E-1P vs 2G-0E-3P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.647,
      "por_que": "Doble oportunidad: cubre que Stade Rennais FC 1901 no gane. El escenario que queda afuera (gane Stade Rennais FC 1901) es el menos probable (35%), así que el mercado se cumple ~65% de las veces.",
      "alternativa": {
       "mercado": "Ambos marcan: Sí",
-      "prob": 0.566
+      "prob": 0.568
      },
      "confianza": "alta"
     }
@@ -1151,18 +1151,18 @@
    "visitante": "Bayer 04 Leverkusen",
    "prediccion": {
     "prob_1": 0.22,
-    "prob_X": 0.226,
-    "prob_2": 0.555,
+    "prob_X": 0.224,
+    "prob_2": 0.556,
     "goles_esperados": [
-     1.222,
-     2.032
+     1.226,
+     2.037
     ],
-    "prob_over_2_5": 0.631,
-    "prob_btts": 0.619,
+    "prob_over_2_5": 0.633,
+    "prob_btts": 0.62,
     "marcadores": [
      [
       "1-1",
-      0.102
+      0.1012
      ],
      [
       "1-2",
@@ -1170,30 +1170,30 @@
      ],
      [
       "0-2",
-      0.0797
+      0.0794
      ]
     ],
     "cuotas_justas": [
-     4.55,
-     4.43,
+     4.54,
+     4.46,
      1.8
     ],
-    "resumen": "Gana Bayer 04 Leverkusen (claro favorito, 55%). se esperan goles (+2.5). ambos marcan.",
+    "resumen": "Gana Bayer 04 Leverkusen (claro favorito, 56%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.135,
-     "defensa": -0.09,
+     "ataque": -0.132,
+     "defensa": -0.092,
      "neto": -0.224,
      "peso": 31.6,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.359,
-     "defensa": 0.154,
+     "ataque": 0.361,
+     "defensa": 0.152,
      "neto": 0.513,
-     "peso": 41.4,
+     "peso": 41.3,
      "fiable": true
     },
     "forma_local": {
@@ -1256,7 +1256,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Bayer 04 Leverkusen es más fuerte de fondo (neto +0.51 vs -0.22): ataca ~43% más que el promedio, encaja ~14% menos. 1. FC Köln juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.22 – 2.03; el modelo ve marcando más a Bayer 04 Leverkusen. Y la forma reciente lo confirma: Bayer 04 Leverkusen llega mejor (3G-0E-2P vs 1G-2E-2P).",
+    "explicacion": "Bayer 04 Leverkusen es más fuerte de fondo (neto +0.51 vs -0.22): ataca ~43% más que el promedio, encaja ~14% menos. 1. FC Köln juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.23 – 2.04; el modelo ve marcando más a Bayer 04 Leverkusen. Y la forma reciente lo confirma: Bayer 04 Leverkusen llega mejor (3G-0E-2P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.78,
@@ -1278,35 +1278,35 @@
    "local": "Real Sociedad de Fútbol",
    "visitante": "Rayo Vallecano de Madrid",
    "prediccion": {
-    "prob_1": 0.495,
-    "prob_X": 0.256,
+    "prob_1": 0.494,
+    "prob_X": 0.257,
     "prob_2": 0.249,
     "goles_esperados": [
-     1.629,
-     1.087
+     1.626,
+     1.089
     ],
     "prob_over_2_5": 0.51,
-    "prob_btts": 0.537,
+    "prob_btts": 0.538,
     "marcadores": [
      [
       "1-1",
-      0.1218
+      0.1224
      ],
      [
       "1-0",
-      0.1031
+      0.1025
      ],
      [
       "2-1",
-      0.0954
+      0.0953
      ]
     ],
     "cuotas_justas": [
-     2.02,
-     3.91,
-     4.02
+     2.03,
+     3.89,
+     4.01
     ],
-    "resumen": "Gana Real Sociedad de Fútbol (ligero favorito, 50%).",
+    "resumen": "Gana Real Sociedad de Fútbol (ligero favorito, 49%).",
     "confianza": "alta"
    },
    "analisis": {
@@ -1320,8 +1320,8 @@
     "fuerza_visitante": {
      "ataque": -0.074,
      "defensa": 0.089,
-     "neto": 0.014,
-     "peso": 47.1,
+     "neto": 0.015,
+     "peso": 47.0,
      "fiable": true
     },
     "forma_local": {
@@ -1391,7 +1391,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.13 vs +0.01). Real Sociedad de Fútbol juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.63 – 1.09; el modelo ve marcando más a Real Sociedad de Fútbol. En forma reciente pinta algo mejor Real Sociedad de Fútbol (4G-0E-1P vs 2G-2E-1P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.13 vs +0.01). Real Sociedad de Fútbol juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.63 – 1.09; el modelo ve marcando más a Real Sociedad de Fútbol. En forma reciente pinta algo mejor Real Sociedad de Fútbol (4G-0E-1P vs 2G-2E-1P en 5).",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.751,
@@ -1410,50 +1410,50 @@
    "local": "Le Mans FC",
    "visitante": "AS Monaco FC",
    "prediccion": {
-    "prob_1": 0.242,
-    "prob_X": 0.225,
-    "prob_2": 0.533,
+    "prob_1": 0.243,
+    "prob_X": 0.222,
+    "prob_2": 0.536,
     "goles_esperados": [
-     1.301,
-     2.005
+     1.315,
+     2.027
     ],
-    "prob_over_2_5": 0.642,
-    "prob_btts": 0.634,
+    "prob_over_2_5": 0.649,
+    "prob_btts": 0.639,
     "marcadores": [
      [
       "1-1",
-      0.1003
+      0.0978
      ],
      [
       "1-2",
-      0.0959
+      0.0956
      ],
      [
       "0-2",
-      0.0737
+      0.0727
      ]
     ],
     "cuotas_justas": [
-     4.14,
-     4.44,
-     1.88
+     4.12,
+     4.51,
+     1.87
     ],
-    "resumen": "Gana AS Monaco FC (ligero favorito, 53%). se esperan goles (+2.5). ambos marcan.",
+    "resumen": "Gana AS Monaco FC (ligero favorito, 54%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.056,
-     "defensa": -0.217,
-     "neto": -0.273,
+     "ataque": -0.042,
+     "defensa": -0.23,
+     "neto": -0.272,
      "peso": 8.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.282,
-     "defensa": 0.092,
-     "neto": 0.374,
-     "peso": 41.9,
+     "ataque": 0.286,
+     "defensa": 0.085,
+     "neto": 0.372,
+     "peso": 41.8,
      "fiable": true
     },
     "forma_local": {
@@ -1487,14 +1487,14 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "AS Monaco FC es más fuerte de fondo (neto +0.37 vs -0.27): ataca ~33% más que el promedio. Le Mans FC juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.30 – 2.00; el modelo ve marcando más a AS Monaco FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "AS Monaco FC es más fuerte de fondo (neto +0.37 vs -0.27): ataca ~33% más que el promedio. Le Mans FC juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.31 – 2.03; el modelo ve marcando más a AS Monaco FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.758,
+     "prob": 0.757,
      "por_que": "Doble oportunidad: cubre que Le Mans FC no gane. El escenario que queda afuera (gane Le Mans FC) es el menos probable (24%), así que el mercado se cumple ~76% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.847
+      "prob": 0.85
      },
      "confianza": "alta"
     }
@@ -1510,48 +1510,48 @@
    "visitante": "Olympique Lyonnais",
    "prediccion": {
     "prob_1": 0.329,
-    "prob_X": 0.256,
-    "prob_2": 0.416,
+    "prob_X": 0.253,
+    "prob_2": 0.418,
     "goles_esperados": [
-     1.374,
-     1.571
+     1.375,
+     1.577
     ],
-    "prob_over_2_5": 0.564,
+    "prob_over_2_5": 0.566,
     "prob_btts": 0.597,
     "marcadores": [
      [
       "1-1",
-      0.1191
+      0.1176
      ],
      [
       "1-2",
-      0.0892
+      0.0893
      ],
      [
-      "2-1",
-      0.078
+      "0-1",
+      0.0781
      ]
     ],
     "cuotas_justas": [
      3.04,
-     3.91,
-     2.41
+     3.96,
+     2.39
     ],
     "resumen": "Partido parejo. ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.107,
-     "defensa": -0.029,
-     "neto": 0.078,
-     "peso": 42.0,
+     "ataque": 0.11,
+     "defensa": -0.036,
+     "neto": 0.074,
+     "peso": 41.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.226,
-     "defensa": 0.2,
-     "neto": 0.425,
+     "ataque": 0.229,
+     "defensa": 0.192,
+     "neto": 0.421,
      "peso": 41.9,
      "fiable": true
     },
@@ -1622,7 +1622,7 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "Olympique Lyonnais es más fuerte de fondo (neto +0.42 vs +0.08): ataca ~25% más que el promedio, encaja ~18% menos. Stade Brestois 29 juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.37 – 1.57; el modelo ve marcando más a Olympique Lyonnais. Y la forma reciente lo confirma: Olympique Lyonnais llega mejor (3G-0E-2P vs 2G-1E-2P).",
+    "explicacion": "Olympique Lyonnais es más fuerte de fondo (neto +0.42 vs +0.07): ataca ~26% más que el promedio, encaja ~17% menos. Stade Brestois 29 juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.38 – 1.58; el modelo ve marcando más a Olympique Lyonnais. Y la forma reciente lo confirma: Olympique Lyonnais llega mejor (3G-0E-2P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.671,
@@ -1645,49 +1645,49 @@
    "visitante": "FC Lorient",
    "prediccion": {
     "prob_1": 0.33,
-    "prob_X": 0.29,
-    "prob_2": 0.38,
+    "prob_X": 0.286,
+    "prob_2": 0.384,
     "goles_esperados": [
-     1.141,
-     1.243
+     1.142,
+     1.252
     ],
-    "prob_over_2_5": 0.426,
+    "prob_over_2_5": 0.429,
     "prob_btts": 0.491,
     "marcadores": [
      [
       "1-1",
-      0.1372
+      0.1354
      ],
      [
       "0-1",
-      0.1081
+      0.1093
      ],
      [
       "1-0",
-      0.0987
+      0.0992
      ]
     ],
     "cuotas_justas": [
      3.03,
-     3.45,
-     2.63
+     3.49,
+     2.61
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.208,
-     "defensa": -0.085,
-     "neto": -0.294,
+     "ataque": -0.204,
+     "defensa": -0.092,
+     "neto": -0.296,
      "peso": 41.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.064,
-     "defensa": 0.07,
+     "ataque": -0.057,
+     "defensa": 0.063,
      "neto": 0.006,
-     "peso": 32.3,
+     "peso": 32.2,
      "fiable": true
     },
     "forma_local": {
@@ -1750,14 +1750,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "FC Lorient es más fuerte de fondo (neto +0.01 vs -0.29): es más completo en general. Le Havre AC juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.14 – 1.24; el modelo ve marcando más a FC Lorient. Y la forma reciente lo confirma: FC Lorient llega mejor (2G-1E-2P vs 0G-0E-5P).",
+    "explicacion": "FC Lorient es más fuerte de fondo (neto +0.01 vs -0.30): es más completo en general. Le Havre AC juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.14 – 1.25; el modelo ve marcando más a FC Lorient. Y la forma reciente lo confirma: FC Lorient llega mejor (2G-1E-2P vs 0G-0E-5P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.67,
      "por_que": "Doble oportunidad: cubre que Le Havre AC no gane. El escenario que queda afuera (gane Le Havre AC) es el menos probable (33%), así que el mercado se cumple ~67% de las veces.",
      "alternativa": {
       "mercado": "Menos de 2.5 goles",
-      "prob": 0.574
+      "prob": 0.571
      },
      "confianza": "alta"
     }
@@ -1772,49 +1772,49 @@
    "local": "Angers SCO",
    "visitante": "OGC Nice",
    "prediccion": {
-    "prob_1": 0.285,
-    "prob_X": 0.291,
-    "prob_2": 0.424,
+    "prob_1": 0.286,
+    "prob_X": 0.287,
+    "prob_2": 0.427,
     "goles_esperados": [
-     1.021,
-     1.305
+     1.023,
+     1.312
     ],
-    "prob_over_2_5": 0.411,
+    "prob_over_2_5": 0.413,
     "prob_btts": 0.473,
     "marcadores": [
      [
       "1-1",
-      0.1366
+      0.1349
      ],
      [
       "0-1",
-      0.121
+      0.1221
      ],
      [
       "0-0",
-      0.1041
+      0.1018
      ]
     ],
     "cuotas_justas": [
-     3.51,
-     3.44,
-     2.36
+     3.5,
+     3.48,
+     2.34
     ],
-    "resumen": "Gana OGC Nice (ligero favorito, 42%). pocos goles (-2.5).",
+    "resumen": "Gana OGC Nice (ligero favorito, 43%). pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.353,
-     "defensa": -0.038,
-     "neto": -0.391,
+     "ataque": -0.347,
+     "defensa": -0.046,
+     "neto": -0.393,
      "peso": 37.1,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.031,
-     "defensa": 0.037,
-     "neto": 0.068,
+     "ataque": 0.035,
+     "defensa": 0.031,
+     "neto": 0.065,
      "peso": 41.9,
      "fiable": true
     },
@@ -1878,14 +1878,14 @@
       "goles_visitante": 4
      }
     ],
-    "explicacion": "OGC Nice es más fuerte de fondo (neto +0.07 vs -0.39): es más completo en general. Angers SCO juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.02 – 1.30; el modelo ve marcando más a OGC Nice. Y la forma reciente lo confirma: OGC Nice llega mejor (4G-0E-1P vs 1G-1E-3P).",
+    "explicacion": "OGC Nice es más fuerte de fondo (neto +0.07 vs -0.39): es más completo en general. Angers SCO juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.02 – 1.31; el modelo ve marcando más a OGC Nice. Y la forma reciente lo confirma: OGC Nice llega mejor (4G-0E-1P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.715,
-     "por_que": "Doble oportunidad: cubre que Angers SCO no gane. El escenario que queda afuera (gane Angers SCO) es el menos probable (28%), así que el mercado se cumple ~72% de las veces.",
+     "prob": 0.714,
+     "por_que": "Doble oportunidad: cubre que Angers SCO no gane. El escenario que queda afuera (gane Angers SCO) es el menos probable (29%), así que el mercado se cumple ~71% de las veces.",
      "alternativa": {
       "mercado": "Menos de 2.5 goles",
-      "prob": 0.589
+      "prob": 0.587
      },
      "confianza": "alta"
     }
@@ -1900,50 +1900,50 @@
    "local": "Manchester United FC",
    "visitante": "Aston Villa FC",
    "prediccion": {
-    "prob_1": 0.41,
-    "prob_X": 0.262,
-    "prob_2": 0.328,
+    "prob_1": 0.412,
+    "prob_X": 0.261,
+    "prob_2": 0.327,
     "goles_esperados": [
-     1.563,
-     1.379
+     1.572,
+     1.378
     ],
-    "prob_over_2_5": 0.564,
-    "prob_btts": 0.6,
+    "prob_over_2_5": 0.566,
+    "prob_btts": 0.601,
     "marcadores": [
      [
       "1-1",
-      0.1225
+      0.1217
      ],
      [
       "2-1",
-      0.0889
+      0.0891
      ],
      [
       "1-2",
-      0.0784
+      0.0781
      ]
     ],
     "cuotas_justas": [
-     2.44,
-     3.81,
-     3.05
+     2.42,
+     3.84,
+     3.06
     ],
     "resumen": "Partido parejo. ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.132,
-     "defensa": 0.051,
-     "neto": 0.183,
-     "peso": 46.0,
+     "ataque": 0.135,
+     "defensa": 0.047,
+     "neto": 0.182,
+     "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.141,
-     "defensa": 0.092,
-     "neto": 0.234,
-     "peso": 45.9,
+     "ataque": 0.144,
+     "defensa": 0.088,
+     "neto": 0.233,
+     "peso": 45.8,
      "fiable": true
     },
     "forma_local": {
@@ -2013,14 +2013,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.18 vs +0.23). Manchester United FC juega en casa (~+19% de ventaja, ya contada). Goles esperados: 1.56 – 1.38; el modelo ve marcando más a Manchester United FC. En forma reciente pinta algo mejor Aston Villa FC (0G-3E-2P vs 3G-2E-0P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.18 vs +0.23). Manchester United FC juega en casa (~+20% de ventaja, ya contada). Goles esperados: 1.57 – 1.38; el modelo ve marcando más a Manchester United FC. En forma reciente pinta algo mejor Aston Villa FC (0G-3E-2P vs 3G-2E-0P en 5).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
-     "prob": 0.6,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.56 y 1.38. Probabilidad: 60%.",
+     "prob": 0.601,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.57 y 1.38. Probabilidad: 60%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.801
+      "prob": 0.802
      },
      "confianza": "alta"
     }
@@ -2035,19 +2035,19 @@
    "local": "SC Freiburg",
    "visitante": "1. FC Union Berlin",
    "prediccion": {
-    "prob_1": 0.573,
-    "prob_X": 0.236,
+    "prob_1": 0.574,
+    "prob_X": 0.235,
     "prob_2": 0.191,
     "goles_esperados": [
-     1.882,
-     1.0
+     1.885,
+     1.002
     ],
-    "prob_over_2_5": 0.55,
+    "prob_over_2_5": 0.551,
     "prob_btts": 0.543,
     "marcadores": [
      [
       "1-1",
-      0.1121
+      0.1115
      ],
      [
       "2-1",
@@ -2055,30 +2055,30 @@
      ],
      [
       "2-0",
-      0.0992
+      0.0991
      ]
     ],
     "cuotas_justas": [
      1.74,
-     4.23,
-     5.25
+     4.26,
+     5.24
     ],
     "resumen": "Gana SC Freiburg (claro favorito, 57%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.1,
-     "defensa": 0.037,
-     "neto": 0.138,
+     "ataque": 0.102,
+     "defensa": 0.036,
+     "neto": 0.137,
      "peso": 41.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.223,
-     "defensa": -0.043,
+     "ataque": -0.221,
+     "defensa": -0.044,
      "neto": -0.265,
-     "peso": 41.1,
+     "peso": 41.0,
      "fiable": true
     },
     "forma_local": {
@@ -2148,7 +2148,7 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "SC Freiburg es más fuerte de fondo (neto +0.14 vs -0.27): ataca ~11% más que el promedio. SC Freiburg juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.88 – 1.00; el modelo ve marcando más a SC Freiburg. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "SC Freiburg es más fuerte de fondo (neto +0.14 vs -0.27): ataca ~11% más que el promedio. SC Freiburg juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.89 – 1.00; el modelo ve marcando más a SC Freiburg. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.809,
@@ -2170,12 +2170,12 @@
    "local": "FC Internazionale Milano",
    "visitante": "Como 1907",
    "prediccion": {
-    "prob_1": 0.499,
+    "prob_1": 0.5,
     "prob_X": 0.24,
-    "prob_2": 0.261,
+    "prob_2": 0.26,
     "goles_esperados": [
-     1.724,
-     1.184
+     1.725,
+     1.182
     ],
     "prob_over_2_5": 0.556,
     "prob_btts": 0.571,
@@ -2190,13 +2190,13 @@
      ],
      [
       "1-0",
-      0.093
+      0.0931
      ]
     ],
     "cuotas_justas": [
      2.0,
      4.17,
-     3.83
+     3.84
     ],
     "resumen": "Gana FC Internazionale Milano (ligero favorito, 50%).",
     "confianza": "alta"
@@ -2205,8 +2205,8 @@
     "fuerza_local": {
      "ataque": 0.623,
      "defensa": 0.282,
-     "neto": 0.904,
-     "peso": 47.3,
+     "neto": 0.905,
+     "peso": 47.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2276,14 +2276,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.90 vs +0.62): ataca ~86% más que el promedio, encaja ~25% menos. FC Internazionale Milano juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.72 – 1.18; el modelo ve marcando más a FC Internazionale Milano. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.91 vs +0.62): ataca ~86% más que el promedio, encaja ~25% menos. FC Internazionale Milano juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.73 – 1.18; el modelo ve marcando más a FC Internazionale Milano. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "Más de 1.5 goles",
      "prob": 0.788,
-     "por_que": "Bastantes goles esperados (1.72 + 1.18 = 2.91). Probabilidad al over: 79%.",
+     "por_que": "Bastantes goles esperados (1.73 + 1.18 = 2.91). Probabilidad al over: 79%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.739
+      "prob": 0.74
      },
      "confianza": "alta"
     }
@@ -2298,32 +2298,32 @@
    "local": "RC Celta de Vigo",
    "visitante": "Levante UD",
    "prediccion": {
-    "prob_1": 0.529,
-    "prob_X": 0.241,
-    "prob_2": 0.23,
+    "prob_1": 0.528,
+    "prob_X": 0.242,
+    "prob_2": 0.231,
     "goles_esperados": [
      1.791,
-     1.11
+     1.113
     ],
-    "prob_over_2_5": 0.554,
-    "prob_btts": 0.563,
+    "prob_over_2_5": 0.555,
+    "prob_btts": 0.564,
     "marcadores": [
      [
       "1-1",
-      0.1137
+      0.114
      ],
      [
       "2-1",
-      0.0979
+      0.0978
      ],
      [
       "1-0",
-      0.094
+      0.0934
      ]
     ],
     "cuotas_justas": [
-     1.89,
-     4.15,
+     1.9,
+     4.14,
      4.34
     ],
     "resumen": "Gana RC Celta de Vigo (ligero favorito, 53%).",
@@ -2331,7 +2331,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.062,
+     "ataque": 0.063,
      "defensa": 0.095,
      "neto": 0.158,
      "peso": 47.9,
@@ -2339,7 +2339,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.103,
-     "defensa": -0.134,
+     "defensa": -0.135,
      "neto": -0.031,
      "peso": 31.9,
      "fiable": true
@@ -2390,14 +2390,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "RC Celta de Vigo es más fuerte de fondo (neto +0.16 vs -0.03): es más completo en general. RC Celta de Vigo juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.79 – 1.11; el modelo ve marcando más a RC Celta de Vigo. Y la forma reciente lo confirma: RC Celta de Vigo llega mejor (2G-2E-1P vs 1G-2E-2P).",
+    "explicacion": "RC Celta de Vigo es más fuerte de fondo (neto +0.16 vs -0.03): es más completo en general. RC Celta de Vigo juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.79 – 1.11; el modelo ve marcando más a RC Celta de Vigo. Y la forma reciente lo confirma: RC Celta de Vigo llega mejor (2G-2E-1P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "1X",
-     "prob": 0.77,
+     "prob": 0.769,
      "por_que": "Doble oportunidad: cubre que RC Celta de Vigo no pierda. El escenario que queda afuera (gane Levante UD) es el menos probable (23%), así que el mercado se cumple ~77% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.79
+      "prob": 0.791
      },
      "confianza": "alta"
     }
@@ -2412,33 +2412,33 @@
    "local": "Villarreal CF",
    "visitante": "Getafe CF",
    "prediccion": {
-    "prob_1": 0.594,
-    "prob_X": 0.249,
+    "prob_1": 0.593,
+    "prob_X": 0.251,
     "prob_2": 0.157,
     "goles_esperados": [
-     1.664,
-     0.728
+     1.662,
+     0.729
     ],
     "prob_over_2_5": 0.428,
     "prob_btts": 0.424,
     "marcadores": [
      [
       "1-0",
-      0.1477
+      0.1473
      ],
      [
       "2-0",
-      0.1266
+      0.1264
      ],
      [
       "1-1",
-      0.1152
+      0.1158
      ]
     ],
     "cuotas_justas": [
-     1.68,
-     4.01,
-     6.39
+     1.69,
+     3.99,
+     6.38
     ],
     "resumen": "Gana Villarreal CF (claro favorito, 59%).",
     "confianza": "alta"
@@ -2448,14 +2448,14 @@
      "ataque": 0.351,
      "defensa": 0.065,
      "neto": 0.416,
-     "peso": 48.1,
+     "peso": 48.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.35,
      "defensa": 0.228,
      "neto": -0.121,
-     "peso": 48.0,
+     "peso": 47.9,
      "fiable": true
     },
     "forma_local": {
@@ -2525,14 +2525,14 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Villarreal CF es más fuerte de fondo (neto +0.42 vs -0.12): ataca ~42% más que el promedio. Villarreal CF juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.66 – 0.73; el modelo ve marcando más a Villarreal CF. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Villarreal CF es más fuerte de fondo (neto +0.42 vs -0.12): ataca ~42% más que el promedio. Villarreal CF juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.66 – 0.73; el modelo ve marcando más a Villarreal CF. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.843,
      "por_que": "Doble oportunidad: cubre que Villarreal CF no pierda. El escenario que queda afuera (gane Getafe CF) es el menos probable (16%), así que el mercado se cumple ~84% de las veces.",
      "alternativa": {
       "mercado": "1",
-      "prob": 0.594
+      "prob": 0.593
      },
      "confianza": "alta"
     }
@@ -2548,32 +2548,32 @@
    "visitante": "FC Schalke 04",
    "prediccion": {
     "prob_1": 0.526,
-    "prob_X": 0.286,
-    "prob_2": 0.188,
+    "prob_X": 0.285,
+    "prob_2": 0.189,
     "goles_esperados": [
-     1.429,
+     1.43,
      0.747
     ],
     "prob_over_2_5": 0.371,
-    "prob_btts": 0.408,
+    "prob_btts": 0.407,
     "marcadores": [
      [
       "1-0",
-      0.1544
+      0.155
      ],
      [
       "1-1",
-      0.1288
+      0.1282
      ],
      [
       "0-0",
-      0.1211
+      0.1205
      ]
     ],
     "cuotas_justas": [
      1.9,
-     3.49,
-     5.32
+     3.51,
+     5.3
     ],
     "resumen": "Gana TSG 1899 Hoffenheim (ligero favorito, 53%). pocos goles (-2.5).",
     "confianza": "baja"
@@ -2581,15 +2581,15 @@
    "nota": "pocos datos: 'FC Schalke 04' solo tiene 7.4 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.186,
-     "defensa": -0.095,
+     "ataque": 0.189,
+     "defensa": -0.097,
      "neto": 0.091,
      "peso": 41.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.646,
-     "defensa": 0.319,
+     "ataque": -0.647,
+     "defensa": 0.32,
      "neto": -0.328,
      "peso": 7.4,
      "fiable": false
@@ -2625,7 +2625,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "TSG 1899 Hoffenheim es más fuerte de fondo (neto +0.09 vs -0.33): ataca ~20% más que el promedio. TSG 1899 Hoffenheim juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.43 – 0.75; el modelo ve marcando más a TSG 1899 Hoffenheim. Y la forma reciente lo confirma: TSG 1899 Hoffenheim llega mejor (2G-0E-3P vs 0G-2E-3P). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
+    "explicacion": "TSG 1899 Hoffenheim es más fuerte de fondo (neto +0.09 vs -0.33): ataca ~21% más que el promedio. TSG 1899 Hoffenheim juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.43 – 0.75; el modelo ve marcando más a TSG 1899 Hoffenheim. Y la forma reciente lo confirma: TSG 1899 Hoffenheim llega mejor (2G-0E-3P vs 0G-2E-3P). El modelo tiene pocos datos de FC Schalke 04: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.629,
@@ -2649,17 +2649,17 @@
    "prediccion": {
     "prob_1": 0.262,
     "prob_X": 0.263,
-    "prob_2": 0.476,
+    "prob_2": 0.475,
     "goles_esperados": [
-     1.035,
-     1.49
+     1.036,
+     1.488
     ],
     "prob_over_2_5": 0.463,
     "prob_btts": 0.501,
     "marcadores": [
      [
       "1-1",
-      0.1247
+      0.1248
      ],
      [
       "0-1",
@@ -2667,13 +2667,13 @@
      ],
      [
       "1-2",
-      0.092
+      0.0919
      ]
     ],
     "cuotas_justas": [
-     3.82,
      3.81,
-     2.1
+     3.81,
+     2.11
     ],
     "resumen": "Gana Juventus FC (ligero favorito, 48%).",
     "confianza": "alta"
@@ -2683,14 +2683,14 @@
      "ataque": 0.112,
      "defensa": -0.037,
      "neto": 0.075,
-     "peso": 47.3,
+     "peso": 47.2,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.193,
+     "ataque": 0.192,
      "defensa": 0.342,
-     "neto": 0.535,
-     "peso": 47.2,
+     "neto": 0.534,
+     "peso": 47.1,
      "fiable": true
     },
     "forma_local": {
@@ -2760,7 +2760,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Juventus FC es más fuerte de fondo (neto +0.54 vs +0.07): ataca ~21% más que el promedio, encaja ~29% menos. ACF Fiorentina juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.03 – 1.49; el modelo ve marcando más a Juventus FC. Y la forma reciente lo confirma: Juventus FC llega mejor (2G-1E-2P vs 1G-1E-3P).",
+    "explicacion": "Juventus FC es más fuerte de fondo (neto +0.53 vs +0.07): ataca ~21% más que el promedio, encaja ~29% menos. ACF Fiorentina juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.04 – 1.49; el modelo ve marcando más a Juventus FC. Y la forma reciente lo confirma: Juventus FC llega mejor (2G-1E-2P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.738,
@@ -2780,48 +2780,48 @@
    "visitante": "Olympique de Marseille",
    "prediccion": {
     "prob_1": 0.461,
-    "prob_X": 0.241,
-    "prob_2": 0.298,
+    "prob_X": 0.238,
+    "prob_2": 0.301,
     "goles_esperados": [
-     1.779,
-     1.399
+     1.789,
+     1.411
     ],
-    "prob_over_2_5": 0.615,
-    "prob_btts": 0.631,
+    "prob_over_2_5": 0.62,
+    "prob_btts": 0.634,
     "marcadores": [
      [
       "1-1",
-      0.1088
+      0.1068
      ],
      [
       "2-1",
-      0.0923
+      0.092
      ],
      [
       "1-2",
-      0.0725
+      0.0726
      ]
     ],
     "cuotas_justas": [
      2.17,
-     4.15,
-     3.35
+     4.21,
+     3.32
     ],
     "resumen": "Gana Racing Club de Lens (ligero favorito, 46%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.235,
-     "defensa": 0.228,
-     "neto": 0.463,
+     "ataque": 0.242,
+     "defensa": 0.22,
+     "neto": 0.462,
      "peso": 41.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.367,
-     "defensa": 0.069,
-     "neto": 0.436,
+     "ataque": 0.374,
+     "defensa": 0.061,
+     "neto": 0.435,
      "peso": 41.9,
      "fiable": true
     },
@@ -2892,14 +2892,14 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.46 vs +0.44). Racing Club de Lens juega en casa (~+24% de ventaja, ya contada). Goles esperados: 1.78 – 1.40; el modelo ve marcando más a Racing Club de Lens. En forma reciente pinta algo mejor Olympique de Marseille (3G-0E-2P vs 4G-0E-1P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.46 vs +0.43). Racing Club de Lens juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.79 – 1.41; el modelo ve marcando más a Racing Club de Lens. En forma reciente pinta algo mejor Olympique de Marseille (3G-0E-2P vs 4G-0E-1P en 5).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
-     "prob": 0.631,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.78 y 1.40. Probabilidad: 63%.",
+     "prob": 0.634,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.79 y 1.41. Probabilidad: 63%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.831
+      "prob": 0.833
      },
      "confianza": "alta"
     }
@@ -2914,32 +2914,32 @@
    "local": "Club Atlético de Madrid",
    "visitante": "FC Barcelona",
    "prediccion": {
-    "prob_1": 0.339,
+    "prob_1": 0.337,
     "prob_X": 0.235,
     "prob_2": 0.427,
     "goles_esperados": [
-     1.573,
-     1.785
+     1.571,
+     1.787
     ],
     "prob_over_2_5": 0.652,
-    "prob_btts": 0.663,
+    "prob_btts": 0.664,
     "marcadores": [
      [
       "1-1",
-      0.1017
+      0.102
      ],
      [
       "1-2",
-      0.0872
+      0.0873
      ],
      [
       "2-1",
-      0.0769
+      0.0768
      ]
     ],
     "cuotas_justas": [
-     2.95,
-     4.26,
+     2.96,
+     4.25,
      2.34
     ],
     "resumen": "Gana FC Barcelona (ligero favorito, 43%). se esperan goles (+2.5). ambos marcan.",
@@ -2949,12 +2949,12 @@
     "fuerza_local": {
      "ataque": 0.349,
      "defensa": 0.327,
-     "neto": 0.675,
+     "neto": 0.676,
      "peso": 47.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.808,
+     "ataque": 0.809,
      "defensa": 0.282,
      "neto": 1.091,
      "peso": 47.9,
@@ -3027,14 +3027,14 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.09 vs +0.68): ataca ~124% más que el promedio, encaja ~25% menos. Club Atlético de Madrid juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.57 – 1.78; el modelo ve marcando más a FC Barcelona. Pero ojo: en forma reciente Club Atlético de Madrid llega mejor que FC Barcelona, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.09 vs +0.68): ataca ~125% más que el promedio, encaja ~25% menos. Club Atlético de Madrid juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.57 – 1.79; el modelo ve marcando más a FC Barcelona. Pero ojo: en forma reciente Club Atlético de Madrid llega mejor que FC Barcelona, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
-     "prob": 0.663,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.57 y 1.78. Probabilidad: 66%.",
+     "prob": 0.664,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.57 y 1.79. Probabilidad: 66%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.852
+      "prob": 0.853
      },
      "confianza": "alta"
     }

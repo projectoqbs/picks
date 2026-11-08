@@ -1,92 +1,12 @@
 {
- "actualizado": "2026-11-07T18:26:19+00:00",
+ "actualizado": "2026-11-08T12:31:48+00:00",
  "fixtures": [
-  {
-   "id": 558535,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-11-07T17:00:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 11,
-   "local": "Parma Calcio 1913",
-   "visitante": "Bologna FC 1909"
-  },
-  {
-   "id": 560641,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-11-07T17:30:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 10,
-   "local": "Nottingham Forest FC",
-   "visitante": "Manchester City FC"
-  },
-  {
-   "id": 564739,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-11-07T17:30:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 12,
-   "local": "CA Osasuna",
-   "visitante": "Athletic Club"
-  },
-  {
-   "id": 565849,
-   "competicion_codigo": "BL1",
-   "competicion": "Bundesliga",
-   "fecha_utc": "2026-11-07T17:30:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 9,
-   "local": "VfB Stuttgart",
-   "visitante": "SV Werder Bremen"
-  },
-  {
-   "id": 559637,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-11-07T18:00:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 10,
-   "local": "AJ Auxerre",
-   "visitante": "Paris FC"
-  },
-  {
-   "id": 558531,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-11-07T19:45:00Z",
-   "estado": "TIMED",
-   "jornada": 11,
-   "local": "AS Roma",
-   "visitante": "US Sassuolo Calcio"
-  },
-  {
-   "id": 564741,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-11-07T20:00:00Z",
-   "estado": "TIMED",
-   "jornada": 12,
-   "local": "Valencia CF",
-   "visitante": "Real Madrid CF"
-  },
-  {
-   "id": 559635,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-11-07T20:05:00Z",
-   "estado": "TIMED",
-   "jornada": 10,
-   "local": "Paris Saint-Germain FC",
-   "visitante": "ES Troyes AC"
-  },
   {
    "id": 558533,
    "competicion_codigo": "SA",
    "competicion": "Serie A",
    "fecha_utc": "2026-11-08T11:30:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 11,
    "local": "SSC Napoli",
    "visitante": "SS Lazio"
