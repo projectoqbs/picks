@@ -1,4 +1,35 @@
 {
- "actualizado": "2026-11-09T14:48:28+00:00",
- "fixtures": []
+ "actualizado": "2026-11-10T14:01:28+00:00",
+ "fixtures": [
+  {
+   "id": 565859,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-11-20T19:30:00Z",
+   "estado": "TIMED",
+   "jornada": 10,
+   "local": "FC Bayern München",
+   "visitante": "1. FC Köln"
+  },
+  {
+   "id": 559622,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-11-20T19:45:00Z",
+   "estado": "TIMED",
+   "jornada": 11,
+   "local": "ES Troyes AC",
+   "visitante": "Le Havre AC"
+  },
+  {
+   "id": 564748,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-11-20T20:00:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "Athletic Club",
+   "visitante": "RCD Espanyol de Barcelona"
+  }
+ ]
 }

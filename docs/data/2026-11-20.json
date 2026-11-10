@@ -1,0 +1,361 @@
+{
+ "fecha": "2026-11-20",
+ "actualizado": "2026-11-10T14:01:29+00:00",
+ "partidos": [
+  {
+   "id": 565859,
+   "competicion": "Bundesliga",
+   "competicion_codigo": "BL1",
+   "fecha_utc": "2026-11-20T19:30:00Z",
+   "jornada": 10,
+   "local": "FC Bayern München",
+   "visitante": "1. FC Köln",
+   "prediccion": {
+    "prob_1": 0.895,
+    "prob_X": 0.072,
+    "prob_2": 0.034,
+    "goles_esperados": [
+     3.919,
+     0.798
+    ],
+    "prob_over_2_5": 0.849,
+    "prob_btts": 0.541,
+    "marcadores": [
+     [
+      "3-0",
+      0.0899
+     ],
+     [
+      "4-0",
+      0.0881
+     ],
+     [
+      "3-1",
+      0.0718
+     ]
+    ],
+    "cuotas_justas": [
+     1.12,
+     13.97,
+     29.86
+    ],
+    "resumen": "Gana FC Bayern München (claro favorito, 89%). se esperan goles (+2.5).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.784,
+     "defensa": 0.346,
+     "neto": 1.13,
+     "peso": 42.1,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.139,
+     "defensa": -0.09,
+     "neto": -0.229,
+     "peso": 32.4,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 3,
+     "e": 2,
+     "p": 0,
+     "gf": 15,
+     "gc": 7,
+     "racha": [
+      "E",
+      "G",
+      "G",
+      "E",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 4,
+     "gc": 5,
+     "racha": [
+      "G",
+      "P",
+      "E",
+      "E",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-05-16",
+      "local": "FC Bayern München",
+      "visitante": "1. FC Köln",
+      "goles_local": 5,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2026-01-14",
+      "local": "1. FC Köln",
+      "visitante": "FC Bayern München",
+      "goles_local": 1,
+      "goles_visitante": 3
+     },
+     {
+      "fecha": "2024-04-13",
+      "local": "FC Bayern München",
+      "visitante": "1. FC Köln",
+      "goles_local": 2,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2023-11-24",
+      "local": "1. FC Köln",
+      "visitante": "FC Bayern München",
+      "goles_local": 0,
+      "goles_visitante": 1
+     }
+    ],
+    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.13 vs -0.23): ataca ~119% más que el promedio, encaja ~29% menos. FC Bayern München juega en casa (~+26% de ventaja, ya contada). Goles esperados: 3.92 – 0.80; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (3G-2E-0P vs 1G-2E-2P).",
+    "recomendacion": {
+     "mercado": "1",
+     "prob": 0.895,
+     "por_que": "FC Bayern München es favorito en casa: marca más (3.92 vs 0.80) y es más fuerte de fondo (neto +1.13 vs -0.23). Probabilidad: 89%.",
+     "alternativa": {
+      "mercado": "1X",
+      "prob": 0.967
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 559622,
+   "competicion": "Ligue 1",
+   "competicion_codigo": "FL1",
+   "fecha_utc": "2026-11-20T19:45:00Z",
+   "jornada": 11,
+   "local": "ES Troyes AC",
+   "visitante": "Le Havre AC",
+   "prediccion": {
+    "prob_1": 0.365,
+    "prob_X": 0.309,
+    "prob_2": 0.327,
+    "goles_esperados": [
+     1.1,
+     1.026
+    ],
+    "prob_over_2_5": 0.357,
+    "prob_btts": 0.434,
+    "marcadores": [
+     [
+      "1-1",
+      0.1404
+     ],
+     [
+      "1-0",
+      0.1256
+     ],
+     [
+      "0-0",
+      0.1251
+     ]
+    ],
+    "cuotas_justas": [
+     2.74,
+     3.24,
+     3.06
+    ],
+    "resumen": "Partido parejo. pocos goles (-2.5).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.404,
+     "defensa": -0.062,
+     "neto": -0.466,
+     "peso": 9.3,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.225,
+     "defensa": -0.105,
+     "neto": -0.33,
+     "peso": 42.7,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 3,
+     "gc": 6,
+     "racha": [
+      "P",
+      "P",
+      "E",
+      "G",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 0,
+     "e": 0,
+     "p": 5,
+     "gf": 5,
+     "gc": 15,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Le Havre AC es más fuerte de fondo (neto -0.33 vs -0.47): es más completo en general. ES Troyes AC juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.10 – 1.03; el modelo ve marcando más a ES Troyes AC. Pero ojo: en forma reciente ES Troyes AC llega mejor que Le Havre AC, así que puede estar más cerca de lo que dice el neto.",
+    "recomendacion": {
+     "mercado": "Menos de 2.5 goles",
+     "prob": 0.643,
+     "por_que": "Pocos goles esperados en total (1.10 + 1.03 = 2.13). El modelo ve el partido cerrado (64% al under).",
+     "alternativa": {
+      "mercado": "Menos de 3.5 goles",
+      "prob": 0.834
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 564748,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-11-20T20:00:00Z",
+   "jornada": 13,
+   "local": "Athletic Club",
+   "visitante": "RCD Espanyol de Barcelona",
+   "prediccion": {
+    "prob_1": 0.516,
+    "prob_X": 0.278,
+    "prob_2": 0.206,
+    "goles_esperados": [
+     1.459,
+     0.823
+    ],
+    "prob_over_2_5": 0.399,
+    "prob_btts": 0.436,
+    "marcadores": [
+     [
+      "1-0",
+      0.1435
+     ],
+     [
+      "1-1",
+      0.1281
+     ],
+     [
+      "2-0",
+      0.1087
+     ]
+    ],
+    "cuotas_justas": [
+     1.94,
+     3.6,
+     4.85
+    ],
+    "resumen": "Gana Athletic Club (ligero favorito, 52%). pocos goles (-2.5).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.067,
+     "defensa": 0.18,
+     "neto": 0.248,
+     "peso": 47.8,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.11,
+     "defensa": 0.071,
+     "neto": -0.04,
+     "peso": 43.4,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 2,
+     "p": 1,
+     "gf": 8,
+     "gc": 5,
+     "racha": [
+      "E",
+      "P",
+      "G",
+      "G",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 3,
+     "gc": 4,
+     "racha": [
+      "E",
+      "P",
+      "P",
+      "G",
+      "E"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-05-13",
+      "local": "RCD Espanyol de Barcelona",
+      "visitante": "Athletic Club",
+      "goles_local": 2,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2025-12-22",
+      "local": "Athletic Club",
+      "visitante": "RCD Espanyol de Barcelona",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-02-16",
+      "local": "RCD Espanyol de Barcelona",
+      "visitante": "Athletic Club",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-10-19",
+      "local": "Athletic Club",
+      "visitante": "RCD Espanyol de Barcelona",
+      "goles_local": 4,
+      "goles_visitante": 1
+     }
+    ],
+    "explicacion": "Athletic Club es más fuerte de fondo (neto +0.25 vs -0.04): encaja ~16% menos. Athletic Club juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.46 – 0.82; el modelo ve marcando más a Athletic Club. Y la forma reciente lo confirma: Athletic Club llega mejor (2G-2E-1P vs 1G-2E-2P).",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.794,
+     "por_que": "Doble oportunidad: cubre que Athletic Club no pierda. El escenario que queda afuera (gane RCD Espanyol de Barcelona) es el menos probable (21%), así que el mercado se cumple ~79% de las veces.",
+     "alternativa": {
+      "mercado": "Menos de 2.5 goles",
+      "prob": 0.601
+     },
+     "confianza": "alta"
+    }
+   }
+  }
+ ]
+}
