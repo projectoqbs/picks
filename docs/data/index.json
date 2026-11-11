@@ -1,7 +1,8 @@
 {
- "actualizado": "2026-11-10T20:45:38+00:00",
+ "actualizado": "2026-11-11T13:18:14+00:00",
  "dias": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-21"
  ],
  "competiciones": [
   {
@@ -44,7 +45,17 @@
    "codigo": "PD",
    "nombre": "La Liga",
    "archivo": "tabla_PD.json"
+  },
+  {
+   "codigo": "PL",
+   "nombre": "Premier League",
+   "archivo": "tabla_PL.json"
+  },
+  {
+   "codigo": "SA",
+   "nombre": "Serie A",
+   "archivo": "tabla_SA.json"
   }
  ],
- "total_partidos": 3
+ "total_partidos": 29
 }
