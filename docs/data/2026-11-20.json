@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-20",
- "actualizado": "2026-11-11T13:18:14+00:00",
+ "actualizado": "2026-11-11T21:01:45+00:00",
  "partidos": [
   {
    "id": 565859,
@@ -15,7 +15,7 @@
     "prob_X": 0.072,
     "prob_2": 0.034,
     "goles_esperados": [
-     3.919,
+     3.918,
      0.799
     ],
     "prob_over_2_5": 0.849,
@@ -36,7 +36,7 @@
     ],
     "cuotas_justas": [
      1.12,
-     13.97,
+     13.96,
      29.85
     ],
     "resumen": "Gana FC Bayern München (claro favorito, 89%). se esperan goles (+2.5).",
@@ -143,7 +143,7 @@
     "prob_X": 0.308,
     "prob_2": 0.327,
     "goles_esperados": [
-     1.1,
+     1.101,
      1.026
     ],
     "prob_over_2_5": 0.357,
@@ -219,7 +219,7 @@
     "explicacion": "Le Havre AC es más fuerte de fondo (neto -0.33 vs -0.47): es más completo en general. ES Troyes AC juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.10 – 1.03; el modelo ve marcando más a ES Troyes AC. Pero ojo: en forma reciente ES Troyes AC llega mejor que Le Havre AC, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.643,
+     "prob": 0.642,
      "por_que": "Pocos goles esperados en total (1.10 + 1.03 = 2.13). El modelo ve el partido cerrado (64% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
@@ -274,7 +274,7 @@
      "ataque": 0.067,
      "defensa": 0.18,
      "neto": 0.248,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "fuerza_visitante": {
