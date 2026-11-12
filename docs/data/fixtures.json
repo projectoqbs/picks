@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11T21:01:43+00:00",
+ "actualizado": "2026-11-12T14:22:33+00:00",
  "fixtures": [
   {
    "id": 565859,
@@ -290,6 +290,166 @@
    "jornada": 13,
    "local": "Real Madrid CF",
    "visitante": "RC Celta de Vigo"
+  },
+  {
+   "id": 558521,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-11-22T11:30:00Z",
+   "estado": "TIMED",
+   "jornada": 12,
+   "local": "Juventus FC",
+   "visitante": "Venezia FC"
+  },
+  {
+   "id": 564749,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-11-22T13:00:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "FC Barcelona",
+   "visitante": "Villarreal CF"
+  },
+  {
+   "id": 560646,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-11-22T14:00:00Z",
+   "estado": "TIMED",
+   "jornada": 11,
+   "local": "Hull City AFC",
+   "visitante": "Brighton & Hove Albion FC"
+  },
+  {
+   "id": 558522,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-11-22T14:00:00Z",
+   "estado": "TIMED",
+   "jornada": 12,
+   "local": "Bologna FC 1909",
+   "visitante": "Udinese Calcio"
+  },
+  {
+   "id": 558524,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-11-22T14:00:00Z",
+   "estado": "TIMED",
+   "jornada": 12,
+   "local": "US Sassuolo Calcio",
+   "visitante": "Genoa CFC"
+  },
+  {
+   "id": 559625,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-11-22T14:00:00Z",
+   "estado": "TIMED",
+   "jornada": 11,
+   "local": "Paris FC",
+   "visitante": "Angers SCO"
+  },
+  {
+   "id": 565864,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-11-22T14:30:00Z",
+   "estado": "TIMED",
+   "jornada": 10,
+   "local": "FC Augsburg",
+   "visitante": "1. FSV Mainz 05"
+  },
+  {
+   "id": 564750,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-11-22T15:15:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "Real Racing Club de Santander",
+   "visitante": "Real Sociedad de Fútbol"
+  },
+  {
+   "id": 559626,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-11-22T16:15:00Z",
+   "estado": "TIMED",
+   "jornada": 11,
+   "local": "FC Lorient",
+   "visitante": "Stade Rennais FC 1901"
+  },
+  {
+   "id": 560645,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-11-22T16:30:00Z",
+   "estado": "TIMED",
+   "jornada": 11,
+   "local": "Liverpool FC",
+   "visitante": "Manchester United FC"
+  },
+  {
+   "id": 565863,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-11-22T16:30:00Z",
+   "estado": "TIMED",
+   "jornada": 10,
+   "local": "SV Werder Bremen",
+   "visitante": "Hamburger SV"
+  },
+  {
+   "id": 558523,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-11-22T17:00:00Z",
+   "estado": "TIMED",
+   "jornada": 12,
+   "local": "AC Milan",
+   "visitante": "Frosinone Calcio"
+  },
+  {
+   "id": 564752,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-11-22T17:30:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "CA Osasuna",
+   "visitante": "Málaga CF"
+  },
+  {
+   "id": 558520,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-11-22T19:45:00Z",
+   "estado": "TIMED",
+   "jornada": 12,
+   "local": "Atalanta BC",
+   "visitante": "FC Internazionale Milano"
+  },
+  {
+   "id": 559629,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-11-22T19:45:00Z",
+   "estado": "TIMED",
+   "jornada": 11,
+   "local": "Olympique de Marseille",
+   "visitante": "Le Mans FC"
+  },
+  {
+   "id": 564753,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-11-22T20:00:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "Getafe CF",
+   "visitante": "Club Atlético de Madrid"
   }
  ]
 }
