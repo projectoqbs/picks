@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-22",
- "actualizado": "2026-11-12T14:22:34+00:00",
+ "actualizado": "2026-11-13T13:42:53+00:00",
  "partidos": [
   {
    "id": 558521,
@@ -15,7 +15,7 @@
     "prob_X": 0.216,
     "prob_2": 0.116,
     "goles_esperados": [
-     1.837,
+     1.836,
      0.612
     ],
     "prob_over_2_5": 0.443,
@@ -27,7 +27,7 @@
      ],
      [
       "2-0",
-      0.1458
+      0.1457
      ],
      [
       "1-1",
@@ -37,7 +37,7 @@
     "cuotas_justas": [
      1.5,
      4.62,
-     8.63
+     8.62
     ],
     "resumen": "Gana Juventus FC (claro favorito, 67%).",
     "confianza": "alta"
@@ -47,7 +47,7 @@
      "ataque": 0.201,
      "defensa": 0.321,
      "neto": 0.522,
-     "peso": 47.8,
+     "peso": 47.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -129,7 +129,7 @@
     "prob_X": 0.141,
     "prob_2": 0.111,
     "goles_esperados": [
-     3.076,
+     3.075,
      1.18
     ],
     "prob_over_2_5": 0.797,
@@ -151,7 +151,7 @@
     "cuotas_justas": [
      1.34,
      7.1,
-     9.05
+     9.04
     ],
     "resumen": "Gana FC Barcelona (claro favorito, 75%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -161,14 +161,14 @@
      "ataque": 0.814,
      "defensa": 0.289,
      "neto": 1.103,
-     "peso": 48.5,
+     "peso": 48.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.359,
      "defensa": 0.071,
      "neto": 0.43,
-     "peso": 48.6,
+     "peso": 48.5,
      "fiable": true
     },
     "forma_local": {
@@ -303,7 +303,7 @@
      "ataque": -0.371,
      "defensa": -0.06,
      "neto": -0.43,
-     "peso": 37.8,
+     "peso": 37.7,
      "fiable": true
     },
     "forma_local": {
@@ -390,16 +390,16 @@
      ],
      [
       "0-1",
-      0.1154
+      0.1153
      ],
      [
       "0-0",
-      0.1074
+      0.1073
      ]
     ],
     "cuotas_justas": [
      3.3,
-     3.35,
+     3.36,
      2.51
     ],
     "resumen": "Partido parejo. pocos goles (-2.5).",
@@ -417,7 +417,7 @@
      "ataque": 0.249,
      "defensa": 0.19,
      "neto": 0.439,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "forma_local": {
@@ -509,14 +509,14 @@
      "ataque": 0.131,
      "defensa": 0.108,
      "neto": 0.239,
-     "peso": 47.9,
+     "peso": 47.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.068,
      "defensa": -0.118,
      "neto": -0.186,
-     "peso": 47.8,
+     "peso": 47.7,
      "fiable": true
     },
     "forma_local": {
@@ -641,14 +641,14 @@
      "ataque": 0.06,
      "defensa": -0.243,
      "neto": -0.182,
-     "peso": 37.1,
+     "peso": 37.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.111,
+     "ataque": -0.11,
      "defensa": 0.031,
      "neto": -0.079,
-     "peso": 47.8,
+     "peso": 47.7,
      "fiable": true
     },
     "forma_local": {
@@ -870,18 +870,18 @@
     "prob_2": 0.475,
     "goles_esperados": [
      1.762,
-     2.183
+     2.182
     ],
-    "prob_over_2_5": 0.754,
+    "prob_over_2_5": 0.753,
     "prob_btts": 0.738,
     "marcadores": [
      [
       "1-2",
-      0.0812
+      0.0813
      ],
      [
       "1-1",
-      0.0778
+      0.0779
      ],
      [
       "2-2",
@@ -901,14 +901,14 @@
      "ataque": 0.137,
      "defensa": -0.499,
      "neto": -0.362,
-     "peso": 11.0,
+     "peso": 10.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.186,
      "defensa": -0.049,
      "neto": 0.137,
-     "peso": 48.5,
+     "peso": 48.4,
      "fiable": true
     },
     "forma_local": {
@@ -945,7 +945,7 @@
     "explicacion": "Real Sociedad de Fútbol es más fuerte de fondo (neto +0.14 vs -0.36): ataca ~20% más que el promedio. Real Racing Club de Santander juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.76 – 2.18; el modelo ve marcando más a Real Sociedad de Fútbol. Y la forma reciente lo confirma: Real Sociedad de Fútbol llega mejor (4G-0E-1P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.754,
+     "prob": 0.753,
      "por_que": "Bastantes goles esperados (1.76 + 2.18 = 3.94); al menos una defensa floja. Probabilidad al over: 75%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -999,15 +999,15 @@
     "fuerza_local": {
      "ataque": -0.037,
      "defensa": 0.082,
-     "neto": 0.044,
-     "peso": 33.0,
+     "neto": 0.045,
+     "peso": 32.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.3,
      "defensa": -0.081,
      "neto": 0.219,
-     "peso": 42.5,
+     "peso": 42.4,
      "fiable": true
     },
     "forma_local": {
@@ -1097,7 +1097,7 @@
     "prob_2": 0.245,
     "goles_esperados": [
      1.668,
-     1.105
+     1.106
     ],
     "prob_over_2_5": 0.524,
     "prob_btts": 0.55,
@@ -1184,7 +1184,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "SV Werder Bremen es más fuerte de fondo (neto -0.05 vs -0.23): es más completo en general. SV Werder Bremen juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.67 – 1.10; el modelo ve marcando más a SV Werder Bremen. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "SV Werder Bremen es más fuerte de fondo (neto -0.05 vs -0.23): es más completo en general. SV Werder Bremen juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.67 – 1.11; el modelo ve marcando más a SV Werder Bremen. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.755,
@@ -1215,7 +1215,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1014
+      0.1015
      ],
      [
       "2-1",
@@ -1229,7 +1229,7 @@
     "cuotas_justas": [
      1.79,
      4.45,
-     4.59
+     4.58
     ],
     "resumen": "Gana Liverpool FC (claro favorito, 56%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -1343,7 +1343,7 @@
     "prob_2": 0.266,
     "goles_esperados": [
      2.013,
-     1.401
+     1.4
     ],
     "prob_over_2_5": 0.663,
     "prob_btts": 0.654,
@@ -1363,7 +1363,7 @@
     ],
     "cuotas_justas": [
      1.94,
-     4.6,
+     4.59,
      3.76
     ],
     "resumen": "Gana AC Milan (ligero favorito, 52%). se esperan goles (+2.5). ambos marcan.",
@@ -1374,14 +1374,14 @@
      "ataque": 0.296,
      "defensa": 0.188,
      "neto": 0.484,
-     "peso": 47.9,
+     "peso": 47.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.359,
      "defensa": -0.14,
      "neto": 0.22,
-     "peso": 15.6,
+     "peso": 15.5,
      "fiable": true
     },
     "forma_local": {
@@ -1457,14 +1457,14 @@
     "prob_2": 0.158,
     "goles_esperados": [
      1.779,
-     0.791
+     0.792
     ],
     "prob_over_2_5": 0.474,
-    "prob_btts": 0.459,
+    "prob_btts": 0.46,
     "marcadores": [
      [
       "1-0",
-      0.1312
+      0.1311
      ],
      [
       "2-0",
@@ -1478,7 +1478,7 @@
     "cuotas_justas": [
      1.66,
      4.19,
-     6.34
+     6.33
     ],
     "resumen": "Gana CA Osasuna (claro favorito, 60%).",
     "confianza": "alta"
@@ -1493,8 +1493,8 @@
     },
     "fuerza_visitante": {
      "ataque": -0.376,
-     "defensa": -0.236,
-     "neto": -0.613,
+     "defensa": -0.237,
+     "neto": -0.612,
      "peso": 11.0,
      "fiable": true
     },
@@ -1555,7 +1555,7 @@
     "prob_X": 0.17,
     "prob_2": 0.13,
     "goles_esperados": [
-     2.6,
+     2.599,
      1.062
     ],
     "prob_over_2_5": 0.708,
@@ -1657,7 +1657,7 @@
      1.247,
      1.931
     ],
-    "prob_over_2_5": 0.616,
+    "prob_over_2_5": 0.615,
     "prob_btts": 0.61,
     "marcadores": [
      [
@@ -1686,14 +1686,14 @@
      "ataque": 0.261,
      "defensa": 0.134,
      "neto": 0.395,
-     "peso": 47.8,
+     "peso": 47.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.626,
      "defensa": 0.304,
-     "neto": 0.931,
-     "peso": 47.8,
+     "neto": 0.93,
+     "peso": 47.7,
      "fiable": true
     },
     "forma_local": {
@@ -1821,14 +1821,14 @@
      "ataque": -0.361,
      "defensa": 0.22,
      "neto": -0.141,
-     "peso": 48.5,
+     "peso": 48.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.347,
      "defensa": 0.32,
      "neto": 0.667,
-     "peso": 48.5,
+     "peso": 48.4,
      "fiable": true
     },
     "forma_local": {

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T14:22:33+00:00",
+ "actualizado": "2026-11-13T13:42:52+00:00",
  "fixtures": [
   {
    "id": 565859,
@@ -450,6 +450,36 @@
    "jornada": 13,
    "local": "Getafe CF",
    "visitante": "Club Atlético de Madrid"
+  },
+  {
+   "id": 558519,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-11-23T19:45:00Z",
+   "estado": "TIMED",
+   "jornada": 12,
+   "local": "AC Monza",
+   "visitante": "ACF Fiorentina"
+  },
+  {
+   "id": 560649,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-11-23T20:00:00Z",
+   "estado": "TIMED",
+   "jornada": 11,
+   "local": "Brentford FC",
+   "visitante": "Everton FC"
+  },
+  {
+   "id": 564757,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-11-23T20:00:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "Levante UD",
+   "visitante": "Elche CF"
   }
  ]
 }
