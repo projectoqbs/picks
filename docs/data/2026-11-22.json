@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-22",
- "actualizado": "2026-11-13T20:43:51+00:00",
+ "actualizado": "2026-11-14T12:46:48+00:00",
  "partidos": [
   {
    "id": 558521,
@@ -12,7 +12,7 @@
    "visitante": "Venezia FC",
    "prediccion": {
     "prob_1": 0.667,
-    "prob_X": 0.217,
+    "prob_X": 0.216,
     "prob_2": 0.116,
     "goles_esperados": [
      1.836,
@@ -47,14 +47,14 @@
      "ataque": 0.201,
      "defensa": 0.321,
      "neto": 0.522,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.336,
      "defensa": -0.142,
      "neto": -0.478,
-     "peso": 20.9,
+     "peso": 20.8,
      "fiable": true
     },
     "forma_local": {
@@ -161,7 +161,7 @@
      "ataque": 0.814,
      "defensa": 0.289,
      "neto": 1.103,
-     "peso": 48.4,
+     "peso": 48.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -296,14 +296,14 @@
      "ataque": 0.141,
      "defensa": 0.149,
      "neto": 0.29,
-     "peso": 28.2,
+     "peso": 28.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.37,
      "defensa": -0.06,
      "neto": -0.43,
-     "peso": 37.7,
+     "peso": 37.6,
      "fiable": true
     },
     "forma_local": {
@@ -379,7 +379,7 @@
     "prob_2": 0.399,
     "goles_esperados": [
      1.06,
-     1.256
+     1.255
     ],
     "prob_over_2_5": 0.408,
     "prob_btts": 0.476,
@@ -417,7 +417,7 @@
      "ataque": 0.249,
      "defensa": 0.19,
      "neto": 0.439,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {
@@ -451,7 +451,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Brighton & Hove Albion FC es más fuerte de fondo (neto +0.44 vs +0.09): ataca ~28% más que el promedio, encaja ~17% menos. Hull City AFC juega en casa (~+20% de ventaja, ya contada). Goles esperados: 1.06 – 1.26; el modelo ve marcando más a Brighton & Hove Albion FC. Y la forma reciente lo confirma: Brighton & Hove Albion FC llega mejor (4G-0E-1P vs 0G-3E-2P).",
+    "explicacion": "Brighton & Hove Albion FC es más fuerte de fondo (neto +0.44 vs +0.09): ataca ~28% más que el promedio, encaja ~17% menos. Hull City AFC juega en casa (~+20% de ventaja, ya contada). Goles esperados: 1.06 – 1.25; el modelo ve marcando más a Brighton & Hove Albion FC. Y la forma reciente lo confirma: Brighton & Hove Albion FC llega mejor (4G-0E-1P vs 0G-3E-2P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.697,
@@ -509,14 +509,14 @@
      "ataque": 0.131,
      "defensa": 0.108,
      "neto": 0.239,
-     "peso": 47.8,
+     "peso": 47.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.068,
      "defensa": -0.118,
      "neto": -0.186,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "forma_local": {
@@ -621,7 +621,7 @@
      ],
      [
       "0-1",
-      0.0903
+      0.0904
      ],
      [
       "1-0",
@@ -639,13 +639,13 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.06,
-     "defensa": -0.243,
-     "neto": -0.182,
-     "peso": 37.0,
+     "defensa": -0.242,
+     "neto": -0.183,
+     "peso": 36.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.11,
+     "ataque": -0.111,
      "defensa": 0.031,
      "neto": -0.079,
      "peso": 47.6,
@@ -905,10 +905,10 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.186,
+     "ataque": 0.185,
      "defensa": -0.049,
-     "neto": 0.137,
-     "peso": 48.4,
+     "neto": 0.136,
+     "peso": 48.3,
      "fiable": true
     },
     "forma_local": {
@@ -998,7 +998,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.037,
-     "defensa": 0.082,
+     "defensa": 0.081,
      "neto": 0.044,
      "peso": 32.9,
      "fiable": true
@@ -1097,7 +1097,7 @@
     "prob_2": 0.245,
     "goles_esperados": [
      1.668,
-     1.105
+     1.106
     ],
     "prob_over_2_5": 0.524,
     "prob_btts": 0.55,
@@ -1134,7 +1134,7 @@
     "fuerza_visitante": {
      "ataque": -0.17,
      "defensa": -0.058,
-     "neto": -0.229,
+     "neto": -0.228,
      "peso": 27.5,
      "fiable": true
     },
@@ -1184,7 +1184,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "SV Werder Bremen es más fuerte de fondo (neto -0.05 vs -0.23): es más completo en general. SV Werder Bremen juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.67 – 1.10; el modelo ve marcando más a SV Werder Bremen. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "SV Werder Bremen es más fuerte de fondo (neto -0.05 vs -0.23): es más completo en general. SV Werder Bremen juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.67 – 1.11; el modelo ve marcando más a SV Werder Bremen. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.755,
@@ -1363,7 +1363,7 @@
     ],
     "cuotas_justas": [
      1.94,
-     4.6,
+     4.59,
      3.76
     ],
     "resumen": "Gana AC Milan (ligero favorito, 52%). se esperan goles (+2.5). ambos marcan.",
@@ -1373,8 +1373,8 @@
     "fuerza_local": {
      "ataque": 0.296,
      "defensa": 0.188,
-     "neto": 0.484,
-     "peso": 47.8,
+     "neto": 0.483,
+     "peso": 47.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1464,7 +1464,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1311
+      0.1312
      ],
      [
       "2-0",
@@ -1495,7 +1495,7 @@
      "ataque": -0.376,
      "defensa": -0.236,
      "neto": -0.612,
-     "peso": 11.0,
+     "peso": 10.9,
      "fiable": true
     },
     "forma_local": {
@@ -1685,8 +1685,8 @@
     "fuerza_local": {
      "ataque": 0.261,
      "defensa": 0.134,
-     "neto": 0.395,
-     "peso": 47.7,
+     "neto": 0.394,
+     "peso": 47.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1763,7 +1763,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.93 vs +0.40): ataca ~87% más que el promedio, encaja ~26% menos. Atalanta BC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.25 – 1.93; el modelo ve marcando más a FC Internazionale Milano. Y la forma reciente lo confirma: FC Internazionale Milano llega mejor (4G-0E-1P vs 1G-2E-2P).",
+    "explicacion": "FC Internazionale Milano es más fuerte de fondo (neto +0.93 vs +0.39): ataca ~87% más que el promedio, encaja ~26% menos. Atalanta BC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 1.25 – 1.93; el modelo ve marcando más a FC Internazionale Milano. Y la forma reciente lo confirma: FC Internazionale Milano llega mejor (4G-0E-1P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.756,
@@ -1828,7 +1828,7 @@
      "ataque": 0.347,
      "defensa": 0.32,
      "neto": 0.667,
-     "peso": 48.4,
+     "peso": 48.3,
      "fiable": true
     },
     "forma_local": {
