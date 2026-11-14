@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-24",
- "actualizado": "2026-11-14T12:46:48+00:00",
+ "actualizado": "2026-11-14T18:56:07+00:00",
  "partidos": [
   {
    "id": 575395,
@@ -16,7 +16,7 @@
     "prob_2": 0.532,
     "goles_esperados": [
      1.358,
-     2.004
+     2.003
     ],
     "prob_over_2_5": 0.653,
     "prob_btts": 0.635,
@@ -35,7 +35,7 @@
      ]
     ],
     "cuotas_justas": [
-     3.76,
+     3.75,
      4.95,
      1.88
     ],
@@ -46,7 +46,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.108,
-     "defensa": -0.023,
+     "defensa": -0.022,
      "neto": 0.085,
      "peso": 11.0,
      "fiable": true
@@ -96,7 +96,7 @@
      "por_que": "Doble oportunidad: cubre que Galatasaray SK no gane. El escenario que queda afuera (gane Galatasaray SK) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.842
+      "prob": 0.841
      },
      "confianza": "baja"
     }
@@ -210,11 +210,11 @@
    "local": "Real Madrid CF",
    "visitante": "PSV",
    "prediccion": {
-    "prob_1": 0.729,
-    "prob_X": 0.137,
+    "prob_1": 0.728,
+    "prob_X": 0.138,
     "prob_2": 0.134,
     "goles_esperados": [
-     2.983,
+     2.982,
      1.251
     ],
     "prob_over_2_5": 0.794,
@@ -236,7 +236,7 @@
     "cuotas_justas": [
      1.37,
      7.28,
-     7.46
+     7.45
     ],
     "resumen": "Gana Real Madrid CF (claro favorito, 73%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -329,13 +329,13 @@
      ],
      [
       "3-0",
-      0.0788
+      0.0787
      ]
     ],
     "cuotas_justas": [
      1.29,
      8.2,
-     9.97
+     9.96
     ],
     "resumen": "Gana Manchester City FC (claro favorito, 78%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -617,21 +617,21 @@
    "prediccion": {
     "prob_1": 0.115,
     "prob_X": 0.145,
-    "prob_2": 0.74,
+    "prob_2": 0.741,
     "goles_esperados": [
      0.908,
-     2.59
+     2.591
     ],
     "prob_over_2_5": 0.679,
     "prob_btts": 0.547,
     "marcadores": [
      [
       "0-2",
-      0.1015
+      0.1014
      ],
      [
       "1-2",
-      0.0922
+      0.0921
      ],
      [
       "0-3",
@@ -650,7 +650,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.636,
-     "defensa": -0.493,
+     "defensa": -0.494,
      "neto": -1.129,
      "peso": 5.8,
      "fiable": false
@@ -695,11 +695,11 @@
     "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.21 vs -1.13): ataca ~15% más que el promedio. ŠK Slovan Bratislava juega en casa (~+34% de ventaja, ya contada). Goles esperados: 0.91 – 2.59; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (3G-0E-1P vs 0G-0E-5P). El modelo tiene pocos datos de ŠK Slovan Bratislava: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "2",
-     "prob": 0.74,
+     "prob": 0.741,
      "por_que": "El modelo ve a Real Betis Balompié marcando más que ŠK Slovan Bratislava pese a la localía (2.59 vs 0.91), y lo respalda una diferencia de fuerza clara (neto +0.21 vs -1.13). Probabilidad del modelo: 74%.",
      "alternativa": {
       "mercado": "X2",
-      "prob": 0.885
+      "prob": 0.886
      },
      "confianza": "baja"
     }
@@ -715,10 +715,10 @@
    "visitante": "Racing Club de Lens",
    "prediccion": {
     "prob_1": 0.73,
-    "prob_X": 0.144,
+    "prob_X": 0.145,
     "prob_2": 0.125,
     "goles_esperados": [
-     2.693,
+     2.692,
      1.03
     ],
     "prob_over_2_5": 0.718,
@@ -748,7 +748,7 @@
    "nota": "pocos datos: 'Racing Club de Lens' solo tiene 4.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.124,
+     "ataque": -0.125,
      "defensa": -0.008,
      "neto": -0.133,
      "peso": 6.8,
@@ -818,8 +818,8 @@
     "prob_X": 0.04,
     "prob_2": 0.026,
     "goles_esperados": [
-     5.404,
-     1.2
+     5.403,
+     1.201
     ],
     "prob_over_2_5": 0.959,
     "prob_btts": 0.695,
@@ -839,8 +839,8 @@
     ],
     "cuotas_justas": [
      1.07,
-     25.21,
-     38.35
+     25.19,
+     38.31
     ],
     "resumen": "Gana Como 1907 (claro favorito, 93%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"

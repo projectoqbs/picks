@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-22",
- "actualizado": "2026-11-14T12:46:48+00:00",
+ "actualizado": "2026-11-14T18:56:07+00:00",
  "partidos": [
   {
    "id": 558521,
@@ -168,7 +168,7 @@
      "ataque": 0.359,
      "defensa": 0.071,
      "neto": 0.43,
-     "peso": 48.5,
+     "peso": 48.4,
      "fiable": true
     },
     "forma_local": {
@@ -265,7 +265,7 @@
     "prob_2": 0.138,
     "goles_esperados": [
      1.814,
-     0.718
+     0.719
     ],
     "prob_over_2_5": 0.464,
     "prob_btts": 0.433,
@@ -379,7 +379,7 @@
     "prob_2": 0.399,
     "goles_esperados": [
      1.06,
-     1.255
+     1.256
     ],
     "prob_over_2_5": 0.408,
     "prob_btts": 0.476,
@@ -409,7 +409,7 @@
     "fuerza_local": {
      "ataque": -0.158,
      "defensa": 0.245,
-     "neto": 0.087,
+     "neto": 0.086,
      "peso": 9.2,
      "fiable": true
     },
@@ -451,7 +451,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Brighton & Hove Albion FC es más fuerte de fondo (neto +0.44 vs +0.09): ataca ~28% más que el promedio, encaja ~17% menos. Hull City AFC juega en casa (~+20% de ventaja, ya contada). Goles esperados: 1.06 – 1.25; el modelo ve marcando más a Brighton & Hove Albion FC. Y la forma reciente lo confirma: Brighton & Hove Albion FC llega mejor (4G-0E-1P vs 0G-3E-2P).",
+    "explicacion": "Brighton & Hove Albion FC es más fuerte de fondo (neto +0.44 vs +0.09): ataca ~28% más que el promedio, encaja ~17% menos. Hull City AFC juega en casa (~+20% de ventaja, ya contada). Goles esperados: 1.06 – 1.26; el modelo ve marcando más a Brighton & Hove Albion FC. Y la forma reciente lo confirma: Brighton & Hove Albion FC llega mejor (4G-0E-1P vs 0G-3E-2P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.697,
@@ -621,7 +621,7 @@
      ],
      [
       "0-1",
-      0.0904
+      0.0903
      ],
      [
       "1-0",
@@ -639,7 +639,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.06,
-     "defensa": -0.242,
+     "defensa": -0.243,
      "neto": -0.183,
      "peso": 36.9,
      "fiable": true
@@ -742,7 +742,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1174
+      0.1173
      ],
      [
       "2-1",
@@ -870,7 +870,7 @@
     "prob_2": 0.475,
     "goles_esperados": [
      1.762,
-     2.182
+     2.181
     ],
     "prob_over_2_5": 0.753,
     "prob_btts": 0.738,
@@ -949,7 +949,7 @@
      "por_que": "Bastantes goles esperados (1.76 + 2.18 = 3.94); al menos una defensa floja. Probabilidad al over: 75%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.908
+      "prob": 0.907
      },
      "confianza": "alta"
     }
@@ -964,7 +964,7 @@
    "local": "FC Lorient",
    "visitante": "Stade Rennais FC 1901",
    "prediccion": {
-    "prob_1": 0.385,
+    "prob_1": 0.386,
     "prob_X": 0.25,
     "prob_2": 0.365,
     "goles_esperados": [
@@ -1000,14 +1000,14 @@
      "ataque": -0.037,
      "defensa": 0.081,
      "neto": 0.044,
-     "peso": 32.9,
+     "peso": 32.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.3,
      "defensa": -0.081,
      "neto": 0.219,
-     "peso": 42.4,
+     "peso": 42.3,
      "fiable": true
     },
     "forma_local": {
@@ -1097,7 +1097,7 @@
     "prob_2": 0.245,
     "goles_esperados": [
      1.668,
-     1.106
+     1.105
     ],
     "prob_over_2_5": 0.524,
     "prob_btts": 0.55,
@@ -1134,7 +1134,7 @@
     "fuerza_visitante": {
      "ataque": -0.17,
      "defensa": -0.058,
-     "neto": -0.228,
+     "neto": -0.229,
      "peso": 27.5,
      "fiable": true
     },
@@ -1184,7 +1184,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "SV Werder Bremen es más fuerte de fondo (neto -0.05 vs -0.23): es más completo en general. SV Werder Bremen juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.67 – 1.11; el modelo ve marcando más a SV Werder Bremen. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "SV Werder Bremen es más fuerte de fondo (neto -0.05 vs -0.23): es más completo en general. SV Werder Bremen juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.67 – 1.10; el modelo ve marcando más a SV Werder Bremen. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.755,
@@ -1343,7 +1343,7 @@
     "prob_2": 0.266,
     "goles_esperados": [
      2.013,
-     1.401
+     1.4
     ],
     "prob_over_2_5": 0.663,
     "prob_btts": 0.654,
@@ -1371,7 +1371,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.296,
+     "ataque": 0.295,
      "defensa": 0.188,
      "neto": 0.483,
      "peso": 47.7,
@@ -1379,7 +1379,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.359,
-     "defensa": -0.14,
+     "defensa": -0.139,
      "neto": 0.22,
      "peso": 15.5,
      "fiable": true
@@ -1464,7 +1464,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1312
+      0.1311
      ],
      [
       "2-0",
@@ -1488,7 +1488,7 @@
      "ataque": -0.041,
      "defensa": -0.047,
      "neto": -0.088,
-     "peso": 48.4,
+     "peso": 48.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1693,7 +1693,7 @@
      "ataque": 0.626,
      "defensa": 0.304,
      "neto": 0.93,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "forma_local": {
@@ -1821,7 +1821,7 @@
      "ataque": -0.361,
      "defensa": 0.22,
      "neto": -0.141,
-     "peso": 48.4,
+     "peso": 48.3,
      "fiable": true
     },
     "fuerza_visitante": {

@@ -6,7 +6,7 @@
    "equipo": "Paris Saint-Germain FC",
    "ataque": 0.767,
    "defensa": 0.388,
-   "neto": 1.155,
+   "neto": 1.154,
    "peso": 20.4,
    "fiable": true
   },
@@ -20,9 +20,9 @@
   },
   {
    "equipo": "FC Bayern München",
-   "ataque": 0.638,
+   "ataque": 0.637,
    "defensa": 0.4,
-   "neto": 1.038,
+   "neto": 1.037,
    "peso": 17.4,
    "fiable": true
   },
@@ -76,9 +76,9 @@
   },
   {
    "equipo": "Club Atlético de Madrid",
-   "ataque": 0.315,
+   "ataque": 0.314,
    "defensa": 0.218,
-   "neto": 0.533,
+   "neto": 0.532,
    "peso": 17.0,
    "fiable": true
   },
@@ -141,7 +141,7 @@
   {
    "equipo": "Bayer 04 Leverkusen",
    "ataque": -0.052,
-   "defensa": 0.276,
+   "defensa": 0.275,
    "neto": 0.224,
    "peso": 9.2,
    "fiable": true
@@ -223,13 +223,13 @@
    "ataque": -0.114,
    "defensa": 0.205,
    "neto": 0.091,
-   "peso": 9.3,
+   "peso": 9.2,
    "fiable": true
   },
   {
    "equipo": "Galatasaray SK",
    "ataque": 0.108,
-   "defensa": -0.023,
+   "defensa": -0.022,
    "neto": 0.085,
    "peso": 11.0,
    "fiable": true
@@ -253,7 +253,7 @@
   {
    "equipo": "AS Monaco FC",
    "ataque": -0.049,
-   "defensa": 0.111,
+   "defensa": 0.11,
    "neto": 0.062,
    "peso": 7.9,
    "fiable": false
@@ -318,7 +318,7 @@
    "equipo": "1. FC Union Berlin",
    "ataque": -0.114,
    "defensa": 0.031,
-   "neto": -0.084,
+   "neto": -0.083,
    "peso": 0.7,
    "fiable": false
   },
@@ -340,7 +340,7 @@
   },
   {
    "equipo": "RB Leipzig",
-   "ataque": -0.124,
+   "ataque": -0.125,
    "defensa": -0.008,
    "neto": -0.133,
    "peso": 6.8,
@@ -364,9 +364,9 @@
   },
   {
    "equipo": "Sporting Clube de Braga",
-   "ataque": -0.126,
+   "ataque": -0.125,
    "defensa": -0.023,
-   "neto": -0.149,
+   "neto": -0.148,
    "peso": 0.7,
    "fiable": false
   },
@@ -380,7 +380,7 @@
   },
   {
    "equipo": "Paphos FC",
-   "ataque": -0.305,
+   "ataque": -0.304,
    "defensa": 0.122,
    "neto": -0.183,
    "peso": 4.1,
@@ -388,7 +388,7 @@
   },
   {
    "equipo": "GNK Dinamo Zagreb",
-   "ataque": -0.03,
+   "ataque": -0.029,
    "defensa": -0.169,
    "neto": -0.198,
    "peso": 2.0,
@@ -420,16 +420,16 @@
   },
   {
    "equipo": "Stade Brestois 29",
-   "ataque": -0.241,
+   "ataque": -0.242,
    "defensa": -0.038,
-   "neto": -0.279,
+   "neto": -0.28,
    "peso": 2.6,
    "fiable": false
   },
   {
    "equipo": "FC København",
    "ataque": -0.126,
-   "defensa": -0.208,
+   "defensa": -0.207,
    "neto": -0.334,
    "peso": 5.1,
    "fiable": false
@@ -461,8 +461,8 @@
   {
    "equipo": "Eintracht Frankfurt",
    "ataque": -0.208,
-   "defensa": -0.197,
-   "neto": -0.406,
+   "defensa": -0.198,
+   "neto": -0.405,
    "peso": 4.1,
    "fiable": false
   },
@@ -476,7 +476,7 @@
   },
   {
    "equipo": "Fenerbahçe SK",
-   "ataque": -0.071,
+   "ataque": -0.072,
    "defensa": -0.342,
    "neto": -0.413,
    "peso": 3.8,
@@ -484,18 +484,10 @@
   },
   {
    "equipo": "Villarreal CF",
-   "ataque": -0.136,
+   "ataque": -0.135,
    "defensa": -0.363,
    "neto": -0.498,
    "peso": 7.8,
-   "fiable": false
-  },
-  {
-   "equipo": "AC Sparta Praha",
-   "ataque": -0.248,
-   "defensa": -0.3,
-   "neto": -0.548,
-   "peso": 2.0,
    "fiable": false
   },
   {
@@ -507,10 +499,18 @@
    "fiable": false
   },
   {
+   "equipo": "AC Sparta Praha",
+   "ataque": -0.249,
+   "defensa": -0.3,
+   "neto": -0.549,
+   "peso": 2.0,
+   "fiable": false
+  },
+  {
    "equipo": "Sabah FK",
    "ataque": -0.318,
    "defensa": -0.246,
-   "neto": -0.565,
+   "neto": -0.564,
    "peso": 3.8,
    "fiable": false
   },
@@ -565,7 +565,7 @@
   {
    "equipo": "ŠK Slovan Bratislava",
    "ataque": -0.636,
-   "defensa": -0.493,
+   "defensa": -0.494,
    "neto": -1.129,
    "peso": 5.8,
    "fiable": false
