@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-21",
- "actualizado": "2026-11-14T18:56:07+00:00",
+ "actualizado": "2026-11-15T13:14:50+00:00",
  "partidos": [
   {
    "id": 560643,
@@ -16,7 +16,7 @@
     "prob_2": 0.138,
     "goles_esperados": [
      2.054,
-     0.842
+     0.843
     ],
     "prob_over_2_5": 0.553,
     "prob_btts": 0.503,
@@ -47,14 +47,14 @@
      "ataque": 0.415,
      "defensa": 0.329,
      "neto": 0.744,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.065,
      "defensa": 0.102,
      "neto": 0.037,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "forma_local": {
@@ -151,7 +151,7 @@
     "prob_2": 0.307,
     "goles_esperados": [
      1.204,
-     1.029
+     1.03
     ],
     "prob_over_2_5": 0.386,
     "prob_btts": 0.456,
@@ -182,13 +182,13 @@
      "ataque": -0.072,
      "defensa": 0.04,
      "neto": -0.032,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.027,
      "defensa": 0.123,
-     "neto": 0.096,
+     "neto": 0.097,
      "peso": 10.9,
      "fiable": true
     },
@@ -278,17 +278,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.266,
+     "ataque": 0.265,
      "defensa": 0.336,
      "neto": 0.602,
-     "peso": 42.3,
+     "peso": 42.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.136,
      "defensa": -0.054,
      "neto": -0.19,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "forma_local": {
@@ -409,14 +409,14 @@
      "ataque": 0.178,
      "defensa": 0.201,
      "neto": 0.38,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.355,
      "defensa": -0.1,
      "neto": -0.455,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "forma_local": {
@@ -508,7 +508,7 @@
    "local": "Bayer 04 Leverkusen",
    "visitante": "SC Paderborn 07",
    "prediccion": {
-    "prob_1": 0.633,
+    "prob_1": 0.634,
     "prob_X": 0.227,
     "prob_2": 0.14,
     "goles_esperados": [
@@ -534,7 +534,7 @@
     "cuotas_justas": [
      1.58,
      4.41,
-     7.15
+     7.16
     ],
     "resumen": "Gana Bayer 04 Leverkusen (claro favorito, 63%).",
     "confianza": "alta"
@@ -608,7 +608,7 @@
    "visitante": "RB Leipzig",
    "prediccion": {
     "prob_1": 0.21,
-    "prob_X": 0.234,
+    "prob_X": 0.233,
     "prob_2": 0.556,
     "goles_esperados": [
      1.108,
@@ -650,7 +650,7 @@
      "ataque": 0.348,
      "defensa": 0.147,
      "neto": 0.495,
-     "peso": 41.8,
+     "peso": 41.7,
      "fiable": true
     },
     "forma_local": {
@@ -746,18 +746,18 @@
     "prob_X": 0.218,
     "prob_2": 0.294,
     "goles_esperados": [
-     2.119,
+     2.118,
      1.63
     ],
     "prob_over_2_5": 0.723,
     "prob_btts": 0.712,
     "marcadores": [
      [
-      "2-1",
+      "1-1",
       0.0862
      ],
      [
-      "1-1",
+      "2-1",
       0.0862
      ],
      [
@@ -775,7 +775,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.311,
+     "ataque": 0.31,
      "defensa": -0.127,
      "neto": 0.183,
      "peso": 8.3,
@@ -785,7 +785,7 @@
      "ataque": 0.101,
      "defensa": 0.051,
      "neto": 0.153,
-     "peso": 41.8,
+     "peso": 41.7,
      "fiable": true
     },
     "forma_local": {
@@ -853,7 +853,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1074
+      0.1073
      ],
      [
       "1-2",
@@ -877,14 +877,14 @@
      "ataque": -0.029,
      "defensa": -0.117,
      "neto": -0.146,
-     "peso": 41.8,
+     "peso": 41.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.296,
      "defensa": 0.388,
      "neto": 0.684,
-     "peso": 41.8,
+     "peso": 41.7,
      "fiable": true
     },
     "forma_local": {
@@ -1012,14 +1012,14 @@
      "ataque": 0.189,
      "defensa": -0.095,
      "neto": 0.094,
-     "peso": 41.8,
+     "peso": 41.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.195,
      "defensa": -0.099,
      "neto": 0.096,
-     "peso": 41.8,
+     "peso": 41.7,
      "fiable": true
     },
     "forma_local": {
@@ -1147,14 +1147,14 @@
      "ataque": 0.242,
      "defensa": 0.05,
      "neto": 0.292,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.053,
      "defensa": 0.184,
      "neto": 0.131,
-     "peso": 30.4,
+     "peso": 30.3,
      "fiable": true
     },
     "forma_local": {
@@ -1248,7 +1248,7 @@
     "cuotas_justas": [
      1.89,
      3.86,
-     4.71
+     4.7
     ],
     "resumen": "Gana Aston Villa FC (ligero favorito, 53%).",
     "confianza": "alta"
@@ -1258,14 +1258,14 @@
      "ataque": 0.18,
      "defensa": 0.052,
      "neto": 0.232,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.201,
      "defensa": 0.079,
      "neto": -0.122,
-     "peso": 30.4,
+     "peso": 30.3,
      "fiable": true
     },
     "forma_local": {
@@ -1376,7 +1376,7 @@
      "ataque": -0.022,
      "defensa": 0.116,
      "neto": 0.093,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "forma_local": {
@@ -1501,7 +1501,7 @@
      "ataque": 0.026,
      "defensa": -0.009,
      "neto": 0.017,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1603,7 +1603,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.69,
+     2.7,
      3.76,
      2.76
     ],
@@ -1721,7 +1721,7 @@
      "ataque": -0.106,
      "defensa": 0.018,
      "neto": -0.089,
-     "peso": 48.4,
+     "peso": 48.3,
      "fiable": true
     },
     "forma_local": {
@@ -1968,7 +1968,7 @@
      ],
      [
       "1-1",
-      0.1059
+      0.1058
      ]
     ],
     "cuotas_justas": [
@@ -1984,14 +1984,14 @@
      "ataque": -0.297,
      "defensa": 0.013,
      "neto": -0.284,
-     "peso": 42.3,
+     "peso": 42.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.407,
      "defensa": 0.353,
      "neto": 0.76,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "forma_local": {
@@ -2081,14 +2081,14 @@
     "prob_2": 0.491,
     "goles_esperados": [
      0.789,
-     1.343
+     1.344
     ],
     "prob_over_2_5": 0.359,
     "prob_btts": 0.411,
     "marcadores": [
      [
       "0-1",
-      0.1519
+      0.1518
      ],
      [
       "1-1",
@@ -2096,7 +2096,7 @@
      ],
      [
       "0-0",
-      0.1261
+      0.126
      ]
     ],
     "cuotas_justas": [
@@ -2119,7 +2119,7 @@
      "ataque": 0.311,
      "defensa": 0.112,
      "neto": 0.424,
-     "peso": 41.8,
+     "peso": 41.7,
      "fiable": true
     },
     "forma_local": {
@@ -2218,7 +2218,7 @@
      "ataque": 0.243,
      "defensa": 0.116,
      "neto": 0.358,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "forma_local": {
@@ -2344,16 +2344,16 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.177,
-     "defensa": 0.005,
+     "defensa": 0.006,
      "neto": 0.183,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.312,
-     "defensa": 0.674,
-     "neto": 0.986,
-     "peso": 46.3,
+     "defensa": 0.673,
+     "neto": 0.985,
+     "peso": 46.2,
      "fiable": true
     },
     "forma_local": {
@@ -2423,7 +2423,7 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "Arsenal FC es más fuerte de fondo (neto +0.99 vs +0.18): ataca ~37% más que el promedio, encaja ~49% menos. Newcastle United FC juega en casa (~+20% de ventaja, ya contada). Goles esperados: 0.91 – 1.70; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (5G-0E-0P vs 1G-1E-3P).",
+    "explicacion": "Arsenal FC es más fuerte de fondo (neto +0.98 vs +0.18): ataca ~37% más que el promedio, encaja ~49% menos. Newcastle United FC juega en casa (~+20% de ventaja, ya contada). Goles esperados: 0.91 – 1.70; el modelo ve marcando más a Arsenal FC. Y la forma reciente lo confirma: Arsenal FC llega mejor (5G-0E-0P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.806,
@@ -2589,7 +2589,7 @@
      ],
      [
       "1-0",
-      0.1027
+      0.1026
      ],
      [
       "2-1",
@@ -2609,7 +2609,7 @@
      "ataque": 0.235,
      "defensa": 0.206,
      "neto": 0.44,
-     "peso": 42.4,
+     "peso": 42.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2725,7 +2725,7 @@
      ],
      [
       "0-0",
-      0.0987
+      0.0988
      ]
     ],
     "cuotas_justas": [
@@ -2748,7 +2748,7 @@
      "ataque": 0.21,
      "defensa": 0.178,
      "neto": 0.388,
-     "peso": 42.4,
+     "peso": 42.3,
      "fiable": true
     },
     "forma_local": {
@@ -2876,14 +2876,14 @@
      "ataque": 0.245,
      "defensa": -0.038,
      "neto": 0.207,
-     "peso": 42.4,
+     "peso": 42.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.121,
      "defensa": -0.017,
      "neto": 0.104,
-     "peso": 42.4,
+     "peso": 42.3,
      "fiable": true
     },
     "forma_local": {
@@ -3000,7 +3000,7 @@
     ],
     "cuotas_justas": [
      1.7,
-     4.27,
+     4.26,
      5.69
     ],
     "resumen": "Gana SSC Napoli (claro favorito, 59%).",
@@ -3011,14 +3011,14 @@
      "ataque": 0.234,
      "defensa": 0.288,
      "neto": 0.523,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.048,
      "defensa": -0.066,
      "neto": -0.114,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "forma_local": {
@@ -3146,14 +3146,14 @@
      "ataque": 0.553,
      "defensa": 0.445,
      "neto": 0.997,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.042,
      "defensa": 0.107,
      "neto": 0.149,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "forma_local": {

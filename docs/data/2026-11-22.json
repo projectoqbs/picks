@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-22",
- "actualizado": "2026-11-14T18:56:07+00:00",
+ "actualizado": "2026-11-15T13:14:50+00:00",
  "partidos": [
   {
    "id": 558521,
@@ -12,7 +12,7 @@
    "visitante": "Venezia FC",
    "prediccion": {
     "prob_1": 0.667,
-    "prob_X": 0.216,
+    "prob_X": 0.217,
     "prob_2": 0.116,
     "goles_esperados": [
      1.836,
@@ -45,15 +45,15 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.201,
-     "defensa": 0.321,
+     "defensa": 0.32,
      "neto": 0.522,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.336,
      "defensa": -0.142,
-     "neto": -0.478,
+     "neto": -0.477,
      "peso": 20.8,
      "fiable": true
     },
@@ -129,7 +129,7 @@
     "prob_X": 0.141,
     "prob_2": 0.111,
     "goles_esperados": [
-     3.075,
+     3.074,
      1.18
     ],
     "prob_over_2_5": 0.797,
@@ -161,12 +161,12 @@
      "ataque": 0.814,
      "defensa": 0.289,
      "neto": 1.103,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.359,
-     "defensa": 0.071,
+     "defensa": 0.072,
      "neto": 0.43,
      "peso": 48.4,
      "fiable": true
@@ -238,11 +238,11 @@
       "goles_visitante": 5
      }
     ],
-    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.10 vs +0.43): ataca ~126% más que el promedio, encaja ~25% menos. FC Barcelona juega en casa (~+33% de ventaja, ya contada). Goles esperados: 3.08 – 1.18; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (4G-0E-1P vs 2G-1E-2P).",
+    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.10 vs +0.43): ataca ~126% más que el promedio, encaja ~25% menos. FC Barcelona juega en casa (~+33% de ventaja, ya contada). Goles esperados: 3.07 – 1.18; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (4G-0E-1P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.748,
-     "por_que": "FC Barcelona es favorito en casa: marca más (3.08 vs 1.18) y es más fuerte de fondo (neto +1.10 vs +0.43). Probabilidad: 75%.",
+     "por_que": "FC Barcelona es favorito en casa: marca más (3.07 vs 1.18) y es más fuerte de fondo (neto +1.10 vs +0.43). Probabilidad: 75%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.928
@@ -394,7 +394,7 @@
      ],
      [
       "0-0",
-      0.1073
+      0.1072
      ]
     ],
     "cuotas_justas": [
@@ -509,14 +509,14 @@
      "ataque": 0.131,
      "defensa": 0.108,
      "neto": 0.239,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.068,
      "defensa": -0.118,
      "neto": -0.186,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "forma_local": {
@@ -621,7 +621,7 @@
      ],
      [
       "0-1",
-      0.0903
+      0.0904
      ],
      [
       "1-0",
@@ -641,14 +641,14 @@
      "ataque": 0.06,
      "defensa": -0.243,
      "neto": -0.183,
-     "peso": 36.9,
+     "peso": 36.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.111,
      "defensa": 0.031,
      "neto": -0.079,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "forma_local": {
@@ -766,14 +766,14 @@
      "ataque": 0.004,
      "defensa": -0.067,
      "neto": -0.063,
-     "peso": 41.8,
+     "peso": 41.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.038,
      "defensa": 0.034,
      "neto": 0.072,
-     "peso": 41.8,
+     "peso": 41.7,
      "fiable": true
     },
     "forma_local": {
@@ -870,7 +870,7 @@
     "prob_2": 0.475,
     "goles_esperados": [
      1.762,
-     2.181
+     2.182
     ],
     "prob_over_2_5": 0.753,
     "prob_btts": 0.738,
@@ -905,10 +905,10 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.185,
+     "ataque": 0.186,
      "defensa": -0.049,
-     "neto": 0.136,
-     "peso": 48.3,
+     "neto": 0.137,
+     "peso": 48.2,
      "fiable": true
     },
     "forma_local": {
@@ -949,7 +949,7 @@
      "por_que": "Bastantes goles esperados (1.76 + 2.18 = 3.94); al menos una defensa floja. Probabilidad al over: 75%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.907
+      "prob": 0.908
      },
      "confianza": "alta"
     }
@@ -1097,7 +1097,7 @@
     "prob_2": 0.245,
     "goles_esperados": [
      1.668,
-     1.105
+     1.106
     ],
     "prob_over_2_5": 0.524,
     "prob_btts": 0.55,
@@ -1128,14 +1128,14 @@
      "ataque": -0.038,
      "defensa": -0.011,
      "neto": -0.049,
-     "peso": 41.8,
+     "peso": 41.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.17,
      "defensa": -0.058,
      "neto": -0.229,
-     "peso": 27.5,
+     "peso": 27.4,
      "fiable": true
     },
     "forma_local": {
@@ -1184,7 +1184,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "SV Werder Bremen es más fuerte de fondo (neto -0.05 vs -0.23): es más completo en general. SV Werder Bremen juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.67 – 1.10; el modelo ve marcando más a SV Werder Bremen. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "SV Werder Bremen es más fuerte de fondo (neto -0.05 vs -0.23): es más completo en general. SV Werder Bremen juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.67 – 1.11; el modelo ve marcando más a SV Werder Bremen. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.755,
@@ -1239,14 +1239,14 @@
      "ataque": 0.318,
      "defensa": 0.189,
      "neto": 0.507,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.168,
      "defensa": 0.009,
      "neto": 0.177,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {
@@ -1338,12 +1338,12 @@
    "local": "AC Milan",
    "visitante": "Frosinone Calcio",
    "prediccion": {
-    "prob_1": 0.517,
+    "prob_1": 0.516,
     "prob_X": 0.218,
     "prob_2": 0.266,
     "goles_esperados": [
      2.013,
-     1.4
+     1.401
     ],
     "prob_over_2_5": 0.663,
     "prob_btts": 0.654,
@@ -1363,7 +1363,7 @@
     ],
     "cuotas_justas": [
      1.94,
-     4.59,
+     4.6,
      3.76
     ],
     "resumen": "Gana AC Milan (ligero favorito, 52%). se esperan goles (+2.5). ambos marcan.",
@@ -1374,12 +1374,12 @@
      "ataque": 0.295,
      "defensa": 0.188,
      "neto": 0.483,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.359,
-     "defensa": -0.139,
+     "defensa": -0.14,
      "neto": 0.22,
      "peso": 15.5,
      "fiable": true
@@ -1456,7 +1456,7 @@
     "prob_X": 0.238,
     "prob_2": 0.158,
     "goles_esperados": [
-     1.779,
+     1.778,
      0.792
     ],
     "prob_over_2_5": 0.474,
@@ -1464,7 +1464,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1311
+      0.1312
      ],
      [
       "2-0",
@@ -1587,7 +1587,7 @@
      "ataque": 0.381,
      "defensa": 0.069,
      "neto": 0.45,
-     "peso": 42.4,
+     "peso": 42.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1657,7 +1657,7 @@
      1.247,
      1.931
     ],
-    "prob_over_2_5": 0.615,
+    "prob_over_2_5": 0.616,
     "prob_btts": 0.61,
     "marcadores": [
      [
@@ -1686,7 +1686,7 @@
      "ataque": 0.261,
      "defensa": 0.134,
      "neto": 0.394,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1785,11 +1785,11 @@
    "local": "Getafe CF",
    "visitante": "Club Atlético de Madrid",
    "prediccion": {
-    "prob_1": 0.214,
+    "prob_1": 0.215,
     "prob_X": 0.307,
     "prob_2": 0.478,
     "goles_esperados": [
-     0.74,
+     0.741,
      1.25
     ],
     "prob_over_2_5": 0.321,
@@ -1828,7 +1828,7 @@
      "ataque": 0.347,
      "defensa": 0.32,
      "neto": 0.667,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "forma_local": {

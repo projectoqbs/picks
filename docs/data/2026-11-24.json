@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-24",
- "actualizado": "2026-11-14T18:56:07+00:00",
+ "actualizado": "2026-11-15T13:14:50+00:00",
  "partidos": [
   {
    "id": 575395,
@@ -31,7 +31,7 @@
      ],
      [
       "0-1",
-      0.0767
+      0.0768
      ]
     ],
     "cuotas_justas": [
@@ -45,7 +45,7 @@
    "nota": "pocos datos: 'Aston Villa FC' solo tiene 7.1 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.108,
+     "ataque": 0.107,
      "defensa": -0.022,
      "neto": 0.085,
      "peso": 11.0,
@@ -54,7 +54,7 @@
     "fuerza_visitante": {
      "ataque": 0.356,
      "defensa": 0.407,
-     "neto": 0.763,
+     "neto": 0.762,
      "peso": 7.1,
      "fiable": false
     },
@@ -113,9 +113,9 @@
    "prediccion": {
     "prob_1": 0.537,
     "prob_X": 0.178,
-    "prob_2": 0.285,
+    "prob_2": 0.286,
     "goles_esperados": [
-     2.569,
+     2.568,
      1.875
     ],
     "prob_over_2_5": 0.82,
@@ -329,12 +329,12 @@
      ],
      [
       "3-0",
-      0.0787
+      0.0788
      ]
     ],
     "cuotas_justas": [
      1.29,
-     8.2,
+     8.19,
      9.96
     ],
     "resumen": "Gana Manchester City FC (claro favorito, 78%). se esperan goles (+2.5). ambos marcan.",
@@ -345,14 +345,14 @@
      "ataque": 0.301,
      "defensa": 0.12,
      "neto": 0.421,
-     "peso": 13.1,
+     "peso": 13.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.152,
      "defensa": -0.21,
      "neto": -0.362,
-     "peso": 8.9,
+     "peso": 8.8,
      "fiable": true
     },
     "forma_local": {
@@ -451,7 +451,7 @@
     "fuerza_local": {
      "ataque": 0.379,
      "defensa": 0.756,
-     "neto": 1.135,
+     "neto": 1.134,
      "peso": 17.9,
      "fiable": true
     },
@@ -493,11 +493,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Arsenal FC es más fuerte de fondo (neto +1.14 vs +0.33): ataca ~46% más que el promedio, encaja ~53% menos. Arsenal FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.28 – 0.77; el modelo ve marcando más a Arsenal FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Arsenal FC es más fuerte de fondo (neto +1.13 vs +0.33): ataca ~46% más que el promedio, encaja ~53% menos. Arsenal FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.28 – 0.77; el modelo ve marcando más a Arsenal FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.722,
-     "por_que": "Arsenal FC es favorito en casa: marca más (2.28 vs 0.77) y es más fuerte de fondo (neto +1.14 vs +0.33). Probabilidad: 72%.",
+     "por_que": "Arsenal FC es favorito en casa: marca más (2.28 vs 0.77) y es más fuerte de fondo (neto +1.13 vs +0.33). Probabilidad: 72%.",
      "alternativa": {
       "mercado": "1X",
       "prob": 0.884
@@ -617,10 +617,10 @@
    "prediccion": {
     "prob_1": 0.115,
     "prob_X": 0.145,
-    "prob_2": 0.741,
+    "prob_2": 0.74,
     "goles_esperados": [
-     0.908,
-     2.591
+     0.909,
+     2.59
     ],
     "prob_over_2_5": 0.679,
     "prob_btts": 0.547,
@@ -631,16 +631,16 @@
      ],
      [
       "1-2",
-      0.0921
+      0.0922
      ],
      [
       "0-3",
-      0.0876
+      0.0875
      ]
     ],
     "cuotas_justas": [
-     8.73,
-     6.9,
+     8.72,
+     6.89,
      1.35
     ],
     "resumen": "Gana Real Betis Balompié (claro favorito, 74%). se esperan goles (+2.5).",
@@ -649,7 +649,7 @@
    "nota": "pocos datos: 'Real Betis Balompié' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.636,
+     "ataque": -0.635,
      "defensa": -0.494,
      "neto": -1.129,
      "peso": 5.8,
@@ -695,11 +695,11 @@
     "explicacion": "Real Betis Balompié es más fuerte de fondo (neto +0.21 vs -1.13): ataca ~15% más que el promedio. ŠK Slovan Bratislava juega en casa (~+34% de ventaja, ya contada). Goles esperados: 0.91 – 2.59; el modelo ve marcando más a Real Betis Balompié. Y la forma reciente lo confirma: Real Betis Balompié llega mejor (3G-0E-1P vs 0G-0E-5P). El modelo tiene pocos datos de ŠK Slovan Bratislava: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "2",
-     "prob": 0.741,
+     "prob": 0.74,
      "por_que": "El modelo ve a Real Betis Balompié marcando más que ŠK Slovan Bratislava pese a la localía (2.59 vs 0.91), y lo respalda una diferencia de fuerza clara (neto +0.21 vs -1.13). Probabilidad del modelo: 74%.",
      "alternativa": {
       "mercado": "X2",
-      "prob": 0.886
+      "prob": 0.885
      },
      "confianza": "baja"
     }
@@ -719,10 +719,10 @@
     "prob_2": 0.125,
     "goles_esperados": [
      2.692,
-     1.03
+     1.031
     ],
     "prob_over_2_5": 0.718,
-    "prob_btts": 0.594,
+    "prob_btts": 0.595,
     "marcadores": [
      [
       "2-1",
@@ -740,7 +740,7 @@
     "cuotas_justas": [
      1.37,
      6.92,
-     7.98
+     7.97
     ],
     "resumen": "Gana RB Leipzig (claro favorito, 73%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -755,7 +755,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": -0.295,
+     "ataque": -0.294,
      "defensa": -0.51,
      "neto": -0.804,
      "peso": 4.5,
@@ -818,7 +818,7 @@
     "prob_X": 0.04,
     "prob_2": 0.026,
     "goles_esperados": [
-     5.403,
+     5.401,
      1.201
     ],
     "prob_over_2_5": 0.959,
@@ -839,8 +839,8 @@
     ],
     "cuotas_justas": [
      1.07,
-     25.19,
-     38.31
+     25.16,
+     38.26
     ],
     "resumen": "Gana Como 1907 (claro favorito, 93%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -848,8 +848,8 @@
    "nota": "pocos datos: 'PAE AEK' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.821,
-     "defensa": -0.014,
+     "ataque": 0.82,
+     "defensa": -0.013,
      "neto": 0.807,
      "peso": 3.8,
      "fiable": false
