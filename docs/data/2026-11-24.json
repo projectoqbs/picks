@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-24",
- "actualizado": "2026-11-15T13:14:50+00:00",
+ "actualizado": "2026-11-15T19:31:36+00:00",
  "partidos": [
   {
    "id": 575395,
@@ -31,7 +31,7 @@
      ],
      [
       "0-1",
-      0.0768
+      0.0767
      ]
     ],
     "cuotas_justas": [
@@ -45,8 +45,8 @@
    "nota": "pocos datos: 'Aston Villa FC' solo tiene 7.1 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.107,
-     "defensa": -0.022,
+     "ataque": 0.108,
+     "defensa": -0.023,
      "neto": 0.085,
      "peso": 11.0,
      "fiable": true
@@ -96,7 +96,7 @@
      "por_que": "Doble oportunidad: cubre que Galatasaray SK no gane. El escenario que queda afuera (gane Galatasaray SK) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.841
+      "prob": 0.842
      },
      "confianza": "baja"
     }
@@ -115,7 +115,7 @@
     "prob_X": 0.178,
     "prob_2": 0.286,
     "goles_esperados": [
-     2.568,
+     2.569,
      1.875
     ],
     "prob_over_2_5": 0.82,
@@ -210,8 +210,8 @@
    "local": "Real Madrid CF",
    "visitante": "PSV",
    "prediccion": {
-    "prob_1": 0.728,
-    "prob_X": 0.138,
+    "prob_1": 0.729,
+    "prob_X": 0.137,
     "prob_2": 0.134,
     "goles_esperados": [
      2.982,
@@ -236,7 +236,7 @@
     "cuotas_justas": [
      1.37,
      7.28,
-     7.45
+     7.46
     ],
     "resumen": "Gana Real Madrid CF (claro favorito, 73%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -314,7 +314,7 @@
     "prob_2": 0.1,
     "goles_esperados": [
      3.055,
-     1.045
+     1.046
     ],
     "prob_over_2_5": 0.776,
     "prob_btts": 0.614,
@@ -329,7 +329,7 @@
      ],
      [
       "3-0",
-      0.0788
+      0.0787
      ]
     ],
     "cuotas_justas": [
@@ -394,11 +394,11 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Manchester City FC es más fuerte de fondo (neto +0.42 vs -0.36): ataca ~35% más que el promedio, encaja ~11% menos. Manchester City FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 3.06 – 1.04; el modelo ve marcando más a Manchester City FC. Y la forma reciente lo confirma: Manchester City FC llega mejor (3G-0E-2P vs 1G-0E-4P).",
+    "explicacion": "Manchester City FC es más fuerte de fondo (neto +0.42 vs -0.36): ataca ~35% más que el promedio, encaja ~11% menos. Manchester City FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 3.06 – 1.05; el modelo ve marcando más a Manchester City FC. Y la forma reciente lo confirma: Manchester City FC llega mejor (3G-0E-2P vs 1G-0E-4P).",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.778,
-     "por_que": "Manchester City FC es favorito en casa: marca más (3.06 vs 1.04) y es más fuerte de fondo (neto +0.42 vs -0.36). Probabilidad: 78%.",
+     "por_que": "Manchester City FC es favorito en casa: marca más (3.06 vs 1.05) y es más fuerte de fondo (neto +0.42 vs -0.36). Probabilidad: 78%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.911
@@ -452,7 +452,7 @@
      "ataque": 0.379,
      "defensa": 0.756,
      "neto": 1.134,
-     "peso": 17.9,
+     "peso": 17.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -635,7 +635,7 @@
      ],
      [
       "0-3",
-      0.0875
+      0.0876
      ]
     ],
     "cuotas_justas": [
@@ -650,7 +650,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.635,
-     "defensa": -0.494,
+     "defensa": -0.493,
      "neto": -1.129,
      "peso": 5.8,
      "fiable": false
@@ -740,7 +740,7 @@
     "cuotas_justas": [
      1.37,
      6.92,
-     7.97
+     7.98
     ],
     "resumen": "Gana RB Leipzig (claro favorito, 73%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -748,7 +748,7 @@
    "nota": "pocos datos: 'Racing Club de Lens' solo tiene 4.5 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.125,
+     "ataque": -0.124,
      "defensa": -0.008,
      "neto": -0.133,
      "peso": 6.8,
@@ -818,7 +818,7 @@
     "prob_X": 0.04,
     "prob_2": 0.026,
     "goles_esperados": [
-     5.401,
+     5.402,
      1.201
     ],
     "prob_over_2_5": 0.959,
@@ -839,8 +839,8 @@
     ],
     "cuotas_justas": [
      1.07,
-     25.16,
-     38.26
+     25.17,
+     38.27
     ],
     "resumen": "Gana Como 1907 (claro favorito, 93%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"

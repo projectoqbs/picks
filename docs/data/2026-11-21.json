@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-21",
- "actualizado": "2026-11-15T13:14:50+00:00",
+ "actualizado": "2026-11-15T19:31:36+00:00",
  "partidos": [
   {
    "id": 560643,
@@ -36,7 +36,7 @@
     ],
     "cuotas_justas": [
      1.54,
-     4.69,
+     4.68,
      7.25
     ],
     "resumen": "Gana Manchester City FC (claro favorito, 65%).",
@@ -150,15 +150,15 @@
     "prob_X": 0.299,
     "prob_2": 0.307,
     "goles_esperados": [
-     1.204,
-     1.03
+     1.203,
+     1.029
     ],
     "prob_over_2_5": 0.386,
     "prob_btts": 0.456,
     "marcadores": [
      [
       "1-1",
-      0.1389
+      0.1388
      ],
      [
       "1-0",
@@ -188,7 +188,7 @@
     "fuerza_visitante": {
      "ataque": -0.027,
      "defensa": 0.123,
-     "neto": 0.097,
+     "neto": 0.096,
      "peso": 10.9,
      "fiable": true
     },
@@ -508,7 +508,7 @@
    "local": "Bayer 04 Leverkusen",
    "visitante": "SC Paderborn 07",
    "prediccion": {
-    "prob_1": 0.634,
+    "prob_1": 0.633,
     "prob_X": 0.227,
     "prob_2": 0.14,
     "goles_esperados": [
@@ -520,7 +520,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1252
+      0.1251
      ],
      [
       "2-0",
@@ -534,7 +534,7 @@
     "cuotas_justas": [
      1.58,
      4.41,
-     7.16
+     7.15
     ],
     "resumen": "Gana Bayer 04 Leverkusen (claro favorito, 63%).",
     "confianza": "alta"
@@ -544,13 +544,13 @@
      "ataque": 0.36,
      "defensa": 0.157,
      "neto": 0.517,
-     "peso": 41.8,
+     "peso": 41.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.359,
      "defensa": 0.211,
-     "neto": -0.149,
+     "neto": -0.148,
      "peso": 8.3,
      "fiable": true
     },
@@ -608,7 +608,7 @@
    "visitante": "RB Leipzig",
    "prediccion": {
     "prob_1": 0.21,
-    "prob_X": 0.233,
+    "prob_X": 0.234,
     "prob_2": 0.556,
     "goles_esperados": [
      1.108,
@@ -643,7 +643,7 @@
      "ataque": -0.242,
      "defensa": -0.043,
      "neto": -0.285,
-     "peso": 41.5,
+     "peso": 41.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -746,7 +746,7 @@
     "prob_X": 0.218,
     "prob_2": 0.294,
     "goles_esperados": [
-     2.118,
+     2.119,
      1.63
     ],
     "prob_over_2_5": 0.723,
@@ -775,7 +775,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.31,
+     "ataque": 0.311,
      "defensa": -0.127,
      "neto": 0.183,
      "peso": 8.3,
@@ -853,7 +853,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1073
+      0.1074
      ],
      [
       "1-2",
@@ -1248,7 +1248,7 @@
     "cuotas_justas": [
      1.89,
      3.86,
-     4.7
+     4.71
     ],
     "resumen": "Gana Aston Villa FC (ligero favorito, 53%).",
     "confianza": "alta"
@@ -1369,7 +1369,7 @@
      "ataque": 0.15,
      "defensa": 0.082,
      "neto": 0.232,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1603,7 +1603,7 @@
      ]
     ],
     "cuotas_justas": [
-     2.7,
+     2.69,
      3.76,
      2.76
     ],
@@ -1622,7 +1622,7 @@
      "ataque": -0.079,
      "defensa": -0.057,
      "neto": -0.136,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {
@@ -1713,8 +1713,8 @@
     "fuerza_local": {
      "ataque": -0.09,
      "defensa": 0.095,
-     "neto": 0.005,
-     "peso": 47.4,
+     "neto": 0.004,
+     "peso": 47.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1791,7 +1791,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.01 vs -0.09). Rayo Vallecano de Madrid juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.31 – 0.90; el modelo ve marcando más a Rayo Vallecano de Madrid. También parejos en forma (1G-2E-2P vs 1G-2E-2P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.00 vs -0.09). Rayo Vallecano de Madrid juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.31 – 0.90; el modelo ve marcando más a Rayo Vallecano de Madrid. También parejos en forma (1G-2E-2P vs 1G-2E-2P en 5).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.619,
@@ -1856,7 +1856,7 @@
      "ataque": 0.541,
      "defensa": 0.41,
      "neto": 0.951,
-     "peso": 42.4,
+     "peso": 42.3,
      "fiable": true
     },
     "forma_local": {
@@ -1968,7 +1968,7 @@
      ],
      [
       "1-1",
-      0.1058
+      0.1059
      ]
     ],
     "cuotas_justas": [
@@ -2081,7 +2081,7 @@
     "prob_2": 0.491,
     "goles_esperados": [
      0.789,
-     1.344
+     1.343
     ],
     "prob_over_2_5": 0.359,
     "prob_btts": 0.411,
@@ -2109,16 +2109,16 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.617,
+     "ataque": -0.616,
      "defensa": 0.276,
-     "neto": -0.341,
+     "neto": -0.34,
      "peso": 8.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.311,
      "defensa": 0.112,
-     "neto": 0.424,
+     "neto": 0.423,
      "peso": 41.7,
      "fiable": true
     },
@@ -2211,12 +2211,12 @@
      "ataque": 0.032,
      "defensa": -0.053,
      "neto": -0.021,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.243,
-     "defensa": 0.116,
+     "defensa": 0.115,
      "neto": 0.358,
      "peso": 48.2,
      "fiable": true
@@ -2478,17 +2478,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.276,
+     "ataque": 0.275,
      "defensa": 0.087,
      "neto": 0.363,
-     "peso": 42.3,
+     "peso": 42.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.08,
      "defensa": -0.061,
      "neto": -0.141,
-     "peso": 37.6,
+     "peso": 37.5,
      "fiable": true
     },
     "forma_local": {
@@ -2616,7 +2616,7 @@
      "ataque": 0.062,
      "defensa": 0.077,
      "neto": 0.139,
-     "peso": 41.6,
+     "peso": 41.5,
      "fiable": true
     },
     "forma_local": {
@@ -3000,7 +3000,7 @@
     ],
     "cuotas_justas": [
      1.7,
-     4.26,
+     4.27,
      5.69
     ],
     "resumen": "Gana SSC Napoli (claro favorito, 59%).",

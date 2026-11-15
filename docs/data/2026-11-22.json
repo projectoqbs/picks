@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-22",
- "actualizado": "2026-11-15T13:14:50+00:00",
+ "actualizado": "2026-11-15T19:31:36+00:00",
  "partidos": [
   {
    "id": 558521,
@@ -53,7 +53,7 @@
     "fuerza_visitante": {
      "ataque": -0.336,
      "defensa": -0.142,
-     "neto": -0.477,
+     "neto": -0.478,
      "peso": 20.8,
      "fiable": true
     },
@@ -129,7 +129,7 @@
     "prob_X": 0.141,
     "prob_2": 0.111,
     "goles_esperados": [
-     3.074,
+     3.075,
      1.18
     ],
     "prob_over_2_5": 0.797,
@@ -160,15 +160,15 @@
     "fuerza_local": {
      "ataque": 0.814,
      "defensa": 0.289,
-     "neto": 1.103,
+     "neto": 1.102,
      "peso": 48.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.359,
-     "defensa": 0.072,
+     "defensa": 0.071,
      "neto": 0.43,
-     "peso": 48.4,
+     "peso": 48.3,
      "fiable": true
     },
     "forma_local": {
@@ -238,11 +238,11 @@
       "goles_visitante": 5
      }
     ],
-    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.10 vs +0.43): ataca ~126% más que el promedio, encaja ~25% menos. FC Barcelona juega en casa (~+33% de ventaja, ya contada). Goles esperados: 3.07 – 1.18; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (4G-0E-1P vs 2G-1E-2P).",
+    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.10 vs +0.43): ataca ~126% más que el promedio, encaja ~25% menos. FC Barcelona juega en casa (~+33% de ventaja, ya contada). Goles esperados: 3.08 – 1.18; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (4G-0E-1P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.748,
-     "por_que": "FC Barcelona es favorito en casa: marca más (3.07 vs 1.18) y es más fuerte de fondo (neto +1.10 vs +0.43). Probabilidad: 75%.",
+     "por_que": "FC Barcelona es favorito en casa: marca más (3.08 vs 1.18) y es más fuerte de fondo (neto +1.10 vs +0.43). Probabilidad: 75%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.928
@@ -286,7 +286,7 @@
     "cuotas_justas": [
      1.58,
      4.33,
-     7.25
+     7.24
     ],
     "resumen": "Gana Paris FC (claro favorito, 63%).",
     "confianza": "alta"
@@ -417,7 +417,7 @@
      "ataque": 0.249,
      "defensa": 0.19,
      "neto": 0.439,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "forma_local": {
@@ -621,7 +621,7 @@
      ],
      [
       "0-1",
-      0.0904
+      0.0903
      ],
      [
       "1-0",
@@ -742,7 +742,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1173
+      0.1174
      ],
      [
       "2-1",
@@ -870,7 +870,7 @@
     "prob_2": 0.475,
     "goles_esperados": [
      1.762,
-     2.182
+     2.181
     ],
     "prob_over_2_5": 0.753,
     "prob_btts": 0.738,
@@ -907,7 +907,7 @@
     "fuerza_visitante": {
      "ataque": 0.186,
      "defensa": -0.049,
-     "neto": 0.137,
+     "neto": 0.136,
      "peso": 48.2,
      "fiable": true
     },
@@ -964,7 +964,7 @@
    "local": "FC Lorient",
    "visitante": "Stade Rennais FC 1901",
    "prediccion": {
-    "prob_1": 0.386,
+    "prob_1": 0.385,
     "prob_X": 0.25,
     "prob_2": 0.365,
     "goles_esperados": [
@@ -1097,7 +1097,7 @@
     "prob_2": 0.245,
     "goles_esperados": [
      1.668,
-     1.106
+     1.105
     ],
     "prob_over_2_5": 0.524,
     "prob_btts": 0.55,
@@ -1132,7 +1132,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.17,
+     "ataque": -0.171,
      "defensa": -0.058,
      "neto": -0.229,
      "peso": 27.4,
@@ -1184,7 +1184,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "SV Werder Bremen es más fuerte de fondo (neto -0.05 vs -0.23): es más completo en general. SV Werder Bremen juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.67 – 1.11; el modelo ve marcando más a SV Werder Bremen. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "SV Werder Bremen es más fuerte de fondo (neto -0.05 vs -0.23): es más completo en general. SV Werder Bremen juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.67 – 1.10; el modelo ve marcando más a SV Werder Bremen. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.755,
@@ -1227,7 +1227,7 @@
      ]
     ],
     "cuotas_justas": [
-     1.79,
+     1.8,
      4.45,
      4.58
     ],
@@ -1236,9 +1236,9 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.318,
+     "ataque": 0.317,
      "defensa": 0.189,
-     "neto": 0.507,
+     "neto": 0.506,
      "peso": 46.3,
      "fiable": true
     },
@@ -1338,12 +1338,12 @@
    "local": "AC Milan",
    "visitante": "Frosinone Calcio",
    "prediccion": {
-    "prob_1": 0.516,
+    "prob_1": 0.517,
     "prob_X": 0.218,
     "prob_2": 0.266,
     "goles_esperados": [
      2.013,
-     1.401
+     1.4
     ],
     "prob_over_2_5": 0.663,
     "prob_btts": 0.654,
@@ -1363,7 +1363,7 @@
     ],
     "cuotas_justas": [
      1.94,
-     4.6,
+     4.59,
      3.76
     ],
     "resumen": "Gana AC Milan (ligero favorito, 52%). se esperan goles (+2.5). ambos marcan.",
@@ -1379,7 +1379,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.359,
-     "defensa": -0.14,
+     "defensa": -0.139,
      "neto": 0.22,
      "peso": 15.5,
      "fiable": true
@@ -1456,7 +1456,7 @@
     "prob_X": 0.238,
     "prob_2": 0.158,
     "goles_esperados": [
-     1.778,
+     1.779,
      0.792
     ],
     "prob_over_2_5": 0.474,
@@ -1464,7 +1464,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1312
+      0.1311
      ],
      [
       "2-0",
@@ -1551,7 +1551,7 @@
    "local": "Olympique de Marseille",
    "visitante": "Le Mans FC",
    "prediccion": {
-    "prob_1": 0.701,
+    "prob_1": 0.7,
     "prob_X": 0.17,
     "prob_2": 0.13,
     "goles_esperados": [
@@ -1577,7 +1577,7 @@
     "cuotas_justas": [
      1.43,
      5.9,
-     7.7
+     7.69
     ],
     "resumen": "Gana Olympique de Marseille (claro favorito, 70%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -1631,7 +1631,7 @@
     "explicacion": "Olympique de Marseille es más fuerte de fondo (neto +0.45 vs -0.24): ataca ~46% más que el promedio. Olympique de Marseille juega en casa (~+23% de ventaja, ya contada). Goles esperados: 2.60 – 1.06; el modelo ve marcando más a Olympique de Marseille. Y la forma reciente lo confirma: Olympique de Marseille llega mejor (5G-0E-0P vs 0G-2E-3P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.701,
+     "prob": 0.7,
      "por_que": "Olympique de Marseille es favorito en casa: marca más (2.60 vs 1.06) y es más fuerte de fondo (neto +0.45 vs -0.24). Probabilidad: 70%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -1655,9 +1655,9 @@
     "prob_2": 0.532,
     "goles_esperados": [
      1.247,
-     1.931
+     1.93
     ],
-    "prob_over_2_5": 0.616,
+    "prob_over_2_5": 0.615,
     "prob_btts": 0.61,
     "marcadores": [
      [
@@ -1693,7 +1693,7 @@
      "ataque": 0.626,
      "defensa": 0.304,
      "neto": 0.93,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "forma_local": {
@@ -1821,7 +1821,7 @@
      "ataque": -0.361,
      "defensa": 0.22,
      "neto": -0.141,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "fuerza_visitante": {
