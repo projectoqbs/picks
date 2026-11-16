@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-20",
- "actualizado": "2026-11-15T19:31:36+00:00",
+ "actualizado": "2026-11-16T14:24:07+00:00",
  "partidos": [
   {
    "id": 565859,
@@ -15,7 +15,7 @@
     "prob_X": 0.072,
     "prob_2": 0.034,
     "goles_esperados": [
-     3.918,
+     3.917,
      0.799
     ],
     "prob_over_2_5": 0.849,
@@ -36,8 +36,8 @@
     ],
     "cuotas_justas": [
      1.12,
-     13.96,
-     29.82
+     13.95,
+     29.81
     ],
     "resumen": "Gana FC Bayern München (claro favorito, 89%). se esperan goles (+2.5).",
     "confianza": "alta"
@@ -46,8 +46,8 @@
     "fuerza_local": {
      "ataque": 0.784,
      "defensa": 0.346,
-     "neto": 1.13,
-     "peso": 41.7,
+     "neto": 1.129,
+     "peso": 41.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -124,7 +124,7 @@
      "por_que": "FC Bayern München es favorito en casa: marca más (3.92 vs 0.80) y es más fuerte de fondo (neto +1.13 vs -0.23). Probabilidad: 89%.",
      "alternativa": {
       "mercado": "1X",
-      "prob": 0.966
+      "prob": 0.967
      },
      "confianza": "alta"
     }
@@ -143,7 +143,7 @@
     "prob_X": 0.308,
     "prob_2": 0.327,
     "goles_esperados": [
-     1.101,
+     1.102,
      1.026
     ],
     "prob_over_2_5": 0.358,
@@ -182,7 +182,7 @@
      "ataque": -0.225,
      "defensa": -0.105,
      "neto": -0.33,
-     "peso": 42.3,
+     "peso": 42.2,
      "fiable": true
     },
     "forma_local": {
@@ -223,7 +223,7 @@
      "por_que": "Pocos goles esperados en total (1.10 + 1.03 = 2.13). El modelo ve el partido cerrado (64% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
-      "prob": 0.834
+      "prob": 0.833
      },
      "confianza": "alta"
     }
@@ -273,15 +273,15 @@
     "fuerza_local": {
      "ataque": 0.067,
      "defensa": 0.18,
-     "neto": 0.248,
-     "peso": 47.3,
+     "neto": 0.247,
+     "peso": 47.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.11,
      "defensa": 0.07,
      "neto": -0.04,
-     "peso": 43.0,
+     "peso": 42.9,
      "fiable": true
     },
     "forma_local": {

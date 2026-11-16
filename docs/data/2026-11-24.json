@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-24",
- "actualizado": "2026-11-15T19:31:36+00:00",
+ "actualizado": "2026-11-16T14:24:07+00:00",
  "partidos": [
   {
    "id": 575395,
@@ -11,11 +11,11 @@
    "local": "Galatasaray SK",
    "visitante": "Aston Villa FC",
    "prediccion": {
-    "prob_1": 0.266,
+    "prob_1": 0.267,
     "prob_X": 0.202,
     "prob_2": 0.532,
     "goles_esperados": [
-     1.358,
+     1.359,
      2.003
     ],
     "prob_over_2_5": 0.653,
@@ -53,7 +53,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.356,
-     "defensa": 0.407,
+     "defensa": 0.406,
      "neto": 0.762,
      "peso": 7.1,
      "fiable": false
@@ -92,7 +92,7 @@
     "explicacion": "Aston Villa FC es más fuerte de fondo (neto +0.76 vs +0.09): ataca ~43% más que el promedio, encaja ~33% menos. Galatasaray SK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.36 – 2.00; el modelo ve marcando más a Aston Villa FC. Y la forma reciente lo confirma: Aston Villa FC llega mejor (4G-0E-1P vs 2G-0E-3P). El modelo tiene pocos datos de Aston Villa FC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.734,
+     "prob": 0.733,
      "por_que": "Doble oportunidad: cubre que Galatasaray SK no gane. El escenario que queda afuera (gane Galatasaray SK) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -115,7 +115,7 @@
     "prob_X": 0.178,
     "prob_2": 0.286,
     "goles_esperados": [
-     2.569,
+     2.568,
      1.875
     ],
     "prob_over_2_5": 0.82,
@@ -142,20 +142,20 @@
     "resumen": "Gana FK Bodø/Glimt (ligero favorito, 54%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'LASK Linz' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'LASK Linz' solo tiene 3.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.065,
      "defensa": -0.035,
      "neto": 0.03,
-     "peso": 10.3,
+     "peso": 10.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.278,
      "defensa": -0.273,
      "neto": 0.005,
-     "peso": 3.8,
+     "peso": 3.7,
      "fiable": false
     },
     "forma_local": {
@@ -210,8 +210,8 @@
    "local": "Real Madrid CF",
    "visitante": "PSV",
    "prediccion": {
-    "prob_1": 0.729,
-    "prob_X": 0.137,
+    "prob_1": 0.728,
+    "prob_X": 0.138,
     "prob_2": 0.134,
     "goles_esperados": [
      2.982,
@@ -235,7 +235,7 @@
     ],
     "cuotas_justas": [
      1.37,
-     7.28,
+     7.27,
      7.46
     ],
     "resumen": "Gana Real Madrid CF (claro favorito, 73%). se esperan goles (+2.5). ambos marcan.",
@@ -309,7 +309,7 @@
    "local": "Manchester City FC",
    "visitante": "SSC Napoli",
    "prediccion": {
-    "prob_1": 0.778,
+    "prob_1": 0.777,
     "prob_X": 0.122,
     "prob_2": 0.1,
     "goles_esperados": [
@@ -397,7 +397,7 @@
     "explicacion": "Manchester City FC es más fuerte de fondo (neto +0.42 vs -0.36): ataca ~35% más que el promedio, encaja ~11% menos. Manchester City FC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 3.06 – 1.05; el modelo ve marcando más a Manchester City FC. Y la forma reciente lo confirma: Manchester City FC llega mejor (3G-0E-2P vs 1G-0E-4P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.778,
+     "prob": 0.777,
      "por_que": "Manchester City FC es favorito en casa: marca más (3.06 vs 1.05) y es más fuerte de fondo (neto +0.42 vs -0.36). Probabilidad: 78%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -523,7 +523,7 @@
      1.592
     ],
     "prob_over_2_5": 0.65,
-    "prob_btts": 0.651,
+    "prob_btts": 0.652,
     "marcadores": [
      [
       "1-1",
@@ -596,7 +596,7 @@
     "explicacion": "FC Porto es más fuerte de fondo (neto +0.03 vs -0.16): es más completo en general. Feyenoord Rotterdam juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.76 – 1.59; el modelo ve marcando más a Feyenoord Rotterdam. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Feyenoord Rotterdam: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
-     "prob": 0.651,
+     "prob": 0.652,
      "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.76 y 1.59. Probabilidad: 65%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -619,7 +619,7 @@
     "prob_X": 0.145,
     "prob_2": 0.74,
     "goles_esperados": [
-     0.909,
+     0.91,
      2.59
     ],
     "prob_over_2_5": 0.679,
@@ -627,7 +627,7 @@
     "marcadores": [
      [
       "0-2",
-      0.1014
+      0.1013
      ],
      [
       "1-2",
@@ -635,23 +635,23 @@
      ],
      [
       "0-3",
-      0.0876
+      0.0875
      ]
     ],
     "cuotas_justas": [
-     8.72,
+     8.71,
      6.89,
      1.35
     ],
     "resumen": "Gana Real Betis Balompié (claro favorito, 74%). se esperan goles (+2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Real Betis Balompié' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Real Betis Balompié' solo tiene 3.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.635,
      "defensa": -0.493,
-     "neto": -1.129,
+     "neto": -1.128,
      "peso": 5.8,
      "fiable": false
     },
@@ -659,7 +659,7 @@
      "ataque": 0.142,
      "defensa": 0.066,
      "neto": 0.208,
-     "peso": 3.8,
+     "peso": 3.7,
      "fiable": false
     },
     "forma_local": {
@@ -756,7 +756,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.294,
-     "defensa": -0.51,
+     "defensa": -0.509,
      "neto": -0.804,
      "peso": 4.5,
      "fiable": false
@@ -818,7 +818,7 @@
     "prob_X": 0.04,
     "prob_2": 0.026,
     "goles_esperados": [
-     5.402,
+     5.4,
      1.201
     ],
     "prob_over_2_5": 0.959,
@@ -830,7 +830,7 @@
      ],
      [
       "4-1",
-      0.0591
+      0.0592
      ],
      [
       "6-1",
@@ -839,13 +839,13 @@
     ],
     "cuotas_justas": [
      1.07,
-     25.17,
-     38.27
+     25.15,
+     38.24
     ],
     "resumen": "Gana Como 1907 (claro favorito, 93%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'PAE AEK' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'PAE AEK' solo tiene 3.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.82,
@@ -858,7 +858,7 @@
      "ataque": -0.147,
      "defensa": -0.261,
      "neto": -0.408,
-     "peso": 3.8,
+     "peso": 3.7,
      "fiable": false
     },
     "forma_local": {

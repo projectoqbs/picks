@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-25",
- "actualizado": "2026-11-15T19:31:36+00:00",
+ "actualizado": "2026-11-16T14:24:07+00:00",
  "partidos": [
   {
    "id": 575404,
@@ -11,12 +11,12 @@
    "local": "Sabah FK",
    "visitante": "FC Barcelona",
    "prediccion": {
-    "prob_1": 0.092,
+    "prob_1": 0.093,
     "prob_X": 0.111,
     "prob_2": 0.797,
     "goles_esperados": [
      1.128,
-     3.338
+     3.336
     ],
     "prob_over_2_5": 0.822,
     "prob_btts": 0.649,
@@ -35,26 +35,26 @@
      ]
     ],
     "cuotas_justas": [
-     10.81,
-     9.04,
-     1.25
+     10.8,
+     9.03,
+     1.26
     ],
     "resumen": "Gana FC Barcelona (claro favorito, 80%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Sabah FK' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Sabah FK' solo tiene 3.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.318,
      "defensa": -0.246,
      "neto": -0.564,
-     "peso": 3.8,
+     "peso": 3.7,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.643,
+     "ataque": 0.642,
      "defensa": 0.167,
-     "neto": 0.81,
+     "neto": 0.809,
      "peso": 15.7,
      "fiable": true
     },
@@ -112,7 +112,7 @@
    "prediccion": {
     "prob_1": 0.433,
     "prob_X": 0.213,
-    "prob_2": 0.354,
+    "prob_2": 0.353,
     "goles_esperados": [
      1.75,
      1.561
@@ -218,11 +218,11 @@
      0.95
     ],
     "prob_over_2_5": 0.516,
-    "prob_btts": 0.502,
+    "prob_btts": 0.503,
     "marcadores": [
      [
       "1-0",
-      0.124
+      0.1239
      ],
      [
       "2-0",
@@ -235,7 +235,7 @@
     ],
     "cuotas_justas": [
      1.72,
-     4.68,
+     4.67,
      4.86
     ],
     "resumen": "Gana FC Internazionale Milano (claro favorito, 58%).",
@@ -341,20 +341,20 @@
     "resumen": "Gana Club Atlético de Madrid (claro favorito, 67%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Viking FK' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Viking FK' solo tiene 3.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.314,
      "defensa": 0.218,
      "neto": 0.532,
-     "peso": 17.0,
+     "peso": 16.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.349,
-     "defensa": -0.171,
+     "defensa": -0.17,
      "neto": 0.179,
-     "peso": 3.8,
+     "peso": 3.7,
      "fiable": false
     },
     "forma_local": {
@@ -429,18 +429,18 @@
      ],
      [
       "5-1",
-      0.0623
+      0.0622
      ]
     ],
     "cuotas_justas": [
      1.12,
-     15.84,
-     22.29
+     15.83,
+     22.28
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 89%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'AS Roma' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'AS Roma' solo tiene 3.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.767,
@@ -453,7 +453,7 @@
      "ataque": 0.198,
      "defensa": -0.118,
      "neto": 0.079,
-     "peso": 3.8,
+     "peso": 3.7,
      "fiable": false
     },
     "forma_local": {
@@ -544,7 +544,7 @@
      "ataque": 0.279,
      "defensa": -0.044,
      "neto": 0.235,
-     "peso": 12.3,
+     "peso": 12.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -612,10 +612,10 @@
     "prob_2": 0.697,
     "goles_esperados": [
      1.173,
-     2.67
+     2.669
     ],
     "prob_over_2_5": 0.738,
-    "prob_btts": 0.637,
+    "prob_btts": 0.638,
     "marcadores": [
      [
       "1-2",
@@ -623,7 +623,7 @@
      ],
      [
       "1-3",
-      0.0798
+      0.0797
      ],
      [
       "0-2",
@@ -633,7 +633,7 @@
     "cuotas_justas": [
      6.67,
      6.53,
-     1.43
+     1.44
     ],
     "resumen": "Gana FC Bayern München (claro favorito, 70%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -651,7 +651,7 @@
      "ataque": 0.637,
      "defensa": 0.4,
      "neto": 1.037,
-     "peso": 17.4,
+     "peso": 17.3,
      "fiable": true
     },
     "forma_local": {
@@ -748,7 +748,7 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.119,
+     "ataque": 0.118,
      "defensa": 0.07,
      "neto": 0.188,
      "peso": 4.5,
@@ -838,7 +838,7 @@
     "resumen": "Gana FK Shakhtar Donetsk (claro favorito, 60%). se esperan goles (+2.5).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Fenerbahçe SK' solo tiene 3.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Fenerbahçe SK' solo tiene 3.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": -0.22,
@@ -848,10 +848,10 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": -0.072,
+     "ataque": -0.071,
      "defensa": -0.342,
      "neto": -0.413,
-     "peso": 3.8,
+     "peso": 3.7,
      "fiable": false
     },
     "forma_local": {
