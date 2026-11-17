@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16T14:24:05+00:00",
+ "actualizado": "2026-11-17T15:16:11+00:00",
  "fixtures": [
   {
    "id": 565859,
@@ -660,6 +660,56 @@
    "jornada": 5,
    "local": "FK Shakhtar Donetsk",
    "visitante": "Fenerbahçe SK"
+  },
+  {
+   "id": 565869,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-11-27T19:30:00Z",
+   "estado": "TIMED",
+   "jornada": 11,
+   "local": "SV Werder Bremen",
+   "visitante": "Borussia Mönchengladbach"
+  },
+  {
+   "id": 558515,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-11-27T19:45:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "Venezia FC",
+   "visitante": "Bologna FC 1909"
+  },
+  {
+   "id": 559616,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-11-27T19:45:00Z",
+   "estado": "TIMED",
+   "jornada": 12,
+   "local": "Stade Brestois 29",
+   "visitante": "Paris FC"
+  },
+  {
+   "id": 560658,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-11-27T20:00:00Z",
+   "estado": "TIMED",
+   "jornada": 12,
+   "local": "Nottingham Forest FC",
+   "visitante": "Chelsea FC"
+  },
+  {
+   "id": 564765,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-11-27T20:00:00Z",
+   "estado": "TIMED",
+   "jornada": 14,
+   "local": "Levante UD",
+   "visitante": "Real Racing Club de Santander"
   }
  ]
 }

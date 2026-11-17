@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-22",
- "actualizado": "2026-11-16T14:24:07+00:00",
+ "actualizado": "2026-11-17T15:16:15+00:00",
  "partidos": [
   {
    "id": 558521,
@@ -12,10 +12,10 @@
    "visitante": "Venezia FC",
    "prediccion": {
     "prob_1": 0.667,
-    "prob_X": 0.217,
+    "prob_X": 0.216,
     "prob_2": 0.116,
     "goles_esperados": [
-     1.836,
+     1.837,
      0.612
     ],
     "prob_over_2_5": 0.443,
@@ -47,7 +47,7 @@
      "ataque": 0.201,
      "defensa": 0.32,
      "neto": 0.522,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -129,8 +129,8 @@
     "prob_X": 0.141,
     "prob_2": 0.111,
     "goles_esperados": [
-     3.075,
-     1.181
+     3.074,
+     1.18
     ],
     "prob_over_2_5": 0.797,
     "prob_btts": 0.663,
@@ -161,14 +161,14 @@
      "ataque": 0.814,
      "defensa": 0.289,
      "neto": 1.102,
-     "peso": 48.1,
+     "peso": 48.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.359,
+     "ataque": 0.358,
      "defensa": 0.071,
      "neto": 0.43,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "forma_local": {
@@ -238,11 +238,11 @@
       "goles_visitante": 5
      }
     ],
-    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.10 vs +0.43): ataca ~126% más que el promedio, encaja ~25% menos. FC Barcelona juega en casa (~+33% de ventaja, ya contada). Goles esperados: 3.08 – 1.18; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (4G-0E-1P vs 2G-1E-2P).",
+    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.10 vs +0.43): ataca ~126% más que el promedio, encaja ~25% menos. FC Barcelona juega en casa (~+33% de ventaja, ya contada). Goles esperados: 3.07 – 1.18; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (4G-0E-1P vs 2G-1E-2P).",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.748,
-     "por_que": "FC Barcelona es favorito en casa: marca más (3.08 vs 1.18) y es más fuerte de fondo (neto +1.10 vs +0.43). Probabilidad: 75%.",
+     "por_que": "FC Barcelona es favorito en casa: marca más (3.07 vs 1.18) y es más fuerte de fondo (neto +1.10 vs +0.43). Probabilidad: 75%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.928
@@ -303,7 +303,7 @@
      "ataque": -0.37,
      "defensa": -0.06,
      "neto": -0.43,
-     "peso": 37.5,
+     "peso": 37.4,
      "fiable": true
     },
     "forma_local": {
@@ -378,7 +378,7 @@
     "prob_X": 0.298,
     "prob_2": 0.399,
     "goles_esperados": [
-     1.06,
+     1.061,
      1.256
     ],
     "prob_over_2_5": 0.408,
@@ -386,7 +386,7 @@
     "marcadores": [
      [
       "1-1",
-      0.14
+      0.1399
      ],
      [
       "0-1",
@@ -408,16 +408,16 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.158,
-     "defensa": 0.245,
+     "defensa": 0.244,
      "neto": 0.086,
-     "peso": 9.2,
+     "peso": 9.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.249,
      "defensa": 0.19,
      "neto": 0.439,
-     "peso": 46.2,
+     "peso": 46.1,
      "fiable": true
     },
     "forma_local": {
@@ -475,7 +475,7 @@
    "prediccion": {
     "prob_1": 0.532,
     "prob_X": 0.245,
-    "prob_2": 0.222,
+    "prob_2": 0.223,
     "goles_esperados": [
      1.671,
      0.99
@@ -499,7 +499,7 @@
     "cuotas_justas": [
      1.88,
      4.07,
-     4.5
+     4.49
     ],
     "resumen": "Gana Bologna FC 1909 (ligero favorito, 53%).",
     "confianza": "alta"
@@ -509,14 +509,14 @@
      "ataque": 0.131,
      "defensa": 0.108,
      "neto": 0.239,
-     "peso": 47.5,
+     "peso": 47.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.068,
      "defensa": -0.118,
      "neto": -0.186,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "forma_local": {
@@ -639,16 +639,16 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.06,
-     "defensa": -0.243,
-     "neto": -0.183,
-     "peso": 36.8,
+     "defensa": -0.242,
+     "neto": -0.182,
+     "peso": 36.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.111,
      "defensa": 0.031,
      "neto": -0.079,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "forma_local": {
@@ -766,14 +766,14 @@
      "ataque": 0.004,
      "defensa": -0.067,
      "neto": -0.063,
-     "peso": 41.6,
+     "peso": 41.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.038,
      "defensa": 0.034,
      "neto": 0.072,
-     "peso": 41.6,
+     "peso": 41.5,
      "fiable": true
     },
     "forma_local": {
@@ -908,7 +908,7 @@
      "ataque": 0.185,
      "defensa": -0.049,
      "neto": 0.136,
-     "peso": 48.1,
+     "peso": 48.0,
      "fiable": true
     },
     "forma_local": {
@@ -1007,7 +1007,7 @@
      "ataque": 0.3,
      "defensa": -0.081,
      "neto": 0.219,
-     "peso": 42.2,
+     "peso": 42.1,
      "fiable": true
     },
     "forma_local": {
@@ -1097,7 +1097,7 @@
     "prob_2": 0.245,
     "goles_esperados": [
      1.668,
-     1.105
+     1.106
     ],
     "prob_over_2_5": 0.524,
     "prob_btts": 0.55,
@@ -1132,10 +1132,10 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.171,
+     "ataque": -0.17,
      "defensa": -0.058,
      "neto": -0.229,
-     "peso": 27.4,
+     "peso": 27.3,
      "fiable": true
     },
     "forma_local": {
@@ -1184,7 +1184,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "SV Werder Bremen es más fuerte de fondo (neto -0.05 vs -0.23): es más completo en general. SV Werder Bremen juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.67 – 1.10; el modelo ve marcando más a SV Werder Bremen. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "SV Werder Bremen es más fuerte de fondo (neto -0.05 vs -0.23): es más completo en general. SV Werder Bremen juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.67 – 1.11; el modelo ve marcando más a SV Werder Bremen. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.755,
@@ -1239,14 +1239,14 @@
      "ataque": 0.317,
      "defensa": 0.189,
      "neto": 0.506,
-     "peso": 46.2,
+     "peso": 46.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.168,
      "defensa": 0.009,
      "neto": 0.177,
-     "peso": 46.2,
+     "peso": 46.1,
      "fiable": true
     },
     "forma_local": {
@@ -1338,7 +1338,7 @@
    "local": "AC Milan",
    "visitante": "Frosinone Calcio",
    "prediccion": {
-    "prob_1": 0.517,
+    "prob_1": 0.516,
     "prob_X": 0.218,
     "prob_2": 0.266,
     "goles_esperados": [
@@ -1374,7 +1374,7 @@
      "ataque": 0.295,
      "defensa": 0.188,
      "neto": 0.483,
-     "peso": 47.5,
+     "peso": 47.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1488,7 +1488,7 @@
      "ataque": -0.041,
      "defensa": -0.047,
      "neto": -0.088,
-     "peso": 48.2,
+     "peso": 48.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1555,7 +1555,7 @@
     "prob_X": 0.17,
     "prob_2": 0.13,
     "goles_esperados": [
-     2.599,
+     2.598,
      1.062
     ],
     "prob_over_2_5": 0.708,
@@ -1586,15 +1586,15 @@
     "fuerza_local": {
      "ataque": 0.381,
      "defensa": 0.069,
-     "neto": 0.45,
-     "peso": 42.2,
+     "neto": 0.449,
+     "peso": 42.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.06,
      "defensa": -0.18,
      "neto": -0.24,
-     "peso": 9.2,
+     "peso": 9.1,
      "fiable": true
     },
     "forma_local": {
@@ -1683,7 +1683,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.261,
+     "ataque": 0.26,
      "defensa": 0.134,
      "neto": 0.394,
      "peso": 47.4,
@@ -1693,7 +1693,7 @@
      "ataque": 0.626,
      "defensa": 0.304,
      "neto": 0.93,
-     "peso": 47.5,
+     "peso": 47.4,
      "fiable": true
     },
     "forma_local": {
@@ -1785,7 +1785,7 @@
    "local": "Getafe CF",
    "visitante": "Club Atlético de Madrid",
    "prediccion": {
-    "prob_1": 0.214,
+    "prob_1": 0.215,
     "prob_X": 0.307,
     "prob_2": 0.478,
     "goles_esperados": [
@@ -1801,7 +1801,7 @@
      ],
      [
       "0-0",
-      0.1424
+      0.1423
      ],
      [
       "1-1",
@@ -1821,14 +1821,14 @@
      "ataque": -0.361,
      "defensa": 0.22,
      "neto": -0.141,
-     "peso": 48.2,
+     "peso": 48.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.347,
      "defensa": 0.32,
      "neto": 0.667,
-     "peso": 48.1,
+     "peso": 48.0,
      "fiable": true
     },
     "forma_local": {

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-25",
- "actualizado": "2026-11-16T14:24:07+00:00",
+ "actualizado": "2026-11-17T15:16:15+00:00",
  "partidos": [
   {
    "id": 575404,
@@ -13,9 +13,9 @@
    "prediccion": {
     "prob_1": 0.093,
     "prob_X": 0.111,
-    "prob_2": 0.797,
+    "prob_2": 0.796,
     "goles_esperados": [
-     1.128,
+     1.129,
      3.336
     ],
     "prob_over_2_5": 0.822,
@@ -35,7 +35,7 @@
      ]
     ],
     "cuotas_justas": [
-     10.8,
+     10.79,
      9.03,
      1.26
     ],
@@ -91,7 +91,7 @@
     "explicacion": "FC Barcelona es más fuerte de fondo (neto +0.81 vs -0.56): ataca ~90% más que el promedio, encaja ~15% menos. Sabah FK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.13 – 3.34; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (4G-0E-1P vs 1G-0E-3P). El modelo tiene pocos datos de Sabah FK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "2",
-     "prob": 0.797,
+     "prob": 0.796,
      "por_que": "El modelo ve a FC Barcelona marcando más que Sabah FK pese a la localía (3.34 vs 1.13), y lo respalda una diferencia de fuerza clara (neto +0.81 vs -0.56). Probabilidad del modelo: 80%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -114,7 +114,7 @@
     "prob_X": 0.213,
     "prob_2": 0.353,
     "goles_esperados": [
-     1.75,
+     1.751,
      1.561
     ],
     "prob_over_2_5": 0.643,
@@ -145,14 +145,14 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.408,
-     "defensa": -0.265,
-     "neto": -0.673,
+     "defensa": -0.264,
+     "neto": -0.672,
      "peso": 7.8,
      "fiable": false
     },
     "fuerza_visitante": {
      "ataque": -0.136,
-     "defensa": -0.363,
+     "defensa": -0.362,
      "neto": -0.498,
      "peso": 7.8,
      "fiable": false
@@ -235,8 +235,8 @@
     ],
     "cuotas_justas": [
      1.72,
-     4.67,
-     4.86
+     4.68,
+     4.85
     ],
     "resumen": "Gana FC Internazionale Milano (claro favorito, 58%).",
     "confianza": "baja"
@@ -244,7 +244,7 @@
    "nota": "pocos datos: 'VfB Stuttgart' solo tiene 5.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.13,
+     "ataque": 0.129,
      "defensa": 0.317,
      "neto": 0.446,
      "peso": 14.4,
@@ -314,7 +314,7 @@
     "prob_X": 0.151,
     "prob_2": 0.182,
     "goles_esperados": [
-     2.975,
+     2.974,
      1.565
     ],
     "prob_over_2_5": 0.831,
@@ -322,7 +322,7 @@
     "marcadores": [
      [
       "2-1",
-      0.0739
+      0.074
      ],
      [
       "3-1",
@@ -353,7 +353,7 @@
     "fuerza_visitante": {
      "ataque": 0.349,
      "defensa": -0.17,
-     "neto": 0.179,
+     "neto": 0.178,
      "peso": 3.7,
      "fiable": false
     },
@@ -387,11 +387,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Club Atlético de Madrid es más fuerte de fondo (neto +0.53 vs +0.18): ataca ~37% más que el promedio, encaja ~20% menos. Club Atlético de Madrid juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.98 – 1.56; el modelo ve marcando más a Club Atlético de Madrid. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Viking FK: tomalo con pinzas.",
+    "explicacion": "Club Atlético de Madrid es más fuerte de fondo (neto +0.53 vs +0.18): ataca ~37% más que el promedio, encaja ~20% menos. Club Atlético de Madrid juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.97 – 1.56; el modelo ve marcando más a Club Atlético de Madrid. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Viking FK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.831,
-     "por_que": "Bastantes goles esperados (2.98 + 1.56 = 4.54); al menos una defensa floja. Probabilidad al over: 83%.",
+     "por_que": "Bastantes goles esperados (2.97 + 1.56 = 4.54); al menos una defensa floja. Probabilidad al over: 83%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.937
@@ -413,10 +413,10 @@
     "prob_X": 0.063,
     "prob_2": 0.045,
     "goles_esperados": [
-     4.439,
+     4.438,
      1.135
     ],
-    "prob_over_2_5": 0.916,
+    "prob_over_2_5": 0.915,
     "prob_btts": 0.669,
     "marcadores": [
      [
@@ -435,7 +435,7 @@
     "cuotas_justas": [
      1.12,
      15.83,
-     22.28
+     22.27
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 89%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -443,7 +443,7 @@
    "nota": "pocos datos: 'AS Roma' solo tiene 3.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.767,
+     "ataque": 0.766,
      "defensa": 0.388,
      "neto": 1.154,
      "peso": 20.3,
@@ -515,7 +515,7 @@
      1.903,
      2.034
     ],
-    "prob_over_2_5": 0.753,
+    "prob_over_2_5": 0.752,
     "prob_btts": 0.734,
     "marcadores": [
      [
@@ -528,7 +528,7 @@
      ],
      [
       "2-1",
-      0.0718
+      0.0719
      ]
     ],
     "cuotas_justas": [
@@ -543,7 +543,7 @@
     "fuerza_local": {
      "ataque": 0.279,
      "defensa": -0.044,
-     "neto": 0.235,
+     "neto": 0.234,
      "peso": 12.2,
      "fiable": true
     },
@@ -588,7 +588,7 @@
     "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.59 vs +0.23): ataca ~42% más que el promedio, encaja ~21% menos. Club Brugge KV juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.90 – 2.03; el modelo ve marcando más a Liverpool FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.753,
+     "prob": 0.752,
      "por_que": "Bastantes goles esperados (1.90 + 2.03 = 3.94); al menos una defensa floja. Probabilidad al over: 75%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -631,7 +631,7 @@
      ]
     ],
     "cuotas_justas": [
-     6.67,
+     6.66,
      6.53,
      1.44
     ],
@@ -643,7 +643,7 @@
     "fuerza_local": {
      "ataque": -0.046,
      "defensa": -0.028,
-     "neto": -0.074,
+     "neto": -0.075,
      "peso": 6.4,
      "fiable": false
     },
@@ -712,7 +712,7 @@
     "prob_2": 0.23,
     "goles_esperados": [
      1.866,
-     1.098
+     1.099
     ],
     "prob_over_2_5": 0.569,
     "prob_btts": 0.555,
@@ -749,7 +749,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.118,
-     "defensa": 0.07,
+     "defensa": 0.069,
      "neto": 0.188,
      "peso": 4.5,
      "fiable": false
@@ -812,7 +812,7 @@
     "prob_2": 0.202,
     "goles_esperados": [
      2.069,
-     1.098
+     1.099
     ],
     "prob_over_2_5": 0.613,
     "prob_btts": 0.575,
@@ -849,7 +849,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.071,
-     "defensa": -0.342,
+     "defensa": -0.341,
      "neto": -0.413,
      "peso": 3.7,
      "fiable": false
