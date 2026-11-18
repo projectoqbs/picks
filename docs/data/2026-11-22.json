@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-22",
- "actualizado": "2026-11-17T15:16:15+00:00",
+ "actualizado": "2026-11-18T14:52:51+00:00",
  "partidos": [
   {
    "id": 558521,
@@ -12,10 +12,10 @@
    "visitante": "Venezia FC",
    "prediccion": {
     "prob_1": 0.667,
-    "prob_X": 0.216,
+    "prob_X": 0.217,
     "prob_2": 0.116,
     "goles_esperados": [
-     1.837,
+     1.836,
      0.612
     ],
     "prob_over_2_5": 0.443,
@@ -47,7 +47,7 @@
      "ataque": 0.201,
      "defensa": 0.32,
      "neto": 0.522,
-     "peso": 47.3,
+     "peso": 47.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -161,14 +161,14 @@
      "ataque": 0.814,
      "defensa": 0.289,
      "neto": 1.102,
-     "peso": 48.0,
+     "peso": 47.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.358,
+     "ataque": 0.359,
      "defensa": 0.071,
      "neto": 0.43,
-     "peso": 48.2,
+     "peso": 48.1,
      "fiable": true
     },
     "forma_local": {
@@ -296,7 +296,7 @@
      "ataque": 0.141,
      "defensa": 0.149,
      "neto": 0.29,
-     "peso": 28.0,
+     "peso": 27.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -417,7 +417,7 @@
      "ataque": 0.249,
      "defensa": 0.19,
      "neto": 0.439,
-     "peso": 46.1,
+     "peso": 46.0,
      "fiable": true
     },
     "forma_local": {
@@ -499,7 +499,7 @@
     "cuotas_justas": [
      1.88,
      4.07,
-     4.49
+     4.5
     ],
     "resumen": "Gana Bologna FC 1909 (ligero favorito, 53%).",
     "confianza": "alta"
@@ -508,15 +508,15 @@
     "fuerza_local": {
      "ataque": 0.131,
      "defensa": 0.108,
-     "neto": 0.239,
-     "peso": 47.4,
+     "neto": 0.238,
+     "peso": 47.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.068,
      "defensa": -0.118,
      "neto": -0.186,
-     "peso": 47.3,
+     "peso": 47.2,
      "fiable": true
     },
     "forma_local": {
@@ -640,15 +640,15 @@
     "fuerza_local": {
      "ataque": 0.06,
      "defensa": -0.242,
-     "neto": -0.182,
-     "peso": 36.7,
+     "neto": -0.183,
+     "peso": 36.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.111,
      "defensa": 0.031,
      "neto": -0.079,
-     "peso": 47.3,
+     "peso": 47.2,
      "fiable": true
     },
     "forma_local": {
@@ -898,17 +898,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.137,
+     "ataque": 0.136,
      "defensa": -0.499,
      "neto": -0.362,
-     "peso": 10.9,
+     "peso": 10.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.185,
      "defensa": -0.049,
      "neto": 0.136,
-     "peso": 48.0,
+     "peso": 47.9,
      "fiable": true
     },
     "forma_local": {
@@ -1000,14 +1000,14 @@
      "ataque": -0.037,
      "defensa": 0.081,
      "neto": 0.044,
-     "peso": 32.7,
+     "peso": 32.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.3,
      "defensa": -0.081,
      "neto": 0.219,
-     "peso": 42.1,
+     "peso": 42.0,
      "fiable": true
     },
     "forma_local": {
@@ -1097,7 +1097,7 @@
     "prob_2": 0.245,
     "goles_esperados": [
      1.668,
-     1.106
+     1.105
     ],
     "prob_over_2_5": 0.524,
     "prob_btts": 0.55,
@@ -1128,7 +1128,7 @@
      "ataque": -0.038,
      "defensa": -0.011,
      "neto": -0.049,
-     "peso": 41.6,
+     "peso": 41.5,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1184,7 +1184,7 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "SV Werder Bremen es más fuerte de fondo (neto -0.05 vs -0.23): es más completo en general. SV Werder Bremen juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.67 – 1.11; el modelo ve marcando más a SV Werder Bremen. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "SV Werder Bremen es más fuerte de fondo (neto -0.05 vs -0.23): es más completo en general. SV Werder Bremen juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.67 – 1.10; el modelo ve marcando más a SV Werder Bremen. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "1X",
      "prob": 0.755,
@@ -1239,14 +1239,14 @@
      "ataque": 0.317,
      "defensa": 0.189,
      "neto": 0.506,
-     "peso": 46.1,
+     "peso": 46.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.168,
      "defensa": 0.009,
      "neto": 0.177,
-     "peso": 46.1,
+     "peso": 46.0,
      "fiable": true
     },
     "forma_local": {
@@ -1374,7 +1374,7 @@
      "ataque": 0.295,
      "defensa": 0.188,
      "neto": 0.483,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1457,22 +1457,22 @@
     "prob_2": 0.158,
     "goles_esperados": [
      1.778,
-     0.792
+     0.793
     ],
     "prob_over_2_5": 0.474,
     "prob_btts": 0.46,
     "marcadores": [
      [
       "1-0",
-      0.1312
+      0.1311
      ],
      [
       "2-0",
-      0.121
+      0.1209
      ],
      [
       "1-1",
-      0.1126
+      0.1127
      ]
     ],
     "cuotas_justas": [
@@ -1488,11 +1488,11 @@
      "ataque": -0.041,
      "defensa": -0.047,
      "neto": -0.088,
-     "peso": 48.1,
+     "peso": 48.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.376,
+     "ataque": -0.375,
      "defensa": -0.236,
      "neto": -0.612,
      "peso": 10.9,
@@ -1686,14 +1686,14 @@
      "ataque": 0.26,
      "defensa": 0.134,
      "neto": 0.394,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.626,
      "defensa": 0.304,
      "neto": 0.93,
-     "peso": 47.4,
+     "peso": 47.3,
      "fiable": true
     },
     "forma_local": {
@@ -1801,7 +1801,7 @@
      ],
      [
       "0-0",
-      0.1423
+      0.1424
      ],
      [
       "1-1",
@@ -1821,14 +1821,14 @@
      "ataque": -0.361,
      "defensa": 0.22,
      "neto": -0.141,
-     "peso": 48.1,
+     "peso": 48.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.347,
      "defensa": 0.32,
      "neto": 0.667,
-     "peso": 48.0,
+     "peso": 47.9,
      "fiable": true
     },
     "forma_local": {

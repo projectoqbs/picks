@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-25",
- "actualizado": "2026-11-17T15:16:15+00:00",
+ "actualizado": "2026-11-18T14:52:51+00:00",
  "partidos": [
   {
    "id": 575404,
@@ -16,7 +16,7 @@
     "prob_2": 0.796,
     "goles_esperados": [
      1.129,
-     3.336
+     3.335
     ],
     "prob_over_2_5": 0.822,
     "prob_btts": 0.649,
@@ -31,12 +31,12 @@
      ],
      [
       "0-3",
-      0.0713
+      0.0712
      ]
     ],
     "cuotas_justas": [
-     10.79,
-     9.03,
+     10.78,
+     9.02,
      1.26
     ],
     "resumen": "Gana FC Barcelona (claro favorito, 80%). se esperan goles (+2.5). ambos marcan.",
@@ -47,7 +47,7 @@
     "fuerza_local": {
      "ataque": -0.318,
      "defensa": -0.246,
-     "neto": -0.564,
+     "neto": -0.563,
      "peso": 3.7,
      "fiable": false
     },
@@ -88,11 +88,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "FC Barcelona es más fuerte de fondo (neto +0.81 vs -0.56): ataca ~90% más que el promedio, encaja ~15% menos. Sabah FK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.13 – 3.34; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (4G-0E-1P vs 1G-0E-3P). El modelo tiene pocos datos de Sabah FK: tomalo con pinzas.",
+    "explicacion": "FC Barcelona es más fuerte de fondo (neto +0.81 vs -0.56): ataca ~90% más que el promedio, encaja ~15% menos. Sabah FK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.13 – 3.33; el modelo ve marcando más a FC Barcelona. Y la forma reciente lo confirma: FC Barcelona llega mejor (4G-0E-1P vs 1G-0E-3P). El modelo tiene pocos datos de Sabah FK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "2",
      "prob": 0.796,
-     "por_que": "El modelo ve a FC Barcelona marcando más que Sabah FK pese a la localía (3.34 vs 1.13), y lo respalda una diferencia de fuerza clara (neto +0.81 vs -0.56). Probabilidad del modelo: 80%.",
+     "por_que": "El modelo ve a FC Barcelona marcando más que Sabah FK pese a la localía (3.33 vs 1.13), y lo respalda una diferencia de fuerza clara (neto +0.81 vs -0.56). Probabilidad del modelo: 80%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.934
@@ -135,7 +135,7 @@
     ],
     "cuotas_justas": [
      2.31,
-     4.68,
+     4.69,
      2.83
     ],
     "resumen": "Gana SK Slavia Praha (ligero favorito, 43%). se esperan goles (+2.5). ambos marcan.",
@@ -214,7 +214,7 @@
     "prob_X": 0.214,
     "prob_2": 0.206,
     "goles_esperados": [
-     1.791,
+     1.792,
      0.95
     ],
     "prob_over_2_5": 0.516,
@@ -226,7 +226,7 @@
      ],
      [
       "2-0",
-      0.1035
+      0.1034
      ],
      [
       "1-1",
@@ -241,20 +241,20 @@
     "resumen": "Gana FC Internazionale Milano (claro favorito, 58%).",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'VfB Stuttgart' solo tiene 5.8 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'VfB Stuttgart' solo tiene 5.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.129,
      "defensa": 0.317,
      "neto": 0.446,
-     "peso": 14.4,
+     "peso": 14.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.051,
      "defensa": 0.152,
      "neto": 0.101,
-     "peso": 5.8,
+     "peso": 5.7,
      "fiable": false
     },
     "forma_local": {
@@ -413,7 +413,7 @@
     "prob_X": 0.063,
     "prob_2": 0.045,
     "goles_esperados": [
-     4.438,
+     4.437,
      1.135
     ],
     "prob_over_2_5": 0.915,
@@ -434,8 +434,8 @@
     ],
     "cuotas_justas": [
      1.12,
-     15.83,
-     22.27
+     15.82,
+     22.25
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 89%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -444,13 +444,13 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.766,
-     "defensa": 0.388,
+     "defensa": 0.387,
      "neto": 1.154,
-     "peso": 20.3,
+     "peso": 20.2,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.198,
+     "ataque": 0.197,
      "defensa": -0.118,
      "neto": 0.079,
      "peso": 3.7,
@@ -515,7 +515,7 @@
      1.903,
      2.034
     ],
-    "prob_over_2_5": 0.752,
+    "prob_over_2_5": 0.753,
     "prob_btts": 0.734,
     "marcadores": [
      [
@@ -528,7 +528,7 @@
      ],
      [
       "2-1",
-      0.0719
+      0.0718
      ]
     ],
     "cuotas_justas": [
@@ -549,7 +549,7 @@
     },
     "fuerza_visitante": {
      "ataque": 0.349,
-     "defensa": 0.241,
+     "defensa": 0.24,
      "neto": 0.59,
      "peso": 13.0,
      "fiable": true
@@ -588,7 +588,7 @@
     "explicacion": "Liverpool FC es más fuerte de fondo (neto +0.59 vs +0.23): ataca ~42% más que el promedio, encaja ~21% menos. Club Brugge KV juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.90 – 2.03; el modelo ve marcando más a Liverpool FC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.752,
+     "prob": 0.753,
      "por_que": "Bastantes goles esperados (1.90 + 2.03 = 3.94); al menos una defensa floja. Probabilidad al over: 75%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -649,8 +649,8 @@
     },
     "fuerza_visitante": {
      "ataque": 0.637,
-     "defensa": 0.4,
-     "neto": 1.037,
+     "defensa": 0.399,
+     "neto": 1.036,
      "peso": 17.3,
      "fiable": true
     },
@@ -719,7 +719,7 @@
     "marcadores": [
      [
       "1-0",
-      0.1044
+      0.1043
      ],
      [
       "2-1",
@@ -744,7 +744,7 @@
      "ataque": 0.088,
      "defensa": 0.341,
      "neto": 0.429,
-     "peso": 13.0,
+     "peso": 12.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -811,7 +811,7 @@
     "prob_X": 0.193,
     "prob_2": 0.202,
     "goles_esperados": [
-     2.069,
+     2.068,
      1.099
     ],
     "prob_over_2_5": 0.613,
@@ -831,7 +831,7 @@
      ]
     ],
     "cuotas_justas": [
-     1.65,
+     1.66,
      5.17,
      4.94
     ],
