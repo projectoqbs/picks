@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18T14:52:47+00:00",
+ "actualizado": "2026-11-19T14:59:12+00:00",
  "fixtures": [
   {
    "id": 565859,
@@ -910,6 +910,206 @@
    "jornada": 14,
    "local": "Real Madrid CF",
    "visitante": "Deportivo Alavés"
+  },
+  {
+   "id": 558517,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-11-29T11:30:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "Udinese Calcio",
+   "visitante": "ACF Fiorentina"
+  },
+  {
+   "id": 560656,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-11-29T12:00:00Z",
+   "estado": "TIMED",
+   "jornada": 12,
+   "local": "Everton FC",
+   "visitante": "Liverpool FC"
+  },
+  {
+   "id": 564761,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-11-29T13:00:00Z",
+   "estado": "TIMED",
+   "jornada": 14,
+   "local": "Valencia CF",
+   "visitante": "CA Osasuna"
+  },
+  {
+   "id": 558509,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-11-29T14:00:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "US Sassuolo Calcio",
+   "visitante": "SSC Napoli"
+  },
+  {
+   "id": 559619,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-11-29T14:00:00Z",
+   "estado": "TIMED",
+   "jornada": 12,
+   "local": "AJ Auxerre",
+   "visitante": "Olympique de Marseille"
+  },
+  {
+   "id": 560657,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-11-29T14:05:00Z",
+   "estado": "TIMED",
+   "jornada": 12,
+   "local": "Fulham FC",
+   "visitante": "AFC Bournemouth"
+  },
+  {
+   "id": 560659,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-11-29T14:05:00Z",
+   "estado": "TIMED",
+   "jornada": 12,
+   "local": "Brighton & Hove Albion FC",
+   "visitante": "Newcastle United FC"
+  },
+  {
+   "id": 560660,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-11-29T14:05:00Z",
+   "estado": "TIMED",
+   "jornada": 12,
+   "local": "Sunderland AFC",
+   "visitante": "Tottenham Hotspur FC"
+  },
+  {
+   "id": 560661,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-11-29T14:05:00Z",
+   "estado": "TIMED",
+   "jornada": 12,
+   "local": "Crystal Palace FC",
+   "visitante": "Hull City AFC"
+  },
+  {
+   "id": 565873,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-11-29T14:30:00Z",
+   "estado": "TIMED",
+   "jornada": 11,
+   "local": "SC Freiburg",
+   "visitante": "RB Leipzig"
+  },
+  {
+   "id": 564766,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-11-29T15:15:00Z",
+   "estado": "TIMED",
+   "jornada": 14,
+   "local": "RC Deportivo La Coruña",
+   "visitante": "FC Barcelona"
+  },
+  {
+   "id": 559618,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-11-29T16:15:00Z",
+   "estado": "TIMED",
+   "jornada": 12,
+   "local": "Toulouse FC",
+   "visitante": "Stade Rennais FC 1901"
+  },
+  {
+   "id": 560654,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-11-29T16:30:00Z",
+   "estado": "TIMED",
+   "jornada": 12,
+   "local": "Arsenal FC",
+   "visitante": "Manchester City FC"
+  },
+  {
+   "id": 565871,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-11-29T16:30:00Z",
+   "estado": "TIMED",
+   "jornada": 11,
+   "local": "TSG 1899 Hoffenheim",
+   "visitante": "FC Augsburg"
+  },
+  {
+   "id": 558512,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-11-29T17:00:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "AS Roma",
+   "visitante": "AC Monza"
+  },
+  {
+   "id": 564758,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-11-29T17:30:00Z",
+   "estado": "TIMED",
+   "jornada": 14,
+   "local": "RC Celta de Vigo",
+   "visitante": "Villarreal CF"
+  },
+  {
+   "id": 565872,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-11-29T18:30:00Z",
+   "estado": "TIMED",
+   "jornada": 11,
+   "local": "Borussia Dortmund",
+   "visitante": "Bayer 04 Leverkusen"
+  },
+  {
+   "id": 558511,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-11-29T19:45:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "Como 1907",
+   "visitante": "Juventus FC"
+  },
+  {
+   "id": 559615,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-11-29T19:45:00Z",
+   "estado": "TIMED",
+   "jornada": 12,
+   "local": "Olympique Lyonnais",
+   "visitante": "AS Monaco FC"
+  },
+  {
+   "id": 564764,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-11-29T20:00:00Z",
+   "estado": "TIMED",
+   "jornada": 14,
+   "local": "Real Sociedad de Fútbol",
+   "visitante": "Sevilla FC"
   }
  ]
 }

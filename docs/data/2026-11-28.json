@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-28",
- "actualizado": "2026-11-18T14:52:51+00:00",
+ "actualizado": "2026-11-19T14:59:15+00:00",
  "partidos": [
   {
    "id": 564760,
@@ -47,14 +47,14 @@
      "ataque": 0.242,
      "defensa": 0.115,
      "neto": 0.358,
-     "peso": 48.0,
+     "peso": 47.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.09,
      "defensa": 0.095,
      "neto": 0.004,
-     "peso": 47.1,
+     "peso": 47.0,
      "fiable": true
     },
     "forma_local": {
@@ -150,7 +150,7 @@
     "prob_X": 0.229,
     "prob_2": 0.203,
     "goles_esperados": [
-     1.842,
+     1.841,
      1.009
     ],
     "prob_over_2_5": 0.542,
@@ -158,7 +158,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1085
+      0.1086
      ],
      [
       "1-0",
@@ -182,7 +182,7 @@
      "ataque": 0.359,
      "defensa": -0.139,
      "neto": 0.219,
-     "peso": 15.4,
+     "peso": 15.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -252,12 +252,12 @@
      1.616,
      1.935
     ],
-    "prob_over_2_5": 0.689,
+    "prob_over_2_5": 0.688,
     "prob_btts": 0.691,
     "marcadores": [
      [
       "1-1",
-      0.095
+      0.0951
      ],
      [
       "1-2",
@@ -281,7 +281,7 @@
      "ataque": -0.139,
      "defensa": -0.09,
      "neto": -0.229,
-     "peso": 32.0,
+     "peso": 31.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -380,14 +380,14 @@
      "ataque": 0.038,
      "defensa": 0.034,
      "neto": 0.072,
-     "peso": 41.5,
+     "peso": 41.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.242,
      "defensa": -0.043,
      "neto": -0.285,
-     "peso": 41.2,
+     "peso": 41.1,
      "fiable": true
     },
     "forma_local": {
@@ -479,7 +479,7 @@
    "local": "SC Paderborn 07",
    "visitante": "FC Schalke 04",
    "prediccion": {
-    "prob_1": 0.396,
+    "prob_1": 0.397,
     "prob_X": 0.385,
     "prob_2": 0.219,
     "goles_esperados": [
@@ -491,7 +491,7 @@
     "marcadores": [
      [
       "0-0",
-      0.2452
+      0.245
      ],
      [
       "1-0",
@@ -513,13 +513,13 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.359,
-     "defensa": 0.211,
+     "defensa": 0.21,
      "neto": -0.148,
      "peso": 8.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.616,
+     "ataque": -0.615,
      "defensa": 0.276,
      "neto": -0.34,
      "peso": 8.3,
@@ -560,7 +560,7 @@
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.825,
-     "por_que": "Pocos goles esperados en total (0.87 + 0.57 = 1.44); la defensa de FC Schalke 04 aprieta. El modelo ve el partido cerrado (83% al under).",
+     "por_que": "Pocos goles esperados en total (0.87 + 0.57 = 1.44); la defensa de FC Schalke 04 aprieta. El modelo ve el partido cerrado (82% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
       "prob": 0.942
@@ -590,7 +590,7 @@
     "marcadores": [
      [
       "0-3",
-      0.0845
+      0.0844
      ],
      [
       "0-2",
@@ -611,17 +611,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.17,
+     "ataque": -0.171,
      "defensa": -0.058,
      "neto": -0.229,
-     "peso": 27.3,
+     "peso": 27.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.784,
      "defensa": 0.346,
      "neto": 1.129,
-     "peso": 41.5,
+     "peso": 41.4,
      "fiable": true
     },
     "forma_local": {
@@ -795,7 +795,7 @@
     "prob_X": 0.251,
     "prob_2": 0.335,
     "goles_esperados": [
-     1.646,
+     1.647,
      1.462
     ],
     "prob_over_2_5": 0.601,
@@ -827,14 +827,14 @@
      "ataque": 0.168,
      "defensa": 0.009,
      "neto": 0.177,
-     "peso": 46.0,
+     "peso": 45.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.166,
      "defensa": 0.076,
-     "neto": 0.242,
-     "peso": 46.0,
+     "neto": 0.241,
+     "peso": 45.9,
      "fiable": true
     },
     "forma_local": {
@@ -931,14 +931,14 @@
     "prob_2": 0.52,
     "goles_esperados": [
      0.84,
-     1.491
+     1.49
     ],
     "prob_over_2_5": 0.412,
     "prob_btts": 0.446,
     "marcadores": [
      [
       "0-1",
-      0.1395
+      0.1394
      ],
      [
       "1-1",
@@ -946,7 +946,7 @@
      ],
      [
       "0-2",
-      0.1081
+      0.108
      ]
     ],
     "cuotas_justas": [
@@ -961,8 +961,8 @@
     "fuerza_local": {
      "ataque": -0.375,
      "defensa": -0.236,
-     "neto": -0.612,
-     "peso": 10.9,
+     "neto": -0.611,
+     "peso": 10.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1061,14 +1061,14 @@
      "ataque": -0.37,
      "defensa": -0.06,
      "neto": -0.43,
-     "peso": 37.4,
+     "peso": 37.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.235,
      "defensa": 0.206,
      "neto": 0.44,
-     "peso": 42.1,
+     "peso": 42.0,
      "fiable": true
     },
     "forma_local": {
@@ -1189,7 +1189,7 @@
      "ataque": -0.048,
      "defensa": -0.066,
      "neto": -0.114,
-     "peso": 47.2,
+     "peso": 47.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1321,14 +1321,14 @@
      "ataque": 0.311,
      "defensa": 0.112,
      "neto": 0.423,
-     "peso": 41.5,
+     "peso": 41.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.189,
      "defensa": -0.095,
      "neto": 0.094,
-     "peso": 41.5,
+     "peso": 41.4,
      "fiable": true
     },
     "forma_local": {
@@ -1405,7 +1405,7 @@
      "por_que": "Bastantes goles esperados (2.46 + 1.40 = 3.86); al menos una defensa floja. Probabilidad al over: 74%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.901
+      "prob": 0.902
      },
      "confianza": "alta"
     }
@@ -1456,7 +1456,7 @@
      "ataque": 0.046,
      "defensa": -0.053,
      "neto": -0.006,
-     "peso": 32.1,
+     "peso": 32.0,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1566,7 +1566,7 @@
     "fuerza_local": {
      "ataque": -0.06,
      "defensa": -0.329,
-     "neto": -0.39,
+     "neto": -0.389,
      "peso": 19.7,
      "fiable": true
     },
@@ -1574,7 +1574,7 @@
      "ataque": 0.18,
      "defensa": 0.052,
      "neto": 0.232,
-     "peso": 46.0,
+     "peso": 45.9,
      "fiable": true
     },
     "forma_local": {
@@ -1860,7 +1860,7 @@
      ],
      [
       "0-1",
-      0.0855
+      0.0856
      ]
     ],
     "cuotas_justas": [
@@ -1883,7 +1883,7 @@
      "ataque": 0.245,
      "defensa": -0.038,
      "neto": 0.207,
-     "peso": 42.1,
+     "peso": 42.0,
      "fiable": true
     },
     "forma_local": {
@@ -2011,14 +2011,14 @@
      "ataque": 0.541,
      "defensa": 0.41,
      "neto": 0.951,
-     "peso": 42.1,
+     "peso": 42.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.037,
      "defensa": 0.081,
      "neto": 0.044,
-     "peso": 32.6,
+     "peso": 32.5,
      "fiable": true
     },
     "forma_local": {
@@ -2139,14 +2139,14 @@
      "ataque": 0.626,
      "defensa": 0.304,
      "neto": 0.93,
-     "peso": 47.3,
+     "peso": 47.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.111,
      "defensa": 0.031,
      "neto": -0.079,
-     "peso": 47.2,
+     "peso": 47.1,
      "fiable": true
     },
     "forma_local": {
@@ -2271,7 +2271,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.553,
+     "ataque": 0.552,
      "defensa": 0.444,
      "neto": 0.997,
      "peso": 47.9,
@@ -2281,7 +2281,7 @@
      "ataque": -0.072,
      "defensa": 0.04,
      "neto": -0.032,
-     "peso": 47.9,
+     "peso": 47.8,
      "fiable": true
     },
     "forma_local": {
