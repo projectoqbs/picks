@@ -1,0 +1,401 @@
+{
+ "fecha": "2026-11-30",
+ "actualizado": "2026-11-20T14:41:04+00:00",
+ "partidos": [
+  {
+   "id": 558516,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-11-30T17:30:00Z",
+   "jornada": 13,
+   "local": "US Lecce",
+   "visitante": "Atalanta BC",
+   "prediccion": {
+    "prob_1": 0.174,
+    "prob_X": 0.241,
+    "prob_2": 0.585,
+    "goles_esperados": [
+     0.8,
+     1.692
+    ],
+    "prob_over_2_5": 0.454,
+    "prob_btts": 0.45,
+    "marcadores": [
+     [
+      "0-1",
+      0.1389
+     ],
+     [
+      "0-2",
+      0.1185
+     ],
+     [
+      "1-1",
+      0.1131
+     ]
+    ],
+    "cuotas_justas": [
+     5.76,
+     4.15,
+     1.71
+    ],
+    "resumen": "Gana Atalanta BC (claro favorito, 59%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.355,
+     "defensa": -0.1,
+     "neto": -0.455,
+     "peso": 47.1,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.26,
+     "defensa": 0.134,
+     "neto": 0.394,
+     "peso": 47.1,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 6,
+     "gc": 10,
+     "racha": [
+      "G",
+      "P",
+      "P",
+      "P",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 9,
+     "gc": 12,
+     "racha": [
+      "P",
+      "E",
+      "E",
+      "P",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-04-06",
+      "local": "US Lecce",
+      "visitante": "Atalanta BC",
+      "goles_local": 0,
+      "goles_visitante": 3
+     },
+     {
+      "fecha": "2025-09-14",
+      "local": "Atalanta BC",
+      "visitante": "US Lecce",
+      "goles_local": 4,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-04-27",
+      "local": "Atalanta BC",
+      "visitante": "US Lecce",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-08-19",
+      "local": "US Lecce",
+      "visitante": "Atalanta BC",
+      "goles_local": 0,
+      "goles_visitante": 4
+     },
+     {
+      "fecha": "2024-05-18",
+      "local": "US Lecce",
+      "visitante": "Atalanta BC",
+      "goles_local": 0,
+      "goles_visitante": 2
+     }
+    ],
+    "explicacion": "Atalanta BC es más fuerte de fondo (neto +0.39 vs -0.46): ataca ~30% más que el promedio, encaja ~13% menos. US Lecce juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.80 – 1.69; el modelo ve marcando más a Atalanta BC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.826,
+     "por_que": "Doble oportunidad: cubre que US Lecce no gane. El escenario que queda afuera (gane US Lecce) es el menos probable (17%), así que el mercado se cumple ~83% de las veces.",
+     "alternativa": {
+      "mercado": "2",
+      "prob": 0.585
+     },
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 558510,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-11-30T19:45:00Z",
+   "jornada": 13,
+   "local": "Cagliari Calcio",
+   "visitante": "AC Milan",
+   "prediccion": {
+    "prob_1": 0.21,
+    "prob_X": 0.245,
+    "prob_2": 0.544,
+    "goles_esperados": [
+     0.943,
+     1.674
+    ],
+    "prob_over_2_5": 0.486,
+    "prob_btts": 0.497,
+    "marcadores": [
+     [
+      "0-1",
+      0.1211
+     ],
+     [
+      "1-1",
+      0.1165
+     ],
+     [
+      "0-2",
+      0.1024
+     ]
+    ],
+    "cuotas_justas": [
+     4.75,
+     4.08,
+     1.84
+    ],
+    "resumen": "Gana AC Milan (ligero favorito, 54%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.136,
+     "defensa": -0.054,
+     "neto": -0.19,
+     "peso": 47.0,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.295,
+     "defensa": 0.188,
+     "neto": 0.483,
+     "peso": 47.1,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 4,
+     "gc": 12,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "P",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 4,
+     "e": 0,
+     "p": 1,
+     "gf": 12,
+     "gc": 8,
+     "racha": [
+      "G",
+      "G",
+      "P",
+      "G",
+      "G"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-05-24",
+      "local": "AC Milan",
+      "visitante": "Cagliari Calcio",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2026-01-02",
+      "local": "Cagliari Calcio",
+      "visitante": "AC Milan",
+      "goles_local": 0,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-01-11",
+      "local": "AC Milan",
+      "visitante": "Cagliari Calcio",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-11-09",
+      "local": "Cagliari Calcio",
+      "visitante": "AC Milan",
+      "goles_local": 3,
+      "goles_visitante": 3
+     },
+     {
+      "fecha": "2024-05-11",
+      "local": "AC Milan",
+      "visitante": "Cagliari Calcio",
+      "goles_local": 5,
+      "goles_visitante": 1
+     }
+    ],
+    "explicacion": "AC Milan es más fuerte de fondo (neto +0.48 vs -0.19): ataca ~34% más que el promedio, encaja ~17% menos. Cagliari Calcio juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.94 – 1.67; el modelo ve marcando más a AC Milan. Y la forma reciente lo confirma: AC Milan llega mejor (4G-0E-1P vs 1G-0E-4P).",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.789,
+     "por_que": "Doble oportunidad: cubre que Cagliari Calcio no gane. El escenario que queda afuera (gane Cagliari Calcio) es el menos probable (21%), así que el mercado se cumple ~79% de las veces.",
+     "alternativa": null,
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 564763,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-11-30T20:00:00Z",
+   "jornada": 14,
+   "local": "RCD Espanyol de Barcelona",
+   "visitante": "Getafe CF",
+   "prediccion": {
+    "prob_1": 0.424,
+    "prob_X": 0.337,
+    "prob_2": 0.239,
+    "goles_esperados": [
+     1.052,
+     0.715
+    ],
+    "prob_over_2_5": 0.26,
+    "prob_btts": 0.338,
+    "marcadores": [
+     [
+      "0-0",
+      0.1767
+     ],
+     [
+      "1-0",
+      0.1739
+     ],
+     [
+      "1-1",
+      0.1343
+     ]
+    ],
+    "cuotas_justas": [
+     2.36,
+     2.96,
+     4.18
+    ],
+    "resumen": "Gana RCD Espanyol de Barcelona (ligero favorito, 42%). pocos goles (-2.5).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.11,
+     "defensa": 0.07,
+     "neto": -0.04,
+     "peso": 42.6,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.361,
+     "defensa": 0.22,
+     "neto": -0.141,
+     "peso": 47.8,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 3,
+     "gc": 4,
+     "racha": [
+      "E",
+      "P",
+      "P",
+      "G",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 1,
+     "p": 3,
+     "gf": 4,
+     "gc": 11,
+     "racha": [
+      "P",
+      "E",
+      "P",
+      "G",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-03-21",
+      "local": "RCD Espanyol de Barcelona",
+      "visitante": "Getafe CF",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-12-13",
+      "local": "Getafe CF",
+      "visitante": "RCD Espanyol de Barcelona",
+      "goles_local": 0,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-04-18",
+      "local": "RCD Espanyol de Barcelona",
+      "visitante": "Getafe CF",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-12-09",
+      "local": "Getafe CF",
+      "visitante": "RCD Espanyol de Barcelona",
+      "goles_local": 1,
+      "goles_visitante": 0
+     }
+    ],
+    "explicacion": "En fuerza de temporada están parejos (neto -0.04 vs -0.14). RCD Espanyol de Barcelona juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.05 – 0.71; el modelo ve marcando más a RCD Espanyol de Barcelona. También parejos en forma (1G-2E-2P vs 1G-1E-3P en 5).",
+    "recomendacion": {
+     "mercado": "Menos de 2.5 goles",
+     "prob": 0.74,
+     "por_que": "Pocos goles esperados en total (1.05 + 0.71 = 1.77); la defensa de Getafe CF aprieta. El modelo ve el partido cerrado (74% al under).",
+     "alternativa": {
+      "mercado": "Menos de 3.5 goles",
+      "prob": 0.897
+     },
+     "confianza": "alta"
+    }
+   }
+  }
+ ]
+}

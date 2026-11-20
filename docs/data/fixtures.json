@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T14:59:12+00:00",
+ "actualizado": "2026-11-20T14:41:02+00:00",
  "fixtures": [
   {
    "id": 565859,
@@ -1110,6 +1110,36 @@
    "jornada": 14,
    "local": "Real Sociedad de Fútbol",
    "visitante": "Sevilla FC"
+  },
+  {
+   "id": 558516,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-11-30T17:30:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "US Lecce",
+   "visitante": "Atalanta BC"
+  },
+  {
+   "id": 558510,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-11-30T19:45:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "Cagliari Calcio",
+   "visitante": "AC Milan"
+  },
+  {
+   "id": 564763,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-11-30T20:00:00Z",
+   "estado": "TIMED",
+   "jornada": 14,
+   "local": "RCD Espanyol de Barcelona",
+   "visitante": "Getafe CF"
   }
  ]
 }
