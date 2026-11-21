@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-25",
- "actualizado": "2026-11-20T14:41:04+00:00",
+ "actualizado": "2026-11-21T13:58:04+00:00",
  "partidos": [
   {
    "id": 575404,
@@ -35,7 +35,7 @@
      ]
     ],
     "cuotas_justas": [
-     10.76,
+     10.75,
      9.01,
      1.26
     ],
@@ -52,8 +52,8 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.642,
-     "defensa": 0.167,
+     "ataque": 0.641,
+     "defensa": 0.166,
      "neto": 0.808,
      "peso": 15.6,
      "fiable": true
@@ -114,7 +114,7 @@
     "prob_X": 0.213,
     "prob_2": 0.353,
     "goles_esperados": [
-     1.752,
+     1.751,
      1.561
     ],
     "prob_over_2_5": 0.643,
@@ -122,7 +122,7 @@
     "marcadores": [
      [
       "1-1",
-      0.0919
+      0.092
      ],
      [
       "2-1",
@@ -135,7 +135,7 @@
     ],
     "cuotas_justas": [
      2.31,
-     4.69,
+     4.68,
      2.83
     ],
     "resumen": "Gana SK Slavia Praha (ligero favorito, 43%). se esperan goles (+2.5). ambos marcan.",
@@ -247,7 +247,7 @@
      "ataque": 0.129,
      "defensa": 0.317,
      "neto": 0.446,
-     "peso": 14.3,
+     "peso": 14.2,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -314,10 +314,10 @@
     "prob_X": 0.151,
     "prob_2": 0.182,
     "goles_esperados": [
-     2.973,
+     2.972,
      1.564
     ],
-    "prob_over_2_5": 0.831,
+    "prob_over_2_5": 0.83,
     "prob_btts": 0.746,
     "marcadores": [
      [
@@ -344,8 +344,8 @@
    "nota": "pocos datos: 'Viking FK' solo tiene 3.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.314,
-     "defensa": 0.218,
+     "ataque": 0.313,
+     "defensa": 0.217,
      "neto": 0.531,
      "peso": 16.8,
      "fiable": true
@@ -390,7 +390,7 @@
     "explicacion": "Club Atlético de Madrid es más fuerte de fondo (neto +0.53 vs +0.18): ataca ~37% más que el promedio, encaja ~20% menos. Club Atlético de Madrid juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.97 – 1.56; el modelo ve marcando más a Club Atlético de Madrid. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento. El modelo tiene pocos datos de Viking FK: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.831,
+     "prob": 0.83,
      "por_que": "Bastantes goles esperados (2.97 + 1.56 = 4.54); al menos una defensa floja. Probabilidad al over: 83%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -413,7 +413,7 @@
     "prob_X": 0.063,
     "prob_2": 0.045,
     "goles_esperados": [
-     4.435,
+     4.434,
      1.135
     ],
     "prob_over_2_5": 0.915,
@@ -434,8 +434,8 @@
     ],
     "cuotas_justas": [
      1.12,
-     15.8,
-     22.21
+     15.79,
+     22.19
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 89%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -446,7 +446,7 @@
      "ataque": 0.766,
      "defensa": 0.387,
      "neto": 1.153,
-     "peso": 20.2,
+     "peso": 20.1,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -528,7 +528,7 @@
      ],
      [
       "2-1",
-      0.0718
+      0.0719
      ]
     ],
     "cuotas_justas": [
@@ -609,7 +609,7 @@
    "prediccion": {
     "prob_1": 0.15,
     "prob_X": 0.153,
-    "prob_2": 0.697,
+    "prob_2": 0.696,
     "goles_esperados": [
      1.174,
      2.668
@@ -641,7 +641,7 @@
    "nota": "pocos datos: 'Lille OSC' solo tiene 6.3 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.046,
+     "ataque": -0.047,
      "defensa": -0.028,
      "neto": -0.075,
      "peso": 6.3,
@@ -650,7 +650,7 @@
     "fuerza_visitante": {
      "ataque": 0.636,
      "defensa": 0.399,
-     "neto": 1.036,
+     "neto": 1.035,
      "peso": 17.2,
      "fiable": true
     },
@@ -685,11 +685,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.04 vs -0.07): ataca ~89% más que el promedio, encaja ~33% menos. Lille OSC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.17 – 2.67; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (2G-3E-0P vs 0G-1E-4P). El modelo tiene pocos datos de Lille OSC: tomalo con pinzas.",
+    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.03 vs -0.07): ataca ~89% más que el promedio, encaja ~33% menos. Lille OSC juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.17 – 2.67; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (2G-3E-0P vs 0G-1E-4P). El modelo tiene pocos datos de Lille OSC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "2",
-     "prob": 0.697,
-     "por_que": "El modelo ve a FC Bayern München marcando más que Lille OSC pese a la localía (2.67 vs 1.17), y lo respalda una diferencia de fuerza clara (neto +1.04 vs -0.07). Probabilidad del modelo: 70%.",
+     "prob": 0.696,
+     "por_que": "El modelo ve a FC Bayern München marcando más que Lille OSC pese a la localía (2.67 vs 1.17), y lo respalda una diferencia de fuerza clara (neto +1.03 vs -0.07). Probabilidad del modelo: 70%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.891
@@ -715,7 +715,7 @@
      1.099
     ],
     "prob_over_2_5": 0.569,
-    "prob_btts": 0.555,
+    "prob_btts": 0.556,
     "marcadores": [
      [
       "1-0",
@@ -741,7 +741,7 @@
    "nota": "pocos datos: 'Manchester United FC' solo tiene 4.4 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.088,
+     "ataque": 0.087,
      "defensa": 0.341,
      "neto": 0.428,
      "peso": 12.9,
@@ -808,10 +808,10 @@
    "visitante": "Fenerbahçe SK",
    "prediccion": {
     "prob_1": 0.604,
-    "prob_X": 0.193,
+    "prob_X": 0.194,
     "prob_2": 0.202,
     "goles_esperados": [
-     2.069,
+     2.068,
      1.099
     ],
     "prob_over_2_5": 0.613,
@@ -844,11 +844,11 @@
      "ataque": -0.22,
      "defensa": 0.151,
      "neto": -0.069,
-     "peso": 6.5,
+     "peso": 6.4,
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": -0.071,
+     "ataque": -0.072,
      "defensa": -0.341,
      "neto": -0.412,
      "peso": 3.7,

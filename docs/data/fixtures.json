@@ -1,42 +1,12 @@
 {
- "actualizado": "2026-11-20T14:41:02+00:00",
+ "actualizado": "2026-11-21T13:58:01+00:00",
  "fixtures": [
-  {
-   "id": 565859,
-   "competicion_codigo": "BL1",
-   "competicion": "Bundesliga",
-   "fecha_utc": "2026-11-20T19:30:00Z",
-   "estado": "TIMED",
-   "jornada": 10,
-   "local": "FC Bayern München",
-   "visitante": "1. FC Köln"
-  },
-  {
-   "id": 559622,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-11-20T19:45:00Z",
-   "estado": "TIMED",
-   "jornada": 11,
-   "local": "ES Troyes AC",
-   "visitante": "Le Havre AC"
-  },
-  {
-   "id": 564748,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-11-20T20:00:00Z",
-   "estado": "TIMED",
-   "jornada": 13,
-   "local": "Athletic Club",
-   "visitante": "RCD Espanyol de Barcelona"
-  },
   {
    "id": 560643,
    "competicion_codigo": "PL",
    "competicion": "Premier League",
    "fecha_utc": "2026-11-21T12:30:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 11,
    "local": "Manchester City FC",
    "visitante": "Fulham FC"
@@ -46,7 +16,7 @@
    "competicion_codigo": "PD",
    "competicion": "La Liga",
    "fecha_utc": "2026-11-21T13:00:00Z",
-   "estado": "TIMED",
+   "estado": "IN_PLAY",
    "jornada": 13,
    "local": "Deportivo Alavés",
    "visitante": "RC Deportivo La Coruña"
@@ -1140,6 +1110,16 @@
    "jornada": 14,
    "local": "RCD Espanyol de Barcelona",
    "visitante": "Getafe CF"
+  },
+  {
+   "id": 560668,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-12-01T20:00:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "Coventry City FC",
+   "visitante": "Ipswich Town FC"
   }
  ]
 }

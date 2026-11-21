@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-30",
- "actualizado": "2026-11-20T14:41:04+00:00",
+ "actualizado": "2026-11-21T13:58:04+00:00",
  "partidos": [
   {
    "id": 558516,
@@ -47,14 +47,14 @@
      "ataque": -0.355,
      "defensa": -0.1,
      "neto": -0.455,
-     "peso": 47.1,
+     "peso": 47.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.26,
      "defensa": 0.134,
      "neto": 0.394,
-     "peso": 47.1,
+     "peso": 47.0,
      "fiable": true
     },
     "forma_local": {
@@ -148,9 +148,9 @@
    "prediccion": {
     "prob_1": 0.21,
     "prob_X": 0.245,
-    "prob_2": 0.544,
+    "prob_2": 0.545,
     "goles_esperados": [
-     0.943,
+     0.942,
      1.674
     ],
     "prob_over_2_5": 0.486,
@@ -182,7 +182,7 @@
      "ataque": -0.136,
      "defensa": -0.054,
      "neto": -0.19,
-     "peso": 47.0,
+     "peso": 46.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -262,7 +262,7 @@
     "explicacion": "AC Milan es más fuerte de fondo (neto +0.48 vs -0.19): ataca ~34% más que el promedio, encaja ~17% menos. Cagliari Calcio juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.94 – 1.67; el modelo ve marcando más a AC Milan. Y la forma reciente lo confirma: AC Milan llega mejor (4G-0E-1P vs 1G-0E-4P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.789,
+     "prob": 0.79,
      "por_que": "Doble oportunidad: cubre que Cagliari Calcio no gane. El escenario que queda afuera (gane Cagliari Calcio) es el menos probable (21%), así que el mercado se cumple ~79% de las veces.",
      "alternativa": null,
      "confianza": "alta"
@@ -278,65 +278,65 @@
    "local": "RCD Espanyol de Barcelona",
    "visitante": "Getafe CF",
    "prediccion": {
-    "prob_1": 0.424,
-    "prob_X": 0.337,
-    "prob_2": 0.239,
+    "prob_1": 0.429,
+    "prob_X": 0.336,
+    "prob_2": 0.234,
     "goles_esperados": [
-     1.052,
-     0.715
+     1.055,
+     0.7
     ],
-    "prob_over_2_5": 0.26,
-    "prob_btts": 0.338,
+    "prob_over_2_5": 0.257,
+    "prob_btts": 0.333,
     "marcadores": [
      [
       "0-0",
-      0.1767
+      0.178
      ],
      [
       "1-0",
-      0.1739
+      0.1774
      ],
      [
       "1-1",
-      0.1343
+      0.1327
      ]
     ],
     "cuotas_justas": [
-     2.36,
-     2.96,
-     4.18
+     2.33,
+     2.97,
+     4.26
     ],
-    "resumen": "Gana RCD Espanyol de Barcelona (ligero favorito, 42%). pocos goles (-2.5).",
+    "resumen": "Gana RCD Espanyol de Barcelona (ligero favorito, 43%). pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.11,
-     "defensa": 0.07,
-     "neto": -0.04,
-     "peso": 42.6,
+     "ataque": -0.108,
+     "defensa": 0.094,
+     "neto": -0.014,
+     "peso": 43.5,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.361,
-     "defensa": 0.22,
-     "neto": -0.141,
-     "peso": 47.8,
+     "ataque": -0.36,
+     "defensa": 0.218,
+     "neto": -0.142,
+     "peso": 47.7,
      "fiable": true
     },
     "forma_local": {
      "pj": 5,
-     "g": 1,
-     "e": 2,
+     "g": 2,
+     "e": 1,
      "p": 2,
      "gf": 3,
-     "gc": 4,
+     "gc": 3,
      "racha": [
-      "E",
       "P",
       "P",
       "G",
-      "E"
+      "E",
+      "G"
      ]
     },
     "forma_visitante": {
@@ -384,14 +384,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto -0.04 vs -0.14). RCD Espanyol de Barcelona juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.05 – 0.71; el modelo ve marcando más a RCD Espanyol de Barcelona. También parejos en forma (1G-2E-2P vs 1G-1E-3P en 5).",
+    "explicacion": "RCD Espanyol de Barcelona es más fuerte de fondo (neto -0.01 vs -0.14): es más completo en general. RCD Espanyol de Barcelona juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.05 – 0.70; el modelo ve marcando más a RCD Espanyol de Barcelona. Y la forma reciente lo confirma: RCD Espanyol de Barcelona llega mejor (2G-1E-2P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.74,
-     "por_que": "Pocos goles esperados en total (1.05 + 0.71 = 1.77); la defensa de Getafe CF aprieta. El modelo ve el partido cerrado (74% al under).",
+     "prob": 0.743,
+     "por_que": "Pocos goles esperados en total (1.05 + 0.70 = 1.75); la defensa de Getafe CF aprieta. El modelo ve el partido cerrado (74% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
-      "prob": 0.897
+      "prob": 0.898
      },
      "confianza": "alta"
     }

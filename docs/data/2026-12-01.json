@@ -1,0 +1,105 @@
+{
+ "fecha": "2026-12-01",
+ "actualizado": "2026-11-21T13:58:04+00:00",
+ "partidos": [
+  {
+   "id": 560668,
+   "competicion": "Premier League",
+   "competicion_codigo": "PL",
+   "fecha_utc": "2026-12-01T20:00:00Z",
+   "jornada": 13,
+   "local": "Coventry City FC",
+   "visitante": "Ipswich Town FC",
+   "prediccion": {
+    "prob_1": 0.473,
+    "prob_X": 0.237,
+    "prob_2": 0.29,
+    "goles_esperados": [
+     1.874,
+     1.436
+    ],
+    "prob_over_2_5": 0.642,
+    "prob_btts": 0.651,
+    "marcadores": [
+     [
+      "1-1",
+      0.1047
+     ],
+     [
+      "2-1",
+      0.0921
+     ],
+     [
+      "1-2",
+      0.0705
+     ]
+    ],
+    "cuotas_justas": [
+     2.11,
+     4.22,
+     3.45
+    ],
+    "resumen": "Gana Coventry City FC (ligero favorito, 47%). se esperan goles (+2.5). ambos marcan.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.108,
+     "defensa": -0.199,
+     "neto": -0.307,
+     "peso": 9.1,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.06,
+     "defensa": -0.329,
+     "neto": -0.389,
+     "peso": 19.6,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 2,
+     "e": 0,
+     "p": 3,
+     "gf": 9,
+     "gc": 9,
+     "racha": [
+      "G",
+      "P",
+      "P",
+      "G",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 8,
+     "gc": 9,
+     "racha": [
+      "G",
+      "P",
+      "E",
+      "E",
+      "P"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "En fuerza de temporada están parejos (neto -0.31 vs -0.39). Coventry City FC juega en casa (~+20% de ventaja, ya contada). Goles esperados: 1.87 – 1.44; el modelo ve marcando más a Coventry City FC. También parejos en forma (2G-0E-3P vs 1G-2E-2P en 5).",
+    "recomendacion": {
+     "mercado": "Ambos marcan: Sí",
+     "prob": 0.651,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.87 y 1.44. Probabilidad: 65%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.849
+     },
+     "confianza": "alta"
+    }
+   }
+  }
+ ]
+}
