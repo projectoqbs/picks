@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-30",
- "actualizado": "2026-11-22T13:51:18+00:00",
+ "actualizado": "2026-11-22T20:33:00+00:00",
  "partidos": [
   {
    "id": 558516,
@@ -12,18 +12,18 @@
    "visitante": "Atalanta BC",
    "prediccion": {
     "prob_1": 0.169,
-    "prob_X": 0.238,
-    "prob_2": 0.593,
+    "prob_X": 0.24,
+    "prob_2": 0.591,
     "goles_esperados": [
-     0.787,
-     1.708
+     0.786,
+     1.703
     ],
-    "prob_over_2_5": 0.455,
-    "prob_btts": 0.447,
+    "prob_over_2_5": 0.453,
+    "prob_btts": 0.446,
     "marcadores": [
      [
       "0-1",
-      0.1402
+      0.1401
      ],
      [
       "0-2",
@@ -31,12 +31,12 @@
      ],
      [
       "1-1",
-      0.1116
+      0.1123
      ]
     ],
     "cuotas_justas": [
-     5.91,
-     4.2,
+     5.92,
+     4.17,
      1.69
     ],
     "resumen": "Gana Atalanta BC (claro favorito, 59%).",
@@ -45,15 +45,15 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.37,
-     "defensa": -0.113,
-     "neto": -0.483,
+     "defensa": -0.11,
+     "neto": -0.48,
      "peso": 47.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.258,
-     "defensa": 0.138,
-     "neto": 0.396,
+     "ataque": 0.257,
+     "defensa": 0.141,
+     "neto": 0.398,
      "peso": 46.9,
      "fiable": true
     },
@@ -124,14 +124,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Atalanta BC es más fuerte de fondo (neto +0.40 vs -0.48): ataca ~29% más que el promedio, encaja ~13% menos. US Lecce juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.79 – 1.71; el modelo ve marcando más a Atalanta BC. Y la forma reciente lo confirma: Atalanta BC llega mejor (1G-2E-2P vs 0G-1E-4P).",
+    "explicacion": "Atalanta BC es más fuerte de fondo (neto +0.40 vs -0.48): ataca ~29% más que el promedio, encaja ~13% menos. US Lecce juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.79 – 1.70; el modelo ve marcando más a Atalanta BC. Y la forma reciente lo confirma: Atalanta BC llega mejor (1G-2E-2P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.831,
      "por_que": "Doble oportunidad: cubre que US Lecce no gane. El escenario que queda afuera (gane US Lecce) es el menos probable (17%), así que el mercado se cumple ~83% de las veces.",
      "alternativa": {
       "mercado": "2",
-      "prob": 0.593
+      "prob": 0.591
      },
      "confianza": "alta"
     }
@@ -146,50 +146,50 @@
    "local": "Cagliari Calcio",
    "visitante": "AC Milan",
    "prediccion": {
-    "prob_1": 0.208,
-    "prob_X": 0.244,
-    "prob_2": 0.547,
+    "prob_1": 0.199,
+    "prob_X": 0.24,
+    "prob_2": 0.562,
     "goles_esperados": [
-     0.93,
-     1.669
+     0.924,
+     1.725
     ],
-    "prob_over_2_5": 0.481,
-    "prob_btts": 0.492,
+    "prob_over_2_5": 0.494,
+    "prob_btts": 0.497,
     "marcadores": [
      [
       "0-1",
-      0.1234
+      0.1207
      ],
      [
       "1-1",
-      0.1161
+      0.114
      ],
      [
       "0-2",
-      0.1036
+      0.1053
      ]
     ],
     "cuotas_justas": [
-     4.8,
-     4.09,
-     1.83
+     5.03,
+     4.17,
+     1.78
     ],
-    "resumen": "Gana AC Milan (ligero favorito, 55%).",
+    "resumen": "Gana AC Milan (claro favorito, 56%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.15,
-     "defensa": -0.053,
-     "neto": -0.203,
-     "peso": 47.9,
+     "ataque": -0.152,
+     "defensa": -0.05,
+     "neto": -0.201,
+     "peso": 47.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.295,
-     "defensa": 0.19,
-     "neto": 0.485,
-     "peso": 47.0,
+     "ataque": 0.33,
+     "defensa": 0.198,
+     "neto": 0.528,
+     "peso": 47.9,
      "fiable": true
     },
     "forma_local": {
@@ -212,12 +212,12 @@
      "g": 4,
      "e": 0,
      "p": 1,
-     "gf": 12,
-     "gc": 8,
+     "gf": 14,
+     "gc": 7,
      "racha": [
       "G",
-      "G",
       "P",
+      "G",
       "G",
       "G"
      ]
@@ -259,12 +259,15 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "AC Milan es más fuerte de fondo (neto +0.48 vs -0.20): ataca ~34% más que el promedio, encaja ~17% menos. Cagliari Calcio juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.93 – 1.67; el modelo ve marcando más a AC Milan. Y la forma reciente lo confirma: AC Milan llega mejor (4G-0E-1P vs 1G-0E-4P).",
+    "explicacion": "AC Milan es más fuerte de fondo (neto +0.53 vs -0.20): ataca ~39% más que el promedio, encaja ~18% menos. Cagliari Calcio juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.92 – 1.73; el modelo ve marcando más a AC Milan. Y la forma reciente lo confirma: AC Milan llega mejor (4G-0E-1P vs 1G-0E-4P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.791,
-     "por_que": "Doble oportunidad: cubre que Cagliari Calcio no gane. El escenario que queda afuera (gane Cagliari Calcio) es el menos probable (21%), así que el mercado se cumple ~79% de las veces.",
-     "alternativa": null,
+     "prob": 0.801,
+     "por_que": "Doble oportunidad: cubre que Cagliari Calcio no gane. El escenario que queda afuera (gane Cagliari Calcio) es el menos probable (20%), así que el mercado se cumple ~80% de las veces.",
+     "alternativa": {
+      "mercado": "2",
+      "prob": 0.562
+     },
      "confianza": "alta"
     }
    }
@@ -279,7 +282,7 @@
    "visitante": "Getafe CF",
    "prediccion": {
     "prob_1": 0.429,
-    "prob_X": 0.336,
+    "prob_X": 0.335,
     "prob_2": 0.235,
     "goles_esperados": [
      1.054,
@@ -289,38 +292,38 @@
     "prob_btts": 0.333,
     "marcadores": [
      [
-      "0-0",
-      0.178
+      "1-0",
+      0.1779
      ],
      [
-      "1-0",
-      0.1775
+      "0-0",
+      0.1774
      ],
      [
       "1-1",
-      0.1326
+      0.1322
      ]
     ],
     "cuotas_justas": [
      2.33,
-     2.97,
-     4.26
+     2.98,
+     4.25
     ],
     "resumen": "Gana RCD Espanyol de Barcelona (ligero favorito, 43%). pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.109,
-     "defensa": 0.096,
+     "ataque": -0.108,
+     "defensa": 0.095,
      "neto": -0.013,
      "peso": 43.4,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.36,
-     "defensa": 0.221,
-     "neto": -0.14,
+     "ataque": -0.359,
+     "defensa": 0.22,
+     "neto": -0.139,
      "peso": 47.6,
      "fiable": true
     },
@@ -391,7 +394,7 @@
      "por_que": "Pocos goles esperados en total (1.05 + 0.70 = 1.75); la defensa de Getafe CF aprieta. El modelo ve el partido cerrado (74% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
-      "prob": 0.899
+      "prob": 0.898
      },
      "confianza": "alta"
     }

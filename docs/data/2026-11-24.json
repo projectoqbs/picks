@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-24",
- "actualizado": "2026-11-22T13:51:18+00:00",
+ "actualizado": "2026-11-22T20:33:00+00:00",
  "partidos": [
   {
    "id": 575395,
@@ -27,11 +27,11 @@
      ],
      [
       "1-1",
-      0.0871
+      0.0872
      ],
      [
       "0-1",
-      0.0766
+      0.0767
      ]
     ],
     "cuotas_justas": [
@@ -46,7 +46,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.107,
-     "defensa": -0.023,
+     "defensa": -0.022,
      "neto": 0.084,
      "peso": 10.8,
      "fiable": true
@@ -214,7 +214,7 @@
     "prob_X": 0.138,
     "prob_2": 0.134,
     "goles_esperados": [
-     2.981,
+     2.98,
      1.251
     ],
     "prob_over_2_5": 0.794,
@@ -246,12 +246,12 @@
      "ataque": 0.544,
      "defensa": 0.134,
      "neto": 0.678,
-     "peso": 17.2,
+     "peso": 17.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.041,
-     "defensa": 0.057,
+     "defensa": 0.058,
      "neto": 0.098,
      "peso": 11.9,
      "fiable": true
@@ -428,7 +428,7 @@
     "marcadores": [
      [
       "2-0",
-      0.1233
+      0.1234
      ],
      [
       "1-0",
@@ -440,9 +440,9 @@
      ]
     ],
     "cuotas_justas": [
-     1.39,
+     1.38,
      6.18,
-     8.61
+     8.62
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 72%). se esperan goles (+2.5).",
     "confianza": "alta"
@@ -619,8 +619,8 @@
     "prob_X": 0.145,
     "prob_2": 0.739,
     "goles_esperados": [
-     0.913,
-     2.588
+     0.912,
+     2.587
     ],
     "prob_over_2_5": 0.679,
     "prob_btts": 0.548,
@@ -631,7 +631,7 @@
      ],
      [
       "1-2",
-      0.0922
+      0.0923
      ],
      [
       "0-3",
@@ -740,7 +740,7 @@
     "cuotas_justas": [
      1.37,
      6.91,
-     7.96
+     7.95
     ],
     "resumen": "Gana RB Leipzig (claro favorito, 73%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -748,7 +748,7 @@
    "nota": "pocos datos: 'Racing Club de Lens' solo tiene 4.4 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.124,
+     "ataque": -0.125,
      "defensa": -0.009,
      "neto": -0.133,
      "peso": 6.7,
@@ -818,7 +818,7 @@
     "prob_X": 0.04,
     "prob_2": 0.026,
     "goles_esperados": [
-     5.39,
+     5.389,
      1.201
     ],
     "prob_over_2_5": 0.959,
@@ -839,8 +839,8 @@
     ],
     "cuotas_justas": [
      1.07,
-     24.99,
-     37.93
+     24.98,
+     37.91
     ],
     "resumen": "Gana Como 1907 (claro favorito, 93%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
