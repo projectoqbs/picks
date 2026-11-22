@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-24",
- "actualizado": "2026-11-21T20:22:02+00:00",
+ "actualizado": "2026-11-22T13:51:18+00:00",
  "partidos": [
   {
    "id": 575395,
@@ -48,7 +48,7 @@
      "ataque": 0.107,
      "defensa": -0.023,
      "neto": 0.084,
-     "peso": 10.9,
+     "peso": 10.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -115,10 +115,10 @@
     "prob_X": 0.178,
     "prob_2": 0.286,
     "goles_esperados": [
-     2.565,
+     2.564,
      1.874
     ],
-    "prob_over_2_5": 0.82,
+    "prob_over_2_5": 0.819,
     "prob_btts": 0.777,
     "marcadores": [
      [
@@ -147,7 +147,7 @@
     "fuerza_local": {
      "ataque": 0.064,
      "defensa": -0.035,
-     "neto": 0.03,
+     "neto": 0.029,
      "peso": 10.1,
      "fiable": true
     },
@@ -191,7 +191,7 @@
     "explicacion": "En fuerza de temporada están parejos (neto +0.03 vs +0.01). FK Bodø/Glimt juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.56 – 1.87; el modelo ve marcando más a FK Bodø/Glimt. En forma reciente pinta algo mejor LASK Linz (1G-1E-3P vs 2G-0E-2P en 5). El modelo tiene pocos datos de LASK Linz: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
-     "prob": 0.82,
+     "prob": 0.819,
      "por_que": "Bastantes goles esperados (2.56 + 1.87 = 4.44); al menos una defensa floja. Probabilidad al over: 82%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -214,7 +214,7 @@
     "prob_X": 0.138,
     "prob_2": 0.134,
     "goles_esperados": [
-     2.98,
+     2.981,
      1.251
     ],
     "prob_over_2_5": 0.794,
@@ -251,8 +251,8 @@
     },
     "fuerza_visitante": {
      "ataque": 0.041,
-     "defensa": 0.058,
-     "neto": 0.099,
+     "defensa": 0.057,
+     "neto": 0.098,
      "peso": 11.9,
      "fiable": true
     },
@@ -428,7 +428,7 @@
     "marcadores": [
      [
       "2-0",
-      0.1234
+      0.1233
      ],
      [
       "1-0",
@@ -556,7 +556,7 @@
      "fiable": false
     },
     "fuerza_visitante": {
-     "ataque": 0.037,
+     "ataque": 0.036,
      "defensa": -0.004,
      "neto": 0.032,
      "peso": 4.7,
@@ -619,7 +619,7 @@
     "prob_X": 0.145,
     "prob_2": 0.739,
     "goles_esperados": [
-     0.912,
+     0.913,
      2.588
     ],
     "prob_over_2_5": 0.679,
@@ -639,8 +639,8 @@
      ]
     ],
     "cuotas_justas": [
-     8.67,
-     6.88,
+     8.66,
+     6.87,
      1.35
     ],
     "resumen": "Gana Real Betis Balompié (claro favorito, 74%). se esperan goles (+2.5).",
@@ -748,7 +748,7 @@
    "nota": "pocos datos: 'Racing Club de Lens' solo tiene 4.4 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.125,
+     "ataque": -0.124,
      "defensa": -0.009,
      "neto": -0.133,
      "peso": 6.7,
@@ -818,7 +818,7 @@
     "prob_X": 0.04,
     "prob_2": 0.026,
     "goles_esperados": [
-     5.391,
+     5.39,
      1.201
     ],
     "prob_over_2_5": 0.959,
@@ -839,8 +839,8 @@
     ],
     "cuotas_justas": [
      1.07,
-     25.01,
-     37.97
+     24.99,
+     37.93
     ],
     "resumen": "Gana Como 1907 (claro favorito, 93%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -856,7 +856,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.146,
-     "defensa": -0.261,
+     "defensa": -0.26,
      "neto": -0.407,
      "peso": 3.7,
      "fiable": false

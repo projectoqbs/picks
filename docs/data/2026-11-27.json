@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-27",
- "actualizado": "2026-11-21T20:22:02+00:00",
+ "actualizado": "2026-11-22T13:51:18+00:00",
  "partidos": [
   {
    "id": 565869,
@@ -54,7 +54,7 @@
      "ataque": -0.037,
      "defensa": -0.11,
      "neto": -0.146,
-     "peso": 42.2,
+     "peso": 42.1,
      "fiable": true
     },
     "forma_local": {
@@ -146,65 +146,65 @@
    "local": "Venezia FC",
    "visitante": "Bologna FC 1909",
    "prediccion": {
-    "prob_1": 0.202,
-    "prob_X": 0.258,
-    "prob_2": 0.54,
+    "prob_1": 0.185,
+    "prob_X": 0.248,
+    "prob_2": 0.567,
     "goles_esperados": [
-     0.836,
-     1.547
+     0.815,
+     1.631
     ],
-    "prob_over_2_5": 0.426,
-    "prob_btts": 0.447,
+    "prob_over_2_5": 0.442,
+    "prob_btts": 0.449,
     "marcadores": [
      [
       "0-1",
-      0.1416
+      0.1406
      ],
      [
       "1-1",
-      0.1205
+      0.1159
      ],
      [
       "0-2",
-      0.1104
+      0.1153
      ]
     ],
     "cuotas_justas": [
-     4.96,
-     3.87,
-     1.85
+     5.4,
+     4.04,
+     1.76
     ],
-    "resumen": "Gana Bologna FC 1909 (ligero favorito, 54%).",
+    "resumen": "Gana Bologna FC 1909 (claro favorito, 57%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.335,
-     "defensa": -0.141,
-     "neto": -0.476,
-     "peso": 20.5,
+     "ataque": -0.363,
+     "defensa": -0.194,
+     "neto": -0.558,
+     "peso": 21.5,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.129,
+     "ataque": 0.131,
      "defensa": 0.109,
-     "neto": 0.238,
+     "neto": 0.24,
      "peso": 47.0,
      "fiable": true
     },
     "forma_local": {
      "pj": 5,
-     "g": 2,
+     "g": 1,
      "e": 0,
-     "p": 3,
-     "gf": 3,
-     "gc": 5,
+     "p": 4,
+     "gf": 2,
+     "gc": 9,
      "racha": [
+      "P",
+      "P",
+      "P",
       "G",
-      "P",
-      "P",
-      "P",
-      "G"
+      "P"
      ]
     },
     "forma_visitante": {
@@ -238,14 +238,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Bologna FC 1909 es más fuerte de fondo (neto +0.24 vs -0.48): ataca ~14% más que el promedio, encaja ~10% menos. Venezia FC juega en casa (~+10% de ventaja, ya contada). Goles esperados: 0.84 – 1.55; el modelo ve marcando más a Bologna FC 1909. Y la forma reciente lo confirma: Bologna FC 1909 llega mejor (4G-0E-1P vs 2G-0E-3P).",
+    "explicacion": "Bologna FC 1909 es más fuerte de fondo (neto +0.24 vs -0.56): ataca ~14% más que el promedio, encaja ~10% menos. Venezia FC juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.81 – 1.63; el modelo ve marcando más a Bologna FC 1909. Y la forma reciente lo confirma: Bologna FC 1909 llega mejor (4G-0E-1P vs 1G-0E-4P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.798,
-     "por_que": "Doble oportunidad: cubre que Venezia FC no gane. El escenario que queda afuera (gane Venezia FC) es el menos probable (20%), así que el mercado se cumple ~80% de las veces.",
+     "prob": 0.815,
+     "por_que": "Doble oportunidad: cubre que Venezia FC no gane. El escenario que queda afuera (gane Venezia FC) es el menos probable (19%), así que el mercado se cumple ~81% de las veces.",
      "alternativa": {
-      "mercado": "Menos de 2.5 goles",
-      "prob": 0.574
+      "mercado": "2",
+      "prob": 0.567
      },
      "confianza": "alta"
     }
@@ -260,48 +260,48 @@
    "local": "Stade Brestois 29",
    "visitante": "Paris FC",
    "prediccion": {
-    "prob_1": 0.376,
+    "prob_1": 0.38,
     "prob_X": 0.261,
-    "prob_2": 0.364,
+    "prob_2": 0.359,
     "goles_esperados": [
-     1.438,
-     1.411
+     1.428,
+     1.381
     ],
-    "prob_over_2_5": 0.542,
-    "prob_btts": 0.582,
+    "prob_over_2_5": 0.533,
+    "prob_btts": 0.574,
     "marcadores": [
      [
       "1-1",
-      0.1227
+      0.1232
      ],
      [
       "2-1",
-      0.0845
+      0.0849
      ],
      [
       "1-2",
-      0.0829
+      0.0821
      ]
     ],
     "cuotas_justas": [
-     2.66,
-     3.84,
-     2.75
+     2.63,
+     3.83,
+     2.79
     ],
-    "resumen": "Partido parejo. ambos marcan.",
+    "resumen": "Partido parejo.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.113,
-     "defensa": -0.016,
-     "neto": 0.097,
-     "peso": 41.8,
+     "ataque": 0.109,
+     "defensa": 0.01,
+     "neto": 0.119,
+     "peso": 42.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.134,
-     "defensa": 0.152,
+     "ataque": 0.137,
+     "defensa": 0.149,
      "neto": 0.286,
      "peso": 27.7,
      "fiable": true
@@ -311,12 +311,12 @@
      "g": 3,
      "e": 1,
      "p": 1,
-     "gf": 11,
-     "gc": 4,
+     "gf": 7,
+     "gc": 3,
      "racha": [
-      "G",
       "E",
       "P",
+      "G",
       "G",
       "G"
      ]
@@ -352,14 +352,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Paris FC es más fuerte de fondo (neto +0.29 vs +0.10): ataca ~14% más que el promedio, encaja ~14% menos. Stade Brestois 29 juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.44 – 1.41; el modelo ve marcando más a Stade Brestois 29. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Paris FC es más fuerte de fondo (neto +0.29 vs +0.12): ataca ~15% más que el promedio, encaja ~14% menos. Stade Brestois 29 juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.43 – 1.38; el modelo ve marcando más a Stade Brestois 29. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.624,
+     "prob": 0.62,
      "por_que": "Doble oportunidad: cubre que Stade Brestois 29 no gane. El escenario que queda afuera (gane Stade Brestois 29) es el menos probable (38%), así que el mercado se cumple ~62% de las veces.",
      "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.782
+      "mercado": "Ambos marcan: Sí",
+      "prob": 0.574
      },
      "confianza": "alta"
     }
@@ -378,7 +378,7 @@
     "prob_X": 0.181,
     "prob_2": 0.189,
     "goles_esperados": [
-     2.613,
+     2.612,
      1.411
     ],
     "prob_over_2_5": 0.765,
@@ -399,8 +399,8 @@
     ],
     "cuotas_justas": [
      1.59,
-     5.52,
-     5.31
+     5.51,
+     5.3
     ],
     "resumen": "Gana Levante UD (claro favorito, 63%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -409,13 +409,13 @@
     "fuerza_local": {
      "ataque": 0.083,
      "defensa": -0.105,
-     "neto": -0.023,
+     "neto": -0.022,
      "peso": 32.0,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.14,
-     "defensa": -0.496,
+     "defensa": -0.495,
      "neto": -0.356,
      "peso": 10.8,
      "fiable": true
@@ -493,7 +493,7 @@
      ],
      [
       "1-2",
-      0.0836
+      0.0835
      ]
     ],
     "cuotas_justas": [
@@ -509,7 +509,7 @@
      "ataque": -0.044,
      "defensa": 0.111,
      "neto": 0.066,
-     "peso": 46.7,
+     "peso": 46.6,
      "fiable": true
     },
     "fuerza_visitante": {

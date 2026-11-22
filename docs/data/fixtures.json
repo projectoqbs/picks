@@ -1,76 +1,6 @@
 {
- "actualizado": "2026-11-21T20:22:00+00:00",
+ "actualizado": "2026-11-22T13:51:16+00:00",
  "fixtures": [
-  {
-   "id": 558527,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-11-21T19:45:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 12,
-   "local": "SSC Napoli",
-   "visitante": "Torino FC"
-  },
-  {
-   "id": 559621,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-11-21T19:45:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 11,
-   "local": "AS Monaco FC",
-   "visitante": "AJ Auxerre"
-  },
-  {
-   "id": 559623,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-11-21T19:45:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 11,
-   "local": "Racing Club de Lens",
-   "visitante": "Toulouse FC"
-  },
-  {
-   "id": 559624,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-11-21T19:45:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 11,
-   "local": "Lille OSC",
-   "visitante": "Olympique Lyonnais"
-  },
-  {
-   "id": 559627,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-11-21T19:45:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 11,
-   "local": "RC Strasbourg Alsace",
-   "visitante": "Stade Brestois 29"
-  },
-  {
-   "id": 564754,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-11-21T20:00:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 13,
-   "local": "Real Madrid CF",
-   "visitante": "RC Celta de Vigo"
-  },
-  {
-   "id": 558521,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-11-22T11:30:00Z",
-   "estado": "TIMED",
-   "jornada": 12,
-   "local": "Juventus FC",
-   "visitante": "Venezia FC"
-  },
   {
    "id": 564749,
    "competicion_codigo": "PD",
@@ -920,6 +850,106 @@
    "jornada": 13,
    "local": "Coventry City FC",
    "visitante": "Ipswich Town FC"
+  },
+  {
+   "id": 564855,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-12-02T18:00:00Z",
+   "estado": "TIMED",
+   "jornada": 23,
+   "local": "Real Sociedad de Fútbol",
+   "visitante": "Real Madrid CF"
+  },
+  {
+   "id": 560663,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-12-02T19:30:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "Liverpool FC",
+   "visitante": "Sunderland AFC"
+  },
+  {
+   "id": 560664,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-12-02T19:30:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "Hull City AFC",
+   "visitante": "Nottingham Forest FC"
+  },
+  {
+   "id": 560665,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-12-02T19:30:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "Chelsea FC",
+   "visitante": "Crystal Palace FC"
+  },
+  {
+   "id": 560669,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-12-02T19:30:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "Manchester City FC",
+   "visitante": "Leeds United FC"
+  },
+  {
+   "id": 560666,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-12-02T20:15:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "Aston Villa FC",
+   "visitante": "Everton FC"
+  },
+  {
+   "id": 560667,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-12-02T20:15:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "Brentford FC",
+   "visitante": "Arsenal FC"
+  },
+  {
+   "id": 560670,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-12-02T20:15:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "Newcastle United FC",
+   "visitante": "Manchester United FC"
+  },
+  {
+   "id": 560671,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-12-02T20:15:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "AFC Bournemouth",
+   "visitante": "Brighton & Hove Albion FC"
+  },
+  {
+   "id": 564857,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-12-02T20:30:00Z",
+   "estado": "TIMED",
+   "jornada": 23,
+   "local": "FC Barcelona",
+   "visitante": "Club Atlético de Madrid"
   }
  ]
 }
