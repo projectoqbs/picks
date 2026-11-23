@@ -1,0 +1,138 @@
+{
+ "fecha": "2026-12-03",
+ "actualizado": "2026-11-23T16:57:51+00:00",
+ "partidos": [
+  {
+   "id": 560662,
+   "competicion": "Premier League",
+   "competicion_codigo": "PL",
+   "fecha_utc": "2026-12-03T20:00:00Z",
+   "jornada": 13,
+   "local": "Tottenham Hotspur FC",
+   "visitante": "Fulham FC",
+   "prediccion": {
+    "prob_1": 0.406,
+    "prob_X": 0.286,
+    "prob_2": 0.309,
+    "goles_esperados": [
+     1.365,
+     1.16
+    ],
+    "prob_over_2_5": 0.462,
+    "prob_btts": 0.52,
+    "marcadores": [
+     [
+      "1-1",
+      0.1362
+     ],
+     [
+      "1-0",
+      0.0999
+     ],
+     [
+      "0-0",
+      0.0895
+     ]
+    ],
+    "cuotas_justas": [
+     2.46,
+     3.5,
+     3.24
+    ],
+    "resumen": "Partido parejo.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.015,
+     "defensa": 0.006,
+     "neto": 0.021,
+     "peso": 46.6,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.069,
+     "defensa": 0.117,
+     "neto": 0.048,
+     "peso": 46.5,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 4,
+     "e": 0,
+     "p": 1,
+     "gf": 9,
+     "gc": 2,
+     "racha": [
+      "G",
+      "G",
+      "G",
+      "P",
+      "G"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 2,
+     "e": 3,
+     "p": 0,
+     "gf": 5,
+     "gc": 3,
+     "racha": [
+      "G",
+      "G",
+      "E",
+      "E",
+      "E"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-03-01",
+      "local": "Fulham FC",
+      "visitante": "Tottenham Hotspur FC",
+      "goles_local": 2,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-11-29",
+      "local": "Tottenham Hotspur FC",
+      "visitante": "Fulham FC",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-03-16",
+      "local": "Fulham FC",
+      "visitante": "Tottenham Hotspur FC",
+      "goles_local": 2,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-12-01",
+      "local": "Tottenham Hotspur FC",
+      "visitante": "Fulham FC",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2024-03-16",
+      "local": "Fulham FC",
+      "visitante": "Tottenham Hotspur FC",
+      "goles_local": 3,
+      "goles_visitante": 0
+     }
+    ],
+    "explicacion": "En fuerza de temporada están parejos (neto +0.02 vs +0.05). Tottenham Hotspur FC juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.36 – 1.16; el modelo ve marcando más a Tottenham Hotspur FC. En forma reciente pinta algo mejor Tottenham Hotspur FC (4G-0E-1P vs 2G-3E-0P en 5).",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.594,
+     "por_que": "Doble oportunidad: cubre que Tottenham Hotspur FC no gane. El escenario que queda afuera (gane Tottenham Hotspur FC) es el menos probable (41%), así que el mercado se cumple ~59% de las veces.",
+     "alternativa": null,
+     "confianza": "alta"
+    }
+   }
+  }
+ ]
+}

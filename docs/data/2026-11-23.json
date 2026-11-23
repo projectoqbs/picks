@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-23",
- "actualizado": "2026-11-22T20:33:00+00:00",
+ "actualizado": "2026-11-23T16:57:51+00:00",
  "partidos": [
   {
    "id": 558519,
@@ -13,30 +13,30 @@
    "prediccion": {
     "prob_1": 0.259,
     "prob_X": 0.229,
-    "prob_2": 0.513,
+    "prob_2": 0.512,
     "goles_esperados": [
-     1.266,
-     1.863
+     1.259,
+     1.851
     ],
-    "prob_over_2_5": 0.605,
-    "prob_btts": 0.608,
+    "prob_over_2_5": 0.601,
+    "prob_btts": 0.605,
     "marcadores": [
      [
       "1-1",
-      0.1044
+      0.1049
      ],
      [
       "1-2",
-      0.0961
+      0.0962
      ],
      [
       "0-1",
-      0.0803
+      0.0815
      ]
     ],
     "cuotas_justas": [
-     3.87,
-     4.37,
+     3.86,
+     4.36,
      1.95
     ],
     "resumen": "Gana ACF Fiorentina (ligero favorito, 51%). se esperan goles (+2.5). ambos marcan.",
@@ -44,16 +44,16 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.075,
-     "defensa": -0.329,
-     "neto": -0.404,
-     "peso": 25.8,
+     "ataque": -0.078,
+     "defensa": -0.324,
+     "neto": -0.402,
+     "peso": 25.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.127,
-     "defensa": -0.04,
-     "neto": 0.086,
+     "ataque": 0.124,
+     "defensa": -0.036,
+     "neto": 0.088,
      "peso": 46.9,
      "fiable": true
     },
@@ -117,128 +117,14 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "ACF Fiorentina es más fuerte de fondo (neto +0.09 vs -0.40): ataca ~14% más que el promedio. AC Monza juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.27 – 1.86; el modelo ve marcando más a ACF Fiorentina. Y la forma reciente lo confirma: ACF Fiorentina llega mejor (1G-2E-2P vs 1G-0E-4P).",
+    "explicacion": "ACF Fiorentina es más fuerte de fondo (neto +0.09 vs -0.40): ataca ~13% más que el promedio. AC Monza juega en casa (~+11% de ventaja, ya contada). Goles esperados: 1.26 – 1.85; el modelo ve marcando más a ACF Fiorentina. Y la forma reciente lo confirma: ACF Fiorentina llega mejor (1G-2E-2P vs 1G-0E-4P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.742,
+     "prob": 0.741,
      "por_que": "Doble oportunidad: cubre que AC Monza no gane. El escenario que queda afuera (gane AC Monza) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.821
-     },
-     "confianza": "alta"
-    }
-   }
-  },
-  {
-   "id": 564757,
-   "competicion": "La Liga",
-   "competicion_codigo": "PD",
-   "fecha_utc": "2026-11-23T20:00:00Z",
-   "jornada": 13,
-   "local": "Levante UD",
-   "visitante": "Elche CF",
-   "prediccion": {
-    "prob_1": 0.461,
-    "prob_X": 0.248,
-    "prob_2": 0.291,
-    "goles_esperados": [
-     1.671,
-     1.284
-    ],
-    "prob_over_2_5": 0.567,
-    "prob_btts": 0.591,
-    "marcadores": [
-     [
-      "1-1",
-      0.1156
-     ],
-     [
-      "2-1",
-      0.0934
-     ],
-     [
-      "1-0",
-      0.0831
-     ]
-    ],
-    "cuotas_justas": [
-     2.17,
-     4.03,
-     3.44
-    ],
-    "resumen": "Gana Levante UD (ligero favorito, 46%). ambos marcan.",
-    "confianza": "alta"
-   },
-   "analisis": {
-    "fuerza_local": {
-     "ataque": 0.083,
-     "defensa": -0.107,
-     "neto": -0.024,
-     "peso": 32.0,
-     "fiable": true
-    },
-    "fuerza_visitante": {
-     "ataque": 0.045,
-     "defensa": -0.049,
-     "neto": -0.004,
-     "peso": 31.8,
-     "fiable": true
-    },
-    "forma_local": {
-     "pj": 5,
-     "g": 1,
-     "e": 2,
-     "p": 2,
-     "gf": 5,
-     "gc": 6,
-     "racha": [
-      "E",
-      "G",
-      "P",
-      "P",
-      "E"
-     ]
-    },
-    "forma_visitante": {
-     "pj": 5,
-     "g": 1,
-     "e": 2,
-     "p": 2,
-     "gf": 3,
-     "gc": 3,
-     "racha": [
-      "E",
-      "E",
-      "G",
-      "P",
-      "P"
-     ]
-    },
-    "cara_a_cara": [
-     {
-      "fecha": "2026-01-23",
-      "local": "Levante UD",
-      "visitante": "Elche CF",
-      "goles_local": 3,
-      "goles_visitante": 2
-     },
-     {
-      "fecha": "2025-08-29",
-      "local": "Elche CF",
-      "visitante": "Levante UD",
-      "goles_local": 2,
-      "goles_visitante": 0
-     }
-    ],
-    "explicacion": "En fuerza de temporada están parejos (neto -0.02 vs -0.00). Levante UD juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.67 – 1.28; el modelo ve marcando más a Levante UD. También parejos en forma (1G-2E-2P vs 1G-2E-2P en 5).",
-    "recomendacion": {
-     "mercado": "Ambos marcan: Sí",
-     "prob": 0.591,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.67 y 1.28. Probabilidad: 59%.",
-     "alternativa": {
-      "mercado": "Más de 1.5 goles",
-      "prob": 0.798
+      "prob": 0.818
      },
      "confianza": "alta"
     }
@@ -296,7 +182,7 @@
      "ataque": -0.113,
      "defensa": 0.2,
      "neto": 0.087,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "forma_local": {
@@ -372,6 +258,120 @@
      "prob": 0.74,
      "por_que": "Doble oportunidad: cubre que Brentford FC no pierda. El escenario que queda afuera (gane Everton FC) es el menos probable (26%), así que el mercado se cumple ~74% de las veces.",
      "alternativa": null,
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 564757,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-11-23T20:00:00Z",
+   "jornada": 13,
+   "local": "Levante UD",
+   "visitante": "Elche CF",
+   "prediccion": {
+    "prob_1": 0.46,
+    "prob_X": 0.248,
+    "prob_2": 0.292,
+    "goles_esperados": [
+     1.668,
+     1.286
+    ],
+    "prob_over_2_5": 0.566,
+    "prob_btts": 0.591,
+    "marcadores": [
+     [
+      "1-1",
+      0.1157
+     ],
+     [
+      "2-1",
+      0.0933
+     ],
+     [
+      "1-0",
+      0.0831
+     ]
+    ],
+    "cuotas_justas": [
+     2.17,
+     4.03,
+     3.43
+    ],
+    "resumen": "Gana Levante UD (ligero favorito, 46%). ambos marcan.",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.083,
+     "defensa": -0.106,
+     "neto": -0.023,
+     "peso": 31.9,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.045,
+     "defensa": -0.049,
+     "neto": -0.004,
+     "peso": 31.8,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 5,
+     "gc": 6,
+     "racha": [
+      "E",
+      "G",
+      "P",
+      "P",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 3,
+     "gc": 3,
+     "racha": [
+      "E",
+      "E",
+      "G",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-01-23",
+      "local": "Levante UD",
+      "visitante": "Elche CF",
+      "goles_local": 3,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-08-29",
+      "local": "Elche CF",
+      "visitante": "Levante UD",
+      "goles_local": 2,
+      "goles_visitante": 0
+     }
+    ],
+    "explicacion": "En fuerza de temporada están parejos (neto -0.02 vs -0.00). Levante UD juega en casa (~+32% de ventaja, ya contada). Goles esperados: 1.67 – 1.29; el modelo ve marcando más a Levante UD. También parejos en forma (1G-2E-2P vs 1G-2E-2P en 5).",
+    "recomendacion": {
+     "mercado": "Ambos marcan: Sí",
+     "prob": 0.591,
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.67 y 1.29. Probabilidad: 59%.",
+     "alternativa": {
+      "mercado": "Más de 1.5 goles",
+      "prob": 0.798
+     },
      "confianza": "alta"
     }
    }

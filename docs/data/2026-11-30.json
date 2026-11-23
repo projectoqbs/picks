@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-30",
- "actualizado": "2026-11-22T20:33:00+00:00",
+ "actualizado": "2026-11-23T16:57:51+00:00",
  "partidos": [
   {
    "id": 558516,
@@ -12,49 +12,49 @@
    "visitante": "Atalanta BC",
    "prediccion": {
     "prob_1": 0.169,
-    "prob_X": 0.24,
-    "prob_2": 0.591,
+    "prob_X": 0.234,
+    "prob_2": 0.598,
     "goles_esperados": [
-     0.786,
-     1.703
+     0.813,
+     1.76
     ],
-    "prob_over_2_5": 0.453,
-    "prob_btts": 0.446,
+    "prob_over_2_5": 0.475,
+    "prob_btts": 0.462,
     "marcadores": [
      [
       "0-1",
-      0.1401
+      0.1333
      ],
      [
       "0-2",
-      0.1204
+      0.1182
      ],
      [
       "1-1",
-      0.1123
+      0.1103
      ]
     ],
     "cuotas_justas": [
-     5.92,
-     4.17,
-     1.69
+     5.93,
+     4.28,
+     1.67
     ],
-    "resumen": "Gana Atalanta BC (claro favorito, 59%).",
+    "resumen": "Gana Atalanta BC (claro favorito, 60%).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.37,
-     "defensa": -0.11,
-     "neto": -0.48,
-     "peso": 47.9,
+     "ataque": -0.372,
+     "defensa": -0.107,
+     "neto": -0.478,
+     "peso": 47.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.257,
-     "defensa": 0.141,
-     "neto": 0.398,
-     "peso": 46.9,
+     "ataque": 0.29,
+     "defensa": 0.108,
+     "neto": 0.399,
+     "peso": 47.8,
      "fiable": true
     },
     "forma_local": {
@@ -75,16 +75,16 @@
     "forma_visitante": {
      "pj": 5,
      "g": 1,
-     "e": 2,
-     "p": 2,
-     "gf": 9,
-     "gc": 12,
+     "e": 3,
+     "p": 1,
+     "gf": 11,
+     "gc": 13,
      "racha": [
-      "P",
       "E",
       "E",
       "P",
-      "G"
+      "G",
+      "E"
      ]
     },
     "cara_a_cara": [
@@ -124,14 +124,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Atalanta BC es más fuerte de fondo (neto +0.40 vs -0.48): ataca ~29% más que el promedio, encaja ~13% menos. US Lecce juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.79 – 1.70; el modelo ve marcando más a Atalanta BC. Y la forma reciente lo confirma: Atalanta BC llega mejor (1G-2E-2P vs 0G-1E-4P).",
+    "explicacion": "Atalanta BC es más fuerte de fondo (neto +0.40 vs -0.48): ataca ~34% más que el promedio, encaja ~10% menos. US Lecce juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.81 – 1.76; el modelo ve marcando más a Atalanta BC. Y la forma reciente lo confirma: Atalanta BC llega mejor (1G-3E-1P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.831,
      "por_que": "Doble oportunidad: cubre que US Lecce no gane. El escenario que queda afuera (gane US Lecce) es el menos probable (17%), así que el mercado se cumple ~83% de las veces.",
      "alternativa": {
       "mercado": "2",
-      "prob": 0.591
+      "prob": 0.598
      },
      "confianza": "alta"
     }
@@ -148,30 +148,30 @@
    "prediccion": {
     "prob_1": 0.199,
     "prob_X": 0.24,
-    "prob_2": 0.562,
+    "prob_2": 0.561,
     "goles_esperados": [
-     0.924,
-     1.725
+     0.919,
+     1.716
     ],
-    "prob_over_2_5": 0.494,
-    "prob_btts": 0.497,
+    "prob_over_2_5": 0.49,
+    "prob_btts": 0.494,
     "marcadores": [
      [
       "0-1",
-      0.1207
+      0.1219
      ],
      [
       "1-1",
-      0.114
+      0.1142
      ],
      [
       "0-2",
-      0.1053
+      0.1056
      ]
     ],
     "cuotas_justas": [
-     5.03,
-     4.17,
+     5.02,
+     4.16,
      1.78
     ],
     "resumen": "Gana AC Milan (claro favorito, 56%).",
@@ -179,16 +179,16 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.152,
-     "defensa": -0.05,
-     "neto": -0.201,
+     "ataque": -0.154,
+     "defensa": -0.045,
+     "neto": -0.2,
      "peso": 47.8,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.33,
-     "defensa": 0.198,
-     "neto": 0.528,
+     "ataque": 0.327,
+     "defensa": 0.202,
+     "neto": 0.529,
      "peso": 47.9,
      "fiable": true
     },
@@ -259,14 +259,14 @@
       "goles_visitante": 1
      }
     ],
-    "explicacion": "AC Milan es más fuerte de fondo (neto +0.53 vs -0.20): ataca ~39% más que el promedio, encaja ~18% menos. Cagliari Calcio juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.92 – 1.73; el modelo ve marcando más a AC Milan. Y la forma reciente lo confirma: AC Milan llega mejor (4G-0E-1P vs 1G-0E-4P).",
+    "explicacion": "AC Milan es más fuerte de fondo (neto +0.53 vs -0.20): ataca ~39% más que el promedio, encaja ~18% menos. Cagliari Calcio juega en casa (~+11% de ventaja, ya contada). Goles esperados: 0.92 – 1.72; el modelo ve marcando más a AC Milan. Y la forma reciente lo confirma: AC Milan llega mejor (4G-0E-1P vs 1G-0E-4P).",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.801,
      "por_que": "Doble oportunidad: cubre que Cagliari Calcio no gane. El escenario que queda afuera (gane Cagliari Calcio) es el menos probable (20%), así que el mercado se cumple ~80% de las veces.",
      "alternativa": {
       "mercado": "2",
-      "prob": 0.562
+      "prob": 0.561
      },
      "confianza": "alta"
     }
@@ -281,50 +281,50 @@
    "local": "RCD Espanyol de Barcelona",
    "visitante": "Getafe CF",
    "prediccion": {
-    "prob_1": 0.429,
-    "prob_X": 0.335,
-    "prob_2": 0.235,
+    "prob_1": 0.441,
+    "prob_X": 0.331,
+    "prob_2": 0.228,
     "goles_esperados": [
-     1.054,
-     0.7
+     1.082,
+     0.691
     ],
-    "prob_over_2_5": 0.257,
-    "prob_btts": 0.333,
+    "prob_over_2_5": 0.262,
+    "prob_btts": 0.334,
     "marcadores": [
      [
       "1-0",
-      0.1779
+      0.1794
      ],
      [
       "0-0",
-      0.1774
+      0.1743
      ],
      [
       "1-1",
-      0.1322
+      0.1313
      ]
     ],
     "cuotas_justas": [
-     2.33,
-     2.98,
-     4.25
+     2.27,
+     3.02,
+     4.39
     ],
-    "resumen": "Gana RCD Espanyol de Barcelona (ligero favorito, 43%). pocos goles (-2.5).",
+    "resumen": "Gana RCD Espanyol de Barcelona (ligero favorito, 44%). pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
      "ataque": -0.108,
-     "defensa": 0.095,
-     "neto": -0.013,
-     "peso": 43.4,
+     "defensa": 0.096,
+     "neto": -0.012,
+     "peso": 43.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.359,
-     "defensa": 0.22,
-     "neto": -0.139,
-     "peso": 47.6,
+     "ataque": -0.375,
+     "defensa": 0.193,
+     "neto": -0.182,
+     "peso": 48.5,
      "fiable": true
     },
     "forma_local": {
@@ -350,10 +350,10 @@
      "gf": 4,
      "gc": 11,
      "racha": [
-      "P",
       "E",
       "P",
       "G",
+      "P",
       "P"
      ]
     },
@@ -387,14 +387,14 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "RCD Espanyol de Barcelona es más fuerte de fondo (neto -0.01 vs -0.14): es más completo en general. RCD Espanyol de Barcelona juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.05 – 0.70; el modelo ve marcando más a RCD Espanyol de Barcelona. Y la forma reciente lo confirma: RCD Espanyol de Barcelona llega mejor (2G-1E-2P vs 1G-1E-3P).",
+    "explicacion": "RCD Espanyol de Barcelona es más fuerte de fondo (neto -0.01 vs -0.18): es más completo en general. RCD Espanyol de Barcelona juega en casa (~+32% de ventaja, ya contada). Goles esperados: 1.08 – 0.69; el modelo ve marcando más a RCD Espanyol de Barcelona. Y la forma reciente lo confirma: RCD Espanyol de Barcelona llega mejor (2G-1E-2P vs 1G-1E-3P).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.743,
-     "por_que": "Pocos goles esperados en total (1.05 + 0.70 = 1.75); la defensa de Getafe CF aprieta. El modelo ve el partido cerrado (74% al under).",
+     "prob": 0.738,
+     "por_que": "Pocos goles esperados en total (1.08 + 0.69 = 1.77); la defensa de Getafe CF aprieta. El modelo ve el partido cerrado (74% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
-      "prob": 0.898
+      "prob": 0.896
      },
      "confianza": "alta"
     }

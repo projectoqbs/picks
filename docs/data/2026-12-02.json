@@ -1,6 +1,6 @@
 {
  "fecha": "2026-12-02",
- "actualizado": "2026-11-22T20:33:00+00:00",
+ "actualizado": "2026-11-23T16:57:51+00:00",
  "partidos": [
   {
    "id": 564855,
@@ -11,19 +11,19 @@
    "local": "Real Sociedad de Fútbol",
    "visitante": "Real Madrid CF",
    "prediccion": {
-    "prob_1": 0.202,
-    "prob_X": 0.218,
-    "prob_2": 0.58,
+    "prob_1": 0.201,
+    "prob_X": 0.217,
+    "prob_2": 0.582,
     "goles_esperados": [
-     1.134,
-     2.044
+     1.132,
+     2.047
     ],
     "prob_over_2_5": 0.616,
-    "prob_btts": 0.594,
+    "prob_btts": 0.593,
     "marcadores": [
      [
       "1-1",
-      0.0999
+      0.0998
      ],
      [
       "1-2",
@@ -31,12 +31,12 @@
      ],
      [
       "0-2",
-      0.087
+      0.0872
      ]
     ],
     "cuotas_justas": [
-     4.95,
-     4.59,
+     4.97,
+     4.6,
      1.72
     ],
     "resumen": "Gana Real Madrid CF (claro favorito, 58%). se esperan goles (+2.5). ambos marcan.",
@@ -46,15 +46,15 @@
     "fuerza_local": {
      "ataque": 0.185,
      "defensa": -0.064,
-     "neto": 0.12,
-     "peso": 48.6,
+     "neto": 0.121,
+     "peso": 48.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.552,
-     "defensa": 0.44,
-     "neto": 0.992,
-     "peso": 48.6,
+     "defensa": 0.441,
+     "neto": 0.993,
+     "peso": 48.5,
      "fiable": true
     },
     "forma_local": {
@@ -124,10 +124,10 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.99 vs +0.12): ataca ~74% más que el promedio, encaja ~36% menos. Real Sociedad de Fútbol juega en casa (~+33% de ventaja, ya contada). Goles esperados: 1.13 – 2.04; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (5G-0E-0P vs 3G-0E-2P).",
+    "explicacion": "Real Madrid CF es más fuerte de fondo (neto +0.99 vs +0.12): ataca ~74% más que el promedio, encaja ~36% menos. Real Sociedad de Fútbol juega en casa (~+32% de ventaja, ya contada). Goles esperados: 1.13 – 2.05; el modelo ve marcando más a Real Madrid CF. Y la forma reciente lo confirma: Real Madrid CF llega mejor (5G-0E-0P vs 3G-0E-2P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.798,
+     "prob": 0.799,
      "por_que": "Doble oportunidad: cubre que Real Sociedad de Fútbol no gane. El escenario que queda afuera (gane Real Sociedad de Fútbol) es el menos probable (20%), así que el mercado se cumple ~80% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -265,7 +265,7 @@
     "prob_2": 0.249,
     "goles_esperados": [
      1.221,
-     0.855
+     0.856
     ],
     "prob_over_2_5": 0.344,
     "prob_btts": 0.415,
@@ -300,10 +300,10 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.046,
+     "ataque": -0.047,
      "defensa": 0.108,
      "neto": 0.062,
-     "peso": 46.6,
+     "peso": 46.5,
      "fiable": true
     },
     "forma_local": {
@@ -337,11 +337,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Hull City AFC es más fuerte de fondo (neto +0.23 vs +0.06): encaja ~28% menos. Hull City AFC juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.22 – 0.85; el modelo ve marcando más a Hull City AFC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "Hull City AFC es más fuerte de fondo (neto +0.23 vs +0.06): encaja ~28% menos. Hull City AFC juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.22 – 0.86; el modelo ve marcando más a Hull City AFC. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
      "prob": 0.656,
-     "por_que": "Pocos goles esperados en total (1.22 + 0.85 = 2.08); la defensa de Hull City AFC aprieta. El modelo ve el partido cerrado (66% al under).",
+     "por_que": "Pocos goles esperados en total (1.22 + 0.86 = 2.08); la defensa de Hull City AFC aprieta. El modelo ve el partido cerrado (66% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
       "prob": 0.843
@@ -402,7 +402,7 @@
      "ataque": -0.073,
      "defensa": -0.078,
      "neto": -0.151,
-     "peso": 46.7,
+     "peso": 46.6,
      "fiable": true
     },
     "forma_local": {
@@ -530,7 +530,7 @@
      "ataque": 0.398,
      "defensa": 0.325,
      "neto": 0.723,
-     "peso": 46.7,
+     "peso": 46.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -644,14 +644,14 @@
      "ataque": 0.154,
      "defensa": 0.063,
      "neto": 0.217,
-     "peso": 46.6,
+     "peso": 46.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.113,
      "defensa": 0.2,
      "neto": 0.087,
-     "peso": 45.7,
+     "peso": 45.6,
      "fiable": true
     },
     "forma_local": {
@@ -783,7 +783,7 @@
      "ataque": 0.311,
      "defensa": 0.646,
      "neto": 0.957,
-     "peso": 46.6,
+     "peso": 46.5,
      "fiable": true
     },
     "forma_local": {
@@ -908,7 +908,7 @@
      "ataque": 0.186,
      "defensa": 0.002,
      "neto": 0.188,
-     "peso": 46.7,
+     "peso": 46.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1049,8 +1049,8 @@
     "fuerza_visitante": {
      "ataque": 0.228,
      "defensa": 0.176,
-     "neto": 0.405,
-     "peso": 46.6,
+     "neto": 0.404,
+     "peso": 46.5,
      "fiable": true
     },
     "forma_local": {
@@ -1120,7 +1120,7 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "Brighton & Hove Albion FC es más fuerte de fondo (neto +0.41 vs +0.24): ataca ~26% más que el promedio, encaja ~16% menos. AFC Bournemouth juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.47 – 1.43; el modelo ve marcando más a AFC Bournemouth. Pero ojo: en forma reciente AFC Bournemouth llega mejor que Brighton & Hove Albion FC, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Brighton & Hove Albion FC es más fuerte de fondo (neto +0.40 vs +0.24): ataca ~26% más que el promedio, encaja ~16% menos. AFC Bournemouth juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.47 – 1.43; el modelo ve marcando más a AFC Bournemouth. Pero ojo: en forma reciente AFC Bournemouth llega mejor que Brighton & Hove Albion FC, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.594,
@@ -1142,50 +1142,50 @@
    "local": "FC Barcelona",
    "visitante": "Club Atlético de Madrid",
    "prediccion": {
-    "prob_1": 0.64,
-    "prob_X": 0.189,
-    "prob_2": 0.171,
+    "prob_1": 0.628,
+    "prob_X": 0.193,
+    "prob_2": 0.179,
     "goles_esperados": [
-     2.404,
-     1.187
+     2.368,
+     1.211
     ],
-    "prob_over_2_5": 0.696,
-    "prob_btts": 0.635,
+    "prob_over_2_5": 0.694,
+    "prob_btts": 0.639,
     "marcadores": [
      [
       "2-1",
-      0.0946
+      0.0947
      ],
      [
       "1-1",
-      0.0814
+      0.0828
      ],
      [
       "2-0",
-      0.0797
+      0.0782
      ]
     ],
     "cuotas_justas": [
-     1.56,
-     5.29,
-     5.85
+     1.59,
+     5.19,
+     5.58
     ],
-    "resumen": "Gana FC Barcelona (claro favorito, 64%). se esperan goles (+2.5). ambos marcan.",
+    "resumen": "Gana FC Barcelona (claro favorito, 63%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
      "ataque": 0.815,
-     "defensa": 0.274,
-     "neto": 1.089,
-     "peso": 48.6,
+     "defensa": 0.275,
+     "neto": 1.09,
+     "peso": 48.5,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.347,
-     "defensa": 0.319,
-     "neto": 0.666,
-     "peso": 47.6,
+     "ataque": 0.366,
+     "defensa": 0.332,
+     "neto": 0.699,
+     "peso": 48.5,
      "fiable": true
     },
     "forma_local": {
@@ -1208,14 +1208,14 @@
      "g": 4,
      "e": 0,
      "p": 1,
-     "gf": 7,
-     "gc": 3,
+     "gf": 8,
+     "gc": 2,
      "racha": [
       "G",
       "G",
       "G",
-      "G",
-      "P"
+      "P",
+      "G"
      ]
     },
     "cara_a_cara": [
@@ -1255,14 +1255,14 @@
       "goles_visitante": 2
      }
     ],
-    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.09 vs +0.67): ataca ~126% más que el promedio, encaja ~24% menos. FC Barcelona juega en casa (~+33% de ventaja, ya contada). Goles esperados: 2.40 – 1.19; el modelo ve marcando más a FC Barcelona. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "FC Barcelona es más fuerte de fondo (neto +1.09 vs +0.70): ataca ~126% más que el promedio, encaja ~24% menos. FC Barcelona juega en casa (~+32% de ventaja, ya contada). Goles esperados: 2.37 – 1.21; el modelo ve marcando más a FC Barcelona. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
     "recomendacion": {
-     "mercado": "1",
-     "prob": 0.64,
-     "por_que": "FC Barcelona es favorito en casa: marca más (2.40 vs 1.19) y es más fuerte de fondo (neto +1.09 vs +0.67). Probabilidad: 64%.",
+     "mercado": "Más de 2.5 goles",
+     "prob": 0.694,
+     "por_que": "Bastantes goles esperados (2.37 + 1.21 = 3.58). Probabilidad al over: 69%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.876
+      "prob": 0.875
      },
      "confianza": "alta"
     }

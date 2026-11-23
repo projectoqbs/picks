@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-24",
- "actualizado": "2026-11-22T20:33:00+00:00",
+ "actualizado": "2026-11-23T16:57:51+00:00",
  "partidos": [
   {
    "id": 575395,
@@ -27,11 +27,11 @@
      ],
      [
       "1-1",
-      0.0872
+      0.0871
      ],
      [
       "0-1",
-      0.0767
+      0.0766
      ]
     ],
     "cuotas_justas": [
@@ -152,8 +152,8 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.277,
-     "defensa": -0.272,
+     "ataque": 0.276,
+     "defensa": -0.271,
      "neto": 0.005,
      "peso": 3.7,
      "fiable": false
@@ -243,7 +243,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.544,
+     "ataque": 0.543,
      "defensa": 0.134,
      "neto": 0.678,
      "peso": 17.1,
@@ -335,7 +335,7 @@
     "cuotas_justas": [
      1.29,
      8.18,
-     9.94
+     9.93
     ],
     "resumen": "Gana Manchester City FC (claro favorito, 78%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -345,7 +345,7 @@
      "ataque": 0.3,
      "defensa": 0.12,
      "neto": 0.42,
-     "peso": 12.9,
+     "peso": 12.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -428,7 +428,7 @@
     "marcadores": [
      [
       "2-0",
-      0.1234
+      0.1233
      ],
      [
       "1-0",
@@ -440,9 +440,9 @@
      ]
     ],
     "cuotas_justas": [
-     1.38,
+     1.39,
      6.18,
-     8.62
+     8.61
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 72%). se esperan goles (+2.5).",
     "confianza": "alta"
@@ -458,7 +458,7 @@
     "fuerza_visitante": {
      "ataque": 0.173,
      "defensa": 0.159,
-     "neto": 0.332,
+     "neto": 0.331,
      "peso": 14.6,
      "fiable": true
     },
@@ -615,11 +615,11 @@
    "local": "ŠK Slovan Bratislava",
    "visitante": "Real Betis Balompié",
    "prediccion": {
-    "prob_1": 0.115,
+    "prob_1": 0.116,
     "prob_X": 0.145,
     "prob_2": 0.739,
     "goles_esperados": [
-     0.912,
+     0.913,
      2.587
     ],
     "prob_over_2_5": 0.679,
@@ -627,7 +627,7 @@
     "marcadores": [
      [
       "0-2",
-      0.1011
+      0.101
      ],
      [
       "1-2",
@@ -635,11 +635,11 @@
      ],
      [
       "0-3",
-      0.0872
+      0.0871
      ]
     ],
     "cuotas_justas": [
-     8.66,
+     8.65,
      6.87,
      1.35
     ],
@@ -651,7 +651,7 @@
     "fuerza_local": {
      "ataque": -0.632,
      "defensa": -0.493,
-     "neto": -1.125,
+     "neto": -1.124,
      "peso": 5.7,
      "fiable": false
     },
@@ -699,7 +699,7 @@
      "por_que": "El modelo ve a Real Betis Balompié marcando más que ŠK Slovan Bratislava pese a la localía (2.59 vs 0.91), y lo respalda una diferencia de fuerza clara (neto +0.21 vs -1.12). Probabilidad del modelo: 74%.",
      "alternativa": {
       "mercado": "X2",
-      "prob": 0.885
+      "prob": 0.884
      },
      "confianza": "baja"
     }
@@ -814,12 +814,12 @@
    "local": "Como 1907",
    "visitante": "PAE AEK",
    "prediccion": {
-    "prob_1": 0.934,
+    "prob_1": 0.933,
     "prob_X": 0.04,
     "prob_2": 0.026,
     "goles_esperados": [
-     5.389,
-     1.201
+     5.388,
+     1.202
     ],
     "prob_over_2_5": 0.959,
     "prob_btts": 0.695,
@@ -839,8 +839,8 @@
     ],
     "cuotas_justas": [
      1.07,
-     24.98,
-     37.91
+     24.96,
+     37.87
     ],
     "resumen": "Gana Como 1907 (claro favorito, 93%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -893,7 +893,7 @@
     "explicacion": "Como 1907 es más fuerte de fondo (neto +0.81 vs -0.41): ataca ~127% más que el promedio. Como 1907 juega en casa (~+34% de ventaja, ya contada). Goles esperados: 5.39 – 1.20; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (3G-0E-1P vs 1G-0E-3P). El modelo tiene pocos datos de Como 1907: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.934,
+     "prob": 0.933,
      "por_que": "Como 1907 es favorito en casa: marca más (5.39 vs 1.20) y es más fuerte de fondo (neto +0.81 vs -0.41). Probabilidad: 93%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",

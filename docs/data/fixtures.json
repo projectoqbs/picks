@@ -1,36 +1,6 @@
 {
- "actualizado": "2026-11-22T20:32:57+00:00",
+ "actualizado": "2026-11-23T16:57:48+00:00",
  "fixtures": [
-  {
-   "id": 558520,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-11-22T19:45:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 12,
-   "local": "Atalanta BC",
-   "visitante": "FC Internazionale Milano"
-  },
-  {
-   "id": 559629,
-   "competicion_codigo": "FL1",
-   "competicion": "Ligue 1",
-   "fecha_utc": "2026-11-22T19:45:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 11,
-   "local": "Olympique de Marseille",
-   "visitante": "Le Mans FC"
-  },
-  {
-   "id": 564753,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-11-22T20:00:00Z",
-   "estado": "IN_PLAY",
-   "jornada": 13,
-   "local": "Getafe CF",
-   "visitante": "Club Atlético de Madrid"
-  },
   {
    "id": 558519,
    "competicion_codigo": "SA",
@@ -830,6 +800,16 @@
    "jornada": 23,
    "local": "FC Barcelona",
    "visitante": "Club Atlético de Madrid"
+  },
+  {
+   "id": 560662,
+   "competicion_codigo": "PL",
+   "competicion": "Premier League",
+   "fecha_utc": "2026-12-03T20:00:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "Tottenham Hotspur FC",
+   "visitante": "Fulham FC"
   }
  ]
 }
