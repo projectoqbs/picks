@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-24",
- "actualizado": "2026-11-23T16:57:51+00:00",
+ "actualizado": "2026-11-24T16:46:51+00:00",
  "partidos": [
   {
    "id": 575395,
@@ -15,7 +15,7 @@
     "prob_X": 0.202,
     "prob_2": 0.531,
     "goles_esperados": [
-     1.36,
+     1.361,
      2.002
     ],
     "prob_over_2_5": 0.653,
@@ -35,14 +35,14 @@
      ]
     ],
     "cuotas_justas": [
-     3.75,
+     3.74,
      4.95,
      1.88
     ],
     "resumen": "Gana Aston Villa FC (ligero favorito, 53%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
    },
-   "nota": "pocos datos: 'Aston Villa FC' solo tiene 7.0 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
+   "nota": "pocos datos: 'Aston Villa FC' solo tiene 6.9 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
      "ataque": 0.107,
@@ -52,10 +52,10 @@
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.355,
+     "ataque": 0.354,
      "defensa": 0.405,
-     "neto": 0.76,
-     "peso": 7.0,
+     "neto": 0.759,
+     "peso": 6.9,
      "fiable": false
     },
     "forma_local": {
@@ -89,7 +89,7 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Aston Villa FC es más fuerte de fondo (neto +0.76 vs +0.08): ataca ~43% más que el promedio, encaja ~33% menos. Galatasaray SK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.36 – 2.00; el modelo ve marcando más a Aston Villa FC. Y la forma reciente lo confirma: Aston Villa FC llega mejor (4G-0E-1P vs 2G-0E-3P). El modelo tiene pocos datos de Aston Villa FC: tomalo con pinzas.",
+    "explicacion": "Aston Villa FC es más fuerte de fondo (neto +0.76 vs +0.08): ataca ~42% más que el promedio, encaja ~33% menos. Galatasaray SK juega en casa (~+34% de ventaja, ya contada). Goles esperados: 1.36 – 2.00; el modelo ve marcando más a Aston Villa FC. Y la forma reciente lo confirma: Aston Villa FC llega mejor (4G-0E-1P vs 2G-0E-3P). El modelo tiene pocos datos de Aston Villa FC: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "X2",
      "prob": 0.733,
@@ -115,7 +115,7 @@
     "prob_X": 0.178,
     "prob_2": 0.286,
     "goles_esperados": [
-     2.564,
+     2.563,
      1.874
     ],
     "prob_over_2_5": 0.819,
@@ -245,7 +245,7 @@
     "fuerza_local": {
      "ataque": 0.543,
      "defensa": 0.134,
-     "neto": 0.678,
+     "neto": 0.677,
      "peso": 17.1,
      "fiable": true
     },
@@ -313,8 +313,8 @@
     "prob_X": 0.122,
     "prob_2": 0.101,
     "goles_esperados": [
-     3.053,
-     1.046
+     3.052,
+     1.047
     ],
     "prob_over_2_5": 0.776,
     "prob_btts": 0.614,
@@ -343,8 +343,8 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.3,
-     "defensa": 0.12,
-     "neto": 0.42,
+     "defensa": 0.119,
+     "neto": 0.419,
      "peso": 12.8,
      "fiable": true
     },
@@ -441,7 +441,7 @@
     ],
     "cuotas_justas": [
      1.39,
-     6.18,
+     6.17,
      8.61
     ],
     "resumen": "Gana Arsenal FC (claro favorito, 72%). se esperan goles (+2.5).",
@@ -449,10 +449,10 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.378,
+     "ataque": 0.377,
      "defensa": 0.754,
-     "neto": 1.132,
-     "peso": 17.6,
+     "neto": 1.131,
+     "peso": 17.5,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -616,7 +616,7 @@
    "visitante": "Real Betis Balompié",
    "prediccion": {
     "prob_1": 0.116,
-    "prob_X": 0.145,
+    "prob_X": 0.146,
     "prob_2": 0.739,
     "goles_esperados": [
      0.913,
@@ -649,7 +649,7 @@
    "nota": "pocos datos: 'Real Betis Balompié' solo tiene 3.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.632,
+     "ataque": -0.631,
      "defensa": -0.493,
      "neto": -1.124,
      "peso": 5.7,
@@ -714,7 +714,7 @@
    "local": "RB Leipzig",
    "visitante": "Racing Club de Lens",
    "prediccion": {
-    "prob_1": 0.73,
+    "prob_1": 0.729,
     "prob_X": 0.145,
     "prob_2": 0.126,
     "goles_esperados": [
@@ -795,7 +795,7 @@
     "explicacion": "RB Leipzig es más fuerte de fondo (neto -0.13 vs -0.80): es más completo en general. RB Leipzig juega en casa (~+34% de ventaja, ya contada). Goles esperados: 2.69 – 1.03; el modelo ve marcando más a RB Leipzig. Pero ojo: en forma reciente Racing Club de Lens llega mejor que RB Leipzig, así que puede estar más cerca de lo que dice el neto. El modelo tiene pocos datos de RB Leipzig: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.73,
+     "prob": 0.729,
      "por_que": "RB Leipzig es favorito en casa: marca más (2.69 vs 1.03) y es más fuerte de fondo (neto -0.13 vs -0.80). Probabilidad: 73%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -818,7 +818,7 @@
     "prob_X": 0.04,
     "prob_2": 0.026,
     "goles_esperados": [
-     5.388,
+     5.385,
      1.202
     ],
     "prob_over_2_5": 0.959,
@@ -830,7 +830,7 @@
      ],
      [
       "4-1",
-      0.0593
+      0.0594
      ],
      [
       "6-1",
@@ -839,8 +839,8 @@
     ],
     "cuotas_justas": [
      1.07,
-     24.96,
-     37.87
+     24.92,
+     37.8
     ],
     "resumen": "Gana Como 1907 (claro favorito, 93%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -848,16 +848,16 @@
    "nota": "pocos datos: 'PAE AEK' solo tiene 3.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.818,
+     "ataque": 0.817,
      "defensa": -0.013,
-     "neto": 0.805,
+     "neto": 0.804,
      "peso": 3.7,
      "fiable": false
     },
     "fuerza_visitante": {
      "ataque": -0.146,
      "defensa": -0.26,
-     "neto": -0.407,
+     "neto": -0.406,
      "peso": 3.7,
      "fiable": false
     },
@@ -890,11 +890,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.81 vs -0.41): ataca ~127% más que el promedio. Como 1907 juega en casa (~+34% de ventaja, ya contada). Goles esperados: 5.39 – 1.20; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (3G-0E-1P vs 1G-0E-3P). El modelo tiene pocos datos de Como 1907: tomalo con pinzas.",
+    "explicacion": "Como 1907 es más fuerte de fondo (neto +0.80 vs -0.41): ataca ~126% más que el promedio. Como 1907 juega en casa (~+34% de ventaja, ya contada). Goles esperados: 5.38 – 1.20; el modelo ve marcando más a Como 1907. Y la forma reciente lo confirma: Como 1907 llega mejor (3G-0E-1P vs 1G-0E-3P). El modelo tiene pocos datos de Como 1907: tomalo con pinzas.",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.933,
-     "por_que": "Como 1907 es favorito en casa: marca más (5.39 vs 1.20) y es más fuerte de fondo (neto +0.81 vs -0.41). Probabilidad: 93%.",
+     "por_que": "Como 1907 es favorito en casa: marca más (5.38 vs 1.20) y es más fuerte de fondo (neto +0.80 vs -0.41). Probabilidad: 93%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.989

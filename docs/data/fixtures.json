@@ -1,36 +1,6 @@
 {
- "actualizado": "2026-11-23T16:57:48+00:00",
+ "actualizado": "2026-11-24T16:46:50+00:00",
  "fixtures": [
-  {
-   "id": 558519,
-   "competicion_codigo": "SA",
-   "competicion": "Serie A",
-   "fecha_utc": "2026-11-23T19:45:00Z",
-   "estado": "TIMED",
-   "jornada": 12,
-   "local": "AC Monza",
-   "visitante": "ACF Fiorentina"
-  },
-  {
-   "id": 560649,
-   "competicion_codigo": "PL",
-   "competicion": "Premier League",
-   "fecha_utc": "2026-11-23T20:00:00Z",
-   "estado": "TIMED",
-   "jornada": 11,
-   "local": "Brentford FC",
-   "visitante": "Everton FC"
-  },
-  {
-   "id": 564757,
-   "competicion_codigo": "PD",
-   "competicion": "La Liga",
-   "fecha_utc": "2026-11-23T20:00:00Z",
-   "estado": "TIMED",
-   "jornada": 13,
-   "local": "Levante UD",
-   "visitante": "Elche CF"
-  },
   {
    "id": 575395,
    "competicion_codigo": "CL",
@@ -810,6 +780,46 @@
    "jornada": 13,
    "local": "Tottenham Hotspur FC",
    "visitante": "Fulham FC"
+  },
+  {
+   "id": 565882,
+   "competicion_codigo": "BL1",
+   "competicion": "Bundesliga",
+   "fecha_utc": "2026-12-04T19:30:00Z",
+   "estado": "TIMED",
+   "jornada": 12,
+   "local": "FC Bayern München",
+   "visitante": "SC Paderborn 07"
+  },
+  {
+   "id": 558502,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-12-04T19:45:00Z",
+   "estado": "TIMED",
+   "jornada": 14,
+   "local": "Bologna FC 1909",
+   "visitante": "AS Roma"
+  },
+  {
+   "id": 559609,
+   "competicion_codigo": "FL1",
+   "competicion": "Ligue 1",
+   "fecha_utc": "2026-12-04T19:45:00Z",
+   "estado": "TIMED",
+   "jornada": 13,
+   "local": "Toulouse FC",
+   "visitante": "Paris Saint-Germain FC"
+  },
+  {
+   "id": 564770,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-12-04T20:00:00Z",
+   "estado": "TIMED",
+   "jornada": 15,
+   "local": "Deportivo Alavés",
+   "visitante": "RCD Espanyol de Barcelona"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-12-03",
- "actualizado": "2026-11-23T16:57:51+00:00",
+ "actualizado": "2026-11-24T16:46:51+00:00",
  "partidos": [
   {
    "id": 560662,
@@ -11,50 +11,50 @@
    "local": "Tottenham Hotspur FC",
    "visitante": "Fulham FC",
    "prediccion": {
-    "prob_1": 0.406,
-    "prob_X": 0.286,
-    "prob_2": 0.309,
+    "prob_1": 0.407,
+    "prob_X": 0.285,
+    "prob_2": 0.307,
     "goles_esperados": [
-     1.365,
-     1.16
+     1.366,
+     1.156
     ],
     "prob_over_2_5": 0.462,
     "prob_btts": 0.52,
     "marcadores": [
      [
       "1-1",
-      0.1362
+      0.1361
      ],
      [
       "1-0",
-      0.0999
+      0.1004
      ],
      [
       "0-0",
-      0.0895
+      0.0897
      ]
     ],
     "cuotas_justas": [
      2.46,
      3.5,
-     3.24
+     3.25
     ],
     "resumen": "Partido parejo.",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.015,
-     "defensa": 0.006,
-     "neto": 0.021,
-     "peso": 46.6,
+     "ataque": 0.014,
+     "defensa": 0.007,
+     "neto": 0.022,
+     "peso": 46.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.069,
-     "defensa": 0.117,
-     "neto": 0.048,
-     "peso": 46.5,
+     "defensa": 0.118,
+     "neto": 0.049,
+     "peso": 46.4,
      "fiable": true
     },
     "forma_local": {
@@ -124,10 +124,10 @@
       "goles_visitante": 0
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto +0.02 vs +0.05). Tottenham Hotspur FC juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.36 – 1.16; el modelo ve marcando más a Tottenham Hotspur FC. En forma reciente pinta algo mejor Tottenham Hotspur FC (4G-0E-1P vs 2G-3E-0P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto +0.02 vs +0.05). Tottenham Hotspur FC juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.37 – 1.16; el modelo ve marcando más a Tottenham Hotspur FC. En forma reciente pinta algo mejor Tottenham Hotspur FC (4G-0E-1P vs 2G-3E-0P en 5).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.594,
+     "prob": 0.593,
      "por_que": "Doble oportunidad: cubre que Tottenham Hotspur FC no gane. El escenario que queda afuera (gane Tottenham Hotspur FC) es el menos probable (41%), así que el mercado se cumple ~59% de las veces.",
      "alternativa": null,
      "confianza": "alta"

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-25",
- "actualizado": "2026-11-23T16:57:51+00:00",
+ "actualizado": "2026-11-24T16:46:51+00:00",
  "partidos": [
   {
    "id": 575404,
@@ -16,7 +16,7 @@
     "prob_2": 0.796,
     "goles_esperados": [
      1.131,
-     3.333
+     3.332
     ],
     "prob_over_2_5": 0.822,
     "prob_btts": 0.65,
@@ -45,7 +45,7 @@
    "nota": "pocos datos: 'Sabah FK' solo tiene 3.7 partidos recientes equivalentes; la estimacion esta muy tirada al promedio de la liga",
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.317,
+     "ataque": -0.316,
      "defensa": -0.246,
      "neto": -0.562,
      "peso": 3.7,
@@ -110,11 +110,11 @@
    "local": "SK Slavia Praha",
    "visitante": "Villarreal CF",
    "prediccion": {
-    "prob_1": 0.433,
+    "prob_1": 0.434,
     "prob_X": 0.213,
     "prob_2": 0.353,
     "goles_esperados": [
-     1.752,
+     1.753,
      1.561
     ],
     "prob_over_2_5": 0.643,
@@ -226,7 +226,7 @@
      ],
      [
       "2-0",
-      0.1034
+      0.1033
      ],
      [
       "1-1",
@@ -253,7 +253,7 @@
     "fuerza_visitante": {
      "ataque": -0.051,
      "defensa": 0.151,
-     "neto": 0.101,
+     "neto": 0.1,
      "peso": 5.7,
      "fiable": false
     },
@@ -312,10 +312,10 @@
    "prediccion": {
     "prob_1": 0.666,
     "prob_X": 0.151,
-    "prob_2": 0.182,
+    "prob_2": 0.183,
     "goles_esperados": [
      2.971,
-     1.564
+     1.563
     ],
     "prob_over_2_5": 0.83,
     "prob_btts": 0.746,
@@ -391,7 +391,7 @@
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.83,
-     "por_que": "Bastantes goles esperados (2.97 + 1.56 = 4.54); al menos una defensa floja. Probabilidad al over: 83%.",
+     "por_que": "Bastantes goles esperados (2.97 + 1.56 = 4.53); al menos una defensa floja. Probabilidad al over: 83%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.937
@@ -413,7 +413,7 @@
     "prob_X": 0.063,
     "prob_2": 0.045,
     "goles_esperados": [
-     4.432,
+     4.431,
      1.135
     ],
     "prob_over_2_5": 0.915,
@@ -434,8 +434,8 @@
     ],
     "cuotas_justas": [
      1.12,
-     15.77,
-     22.17
+     15.76,
+     22.15
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 89%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "baja"
@@ -541,16 +541,16 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.278,
+     "ataque": 0.277,
      "defensa": -0.044,
      "neto": 0.233,
-     "peso": 12.1,
+     "peso": 12.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.349,
+     "ataque": 0.348,
      "defensa": 0.24,
-     "neto": 0.589,
+     "neto": 0.588,
      "peso": 12.8,
      "fiable": true
     },
@@ -612,7 +612,7 @@
     "prob_2": 0.696,
     "goles_esperados": [
      1.174,
-     2.668
+     2.667
     ],
     "prob_over_2_5": 0.738,
     "prob_btts": 0.638,
@@ -650,7 +650,7 @@
     "fuerza_visitante": {
      "ataque": 0.636,
      "defensa": 0.399,
-     "neto": 1.035,
+     "neto": 1.034,
      "peso": 17.1,
      "fiable": true
     },
@@ -711,7 +711,7 @@
     "prob_X": 0.209,
     "prob_2": 0.23,
     "goles_esperados": [
-     1.867,
+     1.868,
      1.099
     ],
     "prob_over_2_5": 0.569,
@@ -743,14 +743,14 @@
     "fuerza_local": {
      "ataque": 0.087,
      "defensa": 0.34,
-     "neto": 0.428,
+     "neto": 0.427,
      "peso": 12.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.118,
      "defensa": 0.069,
-     "neto": 0.187,
+     "neto": 0.186,
      "peso": 4.4,
      "fiable": false
     },
@@ -812,7 +812,7 @@
     "prob_2": 0.203,
     "goles_esperados": [
      2.068,
-     1.099
+     1.1
     ],
     "prob_over_2_5": 0.613,
     "prob_btts": 0.575,
@@ -849,7 +849,7 @@
     },
     "fuerza_visitante": {
      "ataque": -0.072,
-     "defensa": -0.341,
+     "defensa": -0.34,
      "neto": -0.412,
      "peso": 3.7,
      "fiable": false
