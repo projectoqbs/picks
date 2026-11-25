@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-27",
- "actualizado": "2026-11-24T16:46:51+00:00",
+ "actualizado": "2026-11-25T16:33:45+00:00",
  "partidos": [
   {
    "id": 565869,
@@ -47,14 +47,14 @@
      "ataque": 0.009,
      "defensa": 0.0,
      "neto": 0.009,
-     "peso": 42.0,
+     "peso": 41.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.038,
      "defensa": -0.109,
      "neto": -0.147,
-     "peso": 42.0,
+     "peso": 41.9,
      "fiable": true
     },
     "forma_local": {
@@ -179,7 +179,7 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.37,
+     "ataque": -0.369,
      "defensa": -0.186,
      "neto": -0.556,
      "peso": 21.4,
@@ -189,7 +189,7 @@
      "ataque": 0.119,
      "defensa": 0.118,
      "neto": 0.236,
-     "peso": 47.8,
+     "peso": 47.7,
      "fiable": true
     },
     "forma_local": {
@@ -296,14 +296,14 @@
      "ataque": 0.103,
      "defensa": 0.011,
      "neto": 0.114,
-     "peso": 42.6,
+     "peso": 42.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.177,
      "defensa": 0.163,
      "neto": 0.34,
-     "peso": 28.6,
+     "peso": 28.5,
      "fiable": true
     },
     "forma_local": {
@@ -379,9 +379,9 @@
     "prob_2": 0.36,
     "goles_esperados": [
      1.434,
-     1.409
+     1.408
     ],
-    "prob_over_2_5": 0.541,
+    "prob_over_2_5": 0.54,
     "prob_btts": 0.584,
     "marcadores": [
      [
@@ -400,7 +400,7 @@
     "cuotas_justas": [
      2.69,
      3.73,
-     2.77
+     2.78
     ],
     "resumen": "Partido parejo. ambos marcan.",
     "confianza": "alta"
@@ -417,7 +417,7 @@
      "ataque": 0.231,
      "defensa": 0.008,
      "neto": 0.24,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "forma_local": {
@@ -513,7 +513,7 @@
     "prob_X": 0.186,
     "prob_2": 0.21,
     "goles_esperados": [
-     2.566,
+     2.565,
      1.5
     ],
     "prob_over_2_5": 0.771,
@@ -535,7 +535,7 @@
     "cuotas_justas": [
      1.66,
      5.36,
-     4.77
+     4.76
     ],
     "resumen": "Gana Levante UD (claro favorito, 60%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -545,7 +545,7 @@
      "ataque": 0.069,
      "defensa": -0.101,
      "neto": -0.032,
-     "peso": 32.9,
+     "peso": 32.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -586,11 +586,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "Levante UD es más fuerte de fondo (neto -0.03 vs -0.29): es más completo en general. Levante UD juega en casa (~+32% de ventaja, ya contada). Goles esperados: 2.57 – 1.50; el modelo ve marcando más a Levante UD. Pero ojo: en forma reciente Real Racing Club de Santander llega mejor que Levante UD, así que puede estar más cerca de lo que dice el neto.",
+    "explicacion": "Levante UD es más fuerte de fondo (neto -0.03 vs -0.29): es más completo en general. Levante UD juega en casa (~+32% de ventaja, ya contada). Goles esperados: 2.56 – 1.50; el modelo ve marcando más a Levante UD. Pero ojo: en forma reciente Real Racing Club de Santander llega mejor que Levante UD, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "Más de 2.5 goles",
      "prob": 0.771,
-     "por_que": "Bastantes goles esperados (2.57 + 1.50 = 4.07); al menos una defensa floja. Probabilidad al over: 77%.",
+     "por_que": "Bastantes goles esperados (2.56 + 1.50 = 4.06); al menos una defensa floja. Probabilidad al over: 77%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.916

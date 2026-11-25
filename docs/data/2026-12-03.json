@@ -1,6 +1,6 @@
 {
  "fecha": "2026-12-03",
- "actualizado": "2026-11-24T16:46:51+00:00",
+ "actualizado": "2026-11-25T16:33:45+00:00",
  "partidos": [
   {
    "id": 560662,
@@ -12,18 +12,18 @@
    "visitante": "Fulham FC",
    "prediccion": {
     "prob_1": 0.407,
-    "prob_X": 0.285,
+    "prob_X": 0.286,
     "prob_2": 0.307,
     "goles_esperados": [
      1.366,
-     1.156
+     1.155
     ],
     "prob_over_2_5": 0.462,
     "prob_btts": 0.52,
     "marcadores": [
      [
       "1-1",
-      0.1361
+      0.1362
      ],
      [
       "1-0",
@@ -44,17 +44,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.014,
+     "ataque": 0.015,
      "defensa": 0.007,
      "neto": 0.022,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.069,
      "defensa": 0.118,
      "neto": 0.049,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {

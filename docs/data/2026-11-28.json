@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-28",
- "actualizado": "2026-11-24T16:46:51+00:00",
+ "actualizado": "2026-11-25T16:33:45+00:00",
  "partidos": [
   {
    "id": 564760,
@@ -47,14 +47,14 @@
      "ataque": 0.237,
      "defensa": 0.12,
      "neto": 0.357,
-     "peso": 48.4,
+     "peso": 48.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.112,
      "defensa": 0.096,
      "neto": -0.016,
-     "peso": 47.5,
+     "peso": 47.4,
      "fiable": true
     },
     "forma_local": {
@@ -189,7 +189,7 @@
      "ataque": -0.287,
      "defensa": -0.028,
      "neto": -0.315,
-     "peso": 42.5,
+     "peso": 42.4,
      "fiable": true
     },
     "forma_local": {
@@ -250,7 +250,7 @@
     "prob_2": 0.393,
     "goles_esperados": [
      1.577,
-     1.645
+     1.644
     ],
     "prob_over_2_5": 0.625,
     "prob_btts": 0.645,
@@ -281,7 +281,7 @@
      "ataque": -0.122,
      "defensa": -0.048,
      "neto": -0.17,
-     "peso": 32.6,
+     "peso": 32.5,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -322,11 +322,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "SV 07 Elversberg es más fuerte de fondo (neto +0.11 vs -0.17): ataca ~23% más que el promedio. 1. FC Köln juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.58 – 1.65; el modelo ve marcando más a SV 07 Elversberg. Y la forma reciente lo confirma: SV 07 Elversberg llega mejor (2G-0E-3P vs 0G-3E-2P).",
+    "explicacion": "SV 07 Elversberg es más fuerte de fondo (neto +0.11 vs -0.17): ataca ~23% más que el promedio. 1. FC Köln juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.58 – 1.64; el modelo ve marcando más a SV 07 Elversberg. Y la forma reciente lo confirma: SV 07 Elversberg llega mejor (2G-0E-3P vs 0G-3E-2P).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.645,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.58 y 1.65. Probabilidad: 64%.",
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.58 y 1.64. Probabilidad: 64%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.836
@@ -380,7 +380,7 @@
      "ataque": 0.045,
      "defensa": 0.008,
      "neto": 0.053,
-     "peso": 42.0,
+     "peso": 41.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -481,17 +481,17 @@
    "prediccion": {
     "prob_1": 0.345,
     "prob_X": 0.401,
-    "prob_2": 0.253,
+    "prob_2": 0.254,
     "goles_esperados": [
      0.748,
      0.597
     ],
-    "prob_over_2_5": 0.153,
+    "prob_over_2_5": 0.154,
     "prob_btts": 0.242,
     "marcadores": [
      [
       "0-0",
-      0.2658
+      0.2656
      ],
      [
       "1-0",
@@ -514,13 +514,13 @@
     "fuerza_local": {
      "ataque": -0.412,
      "defensa": 0.077,
-     "neto": -0.336,
+     "neto": -0.335,
      "peso": 9.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.685,
-     "defensa": 0.359,
+     "defensa": 0.358,
      "neto": -0.327,
      "peso": 9.2,
      "fiable": true
@@ -559,7 +559,7 @@
     "explicacion": "En fuerza de temporada están parejos (neto -0.34 vs -0.33). SC Paderborn 07 juega en casa (~+26% de ventaja, ya contada). Goles esperados: 0.75 – 0.60; el modelo ve marcando más a SC Paderborn 07. En forma reciente pinta algo mejor SC Paderborn 07 (1G-3E-1P vs 0G-2E-3P en 5).",
     "recomendacion": {
      "mercado": "Menos de 2.5 goles",
-     "prob": 0.847,
+     "prob": 0.846,
      "por_que": "Pocos goles esperados en total (0.75 + 0.60 = 1.34); la defensa de FC Schalke 04 aprieta. El modelo ve el partido cerrado (85% al under).",
      "alternativa": {
       "mercado": "Menos de 3.5 goles",
@@ -614,14 +614,14 @@
      "ataque": -0.187,
      "defensa": -0.104,
      "neto": -0.291,
-     "peso": 28.0,
+     "peso": 27.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.777,
      "defensa": 0.338,
      "neto": 1.116,
-     "peso": 42.0,
+     "peso": 41.9,
      "fiable": true
     },
     "forma_local": {
@@ -692,19 +692,19 @@
    "local": "Leeds United FC",
    "visitante": "Coventry City FC",
    "prediccion": {
-    "prob_1": 0.576,
+    "prob_1": 0.575,
     "prob_X": 0.234,
     "prob_2": 0.19,
     "goles_esperados": [
-     1.926,
-     1.027
+     1.925,
+     1.028
     ],
     "prob_over_2_5": 0.566,
     "prob_btts": 0.556,
     "marcadores": [
      [
       "1-1",
-      0.1108
+      0.1109
      ],
      [
       "2-1",
@@ -717,7 +717,7 @@
     ],
     "cuotas_justas": [
      1.74,
-     4.27,
+     4.26,
      5.26
     ],
     "resumen": "Gana Leeds United FC (claro favorito, 58%).",
@@ -728,11 +728,11 @@
      "ataque": 0.01,
      "defensa": 0.193,
      "neto": 0.204,
-     "peso": 30.8,
+     "peso": 30.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.0,
+     "ataque": 0.0,
      "defensa": -0.23,
      "neto": -0.23,
      "peso": 10.0,
@@ -795,15 +795,15 @@
     "prob_X": 0.252,
     "prob_2": 0.36,
     "goles_esperados": [
-     1.607,
-     1.542
+     1.606,
+     1.541
     ],
     "prob_over_2_5": 0.609,
     "prob_btts": 0.636,
     "marcadores": [
      [
       "1-1",
-      0.1141
+      0.1142
      ],
      [
       "2-1",
@@ -827,14 +827,14 @@
      "ataque": 0.147,
      "defensa": -0.018,
      "neto": 0.13,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.194,
      "defensa": 0.088,
-     "neto": 0.283,
-     "peso": 46.5,
+     "neto": 0.282,
+     "peso": 46.4,
      "fiable": true
     },
     "forma_local": {
@@ -930,11 +930,11 @@
     "prob_X": 0.283,
     "prob_2": 0.513,
     "goles_esperados": [
-     0.782,
+     0.783,
      1.407
     ],
-    "prob_over_2_5": 0.374,
-    "prob_btts": 0.414,
+    "prob_over_2_5": 0.375,
+    "prob_btts": 0.415,
     "marcadores": [
      [
       "0-1",
@@ -959,9 +959,9 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.445,
+     "ataque": -0.444,
      "defensa": -0.196,
-     "neto": -0.641,
+     "neto": -0.64,
      "peso": 11.7,
      "fiable": true
     },
@@ -969,7 +969,7 @@
      "ataque": 0.046,
      "defensa": 0.179,
      "neto": 0.225,
-     "peso": 47.5,
+     "peso": 47.4,
      "fiable": true
     },
     "forma_local": {
@@ -1041,7 +1041,7 @@
      ],
      [
       "1-1",
-      0.1182
+      0.1183
      ],
      [
       "0-2",
@@ -1068,7 +1068,7 @@
      "ataque": 0.216,
      "defensa": 0.207,
      "neto": 0.423,
-     "peso": 42.6,
+     "peso": 42.5,
      "fiable": true
     },
     "forma_local": {
@@ -1134,7 +1134,7 @@
     "explicacion": "Racing Club de Lens es más fuerte de fondo (neto +0.42 vs -0.49): ataca ~24% más que el promedio, encaja ~19% menos. Angers SCO juega en casa (~+22% de ventaja, ya contada). Goles esperados: 0.82 – 1.67; el modelo ve marcando más a Racing Club de Lens. Y la forma reciente lo confirma: Racing Club de Lens llega mejor (2G-1E-2P vs 0G-1E-4P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.823,
+     "prob": 0.822,
      "por_que": "Doble oportunidad: cubre que Angers SCO no gane. El escenario que queda afuera (gane Angers SCO) es el menos probable (18%), así que el mercado se cumple ~82% de las veces.",
      "alternativa": {
       "mercado": "2",
@@ -1157,7 +1157,7 @@
     "prob_X": 0.262,
     "prob_2": 0.49,
     "goles_esperados": [
-     0.987,
+     0.988,
      1.5
     ],
     "prob_over_2_5": 0.453,
@@ -1189,14 +1189,14 @@
      "ataque": -0.067,
      "defensa": -0.046,
      "neto": -0.113,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.193,
      "defensa": 0.221,
      "neto": 0.414,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "forma_local": {
@@ -1321,14 +1321,14 @@
      "ataque": 0.309,
      "defensa": 0.12,
      "neto": 0.429,
-     "peso": 42.0,
+     "peso": 41.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.182,
      "defensa": -0.073,
      "neto": 0.109,
-     "peso": 42.0,
+     "peso": 41.9,
      "fiable": true
     },
     "forma_local": {
@@ -1425,14 +1425,14 @@
     "prob_2": 0.539,
     "goles_esperados": [
      1.276,
-     2.019
+     2.018
     ],
-    "prob_over_2_5": 0.64,
+    "prob_over_2_5": 0.639,
     "prob_btts": 0.632,
     "marcadores": [
      [
       "1-1",
-      0.1025
+      0.1026
      ],
      [
       "1-2",
@@ -1455,15 +1455,15 @@
     "fuerza_local": {
      "ataque": -0.107,
      "defensa": -0.328,
-     "neto": -0.435,
-     "peso": 20.5,
+     "neto": -0.434,
+     "peso": 20.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.154,
      "defensa": 0.064,
      "neto": 0.218,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {
@@ -1577,7 +1577,7 @@
      "ataque": 0.367,
      "defensa": 0.332,
      "neto": 0.699,
-     "peso": 48.4,
+     "peso": 48.3,
      "fiable": true
     },
     "forma_local": {
@@ -1688,7 +1688,7 @@
      "ataque": -0.105,
      "defensa": 0.06,
      "neto": -0.045,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "forma_local": {
@@ -1823,7 +1823,7 @@
      "ataque": 0.069,
      "defensa": 0.399,
      "neto": 0.468,
-     "peso": 42.6,
+     "peso": 42.5,
      "fiable": true
     },
     "forma_local": {
@@ -1901,7 +1901,7 @@
     ],
     "cuotas_justas": [
      1.84,
-     3.97,
+     3.96,
      4.91
     ],
     "resumen": "Gana OGC Nice (ligero favorito, 54%).",
@@ -1912,12 +1912,12 @@
      "ataque": 0.056,
      "defensa": 0.023,
      "neto": 0.079,
-     "peso": 42.6,
+     "peso": 42.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.253,
-     "defensa": -0.056,
+     "defensa": -0.055,
      "neto": -0.308,
      "peso": 10.0,
      "fiable": true
@@ -2008,14 +2008,14 @@
      "ataque": -0.235,
      "defensa": -0.132,
      "neto": -0.367,
-     "peso": 42.6,
+     "peso": 42.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.207,
      "defensa": -0.031,
      "neto": 0.175,
-     "peso": 42.6,
+     "peso": 42.5,
      "fiable": true
     },
     "forma_local": {
@@ -2143,7 +2143,7 @@
      "ataque": 0.541,
      "defensa": 0.387,
      "neto": 0.928,
-     "peso": 42.6,
+     "peso": 42.5,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2271,14 +2271,14 @@
      "ataque": 0.553,
      "defensa": 0.44,
      "neto": 0.993,
-     "peso": 48.4,
+     "peso": 48.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.041,
+     "ataque": -0.04,
      "defensa": 0.04,
      "neto": -0.0,
-     "peso": 48.4,
+     "peso": 48.3,
      "fiable": true
     },
     "forma_local": {

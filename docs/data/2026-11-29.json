@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-29",
- "actualizado": "2026-11-24T16:46:51+00:00",
+ "actualizado": "2026-11-25T16:33:45+00:00",
  "partidos": [
   {
    "id": 558517,
@@ -47,14 +47,14 @@
      "ataque": -0.071,
      "defensa": -0.099,
      "neto": -0.17,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.096,
      "defensa": -0.059,
      "neto": 0.038,
-     "peso": 47.8,
+     "peso": 47.7,
      "fiable": true
     },
     "forma_local": {
@@ -150,7 +150,7 @@
     "prob_X": 0.278,
     "prob_2": 0.454,
     "goles_esperados": [
-     1.084,
+     1.083,
      1.48
     ],
     "prob_over_2_5": 0.472,
@@ -182,14 +182,14 @@
      "ataque": -0.129,
      "defensa": 0.161,
      "neto": 0.032,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.332,
      "defensa": 0.206,
      "neto": 0.538,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "forma_local": {
@@ -290,7 +290,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1332
+      0.1333
      ],
      [
       "1-0",
@@ -314,14 +314,14 @@
      "ataque": -0.105,
      "defensa": 0.038,
      "neto": -0.067,
-     "peso": 48.5,
+     "peso": 48.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.053,
      "defensa": -0.034,
      "neto": -0.087,
-     "peso": 48.4,
+     "peso": 48.3,
      "fiable": true
     },
     "forma_local": {
@@ -446,14 +446,14 @@
      "ataque": 0.03,
      "defensa": -0.24,
      "neto": -0.21,
-     "peso": 37.2,
+     "peso": 37.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.219,
      "defensa": 0.315,
      "neto": 0.534,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "forma_local": {
@@ -574,14 +574,14 @@
      "ataque": -0.091,
      "defensa": -0.046,
      "neto": -0.137,
-     "peso": 37.9,
+     "peso": 37.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.365,
      "defensa": 0.038,
      "neto": 0.403,
-     "peso": 42.6,
+     "peso": 42.5,
      "fiable": true
     },
     "forma_local": {
@@ -647,7 +647,7 @@
     "explicacion": "Olympique de Marseille es más fuerte de fondo (neto +0.40 vs -0.14): ataca ~44% más que el promedio. AJ Auxerre juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.31 – 1.84; el modelo ve marcando más a Olympique de Marseille. Y la forma reciente lo confirma: Olympique de Marseille llega mejor (4G-0E-1P vs 1G-2E-2P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.73,
+     "prob": 0.731,
      "por_que": "Doble oportunidad: cubre que AJ Auxerre no gane. El escenario que queda afuera (gane AJ Auxerre) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -702,14 +702,14 @@
      "ataque": -0.069,
      "defensa": 0.118,
      "neto": 0.049,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.148,
      "defensa": 0.096,
      "neto": 0.245,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "forma_local": {
@@ -802,7 +802,7 @@
     "prob_X": 0.239,
     "prob_2": 0.245,
     "goles_esperados": [
-     1.899,
+     1.898,
      1.256
     ],
     "prob_over_2_5": 0.611,
@@ -818,7 +818,7 @@
      ],
      [
       "2-0",
-      0.0768
+      0.0769
      ]
     ],
     "cuotas_justas": [
@@ -834,14 +834,14 @@
      "ataque": 0.228,
      "defensa": 0.178,
      "neto": 0.406,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.185,
      "defensa": 0.002,
      "neto": 0.187,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "forma_local": {
@@ -915,7 +915,7 @@
     "recomendacion": {
      "mercado": "Más de 1.5 goles",
      "prob": 0.83,
-     "por_que": "Bastantes goles esperados (1.90 + 1.26 = 3.16). Probabilidad al over: 83%.",
+     "por_que": "Bastantes goles esperados (1.90 + 1.26 = 3.15). Probabilidad al over: 83%.",
      "alternativa": {
       "mercado": "1X",
       "prob": 0.755
@@ -949,11 +949,11 @@
      ],
      [
       "0-0",
-      0.1082
+      0.1083
      ],
      [
       "1-0",
-      0.1076
+      0.1075
      ]
     ],
     "cuotas_justas": [
@@ -969,14 +969,14 @@
      "ataque": -0.233,
      "defensa": 0.116,
      "neto": -0.118,
-     "peso": 30.8,
+     "peso": 30.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.014,
+     "ataque": 0.015,
      "defensa": 0.007,
      "neto": 0.022,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "forma_local": {
@@ -1049,7 +1049,7 @@
    "prediccion": {
     "prob_1": 0.295,
     "prob_X": 0.307,
-    "prob_2": 0.397,
+    "prob_2": 0.398,
     "goles_esperados": [
      1.008,
      1.212
@@ -1089,7 +1089,7 @@
     "fuerza_visitante": {
      "ataque": -0.106,
      "defensa": 0.334,
-     "neto": 0.227,
+     "neto": 0.228,
      "peso": 10.0,
      "fiable": true
     },
@@ -1151,7 +1151,7 @@
     "prob_2": 0.423,
     "goles_esperados": [
      1.554,
-     1.756
+     1.755
     ],
     "prob_over_2_5": 0.642,
     "prob_btts": 0.657,
@@ -1179,17 +1179,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.103,
+     "ataque": 0.102,
      "defensa": 0.078,
      "neto": 0.181,
-     "peso": 42.0,
+     "peso": 41.9,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.395,
+     "ataque": 0.394,
      "defensa": 0.142,
      "neto": 0.537,
-     "peso": 42.0,
+     "peso": 41.9,
      "fiable": true
     },
     "forma_local": {
@@ -1259,11 +1259,11 @@
       "goles_visitante": 4
      }
     ],
-    "explicacion": "RB Leipzig es más fuerte de fondo (neto +0.54 vs +0.18): ataca ~48% más que el promedio, encaja ~13% menos. SC Freiburg juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.55 – 1.76; el modelo ve marcando más a RB Leipzig. Y la forma reciente lo confirma: RB Leipzig llega mejor (4G-0E-1P vs 3G-0E-2P).",
+    "explicacion": "RB Leipzig es más fuerte de fondo (neto +0.54 vs +0.18): ataca ~48% más que el promedio, encaja ~13% menos. SC Freiburg juega en casa (~+26% de ventaja, ya contada). Goles esperados: 1.55 – 1.75; el modelo ve marcando más a RB Leipzig. Y la forma reciente lo confirma: RB Leipzig llega mejor (4G-0E-1P vs 3G-0E-2P).",
     "recomendacion": {
      "mercado": "Ambos marcan: Sí",
      "prob": 0.657,
-     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.55 y 1.76. Probabilidad: 66%.",
+     "por_que": "El modelo espera que los dos equipos marquen: goles esperados 1.55 y 1.75. Probabilidad: 66%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
       "prob": 0.847
@@ -1324,7 +1324,7 @@
      "ataque": 0.816,
      "defensa": 0.274,
      "neto": 1.09,
-     "peso": 48.4,
+     "peso": 48.3,
      "fiable": true
     },
     "forma_local": {
@@ -1414,7 +1414,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.052,
-     "defensa": 0.088,
+     "defensa": 0.087,
      "neto": 0.139,
      "peso": 41.8,
      "fiable": true
@@ -1423,7 +1423,7 @@
      "ataque": 0.283,
      "defensa": -0.074,
      "neto": 0.208,
-     "peso": 42.6,
+     "peso": 42.5,
      "fiable": true
     },
     "forma_local": {
@@ -1551,14 +1551,14 @@
      "ataque": 0.183,
      "defensa": -0.086,
      "neto": 0.097,
-     "peso": 42.0,
+     "peso": 41.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.039,
      "defensa": -0.066,
      "neto": -0.027,
-     "peso": 42.0,
+     "peso": 41.9,
      "fiable": true
     },
     "forma_local": {
@@ -1666,11 +1666,11 @@
      ],
      [
       "1-0",
-      0.1179
+      0.1178
      ],
      [
       "2-0",
-      0.0947
+      0.0946
      ]
     ],
     "cuotas_justas": [
@@ -1686,11 +1686,11 @@
      "ataque": 0.31,
      "defensa": 0.646,
      "neto": 0.956,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.398,
+     "ataque": 0.397,
      "defensa": 0.325,
      "neto": 0.723,
      "peso": 46.5,
@@ -1820,15 +1820,15 @@
     "fuerza_local": {
      "ataque": 0.439,
      "defensa": 0.352,
-     "neto": 0.791,
-     "peso": 47.7,
+     "neto": 0.79,
+     "peso": 47.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.028,
      "defensa": -0.291,
-     "neto": -0.319,
-     "peso": 26.7,
+     "neto": -0.318,
+     "peso": 26.6,
      "fiable": true
     },
     "forma_local": {
@@ -1949,14 +1949,14 @@
      "ataque": 0.048,
      "defensa": 0.112,
      "neto": 0.16,
-     "peso": 48.4,
+     "peso": 48.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.369,
      "defensa": 0.074,
      "neto": 0.443,
-     "peso": 48.5,
+     "peso": 48.4,
      "fiable": true
     },
     "forma_local": {
@@ -2084,7 +2084,7 @@
      "ataque": 0.295,
      "defensa": 0.404,
      "neto": 0.699,
-     "peso": 42.0,
+     "peso": 41.9,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -2219,14 +2219,14 @@
      "ataque": 0.261,
      "defensa": 0.36,
      "neto": 0.622,
-     "peso": 42.5,
+     "peso": 42.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.223,
      "defensa": 0.339,
      "neto": 0.562,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "forma_local": {
@@ -2347,14 +2347,14 @@
      "ataque": 0.197,
      "defensa": 0.201,
      "neto": 0.398,
-     "peso": 42.6,
+     "peso": 42.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.251,
      "defensa": 0.087,
      "neto": 0.338,
-     "peso": 42.5,
+     "peso": 42.4,
      "fiable": true
     },
     "forma_local": {
@@ -2482,14 +2482,14 @@
      "ataque": 0.186,
      "defensa": -0.065,
      "neto": 0.121,
-     "peso": 48.4,
+     "peso": 48.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.027,
      "defensa": -0.047,
      "neto": -0.019,
-     "peso": 48.4,
+     "peso": 48.3,
      "fiable": true
     },
     "forma_local": {
