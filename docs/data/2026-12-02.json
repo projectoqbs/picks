@@ -1,6 +1,6 @@
 {
  "fecha": "2026-12-02",
- "actualizado": "2026-11-25T16:33:45+00:00",
+ "actualizado": "2026-11-26T16:06:55+00:00",
  "partidos": [
   {
    "id": 564855,
@@ -47,14 +47,14 @@
      "ataque": 0.186,
      "defensa": -0.065,
      "neto": 0.121,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.553,
      "defensa": 0.44,
      "neto": 0.993,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "forma_local": {
@@ -146,7 +146,7 @@
    "local": "Liverpool FC",
    "visitante": "Sunderland AFC",
    "prediccion": {
-    "prob_1": 0.621,
+    "prob_1": 0.62,
     "prob_X": 0.233,
     "prob_2": 0.147,
     "goles_esperados": [
@@ -181,8 +181,8 @@
     "fuerza_local": {
      "ataque": 0.332,
      "defensa": 0.206,
-     "neto": 0.538,
-     "peso": 46.4,
+     "neto": 0.537,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -245,7 +245,7 @@
      "por_que": "Doble oportunidad: cubre que Liverpool FC no pierda. El escenario que queda afuera (gane Sunderland AFC) es el menos probable (15%), así que el mercado se cumple ~85% de las veces.",
      "alternativa": {
       "mercado": "1",
-      "prob": 0.621
+      "prob": 0.62
      },
      "confianza": "alta"
     }
@@ -262,10 +262,10 @@
    "prediccion": {
     "prob_1": 0.437,
     "prob_X": 0.314,
-    "prob_2": 0.248,
+    "prob_2": 0.249,
     "goles_esperados": [
      1.22,
-     0.852
+     0.853
     ],
     "prob_over_2_5": 0.343,
     "prob_btts": 0.414,
@@ -276,11 +276,11 @@
      ],
      [
       "1-1",
-      0.1406
+      0.1405
      ],
      [
       "0-0",
-      0.1355
+      0.1354
      ]
     ],
     "cuotas_justas": [
@@ -294,8 +294,8 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.106,
-     "defensa": 0.334,
-     "neto": 0.228,
+     "defensa": 0.333,
+     "neto": 0.227,
      "peso": 10.0,
      "fiable": true
     },
@@ -303,7 +303,7 @@
      "ataque": -0.047,
      "defensa": 0.11,
      "neto": 0.063,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {
@@ -395,14 +395,14 @@
      "ataque": 0.231,
      "defensa": 0.008,
      "neto": 0.24,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.074,
      "defensa": -0.078,
      "neto": -0.151,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "forma_local": {
@@ -530,7 +530,7 @@
      "ataque": 0.397,
      "defensa": 0.325,
      "neto": 0.723,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -616,7 +616,7 @@
      1.028
     ],
     "prob_over_2_5": 0.464,
-    "prob_btts": 0.508,
+    "prob_btts": 0.509,
     "marcadores": [
      [
       "1-1",
@@ -624,7 +624,7 @@
      ],
      [
       "1-0",
-      0.1106
+      0.1105
      ],
      [
       "2-1",
@@ -651,7 +651,7 @@
      "ataque": -0.129,
      "defensa": 0.161,
      "neto": 0.032,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {
@@ -747,7 +747,7 @@
      0.964,
      1.557
     ],
-    "prob_over_2_5": 0.462,
+    "prob_over_2_5": 0.461,
     "prob_btts": 0.497,
     "marcadores": [
      [
@@ -775,15 +775,15 @@
     "fuerza_local": {
      "ataque": 0.194,
      "defensa": 0.088,
-     "neto": 0.282,
-     "peso": 46.4,
+     "neto": 0.283,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.31,
      "defensa": 0.646,
      "neto": 0.956,
-     "peso": 46.3,
+     "peso": 46.2,
      "fiable": true
     },
     "forma_local": {
@@ -908,14 +908,14 @@
      "ataque": 0.185,
      "defensa": 0.002,
      "neto": 0.187,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.147,
      "defensa": -0.018,
      "neto": 0.13,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {
@@ -1014,7 +1014,7 @@
      1.47,
      1.423
     ],
-    "prob_over_2_5": 0.552,
+    "prob_over_2_5": 0.553,
     "prob_btts": 0.593,
     "marcadores": [
      [
@@ -1043,14 +1043,14 @@
      "ataque": 0.148,
      "defensa": 0.096,
      "neto": 0.245,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.228,
      "defensa": 0.178,
      "neto": 0.406,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {
@@ -1162,12 +1162,12 @@
      ],
      [
       "2-0",
-      0.0782
+      0.0781
      ]
     ],
     "cuotas_justas": [
      1.59,
-     5.18,
+     5.17,
      5.58
     ],
     "resumen": "Gana FC Barcelona (claro favorito, 63%). se esperan goles (+2.5). ambos marcan.",
@@ -1178,14 +1178,14 @@
      "ataque": 0.816,
      "defensa": 0.274,
      "neto": 1.09,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.367,
      "defensa": 0.332,
      "neto": 0.699,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "forma_local": {

@@ -1,6 +1,6 @@
 {
  "fecha": "2026-12-03",
- "actualizado": "2026-11-25T16:33:45+00:00",
+ "actualizado": "2026-11-26T16:06:55+00:00",
  "partidos": [
   {
    "id": 560662,
@@ -16,14 +16,14 @@
     "prob_2": 0.307,
     "goles_esperados": [
      1.366,
-     1.155
+     1.156
     ],
     "prob_over_2_5": 0.462,
     "prob_btts": 0.52,
     "marcadores": [
      [
       "1-1",
-      0.1362
+      0.1361
      ],
      [
       "1-0",
@@ -44,10 +44,10 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.015,
+     "ataque": 0.014,
      "defensa": 0.007,
      "neto": 0.022,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {

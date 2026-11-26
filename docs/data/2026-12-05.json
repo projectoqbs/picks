@@ -1,6 +1,6 @@
 {
  "fecha": "2026-12-05",
- "actualizado": "2026-11-25T16:33:45+00:00",
+ "actualizado": "2026-11-26T16:06:55+00:00",
  "partidos": [
   {
    "id": 560676,
@@ -23,7 +23,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1085
+      0.1084
      ],
      [
       "1-2",
@@ -47,14 +47,14 @@
      "ataque": 0.231,
      "defensa": 0.008,
      "neto": 0.24,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.332,
      "defensa": 0.206,
-     "neto": 0.538,
-     "peso": 46.4,
+     "neto": 0.537,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {
@@ -151,7 +151,7 @@
     "prob_2": 0.39,
     "goles_esperados": [
      1.753,
-     1.775
+     1.774
     ],
     "prob_over_2_5": 0.684,
     "prob_btts": 0.69,
@@ -180,7 +180,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.204,
-     "defensa": -0.495,
+     "defensa": -0.494,
      "neto": -0.29,
      "peso": 11.7,
      "fiable": true
@@ -249,7 +249,7 @@
     "prob_X": 0.205,
     "prob_2": 0.641,
     "goles_esperados": [
-     0.893,
+     0.894,
      2.05
     ],
     "prob_over_2_5": 0.564,
@@ -279,7 +279,7 @@
    "analisis": {
     "fuerza_local": {
      "ataque": -0.028,
-     "defensa": -0.291,
+     "defensa": -0.29,
      "neto": -0.318,
      "peso": 26.6,
      "fiable": true
@@ -288,7 +288,7 @@
      "ataque": 0.261,
      "defensa": 0.36,
      "neto": 0.622,
-     "peso": 42.4,
+     "peso": 42.3,
      "fiable": true
     },
     "forma_local": {
@@ -395,7 +395,7 @@
      "ataque": -0.225,
      "defensa": -0.087,
      "neto": -0.312,
-     "peso": 41.7,
+     "peso": 41.6,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -499,15 +499,15 @@
     "fuerza_local": {
      "ataque": 0.392,
      "defensa": 0.163,
-     "neto": 0.556,
-     "peso": 42.0,
+     "neto": 0.555,
+     "peso": 41.9,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.038,
      "defensa": -0.109,
      "neto": -0.147,
-     "peso": 41.9,
+     "peso": 41.8,
      "fiable": true
     },
     "forma_local": {
@@ -635,14 +635,14 @@
      "ataque": 0.394,
      "defensa": 0.142,
      "neto": 0.537,
-     "peso": 41.9,
+     "peso": 41.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.045,
      "defensa": 0.008,
      "neto": 0.053,
-     "peso": 41.9,
+     "peso": 41.8,
      "fiable": true
     },
     "forma_local": {
@@ -770,14 +770,14 @@
      "ataque": 0.102,
      "defensa": 0.078,
      "neto": 0.181,
-     "peso": 41.9,
+     "peso": 41.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.183,
      "defensa": -0.086,
      "neto": 0.097,
-     "peso": 41.9,
+     "peso": 41.8,
      "fiable": true
     },
     "forma_local": {
@@ -873,7 +873,7 @@
     "prob_X": 0.244,
     "prob_2": 0.257,
     "goles_esperados": [
-     1.765,
+     1.764,
      1.21
     ],
     "prob_over_2_5": 0.571,
@@ -905,7 +905,7 @@
      "ataque": 0.039,
      "defensa": -0.066,
      "neto": -0.027,
-     "peso": 41.9,
+     "peso": 41.8,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -997,11 +997,11 @@
    "local": "Manchester United FC",
    "visitante": "Coventry City FC",
    "prediccion": {
-    "prob_1": 0.58,
+    "prob_1": 0.581,
     "prob_X": 0.213,
     "prob_2": 0.206,
     "goles_esperados": [
-     2.207,
+     2.208,
      1.269
     ],
     "prob_over_2_5": 0.675,
@@ -1023,7 +1023,7 @@
     "cuotas_justas": [
      1.72,
      4.68,
-     4.85
+     4.86
     ],
     "resumen": "Gana Manchester United FC (claro favorito, 58%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -1033,11 +1033,11 @@
      "ataque": 0.147,
      "defensa": -0.018,
      "neto": 0.13,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.0,
+     "ataque": -0.001,
      "defensa": -0.23,
      "neto": -0.23,
      "peso": 10.0,
@@ -1100,7 +1100,7 @@
     "prob_X": 0.211,
     "prob_2": 0.146,
     "goles_esperados": [
-     2.123,
+     2.124,
      0.924
     ],
     "prob_over_2_5": 0.587,
@@ -1138,7 +1138,7 @@
     "fuerza_visitante": {
      "ataque": -0.107,
      "defensa": -0.328,
-     "neto": -0.434,
+     "neto": -0.435,
      "peso": 20.4,
      "fiable": true
     },
@@ -1197,10 +1197,10 @@
    "prediccion": {
     "prob_1": 0.408,
     "prob_X": 0.302,
-    "prob_2": 0.29,
+    "prob_2": 0.289,
     "goles_esperados": [
-     1.258,
-     1.019
+     1.259,
+     1.018
     ],
     "prob_over_2_5": 0.398,
     "prob_btts": 0.467,
@@ -1231,13 +1231,13 @@
      "ataque": 0.148,
      "defensa": 0.096,
      "neto": 0.245,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.106,
-     "defensa": 0.334,
-     "neto": 0.228,
+     "defensa": 0.333,
+     "neto": 0.227,
      "peso": 10.0,
      "fiable": true
     },
@@ -1337,7 +1337,7 @@
      "ataque": -0.074,
      "defensa": -0.078,
      "neto": -0.151,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "forma_local": {
@@ -1433,10 +1433,10 @@
     "prob_X": 0.273,
     "prob_2": 0.277,
     "goles_esperados": [
-     1.445,
+     1.444,
      1.076
     ],
-    "prob_over_2_5": 0.462,
+    "prob_over_2_5": 0.461,
     "prob_btts": 0.508,
     "marcadores": [
      [
@@ -1472,7 +1472,7 @@
      "ataque": 0.069,
      "defensa": -0.101,
      "neto": -0.032,
-     "peso": 32.8,
+     "peso": 32.7,
      "fiable": true
     },
     "forma_local": {
@@ -1521,7 +1521,7 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "En fuerza de temporada están parejos (neto -0.02 vs -0.03). Rayo Vallecano de Madrid juega en casa (~+32% de ventaja, ya contada). Goles esperados: 1.45 – 1.08; el modelo ve marcando más a Rayo Vallecano de Madrid. También parejos en forma (1G-1E-3P vs 1G-2E-2P en 5).",
+    "explicacion": "En fuerza de temporada están parejos (neto -0.02 vs -0.03). Rayo Vallecano de Madrid juega en casa (~+32% de ventaja, ya contada). Goles esperados: 1.44 – 1.08; el modelo ve marcando más a Rayo Vallecano de Madrid. También parejos en forma (1G-1E-3P vs 1G-2E-2P en 5).",
     "recomendacion": null
    }
   },
@@ -1554,7 +1554,7 @@
      ],
      [
       "1-1",
-      0.1156
+      0.1155
      ]
     ],
     "cuotas_justas": [
@@ -1570,7 +1570,7 @@
      "ataque": 0.069,
      "defensa": 0.399,
      "neto": 0.468,
-     "peso": 42.5,
+     "peso": 42.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -1670,7 +1670,7 @@
      2.845
     ],
     "prob_over_2_5": 0.8,
-    "prob_btts": 0.719,
+    "prob_btts": 0.718,
     "marcadores": [
      [
       "1-2",
@@ -1698,14 +1698,14 @@
      "ataque": 0.344,
      "defensa": -0.237,
      "neto": 0.107,
-     "peso": 16.2,
+     "peso": 16.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.643,
      "defensa": 0.258,
      "neto": 0.9,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "forma_local": {
@@ -1788,7 +1788,7 @@
     "marcadores": [
      [
       "1-1",
-      0.1009
+      0.101
      ],
      [
       "2-1",
@@ -1812,14 +1812,14 @@
      "ataque": 0.182,
      "defensa": -0.073,
      "neto": 0.109,
-     "peso": 41.9,
+     "peso": 41.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.009,
      "defensa": 0.0,
      "neto": 0.009,
-     "peso": 41.9,
+     "peso": 41.8,
      "fiable": true
     },
     "forma_local": {
@@ -1931,7 +1931,7 @@
      ],
      [
       "1-2",
-      0.0873
+      0.0874
      ]
     ],
     "cuotas_justas": [
@@ -1947,14 +1947,14 @@
      "ataque": -0.047,
      "defensa": 0.11,
      "neto": 0.063,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.228,
      "defensa": 0.178,
      "neto": 0.406,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {
@@ -2069,7 +2069,7 @@
     "cuotas_justas": [
      1.67,
      4.92,
-     5.08
+     5.07
     ],
     "resumen": "Gana Villarreal CF (claro favorito, 60%). se esperan goles (+2.5). ambos marcan.",
     "confianza": "alta"
@@ -2077,16 +2077,16 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.369,
-     "defensa": 0.074,
+     "defensa": 0.073,
      "neto": 0.443,
-     "peso": 48.4,
+     "peso": 48.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.186,
      "defensa": -0.065,
      "neto": 0.121,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "forma_local": {
@@ -2212,16 +2212,16 @@
    "analisis": {
     "fuerza_local": {
      "ataque": 0.219,
-     "defensa": 0.315,
+     "defensa": 0.314,
      "neto": 0.534,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.372,
      "defensa": -0.107,
      "neto": -0.478,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "forma_local": {
@@ -2356,7 +2356,7 @@
      "ataque": -0.398,
      "defensa": -0.094,
      "neto": -0.492,
-     "peso": 37.9,
+     "peso": 37.8,
      "fiable": true
     },
     "forma_local": {
@@ -2446,7 +2446,7 @@
     "prob_2": 0.123,
     "goles_esperados": [
      2.116,
-     0.786
+     0.785
     ],
     "prob_over_2_5": 0.554,
     "prob_btts": 0.482,
@@ -2477,14 +2477,14 @@
      "ataque": 0.216,
      "defensa": 0.207,
      "neto": 0.423,
-     "peso": 42.5,
+     "peso": 42.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.235,
      "defensa": -0.132,
      "neto": -0.367,
-     "peso": 42.5,
+     "peso": 42.4,
      "fiable": true
     },
     "forma_local": {
@@ -2612,14 +2612,14 @@
      "ataque": 0.207,
      "defensa": -0.031,
      "neto": 0.175,
-     "peso": 42.5,
+     "peso": 42.4,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.059,
      "defensa": 0.095,
      "neto": 0.036,
-     "peso": 33.2,
+     "peso": 33.1,
      "fiable": true
     },
     "forma_local": {
@@ -2803,11 +2803,11 @@
    "local": "Brentford FC",
    "visitante": "Manchester City FC",
    "prediccion": {
-    "prob_1": 0.292,
-    "prob_X": 0.254,
+    "prob_1": 0.293,
+    "prob_X": 0.253,
     "prob_2": 0.454,
     "goles_esperados": [
-     1.328,
+     1.329,
      1.699
     ],
     "prob_over_2_5": 0.583,
@@ -2823,7 +2823,7 @@
      ],
      [
       "0-1",
-      0.0743
+      0.0742
      ]
     ],
     "cuotas_justas": [
@@ -2838,15 +2838,15 @@
     "fuerza_local": {
      "ataque": 0.194,
      "defensa": 0.088,
-     "neto": 0.282,
-     "peso": 46.4,
+     "neto": 0.283,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.397,
      "defensa": 0.325,
      "neto": 0.723,
-     "peso": 46.5,
+     "peso": 46.4,
      "fiable": true
     },
     "forma_local": {
@@ -2919,7 +2919,7 @@
     "explicacion": "Manchester City FC es más fuerte de fondo (neto +0.72 vs +0.28): ataca ~49% más que el promedio, encaja ~28% menos. Brentford FC juega en casa (~+21% de ventaja, ya contada). Goles esperados: 1.33 – 1.70; el modelo ve marcando más a Manchester City FC. Pero ojo: en forma reciente Brentford FC llega mejor que Manchester City FC, así que puede estar más cerca de lo que dice el neto.",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.708,
+     "prob": 0.707,
      "por_que": "Doble oportunidad: cubre que Brentford FC no gane. El escenario que queda afuera (gane Brentford FC) es el menos probable (29%), así que el mercado se cumple ~71% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -2942,7 +2942,7 @@
     "prob_X": 0.131,
     "prob_2": 0.079,
     "goles_esperados": [
-     2.952,
+     2.951,
      0.881
     ],
     "prob_over_2_5": 0.736,
@@ -2950,7 +2950,7 @@
     "marcadores": [
      [
       "2-0",
-      0.0943
+      0.0944
      ],
      [
       "3-0",
@@ -2964,7 +2964,7 @@
     "cuotas_justas": [
      1.27,
      7.61,
-     12.61
+     12.6
     ],
     "resumen": "Gana FC Barcelona (claro favorito, 79%). se esperan goles (+2.5).",
     "confianza": "alta"
@@ -2974,14 +2974,14 @@
      "ataque": 0.816,
      "defensa": 0.274,
      "neto": 1.09,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.048,
      "defensa": 0.112,
      "neto": 0.16,
-     "peso": 48.3,
+     "peso": 48.2,
      "fiable": true
     },
     "forma_local": {

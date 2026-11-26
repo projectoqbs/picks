@@ -1,6 +1,6 @@
 {
  "fecha": "2026-11-27",
- "actualizado": "2026-11-25T16:33:45+00:00",
+ "actualizado": "2026-11-26T16:06:55+00:00",
  "partidos": [
   {
    "id": 565869,
@@ -47,14 +47,14 @@
      "ataque": 0.009,
      "defensa": 0.0,
      "neto": 0.009,
-     "peso": 41.9,
+     "peso": 41.8,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.038,
      "defensa": -0.109,
      "neto": -0.147,
-     "peso": 41.9,
+     "peso": 41.8,
      "fiable": true
     },
     "forma_local": {
@@ -181,15 +181,15 @@
     "fuerza_local": {
      "ataque": -0.369,
      "defensa": -0.186,
-     "neto": -0.556,
-     "peso": 21.4,
+     "neto": -0.555,
+     "peso": 21.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.119,
      "defensa": 0.118,
      "neto": 0.236,
-     "peso": 47.7,
+     "peso": 47.6,
      "fiable": true
     },
     "forma_local": {
@@ -296,7 +296,7 @@
      "ataque": 0.103,
      "defensa": 0.011,
      "neto": 0.114,
-     "peso": 42.5,
+     "peso": 42.4,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -379,9 +379,9 @@
     "prob_2": 0.36,
     "goles_esperados": [
      1.434,
-     1.408
+     1.409
     ],
-    "prob_over_2_5": 0.54,
+    "prob_over_2_5": 0.541,
     "prob_btts": 0.584,
     "marcadores": [
      [
@@ -400,7 +400,7 @@
     "cuotas_justas": [
      2.69,
      3.73,
-     2.78
+     2.77
     ],
     "resumen": "Partido parejo. ambos marcan.",
     "confianza": "alta"
@@ -410,14 +410,14 @@
      "ataque": -0.047,
      "defensa": 0.11,
      "neto": 0.063,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.231,
      "defensa": 0.008,
      "neto": 0.24,
-     "peso": 46.4,
+     "peso": 46.3,
      "fiable": true
     },
     "forma_local": {
@@ -545,12 +545,12 @@
      "ataque": 0.069,
      "defensa": -0.101,
      "neto": -0.032,
-     "peso": 32.8,
+     "peso": 32.7,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.204,
-     "defensa": -0.495,
+     "defensa": -0.494,
      "neto": -0.29,
      "peso": 11.7,
      "fiable": true
@@ -593,7 +593,7 @@
      "por_que": "Bastantes goles esperados (2.56 + 1.50 = 4.06); al menos una defensa floja. Probabilidad al over: 77%.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
-      "prob": 0.916
+      "prob": 0.915
      },
      "confianza": "alta"
     }
