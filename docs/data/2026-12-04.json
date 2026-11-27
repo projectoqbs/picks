@@ -1,6 +1,6 @@
 {
  "fecha": "2026-12-04",
- "actualizado": "2026-11-26T16:06:55+00:00",
+ "actualizado": "2026-11-27T15:54:42+00:00",
  "partidos": [
   {
    "id": 565882,
@@ -16,7 +16,7 @@
     "prob_2": 0.037,
     "goles_esperados": [
      3.259,
-     0.604
+     0.605
     ],
     "prob_over_2_5": 0.741,
     "prob_btts": 0.438,
@@ -31,13 +31,13 @@
      ],
      [
       "4-0",
-      0.0988
+      0.0987
      ]
     ],
     "cuotas_justas": [
      1.15,
      10.92,
-     27.29
+     27.26
     ],
     "resumen": "Gana FC Bayern München (claro favorito, 87%). se esperan goles (+2.5).",
     "confianza": "alta"
@@ -46,8 +46,8 @@
     "fuerza_local": {
      "ataque": 0.777,
      "defensa": 0.338,
-     "neto": 1.116,
-     "peso": 41.8,
+     "neto": 1.115,
+     "peso": 41.7,
      "fiable": true
     },
     "fuerza_visitante": {
@@ -88,11 +88,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.12 vs -0.34): ataca ~117% más que el promedio, encaja ~29% menos. FC Bayern München juega en casa (~+26% de ventaja, ya contada). Goles esperados: 3.26 – 0.60; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (3G-2E-0P vs 1G-3E-1P).",
+    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.11 vs -0.34): ataca ~117% más que el promedio, encaja ~29% menos. FC Bayern München juega en casa (~+26% de ventaja, ya contada). Goles esperados: 3.26 – 0.60; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (3G-2E-0P vs 1G-3E-1P).",
     "recomendacion": {
      "mercado": "1",
      "prob": 0.872,
-     "por_que": "FC Bayern München es favorito en casa: marca más (3.26 vs 0.60) y es más fuerte de fondo (neto +1.12 vs -0.34). Probabilidad: 87%.",
+     "por_que": "FC Bayern München es favorito en casa: marca más (3.26 vs 0.60) y es más fuerte de fondo (neto +1.11 vs -0.34). Probabilidad: 87%.",
      "alternativa": {
       "mercado": "1X",
       "prob": 0.963
@@ -146,14 +146,14 @@
      "ataque": 0.119,
      "defensa": 0.118,
      "neto": 0.236,
-     "peso": 47.6,
+     "peso": 47.5,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.439,
-     "defensa": 0.352,
+     "defensa": 0.351,
      "neto": 0.79,
-     "peso": 47.5,
+     "peso": 47.4,
      "fiable": true
     },
     "forma_local": {
@@ -246,7 +246,7 @@
     "prob_X": 0.228,
     "prob_2": 0.569,
     "goles_esperados": [
-     1.069,
+     1.07,
      1.924
     ],
     "prob_over_2_5": 0.575,
@@ -278,14 +278,14 @@
      "ataque": 0.052,
      "defensa": 0.087,
      "neto": 0.139,
-     "peso": 41.7,
+     "peso": 41.6,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": 0.541,
      "defensa": 0.387,
      "neto": 0.928,
-     "peso": 42.5,
+     "peso": 42.4,
      "fiable": true
     },
     "forma_local": {
@@ -397,7 +397,7 @@
      ],
      [
       "0-0",
-      0.1127
+      0.1126
      ]
     ],
     "cuotas_justas": [
@@ -410,17 +410,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.041,
+     "ataque": -0.04,
      "defensa": 0.04,
      "neto": -0.0,
-     "peso": 48.2,
+     "peso": 48.1,
      "fiable": true
     },
     "fuerza_visitante": {
      "ataque": -0.107,
      "defensa": 0.095,
      "neto": -0.012,
-     "peso": 43.1,
+     "peso": 43.0,
      "fiable": true
     },
     "forma_local": {

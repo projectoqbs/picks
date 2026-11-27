@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26T16:06:53+00:00",
+ "actualizado": "2026-11-27T15:54:41+00:00",
  "fixtures": [
   {
    "id": 565869,
@@ -1050,6 +1050,36 @@
    "jornada": 15,
    "local": "Club Atlético de Madrid",
    "visitante": "Real Betis Balompié"
+  },
+  {
+   "id": 558506,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-12-07T17:30:00Z",
+   "estado": "TIMED",
+   "jornada": 14,
+   "local": "Venezia FC",
+   "visitante": "US Sassuolo Calcio"
+  },
+  {
+   "id": 558503,
+   "competicion_codigo": "SA",
+   "competicion": "Serie A",
+   "fecha_utc": "2026-12-07T19:45:00Z",
+   "estado": "TIMED",
+   "jornada": 14,
+   "local": "ACF Fiorentina",
+   "visitante": "Cagliari Calcio"
+  },
+  {
+   "id": 564769,
+   "competicion_codigo": "PD",
+   "competicion": "La Liga",
+   "fecha_utc": "2026-12-07T20:00:00Z",
+   "estado": "TIMED",
+   "jornada": 15,
+   "local": "Sevilla FC",
+   "visitante": "Málaga CF"
   }
  ]
 }

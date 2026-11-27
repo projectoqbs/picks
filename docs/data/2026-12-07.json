@@ -1,0 +1,333 @@
+{
+ "fecha": "2026-12-07",
+ "actualizado": "2026-11-27T15:54:42+00:00",
+ "partidos": [
+  {
+   "id": 558506,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-12-07T17:30:00Z",
+   "jornada": 14,
+   "local": "Venezia FC",
+   "visitante": "US Sassuolo Calcio",
+   "prediccion": {
+    "prob_1": 0.298,
+    "prob_X": 0.261,
+    "prob_2": 0.441,
+    "goles_esperados": [
+     1.158,
+     1.465
+    ],
+    "prob_over_2_5": 0.487,
+    "prob_btts": 0.529,
+    "marcadores": [
+     [
+      "1-1",
+      0.1243
+     ],
+     [
+      "0-1",
+      0.1052
+     ],
+     [
+      "1-2",
+      0.0902
+     ]
+    ],
+    "cuotas_justas": [
+     3.35,
+     3.83,
+     2.27
+    ],
+    "resumen": "Gana US Sassuolo Calcio (ligero favorito, 44%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": -0.369,
+     "defensa": -0.186,
+     "neto": -0.555,
+     "peso": 21.3,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": 0.03,
+     "defensa": -0.24,
+     "neto": -0.211,
+     "peso": 37.0,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 2,
+     "gc": 9,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "G",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 0,
+     "e": 0,
+     "p": 5,
+     "gf": 4,
+     "gc": 17,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "US Sassuolo Calcio es más fuerte de fondo (neto -0.21 vs -0.56): es más completo en general. Venezia FC juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.16 – 1.47; el modelo ve marcando más a US Sassuolo Calcio. Pero ojo: en forma reciente Venezia FC llega mejor que US Sassuolo Calcio, así que puede estar más cerca de lo que dice el neto.",
+    "recomendacion": {
+     "mercado": "X2",
+     "prob": 0.702,
+     "por_que": "Doble oportunidad: cubre que Venezia FC no gane. El escenario que queda afuera (gane Venezia FC) es el menos probable (30%), así que el mercado se cumple ~70% de las veces.",
+     "alternativa": null,
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 558503,
+   "competicion": "Serie A",
+   "competicion_codigo": "SA",
+   "fecha_utc": "2026-12-07T19:45:00Z",
+   "jornada": 14,
+   "local": "ACF Fiorentina",
+   "visitante": "Cagliari Calcio",
+   "prediccion": {
+    "prob_1": 0.474,
+    "prob_X": 0.259,
+    "prob_2": 0.267,
+    "goles_esperados": [
+     1.518,
+     1.072
+    ],
+    "prob_over_2_5": 0.479,
+    "prob_btts": 0.515,
+    "marcadores": [
+     [
+      "1-1",
+      0.1232
+     ],
+     [
+      "1-0",
+      0.1127
+     ],
+     [
+      "2-1",
+      0.0926
+     ]
+    ],
+    "cuotas_justas": [
+     2.11,
+     3.86,
+     3.75
+    ],
+    "resumen": "Gana ACF Fiorentina (ligero favorito, 47%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.096,
+     "defensa": -0.059,
+     "neto": 0.038,
+     "peso": 47.5,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.155,
+     "defensa": -0.045,
+     "neto": -0.2,
+     "peso": 47.4,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 9,
+     "gc": 11,
+     "racha": [
+      "P",
+      "E",
+      "G",
+      "E",
+      "P"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 1,
+     "e": 0,
+     "p": 4,
+     "gf": 4,
+     "gc": 10,
+     "racha": [
+      "P",
+      "P",
+      "P",
+      "G",
+      "P"
+     ]
+    },
+    "cara_a_cara": [
+     {
+      "fecha": "2026-01-24",
+      "local": "ACF Fiorentina",
+      "visitante": "Cagliari Calcio",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2025-08-24",
+      "local": "Cagliari Calcio",
+      "visitante": "ACF Fiorentina",
+      "goles_local": 1,
+      "goles_visitante": 1
+     },
+     {
+      "fecha": "2025-04-23",
+      "local": "Cagliari Calcio",
+      "visitante": "ACF Fiorentina",
+      "goles_local": 1,
+      "goles_visitante": 2
+     },
+     {
+      "fecha": "2024-12-08",
+      "local": "ACF Fiorentina",
+      "visitante": "Cagliari Calcio",
+      "goles_local": 1,
+      "goles_visitante": 0
+     },
+     {
+      "fecha": "2024-05-23",
+      "local": "Cagliari Calcio",
+      "visitante": "ACF Fiorentina",
+      "goles_local": 2,
+      "goles_visitante": 3
+     }
+    ],
+    "explicacion": "ACF Fiorentina es más fuerte de fondo (neto +0.04 vs -0.20): es más completo en general. ACF Fiorentina juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.52 – 1.07; el modelo ve marcando más a ACF Fiorentina. Y la forma reciente lo confirma: ACF Fiorentina llega mejor (1G-2E-2P vs 1G-0E-4P).",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.733,
+     "por_que": "Doble oportunidad: cubre que ACF Fiorentina no pierda. El escenario que queda afuera (gane Cagliari Calcio) es el menos probable (27%), así que el mercado se cumple ~73% de las veces.",
+     "alternativa": null,
+     "confianza": "alta"
+    }
+   }
+  },
+  {
+   "id": 564769,
+   "competicion": "La Liga",
+   "competicion_codigo": "PD",
+   "fecha_utc": "2026-12-07T20:00:00Z",
+   "jornada": 15,
+   "local": "Sevilla FC",
+   "visitante": "Málaga CF",
+   "prediccion": {
+    "prob_1": 0.628,
+    "prob_X": 0.23,
+    "prob_2": 0.143,
+    "goles_esperados": [
+     1.825,
+     0.742
+    ],
+    "prob_over_2_5": 0.473,
+    "prob_btts": 0.444,
+    "marcadores": [
+     [
+      "1-0",
+      0.1361
+     ],
+     [
+      "2-0",
+      0.1278
+     ],
+     [
+      "1-1",
+      0.1079
+     ]
+    ],
+    "cuotas_justas": [
+     1.59,
+     4.36,
+     7.01
+    ],
+    "resumen": "Gana Sevilla FC (claro favorito, 63%).",
+    "confianza": "alta"
+   },
+   "analisis": {
+    "fuerza_local": {
+     "ataque": 0.027,
+     "defensa": -0.047,
+     "neto": -0.019,
+     "peso": 48.2,
+     "fiable": true
+    },
+    "fuerza_visitante": {
+     "ataque": -0.444,
+     "defensa": -0.196,
+     "neto": -0.64,
+     "peso": 11.7,
+     "fiable": true
+    },
+    "forma_local": {
+     "pj": 5,
+     "g": 1,
+     "e": 2,
+     "p": 2,
+     "gf": 5,
+     "gc": 8,
+     "racha": [
+      "P",
+      "G",
+      "P",
+      "E",
+      "E"
+     ]
+    },
+    "forma_visitante": {
+     "pj": 5,
+     "g": 0,
+     "e": 1,
+     "p": 4,
+     "gf": 5,
+     "gc": 11,
+     "racha": [
+      "P",
+      "E",
+      "P",
+      "P",
+      "P"
+     ]
+    },
+    "cara_a_cara": [],
+    "explicacion": "Sevilla FC es más fuerte de fondo (neto -0.02 vs -0.64): es más completo en general. Sevilla FC juega en casa (~+32% de ventaja, ya contada). Goles esperados: 1.82 – 0.74; el modelo ve marcando más a Sevilla FC. Y la forma reciente lo confirma: Sevilla FC llega mejor (1G-2E-2P vs 0G-1E-4P).",
+    "recomendacion": {
+     "mercado": "1X",
+     "prob": 0.857,
+     "por_que": "Doble oportunidad: cubre que Sevilla FC no pierda. El escenario que queda afuera (gane Málaga CF) es el menos probable (14%), así que el mercado se cumple ~86% de las veces.",
+     "alternativa": {
+      "mercado": "12",
+      "prob": 0.77
+     },
+     "confianza": "alta"
+    }
+   }
+  }
+ ]
+}
