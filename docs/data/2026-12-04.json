@@ -1,6 +1,6 @@
 {
  "fecha": "2026-12-04",
- "actualizado": "2026-11-27T15:54:42+00:00",
+ "actualizado": "2026-11-28T14:49:51+00:00",
  "partidos": [
   {
    "id": 565882,
@@ -11,49 +11,49 @@
    "local": "FC Bayern München",
    "visitante": "SC Paderborn 07",
    "prediccion": {
-    "prob_1": 0.872,
+    "prob_1": 0.871,
     "prob_X": 0.092,
     "prob_2": 0.037,
     "goles_esperados": [
-     3.259,
-     0.605
+     3.246,
+     0.604
     ],
-    "prob_over_2_5": 0.741,
+    "prob_over_2_5": 0.739,
     "prob_btts": 0.438,
     "marcadores": [
      [
       "3-0",
-      0.1212
+      0.1214
      ],
      [
       "2-0",
-      0.1116
+      0.1122
      ],
      [
       "4-0",
-      0.0987
+      0.0985
      ]
     ],
     "cuotas_justas": [
      1.15,
-     10.92,
-     27.26
+     10.83,
+     27.05
     ],
     "resumen": "Gana FC Bayern München (claro favorito, 87%). se esperan goles (+2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.777,
-     "defensa": 0.338,
+     "ataque": 0.776,
+     "defensa": 0.339,
      "neto": 1.115,
      "peso": 41.7,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.412,
-     "defensa": 0.077,
-     "neto": -0.335,
+     "ataque": -0.414,
+     "defensa": 0.08,
+     "neto": -0.334,
      "peso": 9.1,
      "fiable": true
     },
@@ -88,11 +88,11 @@
      ]
     },
     "cara_a_cara": [],
-    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.11 vs -0.34): ataca ~117% más que el promedio, encaja ~29% menos. FC Bayern München juega en casa (~+26% de ventaja, ya contada). Goles esperados: 3.26 – 0.60; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (3G-2E-0P vs 1G-3E-1P).",
+    "explicacion": "FC Bayern München es más fuerte de fondo (neto +1.11 vs -0.33): ataca ~117% más que el promedio, encaja ~29% menos. FC Bayern München juega en casa (~+26% de ventaja, ya contada). Goles esperados: 3.25 – 0.60; el modelo ve marcando más a FC Bayern München. Y la forma reciente lo confirma: FC Bayern München llega mejor (3G-2E-0P vs 1G-3E-1P).",
     "recomendacion": {
      "mercado": "1",
-     "prob": 0.872,
-     "por_que": "FC Bayern München es favorito en casa: marca más (3.26 vs 0.60) y es más fuerte de fondo (neto +1.11 vs -0.34). Probabilidad: 87%.",
+     "prob": 0.871,
+     "por_que": "FC Bayern München es favorito en casa: marca más (3.25 vs 0.60) y es más fuerte de fondo (neto +1.11 vs -0.33). Probabilidad: 87%.",
      "alternativa": {
       "mercado": "1X",
       "prob": 0.963
@@ -110,32 +110,32 @@
    "local": "Bologna FC 1909",
    "visitante": "AS Roma",
    "prediccion": {
-    "prob_1": 0.242,
-    "prob_X": 0.249,
-    "prob_2": 0.509,
+    "prob_1": 0.239,
+    "prob_X": 0.253,
+    "prob_2": 0.508,
     "goles_esperados": [
-     1.044,
-     1.627
+     1.021,
+     1.604
     ],
-    "prob_over_2_5": 0.499,
-    "prob_btts": 0.522,
+    "prob_over_2_5": 0.488,
+    "prob_btts": 0.513,
     "marcadores": [
      [
       "1-1",
-      0.1186
+      0.1204
      ],
      [
       "0-1",
-      0.1115
+      0.1144
      ],
      [
       "1-2",
-      0.0956
+      0.0951
      ]
     ],
     "cuotas_justas": [
-     4.13,
-     4.01,
+     4.18,
+     3.95,
      1.97
     ],
     "resumen": "Gana AS Roma (ligero favorito, 51%).",
@@ -143,31 +143,31 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.119,
-     "defensa": 0.118,
-     "neto": 0.236,
-     "peso": 47.5,
+     "ataque": 0.098,
+     "defensa": 0.13,
+     "neto": 0.228,
+     "peso": 48.4,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.439,
-     "defensa": 0.351,
-     "neto": 0.79,
-     "peso": 47.4,
+     "ataque": 0.44,
+     "defensa": 0.35,
+     "neto": 0.791,
+     "peso": 47.3,
      "fiable": true
     },
     "forma_local": {
      "pj": 5,
-     "g": 4,
-     "e": 1,
+     "g": 3,
+     "e": 2,
      "p": 0,
-     "gf": 11,
+     "gf": 9,
      "gc": 5,
      "racha": [
       "G",
       "G",
       "G",
-      "G",
+      "E",
       "E"
      ]
     },
@@ -223,10 +223,10 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "AS Roma es más fuerte de fondo (neto +0.79 vs +0.24): ataca ~55% más que el promedio, encaja ~30% menos. Bologna FC 1909 juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.04 – 1.63; el modelo ve marcando más a AS Roma. En los últimos 5 van parejos, así que la ventaja viene de la calidad de temporada, no del momento.",
+    "explicacion": "AS Roma es más fuerte de fondo (neto +0.79 vs +0.23): ataca ~55% más que el promedio, encaja ~30% menos. Bologna FC 1909 juega en casa (~+12% de ventaja, ya contada). Goles esperados: 1.02 – 1.60; el modelo ve marcando más a AS Roma. Y la forma reciente lo confirma: AS Roma llega mejor (4G-1E-0P vs 3G-2E-0P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.758,
+     "prob": 0.761,
      "por_que": "Doble oportunidad: cubre que Bologna FC 1909 no gane. El escenario que queda afuera (gane Bologna FC 1909) es el menos probable (24%), así que el mercado se cumple ~76% de las veces.",
      "alternativa": null,
      "confianza": "alta"
@@ -242,32 +242,32 @@
    "local": "Toulouse FC",
    "visitante": "Paris Saint-Germain FC",
    "prediccion": {
-    "prob_1": 0.203,
-    "prob_X": 0.228,
+    "prob_1": 0.204,
+    "prob_X": 0.227,
     "prob_2": 0.569,
     "goles_esperados": [
-     1.07,
+     1.073,
      1.924
     ],
-    "prob_over_2_5": 0.575,
+    "prob_over_2_5": 0.576,
     "prob_btts": 0.565,
     "marcadores": [
      [
       "1-1",
-      0.1073
+      0.1065
      ],
      [
       "1-2",
       0.0992
      ],
      [
-      "0-2",
-      0.0928
+      "0-1",
+      0.0927
      ]
     ],
     "cuotas_justas": [
-     4.93,
-     4.38,
+     4.89,
+     4.4,
      1.76
     ],
     "resumen": "Gana Paris Saint-Germain FC (claro favorito, 57%).",
@@ -275,17 +275,17 @@
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": 0.052,
-     "defensa": 0.087,
-     "neto": 0.139,
-     "peso": 41.6,
+     "ataque": 0.054,
+     "defensa": 0.086,
+     "neto": 0.14,
+     "peso": 41.5,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": 0.541,
-     "defensa": 0.387,
+     "ataque": 0.543,
+     "defensa": 0.385,
      "neto": 0.928,
-     "peso": 42.4,
+     "peso": 42.3,
      "fiable": true
     },
     "forma_local": {
@@ -355,10 +355,10 @@
       "goles_visitante": 3
      }
     ],
-    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.93 vs +0.14): ataca ~72% más que el promedio, encaja ~32% menos. Toulouse FC juega en casa (~+22% de ventaja, ya contada). Goles esperados: 1.07 – 1.92; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (5G-0E-0P vs 2G-2E-1P).",
+    "explicacion": "Paris Saint-Germain FC es más fuerte de fondo (neto +0.93 vs +0.14): ataca ~72% más que el promedio, encaja ~32% menos. Toulouse FC juega en casa (~+23% de ventaja, ya contada). Goles esperados: 1.07 – 1.92; el modelo ve marcando más a Paris Saint-Germain FC. Y la forma reciente lo confirma: Paris Saint-Germain FC llega mejor (5G-0E-0P vs 2G-2E-1P).",
     "recomendacion": {
      "mercado": "X2",
-     "prob": 0.797,
+     "prob": 0.796,
      "por_que": "Doble oportunidad: cubre que Toulouse FC no gane. El escenario que queda afuera (gane Toulouse FC) es el menos probable (20%), así que el mercado se cumple ~80% de las veces.",
      "alternativa": {
       "mercado": "Más de 1.5 goles",
@@ -377,12 +377,12 @@
    "local": "Deportivo Alavés",
    "visitante": "RCD Espanyol de Barcelona",
    "prediccion": {
-    "prob_1": 0.433,
+    "prob_1": 0.432,
     "prob_X": 0.294,
-    "prob_2": 0.273,
+    "prob_2": 0.274,
     "goles_esperados": [
-     1.275,
-     0.954
+     1.272,
+     0.955
     ],
     "prob_over_2_5": 0.385,
     "prob_btts": 0.448,
@@ -393,34 +393,34 @@
      ],
      [
       "1-0",
-      0.1324
+      0.1323
      ],
      [
       "0-0",
-      0.1126
+      0.1127
      ]
     ],
     "cuotas_justas": [
-     2.31,
+     2.32,
      3.4,
-     3.66
+     3.65
     ],
     "resumen": "Gana Deportivo Alavés (ligero favorito, 43%). pocos goles (-2.5).",
     "confianza": "alta"
    },
    "analisis": {
     "fuerza_local": {
-     "ataque": -0.04,
+     "ataque": -0.041,
      "defensa": 0.04,
-     "neto": -0.0,
-     "peso": 48.1,
+     "neto": -0.001,
+     "peso": 48.0,
      "fiable": true
     },
     "fuerza_visitante": {
-     "ataque": -0.107,
+     "ataque": -0.109,
      "defensa": 0.095,
-     "neto": -0.012,
-     "peso": 43.0,
+     "neto": -0.014,
+     "peso": 42.9,
      "fiable": true
     },
     "forma_local": {
